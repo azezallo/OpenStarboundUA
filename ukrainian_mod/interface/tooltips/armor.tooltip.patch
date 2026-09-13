@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/statusList/schema/listTemplate/statusLabel/hAnchor",
-    "value": "ліворуч"
-  }
-]

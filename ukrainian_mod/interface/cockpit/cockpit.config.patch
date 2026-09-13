@@ -981,18 +981,8 @@
   },
   {
     "op": "replace",
-    "path": "/systemTooltipConfig/type/hAnchor",
-    "value": "ліворуч"
-  },
-  {
-    "op": "replace",
     "path": "/systemTooltipConfig/type/value",
     "value": "Лагідна зірка"
-  },
-  {
-    "op": "replace",
-    "path": "/systemTooltipConfig/explored/hAnchor",
-    "value": "праворуч"
   },
   {
     "op": "replace",

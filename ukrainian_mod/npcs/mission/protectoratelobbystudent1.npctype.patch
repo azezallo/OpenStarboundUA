@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Венд-мішина поглинула мої пікселі. Чи може цей день бути гіршим?"
+    "value": "Венд-машина поглинула мої пікселі. Чи може цей день бути гіршим?"
   },
   {
     "op": "replace",
