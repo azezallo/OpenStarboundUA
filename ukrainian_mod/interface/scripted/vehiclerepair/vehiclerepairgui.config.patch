@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": " Ремонтник"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": " Ремонт транспорту!"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/chipCostDescription/value",
+    "value": "ПОТРІБНІ ЧІПИ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/repairButton/caption",
+    "value": "Ремонт"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/cancel/caption",
+    "value": "Скас."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/emptyLabel/value",
+    "value": "Немає транспорту для ремонту!"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей шолом ніби викуваний із загадкового матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Таємничий шолом"
+  }
+]

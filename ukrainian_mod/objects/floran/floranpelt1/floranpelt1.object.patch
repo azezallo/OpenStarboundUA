@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика шкурка з густим блискучим хутром."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Велика коричнева шкіра"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Товста шкіра, можливо, використовується як утеплювач."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "З такої товстої шкури можна виготовити чудову накидку. Флорани ніби розвішують їх на стінах."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран селі часто холодний. Флоран теплий хусс зі шкірою. Заблокувати щілину в стіні."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Скептичний. Я чув, що істоті, з якої це походить, було понад 200 років."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Така велика шкурка. Флорани полюють на таких великих істот?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця шкура повинна зігрівати тварину, якій вона належала."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шкура. Корисно для збереження тепла стіни."
+  }
+]

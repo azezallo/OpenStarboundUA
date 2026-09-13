@@ -1,0 +1,147 @@
+[
+  {
+    "value": "Тонауак",
+    "path": "/npcname",
+    "op": "replace"
+  },
+  {
+    "value": "Ох! ... Відвідувач!",
+    "path": "/scriptConfig/dialog/tonauac/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ласкаво просимо до храму! Приємно бачити тебе тут. Я — ^orange;Тонауак^white;, хранитель храму.",
+    "path": "/scriptConfig/dialog/tonauac/start/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти тут, щоб дізнатися більше про нашого чудесного бога — Клуекса? У цьому я завжди радий допомогти! Ходімо.",
+    "path": "/scriptConfig/dialog/tonauac/start/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Тільки, будь ласка, нічого не чіпай. У нас були деякі інциденти зі злодіями в минулому.",
+    "path": "/scriptConfig/dialog/tonauac/start/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я знаю, що у тебе і в думках нічого такого не було, але на жаль, не всім можна довіряти...",
+    "path": "/scriptConfig/dialog/tonauac/start/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Будь ласка, заходь! Стеж за своєю головою і ногами... і взагалі за собою. Тут іноді трохи небезпечно.",
+    "path": "/scriptConfig/dialog/tonauac/continue/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ці церемоніальні маски дуже стародавні, і наповнені міццю Клуекса. Ну, ми так думаємо.",
+    "path": "/scriptConfig/dialog/tonauac/maskDescription/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вони такі стародавні — несхоже, що ми на правильному шляху... Але ми точно знаємо, що Клуекс обожнював маски!",
+    "path": "/scriptConfig/dialog/tonauac/maskDescription/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Це наш священний вівтар. Ось дивись — усюди канавки для стікання крові.",
+    "path": "/scriptConfig/dialog/tonauac/altarDescription/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "А храм — один із тих, що побудував сам Клуекс.",
+    "path": "/scriptConfig/dialog/tonauac/altarDescription/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Боже! Він всемогутній і чудесний, чи не так?",
+    "path": "/scriptConfig/dialog/tonauac/altarDescription/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Це статуя старого авіанського воїна! Ось тут його списи...",
+    "path": "/scriptConfig/dialog/tonauac/statueDescription/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Але вони йому вже не потрібні, тому що він, ем, мертвий.",
+    "path": "/scriptConfig/dialog/tonauac/statueDescription/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Що ж, сподіваюся, тобі було цікаво! Можеш ще трохи побродити тут.",
+    "path": "/scriptConfig/dialog/tonauac/endTour/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Шкода, але ці останні двері зачинені для відвідувачів. Вони тільки для хранителів і жерців.",
+    "path": "/scriptConfig/dialog/tonauac/endTour/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Втім, нагорі теж є, що подивитися. Ходімо, зараз я відчиню двері.",
+    "path": "/scriptConfig/dialog/tonauac/endTour/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "ПРОШУ, не ходи далі вглиб храму, це занадто небезпечно...",
+    "path": "/scriptConfig/dialog/tonauac/feelingTired/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мм, так приємно заводити друзів. Але ці екскурсії, вони... злегка... стомлюють...",
+    "path": "/scriptConfig/dialog/tonauac/feelingTired/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ох, ось ти де! Добре, що з тобою нічого не сталося! Я думав, ти загубився... адже тобі тут не можна бути...",
+    "path": "/scriptConfig/dialog/tonauac/doorGreeting/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Взагалі, мені тут теж не можна бути — ніколи не заходив так глибоко у храм...",
+    "path": "/scriptConfig/dialog/tonauac/doorGreeting/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо чесно, схоже, що я і сам загубився... Але, між нами, я впевнений, що ми зможемо вибратися!",
+    "path": "/scriptConfig/dialog/tonauac/doorGreeting/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ці двері занадто вузькі для мене. А ось ти, я впевнений, протиснешся.",
+    "path": "/scriptConfig/dialog/tonauac/doorOpened/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Подивися поки що там, а я пошукаю вихід з цього боку.",
+    "path": "/scriptConfig/dialog/tonauac/doorOpened/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "... Я зрозумів, що ти щось затівав! Весь цей час!",
+    "path": "/scriptConfig/dialog/tonauac/giveRelic/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти тут, щоб служити Клуексу! У сенсі, ти ж не міг зайти так далеко без його допомоги.",
+    "path": "/scriptConfig/dialog/tonauac/giveRelic/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Це означає, що цей артефакт твій по праву: в кристалах аволіту приховані часточки сили Клуекса!",
+    "path": "/scriptConfig/dialog/tonauac/giveRelic/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Прошу, можна мені піти з тобою? Я відданий і щирий слуга Клуекса — обіцяю, що не підведу!",
+    "path": "/scriptConfig/dialog/tonauac/giveRelic/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Телепорт! Хвала Клуексу! Ох, він дивовижний.",
+    "path": "/scriptConfig/dialog/tonauac/end/default/default/0",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "«Ідеальний зразок руди дюрастіл»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зразок Durasteel"
+  }
+]

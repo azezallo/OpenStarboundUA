@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Я б не хотів опинитися замкненим за цими товстими залізними гратами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Двері із залізної решітки"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Залізні двері камери."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Птахи використовували двері, схожі на ці, щоб охороняти свої гробниці."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Важкі залізні двері захищають смаколики."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Це виглядає схоже на двері камери в підземеллях Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже на двері, які можна знайти в камері."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гнітючі двері."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Б’юся об заклад, за такими дверима опинилися якісь поганці."
+  }
+]

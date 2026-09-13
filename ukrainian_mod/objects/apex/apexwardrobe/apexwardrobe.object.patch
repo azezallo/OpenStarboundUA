@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже простий гардероб масового виробництва."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стандартний випуск Гардероб"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Опір колись зберігав свої маскування в цих гардеробах..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Без маркування, без декору."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "гардероб? Такі речі набридли Флорану."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Без натхнення. Такі меблі нічого не роблять для розуму."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ніби хтось дуже потрудився, щоб цей гардероб був нудним."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можливо, щось цікаве ховається всередині. Зовнішній вигляд може бути оманливим."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця шафа чудово підійде для зберігання моїх скивів."
+  }
+]

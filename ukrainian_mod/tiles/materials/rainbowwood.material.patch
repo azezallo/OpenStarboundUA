@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Грубая і необработанная, ета древесіна імеет радужную сердцевіну.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Необработанная радужная древесіна",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Отчйот. Необработанная радужная древесіна.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Сссирая радужная древесссіна.",
+    "path": "/floranDescription",
+    "op": "replace"
+  }
+]

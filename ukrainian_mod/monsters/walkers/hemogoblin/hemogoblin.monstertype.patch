@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Hemogoblin"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Насправді він покритий червоною шкірою, але все одно досить грубий."
+  }
+]

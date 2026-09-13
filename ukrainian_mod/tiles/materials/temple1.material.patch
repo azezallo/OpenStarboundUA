@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Храмовий блок"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стародавні камені з хитромудрим різьбленням істот, подряпаних на поверхні."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. На цих каменях зображена невідома мова."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran likes sstone picturess."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Старі блоки з якоюсь різьбою."
+  }
+]

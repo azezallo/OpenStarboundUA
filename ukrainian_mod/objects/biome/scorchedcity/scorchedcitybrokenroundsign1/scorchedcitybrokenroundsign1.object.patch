@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дорожній знак, він погнутий і поржавів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Занедбаний іржавий знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей знак зламався, зараз від нього мало користі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Знак, який колись використовувався в місті, на жаль, іржавіє."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssign поржавів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Сумно. Занедбаний знак, який втратив своє використання багато років тому."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже на старий знак зупинки, але він поржавів і ламається."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Знак, що заіржавів, поволі ламається."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я ніколи не звертав особливої ​​уваги на знаки, точно не почну зараз."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тепер ти можеш бути претендентом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Боксерська рукавичка"
+  }
+]

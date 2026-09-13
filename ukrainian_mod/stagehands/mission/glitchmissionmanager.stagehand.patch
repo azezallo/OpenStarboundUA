@@ -1,0 +1,92 @@
+[
+  {
+    "value": "Образа. Ці розбійники прикотили бойову машину! Мені не потрібна зруйнована фортеця, ти повинен знищити цю балісту!",
+    "path": "/radioMessages/firstBallista/0",
+    "op": "replace"
+  },
+  {
+    "value": "Барон",
+    "path": "/radioMessages/firstBallista/2",
+    "op": "replace"
+  },
+  {
+    "value": "Паніка. Баліста! Мої прекрасні стіни! Захисти мої прекрасні стіни!",
+    "path": "/radioMessages/wallAttacked/0",
+    "op": "replace"
+  },
+  {
+    "value": "Барон",
+    "path": "/radioMessages/wallAttacked/2",
+    "op": "replace"
+  },
+  {
+    "value": "Відчай. Тільки не ще одна баліста! Врятуй мою фортецю!",
+    "path": "/radioMessages/additionalBallista/0",
+    "op": "replace"
+  },
+  {
+    "value": "Барон",
+    "path": "/radioMessages/additionalBallista/2",
+    "op": "replace"
+  },
+  {
+    "value": "Хвилювання. Нас беруть в облогу з усіх боків! Вони прислали ще більше піхоти та лучників, і... О ні! Вони в небі! Ці фіолетові шавки нападають із повітря!",
+    "path": "/radioMessages/firstAirforce/0",
+    "op": "replace"
+  },
+  {
+    "value": "Барон",
+    "path": "/radioMessages/firstAirforce/2",
+    "op": "replace"
+  },
+  {
+    "value": "Хвилювання. Прийом? Це я. Перепрошую, але - до вас прибувають ще культисти. Будь ласка, не хвилюйся: ми допоможемо тобі! Я буду тільки заважати, але інші вже спускаються вниз!",
+    "path": "/radioMessages/reinforcements/0",
+    "op": "replace"
+  },
+  {
+    "value": "Коїчі",
+    "path": "/radioMessages/reinforcements/2",
+    "op": "replace"
+  },
+  {
+    "value": "Радість. Ха-ха! З ними покінчено! Ми розібралися з останнім із цих мерзенних опаришів! Я можу радіти! Підійди, я хочу поговорити з тобою...",
+    "path": "/radioMessages/finalWaveComplete/0",
+    "op": "replace"
+  },
+  {
+    "value": "Барон",
+    "path": "/radioMessages/finalWaveComplete/2",
+    "op": "replace"
+  },
+  {
+    "value": "Роздратування. Чудово, це ти... Значить, \"мумія\" послала тебе на чергове завдання. Покінчімо з цим.",
+    "path": "/radioMessages/noxGreeting/0",
+    "op": "replace"
+  },
+  {
+    "value": "Нокс",
+    "path": "/radioMessages/noxGreeting/2",
+    "op": "replace"
+  },
+  {
+    "value": "Констатація. Ми тут закінчили! У будь-якому разі це безглуздо. Ти не зміг нічого зупинити. Усе це скоро зникне.",
+    "path": "/radioMessages/noxBeamout/0",
+    "op": "replace"
+  },
+  {
+    "value": "Нокс",
+    "path": "/radioMessages/noxBeamout/2",
+    "op": "replace"
+  },
+  {
+    "value": "Обережність. Все закінчилося? Ти цілий? Якщо все закінчилося, то мені потрібно поговорити з тобою.",
+    "path": "/radioMessages/bossDefeated/0",
+    "op": "replace"
+  },
+  {
+    "value": "Барон",
+    "path": "/radioMessages/bossDefeated/2",
+    "op": "replace"
+  }
+]

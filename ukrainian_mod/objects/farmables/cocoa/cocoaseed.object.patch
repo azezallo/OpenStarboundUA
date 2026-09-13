@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рослина какао. Після дозрівання стручки можна перетворити на шоколад."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння какао"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Джерело какао, яке використовується для приготування смачного шоколаду."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "З вмісту какао-стручка можна зробити смачну пасту."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Коли стручки дозріють, Флоран може приготувати смачну пасту."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Рослина какао, походження шоколаду."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Какао - це те, з чого виготовляють шоколад! Це шоколадне дерево!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Сонце, вода і трішки терпіння – ось секрет щедрого врожаю."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шоколад росте на деревах."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дещо дивне тіло механіка. Його оригінальний дизайнер невідомий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Beat Mech Body"
+  }
+]

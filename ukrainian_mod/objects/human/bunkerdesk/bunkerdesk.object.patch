@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Офісний стіл з вбудованим монітором. Схоже, хтось займався кодуванням."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Металевий офісний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей стіл має вбудований монітор."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Звичайний стіл із приклеєним до нього монітором."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Desssk із приклеєним до нього ssscreen."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цинічно. Вбудована електроніка часто поступається своїм окремим аналогам. За винятком випадку з глітчем, звичайно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей монітор вбудовується в стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вбудований монітор. Розумне поєднання технологій і комфорту."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Екран прилип до столу."
+  }
+]

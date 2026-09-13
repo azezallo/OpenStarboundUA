@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Найкращі меблі з усього Всесвіту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Frögg Furnishing"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це один із тих торговців жабами. Цей торгує меблями."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хто цей цікавий купець? Його меблі прекрасні."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран злегка наляканий мовчазною жабою."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Ця жаба має кілька зручних на вигляд виробів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця дивна амфібія торгує досить гарними меблями."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця істота має вражаючу колекцію меблів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Не побачиш тут багато торговців жабами!"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Frögg меблі"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Тематичні меблі, кожен день інший комплект!"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Торговець жабами"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Дивний розносник-амфібія"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Торговець-жаба. Що це насправді, чи чого він хоче, ніхто не знає."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Торговець жабами"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мовчазний торговець-жаба. Незвичайний."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хто цей цікавий купець?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран злегка злякався мовчазної жаби."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Здається, ця жаба не бажає спілкуватися."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якщо я поцілую його, ти думаєш, він перетвориться на принца-торговця?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця мовчазна істота не одна з нас."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Не побачиш тут багато торговців жабами!"
+  }
+]

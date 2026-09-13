@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Яскраве флуоресцентне світло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Люмінесцентне світло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Світло тут неприродне і непривабливе."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це світло різке і холодне."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Потворне світло, Флоран віддає перевагу sssunlight."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "роздратований. Під час увімкнення світло тихо дзижчить."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я завжди ненавидів такі вогні."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Світло, яке випромінює, дуже синтетичне."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це дивне світло дзижчить, як мухи навколо мула."
+  }
+]

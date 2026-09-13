@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "<Таймер. Коли вам потрібен час, щоб втекти.>"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ливарний таймер (1 с)"
+  }
+]

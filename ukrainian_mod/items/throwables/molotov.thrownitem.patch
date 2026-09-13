@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Молотова"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рідина в цій пляшці є легкозаймистою."
+  }
+]

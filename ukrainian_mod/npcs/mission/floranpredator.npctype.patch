@@ -1,0 +1,127 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "value": "Зловмисник!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/0",
+    "value": "I sssee you!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/1",
+    "value": "Attack!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/2",
+    "value": "Флоран побачив суперника!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/3",
+    "value": "Розбийте їх!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/4",
+    "value": "Флоран виведе вас!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/5",
+    "value": "Флорана не поб'ють у Полюванні!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/6",
+    "value": "Від мене не втечеш!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/7",
+    "value": "Полювання розпочато!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/8",
+    "value": "Без виходу!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/9",
+    "value": "Нехай ігри починаються!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/10",
+    "value": "Час дати шассе!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/11",
+    "value": "Виходь і грайся з Флораном!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/12",
+    "value": "Ти мене не зупиниш!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/13",
+    "value": "Флоран бачить тебе, дивний мисливець!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/14",
+    "value": "Ти не переможеш мене в Полюванні!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/15",
+    "value": "Суперник! Незнайомець!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/16",
+    "value": "Ви не можете перешкодити мені виграти Полювання!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/17",
+    "value": "Нуру не зможе перемогти мене цього разу, і ти теж!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/18",
+    "value": "Пора здолати конкуренцію!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/19",
+    "value": "Принаймні ти не Нуру!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/20",
+    "value": "Ти не найкращий мисливець!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/21",
+    "value": "Ти згинеш у цих печерах, незнайомець!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/22",
+    "value": "Флоран не дозволить аутсайдеру перемогти!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/23",
+    "value": "Перемога не дістанеться тобі, аутсайдере!"
+  }
+]

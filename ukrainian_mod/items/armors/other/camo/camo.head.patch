@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Опустіть голову, і ви можете просто залишитися непоміченим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Камуфляжний шолом"
+  }
+]

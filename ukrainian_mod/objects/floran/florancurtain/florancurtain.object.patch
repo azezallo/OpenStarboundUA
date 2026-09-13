@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Завіса, або плита напіввисушеного, напівз'їденого м'яса. Один із двох."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Первісна завіса"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця завіса, здається, не має жодної мети."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "У цій шторі є дірки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран використовує м’ясо, щоб накрити сонце, коли сонце гаряче."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Ця завіса зроблена з м'яса."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не впевнений, чи це завіса, чи якесь м’ясо, що висить на поручні..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я не хочу торкатися цієї... завіси."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ну, це один із способів приготувати в’ялене м’ясо."
+  }
+]

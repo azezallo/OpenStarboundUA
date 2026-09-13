@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Газ, що виділяється з цих жолобів, збільшує вашу руйнівну силу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підсилювач потужності"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Схоже, що ця машина підвищує потужність суб’єкта, який піддається впливу газу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Газ має різкий запах, від нього я відчуваю дивну енергію."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гасс змушує Флорана почуватися сильним!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підозрілий. Схоже, що цей пристрій має міцні властивості."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Одного подиху цього газу достатньо, щоб я почувався сильним."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Смердючий газ, який зміцнює ваше тіло та розум."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Здається, цей газ збільшує мою силу."
+  }
+]

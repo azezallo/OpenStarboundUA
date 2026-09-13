@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Помітна пара рогів. Якій істоті вони належали?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Декоративні роги"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кріплення рогів на стіну - марна трата ресурсів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Який грубий показ."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран схвалює мисливський трофей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. При ближчому розгляді ці роги здаються штучними."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Орнаменти з рогів - це класична прикраса...не знаю чому."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Незважаючи на те, що він явно штучний, це все одно грубий орнамент."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці роги трохи нахабні, чи не так?"
+  }
+]

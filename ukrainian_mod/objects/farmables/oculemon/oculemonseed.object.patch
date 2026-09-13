@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ірис - найкраща частина цього дивного плоду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння окулемона"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Окулемон нагадує мені велику мавпу. Це вічно пильне око."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кислий плід з пронизливим поглядом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Наступна найкраща річ для eyeballsss. Вони подобаються Флорану, інші занепокоєні."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інтроспективний. Чи може цей плід вікно у власну душу?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "З усіх фруктів у всьому всесвіті окулемон може бути найжахливішим."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Частини окулемона смертельні, якщо їх ретельно не підготувати."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Чи повинен фрукт озиратися на вас? я не знаю..."
+  }
+]

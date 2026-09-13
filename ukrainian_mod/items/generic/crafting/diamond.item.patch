@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це чудово огранений діамант."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "діамант"
+  }
+]

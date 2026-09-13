@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шолом із дюрастелі, створений для захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Озеро Хельм"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Висока ємність, повна киплячої розплавленої рідини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Малий ківш"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Розплавлена ​​рідина в цій ємності слабко світиться."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей контейнер містить перегріті розплавлені рідини."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Палаюча рідина не пузириться і світиться."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Цей контейнер якось підтримує рівень температури рідини всередині?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Тепло, яке випромінює рідина всередині, надзвичайно високе."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей контейнер містить розплавлену рідину всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Рідина, що знаходиться тут, знижує потужний нагрів."
+  }
+]

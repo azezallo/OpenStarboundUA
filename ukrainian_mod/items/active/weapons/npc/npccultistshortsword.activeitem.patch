@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Короткий меч, який належав сектантові."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Короткий меч культиста NPC"
+  }
+]

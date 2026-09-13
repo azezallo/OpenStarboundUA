@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шматочок неондині зі смаком жувальної гумки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Неондиня"
+  }
+]

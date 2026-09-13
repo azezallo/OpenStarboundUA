@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це можна використовувати для створення пакетів стимуляторів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Медичний шприц"
+  }
+]

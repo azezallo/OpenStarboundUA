@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Оновити уніформу екіпажу?"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "<name>, <rank>"
+  },
+  {
+    "op": "replace",
+    "path": "/message",
+    "value": "\n\nОбожнюю це вбрання! Зробити уніформою?"
+  },
+  {
+    "op": "replace",
+    "path": "/okCaption",
+    "value": "Звісно"
+  },
+  {
+    "op": "replace",
+    "path": "/cancelCaption",
+    "value": "Не зараз"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "  Планетарний тераформер"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "  ^#b9b5b2;Змінюйте цілі планети за допомогою Есенції!"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblCurrentStatus/value",
+    "value": "Очікування статусу..."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblEssenceLabel/value",
+    "value": "^green;ЕСЕНЦІЯ^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/statusMessages/worldComplete",
+    "value": "^gray;Тераформування світу завершено."
+  },
+  {
+    "op": "replace",
+    "path": "/statusMessages/connecting",
+    "value": "^yellow;З'єднання з тераформером..."
+  },
+  {
+    "op": "replace",
+    "path": "/statusMessages/active",
+    "value": "^yellow;Тераформування триває..."
+  },
+  {
+    "op": "replace",
+    "path": "/statusMessages/insufficientEssence",
+    "value": "^red;Недостатньо Есенції!"
+  },
+  {
+    "op": "replace",
+    "path": "/statusMessages/maxStepSize",
+    "value": "^gray;Етап тераформування обмежений %s секторами."
+  },
+  {
+    "op": "replace",
+    "path": "/errorMessages/needSurface",
+    "value": "Має бути розміщено на поверхні планети!"
+  },
+  {
+    "op": "replace",
+    "path": "/errorMessages/tooClose",
+    "value": "Занадто близько до іншого активного тераформера!"
+  },
+  {
+    "op": "replace",
+    "path": "/errorMessages/alreadyActive",
+    "value": "Тераформування вже триває!"
+  },
+  {
+    "op": "replace",
+    "path": "/errorMessages/worldComplete",
+    "value": "Планета вже повністю тераформована!"
+  },
+  {
+    "op": "replace",
+    "path": "/errorMessages/noExpansion",
+    "value": "Цільовий розмір має бути більшим за поточний!"
+  }
+]

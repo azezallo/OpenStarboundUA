@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Красиві тканини та одяг прикрашають цей милий маленький кіоск."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ринок одягу кіоск"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Вибір яскравого одягу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Приземлені віддають перевагу яскравому одягу, який розвівається вітром."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Птахів легко помітити в яскравому одязі. Ніколи б не вижив у Флоранських джунглях."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Невпевнений. Я не знаю моди."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Такий барвистий одяг."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей одяг прекрасний. Такі кольори втрачають свою яскравість під хвилями."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це деякі могутні фантазійні чуприни."
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/instructionLabel/value",
+    "value": "В капсулу (ПКМ)"
+  }
+]

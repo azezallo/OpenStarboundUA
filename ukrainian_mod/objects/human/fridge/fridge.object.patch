@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеально підходить для зберігання великої кількості продуктів і збереження їх свіжості."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Повнорозмірний холодильник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Холодильник. Сподіваюся, він містить банановий молочний коктейль."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Холодильник. Ідеально наповнений напоями та закусками."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран відчуває запах м'яса всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Цей холодильник працює при оптимальній температурі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я практично вібрую від хвилювання, думаючи про можливий вміст."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Під водою охолоджувати легше. Ці пристрої є розумною заміною."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Звичайний старий холодильник."
+  }
+]

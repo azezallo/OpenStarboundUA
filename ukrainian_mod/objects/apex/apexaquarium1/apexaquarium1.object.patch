@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Подивіться! рибки!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яний акваріум"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Удома у мене був друг із зеленою рибою в акваріумі. Він протримався недовго."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця істота розрізає воду, як можна літати в повітрі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ооо, снек-бар."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Емпатичний. Ця форма життя в пастці."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це нагадує мені старовинні людські меблі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Одного разу я звільню тебе, брате."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Одна риба. Може, для цього потрібен друг?"
+  }
+]

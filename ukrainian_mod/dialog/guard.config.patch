@@ -1,0 +1,357 @@
+[
+  {
+    "op": "replace",
+    "path": "/hail/default/default/0",
+    "value": "Я стежу за тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/default/default/1",
+    "value": "Тримайся правильного шляху, ти."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/default/default/2",
+    "value": "Ми не терпимо тут негідників."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/default/default/3",
+    "value": "Проходь повз."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/glitch/default/0",
+    "value": "*Обережність.* Поводься чемно."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/glitch/default/1",
+    "value": "*Підозра.* Яка твоя мета тут?"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/glitch/default/2",
+    "value": "*Недосвідченість.* Ой!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/glitch/default/3",
+    "value": "*Тривога.* Хто ти?"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/glitch/default/4",
+    "value": "*Оптимізм.* Я впевнений, що ти не завдаш клопоту."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/glitch/default/5",
+    "value": "*Стриманість.* З тобою не буде проблем..."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/glitch/default/6",
+    "value": "*Суворість.* Поводься чемно."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/glitch/default/7",
+    "value": "*Нещирість.* Май абсолютно чудовий день."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/glitch/default/8",
+    "value": "*Зневага.* Спробуй не загинути."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/glitch/default/9",
+    "value": "*Стурбованість.* Чи варто тобі тут бути?"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/human/default/0",
+    "value": "Обережно, незнайомцю."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/human/default/1",
+    "value": "Тримайся подалі від неприємностей."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/human/default/2",
+    "value": "Не... Просто нічого не роби."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/human/default/3",
+    "value": "Спробуй нічого не зруйнувати."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/human/default/4",
+    "value": "Я стежу за тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/human/default/5",
+    "value": "Тобі краще нічого не пробувати."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/human/default/6",
+    "value": "Я дуже крутий, краще не переходь мені дорогу."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/human/default/7",
+    "value": "Привіт! Я маю на увазі... Гррр."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/human/default/8",
+    "value": "Що тобі тут потрібно?"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/human/default/9",
+    "value": "На що витріщився?"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/default/0",
+    "value": "Тримайсся подалі від неприємностей."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/default/1",
+    "value": "Флорану не подобається твоє обличчяссс."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/default/2",
+    "value": "Ніяких дурницьссс."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/default/3",
+    "value": "Поводьсся чемно."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/default/4",
+    "value": "Флоран хочессс штрикнути щосссь..."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/default/5",
+    "value": "Флоран голоднийссс..."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/default/6",
+    "value": "Дай Флорану причинуссс."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/default/7",
+    "value": "Не спокушай Флоранассс."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/default/8",
+    "value": "Проходь, незнайомцюссс."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/default/9",
+    "value": "Порушники ссмачні."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/apex/default/0",
+    "value": "Мовчи, мандрівнику, і не завдавай клопоту."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/apex/default/1",
+    "value": "Коріться Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/apex/default/2",
+    "value": "Великий Мавп стежить за тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/apex/default/3",
+    "value": "Акти агресії не будуть терпітися."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/apex/default/4",
+    "value": "Кожна дія має наслідки."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/apex/default/5",
+    "value": "Слава Великому Мавпу! Святкуйте його славне правління!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/apex/default/6",
+    "value": "Я люблю Великого Мавпа."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/apex/default/7",
+    "value": "Великий Мавп любить нас усіх, крім тих, кого не любить."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/apex/default/8",
+    "value": "Рот на замку, очі вперед."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/apex/default/9",
+    "value": "Вклоніться Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/hylotl/default/0",
+    "value": "Будьмо миролюбними, і нехай спокій панує над нашою зустріччю."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/hylotl/default/1",
+    "value": "Сподіваюся, ми зможемо тримати нашу зброю в піхвах і кобурах."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/hylotl/default/2",
+    "value": "Йдіть з миром, незнайомцю."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/hylotl/default/3",
+    "value": "Ми просимо лише, щоб ви поводилися з повагою в межах нашої юрисдикції."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/hylotl/default/4",
+    "value": "Перейдіть мені дорогу, і я буду змушений вдарити."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/hylotl/default/5",
+    "value": "Сподіваюся, безтурботність нашого оточення вплине на ваші дії."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/hylotl/default/6",
+    "value": "Хайлотли-воїни тренуються від народження."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/hylotl/default/7",
+    "value": "Я прошу вас не паплюжити це місце непотрібною агресією."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/hylotl/default/8",
+    "value": "Не випробовуйте мене."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/hylotl/default/9",
+    "value": "Ласкаво просимо, незнайомцю. Ви тут, щоб захоплюватися нашою культурою?"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/avian/default/0",
+    "value": "Не випробовуй мене."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/avian/default/1",
+    "value": "Якщо ми будемо битися, ти програєш."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/avian/default/2",
+    "value": "Боюся, я повинен попросити тебе йти далі."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/avian/default/3",
+    "value": "Сподіваюсь, ви приємно проведете тут час."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/avian/default/4",
+    "value": "Тільки намагайся не пускати кота між голубів."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/avian/default/5",
+    "value": "Тобі тут раді, поки ти поважаєш наш дім."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/avian/default/6",
+    "value": "Я зараз не можу тренуватися..."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/avian/default/7",
+    "value": "Сподіваюсь, ми порозуміємося."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/avian/default/8",
+    "value": "Поки ти нічого не ламаєш і нікого не вбиваєш, тобі тут раді."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/avian/default/9",
+    "value": "Авіани були видатними воїнами з незапам'ятних часів."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/novakid/default/0",
+    "value": "Не здіймай тут галасу, леґіню."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/novakid/default/1",
+    "value": "Якщо не плануєш робити шкоду, то ми файно порозуміємось."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/novakid/default/2",
+    "value": "Ми файно ставимося до незнайомців, поки вони не роблять шкоди, йо."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/novakid/default/3",
+    "value": "Щось не згадаю, ми тебе тут раніше виділи, га?"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/novakid/default/4",
+    "value": "Сподіваюсь, тобі сподобається наше старе село, леґіню. Тільки не роби шкоди."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/novakid/default/5",
+    "value": "Останнім часом тут крутяться злодії. Ми не любимо тих, хто краде, йо."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/novakid/default/6",
+    "value": "Здоров, ґаздо!"
+  }
+]

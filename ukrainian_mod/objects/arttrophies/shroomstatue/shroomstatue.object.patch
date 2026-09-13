@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Статуя гриба."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуя гриба"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Велична статуя гриба."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це справді великий гриб."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гарний грибний камінь."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Блаженний. Я хочу сісти біля цієї статуї."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дійсно велика статуя гриба."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Великий гриб зі скелі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Той, хто вирізав цю скелю, напевно любить гриби."
+  }
+]

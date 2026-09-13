@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Якось не так страшно, як можна було очікувати."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Голова піраміди"
+  }
+]

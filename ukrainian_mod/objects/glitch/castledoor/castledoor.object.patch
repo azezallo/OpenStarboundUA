@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцні та надійні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці двері, хоч і дерев’яні, міцні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці двері набагато міцніші, ніж здаються."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Двері ссо міцні."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гордий. Ці двері посилені, щоб зробити їх більш безпечними."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Важкі двері із заґратованим вікном."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ідеальні двері для оборонної споруди."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Надійні, міцні двері."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Hanging desert rocks."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Висячі скелі пустелі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssandy rocks."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. Hanging desert rocks."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Золота качка!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Золота качечка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленька золота качечка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці речі насправді дуже цінні."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискуча маленька качечка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Закоханий. Це чарівно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чарівна маленька качечка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Каченя, увічнене золотом."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Суцільна золота качка."
+  }
+]

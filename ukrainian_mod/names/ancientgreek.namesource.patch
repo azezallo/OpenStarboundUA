@@ -1,0 +1,4012 @@
+[
+  {
+    "op": "replace",
+    "path": "/sourceNames/0",
+    "value": "Agrius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/1",
+    "value": "Alcyoneus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/2",
+    "value": "Chthonius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/3",
+    "value": "Clytius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/4",
+    "value": "Enceladus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/5",
+    "value": "Ephialtes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/6",
+    "value": "Eurymedon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/7",
+    "value": "Eurytus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/8",
+    "value": "Gration"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/9",
+    "value": "Hippolytus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/10",
+    "value": "Leon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/11",
+    "value": "Mimas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/12",
+    "value": "Pallas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/13",
+    "value": "Polybotes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/14",
+    "value": "Porphyrion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/15",
+    "value": "Thoas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/16",
+    "value": "Otus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/17",
+    "value": "Ephialtes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/18",
+    "value": "Anax"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/19",
+    "value": "Antaeus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/20",
+    "value": "Antiphates"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/21",
+    "value": "Argus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/22",
+    "value": "Asterius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/23",
+    "value": "Cacus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/24",
+    "value": "Arges"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/25",
+    "value": "Brontes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/26",
+    "value": "Steropes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/27",
+    "value": "Polyphemus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/28",
+    "value": "Gegenees"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/29",
+    "value": "Geryon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/30",
+    "value": "Hekatonkheires"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/31",
+    "value": "Briareus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/32",
+    "value": "Cottus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/33",
+    "value": "Gyges"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/34",
+    "value": "Orion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/35",
+    "value": "Talos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/36",
+    "value": "Tityos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/37",
+    "value": "Typhon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/38",
+    "value": "Adephagia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/39",
+    "value": "Adikia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/40",
+    "value": "Aergia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/41",
+    "value": "Agon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/42",
+    "value": "Aidos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/43",
+    "value": "Aisa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/44",
+    "value": "Alala"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/45",
+    "value": "Alastor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/46",
+    "value": "Aleia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/47",
+    "value": "Achos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/48",
+    "value": "Ania"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/49",
+    "value": "Lupe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/50",
+    "value": "Alke"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/51",
+    "value": "Amechania"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/52",
+    "value": "Amphilogiai"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/53",
+    "value": "Anaideia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/54",
+    "value": "Androktasiai"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/55",
+    "value": "Angelia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/56",
+    "value": "Apate"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/57",
+    "value": "Apheleia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/58",
+    "value": "Aporia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/59",
+    "value": "Arae"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/60",
+    "value": "Arete"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/61",
+    "value": "Bia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/62",
+    "value": "Caerus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/63",
+    "value": "Corus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/64",
+    "value": "Deimos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/65",
+    "value": "Dikaiosyne"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/66",
+    "value": "Dike"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/67",
+    "value": "Dolos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/68",
+    "value": "Dysnomia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/69",
+    "value": "Dyssebeia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/70",
+    "value": "Eirene"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/71",
+    "value": "Ekecheiria"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/72",
+    "value": "Eleos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/73",
+    "value": "Elpis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/74",
+    "value": "Epiphron"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/75",
+    "value": "Eris"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/76",
+    "value": "Anteros"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/77",
+    "value": "Eros"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/78",
+    "value": "Hedylogos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/79",
+    "value": "Hermaphroditus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/80",
+    "value": "Himeros"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/81",
+    "value": "Hymen"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/82",
+    "value": "Pothos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/83",
+    "value": "Eucleia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/84",
+    "value": "Eulabeia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/85",
+    "value": "Eunomia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/86",
+    "value": "Eupheme"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/87",
+    "value": "Eupraxia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/88",
+    "value": "Eusebeia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/89",
+    "value": "Eunia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/90",
+    "value": "Gelos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/91",
+    "value": "Geras"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/92",
+    "value": "Harmonia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/93",
+    "value": "Hebe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/94",
+    "value": "Hedone"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/95",
+    "value": "Heimarmene"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/96",
+    "value": "Homados"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/97",
+    "value": "Homonoia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/98",
+    "value": "Horkos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/99",
+    "value": "Horme"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/100",
+    "value": "Hybris"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/101",
+    "value": "Hypnos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/102",
+    "value": "Ioke"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/103",
+    "value": "Kakia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/104",
+    "value": "Kalokagathia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/105",
+    "value": "Keres"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/106",
+    "value": "Koalemos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/107",
+    "value": "Kratos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/108",
+    "value": "Kydoimos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/109",
+    "value": "Le"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/110",
+    "value": "Limos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/111",
+    "value": "Litae"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/112",
+    "value": "Lyssa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/113",
+    "value": "Machai"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/114",
+    "value": "Mania"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/115",
+    "value": "Moirai"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/116",
+    "value": "Clotho"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/117",
+    "value": "Lachesis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/118",
+    "value": "Atropos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/119",
+    "value": "Momus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/120",
+    "value": "Moros"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/121",
+    "value": "Neikea"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/122",
+    "value": "Nemesis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/123",
+    "value": "Nike"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/124",
+    "value": "Nomos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/125",
+    "value": "Oizys"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/126",
+    "value": "Oneiroi"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/127",
+    "value": "Epiales"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/128",
+    "value": "Morpheus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/129",
+    "value": "Phantasos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/130",
+    "value": "Phobetor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/131",
+    "value": "Palioxis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/132",
+    "value": "Peitharchia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/133",
+    "value": "Peitho"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/134",
+    "value": "Penia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/135",
+    "value": "Penthus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/136",
+    "value": "Pepromene"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/137",
+    "value": "Pheme"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/138",
+    "value": "Philophrosyne"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/139",
+    "value": "Philotes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/140",
+    "value": "Phobos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/141",
+    "value": "Phonoi"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/142",
+    "value": "Phrike"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/143",
+    "value": "Phthonus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/144",
+    "value": "Pistis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/145",
+    "value": "Poine"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/146",
+    "value": "Polemos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/147",
+    "value": "Ponos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/148",
+    "value": "Poros"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/149",
+    "value": "Praxidike"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/150",
+    "value": "Proioxis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/151",
+    "value": "Prophasis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/152",
+    "value": "Ptocheia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/153",
+    "value": "Soter"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/154",
+    "value": "Soteria"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/155",
+    "value": "Sophrosyne"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/156",
+    "value": "Techne"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/157",
+    "value": "Thanatos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/158",
+    "value": "Thrasos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/159",
+    "value": "Tyche"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/160",
+    "value": "Zelos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/161",
+    "value": "Amphiaraus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/162",
+    "value": "Angelos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/163",
+    "value": "Askalaphos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/164",
+    "value": "Cerberus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/165",
+    "value": "Charon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/166",
+    "value": "Empusa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/167",
+    "value": "Erebos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/168",
+    "value": "Erinyes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/169",
+    "value": "Alecto"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/170",
+    "value": "Tisiphone"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/171",
+    "value": "Megaera"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/172",
+    "value": "Hecate"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/173",
+    "value": "Aiakos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/174",
+    "value": "Minos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/175",
+    "value": "Rhadamanthys"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/176",
+    "value": "Keuthonymos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/177",
+    "value": "Cronus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/178",
+    "value": "Lamia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/179",
+    "value": "Lampades"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/180",
+    "value": "Gorgyra"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/181",
+    "value": "Orphne"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/182",
+    "value": "Macaria"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/183",
+    "value": "Melinoe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/184",
+    "value": "Menoetes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/185",
+    "value": "Mormo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/186",
+    "value": "Nyx"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/187",
+    "value": "Hades"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/188",
+    "value": "Persephone"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/189",
+    "value": "Acheron"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/190",
+    "value": "Kokytos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/191",
+    "value": "Le"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/192",
+    "value": "Phlegethon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/193",
+    "value": "Styx"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/194",
+    "value": "Tartarus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/195",
+    "value": "Thanatos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/196",
+    "value": "Aegaeon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/197",
+    "value": "Achelous"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/198",
+    "value": "Bensikyme"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/199",
+    "value": "Brizo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/200",
+    "value": "Ceto"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/201",
+    "value": "Charybdis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/202",
+    "value": "Cymopoleia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/203",
+    "value": "Delphin"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/204",
+    "value": "Eidoa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/205",
+    "value": "Glaucus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/206",
+    "value": "Stheno"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/207",
+    "value": "Euryale"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/208",
+    "value": "Medusa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/209",
+    "value": "Deino"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/210",
+    "value": "Enyo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/211",
+    "value": "Pemphredo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/212",
+    "value": "Aello"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/213",
+    "value": "Ocypete"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/214",
+    "value": "Podarge"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/215",
+    "value": "Celaeno"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/216",
+    "value": "Nicothoe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/217",
+    "value": "Hippocampi"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/218",
+    "value": "Hydros"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/219",
+    "value": "Bythos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/220",
+    "value": "Aphros"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/221",
+    "value": "Karkinos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/222",
+    "value": "Ladon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/223",
+    "value": "Leucoa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/224",
+    "value": "Nereides"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/225",
+    "value": "Thetis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/226",
+    "value": "Arethusa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/227",
+    "value": "Galene"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/228",
+    "value": "Psama"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/229",
+    "value": "Nereus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/230",
+    "value": "Nerites"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/231",
+    "value": "Oceanus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/232",
+    "value": "Palaemon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/233",
+    "value": "Phorcys"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/234",
+    "value": "Pontos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/235",
+    "value": "Poseidon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/236",
+    "value": "Amphitrite"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/237",
+    "value": "Scylla"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/238",
+    "value": "Aglaope"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/239",
+    "value": "Himerope"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/240",
+    "value": "Leucosia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/241",
+    "value": "Ligeia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/242",
+    "value": "Molpe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/243",
+    "value": "Parnope"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/244",
+    "value": "Peisinoe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/245",
+    "value": "Raidne"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/246",
+    "value": "Teles"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/247",
+    "value": "Thelchtereia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/248",
+    "value": "Thelxiope"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/249",
+    "value": "Telchines"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/250",
+    "value": "Actaeus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/251",
+    "value": "Argyron"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/252",
+    "value": "Atabyrius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/253",
+    "value": "Chalcon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/254",
+    "value": "Chryson"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/255",
+    "value": "Damon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/256",
+    "value": "Damnameneus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/257",
+    "value": "Dexia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/258",
+    "value": "Lycos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/259",
+    "value": "Lysagora"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/260",
+    "value": "Makelo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/261",
+    "value": "Megalesius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/262",
+    "value": "Mylas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/263",
+    "value": "Nikon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/264",
+    "value": "Ormenos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/265",
+    "value": "Simon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/266",
+    "value": "Skelmis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/267",
+    "value": "Tethys"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/268",
+    "value": "Thalassa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/269",
+    "value": "Thaumas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/270",
+    "value": "Thoosa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/271",
+    "value": "Triteia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/272",
+    "value": "Triton"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/273",
+    "value": "Tritones"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/274",
+    "value": "Achelois"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/275",
+    "value": "Aeolus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/276",
+    "value": "Aer"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/277",
+    "value": "Alectrona"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/278",
+    "value": "Aparctias"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/279",
+    "value": "Apheliotes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/280",
+    "value": "Argestes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/281",
+    "value": "Caicias"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/282",
+    "value": "Circios"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/283",
+    "value": "Euronotus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/284",
+    "value": "Lips"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/285",
+    "value": "Skeiron"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/286",
+    "value": "Zeus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/287",
+    "value": "Hera"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/288",
+    "value": "Apollo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/289",
+    "value": "Artemis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/290",
+    "value": "Arke"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/291",
+    "value": "Astraios"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/292",
+    "value": "Stilbon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/293",
+    "value": "Eosphorus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/294",
+    "value": "Hesperus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/295",
+    "value": "Pyroeis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/296",
+    "value": "Phaethon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/297",
+    "value": "Phaenon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/298",
+    "value": "Aurai"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/299",
+    "value": "Aura"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/300",
+    "value": "Chaos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/301",
+    "value": "Chione"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/302",
+    "value": "Uranus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/303",
+    "value": "Helios"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/304",
+    "value": "Selene"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/305",
+    "value": "Eos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/306",
+    "value": "Hemera"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/307",
+    "value": "Nyx"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/308",
+    "value": "Hesperides"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/309",
+    "value": "Iris"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/310",
+    "value": "Nephelai"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/311",
+    "value": "Pandia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/312",
+    "value": "Ersa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/313",
+    "value": "Anemoi"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/314",
+    "value": "Boreas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/315",
+    "value": "Eurus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/316",
+    "value": "Notus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/317",
+    "value": "Zephyrus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/318",
+    "value": "Pleiades"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/319",
+    "value": "Alcyone"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/320",
+    "value": "Sterope"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/321",
+    "value": "Celaeno"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/322",
+    "value": "Electra"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/323",
+    "value": "Maia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/324",
+    "value": "Merope"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/325",
+    "value": "Taygete"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/326",
+    "value": "Amphictyonis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/327",
+    "value": "Anthousai"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/328",
+    "value": "Aristaeus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/329",
+    "value": "Attis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/330",
+    "value": "Britomartis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/331",
+    "value": "Cabeiri"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/332",
+    "value": "Aitnaios"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/333",
+    "value": "Alkon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/334",
+    "value": "Eurymedon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/335",
+    "value": "Onnes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/336",
+    "value": "Tonnes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/337",
+    "value": "Asbolus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/338",
+    "value": "Chariclo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/339",
+    "value": "Chiron"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/340",
+    "value": "Eurytion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/341",
+    "value": "Nessus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/342",
+    "value": "Pholus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/343",
+    "value": "Akmon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/344",
+    "value": "Passalos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/345",
+    "value": "Chloris"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/346",
+    "value": "Comus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/347",
+    "value": "Corymbus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/348",
+    "value": "Curetes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/349",
+    "value": "Cybele"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/350",
+    "value": "Dactyls"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/351",
+    "value": "Acmon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/352",
+    "value": "Damnameneus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/353",
+    "value": "Delas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/354",
+    "value": "Epimedes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/355",
+    "value": "Heracles"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/356",
+    "value": "Iasios"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/357",
+    "value": "Kelmis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/358",
+    "value": "Skys"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/359",
+    "value": "companions"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/360",
+    "value": "Titias"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/361",
+    "value": "Cyllenus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/362",
+    "value": "Dionysus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/363",
+    "value": "Dryades"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/364",
+    "value": "Gaia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/365",
+    "value": "Epimeliades"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/366",
+    "value": "Hamadryades"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/367",
+    "value": "Hecaterus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/368",
+    "value": "Hephaestus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/369",
+    "value": "Hermes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/370",
+    "value": "Eunomia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/371",
+    "value": "Dike"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/372",
+    "value": "Eirene"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/373",
+    "value": "Thallo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/374",
+    "value": "Auxo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/375",
+    "value": "Karpo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/376",
+    "value": "Pherousa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/377",
+    "value": "Euporie"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/378",
+    "value": "Orthosie"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/379",
+    "value": "Auge"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/380",
+    "value": "Anatole"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/381",
+    "value": "Mousika"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/382",
+    "value": "Gymnastika"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/383",
+    "value": "Nymphe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/384",
+    "value": "Mesembria"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/385",
+    "value": "Sponde"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/386",
+    "value": "Elete"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/387",
+    "value": "Akte"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/388",
+    "value": "Hesperis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/389",
+    "value": "Dysis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/390",
+    "value": "Arktos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/391",
+    "value": "Eiar"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/392",
+    "value": "Theros"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/393",
+    "value": "Pthinoporon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/394",
+    "value": "Cheimon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/395",
+    "value": "Damneus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/396",
+    "value": "Idaios"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/397",
+    "value": "Kyrbas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/398",
+    "value": "Okythoos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/399",
+    "value": "Prymneus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/400",
+    "value": "Pyrrhichos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/401",
+    "value": "Me"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/402",
+    "value": "Daphne"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/403",
+    "value": "Metope"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/404",
+    "value": "Min"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/405",
+    "value": "Hekaerge"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/406",
+    "value": "Loxo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/407",
+    "value": "Oupis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/408",
+    "value": "Adrasteia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/409",
+    "value": "Echo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/410",
+    "value": "Beroe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/411",
+    "value": "Calypso"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/412",
+    "value": "Clytie"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/413",
+    "value": "Idyia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/414",
+    "value": "Thefor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/415",
+    "value": "Ourea"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/416",
+    "value": "Palici"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/417",
+    "value": "Pan"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/418",
+    "value": "Achelous"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/419",
+    "value": "Acis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/420",
+    "value": "Acheron"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/421",
+    "value": "Alpheus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/422",
+    "value": "Asopus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/423",
+    "value": "Cladeus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/424",
+    "value": "Eurotas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/425",
+    "value": "Cocytus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/426",
+    "value": "Le"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/427",
+    "value": "Peneus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/428",
+    "value": "Phlegethon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/429",
+    "value": "Styx"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/430",
+    "value": "Scamander"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/431",
+    "value": "Priapus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/432",
+    "value": "Rhea"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/433",
+    "value": "Krotos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/434",
+    "value": "Silenus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/435",
+    "value": "Telete"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/436",
+    "value": "Zagreus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/437",
+    "value": "Aphaea"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/438",
+    "value": "Carme"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/439",
+    "value": "Carmanor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/440",
+    "value": "Chrysomis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/441",
+    "value": "Cyamites"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/442",
+    "value": "Demeter"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/443",
+    "value": "Despoina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/444",
+    "value": "Dionysus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/445",
+    "value": "Eunostus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/446",
+    "value": "Hestia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/447",
+    "value": "Persephone"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/448",
+    "value": "Philomelus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/449",
+    "value": "Plutus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/450",
+    "value": "Triptolemus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/451",
+    "value": "Asclepius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/452",
+    "value": "Aceso"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/453",
+    "value": "Aegle"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/454",
+    "value": "Epione"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/455",
+    "value": "Hygieia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/456",
+    "value": "Iaso"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/457",
+    "value": "Panacea"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/458",
+    "value": "Telesphorus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/459",
+    "value": "Adrastea"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/460",
+    "value": "Agdistis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/461",
+    "value": "Alexiares"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/462",
+    "value": "Aphroditus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/463",
+    "value": "Astraea"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/464",
+    "value": "Auxesia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/465",
+    "value": "Aglaea"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/466",
+    "value": "Euphrosyne"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/467",
+    "value": "Thalia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/468",
+    "value": "Hegemone"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/469",
+    "value": "Ania"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/470",
+    "value": "Pasia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/471",
+    "value": "Cleta"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/472",
+    "value": "Phaenna"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/473",
+    "value": "Eudaimonia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/474",
+    "value": "Euthymia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/475",
+    "value": "Calleis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/476",
+    "value": "Paidia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/477",
+    "value": "Pandaisia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/478",
+    "value": "Pannychis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/479",
+    "value": "Ceraon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/480",
+    "value": "Chrysus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/481",
+    "value": "Circe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/482",
+    "value": "Syntribos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/483",
+    "value": "Smaragos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/484",
+    "value": "Asbetos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/485",
+    "value": "Sabaktes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/486",
+    "value": "Omodamos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/487",
+    "value": "Deipneus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/488",
+    "value": "Eiresione"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/489",
+    "value": "Eileithyia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/490",
+    "value": "Enyalius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/491",
+    "value": "Enyo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/492",
+    "value": "Harpocrates"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/493",
+    "value": "Hermaphroditus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/494",
+    "value": "Hymenaios"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/495",
+    "value": "Ichnaea"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/496",
+    "value": "Iynx"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/497",
+    "value": "Matton"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/498",
+    "value": "Titan"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/499",
+    "value": "Aoide"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/500",
+    "value": "Arche"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/501",
+    "value": "Melete"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/502",
+    "value": "Mneme"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/503",
+    "value": "lxinoe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/504",
+    "value": "Olympian"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/505",
+    "value": "Calliope"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/506",
+    "value": "Clio"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/507",
+    "value": "Euterpe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/508",
+    "value": "Erato"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/509",
+    "value": "Melpomene"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/510",
+    "value": "Polyhymnia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/511",
+    "value": "Terpsichore"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/512",
+    "value": "Thalia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/513",
+    "value": "Urania"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/514",
+    "value": "Younger"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/515",
+    "value": "Cephisso"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/516",
+    "value": "Apollonis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/517",
+    "value": "Borysnis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/518",
+    "value": "Hypate"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/519",
+    "value": "Mese"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/520",
+    "value": "Nete"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/521",
+    "value": "Polymaia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/522",
+    "value": "Palaestra"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/523",
+    "value": "Rhapso"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/524",
+    "value": "Achilles"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/525",
+    "value": "Aiakos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/526",
+    "value": "Aeolus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/527",
+    "value": "Alabandus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/528",
+    "value": "Amphiaraus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/529",
+    "value": "Ariadne"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/530",
+    "value": "Aristaeus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/531",
+    "value": "Asclepius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/532",
+    "value": "Attis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/533",
+    "value": "Bolina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/534",
+    "value": "Castor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/535",
+    "value": "Pollux"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/536",
+    "value": "Endymion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/537",
+    "value": "Ganymede"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/538",
+    "value": "Glaucus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/539",
+    "value": "Hemia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/540",
+    "value": "Heracles"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/541",
+    "value": "Minos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/542",
+    "value": "Ino"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/543",
+    "value": "Tenes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/544",
+    "value": "Phoebe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/545",
+    "value": "Hilaera"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/546",
+    "value": "Orithyia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/547",
+    "value": "Palaemon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/548",
+    "value": "Phylonoe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/549",
+    "value": "Psyche"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/550",
+    "value": "Semele"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/551",
+    "value": "Abderus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/552",
+    "value": "Achilles"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/553",
+    "value": "Aeneas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/554",
+    "value": "Ajax"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/555",
+    "value": "Amphitryon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/556",
+    "value": "Antilochus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/557",
+    "value": "Bellerophon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/558",
+    "value": "Castor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/559",
+    "value": "Chrysippus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/560",
+    "value": "Daedalus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/561",
+    "value": "Diomedes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/562",
+    "value": "Eleusis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/563",
+    "value": "Eunostus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/564",
+    "value": "Ganymede"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/565",
+    "value": "Hector"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/566",
+    "value": "Icarus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/567",
+    "value": "Iolaus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/568",
+    "value": "Jason"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/569",
+    "value": "Meleager"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/570",
+    "value": "Odysseus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/571",
+    "value": "Orpheus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/572",
+    "value": "Pandion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/573",
+    "value": "Perseus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/574",
+    "value": "Theseus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/575",
+    "value": "Amymone"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/576",
+    "value": "Andromache"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/577",
+    "value": "Andromeda"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/578",
+    "value": "Antigone"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/579",
+    "value": "Arachne"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/580",
+    "value": "Ariadne"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/581",
+    "value": "Atalanta"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/582",
+    "value": "Briseis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/583",
+    "value": "Caeneus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/584",
+    "value": "Cassandra"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/585",
+    "value": "Cassiopeia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/586",
+    "value": "Clytemnestra"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/587",
+    "value": "Deianeira"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/588",
+    "value": "Electra"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/589",
+    "value": "Europa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/590",
+    "value": "Hecuba"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/591",
+    "value": "Helen"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/592",
+    "value": "Hermione"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/593",
+    "value": "Iphigenia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/594",
+    "value": "Ismene"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/595",
+    "value": "Jocasta"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/596",
+    "value": "Medea"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/597",
+    "value": "Medusa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/598",
+    "value": "Niobe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/599",
+    "value": "Pandora"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/600",
+    "value": "Penelope"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/601",
+    "value": "Phaedra"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/602",
+    "value": "Polyxena"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/603",
+    "value": "Semele"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/604",
+    "value": "Thrace"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/605",
+    "value": "Acastus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/606",
+    "value": "Acrisius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/607",
+    "value": "Actaeus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/608",
+    "value": "Admetus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/609",
+    "value": "Adrastus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/610",
+    "value": "Aeacus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/611",
+    "value": "Aegeus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/612",
+    "value": "Aegimius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/613",
+    "value": "Aegisthus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/614",
+    "value": "Aegyptus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/615",
+    "value": "Aeson"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/616",
+    "value": "Aetolus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/617",
+    "value": "Agamemnon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/618",
+    "value": "Agasnes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/619",
+    "value": "Agenor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/620",
+    "value": "Alcinous"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/621",
+    "value": "Alcmaeon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/622",
+    "value": "Aleus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/623",
+    "value": "Amphiaraus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/624",
+    "value": "Amphictyon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/625",
+    "value": "Amphion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/626",
+    "value": "Amycus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/627",
+    "value": "Anaxagoras"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/628",
+    "value": "Anchises"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/629",
+    "value": "Arcesius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/630",
+    "value": "Argeus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/631",
+    "value": "Argus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/632",
+    "value": "Assaracus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/633",
+    "value": "Asterion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/634",
+    "value": "Athamas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/635",
+    "value": "Atreus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/636",
+    "value": "Augeas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/637",
+    "value": "Autesion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/638",
+    "value": "Bias"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/639",
+    "value": "Busiris"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/640",
+    "value": "Cadmus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/641",
+    "value": "Car"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/642",
+    "value": "Catreus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/643",
+    "value": "Cecrops"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/644",
+    "value": "Ceisus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/645",
+    "value": "Celeus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/646",
+    "value": "Cephalus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/647",
+    "value": "Cepheus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/648",
+    "value": "Cepheus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/649",
+    "value": "Charnabon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/650",
+    "value": "Cinyras"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/651",
+    "value": "Codrus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/652",
+    "value": "Corinthus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/653",
+    "value": "Cranaus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/654",
+    "value": "Creon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/655",
+    "value": "Creon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/656",
+    "value": "Cres"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/657",
+    "value": "Cresphontes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/658",
+    "value": "Creus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/659",
+    "value": "Criasus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/660",
+    "value": "Cylarabes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/661",
+    "value": "Cynortas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/662",
+    "value": "Cyzicus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/663",
+    "value": "Danaus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/664",
+    "value": "Dardanus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/665",
+    "value": "Deiphontes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/666",
+    "value": "Demophon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/667",
+    "value": "Diomedes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/668",
+    "value": "Echemus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/669",
+    "value": "Echetus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/670",
+    "value": "Eetion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/671",
+    "value": "Electryon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/672",
+    "value": "Elephenor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/673",
+    "value": "Eleusis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/674",
+    "value": "Epaphus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/675",
+    "value": "Epopeus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/676",
+    "value": "Erechus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/677",
+    "value": "Erginus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/678",
+    "value": "Erichthonius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/679",
+    "value": "Eteocles"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/680",
+    "value": "Eteocles"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/681",
+    "value": "Eurotas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/682",
+    "value": "Eurysus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/683",
+    "value": "Euxantius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/684",
+    "value": "Gelanor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/685",
+    "value": "Haemus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/686",
+    "value": "Helenus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/687",
+    "value": "Hyrieus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/688",
+    "value": "Ilus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/689",
+    "value": "Ixion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/690",
+    "value": "Laomedon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/691",
+    "value": "Lycaon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/692",
+    "value": "Lycurgus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/693",
+    "value": "Lycurgus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/694",
+    "value": "Makedon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/695",
+    "value": "Megareus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/696",
+    "value": "Megareus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/697",
+    "value": "Melampus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/698",
+    "value": "Melanthus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/699",
+    "value": "Memnon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/700",
+    "value": "Menelaus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/701",
+    "value": "Menesus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/702",
+    "value": "Midas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/703",
+    "value": "Minos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/704",
+    "value": "Myles"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/705",
+    "value": "Nestor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/706",
+    "value": "Nycteus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/707",
+    "value": "Odysseus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/708",
+    "value": "Oebalus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/709",
+    "value": "Oedipus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/710",
+    "value": "Oeneus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/711",
+    "value": "Oenomaus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/712",
+    "value": "Oenopion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/713",
+    "value": "Ogygus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/714",
+    "value": "Oicles"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/715",
+    "value": "Oileus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/716",
+    "value": "Orestes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/717",
+    "value": "Oxyntes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/718",
+    "value": "Pandion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/719",
+    "value": "Pandion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/720",
+    "value": "Peleus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/721",
+    "value": "Pelias"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/722",
+    "value": "Pelops"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/723",
+    "value": "Penus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/724",
+    "value": "Periphas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/725",
+    "value": "Perseus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/726",
+    "value": "Phineus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/727",
+    "value": "Phlegyas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/728",
+    "value": "Phoenix"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/729",
+    "value": "Phoroneus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/730",
+    "value": "Phyleus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/731",
+    "value": "Pitus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/732",
+    "value": "Polybus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/733",
+    "value": "Polynices"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/734",
+    "value": "Priam"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/735",
+    "value": "Proetus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/736",
+    "value": "Pylades"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/737",
+    "value": "Rhadamanthys"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/738",
+    "value": "Rhesus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/739",
+    "value": "Sarpedon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/740",
+    "value": "Sisyphus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/741",
+    "value": "Sithon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/742",
+    "value": "Talaus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/743",
+    "value": "Tegyrios"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/744",
+    "value": "Telamon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/745",
+    "value": "Telephus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/746",
+    "value": "Temenus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/747",
+    "value": "Teucer"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/748",
+    "value": "Teutamides"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/749",
+    "value": "Teuthras"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/750",
+    "value": "Thersander"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/751",
+    "value": "Theseus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/752",
+    "value": "Thyestes"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/753",
+    "value": "Tisamenus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/754",
+    "value": "Tyndareus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/755",
+    "value": "Anius"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/756",
+    "value": "Asbolus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/757",
+    "value": "Bakis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/758",
+    "value": "Branchus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/759",
+    "value": "Calchas"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/760",
+    "value": "Carnus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/761",
+    "value": "Carya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/762",
+    "value": "Cassandra"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/763",
+    "value": "Ennomus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/764",
+    "value": "Halirses"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/765",
+    "value": "Helenus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/766",
+    "value": "Iamus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/767",
+    "value": "Idmon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/768",
+    "value": "Manto"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/769",
+    "value": "Melampus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/770",
+    "value": "Mopsus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/771",
+    "value": "Polyeidos"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/772",
+    "value": "Pythia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/773",
+    "value": "Telemus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/774",
+    "value": "Theoclymenus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/775",
+    "value": "Tiresias"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/776",
+    "value": "Aegea"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/777",
+    "value": "Aella"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/778",
+    "value": "Alcibie"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/779",
+    "value": "Antandre"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/780",
+    "value": "Antiope"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/781",
+    "value": "Areto"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/782",
+    "value": "Asteria"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/783",
+    "value": "Bremusa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/784",
+    "value": "Celaeno"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/785",
+    "value": "Eurypyle"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/786",
+    "value": "Hippolyta"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/787",
+    "value": "Hippothoe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/788",
+    "value": "Iphito"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/789",
+    "value": "Lampedo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/790",
+    "value": "Marpesia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/791",
+    "value": "Melanippe"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/792",
+    "value": "Molpadia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/793",
+    "value": "Myrina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/794",
+    "value": "Orithyia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/795",
+    "value": "Otrera"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/796",
+    "value": "Pantariste"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/797",
+    "value": "Pensilea"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/798",
+    "value": "Thalestris"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/799",
+    "value": "Ixion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/800",
+    "value": "Sisyphus"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/801",
+    "value": "Tantalus"
+  }
+]

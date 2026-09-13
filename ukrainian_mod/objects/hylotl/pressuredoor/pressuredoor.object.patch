@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Двері, які добре витримують тиск."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Герметичні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Міцні гермодвері."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дуже важкі металеві двері."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Великі важкі двері найкраще працюють під водою."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Полегшено. Ці двері дуже важкі, вони повинні бути водонепроникними."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це великі, міцні двері, які добре справляються з високим тиском."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гарно виготовлені гермодвері."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Міцні гермодвері."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Росте поточна кукурудза, повна кислоти. Не підходить для м'ясистих істот."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Currentcorn"
+  }
+]

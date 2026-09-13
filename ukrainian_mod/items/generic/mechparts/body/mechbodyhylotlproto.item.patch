@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прототип механізму з відкритим верхом, розроблений для пілотів Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Kabuto-00 Mech Body"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Цей текст не відображатиметься",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Цей текст не відображатиметься",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Цей текст не відображатиметься",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Використай ^orange;Б.Ш.І.^reset;, щоб висадитися на ^green;Данталіон^reset;",
+    "path": "/scriptConfig/objectives/finalMissionStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Затримай^reset; ^green;Асру Нокс^reset;",
+    "path": "/scriptConfig/objectives/finalMissionStage/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мої знахідки щодо <prev.coordinate.name> змусили мене повірити, що <bounty.name> знаходиться на <coordinate.name>.",
+    "path": "/scriptConfig/generatedText/text/prev/0",
+    "op": "replace"
+  },
+  {
+    "value": "<bounty.name> востаннє бачили на <coordinate.name>.",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти усунув <bounty.name>? Відмінна робота, напарнику! Всесвіт став трохи безпечнішим.\n\nЗайди до офісу миротворців наступного разу, коли будеш на Аванпості, щоб отримати свої нагороди!",
+    "path": "/scriptConfig/generatedText/complete/default/0",
+    "op": "replace"
+  }
+]

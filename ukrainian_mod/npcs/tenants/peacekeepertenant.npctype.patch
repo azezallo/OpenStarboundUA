@@ -1,0 +1,112 @@
+[
+  {
+    "value": "Милий грибссс.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Утвердно. Світний гриб.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Покрівельна черепиця, вирізана з міді.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мідна покрівля",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Здивування. Ця покрівельна черепиця цілком зроблена з міді.",
+    "path": "/scriptConfig/dialog/converse/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану подобаєтьссся сссвітна мідна покрівля.",
+    "path": "/scriptConfig/dialog/converse/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Файний стос мідної черепиці.",
+    "path": "/scriptConfig/dialog/converse/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Твердий природний пісковик.",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Пісковик",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Уважність. Цей пісковик зроблений з дрібних порід.",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Піссщана порода.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Трохи файнішої піщаної породи.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Металева стіна з заклепками.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Металев. поручні",
+    "path": "/scriptConfig/dialog/converse/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Безпека. Ця металева стіна укріплена болтами.",
+    "path": "/scriptConfig/dialog/converse/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Укріплена болтами ссстіна.",
+    "path": "/scriptConfig/dialog/converse/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Файний мур з металу.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Могильна цегла",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стара цегла, відполірована до ідеалу.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Враження. У цієї цегли були ретельно згладжені краї.",
+    "path": "/scriptConfig/dialog/converse/novakid/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Гладка і м'яка цеглассс.",
+    "path": "/scriptConfig/dialog/converse/novakid/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ця стара цегла досить файна та гладенька.",
+    "path": "/scriptConfig/dialog/converse/novakid/default/2",
+    "op": "replace"
+  }
+]

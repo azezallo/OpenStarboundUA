@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скриня з гілок і коріння."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Болотна скриня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я б не довіряв безпеці такої скрині."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Скриня з природних ресурсів. Захоплення."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче зберігати речі в скрині!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Уявіть собі всі речі, які тут можна зберігати."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, чи є користь від того, щоб зробити скриню з гілок?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця скриня досить потворна."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цікаво, що я можу тримати всередині такої речі?"
+  }
+]

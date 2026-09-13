@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виглядайте гідно та інтелігентно з цим добре виготовленим топом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Smart Top"
+  }
+]

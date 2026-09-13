@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Колючі палиці, можливо, щоб зробити вас схожим на якогось лютого звіра?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хижа спина"
+  }
+]

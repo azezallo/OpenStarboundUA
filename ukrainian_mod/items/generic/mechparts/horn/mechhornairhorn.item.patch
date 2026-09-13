@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створіть трохи шуму, не виходячи з власного механізму."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Airhorn Mech Horn"
+  }
+]

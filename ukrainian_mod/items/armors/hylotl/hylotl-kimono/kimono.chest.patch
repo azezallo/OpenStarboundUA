@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Витончена традиційна сорочка-кімоно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сорочка кімоно"
+  }
+]

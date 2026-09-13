@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Помаранчевий неоновий знак"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це схоже на слово «квакати», але, мабуть, означає зовсім інше."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Табличка з написом «каркати». Це добре, я вважаю!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не наважуюсь навіть слідувати вказівкам цього знаку."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Баззі sssign дратує Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. Знак, на якому просто написано «квакати». Як корисно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я впевнений, що це веде до чогось чудового. Якби я тільки не був так зайнятий... іншими справами..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Купаючись у неоновому сяйві цього знаку, я згадую про втрачені та знайдені кохання. У горлі стає клубок."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не правильно думаю, що я це розумію."
+  }
+]

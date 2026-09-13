@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Секретним інгредієнтом цього улюбленого продукту Apex є ананас!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Банановий спліт"
+  }
+]

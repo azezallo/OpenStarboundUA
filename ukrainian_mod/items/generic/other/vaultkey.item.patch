@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сяючий ключ, який може відкрити двері в давно забуті місця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ключ від сховища"
+  }
+]

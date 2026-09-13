@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Машина, яка використовується для руйнування каменів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гірнича ударна дробарка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Промислова машина, яка використовується для руйнування гірських порід."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Машина, яка використовується для руйнування каменів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Machine for breakin bonesss... Флоран сказав кістки? Флоран мав на увазі скелі!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Машина існує для того, щоб дробити каміння."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Машина, яка використовується для руйнування каменів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Неприваблива металева конструкція."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я б не хотів потрапити в цю штуковину."
+  }
+]

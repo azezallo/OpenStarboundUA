@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Екран із круговою діаграмою, що відображає бюджетну статистику."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статистичний дисплей"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Секторна діаграма. Виглядає не дуже смачно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця таблиця схожа на ягідний пиріг, у якому відсутній шматочок."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дивні, нецікаві дані."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Саркастичний. Захоплююча кругова діаграма з детальним описом стаціонарних витрат."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ой, інфографіка. На жаль, не з тих смішних інтернет-версій."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Людям має сенс уважно стежити за своїми витратами."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не знаю, що це велике коло має ілюструвати. Але тут не вистачає шматка."
+  }
+]

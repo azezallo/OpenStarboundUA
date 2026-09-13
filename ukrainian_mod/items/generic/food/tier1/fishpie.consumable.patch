@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зірковий пиріг! Запечена риба в соусі, заправлена ​​вершковим пюре."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рибний пиріг"
+  }
+]

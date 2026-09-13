@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Леда Порція, Велика Покровителька."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Портрет великого захисника"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Леда Порція. Я щойно бачив її жахливий кінець."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Леда Порція,... Колишній великий Захисник. Я не хочу про це думати."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Жахлива річ трапилася з великою захисницею Ледою Порцією."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Скорботний. Я не хочу про це думати..."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Леда Порція якраз мала закінчити мене. Я не хочу про це говорити."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вона дала мені цей маніпулятор матерії, якраз перед..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Покійна Велика Протекторка Леда Порція. Хотілося б, щоб я міг щось зробити."
+  }
+]

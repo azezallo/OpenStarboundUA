@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Матеріальний блок.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Блок матерії",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Зачарування. Це схоже на якусь рідкісну форму сирої матерії.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран має зібрати ясскравий криссстал матерії.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Якийсь чудернацький кристал, далебі.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

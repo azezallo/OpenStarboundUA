@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Велика баньката квітка.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Велика баньката квітка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран вдивляєтьссся в безодню.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Відраза. Мерзенне око.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

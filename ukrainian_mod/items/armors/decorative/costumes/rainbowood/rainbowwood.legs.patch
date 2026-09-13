@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці штани видають приємний деревний звук при ходьбі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани Rainbow Wood"
+  }
+]

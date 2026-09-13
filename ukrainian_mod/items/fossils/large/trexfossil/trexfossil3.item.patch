@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілі ноги та стегна T. rex."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Т. рекс Ноги"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чудово вирізана пташина грядка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташине ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Барвистий комплект теплих простирадл на зручному на вигляд ліжку."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Навіть із закритими очима приземлені насолоджуються яскравими фарбами навколо."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "М'яке ліжко. Флоран міг би тут відпочити."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Сентиментальний. Це мало чим відрізняється від ліжка, в якому я звик відпочивати."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це ліжко виглядає надзвичайно зручно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гарний комплект теплих чохлів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Повинен сказати, дуже гарне ліжко."
+  }
+]

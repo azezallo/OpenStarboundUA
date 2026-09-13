@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це було б гарне місце для магазину."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Терра Март закрито"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дивний ящик для транспортування – схоже, він використовується не лише для зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Зверху цього ящика для зберігання росте дерево!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить ялинку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Цей ящик виглядає так, ніби хтось перетворює його на магазин."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, хтось переїжджає в цей гігантський транспортний ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Здається, крізь цей ящик росте велике дерево."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хтось перетворює цей ящик на магазин?"
+  }
+]

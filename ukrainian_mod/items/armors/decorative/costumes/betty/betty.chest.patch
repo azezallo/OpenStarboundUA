@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Обладунки оснащені шикарним шарфом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маскування нагрудника"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Металеві двері промислового вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шахтарські двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці двері могли витримати велику вогневу потужність."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Надійні металеві двері."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Великі металеві двері здаються неможливими для проникнення."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Двері з міцного металу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Міцні двері людського походження."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Потворні двері, розроблені з урахуванням функціональності."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці двері означають бізнес."
+  }
+]

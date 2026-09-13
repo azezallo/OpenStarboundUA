@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/npcname",
+    "value": "Nuru"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "I like thiss place, it's spooky!"
+  }
+]

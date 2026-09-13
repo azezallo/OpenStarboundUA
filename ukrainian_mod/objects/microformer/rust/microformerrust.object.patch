@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює частину планети на окислений металевий гай."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іржавий мікроформер"
+  }
+]

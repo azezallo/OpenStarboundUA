@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Моторошний капюшон, який підходить для темного культиста."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сектист Гуд"
+  }
+]

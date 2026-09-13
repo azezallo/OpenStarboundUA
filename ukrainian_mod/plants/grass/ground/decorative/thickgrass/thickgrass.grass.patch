@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Густа трава."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Густа трава."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "трав'янистий."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Густа трава."
+  }
+]

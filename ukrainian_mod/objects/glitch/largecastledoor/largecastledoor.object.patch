@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Величезні страхітливі двері."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великі середньовічні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Величезні двері. Вам знадобиться таран, щоб зняти це."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це, мабуть, найбільші двері, які я коли-небудь бачив."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Двері змушують Флорана відчувати себе маленьким."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Втішили. Ці двері можна загородити зсередини величезною дерев’яною дошкою."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Величезні укріплені двері. Щоб це відкрити, знадобиться більше, ніж таран."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такі двері створені для тих, хто боїться зловмисників."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Той, хто побудував ці двері, точно не хоче відвідувачів."
+  }
+]

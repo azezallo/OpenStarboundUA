@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пристрій для сканування очних яблук і зіставлення їх з даними персоналу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сканер очей"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Сканер очей. Здається, він не розпізнає очні яблука Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Прилад для сканування очних яблук людини. Але з якою метою?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Машина хоче сканувати очі. Флоран відмовляється!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Продуманий. За умови правильного калібрування цей сканер можна обдурити глюком."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сканер очей. Хтось розтер чорнило навколо окуляра. Ах ви, жартівники."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Сканер очей. Такі пристрої для Hylotl незручні. Наші голови неправильної форми."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Сканер очей? Я не знаю, що я маю з цим робити."
+  }
+]

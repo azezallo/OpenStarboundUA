@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Помаранчевий Glowstick"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створює помаранчеве біолюмінесцентне світіння при киданні!"
+  }
+]

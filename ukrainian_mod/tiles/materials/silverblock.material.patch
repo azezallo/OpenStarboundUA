@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Цілісний блок зі срібла.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Срібний блок",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Враження. Цей блок цілком зі срібла.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Сссрібло так блищщщить...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Блискучий блок, зроблений з чистого срібла.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

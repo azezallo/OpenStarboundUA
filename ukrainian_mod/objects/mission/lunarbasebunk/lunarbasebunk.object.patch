@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці затишні ліжка можна поставити одне на одне."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Місячна база"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стандартне двоярусне ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це двоярусне ліжко виглядає досить просто."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хотів би спати на двоярусному ліжку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Сентиментальний. Двоярусне ліжко, не схоже на те, що в академії Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Двоярусне ліжко. Не надто просторий, але напрочуд зручний."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У мене залишилися приємні спогади про те, як я спав у такому ліжку в академії Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Звичайне двоярусне ліжко."
+  }
+]

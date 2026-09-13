@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Я почуваюся розумнішим, просто одягаючи цю річ!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Електронієвий капелюх"
+  }
+]

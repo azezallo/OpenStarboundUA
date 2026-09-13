@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це приємно ситне блюдо залишає відчуття тепла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Особливий смажений рис"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Знак, що позначає, де починається черга до каси."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Оформити замовлення знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я не любитель стояти в чергах."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Знак позначає, де починається касова черга магазину."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Вони очікують, що Флоран чекатиме через дурний знак?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "роздратований. Я не люблю стояти в довгих чергах."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Все ще доводиться стояти в довгих чергах до каси в космосі, га?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це знак, що позначає початок черги до каси."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені тут стояти й чекати? Навіщо мені це робити?"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Моховий бруд"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. На цьому скупченому бруді росте мох."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Упакований бруд, покритий зростаючим мохом."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей бруд увесь у моху."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Упакований бруд, покритий мохом."
+  }
+]

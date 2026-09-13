@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шикарний лицарський шолом. Він має великий, вигадливий шлейф!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плюмовий лицарський шолом"
+  }
+]

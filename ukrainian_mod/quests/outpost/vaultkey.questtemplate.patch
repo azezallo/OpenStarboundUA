@@ -1,0 +1,37 @@
+[
+  {
+    "value": "^orange;Останній рубіж",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Вітри шепочуть про те, що ти зробив - ти зайшов далеко, юний. Але є ще двері, які тобі тільки належить відчинити. ^green;Я можу продати тобі ^orange;ключі^green;^white;, якщо ти бажаєш ^green;відкрити ^orange;Стародавні Ворота^green;, розкидані серед зірок^white;.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Я прибув до ^orange;Стародавнього Сховища^white;! Цікаво, які таємниці приховують ці руїни? Гадаю, варто озирнутися...",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Торговець",
+    "path": "/scriptConfig/portraits/questStarted/title",
+    "op": "replace"
+  },
+  {
+    "value": "Отримай ^orange;ключ сховища^reset; від загадкового торговця",
+    "path": "/scriptConfig/objectiveLists/obtainKey/0/0",
+    "op": "replace"
+  },
+  {
+    "value": "Отримай ключ сховища від загадкового торговця",
+    "path": "/scriptConfig/objectiveLists/enterVault/0/0",
+    "op": "replace"
+  },
+  {
+    "value": "Увійди до самотніх ^orange;Стародавніх Воріт^reset;",
+    "path": "/scriptConfig/objectiveLists/enterVault/1/0",
+    "op": "replace"
+  }
+]

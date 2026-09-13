@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Популярний енергетичний напій Glitch. Або це просто плацебо?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Позест"
+  }
+]

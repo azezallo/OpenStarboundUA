@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An arched rock."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Арочна скеля."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Curvy rocksss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. An arched rock."
+  }
+]

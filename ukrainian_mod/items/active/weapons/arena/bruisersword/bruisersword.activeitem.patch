@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця штука величезна!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Палаш Брюзера"
+  }
+]

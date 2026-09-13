@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей сервер Avian повинен містити величезну кількість даних."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташиний сервер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, це якийсь сервер."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пташині кристали збирають дані та зберігають їх у цих машинах."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сервер із більше інформації, ніж мозок Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заляканий. Обсяг даних, що зберігаються тут, величезний."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже на сервер."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Тут так багато даних. Якби я міг це експортувати..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Має бути сервер для зберігання даних."
+  }
+]

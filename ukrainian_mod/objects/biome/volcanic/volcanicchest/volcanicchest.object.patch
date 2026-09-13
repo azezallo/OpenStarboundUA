@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця міцна скриня зроблена з вулканічного матеріалу. Від нього піднімається тепло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вулканічна скриня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Виглядає функціонально, хоча трохи непрактично."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не думав, що опалювальне сховище буде таким корисним."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чи спалить Флорана дотик до грудей?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережно. Ця скриня міцна, але може бути гарячою."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця скриня зроблена з вулканічного матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Будь-що, що кладеться в цю скриню, повинно бути здатним витримувати спеку."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця скриня настільки тепла, що могла б піти за піч."
+  }
+]

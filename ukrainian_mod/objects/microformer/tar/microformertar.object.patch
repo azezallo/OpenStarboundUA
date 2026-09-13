@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює частину планети на трясовину липкої смоли."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Террі Мікроформер"
+  }
+]

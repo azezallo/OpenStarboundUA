@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Деревина, підготовлена для будівництва та крафту.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Дошки",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Трохи дощок з дерева.",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Колоди, розпиляні на дошки.",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволення. Хороші дошки з дерева.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Порубані доссшки.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Звичайні дошки, виготовлені з колод.",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Звичайні дошки, проста краса яких навіює спокій.",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Самі звичайнісінькі дошки, нічого зайвого.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

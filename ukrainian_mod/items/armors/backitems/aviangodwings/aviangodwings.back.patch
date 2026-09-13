@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Неймовірно, наскільки реалістичні ці крила."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крила пташиного Бога"
+  }
+]

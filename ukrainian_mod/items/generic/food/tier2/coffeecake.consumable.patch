@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вологий пиріг, збагачений кавою. Більше!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "кавовий торт"
+  }
+]

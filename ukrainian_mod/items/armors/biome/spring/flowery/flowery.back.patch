@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Якби я міг керувати цими виноградними лозами, як додатковими руками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Квіткові лози"
+  }
+]

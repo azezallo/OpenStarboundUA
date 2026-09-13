@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гостра, металева квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Металева квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssharp hard flower."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. A metallic flower."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Аттікус",
+    "path": "/identity/name",
+    "op": "replace"
+  },
+  {
+    "value": "Дистанційні атаки Воло можуть серйозно тебе уповільнити. Так що уникай ударів.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Воло намагатиметься триматися за своїми вихованцями, щоб атакувати з відстані. Використовуй арену, щоб захистити себе від пострілів.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вихованці будуть помітно слабкішими за Воло. Я рекомендую прибрати їх з боротьби насамперед.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ти можеш використовувати уступи, щоб виманити Воло на ближчу відстань. Це найзручніший момент для атаки!",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  }
+]

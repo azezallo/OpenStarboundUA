@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця сокира напрочуд важка для своїх розмірів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вольфрамова сокира"
+  }
+]

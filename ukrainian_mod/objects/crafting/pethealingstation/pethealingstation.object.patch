@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Станція лікування істот використовується для лікування захоплених істот."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange; Станція лікування домашніх тварин^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "Для сумних вихованців"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Такі машини використовуються для лікування захоплених істот."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Наскільки корисно, цим я можу зцілити будь-яких створінь, яких захоплюю."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цим Флоран може зцілити істот."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Цей пристрій може зцілити будь-яких захоплених істот."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я можу використати це, щоб зцілити будь-яку істоту, яку я спіймав. акуратно!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такі речі корисні для забезпечення відмінного здоров'я істоти."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я можу використовувати цей гаджет, щоб лікувати захоплених істот."
+  }
+]

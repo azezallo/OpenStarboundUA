@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Глибоко страшне взуття."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Frontliner's Greaves"
+  }
+]

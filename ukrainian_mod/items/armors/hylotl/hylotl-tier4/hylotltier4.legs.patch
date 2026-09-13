@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Наголенники Durasteel, які дозволяють власнику стояти на своєму посту протягом багатьох годин."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Озеро Грівз"
+  }
+]

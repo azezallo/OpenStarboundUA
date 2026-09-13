@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Здається, це таблиця підрахунків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мистецтво первісної діаграми"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Таблиця без позначок. Тут багато знаків."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Діаграма, яка, здається, використовується для підрахунку."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран фіксував вбивства на папері. Пам'ять у Флорана не дуже хороша."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Не вражений. Проста система числення за основою 10."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Стара таблиця підрахунків. Я іноді використовую ці."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Таблиця підрахунків. Сподіваюся, ці сліди не вбивства."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якась діаграма, можливо, це мисливський рекорд."
+  }
+]

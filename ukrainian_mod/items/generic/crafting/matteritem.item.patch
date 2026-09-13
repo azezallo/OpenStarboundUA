@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блок матерії. Блок, який має значення."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Блок матерії"
+  }
+]

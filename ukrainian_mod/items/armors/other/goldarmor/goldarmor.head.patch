@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцний шолом, покритий чистим золотом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Золотий шолом"
+  }
+]

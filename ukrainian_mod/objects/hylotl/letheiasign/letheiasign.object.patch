@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Галогенна вивіска для корпорації Letheia."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак Letheia Corp"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Яскрава вивіска фірмового вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це дуже кутовий знак."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssign дуже нахилений."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Здається, це знак якогось бренду чи компанії."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вивіска для Letheia Corporation, конгломерату компанії, яка має багато грошей."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Знак Letheia Corporation, відомої компанії Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це трохи яскраво для знака, чи не так?"
+  }
+]

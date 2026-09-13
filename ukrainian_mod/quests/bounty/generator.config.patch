@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Буйні порушники миру",
+    "path": "/steps/tutorial_bounty/spawns/bounty/npc/parameters/scriptConfig/gang/name",
+    "op": "replace"
+  },
+  {
+    "value": "Ти просто... вгадав цей пароль? Ну ти даєш, напарнику.",
+    "path": "/edges/11/prev/text/skipMessage",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nПідказка, яку я тут знайшов, дала мені код від сховища: <password>.\n\n",
+    "path": "/edges/11/next/text/questLog",
+    "op": "replace"
+  },
+  {
+    "value": "Ти отримав цей код за допомогою своїх просунутих детективних навичок? Хороша робота, напарнику!",
+    "path": "/edges/12/prev/text/skipMessage",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nПідказка, яку я тут знайшов, дала мені код від сховища: <password>.\n\n",
+    "path": "/edges/12/next/text/questLog",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nКонсоль, яку я тут знайшов, дала мені код від сховища: <password>.\n\n",
+    "path": "/edges/13/next/text/questLog",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nКонсоль, яку я тут знайшов, дала мені код від сховища: <password>.\n\n",
+    "path": "/edges/14/next/text/questLog",
+    "op": "replace"
+  },
+  {
+    "value": "Ти... екстрасенс?",
+    "path": "/edges/15/prev/text/skipMessage",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nПісля невеликих вмовлянь лакей надав мені код від сховища: <password>.\n\n",
+    "path": "/edges/15/next/text/questLog",
+    "op": "replace"
+  },
+  {
+    "value": "Жодне захищене кодом сховище не може тебе сповільнити?",
+    "path": "/edges/16/prev/text/skipMessage",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nПісля невеликих вмовлянь лакей надав мені код від сховища: <password>.\n\n",
+    "path": "/edges/16/next/text/questLog",
+    "op": "replace"
+  },
+  {
+    "value": "Гарний злам, напарнику! Які були шанси, що ти успішно вгадаєш?",
+    "path": "/edges/17/mid/text/skipMessage",
+    "op": "replace"
+  },
+  {
+    "value": "Ми ще навіть не знайшли цей код. Вражаючий злам, напарнику!",
+    "path": "/edges/18/mid/text/skipMessage",
+    "op": "replace"
+  },
+  {
+    "value": "Мені подобається твій стиль: не потрібно шукати код від сховища, просто вгадай його! Хороша робота, напарнику!",
+    "path": "/edges/19/mid/text/skipMessage",
+    "op": "replace"
+  },
+  {
+    "value": "Відмінна робота з пошуку всіх цих підказок, напарнику! У тебе достатньо інформації, щоб відстежити буйного ^green;капітана Ігнобла^reset; прямо зараз!",
+    "path": "/edges/29/prev/text/message",
+    "op": "replace"
+  },
+  {
+    "value": "Я не можу в це повірити, напарнику! Ти захопив загадкового ^orange;капітана Ігнобла^reset;! ^orange;Повернися на станцію миротворців^reset; для нового призначення.",
+    "path": "/edges/29/next/text/message",
+    "op": "replace"
+  }
+]

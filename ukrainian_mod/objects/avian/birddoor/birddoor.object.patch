@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Важкі золоті двері з кристалами, вставленими в їх поверхню."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Золоті кришталеві двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кристали в цих дверях дзижчать, наче генерують силу. Ця технологія невідома."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці двері дзижчать кришталевим резонансом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучі двері роблять Флорана щасливим."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Допитливий. Двері містять джерело живлення, яке я не розумію."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кристали в цих дверях теплі. Він ніжно дзижчить під моїми пальцями."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чудово різьблені кам'яні двері, прикрашені кристалами."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ну якщо це не найблискучіші двері, які я коли-небудь бачив."
+  }
+]

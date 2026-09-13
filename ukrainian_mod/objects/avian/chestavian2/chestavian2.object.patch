@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мокра стара скриня, виготовлена ​​з дерева та заліза."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стара скриня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стара на вигляд скриня. Цікаво, що всередині?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця скриня може виглядати старою, але вміст може бути цінним."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дуже стара скриня, можливо, містить скарб."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Стара на вигляд скриня, сподіваюся, її вміст корисний."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Знайти скриню завжди цікаво."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У цій старій на вигляд скрині могли б зберігатися скарби."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця стара скриня бачила кращі дні."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шолом, який зазвичай використовується для взаємодії з персональним механізмом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом пілота Mech"
+  }
+]

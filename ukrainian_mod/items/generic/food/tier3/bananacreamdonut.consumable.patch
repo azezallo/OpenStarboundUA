@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Смачний пончик з начинкою з банана та вершків. Це майже здорово!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пончик з банановим кремом"
+  }
+]

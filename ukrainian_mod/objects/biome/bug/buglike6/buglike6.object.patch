@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "-todo-"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вулик Буш"
+  }
+]

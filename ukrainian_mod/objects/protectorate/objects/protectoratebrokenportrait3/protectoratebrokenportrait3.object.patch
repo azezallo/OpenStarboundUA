@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Порвана фоторамка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Порвана фоторамка Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей портрет порвано."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Зруйнований портрет..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Зображення isssssstabbed."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. Розірваний портрет минулого великого Захисник."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей портрет зіпсований!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Розірваний портрет культової постаті."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей старий портрет бачив кращі дні."
+  }
+]

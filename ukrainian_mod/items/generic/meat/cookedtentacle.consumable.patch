@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Жувальний... Але в приємному сенсі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Варене щупальце"
+  }
+]

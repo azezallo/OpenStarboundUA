@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Швидкісні механічні прискорювачі середньої дальності у формі літери Z."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Zed Mech Boosters"
+  }
+]

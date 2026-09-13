@@ -1,0 +1,42 @@
+[
+  {
+    "value": "^orange;Тест-драйв",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Привіт, друже! Я - ^orange;доктор Акагі^white;, і я займаюся роботами! Мені потрібно провести випробування з тестовим ^green;модульним космічним мехом^white;, але мої пілоти... нездужають. Можеш зробити мені послугу і ^green;пролетіти на цьому меху мій тестовий курс^white;?\n\nПросто ^green;поговори зі мною, коли будеш готовий^white;!",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти повернувся! Це не здивування в моєму голосі, а захват! Як винагороду я дам тобі ^green;запасні компоненти меха^white;, щоб ти міг запускати власний мех у космос! Скористайся цією ^orange;монтажною станцією меха^white;, щоб налаштувати його!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Доктор Акагі",
+    "path": "/scriptConfig/portraits/questStarted/title",
+    "op": "replace"
+  },
+  {
+    "value": "Доктор Акагі",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "op": "replace"
+  },
+  {
+    "value": "Поговори з ^orange;доктором Акагі^reset; та йди на ^orange;тестовий курс^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "op": "replace"
+  },
+  {
+    "value": "Пройди ^orange;тест меха^reset;",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "op": "replace"
+  },
+  {
+    "value": "Повернись до ^orange;доктора Акагі^reset; на ^orange;Аванпост^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

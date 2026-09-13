@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Акуратно виготовлений стіл, прикрашений латунними трубами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стіл Steamspring"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Труби на цьому столі мають бути дуже міцними."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Латунні труби і дерев'яна стільниця добре поєднуються."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран задається питанням, чи удари по люльці викликають гучний шум."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Цей дерев'яний стіл здебільшого підтримується старими трубами."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Стіл з дерева і труб. Досить круто."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цікаво, чи справді труби на цьому столі допомагають підтримувати його?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я міг би зіграти в карти за таким столом."
+  }
+]

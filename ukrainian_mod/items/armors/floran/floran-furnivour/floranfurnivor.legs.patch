@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Схоже, він прикрашений хутром тварин з полювання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ноги Furnivor"
+  }
+]

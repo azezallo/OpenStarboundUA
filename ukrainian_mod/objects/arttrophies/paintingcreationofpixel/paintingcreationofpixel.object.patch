@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Грандіозна картина з двох вказівних фігур."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Грандіозний живопис"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Таке мистецтво було б заборонено Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це було б покращено, якби в ньому був Kluex."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Подивіться! Дві людини на полювання! Рідкісний улов!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Питання. Це полювання на знання в намальованому вигляді?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це справді рідкісна знахідка. Здається, це частина більшої картини."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чи зображує ця картина знання? Hylotl, безсумнівно, захопився б цим."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це малюнок людей, які плавають і вказують. Я не розумію."
+  }
+]

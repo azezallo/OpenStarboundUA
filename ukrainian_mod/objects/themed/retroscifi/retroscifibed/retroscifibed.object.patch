@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ліжко виконане в ретро-футуристичному стилі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ретро Pod"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ах, найкращий сон, який я коли-небудь мав, був в одному з них."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ви повинні встати спати в цьому ліжку."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssstange механічний контейнер призначений для sssleeping."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Піднесений. Таке ліжко забезпечує достатній відпочинок при збереженні вертикального положення."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це ліжко настільки ретро, ​​наскільки це можливо."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ліжко має бути не просто інструментом для відновлення енергії."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Сон у цьому ліжку змушує мене відчувати себе науковим експериментом."
+  }
+]

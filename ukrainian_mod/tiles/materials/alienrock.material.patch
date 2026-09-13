@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "This strange rock comes from an alien world."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чужий Рок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Amazed. This rock is of an alien origin."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить дивні скелі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Some kinda alien lookin' rock."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей компонент може бути корисним для створення ніг механізмів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Збережений актуатор"
+  }
+]

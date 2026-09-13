@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Весільна фата з шовкового тюлю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Весільна фата"
+  }
+]

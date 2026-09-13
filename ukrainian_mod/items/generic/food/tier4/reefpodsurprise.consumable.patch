@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Набагато кисліший, ніж ви могли очікувати. Сюрприз!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Reefpod Surprise"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "^orange;Розширений тест-драйв",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "У мене є модель нового ^green;корпусу меха^white;, який ідеально тобі підходить! Я також зробив розширений тестовий курс у поясі астероїдів, який, звісно ж, потрібно випробувати. Якщо ти ^green;пройдеш ^orange;розширений тестовий курс^green; зі своїм власним мехом^white;, я дам тобі креслення. Це безпрограшний сценарій, чи не так?",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зробив це! Напевно, я встановив недостатньо гігантських пилок. Я відправив креслення твого нового ^green;корпусу меха^white; на ^green;стіл створення деталей меха^white;. Ще раз дякую — дуже корисно мати лаборанта!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Доктор Акагі",
+    "path": "/scriptConfig/portraits/questStarted/title",
+    "op": "replace"
+  },
+  {
+    "value": "Доктор Акагі",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "op": "replace"
+  },
+  {
+    "value": "Поговори з ^orange;доктором Акагі^reset; і йди на ^orange;тестовый курс^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "op": "replace"
+  },
+  {
+    "value": "Пройди ^orange;розширений тест меха^reset;",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "op": "replace"
+  },
+  {
+    "value": "Повернися до ^orange;доктора Акагі^reset; на ^orange;Аванпост^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

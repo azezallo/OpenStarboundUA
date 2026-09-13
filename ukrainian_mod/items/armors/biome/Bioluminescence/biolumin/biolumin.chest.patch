@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Люмінесцентний костюм - сяй як зірка!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Світиться костюм"
+  }
+]

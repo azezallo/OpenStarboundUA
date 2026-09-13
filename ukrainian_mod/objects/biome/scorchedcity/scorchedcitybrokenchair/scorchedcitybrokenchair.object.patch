@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зламаний стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зламане стильне крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Зламаний стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Зламаний стілець, як сумно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей стілець зламався!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Цей стілець зламаний і ремонту не підлягає."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей стілець зламався."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Зламаний стілець. Він більше не підходить для цілей."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Колись це було крісло."
+  }
+]

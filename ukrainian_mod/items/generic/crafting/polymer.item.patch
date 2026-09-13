@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це якийсь полімер космічної ери."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Полімер космічної ери"
+  }
+]

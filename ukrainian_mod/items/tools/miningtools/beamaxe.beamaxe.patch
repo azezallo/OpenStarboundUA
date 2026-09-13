@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маніпулює всім, що має значення. ^green;Швидкий вибір за допомогою клавіші [R]."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маніпулятор матерії"
+  }
+]

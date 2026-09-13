@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця маска виглядає сердито."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Декоративна маска прибульця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Хвилинку, це Apex?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця маска є попередженням для Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Люди-птахи змушують Apex виглядати безглуздо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Ймовірно, ця маска повинна бути Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я думаю, що це має бути Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця маска Apex не дуже точна."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Невтішне зображення Apex."
+  }
+]

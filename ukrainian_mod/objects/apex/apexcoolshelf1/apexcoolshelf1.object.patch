@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На цій полиці немає нічого цікавого."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класна порожня полиця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Порожня полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Місце для складання предметів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Металева полиця холодна."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Тут нічого немає."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Порожня металева полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця полиця виглядає самотньою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тут нема чого подивитися."
+  }
+]

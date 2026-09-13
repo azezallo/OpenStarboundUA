@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Штани, до яких можна вирости."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Квітчасті брюки"
+  }
+]

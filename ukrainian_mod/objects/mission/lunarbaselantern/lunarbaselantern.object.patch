@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці електричні ліхтарі створюють приємне тепле світло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Місячний базовий ліхтар"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Невеликий, але ефектний ліхтар."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Електричний ліхтар з простою конструкцією."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискуче пристосування для освітлення доріжки Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Ці вогні чудові."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Яскраве джерело світла. Мабуть, мені не варто дивитися на це."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Підбадьорливе мерехтіння, яке нагадує мені про світлі дні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це електричний ліхтар, тому він не розрядиться."
+  }
+]

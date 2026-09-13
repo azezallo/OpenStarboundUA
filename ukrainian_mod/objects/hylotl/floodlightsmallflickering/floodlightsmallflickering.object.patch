@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленький мерехтливий прожектор"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленький мерехтливий вогник, який може працювати у воді."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Звичайна мерехтлива лампочка, захищена, щоб вона могла працювати під водою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це мерехтливе світло, здається, водонепроникне, тому воно може працювати у відкритій воді."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Мерехтіння лампочки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Мерехтливе водонепроникне світло."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це мерехтливе світло, призначене для роботи під впливом води."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це просто водонепроникна мерехтлива лампочка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це світло водонепроникне. Щось все ж вдалося пошкодити."
+  }
+]

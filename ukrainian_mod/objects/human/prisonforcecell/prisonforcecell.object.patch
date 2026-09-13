@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Можливо, якийсь ізолятор?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Force Cell"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця камера виглядає більш безпечною, ніж інші."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Бути в пастці в такому маленькому просторі було б пеклом навіть для людини, яка залишилася на землі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Маленький стручок, щоб утримувати поганих людей... Але чи робить це знову їх хорошими?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Силове поле в цій камері призначене для виведення з ладу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Камера, призначена для найнебезпечніших ув'язнених. Вбивці, злодії, грабіжники..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Варварська форма камери утримання."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це точно одна крихітна клітина."
+  }
+]

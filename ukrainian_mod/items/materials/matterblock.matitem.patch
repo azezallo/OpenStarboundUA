@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блок матерії. Блок, який має значення."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Блок матерії"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Зачарований. Здається, це рідкісна форма сировини."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Флоран повинен зібрати кольоровий кристал матерії."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Якісь дивні на вигляд кристали."
+  }
+]

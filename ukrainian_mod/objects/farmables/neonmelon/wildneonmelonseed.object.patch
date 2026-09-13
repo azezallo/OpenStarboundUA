@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Яскрава м’якоть нової дині на смак нагадує жуйку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння дині"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Соковита, смачна неондиня. Чим яскравіший колір, тим кращий смак."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Соковита неондиня, наповнена смачними сяючими насінням."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран sssmash neonmelon, щоб видавати звуки sssquelch. Також їсти."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Я завжди вважав, що неонова диня виглядає дуже смачно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ви можете з’їсти їх або прикрасити ними свою кімнату. Я піду на перший варіант."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Неондиня дуже солодка на смак. Зовнішній вигляд, однак, вишуканий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Неондиня дуже смачна всередині."
+  }
+]

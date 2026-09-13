@@ -1,0 +1,532 @@
+[
+  {
+    "value": "Блок",
+    "path": "/labels/block",
+    "op": "replace"
+  },
+  {
+    "value": "Рідина",
+    "path": "/labels/liquid",
+    "op": "replace"
+  },
+  {
+    "value": "Платформа",
+    "path": "/labels/platform",
+    "op": "replace"
+  },
+  {
+    "value": "Рейка",
+    "path": "/labels/rail",
+    "op": "replace"
+  },
+  {
+    "value": "Нагрудник",
+    "path": "/labels/chestarmour",
+    "op": "replace"
+  },
+  {
+    "value": "Шолом",
+    "path": "/labels/headarmour",
+    "op": "replace"
+  },
+  {
+    "value": "Поножі",
+    "path": "/labels/legarmour",
+    "op": "replace"
+  },
+  {
+    "value": "Наспинний предмет",
+    "path": "/labels/backwear",
+    "op": "replace"
+  },
+  {
+    "value": "Верхній одяг",
+    "path": "/labels/chestwear",
+    "op": "replace"
+  },
+  {
+    "value": "Головний убір",
+    "path": "/labels/headwear",
+    "op": "replace"
+  },
+  {
+    "value": "Нижній одяг",
+    "path": "/labels/legwear",
+    "op": "replace"
+  },
+  {
+    "value": "Набір захисту",
+    "path": "/labels/enviroProtectionPack",
+    "op": "replace"
+  },
+  {
+    "value": "Барвник",
+    "path": "/labels/clothingDye",
+    "op": "replace"
+  },
+  {
+    "value": "Кодекс",
+    "path": "/labels/codex",
+    "op": "replace"
+  },
+  {
+    "value": "Кулінарний інгредієнт",
+    "path": "/labels/cookingIngredient",
+    "op": "replace"
+  },
+  {
+    "value": "Матеріал",
+    "path": "/labels/craftingMaterial",
+    "op": "replace"
+  },
+  {
+    "value": "Валюта",
+    "path": "/labels/currency",
+    "op": "replace"
+  },
+  {
+    "value": "Напій",
+    "path": "/labels/drink",
+    "op": "replace"
+  },
+  {
+    "value": "Модуль",
+    "path": "/labels/eppAugment",
+    "op": "replace"
+  },
+  {
+    "value": "Яйце худоби",
+    "path": "/labels/farmBeastEgg",
+    "op": "replace"
+  },
+  {
+    "value": "Корм для худоби",
+    "path": "/labels/farmBeastFood",
+    "op": "replace"
+  },
+  {
+    "value": "Вудка",
+    "path": "/labels/fishingRod",
+    "op": "replace"
+  },
+  {
+    "value": "Риболовецькі приманки",
+    "path": "/labels/fishingLure",
+    "op": "replace"
+  },
+  {
+    "value": "Риболовецька котушка",
+    "path": "/labels/fishingReel",
+    "op": "replace"
+  },
+  {
+    "value": "Їжа",
+    "path": "/labels/food",
+    "op": "replace"
+  },
+  {
+    "value": "Сміття",
+    "path": "/labels/foodJunk",
+    "op": "replace"
+  },
+  {
+    "value": "Сміття",
+    "path": "/labels/junk",
+    "op": "replace"
+  },
+  {
+    "value": "Велика скам'янілість",
+    "path": "/labels/largeFossil",
+    "op": "replace"
+  },
+  {
+    "value": "Середня скам'янілість",
+    "path": "/labels/mediumFossil",
+    "op": "replace"
+  },
+  {
+    "value": "Ліки",
+    "path": "/labels/medicine",
+    "op": "replace"
+  },
+  {
+    "value": "Музичний інструмент",
+    "path": "/labels/musicalInstrument",
+    "op": "replace"
+  },
+  {
+    "value": "Таємнича нагорода",
+    "path": "/labels/mysteriousReward",
+    "op": "replace"
+  },
+  {
+    "value": "Нашийник",
+    "path": "/labels/petCollar",
+    "op": "replace"
+  },
+  {
+    "value": "Готова їжа",
+    "path": "/labels/preparedFood",
+    "op": "replace"
+  },
+  {
+    "value": "Квест",
+    "path": "/labels/quest",
+    "op": "replace"
+  },
+  {
+    "value": "Платформа для рейок",
+    "path": "/labels/railPlatform",
+    "op": "replace"
+  },
+  {
+    "value": "Трофейна деталь",
+    "path": "/labels/salvageComponent",
+    "op": "replace"
+  },
+  {
+    "value": "Корабельна ліцензія",
+    "path": "/labels/shipLicense",
+    "op": "replace"
+  },
+  {
+    "value": "Мала скам'янілість",
+    "path": "/labels/smallFossil",
+    "op": "replace"
+  },
+  {
+    "value": "Технологія",
+    "path": "/labels/tech",
+    "op": "replace"
+  },
+  {
+    "value": "Метальний предмет",
+    "path": "/labels/throwableItem",
+    "op": "replace"
+  },
+  {
+    "value": "Інструмент",
+    "path": "/labels/tool",
+    "op": "replace"
+  },
+  {
+    "value": "Торгова карта",
+    "path": "/labels/tradingCard",
+    "op": "replace"
+  },
+  {
+    "value": "Трофей",
+    "path": "/labels/trophy",
+    "op": "replace"
+  },
+  {
+    "value": "Компонент модернізації",
+    "path": "/labels/upgradeComponent",
+    "op": "replace"
+  },
+  {
+    "value": "Пульт управління",
+    "path": "/labels/vehicleController",
+    "op": "replace"
+  },
+  {
+    "value": "Паливо",
+    "path": "/labels/fuel",
+    "op": "replace"
+  },
+  {
+    "value": "Корм флуффало",
+    "path": "/labels/farmBeastFeed",
+    "op": "replace"
+  },
+  {
+    "value": "Деталь меха",
+    "path": "/labels/mechPart",
+    "op": "replace"
+  },
+  {
+    "value": "Торгові товари",
+    "path": "/labels/tradeGoods",
+    "op": "replace"
+  },
+  {
+    "value": "Фігурка",
+    "path": "/labels/actionFigure",
+    "op": "replace"
+  },
+  {
+    "value": "Артефакт",
+    "path": "/labels/artifact",
+    "op": "replace"
+  },
+  {
+    "value": "Крихкий предмет",
+    "path": "/labels/breakable",
+    "op": "replace"
+  },
+  {
+    "value": "Жук",
+    "path": "/labels/bug",
+    "op": "replace"
+  },
+  {
+    "value": "Реміснича станція",
+    "path": "/labels/crafting",
+    "op": "replace"
+  },
+  {
+    "value": "Декорація",
+    "path": "/labels/decorative",
+    "op": "replace"
+  },
+  {
+    "value": "Двері",
+    "path": "/labels/door",
+    "op": "replace"
+  },
+  {
+    "value": "Холодильна камера",
+    "path": "/labels/fridgeStorage",
+    "op": "replace"
+  },
+  {
+    "value": "Меблі",
+    "path": "/labels/furniture",
+    "op": "replace"
+  },
+  {
+    "value": "Загальне",
+    "path": "/labels/generic",
+    "op": "replace"
+  },
+  {
+    "value": "Джерело світла",
+    "path": "/labels/light",
+    "op": "replace"
+  },
+  {
+    "value": "Інше",
+    "path": "/labels/other",
+    "op": "replace"
+  },
+  {
+    "value": "Рейковий пункт",
+    "path": "/labels/railPoint",
+    "op": "replace"
+  },
+  {
+    "value": "Саджанець",
+    "path": "/labels/sapling",
+    "op": "replace"
+  },
+  {
+    "value": "Насіння",
+    "path": "/labels/seed",
+    "op": "replace"
+  },
+  {
+    "value": "Транспортний контейнер",
+    "path": "/labels/shippingContainer",
+    "op": "replace"
+  },
+  {
+    "value": "Колонізатор",
+    "path": "/labels/spawner",
+    "op": "replace"
+  },
+  {
+    "value": "Сховище",
+    "path": "/labels/storage",
+    "op": "replace"
+  },
+  {
+    "value": "Технологія управління",
+    "path": "/labels/techManagement",
+    "op": "replace"
+  },
+  {
+    "value": "Телепорт",
+    "path": "/labels/teleporter",
+    "op": "replace"
+  },
+  {
+    "value": "Точка телепортації",
+    "path": "/labels/teleportMarker",
+    "op": "replace"
+  },
+  {
+    "value": "Пастка",
+    "path": "/labels/trap",
+    "op": "replace"
+  },
+  {
+    "value": "Проводка",
+    "path": "/labels/wire",
+    "op": "replace"
+  },
+  {
+    "value": "Тераформер",
+    "path": "/labels/terraformer",
+    "op": "replace"
+  },
+  {
+    "value": "Штурмова гвинтівка",
+    "path": "/labels/assaultRifle",
+    "op": "replace"
+  },
+  {
+    "value": "Сокира",
+    "path": "/labels/axe",
+    "op": "replace"
+  },
+  {
+    "value": "Бумеранг",
+    "path": "/labels/boomerang",
+    "op": "replace"
+  },
+  {
+    "value": "Лук",
+    "path": "/labels/bow",
+    "op": "replace"
+  },
+  {
+    "value": "Палаш",
+    "path": "/labels/broadsword",
+    "op": "replace"
+  },
+  {
+    "value": "Чакрам",
+    "path": "/labels/chakram",
+    "op": "replace"
+  },
+  {
+    "value": "Арбалет",
+    "path": "/labels/crossbow",
+    "op": "replace"
+  },
+  {
+    "value": "Кинджал",
+    "path": "/labels/dagger",
+    "op": "replace"
+  },
+  {
+    "value": "Кулачна зброя",
+    "path": "/labels/fistWeapon",
+    "op": "replace"
+  },
+  {
+    "value": "Гранатомет",
+    "path": "/labels/grenadeLauncher",
+    "op": "replace"
+  },
+  {
+    "value": "Молот",
+    "path": "/labels/hammer",
+    "op": "replace"
+  },
+  {
+    "value": "Пістолет-кулемет",
+    "path": "/labels/machinePistol",
+    "op": "replace"
+  },
+  {
+    "value": "Пістолет",
+    "path": "/labels/pistol",
+    "op": "replace"
+  },
+  {
+    "value": "Ракетниця",
+    "path": "/labels/rocketLauncher",
+    "op": "replace"
+  },
+  {
+    "value": "Щит",
+    "path": "/labels/shield",
+    "op": "replace"
+  },
+  {
+    "value": "Короткий меч",
+    "path": "/labels/shortsword",
+    "op": "replace"
+  },
+  {
+    "value": "Дробовик",
+    "path": "/labels/shotgun",
+    "op": "replace"
+  },
+  {
+    "value": "Снайперська гвинтівка",
+    "path": "/labels/sniperRifle",
+    "op": "replace"
+  },
+  {
+    "value": "Спис",
+    "path": "/labels/spear",
+    "op": "replace"
+  },
+  {
+    "value": "Посох",
+    "path": "/labels/staff",
+    "op": "replace"
+  },
+  {
+    "value": "Жезл",
+    "path": "/labels/wand",
+    "op": "replace"
+  },
+  {
+    "value": "Іграшка",
+    "path": "/labels/toy",
+    "op": "replace"
+  },
+  {
+    "value": "Унікальна зброя",
+    "path": "/labels/uniqueWeapon",
+    "op": "replace"
+  },
+  {
+    "value": "Батіг",
+    "path": "/labels/whip",
+    "op": "replace"
+  },
+  {
+    "value": "Чертёж",
+    "path": "/labels/Blueprint",
+    "op": "add"
+  },
+  {
+    "value": "Инструмент",
+    "path": "/labels/Tool",
+    "op": "add"
+  },
+  {
+    "value": "Дрон",
+    "path": "/labels/Drone",
+    "op": "add"
+  },
+  {
+    "value": "Мусор",
+    "path": "/labels/Junk",
+    "op": "add"
+  },
+  {
+    "value": "Другое",
+    "path": "/labels/Other",
+    "op": "add"
+  },
+  {
+    "value": "Компонент модернизации",
+    "path": "/labels/Upgrade Component",
+    "op": "add"
+  },
+  {
+    "value": "Ловушка",
+    "path": "/labels/genboss",
+    "op": "add"
+  },
+  {
+    "value": "Космическая станция",
+    "path": "/labels/playerstation",
+    "op": "add"
+  }
+]

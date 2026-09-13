@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маска в костюмі пінгвіна. Це мило."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска в костюмі пінгвіна"
+  }
+]

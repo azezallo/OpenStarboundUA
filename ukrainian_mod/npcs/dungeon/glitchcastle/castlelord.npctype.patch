@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Переляк. Охороно! До мене!",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Переляк. Охороно! До мене!",
+    "path": "/scriptConfig/dialog/attack/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Переляк. Бандит! Охороно!",
+    "path": "/scriptConfig/dialog/attack/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Приголомшення. Я занадто молодий, щоб померти!",
+    "path": "/scriptConfig/dialog/attack/glitch/2",
+    "op": "replace"
+  },
+  {
+    "value": "Переляк. Охороно! Охороно, на допомогу!",
+    "path": "/scriptConfig/dialog/attack/glitch/3",
+    "op": "replace"
+  },
+  {
+    "value": "Зухвалість. Охороно, розберіть його на запчастини!",
+    "path": "/scriptConfig/dialog/attack/glitch/4",
+    "op": "replace"
+  },
+  {
+    "value": "Високомірність. Я міг би викинути тебе сам, але у мене для цього є охорона.",
+    "path": "/scriptConfig/dialog/attack/glitch/5",
+    "op": "replace"
+  },
+  {
+    "value": "Гнів. Ти проклянеш той день, коли вторгся сюди, розбійнику!",
+    "path": "/scriptConfig/dialog/attack/glitch/6",
+    "op": "replace"
+  },
+  {
+    "value": "Агресія. Ти покинеш це місце... по шматочках!",
+    "path": "/scriptConfig/dialog/attack/glitch/7",
+    "op": "replace"
+  }
+]

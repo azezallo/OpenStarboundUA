@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цифрова клавіатура безпеки, яка вимагає певної комбінації."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Цифрова клавіатура"
+  }
+]

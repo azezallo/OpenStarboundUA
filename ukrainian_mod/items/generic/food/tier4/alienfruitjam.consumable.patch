@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чужорідний фруктовий джем. Липкий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чужорідний фруктовий джем"
+  }
+]

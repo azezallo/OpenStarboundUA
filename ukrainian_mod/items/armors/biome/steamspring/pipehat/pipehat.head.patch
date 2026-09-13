@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей капелюх працює на пару."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капелюх-труба"
+  }
+]

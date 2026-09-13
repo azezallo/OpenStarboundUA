@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дозволяє постійно оновлювати свій корабель до більшого корвета типу Kestrel."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підроблена ліцензія Kestrel"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Титанові штани зі зручним клапаном ззаду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани піонерські"
+  }
+]

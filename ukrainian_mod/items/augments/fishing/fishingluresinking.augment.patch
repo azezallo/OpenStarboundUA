@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Важка приманка, яка швидко тоне."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тонуча приманка"
+  },
+  {
+    "op": "replace",
+    "path": "/lureName",
+    "value": "Тонуча приманка"
+  }
+]

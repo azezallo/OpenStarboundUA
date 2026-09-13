@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Їдьте по рейках!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рейковий гачок"
+  }
+]

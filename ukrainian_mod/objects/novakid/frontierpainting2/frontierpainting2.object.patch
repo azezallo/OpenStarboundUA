@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дивна картина із зображенням запряженого вагона."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розпис прикордонних вагонів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця картина виглядає як зелений фургон, запряжений твариною. Я не розумію."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не зовсім впевнений, що ця картина повинна представляти."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не отримує зображення."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Я не зовсім впевнений, чому ця картина зелена."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Здається, це малюнок вагона, але він зелений. Я не розумію."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я не можу зрозуміти значення цієї дивної картини."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це дуже дивна картина, я вам це даю."
+  }
+]

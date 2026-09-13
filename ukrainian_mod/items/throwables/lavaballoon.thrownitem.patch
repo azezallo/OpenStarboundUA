@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Повітряна куля лави"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Так само, як водяна куля, з однією помітною відмінністю."
+  }
+]

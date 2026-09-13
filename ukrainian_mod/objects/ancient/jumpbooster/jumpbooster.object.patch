@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Газ, що виділяється з цих жолобів, збільшує вашу силу стрибка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Jump Booster"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Якщо я стану над цим отвором, це прискорить мій стрибок."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей отвір збільшує висоту, на яку я можу стрибнути."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пройшовши цей газ, Флоран може стрибати, як чудовисько."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Ця пара дозволить мені стрибнути дуже високо."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це може виглядати небезпечно, але цей газ має корисні властивості."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Наповнений силою цього пара, я можу досягти нових висот."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей пристрій прискорює мої стрибки."
+  }
+]

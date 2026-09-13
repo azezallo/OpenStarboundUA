@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": "  Теракузня"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "value": "  Створюйте тераформери для перетворення цілих планет!"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "value": "Кувати"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей ведмедик хоче відпочити на вашій голові!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капелюшок Тедді"
+  }
+]

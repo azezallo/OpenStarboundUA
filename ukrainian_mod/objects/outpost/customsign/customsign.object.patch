@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Індивідуальна вивіска"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Хороші громадські вивіски є обов’язковими для будь-якої цивілізації."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Оригінальне пташине письмо втрачено у віках."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Слова слова слова"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Замислений. Знак схожий на примітивний інтерфейс."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Знаки призначені для життєво важливої ​​інформації або поганих каламбурів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Хоча це не можна порівняти з каліграфією Hylotl, наразі воно підійде."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якийсь знак."
+  }
+]

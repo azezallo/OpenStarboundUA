@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Товстий диск затверділого гриба."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гриб щитівка"
+  }
+]

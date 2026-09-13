@@ -1,0 +1,237 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "value": "Ласкаво просимо на борт!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/1",
+    "value": "Як ти сюди забрався?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/2",
+    "value": "Тримай руки подалі від наших припасів, і в нас не буде проблем."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/3",
+    "value": "Якщо тобі потрібні припаси, поговори з нашим квартирмейстером."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/4",
+    "value": "Раніше не бачив тебе на борту."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/5",
+    "value": "Ти новий член екіпажу?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/6",
+    "value": "Обережно на палубі, у вітряну погоду може хитати."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/7",
+    "value": "Переконайся, що поводишся добре."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/8",
+    "value": "Ти тут, щоб торгувати?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/9",
+    "value": "Це має свої труднощі, але життя повітроплавця — чудове!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/10",
+    "value": "Я б подумав двічі, якщо ти шукаєш бійки."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/11",
+    "value": "Не створюй проблем, і ніщо тобі не нашкодить."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/12",
+    "value": "Тримай свої руки при собі!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/13",
+    "value": "Ох, я сьогодні на прибиранні."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/14",
+    "value": "Прямо тут, у відкритому небі, ось моє місце!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/15",
+    "value": "Краще б тобі не задивлятися на наші речі!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/16",
+    "value": "Ніколи не думав придбати пов'язку на око?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/17",
+    "value": "Краєвид із головної палуби просто неймовірний!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/18",
+    "value": "Тільки спробуй якісь фокуси — і відправишся на гауптвахту!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/19",
+    "value": "Шукаєш припаси? Іди до квартирмейстера."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/20",
+    "value": "Що думаєш про наш корабель?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/21",
+    "value": "Коли я кажу людям, що живу на кораблі, вони завжди думають, що в мене цинга."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/22",
+    "value": "Всі ці пропелери потребують стількох зусиль для обслуговування!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/23",
+    "value": "Цікаво, як там моя родина."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/24",
+    "value": "Я тут новенький, але вже звикаю до небесних мандрів!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/25",
+    "value": "Ти здаєшся здібним, ніколи не думав про життя в небі?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/26",
+    "value": "Життя на дирижаблі не таке ідеальне, як про нього розповідають."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/27",
+    "value": "Кожен день та сама стара рутина."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/28",
+    "value": "Корабель хороший і все таке, але їжа жахлива! Вмієш готувати?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/29",
+    "value": "Цей корабель бачив і кращі часи, але це мій дім."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/30",
+    "value": "Заблукав?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/31",
+    "value": "На нашій останній зупинці ми роздобули чудові припаси!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/32",
+    "value": "Для когось це через гроші. Для мене ж — заради пригод!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/33",
+    "value": "У нашій роботі ми бачимо багато захопливого, але вона буває й небезпечною!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/34",
+    "value": "Краще б мені не спіймати тебе на крадіжці!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/35",
+    "value": "Тримай руки там, де я їх бачитиму..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/36",
+    "value": "Якщо тобі потрібні припаси, йди до квартирмейстера."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/37",
+    "value": "Один натяк на неповагу, і я покінчу з тобою!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/38",
+    "value": "Ми торгове судно за фахом, але не думай, що ми слабаки."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/39",
+    "value": "Ти виглядаєш так, ніби побував у кількох бійках."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/default/default/0",
+    "value": "Тримай руки там, де я їх бачитиму!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/default/default/1",
+    "value": "Я стежу за тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/default/default/2",
+    "value": "Не вигадуй собі ніяких дурниць."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/default/default/3",
+    "value": "Я слідкую за тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/default/default/4",
+    "value": "Краще б мені не побачити, як ти щось береш."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/default/default/5",
+    "value": "Якщо хочеш трохи наших припасів, іди поговори з квартирмейстером."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/default/default/6",
+    "value": "Тобі краще поводитися гарно, поки ти на цьому кораблі."
+  }
+]

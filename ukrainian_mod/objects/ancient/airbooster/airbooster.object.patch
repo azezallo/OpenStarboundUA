@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Газ, що виділяється з цих жолобів, змушує вас відчувати себе легким, як пір’їнка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підсилювач повітря"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Потік повітря з цього отвору є стимулом низької сили тяжіння."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей вентиляційний отвір імітує відчуття польоту!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Віддушина змушує Флорана літати!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Питання. Вентиляційний отвір, здається досить безпечним."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Збільште гравітацію!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Потік повітря через цей вентиляційний отвір дозволить мені економити енергію."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Іноді вам просто потрібен невеликий поштовх у житті."
+  }
+]

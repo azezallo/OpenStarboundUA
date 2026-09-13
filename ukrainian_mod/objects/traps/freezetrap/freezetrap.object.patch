@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей пристрій використовується для швидкого заморожування матеріалів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кріогенний бластер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Промінь, який випромінює цей пристрій, морозить до кісток."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Механізм заморозки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Лід може бути небезпечним."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Це високоінтенсивна морозильна установка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Стережіться жахливого вибуху."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Лід, вода у своїй найбільш смертоносній формі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей кріогенний бластер може відморозити лапи мідної мавпи."
+  }
+]

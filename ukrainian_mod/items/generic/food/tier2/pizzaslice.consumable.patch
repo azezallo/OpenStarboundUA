@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарячий шматочок пепероні піци."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "шматочок піци"
+  }
+]

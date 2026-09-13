@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Не турбуйся, я розберуся з цим.",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Що це за почвара?!",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Привіт, мандрівнику, можна приєднатися до тебе?",
+    "path": "/scriptConfig/dialog/follower/join/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти виглядаєш сильним. Тепер ми друзі.",
+    "path": "/scriptConfig/dialog/follower/join/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Оце так була бійка!",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Фух! Ти й сам непогано впорався...",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я почекаю тут.",
+    "path": "/scriptConfig/dialog/follower/wait/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти повернувся!",
+    "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/0",
+    "op": "replace"
+  }
+]

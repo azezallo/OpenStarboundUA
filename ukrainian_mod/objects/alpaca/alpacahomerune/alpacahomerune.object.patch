@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стародавня руна, яка є символом рідного дому."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Домашня руна"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стара звичайна руна, яка вказує на поняття дому."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Стародавня руна означає дім."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Руна означає дім."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Питання. Руна означає дім, але що означає дім?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чи використовують люди цю руну для позначення дому чи для позначення своїх домівок іншим?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можна запитати, чи взагалі можна визначити поняття дому."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей символ означає дім. Для мене дім там, де блукає серце."
+  }
+]

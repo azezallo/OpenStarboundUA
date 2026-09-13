@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей факел загорнутий у рослинний покрив."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Факел рослин"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Палаючий факел, скріплений рослиною."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Рослина, обвита навколо цього смолоскипа, не обпалюється полум'ям."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Для стримування вогню Флоран використовує спеціальні рослини."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Цей факел зроблений з рослини, яка не горить."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не можу повірити, що рослина, з якої зроблено цей факел, не горить."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Деякі компоненти рослини в цьому факелі підживлюють полум’я."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Як рослина, що тримає цей факел, не згорає?"
+  }
+]

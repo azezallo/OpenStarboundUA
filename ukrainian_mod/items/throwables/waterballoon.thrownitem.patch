@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Водна куля"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Улюбленець дітей і пустунів у всьому світі."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прототип механізму з відкритим верхом, розроблений для пілотів Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Arthuria-00 Mech Body"
+  }
+]

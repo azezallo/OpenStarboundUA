@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Череп на щуку. Улюбленець Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Череп на щуку"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Людський череп, розміщений на щуці."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "На відміну від Флорана, пташина культура вшановує мертвих."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран демонструє свої мисливські трофеї на шпицях."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Череп цієї щуки схожий на людський."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей череп виглядає вивітреним, він був на цьому шипі деякий час."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Череп, що сидить на мисливській щуці Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Череп сидить на щуці, просто не правильно."
+  }
+]

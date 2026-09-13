@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цифровий пісочний годинник. Він застряг у постійному стані."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пісочний годинник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Пісочний годинник. Він не закінчується. Можливо, збій?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Прилад для вимірювання часу. Здається, застрягло."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssand не провалюється. Чому це?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Цей таймер ніколи не закінчується."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Старий пісочний годинник... Пісок просто йде."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пісок, здається, нескінченний. Що тут відбувається?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Чому цей таймер ніколи не закінчується?"
+  }
+]

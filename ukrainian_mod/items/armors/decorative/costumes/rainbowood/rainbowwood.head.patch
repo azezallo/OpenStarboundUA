@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це ніби хтось обезголовив райдужне дерево."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом Rainbow Wood"
+  }
+]

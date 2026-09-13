@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Смачно пахучий цукерковий блок!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Цукерковий блок",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Захоплено. Здається, це гігантський шматок твердої карамелі.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "У цукерки кольорові сссмужки. Флоран хоче з'їсссти.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Великий цукерковий блок, файний такий.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

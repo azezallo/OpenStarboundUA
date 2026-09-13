@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Висячі пустельні камені.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Висячі пустельні камені",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Пісссщані камені.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Висячі пустельні камені.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

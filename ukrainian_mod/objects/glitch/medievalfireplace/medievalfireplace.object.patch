@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "Середньовічний камін"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кам'яний камін. Хороший спосіб зігріти холодний замок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічний камін"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тріск вогню мене заспокоює."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кам'яна споруда і вогонь всередині. Ймовірно, створений для забезпечення тепла."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран волів би замерзнути, аніж палити вогнем."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. Я обожнюю сидіти біля вогнища в холодну ніч."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Теплий кам'яний вогонь. Все, що мені зараз потрібно, це пакет зефіру."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Температура в містах Hylotl ретельно контролюється. Приємно відчувати на своїй шкірі тепло вогню."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ніщо не зрівняється з солодким запахом лісового диму."
+  }
+]

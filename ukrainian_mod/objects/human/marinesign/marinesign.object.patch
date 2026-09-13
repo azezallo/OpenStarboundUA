@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Знову ж таки, що означає USCM?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак USCM"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Знак, що рекламує USCM, розпущену людську військову фракцію."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Очевидно, що на цій території колись була людська військова присутність."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дурний, кричущий знак. Floransss намагаються бути більш ssssleep щодо їх присутності."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Продуманий. Людська військова тактика передбачає багато бравади."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "USCM, так? Цим хлопцям не дуже сподобався Земного Захисту Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Людські військові, звичайно, люблять, щоб їх присутність відчувалася."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не чув про цих хлопців, але, судячи з того, у якому стані цей знак, їх уже давно немає."
+  }
+]

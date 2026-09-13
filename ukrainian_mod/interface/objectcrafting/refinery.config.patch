@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/toggleCrafting/caption",
+    "value": "Очистити"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblText/value",
+    "value": "^#b9b5b2;Руду в лівий слот для пікселів."
+  }
+]

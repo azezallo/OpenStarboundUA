@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мені точно знадобиться трохи води..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кришка свердловини"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Приваблива кришка колодязя з прикріпленим відром. Виглядає добре використаним."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ручка виглядає так, ніби піднімає і опускає відро."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Металісти будують маленький будинок для відра. Металісти люблять відро."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Незадоволений. Селяни використовують такі колодязі для отримання питної води. Часто вода брудна або забруднена."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чарівна кришка для колодязя."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мені важко осягнути світ, у якому воду доводиться тягати відрами."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Класичний спосіб отримати воду, краще стежити, щоб я не впав."
+  }
+]

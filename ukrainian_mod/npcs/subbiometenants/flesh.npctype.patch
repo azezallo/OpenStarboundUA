@@ -1,0 +1,87 @@
+[
+  {
+    "value": "ТУТ МАЄ БУТИ БІЛЬШЕ М'ЯСНИХ РЕЧЕЙ, НІЖ ЗАРАЗ!",
+    "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "ЩО СТАЛОСЯ З МОЇМИ М'ЯСНИМИ МЕБЛЯМИ?",
+    "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "ТУТ ЗЛАМАНА СТІНА! ТИ МОЖЕШ ДОПОМОГТИ?",
+    "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "ТУТ ТЯГНЕ ПРОТЯГОМ, У МЕНЕ ЩО, ДІРКИ В СТІНАХ?",
+    "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "ГЕЙ, СЮДИ НІКОМУ НЕ МОЖНА ПЕРЕЇЖДЖАТИ!",
+    "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "ХІБА ЦЕ ПРИМІЩЕННЯ НЕ ДЛЯ МЕНЕ?",
+    "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "ЯКЩО З МОЇМ БУДИНКОМ ТАКЕ, Я НЕ МОЖУ ТОРГУВАТИ!",
+    "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "ЯК Я ШУКАТИМУ М'ЯСНІ ТОВАРИ В ТАКИХ УМОВАХ?!",
+    "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "ДОБРЕ, ПОРА ПОШУКАТИ М'ЯСНУ УДАЧУ ДЕСЬ ІНДЕ!",
+    "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я НЕ МОЖУ ТАК БІЛЬШЕ ЖИТИ, ПОРА РУХАТИСЯ ДАЛІ, У М'ЯСНУ НЕВІДОМІСТЬ!",
+    "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "ГЕЙ, ТОБІ ЩОСЬ ПОТРІБНО?!",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "ГЕЙ ТАМ, ЩО ПОТРІБНО?",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "МЕНІ ТРАПИЛОСЯ ЦЕ ПІД ЧАС ТОРГІВЛІ! ЦЕ ПОДАРУНОК ТОБІ!",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "ТОРГУЮЧИ, Я НАТРАПИВ НА ЦЕ! ТРИМАЙ! СПОДІВАЮСЬ, ТОБІ СПОДОБАЄТЬСЯ!",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я ПРОДАВЕЦЬ РІДКІСНИХ М'ЯСНИХ ТОВАРІВ! Я ДІСТАНУ ЩОСЬ ХОРОШЕ ДЛЯ ТЕБЕ, ЯКЩО ЗМОЖУ!",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я ШУКАЮ РІДКІСНІ М'ЯСНІ ЦІННОСТІ. ЗАХОДЬ ДО МЕНЕ ЯКОСЬ, Я Б ПРИГОТУВАВ ПОДАРУНОК ДЛЯ ТЕБЕ!",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я ШУКАЮ М'ЯСНІ ЦІННОСТІ! Я СКАЖУ, ЯКЩО ЩОСЬ ЗНАЙДУ ДЛЯ ТЕБЕ!",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  }
+]

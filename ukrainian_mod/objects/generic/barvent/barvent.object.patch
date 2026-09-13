@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Невеликий заґратований вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вентиляційний отвір із перегородкою"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стандартний вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Вентиляція. Я відчуваю, як вітерець тріпає моє пір’я"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це отвір!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Подяка. Вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже на вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Проста, але потужна вентиляція."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Міцний вентиляційний отвір."
+  }
+]

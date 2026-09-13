@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Теплоіндукційні ремінці для тіла. Можливо, модно?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ремінець грудей"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Надзвичайно облягаючі джинси для тих, хто стежить за модою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вузькі джинси"
+  }
+]

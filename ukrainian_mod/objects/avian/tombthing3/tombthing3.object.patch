@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Відкрита кам'яна могила. Пахне."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Відкрита кам'яна могила"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Могила без оздоблення. Або тіло."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Гробниця для тих, хто не міг дозволити собі саркофаг. Цей відкритий."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран вважає, що мертві повинні повернутися на землю. Можливо, мертвий погодився."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Глюк збирає мертвих на запчастини. Те саме могло статися і тут."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Депресивне місце, де можна провести вічність. Схоже, що мешканець гробниці відчував те саме."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можливо, тілу призначили більш почесне місце спочинку."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Він порожній. Куди поділося тіло?"
+  }
+]

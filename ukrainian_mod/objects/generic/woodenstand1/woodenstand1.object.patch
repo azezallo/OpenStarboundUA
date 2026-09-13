@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тонка міцна дерев'яна підставка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тонка дерев'яна підставка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Вузька дерев'яна підставка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Суцільний шматок різьбленого дерева. Можливо, використовується для демонстрації предметів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Для чого тут дерев'яний пень?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Об’єкт, який використовується для відображення об’єктів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Невелика підставка для демонстрації."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Плінтус, для демонстрації мистецтва."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Підставка... Для чогось."
+  }
+]

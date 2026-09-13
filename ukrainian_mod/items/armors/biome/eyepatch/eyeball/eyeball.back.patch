@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий зоровий нерв."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зоровий нерв"
+  }
+]

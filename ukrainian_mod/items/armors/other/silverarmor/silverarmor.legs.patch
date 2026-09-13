@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блискучі ніжки зі срібла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Срібні Гривз"
+  }
+]

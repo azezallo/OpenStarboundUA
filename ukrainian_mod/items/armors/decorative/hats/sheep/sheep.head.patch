@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прокинься, вівці!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Овечий капелюх"
+  }
+]

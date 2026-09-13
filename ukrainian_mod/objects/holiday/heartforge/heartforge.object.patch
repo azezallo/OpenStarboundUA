@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Саме те, щоб зробити подарунок, щоб показати комусь, що ти піклуєшся."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кузня серця"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Кузня серця"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Поділіться любов'ю"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Святкова кузня з інструментами для виготовлення святкових прикрас."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця святкова кузня дозволить мені поширювати святковий настрій."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран робить красиві червоні бантики."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Святковий. Я створю найсмачнішу жуйку."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "У цій кузні я можу виготовити купу святкових прикрас!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "З цією кузнею я можу створити найпривабливіші святкові прикраси."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця тут кузня дозволить мені виготовляти святкові речі!"
+  }
+]

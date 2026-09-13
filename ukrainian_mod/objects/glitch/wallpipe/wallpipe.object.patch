@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Каналізаційна труба."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Настінна труба"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Функціональна, хоч і брудна труба."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Каналізаційна труба, я не хочу отримати брудне пір'я!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Каналізаційна труба."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. труба."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "труба. Виглядає якось... брудно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Труба для каналізації."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто труба. Сподіваюсь, у ньому не ховаються жодні тварини."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Військовий намет."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Військовий намет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Намет, який часто використовують ті, хто відпочиває поза домом."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Намет, який часто використовують ті, хто далеко від дому."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Намет - хороший притулок у пустелі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "роздратований. Немає багато місця."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей намет був би не зайвим у військовому містечку."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Намет мілітаристського вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якийсь військовий намет."
+  }
+]

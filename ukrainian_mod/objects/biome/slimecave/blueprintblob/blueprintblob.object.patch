@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "План, укладений у мерзенний міхур слизу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Blueprint Blob"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "План, закутаний у мерзенний слиз."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Усередині закладено якийсь план."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це креслення всередині?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Здається, він містить план."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Всередині цієї речі є якийсь план!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я бачу, що Флорани знайшли гідний контейнер для своїх дизайнів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця річ точно не здається практичною."
+  }
+]

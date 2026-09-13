@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мій капелюх, у нього три кути, три кути має мій капелюх!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Трикутний капелюх"
+  }
+]

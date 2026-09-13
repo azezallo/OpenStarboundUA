@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маркер для підлоги."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Поверх"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Підлоговий знак."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Поверховий знак."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Знак підлоги."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Кмітливість. Підлоговий знак."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Поверховий знак."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Поверховий знак."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це знак підлоги! Вупі!"
+  }
+]

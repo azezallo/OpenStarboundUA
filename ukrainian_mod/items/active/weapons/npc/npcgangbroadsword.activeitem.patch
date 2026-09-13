@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потужна дворучна зброя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "NPC Gang Weapon"
+  }
+]

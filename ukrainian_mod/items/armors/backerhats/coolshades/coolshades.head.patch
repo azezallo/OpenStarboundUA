@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дійсно класний набір відтінків. Схоже, хтось відомий носив би їх."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Холодні відтінки"
+  }
+]

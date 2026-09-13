@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленький гейзер, оповитий лозами, що ростуть."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Малий зарослий гейзер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей маленький гейзер, здається, не активний."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "З цього гейзера не йде пара, тому я думаю, що він неактивний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Рослини насичуються енергією з цього маленького гейзера."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Впевнений. Немає ознак того, що цей гейзер вибухне."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "По всьому цьому маленькому гейзеру повзли рослини."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей маленький гейзер здається інертним, але я повинен триматися подалі про всяк випадок."
+  },
+  {
+    "op": "replace",
+    "path": "/novaDescription",
+    "value": "Я не думаю, що цей маленький гейзер створить мені проблеми."
+  }
+]

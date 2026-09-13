@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": " Багаття"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "value": " ^#b9b5b2;Польова кухня"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "value": "Пригот."
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnStopCraft/caption",
+    "value": "Зупинити"
+  }
+]

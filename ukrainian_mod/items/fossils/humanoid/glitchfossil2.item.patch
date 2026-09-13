@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Роз’їдений торс Глітча."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Глюк Торс"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей мідний блок має чіткий відбиток, схожий на шестерню."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мідний зубчастий блок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "в захваті. Я вважаю зубчасту форму цих блоків приємною."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Мідні блоки, як механізми машин."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мідні блоки, вони схожі на шестерні."
+  }
+]

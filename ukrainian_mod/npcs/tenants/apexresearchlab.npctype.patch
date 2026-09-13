@@ -1,0 +1,52 @@
+[
+  {
+    "value": "Гірський",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Грізний",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Туманний",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Сяючий",
+    "path": "/scriptConfig/dialog/converse/apex/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Божествен.",
+    "path": "/scriptConfig/dialog/converse/apex/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Небесний",
+    "path": "/scriptConfig/dialog/converse/apex/apex/0",
+    "op": "replace"
+  },
+  {
+    "value": "Океаніч.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ефірний",
+    "path": "/scriptConfig/dialog/converse/apex/apex/2",
+    "op": "replace"
+  },
+  {
+    "value": "Реальний",
+    "path": "/scriptConfig/dialog/converse/apex/apex/3",
+    "op": "replace"
+  },
+  {
+    "value": "Матеріал.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/4",
+    "op": "replace"
+  }
+]

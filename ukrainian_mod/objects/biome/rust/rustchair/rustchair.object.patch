@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Іржаве крісло. Не відмовляйтеся від цього."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іржаве крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це крісло бачило кращі дні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Старе, іржаве крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Крісло для лизання Флорана. Крісло не смачне."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здригаючись. Сидіти тут було б тортурою."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Іржаве крісло. Я можу отримати замкову щелепу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це крісло минуло."
+  }
+]

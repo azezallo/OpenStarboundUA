@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Базова лава."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лава"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Звичайна лавка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Лава."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssseat."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Лава."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Лава."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Проста лавка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просте місце для відпочинку втомлених ніг."
+  }
+]

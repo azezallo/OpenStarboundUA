@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Солодкий тропічний сік з ківі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сік ківі"
+  }
+]

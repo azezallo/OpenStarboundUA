@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Екзотична квітка з джунглів.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Квітка з джунглів",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Квітка нагадує флорану про дім.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Квітка росте в джунглях.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

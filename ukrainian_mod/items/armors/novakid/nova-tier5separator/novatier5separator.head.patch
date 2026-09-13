@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей першокласний головний убір захистить вас від пилу та ваших ворогів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капелюх Вармінта"
+  }
+]

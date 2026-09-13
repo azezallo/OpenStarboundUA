@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Я дуже-дуже спізнився!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Годинник Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мені справді треба поспішати до актової зали."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я справді спав як колода. Мені краще поспішати!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Час цокає. Флорану слід пришвидшитися."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підкреслив. Мені дійсно варто рухатися далі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вау, це час? Мені варто поспішати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Не можу повірити, що вже той час!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Церемонія нікого не чекає. Мені краще поспішати."
+  }
+]

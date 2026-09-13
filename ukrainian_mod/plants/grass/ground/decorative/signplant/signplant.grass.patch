@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Дивна рослина з маркуванням на ній.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Дивна рослина",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран виссскористовує цю россслину як знаки.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Розгубленість. Ця рослина здатна передати повідомлення.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

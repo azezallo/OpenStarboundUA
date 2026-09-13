@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика пара декоративних дзвіночків. Саме те, щоб відчути святковий настрій!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гігантські святкові дзвони"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гігантські дзвони! Веселий!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Радісні дзвіночки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Бонг бонг бонг!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Веселий. Веселі святкові дзвони."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це нагадує мені те, що я вдома одна."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці дзвіночки видають веселий звук."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Б’юся об заклад, ці гігантські дзвони десь справді святкові."
+  }
+]

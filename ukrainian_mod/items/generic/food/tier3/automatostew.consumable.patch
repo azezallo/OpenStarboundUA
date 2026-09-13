@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Напрочуд смачне рагу, якщо остерігатися шматочків металу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Автоматична рагу"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Буйничи! Збожеволіти! Пораніть себе та інших!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розкладний стілець"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плакат Moleman"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Плакат у рамці для культового хіта \"Пророцтво людини-крота\"."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це антагоніст на плакаті? Виглядає жахливо..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей фільм виглядає дуже страшно... Особливо той монстр на постері."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Кротовик? Це просто дуже страшна людина."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Хто такий Кротоман і яке його пророцтво?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гілотл має кілька смішних ідей про фільми жахів..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можливо, це був найжахливіший фільм, який я коли-небудь бачив."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Страшний фільм, якщо я так скажу."
+  }
+]

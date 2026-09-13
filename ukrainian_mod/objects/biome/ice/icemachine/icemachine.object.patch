@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Диспенсер для льоду з льоду. Це крижаний лід, крихітко."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Машина для льоду"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Льодогенератор у багатьох відношеннях."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Лід зберігає інший лід холодним. Розумний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран лізе в льодовик, тремтить, вилазить."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Математичний. У цьому дозаторі льоду рівно шість тисяч чотириста вісімдесят чотири кубики льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Диспенсер для льоду, один із найвидатніших винаходів людства."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Коробка для льоду, зроблена з льоду. Цікаво."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Весь цей лід просто склеїться, утворивши один великий кубик льоду, чи не так?"
+  }
+]

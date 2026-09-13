@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Покрийте голову гігантською плямою слизу. Що може піти не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Слизова маска"
+  }
+]

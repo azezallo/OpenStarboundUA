@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Металева огорожа з червоно-чорними попереджувальними смугами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Майнінг Перила"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Металеві перила, розписані червоно-чорними смугами."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Металева огорожа."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану набридли огорожі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Перила реалізовані для безпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Металеві поручні, щоб люди не падали з платформ."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Звичайна на вигляд людська конструкція."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто нудний паркан."
+  }
+]

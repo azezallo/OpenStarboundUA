@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шапка прямо з Батьківщини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ушанка"
+  }
+]

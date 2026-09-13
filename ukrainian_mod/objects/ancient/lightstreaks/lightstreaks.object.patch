@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Яскраві світлі смуги."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Світлі смуги"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Згори ллється світло."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Небесне сяйво."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить sssunlight!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Світло освітлює руїни настільки, щоб їх було видно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Світлові промені - Для створення настрою!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Світло пронизує темряву, як сонячні промені в океані."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці світлові промені спокійні."
+  }
+]

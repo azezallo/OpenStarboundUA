@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Знак із зображенням електронного компонента, що позначає станцію електроніки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Електроніка станції знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей знак позначає станцію електроніки."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей знак позначає станцію електроніки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей знак електроніки яскравий."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інформований. Зображення цього компонента позначає станцію електроніки."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Знак, який позначає станцію електроніки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такі знаки зазвичай означають, що неподалік є станція електроніки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Вважайте, що цей знак означає, що тут має бути станція електроніки."
+  }
+]

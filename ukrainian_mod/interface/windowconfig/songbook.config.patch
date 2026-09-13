@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": "Збірка пісень"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "value": "^#b9b5b2;Вся музика тут"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnPlay/caption",
+    "value": "Грати"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потужний, щоб долати великі відстані."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гнів Тесли"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Гнів Тесли ^yellow;^reset;"
+  }
+]

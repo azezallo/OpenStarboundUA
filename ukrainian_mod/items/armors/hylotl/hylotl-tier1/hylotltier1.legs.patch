@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виготовлені із заліза, ці вишукані, зручні штани мають ганебну назву."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани Puddle"
+  }
+]

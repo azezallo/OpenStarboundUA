@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцний корпус механізму, спочатку розроблений корпорацією Letheia."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Venturer Mech Body"
+  }
+]

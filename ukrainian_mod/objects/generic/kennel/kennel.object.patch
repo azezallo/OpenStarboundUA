@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чарівний розплідник для чарівного вихованця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розплідник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Для Apex це розкішний будинок."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якийсь будиночок для істоти."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран сховайся в будинку, доки істота не повернеться, а потім удари!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Щаслива. У цьому розпліднику міг би розміститися чарівний собака-робот."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Розплідник. Тепер мені просто потрібна собака, щоб піти з ним."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей грубий будинок пахне мокрим собакою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Розплідник домашніх тварин! Ліл на кривій стороні, але хто скаржиться?"
+  }
+]

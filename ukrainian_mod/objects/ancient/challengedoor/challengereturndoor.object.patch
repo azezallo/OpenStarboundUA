@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Я дуже сподіваюся, що ці двері повернуть мене в реальність!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Двері виклику"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці ворота повинні бути виходом."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дякую Kluex. Я вважаю, що це має бути мій вихід."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран здогадується, що це двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "З надією. Звичайно, це має бути вихід звідси."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я дуже сподіваюся, що ці двері повернуть мене в реальність!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Все, що має початок, має закінчитися. Мені час покинути це місце."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Час мені покидати це місце."
+  }
+]

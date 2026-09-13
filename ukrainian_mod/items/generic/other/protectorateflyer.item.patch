@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей листівка присвячена церемонії випуску Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Випускний листівка"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пара акцій. Середньовічний спосіб покарання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічні запаси"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Набір запасів. Одна з небагатьох принизливих речей, які Міннаук ще належить дослідити."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, якась стриманість."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дерев'яна річ sssmell неприємних фруктів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вжахнувся. Ви б не хотіли, щоб вас посадили в них."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якби ви розповіли цій акції смішний анекдот, це було б... Посміховиськом. я веселий"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Створений, щоб стримувати когось, поки ви закидаєте їх гнилими фруктами."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Запаси для блокування розбійників."
+  }
+]

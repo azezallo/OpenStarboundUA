@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Підказка для винагороди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підказка сканування 1"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Відбиток руки!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хтось залишив цей відбиток руки, але мій сканер може виявити його слід!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран бачить руку!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інтригуючий. Сканування може виявити слабкий слід когось, хто був тут нещодавно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей дивно великий відбиток руки, мабуть, залишився тут нещодавно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей відбиток руки тут практично непомітний неозброєним оком. На щастя, я досить спостережливий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей відбиток руки не міг бути зроблений занадто давно, я вважаю!"
+  }
+]

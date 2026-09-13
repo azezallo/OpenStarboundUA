@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Елегантний автоматичний літограф."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "МАЛЬБЕЛЬТ"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я можу надрукувати всі види знаків тут."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це місце, де я можу робити та друкувати знаки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Скільки слів - це забагато слів? три. Три слова."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Гутенбергбот був би зачарований цією штуковиною."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Тут я можу створювати спеціальні знаки!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Знаки інформують і просвітлюють."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я міг би робити всілякі знаки, якби не був так зайнятий пригодами."
+  }
+]

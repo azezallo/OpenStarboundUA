@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тканинна маска черепа. Найстрашніший спосіб приховати обличчя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска черепа"
+  }
+]

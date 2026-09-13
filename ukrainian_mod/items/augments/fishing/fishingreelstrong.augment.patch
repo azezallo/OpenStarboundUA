@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Важка котушка з високоякісною волосінню, яка не зламається так легко."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Котушка високого натягу"
+  },
+  {
+    "op": "replace",
+    "path": "/reelName",
+    "value": "Котушка високого натягу"
+  }
+]

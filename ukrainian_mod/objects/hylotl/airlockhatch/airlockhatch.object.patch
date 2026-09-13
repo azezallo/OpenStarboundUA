@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцний шлюзовий люк."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Герметичний шлюзовий люк"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чудовий великий повітряний шлюз. Міцний."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Страшно великий металевий люк."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Fishman побудував великий міцний люк! Непогано, Фішман... Непогано..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Де дверна ручка?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це відхід від традиційної естетики Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей повітряний шлюз забезпечує безпеку найвищого рівня."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Міцний на вигляд люк."
+  }
+]

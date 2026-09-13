@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Набір рослинних волокон."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рослинна клітковина"
+  }
+]

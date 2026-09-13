@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створіть власного шеф-кухаря!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шеф Спаунер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей кухар буде моїм рабом?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Викликати шеф-кухаря було б ідеально."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран найми людину для приготування м'яса!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розпитування. Чи кухар колись справді вільний?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це буде краще, ніж у McFlorans!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Сподіваюся, цей шеф-кухар поважає мій чутливий смак."
+  }
+]

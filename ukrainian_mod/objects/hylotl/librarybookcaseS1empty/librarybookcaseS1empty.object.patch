@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Книжкова шафа з ошатним різьбленням. Він заповнений лише частково."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленька Позбавлена ​​Книжкова Шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це досить шикарна стара книжкова шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Вишукана книжкова шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran sssmash книжкова шафа вже."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "ревнивий. Ця книжкова шафа досить шикарна."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Шикарна книжкова шафа для шикарних книг."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Традиційна книжкова шафа, вона, звичайно, вишукана різьба."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Книжкова шафа, повна книг."
+  }
+]

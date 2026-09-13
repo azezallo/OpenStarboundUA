@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Для тих, хто хоче без страху протистояти стихії."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пустельний головний шарф"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "path": "/opensb/groups/camera/name",
+    "value": "Камера"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/groups/voice/name",
+    "value": "Голос"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/groups/building/name",
+    "value": "Будівництво"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/groups/inventory/name",
+    "value": "Інвентар"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/groups/editing/name",
+    "value": "Редагування"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/binds/zoomIn/name",
+    "value": "Наблизити камеру"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/binds/takeAll/name",
+    "value": "Забрати все з контейнера"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/binds/zoomOut/name",
+    "value": "Віддалити камеру"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/binds/pushToTalk/name",
+    "value": "Кнопка розмови (PTT)"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/binds/materialCollisionCycle/name",
+    "value": "Зміна колізії матеріалу"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/binds/buildingRadiusGrow/name",
+    "value": "Збільшити радіус будівництва"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/binds/buildingRadiusShrink/name",
+    "value": "Зменшити радіус будівництва"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/binds/blockSwapToggle/name",
+    "value": "Перемикач заміни блоків"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/binds/editingCopyItemJson/name",
+    "value": "Скопіювати предмет в курсорі"
+  },
+  {
+    "op": "replace",
+    "path": "/opensb/binds/editingPasteItemJson/name",
+    "value": "Вставити предмет в курсор"
+  }
+]

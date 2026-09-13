@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Скоро ти станеш справжнім Захисником зі своїм власним маніпулятором матерії. Це має бути цікаво!",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я чув, що ці маніпулятори матерії здатні демонтувати будь-який матеріал.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо ти отримаєш призначення на один із віддалених світів - не забувай, що в тебе завжди є друзі тут, на Землі!",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Привіт, <entityname>! Є хвилинка потеревенити?",
+    "path": "/scriptConfig/dialog/speak/default/default/0",
+    "op": "replace"
+  }
+]

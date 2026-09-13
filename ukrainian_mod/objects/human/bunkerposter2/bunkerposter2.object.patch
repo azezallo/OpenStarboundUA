@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Не варто засмучуватися."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Заспокійливий плакат"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Велика мавпа? Тут? Навіщо людям такий плакат? Це жарт?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Схоже, тут зображений персонаж великої мавпи. Чи мають люди якийсь зв’язок з Апексом?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не впевнений, чому на цьому постери є Apex. А може, волохату людину?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підозрілий. Цікаво, навіщо людям плакат із зображенням великої мавпи?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей герой мультфільму здається знайомим. Зачекайте... це Велика Мавпа?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Людський плакат, лиходій Apex. Цікаво."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Апекс. Це говорить мені не засмучуватися."
+  }
+]

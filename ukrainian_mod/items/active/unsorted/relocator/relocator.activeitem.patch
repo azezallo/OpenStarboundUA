@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Утримує до 3 дружніх істот у стазісі, щоб безпечно їх перемістити."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Релокатор"
+  }
+]

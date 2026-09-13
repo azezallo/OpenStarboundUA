@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Залізний мисливський спис"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Метальний спис, який вирізає м'ясо з монстрів."
+  }
+]

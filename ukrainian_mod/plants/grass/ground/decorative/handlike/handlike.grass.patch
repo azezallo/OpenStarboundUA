@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Корень, похожій на руку.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Корень, похожій на руку",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Хватающій корень.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Утвердітельно. Корень, напомінающій руку.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

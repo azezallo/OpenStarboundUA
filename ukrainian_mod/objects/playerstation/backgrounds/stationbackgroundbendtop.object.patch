@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вигнути верхню частину фону"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вигнути верхню частину фону"
+  }
+]

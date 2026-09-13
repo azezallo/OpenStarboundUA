@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Гострі шипи.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Гострі шипи",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Госсстрі, колючі шипи.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Гострі шипи.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На ярлику написано: «Здається, не їсть і не спить... Це машина?»"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фігурка Tintic"
+  }
+]

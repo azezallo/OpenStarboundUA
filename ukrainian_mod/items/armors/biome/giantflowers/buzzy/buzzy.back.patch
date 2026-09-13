@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пара крил комахи. На жаль, це не дозволяє вам літати."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Buzzy Wings"
+  }
+]

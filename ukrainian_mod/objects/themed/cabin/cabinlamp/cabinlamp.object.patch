@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Електричний світильник з дерев'яною підставкою ручної роботи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лампа салону"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я вважаю, що вигнута форма цієї лампи має бути привабливою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Досить гарна лампа. Було б приємніше, якби він мав форму птаха."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран віддає перевагу рослинам, що світяться."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Якщо це дерево, як воно світиться?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я думаю, що це сучасна лампа, яка прикидається старою."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це здається марною тратою природних ресурсів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я віддаю перевагу газовим лампам, але це також працює."
+  }
+]

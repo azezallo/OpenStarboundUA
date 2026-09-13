@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мерзенний міхур слизу. фу"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Slime Blob"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гнильний насип слизу. Як я маю це зберігати?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Велика пляма слизу. Чому це існує?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Як sssap."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огидно. Мерзенна купа слизу!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Величезна куля желе. Я ніби хочу його тицьнути."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Зі слизовими плямами неприємно працювати, якщо у вас шкіра амфібії."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я вважаю, що це стане в нагоді для чогось."
+  }
+]

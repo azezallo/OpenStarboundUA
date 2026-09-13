@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця плитка для підлоги зовні відрізняється від інших."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сірий прихований перемикач"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця плитка здається нещільною."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця плитка погано підходить."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Плитка без хиткості."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підозрілий. Плитка дивного розташування."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Втрачена плитка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дивна плитка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Брязкаюча плитка."
+  }
+]

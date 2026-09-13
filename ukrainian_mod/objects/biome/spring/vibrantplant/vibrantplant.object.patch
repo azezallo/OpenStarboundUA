@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Особливо барвиста кімнатна рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Яскрава рослина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мені здається, що цій рослині бракує витонченості."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не знаю, чи всі ці кольори поєднуються..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить барвисті рослини."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Хтось виростив цю рослину, щоб вона була такою яскравою?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця рослина дуже... барвиста. Це виглядає майже підробкою."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я відчуваю, що це штучно вирощена рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця рослина має кольори багатьох минулих пір року."
+  }
+]

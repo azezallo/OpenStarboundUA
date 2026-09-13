@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "value": "  Seed Merchant"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Продам насіння для с/г!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
+    "value": "Floran makesss plantsss grow in ssspace. Floran not have many cussstomers."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/0",
+    "value": "Have fun in ssspace!"
+  }
+]

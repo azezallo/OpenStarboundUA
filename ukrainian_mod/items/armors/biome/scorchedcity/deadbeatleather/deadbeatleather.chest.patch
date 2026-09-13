@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потерта шкіряна куртка з підкладкою на плечах."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шкіряна куртка Deadbeat"
+  }
+]

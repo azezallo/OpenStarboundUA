@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Куртка облягаючого крою з підкладкою на плечах."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Куртка Deadbeat зі спандексу"
+  }
+]

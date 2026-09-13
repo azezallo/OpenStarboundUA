@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ліхтарний стовп з двома лампами. Чудово!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Подвійний ліхтарний стовп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Високий ліхтарний стовп із подвійним освітленням."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Два вогники, як очі, дивляться на мене згори."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучі ліхтарі на високому ліхтарному стовпі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Який високий і яскравий ліхтарний стовп."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Два вогники дивляться на мене з ліхтарного стовпа."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Щедре джерело світла, яке освітлює шлях, який лежить переді мною."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей ліхтарний стовп має два світильники."
+  }
+]

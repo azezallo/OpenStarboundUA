@@ -1,0 +1,32 @@
+[
+  {
+    "value": "До бою!",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Бажаєш двобою на смерть? Нападай, неосвічений!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти навіть не усвідомлюєш, з яким майстром клинка схрещуєш зброю!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "З'явився зупинити мої благородні прагнення? Спробуй!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Наблизься і випробуй свою нікчемну силу на мені!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо доля судила нам битися, твоя смерть буде поетичною!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/4",
+    "op": "replace"
+  }
+]

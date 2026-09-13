@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Металева полиця, запакована магазинними товарами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Металева полиця магазину"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця полиця містить кілька корисних речей."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "На цій полиці є кілька цілющих предметів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "На полиці є хороші речі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. На цій полиці є кілька корисних речей."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця полиця повна речей, я впевнений, що вона може вмістити навіть більше."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "На цій полиці є кілька корисних речей."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я точно міг би добре використати ці предмети."
+  }
+]

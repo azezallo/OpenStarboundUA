@@ -1,0 +1,52 @@
+[
+  {
+    "value": "Я тут з перевіркою. Стій смирно!",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я тут, щоб переконатися, що тут безпечно.",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я тут, щоб переконатися, що все гаразд. Не звертай уваги!",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я був військовим, а тепер я - інспектор майна. Але не думай, що я став м'якшим!",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я постійно роблю повторні огляди, тож дивись тут у мене!",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Я тут з перевіркою. Стій смирно!",
+    "path": "/scriptConfig/dialog/converse/human/human/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я тут, щоб переконатися, що тут все безпечно. Після того, що сталося із Землею, тобі теж варто бути насторожі.",
+    "path": "/scriptConfig/dialog/converse/human/human/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я тут, щоб переконатися, що все гаразд. Не звертай уваги!",
+    "path": "/scriptConfig/dialog/converse/human/human/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я був військовим, а тепер я - інспектор майна. Але не думай, що я став м'якшим!",
+    "path": "/scriptConfig/dialog/converse/human/human/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я постійно роблю повторні огляди, тож дивись тут у мене!",
+    "path": "/scriptConfig/dialog/converse/human/human/4",
+    "op": "replace"
+  }
+]

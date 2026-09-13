@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці виставкові мечі можуть бути небезпечними в чужих руках."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Показ меча"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Два гострих демонстраційних меча. Апекс загалом віддає перевагу кинджалам."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Гострі декоративні мечі. Авіани віддають перевагу списам."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гострі мечі. Флоран як молоток!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Показ гострого меча. Обраною зброєю Глітча є палаш."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Два гострих меча. Людські воїни віддають перевагу сокирі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пара гострих мечів. Хайлотлі віддають перевагу короткому мечу над іншою зброєю."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Пара мечів на виставці. Мабуть підробки."
+  }
+]

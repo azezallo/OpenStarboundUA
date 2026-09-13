@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Лампа, освітлена підвішеними кульками лави."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Магма лампа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Підвісне поле всередині цієї лампи утримує сяючу лаву на місці."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці маленькі кульки лави перегріті, щоб яскраво світитися."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Лампа holdsss світиться лави."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Загіпнотизований. Візерунок лави в цій лампі важко відвести погляд."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я чув про лавові лампи, але ніколи не бачив таких, зроблених із справжньої лави."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Лава всередині цієї лампи має м’яке сяюче середовище."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "У цій маленькій лампі запечатана сяюча лава."
+  }
+]

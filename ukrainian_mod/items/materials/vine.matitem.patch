@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Виноградна лоза"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Густий клубок лози. Вони виглядають сильними."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Зачарований. Схоже, що ці міцні виноградні лози були сплетені разом, коли вони вирощувалися."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Виноградна лоза міцніє так само, як Флоран."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Ці ліани виглядають масивно."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Картина із зображенням двох веселок. Подвійна веселка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Райдужний живопис"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця картина... така насичена..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Картина із зображенням двох веселок. Що це означає?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить яскраві та яскраві кольори."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Перевантажений. Ця подвійна веселка має велику красу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ого, ого, боже мій. Подивіться на малюнок веселки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Подвійна намальована веселка, це так красиво."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Малюнок яскравих смуг світла."
+  }
+]

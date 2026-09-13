@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "мікрофон. Як низько ви можете опуститися?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Низький мікрофон"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий череп Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Череп Флорана"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Флоран Фоссил"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Рослинні рослини Floran мають кістки, просочені лігніном, що надає вигляду дерева."
+  }
+]

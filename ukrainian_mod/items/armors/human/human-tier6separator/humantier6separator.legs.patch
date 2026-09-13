@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "За своє життя ці штани протопчуть тисячі чужих світів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани універсаліста"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Важке металеве крісло з ергономічною амортизацією."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крісло миротворця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це крісло виглядає так, ніби в крайньому випадку стане ефективною барикадою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це не схоже на найзручніше крісло, яке я коли-небудь бачив."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не думає, що Флоран може підняти важке крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Здається, це крісло витримає декілька сильних ударів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей металевий стілець виглядає незручно, але спинка ніби покращує поставу!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це крісло розроблено виключно з урахуванням функціональності. Це досить огидно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я міг би швидко задрімати в цьому кріслі, якщо потрібно."
+  }
+]

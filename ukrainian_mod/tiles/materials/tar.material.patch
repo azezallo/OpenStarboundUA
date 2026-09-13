@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Thick, rancid tar. Just looking at it feels sticky."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Tar"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Cautious. This tar is thick and very sticky."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не любить липку смолу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "A whole mess'a thick lookin' tar."
+  }
+]

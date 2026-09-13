@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Модуль EPP, який дозволяє набору виживання випромінювати слабке світло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Light I Augment"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "value": "Світло І"
+  }
+]

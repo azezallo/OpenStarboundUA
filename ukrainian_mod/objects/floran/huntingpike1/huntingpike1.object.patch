@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кілька кісток на щуку. Як хворобливо."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кістки на щуці"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, це частини скелета, розташовані на щуці."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Флоран часто демонструє кістки як трофеї.  Яка груба практика."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sskeleton є гарною прикрасою."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Приголомшений. Ці Флорани демонструють кістки мертвих у такий жорстокий спосіб."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Хто б не був цей хлопець, він не повинен був так закінчити."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці кістки зібрані як попередження?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Дивлячись на це, я нервую."
+  }
+]

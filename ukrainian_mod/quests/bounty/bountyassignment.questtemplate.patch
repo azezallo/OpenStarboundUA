@@ -1,0 +1,112 @@
+[
+  {
+    "value": "Призначення миротворця",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Ласкаво просимо на нову станцію миротворців, напарнику!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Знайди ^orange;станцію миротворців^reset;...",
+    "path": "/scriptConfig/descriptions/searching",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Знайди ^orange;станцію миротворців^white; на ^orange;%s^white;",
+    "path": "/scriptConfig/descriptions/findSystem",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Наблизься^reset; до ^orange;станції миротворців^reset;",
+    "path": "/scriptConfig/descriptions/approachStation/0",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Висадись^reset; на ^orange;станції миротворців^reset;",
+    "path": "/scriptConfig/descriptions/approachStation/1",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Знайди ^orange;дошку винагород^white; на ^orange;станції миротворців^white;",
+    "path": "/scriptConfig/descriptions/findBoard",
+    "op": "replace"
+  },
+  {
+    "value": "Становлення миротворцем",
+    "path": "/scriptConfig/rankTitles/0",
+    "op": "replace"
+  },
+  {
+    "value": "Призначення новачка",
+    "path": "/scriptConfig/rankTitles/1",
+    "op": "replace"
+  },
+  {
+    "value": "Підвищення в ранзі",
+    "path": "/scriptConfig/rankTitles/2",
+    "op": "replace"
+  },
+  {
+    "value": "Хороший боєць",
+    "path": "/scriptConfig/rankTitles/3",
+    "op": "replace"
+  },
+  {
+    "value": "Охоронець миру",
+    "path": "/scriptConfig/rankTitles/4",
+    "op": "replace"
+  },
+  {
+    "value": "Вітаю! Я шукаю когось, хто може стати моїм ^orange;напарником у боротьбі зі злочинністю^white;!\n\nЯкщо ти гадаєш, що в тебе є все необхідне, вирушай у космос і зустрічай мене на моїй скромній астероїдній базі!",
+    "path": "/scriptConfig/rankText/0/0",
+    "op": "replace"
+  },
+  {
+    "value": "Наша зростаюча репутація дозволила нам відкрити нову станцію миротворців! Я офіційно призначаю тебе на неї, напарнику!",
+    "path": "/scriptConfig/rankText/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Наш останній арешт бандита дав нам багато грошей від людей у цьому секторі. Настільки багато, що я зміг укласти контракт на розробку нової, більшої станції! Вирушай туди, напарнику!",
+    "path": "/scriptConfig/rankText/2/0",
+    "op": "replace"
+  },
+  {
+    "value": "Після усунення бандитської активності в цьому секторі наша репутація злетіла до небес! Я призначив тебе на нову станцію — зустріну тебе там!",
+    "path": "/scriptConfig/rankText/3/0",
+    "op": "replace"
+  },
+  {
+    "value": "Коли їхнього лідера спіймали, я не думав, що ми знову побачимося з ЦИМИ хлопцями! Ми відкрили ще одну станцію в досить небезпечній сонячній системі — і я тебе перепризначаю, напарнику! Зустрінемось там!",
+    "path": "/scriptConfig/rankText/4/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ці тварини бігатимуть як курчата без голови без свого лідера! Відмінна робота, напарнику! Як завжди, маю нове завдання для тебе! Злочинність не спить, і я також!",
+    "path": "/scriptConfig/rankText/4/1",
+    "op": "replace"
+  },
+  {
+    "value": "З відходом голови їхньої організації ці негідники не завдаватимуть тобі багато клопоту! Відмінна робота, напарнику! Я відкриваю нову станцію і призначаю тебе на неї. Всесвіт нескінченний, як і злочинність! Вирушай, напарнику!",
+    "path": "/scriptConfig/rankText/4/2",
+    "op": "replace"
+  },
+  {
+    "value": "З їхнім босом поза грою ці шмаркачі втратили вітер у своїх вітрилах! Якщо ти хочеш знищити більше банд, вирушай на нову станцію, на яку я тебе призначив!",
+    "path": "/scriptConfig/rankText/4/3",
+    "op": "replace"
+  },
+  {
+    "value": "Піти проти Окказуса",
+    "path": "/scriptConfig/finalAssignmentTitle",
+    "op": "replace"
+  },
+  {
+    "value": "О Боже. Ми отримали завдання знищити цей культ Окказус. Вони здаються справжніми негідниками, напарнику! Я сподіваюся, що ти готовий до цього. Ми створили штаб у зоні, де вони працюють.",
+    "path": "/scriptConfig/finalAssignmentText",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Руйнувати дерму"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "М’ясиста маса з товстою, жорсткою на вигляд шкіркою."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Вражений. Товщина цієї шкіри робить її неймовірно міцною."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Міцна шкіра - хороший захист."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Ця шкіра виглядає міцнішою, ніж шкіряний черевик."
+  }
+]

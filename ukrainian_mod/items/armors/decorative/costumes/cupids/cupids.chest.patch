@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пояс амура. Чи тримає крила?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Купідон Саш"
+  }
+]

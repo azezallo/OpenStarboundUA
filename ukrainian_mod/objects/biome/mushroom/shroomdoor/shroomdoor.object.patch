@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Двері з грибів. Він навіть має симпатичну грибоподібну ручку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Грибна двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "М’які грибні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці двері не здаються надто безпечними."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран ssssqueeze двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Двері гриба."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мила маленька дверцята-гриб."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Двері з грибів. Дивний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "М’які грибні двері. Це мило!."
+  }
+]

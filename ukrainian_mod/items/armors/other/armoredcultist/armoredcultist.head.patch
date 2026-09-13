@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Культовий капюшон, схожий на велике око."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сектант генерал Гуд"
+  }
+]

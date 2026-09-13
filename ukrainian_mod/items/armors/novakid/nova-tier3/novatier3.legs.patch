@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеальний верхній одяг для ухилення від закону."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани поза законом"
+  }
+]

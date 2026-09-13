@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Портрет людської пари."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Готичний живопис"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, вони... люди?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікава картина."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Такі урочисті люди."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Дедуктивний. Це повинно зображати людство до того, як вони були відомі решті Всесвіту."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дуже давній людський малюнок."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Шедевр вловлених емоцій."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені подобається ця картина. Лише пара простих фермерів."
+  }
+]

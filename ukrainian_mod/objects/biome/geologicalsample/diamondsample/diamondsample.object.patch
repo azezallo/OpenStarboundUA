@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "«Ідеальний зразок алмазної руди»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Алмазна проба"
+  }
+]

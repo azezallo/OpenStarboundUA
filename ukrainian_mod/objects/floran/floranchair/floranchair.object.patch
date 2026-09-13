@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Простий дерев'яний стілець з кістяними акцентами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивне крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Основний стілець з дерева та кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мені цікаво, чи кістки в меблях Флорана колись походять від Флорана. У Флоранів взагалі є кістки?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран ніколи не був кісткою. Навіть маленькі деталі скріплюють стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Байдужість. Типовий флоранський дизайн."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кісткові частини виглядають гострими. Я б не хотів сидіти на них."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Кістки на цьому стільці... Здається, смерть вплелася навіть у найменші частини життя Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не думаю, що стільці повинні бути такими гострими."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Надійна броня — найкращий друг найманця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шлем найманця"
+  }
+]

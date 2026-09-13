@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Солодкий і банальний, корисний для травлення!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кукурудза"
+  }
+]

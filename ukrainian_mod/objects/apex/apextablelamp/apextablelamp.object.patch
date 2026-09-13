@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця дивна лампа випромінює слабке зелене світло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стручок зеленої лампи"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці лампи роздавав Міннаук у моїй молодості. Вони з’являються в багатьох будинках Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей пристрій світиться неприродним зеленим кольором."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Зелене світло нагадує Флорану рідне село."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Схоже, цей об’єкт отримує біометричні дані від сусідніх органічних форм життя."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей пристрій здається важким для лампи."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я вважаю, що освітлення не є справжньою метою цього пристрою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Моторошне зелене світло."
+  }
+]

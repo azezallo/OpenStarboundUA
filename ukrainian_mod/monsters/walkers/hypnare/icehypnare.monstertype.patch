@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ice Hypnare"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Любить бавитися лісами та луками."
+  }
+]

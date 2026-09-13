@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Витвір майстерності. Красива."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційна книжкова шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ряд книг Hylotl. Я, ну, прочитаю їх пізніше."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тут є багато книжок з історії Гілотля."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Рибалки люблять читати. Тупі нудні рибалки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. У кожній книжці розповідається про те, які чудові Гілотлі. Як нудно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я заснув, просто читаючи заголовки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Книжкова полиця з багатою історією Hylotl. Інші види злітаються до наших великих бібліотек."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Полиці, заповнені книгами на тему Hylotl. Я можу придумати кілька речей, які я б краще зробив, ніж читав це."
+  }
+]

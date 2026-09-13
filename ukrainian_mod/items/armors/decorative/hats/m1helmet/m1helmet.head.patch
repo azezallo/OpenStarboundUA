@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Г.І. стандартний військовий шолом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом М1"
+  }
+]

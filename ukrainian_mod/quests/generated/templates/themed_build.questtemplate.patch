@@ -1,0 +1,137 @@
+[
+  {
+    "value": "План жителя <questGiver> щодо розширення",
+    "path": "/scriptConfig/generatedText/title/0",
+    "op": "replace"
+  },
+  {
+    "value": "<questGiver> хоче нових друзів",
+    "path": "/scriptConfig/generatedText/title/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран хоче нових друзів! Ти можеш допомогти?",
+    "path": "/scriptConfig/generatedText/goalText/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран думає, що нам потрібен новий сусід! У Флорана є план...",
+    "path": "/scriptConfig/generatedText/goalText/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Бадьоро. У мене є план, як завести тут нових друзів. Бажаєш допомогти?",
+    "path": "/scriptConfig/generatedText/goalText/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Привітно. Тобі не здається, що нам тут не завадили б нові сусіди? У мене є план...",
+    "path": "/scriptConfig/generatedText/goalText/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Хіба не було б чудово познайомитися з новими людьми? У мене є ідея...",
+    "path": "/scriptConfig/generatedText/goalText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Я думаю, нам би не завадило завести нових друзів. У мене є план.",
+    "path": "/scriptConfig/generatedText/goalText/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану потрібно, щоб ти ^green;зробив дім^white;, і ^green;розмістив ^orange;3^green; <tag>^green; всередині^white;. Не забудь ^green;додати ^orange;Колонізатор^green; та ^orange;освітлення!",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран хоче, щоб ти ^green;збудував дім^white;, і ^green;розмістив ^orange;3^green; <tag>^green; всередині.^white; Не забудь ^green;додати ^orange;Колонізатор^green; та ^orange;освітлення!",
+    "path": "/scriptConfig/generatedText/text/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Уважно. Чи міг би ти ^green;побудувати дім^white; та ^green;розмістити всередині ^orange;3^green; <tag>^white;? Не забудь ^green;додати ^orange;колонізатор^green; та ^orange;освітлення!",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Збуджено. Можеш ^green;побудувати дім^white; та ^green;розмістити всередині ^orange;3^green; <tag>^white;? Не забудь ^green;додати ^orange;колонізатор^green; та ^orange;освітлення!",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Побудуй дім^white; та ^green;розмісти всередині ^orange;3^green; <tag>^white;. Не забудь ^green;додати ^orange;колонізатор^green; та ^orange;освітлення!",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Чи можеш побудувати дім^white; та ^green;розмістити всередині ^orange;3^green; <tag>^white;? Не забудь ^green;додати ^orange;колонізатор^green; та ^orange;освітлення!^white; Я в захваті!",
+    "path": "/scriptConfig/generatedText/text/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Успіх! Флоран має нового друга! Флорану подобаєтьссся дім, який ти зробив.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зробив дім! Флоран вражений твоїми навичками.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Радісно. У нас новий сусід! Впевнений, він тут приживеться. Дякую за твою допомогу.",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вражено. Твої дизайнерські навички кращі, ніж я очікував, який чудовий дім. Дякую за твої старання!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую! Тепер у нас є новий місцевий мешканець! Хіба це не чудово?",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Успіх! Сподіваюсь, нашому новому сусідові сподобається його дім. Дякую за допомогу!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я не зміг допомогти <questGiver> з будівництвом дому. Я надто зайнятий для таких речей.",
+    "path": "/scriptConfig/generatedText/failureText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я не допоміг <questGiver> з <questGiver.pronoun.possessiveDet> ідеєю побудувати дім. Їй у будь-якому разі не потрібен ще один сусід.",
+    "path": "/scriptConfig/generatedText/failureText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Побудуй дім із:",
+    "path": "/scriptConfig/objectives/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "1 колонізатор",
+    "path": "/scriptConfig/objectives/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "3 <tag>^reset;",
+    "path": "/scriptConfig/objectives/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Будь-яке джерело світла",
+    "path": "/scriptConfig/objectives/3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Будь-яка двері",
+    "path": "/scriptConfig/objectives/4/text",
+    "op": "replace"
+  }
+]

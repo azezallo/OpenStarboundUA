@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/healthTitleLabel/value",
+    "value": "Міцність щита:"
+  },
+  {
+    "op": "replace",
+    "path": "/cooldownTitleLabel/value",
+    "value": "Перезарядка:"
+  }
+]

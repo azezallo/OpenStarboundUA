@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рослина з кристалічної жеоди в квітковому горщику."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Горщик для рослин Geode"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Листя цієї рослини насправді є кристалами жеоду."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця рослина міцна, як камінь."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Покажіть рослину та покажіть каміння."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Ця рослина не відповідає всьому, що я знаю про те, як утворюються жеоди."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця рослина покрита маленькими зеленими кристалами."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей незвичайний камінь вирощували як рослину."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця рослина проростає кристалами всюди."
+  }
+]

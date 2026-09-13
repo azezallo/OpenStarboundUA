@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Порушник!",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Свіже м'ясо!",
+    "path": "/scriptConfig/dialog/attack/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "А ось і груша завітала.",
+    "path": "/scriptConfig/dialog/attack/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я тебе розірву на шмаття!",
+    "path": "/scriptConfig/dialog/attack/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "З превеликим задоволенням!",
+    "path": "/scriptConfig/dialog/attack/human/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Прийшов сюди? Це велика помилка.",
+    "path": "/scriptConfig/dialog/attack/human/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Мені це сподобається!",
+    "path": "/scriptConfig/dialog/attack/human/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Гей! Підійди сюди.",
+    "path": "/scriptConfig/dialog/attack/human/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Ти сам напросився!",
+    "path": "/scriptConfig/dialog/attack/human/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Я переламаю тобі кістки, а потім буду робити це знову і знову!",
+    "path": "/scriptConfig/dialog/attack/human/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зв'язався не з тією людиною!",
+    "path": "/scriptConfig/dialog/attack/human/default/9",
+    "op": "replace"
+  },
+  {
+    "value": "Тобі нікуди тікати, незнайомцю!",
+    "path": "/scriptConfig/dialog/attack/human/default/10",
+    "op": "replace"
+  },
+  {
+    "value": "Підійди, щоб я зміг вдарити тебе!",
+    "path": "/scriptConfig/dialog/attack/human/default/11",
+    "op": "replace"
+  },
+  {
+    "value": "Грр! Ти мрець!",
+    "path": "/scriptConfig/dialog/attack/human/default/12",
+    "op": "replace"
+  },
+  {
+    "value": "Ненавиджу незнайомців!",
+    "path": "/scriptConfig/dialog/attack/human/default/13",
+    "op": "replace"
+  },
+  {
+    "value": "Сюди!",
+    "path": "/scriptConfig/dialog/attack/human/default/14",
+    "op": "replace"
+  }
+]

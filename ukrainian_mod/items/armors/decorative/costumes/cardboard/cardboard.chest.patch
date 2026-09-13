@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Уява - ключ до справжньої сили!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Картонна коробка Броня"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ймовірно, ці черевики залишили свій слід у сотнях світів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани слідопита"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий людський череп."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Людський череп"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Скам'янілість людини"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Скам'яніла людина, домінуючий вид Землі."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виставковий стенд для маленьких копалин"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "Покажіть скам'янілості"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Малий викопний дисплей"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стенд для демонстрації. Використовується для копалин."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Стенд для демонстрації копалин. Але без копалин."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Порожній стенд? Де викопне?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Тут буде показано скам'янілість."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Почувається трохи сумно без скам'янілості, щоб показати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мені було б більше цікаво, якби тут була виставлена ​​скам’янілість."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Виглядає добре. Виглядало б набагато краще з викопним..."
+  }
+]

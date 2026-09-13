@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Краще їсти чи кидати людям в обличчя?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Банановий кремовий пиріг"
+  }
+]

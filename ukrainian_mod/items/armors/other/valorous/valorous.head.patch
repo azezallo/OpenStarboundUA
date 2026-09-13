@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Іржавий церемоніальний шолом, який носив Гілотль минулих віків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Доблесний шолом"
+  }
+]

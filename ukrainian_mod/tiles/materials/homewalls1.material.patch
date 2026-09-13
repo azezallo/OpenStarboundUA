@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Красиво розфарбована цегляна кладка.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Розфарбована цегла",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Захоплення. Ці розфарбовані цеглини виглядають привабливо.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Красссство розмальовані цеглини.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Файні розмальовані цеглини.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

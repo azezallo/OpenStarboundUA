@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маска з гігантського банана. Банананананана!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бананова маска"
+  }
+]

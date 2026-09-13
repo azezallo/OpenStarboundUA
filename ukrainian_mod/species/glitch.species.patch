@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Ґлітч",
+    "path": "/charCreationTooltip/title",
+    "op": "replace"
+  },
+  {
+    "value": "Ґлітчі були створені для симуляції цивілізації. Помилка в програмному коді змусила їх застрягти на початку симуляції, і донині вони не в змозі похитнути свої середньовічні цінності та переконання.",
+    "path": "/charCreationTooltip/description",
+    "op": "replace"
+  },
+  {
+    "value": "Колір фарби",
+    "path": "/charGenTextLabels/0",
+    "op": "replace"
+  },
+  {
+    "value": "Голова",
+    "path": "/charGenTextLabels/1",
+    "op": "replace"
+  },
+  {
+    "value": "Одяг",
+    "path": "/charGenTextLabels/2",
+    "op": "replace"
+  },
+  {
+    "value": "Штани",
+    "path": "/charGenTextLabels/3",
+    "op": "replace"
+  },
+  {
+    "value": "Колір очей",
+    "path": "/charGenTextLabels/4",
+    "op": "replace"
+  },
+  {
+    "value": "Колір деталей",
+    "path": "/charGenTextLabels/5",
+    "op": "replace"
+  },
+  {
+    "value": "Колір одягу",
+    "path": "/charGenTextLabels/6",
+    "op": "replace"
+  },
+  {
+    "value": "Колір штанів",
+    "path": "/charGenTextLabels/7",
+    "op": "replace"
+  },
+  {
+    "value": "ҐЛІТЧ",
+    "path": "/charGenTextLabels/8",
+    "op": "replace"
+  },
+  {
+    "value": "Особистість",
+    "path": "/charGenTextLabels/9",
+    "op": "replace"
+  }
+]

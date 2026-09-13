@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Набір загострених високоякісних механічних прискорювачів. Будьте обережні з цими кутами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Zero Mech Boosters"
+  }
+]

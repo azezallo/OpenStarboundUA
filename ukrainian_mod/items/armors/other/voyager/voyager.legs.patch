@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці штани напрочуд міцні, враховуючи їхню зручність."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани Вояджера"
+  }
+]

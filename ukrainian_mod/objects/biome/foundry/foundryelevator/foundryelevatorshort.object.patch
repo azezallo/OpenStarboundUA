@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця конструкція ліфта зазвичай зустрічається в ливарних цехах."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Короткий промисловий ліфт"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Міцний ліфт."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Найпростіший спосіб обійти багаторівневий заклад."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ліфт катається вгору і вниз."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нудно. Не надихаючий ліфт."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ліфт для підйому і спуску на рівні."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Промисловий ліфт."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якийсь ліфт, корисно!"
+  }
+]

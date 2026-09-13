@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нагрудний обладунок, який часто використовують для людей великої ваги."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Перший нагрудник"
+  }
+]

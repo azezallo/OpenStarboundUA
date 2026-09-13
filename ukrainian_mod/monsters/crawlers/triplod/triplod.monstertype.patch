@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Триплод"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Він спостерігає за вами через свою велику лінзу."
+  }
+]

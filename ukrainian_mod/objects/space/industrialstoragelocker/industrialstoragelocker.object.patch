@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Настінна шафка зі смугами безпеки та червоним світлом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шафа промислового зберігання"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це виглядає як безпечний контейнер для цінних товарів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Металева настінна шафка для зберігання речей."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран міг би зберігати тут трофеї."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Цікаво, чому на цій шафці є смуги небезпеки?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Настінна шафка для зберігання речей."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дещо грубувато зроблена шафка для зберігання речей."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гадаю, я міг би запхати сюди деякі речі, якби захотів."
+  }
+]

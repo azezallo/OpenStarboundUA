@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це... мозкові хвилі? так Так вони є."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Екран активності мозку"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це схоже на мозкові хвилі... звідки вони беруться."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мозкові хвилі. Кажуть, що кристали, які живлять пташині технології, мають власну свідомість."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Розмахуючи лініями."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Здається, це мозкові хвилі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мозкові хвилі? Кому вони належать."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Здається, це шаблони мислення. Але кому вони належать?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Що мають означати ці хвилі?"
+  }
+]

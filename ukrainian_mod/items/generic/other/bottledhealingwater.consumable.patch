@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Відновлювальна сила цієї води неймовірна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лікувальна вода в пляшках"
+  }
+]

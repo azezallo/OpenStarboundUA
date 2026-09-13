@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Храмова цегла"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленькі, відносно старі цеглинки з вирізьбленими пташиними ієрогліфами."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Зачарований. Вік цих цеглин неможливо точно визначити."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Флоран любить стару цеглу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Вважаю, що ці цеглини існують вже давно."
+  }
+]

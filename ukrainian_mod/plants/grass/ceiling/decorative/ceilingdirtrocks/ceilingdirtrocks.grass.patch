@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Брудні скелі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Брудні скелі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Бруд rocksss!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Скелі з бруду."
+  }
+]

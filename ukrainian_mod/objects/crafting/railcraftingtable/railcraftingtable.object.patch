@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Використовується для виготовлення рейок, предметів для рейок та пов’язаних з ними предметів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Стіл для виготовлення рейки^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Стіл для виготовлення рейок"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Їдьте на рейках!"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я можу використовувати цю станцію, щоб побудувати рейки для зручного транспортування."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей стіл дозволить мені побудувати рейки, якими я можу подорожувати."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей стіл робить блискучі рейки для швидкого подорожі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "в захваті. Створені тут рейки зроблять рух набагато ефективнішим."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Тут я можу майструвати рейки! Ідеально підходить для пересування. І навколо, і навколо."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Рейки, які я можу побудувати тут, можуть бути примітивними, але їх ефективність не підлягає сумніву."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ridin' the rails - все ще працює так само добре, як і раніше, для пересування."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Використовуйте цю натискну пластину з розумом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кристалічна притискна плита"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Якась натискна плита з кристалічним приводом."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кристалічний реле тиску.  Що станеться, якщо я стану на нього?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискуча кришталева кнопка. Чи варто Флорану стрибати?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Я не думаю, що це було створено Глюком."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Величезний натиск."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Що це активує?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей кристал виглядає так, ніби його можна було щось підлаштувати."
+  }
+]

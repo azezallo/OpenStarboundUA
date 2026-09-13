@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Капелюх з крихітної будівлі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Будівельний капелюх"
+  }
+]

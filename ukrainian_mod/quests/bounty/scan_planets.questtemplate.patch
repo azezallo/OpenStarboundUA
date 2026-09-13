@@ -1,0 +1,47 @@
+[
+  {
+    "value": "^orange;Вбити ціль",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Вбити ціль на місці",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Вирушай^reset; на %s",
+    "path": "/scriptConfig/objectives/findSystemStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "Пошук планет...",
+    "path": "/scriptConfig/objectives/scanPlanetsStage/searching",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Вийди на орбіту^reset; навколо ^orange;%s^reset;",
+    "path": "/scriptConfig/objectives/scanPlanetsStage/scan",
+    "op": "replace"
+  },
+  {
+    "value": "На ^orange;%s^reset; сигнатур не виявлено.",
+    "path": "/scriptConfig/scanMessage",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nСканування сигнатури цілі привело мене до <next.coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/prev/0",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nСкануючи планети в цій системі, я виявив сигнатуру цілі на <next.coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/prev/1",
+    "op": "replace"
+  },
+  {
+    "value": "<bounty.name> востаннє бачили десь у <coordinate.systemName>.",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "op": "replace"
+  }
+]

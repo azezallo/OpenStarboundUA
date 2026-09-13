@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крісло керівника. Ви більше ніколи не захочете стояти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Виконавчий стілець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Сидячи в цьому кріслі, всі мої хвилювання тануть."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Досить сидіти в цьому кріслі, щоб я забув про свою заборону."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "У цьому кріслі приємно сидіти."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розслаблений. Такий стілець повинен бути у кожного."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Неперевершений комфорт."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стілець майстерної роботи. Так зручно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це крісло чудово підходить для того, щоб зняти навантаження."
+  }
+]

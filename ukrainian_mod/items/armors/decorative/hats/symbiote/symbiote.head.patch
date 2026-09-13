@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Безкоштовне видалення."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Симбіот"
+  }
+]

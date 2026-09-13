@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шафка. Зберігайте деякі речі, чому б і ні?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Корабельний корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Суднова система зберігання. Зараз не працює."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пристрій, який містить багато предметів для безпечного зберігання. На даний момент він зламаний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssstorage. Це не працює."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. Система зберігання на цьому кораблі не працює."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Шафа для зберігання. Здається, не працює."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Елегантне рішення для зберігання. Зараз не живиться."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шафка. Немає великої користі, поки це не полагодять."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "value": "Життя в старій хатині - це якраз для мене!",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я волію не ускладнювати своє життя технологіями.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чи роблять технології тебе щасливішим? Без них я почуваюся вільним, як птах!",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Прилягти біля вогню з книгою... Оце так життя.",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Доти, поки яка-небудь велика тварина не спробує мене зжерти, я можу жити спокійно.",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Тут багато тих, хто віддає перевагу звичайному життю.",
+    "path": "/scriptConfig/dialog/converse/default/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Зайві вигоди марні - я віддаю перевагу жити простіше.",
+    "path": "/scriptConfig/dialog/converse/default/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Я завжди хотів мати таке місце! Воно ідеально мені підходить.",
+    "path": "/scriptConfig/dialog/converse/default/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Люди століттями жили в будинках на кшталт цього. Я продовжую традицію.",
+    "path": "/scriptConfig/dialog/converse/default/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "Цей запах дерева від меблів... Немає нічого прекраснішого!",
+    "path": "/scriptConfig/dialog/converse/default/default/9",
+    "op": "replace"
+  }
+]

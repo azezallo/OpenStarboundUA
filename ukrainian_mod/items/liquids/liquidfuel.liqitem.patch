@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рідке паливо Erchius"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Небезпечна та летюча речовина, яку викачують із супутників і використовують як паливо для FTL."
+  }
+]

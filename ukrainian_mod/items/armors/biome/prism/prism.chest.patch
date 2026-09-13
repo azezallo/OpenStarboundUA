@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Укутайтеся в холод у цю ворсисту термокуртку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сорочка Призма"
+  }
+]

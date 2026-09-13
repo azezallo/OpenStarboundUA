@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На щабель нижче акулячого корнадо."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Риб'яча сокира (краплі)"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Таємничий маркер прапора. Що це за шкіра?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тіньовий маркер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Моторошно... Це може бути маркером попередження."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей маркер... це попередження?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ах, попереджувальний маркер. Флорану цікаво, що тут таке."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стривожений. Моє бажання покинути цю територію зросло."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Що це? Якийсь маркер?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей маркер дуже тривожний..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я вважаю, що це певний маркер, який використовується для захисту від незнайомців."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крісло з бруківки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кам'яне крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Більш зручні, ніж крісла Apex, які використовують під час допитів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Погана майстерність."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Кам'яне крісло поранило Флорана в спину."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нахабний. Якби у мене були м’язи спини, це, безумовно, пошкодило б їх."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це виглядає зовсім не зручно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Тут було б важко медитувати."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Не мій вибір."
+  }
+]

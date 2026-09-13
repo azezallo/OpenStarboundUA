@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вишукана скриня, наповнена вишуканими скарбами!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичний скриня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Скриня! Що всередині?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Позолочена скриня. Є щось корисне?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цс солодкий шах!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Замка немає."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я почуваюся піратом зі скринею зі скарбами."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Скриня завжди наповнює мене хвилюванням."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Дуже гарна скриня зі скарбами."
+  }
+]

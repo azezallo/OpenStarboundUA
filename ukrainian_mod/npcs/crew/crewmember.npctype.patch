@@ -1,0 +1,947 @@
+[
+  {
+    "value": "Усе, чого я хочу - це кухню для натуральних продуктів.",
+    "path": "/scriptConfig/crew/role/name",
+    "op": "replace"
+  },
+  {
+    "value": "Є багато таких як я, хто віддає перевагу жити якомога ближче до природи.",
+    "path": "/scriptConfig/crew/role/field",
+    "op": "replace"
+  },
+  {
+    "value": "Свіжа їжа - це дар від Клуекса!",
+    "path": "/scriptConfig/crew/ranks/0",
+    "op": "replace"
+  },
+  {
+    "value": "Гриби та насіння? Та будь ласка! Ти повинен харчуватися здоровою їжею.",
+    "path": "/scriptConfig/crew/ranks/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сонце дає життя рослинам, які дають життя нам... Хіба Клуекс не чудовий?",
+    "path": "/scriptConfig/crew/ranks/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я настільки відданий життю, близькому до природи, що навіть мій одяг весь органічний!",
+    "path": "/scriptConfig/crew/ranks/3",
+    "op": "replace"
+  },
+  {
+    "value": "Мій одяг з органіки допомагає перебувати ближче до природи і Клуекса.",
+    "path": "/scriptConfig/crew/ranks/4",
+    "op": "replace"
+  },
+  {
+    "value": "Чим більше шаф, тим більше натуральної продукції я можу зберігати!",
+    "path": "/scriptConfig/crew/ranks/5",
+    "op": "replace"
+  },
+  {
+    "value": "Зоряний",
+    "path": "/scriptConfig/crew/ranks/6",
+    "op": "replace"
+  },
+  {
+    "value": "Ударний",
+    "path": "/scriptConfig/crew/ranks/7",
+    "op": "replace"
+  },
+  {
+    "value": "Псі",
+    "path": "/scriptConfig/crew/ranks/8",
+    "op": "replace"
+  },
+  {
+    "value": "Поліцей.",
+    "path": "/scriptConfig/crew/ranks/9",
+    "op": "replace"
+  },
+  {
+    "value": "Черепний",
+    "path": "/scriptConfig/crew/ranks/10",
+    "op": "replace"
+  },
+  {
+    "value": "Морський",
+    "path": "/scriptConfig/crew/ranks/11",
+    "op": "replace"
+  },
+  {
+    "value": "Силовий",
+    "path": "/scriptConfig/crew/ranks/12",
+    "op": "replace"
+  },
+  {
+    "value": "Галактич.",
+    "path": "/scriptConfig/crew/ranks/13",
+    "op": "replace"
+  },
+  {
+    "value": "Хвильовий",
+    "path": "/scriptConfig/crew/ranks/14",
+    "op": "replace"
+  },
+  {
+    "value": "Місячний",
+    "path": "/scriptConfig/crew/ranks/15",
+    "op": "replace"
+  },
+  {
+    "value": "Гострий",
+    "path": "/scriptConfig/crew/ranks/16",
+    "op": "replace"
+  },
+  {
+    "value": "Фокусув.",
+    "path": "/scriptConfig/crew/ranks/17",
+    "op": "replace"
+  },
+  {
+    "value": "Централ.",
+    "path": "/scriptConfig/crew/ranks/18",
+    "op": "replace"
+  },
+  {
+    "value": "Місячний",
+    "path": "/scriptConfig/crew/ranks/19",
+    "op": "replace"
+  },
+  {
+    "value": "Множин.",
+    "path": "/scriptConfig/crew/ranks/20",
+    "op": "replace"
+  },
+  {
+    "value": "Піксельний",
+    "path": "/scriptConfig/crew/ranks/21",
+    "op": "replace"
+  },
+  {
+    "value": "Земний",
+    "path": "/scriptConfig/crew/ranks/22",
+    "op": "replace"
+  },
+  {
+    "value": "Сонячний",
+    "path": "/scriptConfig/crew/ranks/23",
+    "op": "replace"
+  },
+  {
+    "value": "Штормовий",
+    "path": "/scriptConfig/crew/ranks/24",
+    "op": "replace"
+  },
+  {
+    "value": "Планетний",
+    "path": "/scriptConfig/crew/ranks/25",
+    "op": "replace"
+  },
+  {
+    "value": "Ідеальний",
+    "path": "/scriptConfig/crew/ranks/26",
+    "op": "replace"
+  },
+  {
+    "value": "Душевний",
+    "path": "/scriptConfig/crew/ranks/27",
+    "op": "replace"
+  },
+  {
+    "value": "Сердечний",
+    "path": "/scriptConfig/crew/ranks/28",
+    "op": "replace"
+  },
+  {
+    "value": "Гірський",
+    "path": "/scriptConfig/crew/ranks/29",
+    "op": "replace"
+  },
+  {
+    "value": "Грізний",
+    "path": "/scriptConfig/crew/ranks/30",
+    "op": "replace"
+  },
+  {
+    "value": "Туманний",
+    "path": "/scriptConfig/crew/ranks/31",
+    "op": "replace"
+  },
+  {
+    "value": "Осяйний",
+    "path": "/scriptConfig/crew/ranks/32",
+    "op": "replace"
+  },
+  {
+    "value": "Божествен.",
+    "path": "/scriptConfig/crew/ranks/33",
+    "op": "replace"
+  },
+  {
+    "value": "Небесний",
+    "path": "/scriptConfig/crew/ranks/34",
+    "op": "replace"
+  },
+  {
+    "value": "Океаніч.",
+    "path": "/scriptConfig/crew/ranks/35",
+    "op": "replace"
+  },
+  {
+    "value": "Ефірний",
+    "path": "/scriptConfig/crew/ranks/36",
+    "op": "replace"
+  },
+  {
+    "value": "Реальний",
+    "path": "/scriptConfig/crew/ranks/37",
+    "op": "replace"
+  },
+  {
+    "value": "Матеріал.",
+    "path": "/scriptConfig/crew/ranks/38",
+    "op": "replace"
+  },
+  {
+    "value": "Світловий",
+    "path": "/scriptConfig/crew/ranks/39",
+    "op": "replace"
+  },
+  {
+    "value": "Порожній",
+    "path": "/scriptConfig/crew/ranks/40",
+    "op": "replace"
+  },
+  {
+    "value": "Розплавл.",
+    "path": "/scriptConfig/crew/ranks/41",
+    "op": "replace"
+  },
+  {
+    "value": "Фазовий",
+    "path": "/scriptConfig/crew/ranks/42",
+    "op": "replace"
+  },
+  {
+    "value": "Світанковий",
+    "path": "/scriptConfig/crew/ranks/43",
+    "op": "replace"
+  },
+  {
+    "value": "Сутінковий",
+    "path": "/scriptConfig/crew/ranks/44",
+    "op": "replace"
+  },
+  {
+    "value": "Потоковий",
+    "path": "/scriptConfig/crew/ranks/45",
+    "op": "replace"
+  },
+  {
+    "value": "Вітряний",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Атомний",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Астральний",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Кометний",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Захисний",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Виючий",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Імпульсний",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "узі",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "пістолет",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "ствол",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "розпилювач",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "стопор",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "розкид",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "бластер",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "ствол",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "пітчер",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "тосер",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "фазер",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "шкідник",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "руйнівник",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "трощильник",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "грішник",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "вбивця",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "затвор",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "силовик",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "виклик",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "штовхач",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "вигнанець",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "загороджувач",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "терор",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "Лоза.",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/9",
+    "op": "replace"
+  },
+  {
+    "value": "Лоза",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Лоза.",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Лоза.",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Всі показники живої активності вказують на щось глибоко під поверхнею. Важко визначити... Заздалегідь вітаю тебе за твою мужність.",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Спрацював захист. Тобі потрібно знайти спосіб відключити його і відновити подачу енергії. Будь ласка, будь обережний у темряві.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я зафіксував суміш людської ДНК і ерхію. Висока ймовірність спонтанної поведінки.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лічильник ерхію досяг 94 рад. Ти в небезпеці. Твій рівень загрози життю зараз 14,607.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вибач за штучний інтелект, золотце.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Поглянь на них, довгий контакт з кристалами ерхію знищив саму їхню сутність! Бідні створіння зовсім втратили себе.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Лічильник ерхію досяг 101 рада. Ти в небезпеці. Твій рівень загрози життю зараз 18,472...",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тихіше! Ти заважаєш.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Звичайна зброя має 0% шанс завдання шкоди ерхієвому кристалу. Ти повинен знайти інший спосіб його атакувати.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Відмінно!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Тут достатньо ерхію для повного полагодження корабля.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ці стародавні руїни, схоже, були приховані флоранами. Показання також кажуть, що вони темні і зловісні.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Біодатчики фіксують безліч сигналів життя в цих тунелях. 97% небезпечні. Я захоплююся твоєю доблестю.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Який нахабний флоран! Нагадує мені мене в молодості, хоча в мене було менше листя.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "У будь-якому випадку, ці флорани переслідують те, що має для них величезну важливість. Вони ще гірші, ніж я під час ловлі жуків! Будь обережний, золотце.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ця субстанція - органічна. Аналіз не підтверджує, але істота, що виробляє стільки матерії, повинна бути досить великого розміру.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Дані показують, що ця істота ще не виросла; велика ймовірність того, що вона недавно вилупилася. Схоже, ти натрапив на гніздо.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ми якраз встигли до нападу повстанців на Міннаук. Я думаю, що це буде вигідно як їм, так і нам, золотце.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Сканери показують, що цей об'єкт добре укріплений важко озброєними охоронцями, що патрулюють кожен рівень.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мої сканери засікли ще одного охоронця... І ще одного.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Це взаємопов'язано: опускаючи цю барикаду, ти відповідно опускаєш ще одну над землею.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ми можемо зробити позитивний вплив на повстанську війну проти гноблення! Чудово. Навіть сама дещиця допоможе.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Тут інша барикада над землею, захищена генератором щита. Я думаю, якщо ти вимкнеш щит, то барикада впаде.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Мені подобається твоя завзятість і сміливість у гонитві за великими досягненнями.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Дивні життєві показники виходять із глибин цієї лабораторії.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Це добре укріплена цитадель Міннаука... Я знаю, що зазвичай ти обережний, золотце, але цього разу будь ще обережнішим...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Великий Мавп - дуже небезпечний противник.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Найкраще озирнутися навколо, поки він спить, золотце. Краще нам його не турбувати.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Попередня інформація свідчить про те, що такий стародавній храм не може містити в собі настільки смертельну систему захисту... Переналаштовую зазначені параметри.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Шлях розділяється. Я б порадив не ходити ні вліво, ні вправо. На жаль, нам це не підходить.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нуру",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я. Ненавиджу. Вогонь.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Нуру",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Ти повинен ОБІЙТИ його! Не бий і не ссстріляй! Тобі треба непомітно прокрассстися, і сссподіватися, що він тебе не помітить.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Коїчі",
+    "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Це місце - немов рідний дім... Звичайно, не включаючи огидні шипи. Очевидно...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Цей острів - вхід до \"великої бібліотеки\".",
+    "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Поточний зовнішній тиск близько 15 атмосфер. Сканування показує, що ця структура може витримувати до 80 атмосфер. Шанси на виживання - дивовижно високі.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти наблизився до рівня підвалу. Мої показання спотворені, але я можу спробувати оцінити рівень загрози, якщо хочеш...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я чула про цих культистів, але я знаю про них зовсім небагато... Цікаво, якщо...? Хто ж може знати...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Нуру",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Не хвилюйссся про це! Сссмертоносні незззнайомці - це саме по твоїй чассстині.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ця жінка... Її голос... Чи може це бути, після стількох років?",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Проаналізувавши дані, я роблю висновок, що не можна дійти до цієї кімнати живим. Вітаю з перемогою завзятості над розумом!",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Це належить глітчу, відомому як Барон. Він відставний герой, і судячи з усього, злегка... ексцентричний...",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "У нього може не вистачати гвинтиків, але він не небезпечний, золотце.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Показання кажуть, що цей об'єкт, здавалося б, планета, але ні. Фактично, це один великий живий організм.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти стоїш на Руїні, золотце. Ти не зможеш завдати їй багато пошкоджень із зовнішнього боку - тобі доведеться пробити свій шлях вниз.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Лана Блейк",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Акуратніше тут внизу. Кожна істота і речовина, з якою ти тут зіткнешся - небезпечна...",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Згідно з показаннями, під тобою величезна прірва, яка простягається глибоко-глибоко. Раджу не вмирати від падіння.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Коїчі",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Б.Ш.І. має рацію, прямо під твоїми ногами порожнеча. Величезна прірва між тобою і центральною частиною Руїни. Тобі потрібно знайти спосіб безпечно спуститися вниз.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти досяг серця Руїни. Ти повинен знищити її.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тонауак",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Нехай Клуекс направить тебе.",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зробив це!.. Але щось не так. Руїна... Її структура нестабільна!",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Коїчі",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Вона ось-ось вибухне! Тікай!",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Нуру",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Не кажи їм, що робити, риб'яча мордо! Вони ссстикалися з ссситуаціями набагато гіршими, ніж ця!",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Отже, ти знайшов її... Ти знайшов Азру.",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Капітан Нобл",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Ти гомоніш з легендарною Естер Брайт, легіню? За честь маю познайомитися з тобою!",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Насолоджуйся цим, золотце!",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Коїчі",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ти можеш викликати хутро з цієї платформи. Це повинно стати тобі в пригоді.",
+    "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Лана Блейк",
+    "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "На щастя, літаюча фортеця нашого ворога має такі слабкі протоколи безпеки...",
+    "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Капітан Нобл",
+    "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ану поглянемо на твої файні навички злому, легіню!",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Барон",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вражено. Незважаючи на свої вчинки, ці огидні культисти, принаймні, знають, як зберегти таємну кімнату в чистоті! Ха-ха!",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Нуру",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Холодильник! Цікаво, що погані хлопці їдять на сссніданок?",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Барон",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Здивовано. Можливо, вони їдять... погані яблука? Хо-хо! Мій розум бездоганний!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Капітан Нобл",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ти досяг файного результату, легіню. Цей корабель таки здоровенний, чи не так?",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Тонауак",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, він і справді достатньо великий, щоб конкурувати з найбільшим з божественних храмів Клуекса!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "???",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Чий це канал зв'язку?! Чому ти на борту Данталіона?!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Азра Нокс",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ох. Це ^orange;ти^white;.",
+    "path": "/scriptConfig/dialog/crewmember/penguin/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/scriptConfig/dialog/crewmember/penguin/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ох, Азро, коли ж закінчиться твоя одержимість Руїною?",
+    "path": "/scriptConfig/dialog/crewmember/penguin/default/2",
+    "op": "replace"
+  }
+]

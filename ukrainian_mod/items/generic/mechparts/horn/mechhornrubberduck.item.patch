@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вічна класика."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гумова качка Mech Horn"
+  }
+]

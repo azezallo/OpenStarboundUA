@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рюкзак у скафандрі, який допоможе вам дихати тощо. Це не так."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рюкзак скафандр"
+  }
+]

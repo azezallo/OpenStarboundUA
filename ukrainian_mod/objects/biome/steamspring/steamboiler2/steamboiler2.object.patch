@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Довгий пом'ятий котел для перетворення замерзаючої води на пару."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середній паровий котел"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це виглядає майже як величезна пробірка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я припускаю, що він виробляє пару з певною метою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран здивувався, наскільки це гаряче."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Йому вдається залишатися у вертикальному положенні, незважаючи на те, що він виглядає важким."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей паровий котел виглядає, м'яко кажучи, дуже застарілим за сучасними мірками..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я не думаю, що Hylotl зробив би щось настільки непривабливе."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Заштовхніть один із них у потяг, і нам буде дуже весело."
+  }
+]

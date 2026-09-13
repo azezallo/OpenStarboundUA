@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Простий, але ситний салат із яєчного пагона та пір’янки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Салат з яйцем"
+  }
+]

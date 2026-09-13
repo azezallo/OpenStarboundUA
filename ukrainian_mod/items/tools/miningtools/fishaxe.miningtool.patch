@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "ЗАРАЗ ви видобуваєте рибу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Fishaxe"
+  }
+]

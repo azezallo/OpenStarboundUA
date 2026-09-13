@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Піщаний чагарник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Піщаний чагарник."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssandy."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Піщаний чагарник."
+  }
+]

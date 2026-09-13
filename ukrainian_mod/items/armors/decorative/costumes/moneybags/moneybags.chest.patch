@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шикарний смокінг ідеально підходить для випускного вечора."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Moneybags Tux"
+  }
+]

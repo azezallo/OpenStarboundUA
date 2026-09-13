@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Будь найкраще одягненим у місті в цьому жилеті шерифа!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жилет Шерифа"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцний металевий стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Основний металевий стілець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Металевий стілець із кількома вишуканими характеристиками."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Простий металевий стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Металевий стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безкорисливий. Металевий стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Металевий стілець. Мало що сказати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Крісло без натхнення."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Простий металевий стілець."
+  }
+]

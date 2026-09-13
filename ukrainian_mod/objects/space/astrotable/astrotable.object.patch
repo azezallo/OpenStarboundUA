@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцна робоча поверхня, встановлена ​​на підлозі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Астрологічна таблиця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стіл промислового вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "На цьому столі намальована смужка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Просто металевий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Байдуже. Ця таблиця нічим не примітна."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей стіл прикріплений до підлоги, інакше він може перекинутися."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Металевий стіл, який кріпиться до підлоги."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Столик з металу."
+  }
+]

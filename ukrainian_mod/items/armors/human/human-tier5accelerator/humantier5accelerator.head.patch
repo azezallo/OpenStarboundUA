@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей шолом з aegisalt легкий і міцний... Крім того, хто не виглядає добре в зеленому?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шлем авангарду"
+  }
+]

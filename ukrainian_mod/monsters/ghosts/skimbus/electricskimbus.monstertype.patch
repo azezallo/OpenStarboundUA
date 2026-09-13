@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Електричний скімбус"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Its lightweight body flows in the direction of the wind."
+  }
+]

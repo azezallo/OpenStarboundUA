@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей трофей є прядкою якоїсь великої істоти, що пряде павутину."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Трофей прядки"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей трофей є прядкою великої істоти, що обертається павутиною."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей мисливський трофей є прядкою якогось невідомого звіра."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це частина мережі застрелених звірів, перш ніж вона стала мисливським трофеєм."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Цей трофей є прядкою великої невідомої істоти."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей трофей є прядкою якоїсь істоти, що кидає павутину. Я уявляю, що це було важко отримати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Грубий мисливський трофей. It's the spinneret from a large web spinning creature."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цікавий трофей, я б сказав. Вважаю, що це від якогось великого, потворного павутиння."
+  }
+]

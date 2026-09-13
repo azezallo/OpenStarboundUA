@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Модно і повітряно!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плісирована спідниця"
+  }
+]

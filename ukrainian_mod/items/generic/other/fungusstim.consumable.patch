@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей стимулятор має природні цілющі властивості."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Грибок Стим"
+  }
+]

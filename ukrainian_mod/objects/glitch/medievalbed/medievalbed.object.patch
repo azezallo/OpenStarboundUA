@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тверде ліжко з шовковистим простирадлом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічне ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ліжко жорстке, але простирадла шовковисте."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Простирадла приємно м'які на дотик."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран насолоджується дотиком шовкового ліжка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Глітч-лист, як правило, залишається шовковистим, оскільки наша металева оболонка не зношує їх."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Шовковисте простирадло на суворому ліжку."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Тонкі шовковисті простирадла. Hylotl добре використовують шовк."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарна постільна білизна не робить гарне ліжко."
+  }
+]

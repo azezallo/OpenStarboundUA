@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стандартна уніформа для всіх миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сорочка миротворця"
+  }
+]

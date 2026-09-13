@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Дуже мулистий мул.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Пухкий мул",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Дискомфорт. Тримати мул досить важко, він просочується в мої деталі.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Мул такий запилений.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Велика стара купа запиленого мулу.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

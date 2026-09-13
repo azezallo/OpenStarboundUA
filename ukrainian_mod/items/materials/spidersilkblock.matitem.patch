@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Полотна щільно упаковані в суцільний блок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шовк павука"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Вражений. Природа не перестає вражати, цей матеріал повністю органічний."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Липка павутина. Флоран вважає павука чудовим мисливцем!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Моторошна павутина."
+  }
+]

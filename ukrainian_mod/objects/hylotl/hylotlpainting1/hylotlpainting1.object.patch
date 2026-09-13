@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційний живопис хвилями"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це картина великої великої хвилі."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця картина досить гарна."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "непогано! Але пензлик трохи неохайний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану байдужі дурні хвильові малюнки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заздрісні. Художнику вдалося чудово вловити хвилю."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я майже впевнений, що у нас була така сама картина на Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Кожен мазок пензля сповнений емоцій, краса хвиль зафіксована назавжди."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця картина гігантської хвилі справді вражає."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нашийник, який трохи покращує загальний стан здоров'я вашого вихованця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Здоров'я I Нашийник"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "value": "Здоров'я І"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "До бою!",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти ще не бачив таких файних опришків, як я!",
+    "path": "/scriptConfig/dialog/attack/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Може ти й бився з розбійниками, та зі МНОЮ тобі не впоратись, легіню!",
+    "path": "/scriptConfig/dialog/attack/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я зроблю з тебе решето, бігме!",
+    "path": "/scriptConfig/dialog/attack/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Хочеш кинути мені виклик? Ти хоч знаєш, хто я такий, га?!",
+    "path": "/scriptConfig/dialog/attack/human/default/3",
+    "op": "replace"
+  }
+]

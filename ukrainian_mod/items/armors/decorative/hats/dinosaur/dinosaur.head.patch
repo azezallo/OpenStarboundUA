@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Капелюх такий ретро, ​​що доісторичний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капелюх динозавра"
+  }
+]

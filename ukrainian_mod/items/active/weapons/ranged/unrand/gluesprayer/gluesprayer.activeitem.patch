@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розпиліть липку піну, яка сповільнює ворогів!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розпилювач клею"
+  }
+]

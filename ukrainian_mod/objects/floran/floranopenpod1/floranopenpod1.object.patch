@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Якийсь чудернацький стручок. Схоже, вилупився."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Відкрити грибковий стручок"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Що тут росло?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, щось вилупилося з цього стручка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран sssniff дивний стручок. Пахне знайомим. Флоран злякався."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Проаналізуйте. Цей стручок флоранського походження, і всередині нічого немає."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не хочу зустрічатися з тим, що виповзло звідси."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я готовий до тебе, мерзенний звір."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я готовий до тебе, твій негідник."
+  }
+]

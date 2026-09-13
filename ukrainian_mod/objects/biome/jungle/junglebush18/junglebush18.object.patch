@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гнильна, жахлива квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гнильна квітка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Щось жахливо пахне. Це ця квітка?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця квітка жахливо пахне."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смердюча квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Ця квітка жахливо пахне"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця квітка жахливо пахне!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Взагалі жахлива квітка. Пахне гнильним."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "ой! Це одна пахуча квітка."
+  }
+]

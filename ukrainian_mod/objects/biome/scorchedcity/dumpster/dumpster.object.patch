@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Смітник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "смітник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стандартний смітник."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Смітник."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смітник."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Смітник."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дайвінг у сміттєвих контейнерах все ще актуальний?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Смітник. Брудно, але необхідно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Великий старий смітник."
+  }
+]

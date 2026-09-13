@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це урановий стрижень."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Урановий стрижень"
+  }
+]

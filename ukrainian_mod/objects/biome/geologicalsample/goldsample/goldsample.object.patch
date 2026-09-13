@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "«Ідеальний зразок золотої руди»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Золота проба"
+  }
+]

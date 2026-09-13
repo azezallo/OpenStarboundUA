@@ -1,0 +1,3207 @@
+[
+  {
+    "value": "Персей",
+    "path": "/systemNames/0/1",
+    "op": "replace"
+  },
+  {
+    "value": "Цефея",
+    "path": "/systemNames/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лев",
+    "path": "/systemNames/2/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гідра",
+    "path": "/systemNames/3/1",
+    "op": "replace"
+  },
+  {
+    "value": "Заєць",
+    "path": "/systemNames/4/1",
+    "op": "replace"
+  },
+  {
+    "value": "Іпсилон",
+    "path": "/systemNames/5/1",
+    "op": "replace"
+  },
+  {
+    "value": "Водолій",
+    "path": "/systemNames/6/1",
+    "op": "replace"
+  },
+  {
+    "value": "Візничий",
+    "path": "/systemNames/7/1",
+    "op": "replace"
+  },
+  {
+    "value": "Південь",
+    "path": "/systemNames/8/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рак",
+    "path": "/systemNames/9/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пес",
+    "path": "/systemNames/10/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кіль",
+    "path": "/systemNames/11/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кассіопея",
+    "path": "/systemNames/12/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кит",
+    "path": "/systemNames/13/1",
+    "op": "replace"
+  },
+  {
+    "value": "Корона",
+    "path": "/systemNames/14/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чаша",
+    "path": "/systemNames/15/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хрест",
+    "path": "/systemNames/16/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хрест",
+    "path": "/systemNames/17/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лебідь",
+    "path": "/systemNames/18/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дракон",
+    "path": "/systemNames/19/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ерідан",
+    "path": "/systemNames/20/1",
+    "op": "replace"
+  },
+  {
+    "value": "Журавель",
+    "path": "/systemNames/21/1",
+    "op": "replace"
+  },
+  {
+    "value": "Геркулес",
+    "path": "/systemNames/22/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рись",
+    "path": "/systemNames/23/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ліра",
+    "path": "/systemNames/24/1",
+    "op": "replace"
+  },
+  {
+    "value": "Оріон",
+    "path": "/systemNames/25/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пегас",
+    "path": "/systemNames/26/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фенікс",
+    "path": "/systemNames/27/1",
+    "op": "replace"
+  },
+  {
+    "value": "Риби",
+    "path": "/systemNames/28/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стрілець",
+    "path": "/systemNames/29/1",
+    "op": "replace"
+  },
+  {
+    "value": "Скорпіон",
+    "path": "/systemNames/30/1",
+    "op": "replace"
+  },
+  {
+    "value": "Телець",
+    "path": "/systemNames/31/1",
+    "op": "replace"
+  },
+  {
+    "value": "Трикутник",
+    "path": "/systemNames/32/1",
+    "op": "replace"
+  },
+  {
+    "value": "Діва",
+    "path": "/systemNames/33/1",
+    "op": "replace"
+  },
+  {
+    "value": "Андромеда",
+    "path": "/systemNames/34/1",
+    "op": "replace"
+  },
+  {
+    "value": "Овен",
+    "path": "/systemNames/35/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ворон",
+    "path": "/systemNames/36/1",
+    "op": "replace"
+  },
+  {
+    "value": "Менсае",
+    "path": "/systemNames/37/1",
+    "op": "replace"
+  },
+  {
+    "value": "Акамар",
+    "path": "/systemNames/38/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ахернар",
+    "path": "/systemNames/39/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ачірд",
+    "path": "/systemNames/40/1",
+    "op": "replace"
+  },
+  {
+    "value": "Акрукс",
+    "path": "/systemNames/41/1",
+    "op": "replace"
+  },
+  {
+    "value": "Акубенс",
+    "path": "/systemNames/42/1",
+    "op": "replace"
+  },
+  {
+    "value": "Адхафера",
+    "path": "/systemNames/43/1",
+    "op": "replace"
+  },
+  {
+    "value": "Адхара",
+    "path": "/systemNames/44/1",
+    "op": "replace"
+  },
+  {
+    "value": "Айн",
+    "path": "/systemNames/45/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аладфар",
+    "path": "/systemNames/46/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аль Атфар",
+    "path": "/systemNames/47/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альбалдах",
+    "path": "/systemNames/48/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альбалі",
+    "path": "/systemNames/49/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альбірео",
+    "path": "/systemNames/50/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альчіба",
+    "path": "/systemNames/51/1",
+    "op": "replace"
+  },
+  {
+    "value": "Алькор",
+    "path": "/systemNames/52/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альціона",
+    "path": "/systemNames/53/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альдебаран",
+    "path": "/systemNames/54/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альдерамін",
+    "path": "/systemNames/55/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альфекка",
+    "path": "/systemNames/56/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альфірк",
+    "path": "/systemNames/57/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альгеді",
+    "path": "/systemNames/58/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альгеніб",
+    "path": "/systemNames/59/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альгенубі",
+    "path": "/systemNames/60/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альгіеба",
+    "path": "/systemNames/61/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альгол",
+    "path": "/systemNames/62/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альхена",
+    "path": "/systemNames/63/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аліфа",
+    "path": "/systemNames/64/1",
+    "op": "replace"
+  },
+  {
+    "value": "Еліот",
+    "path": "/systemNames/65/1",
+    "op": "replace"
+  },
+  {
+    "value": "Алькаід",
+    "path": "/systemNames/66/1",
+    "op": "replace"
+  },
+  {
+    "value": "Алькалуропс",
+    "path": "/systemNames/67/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альгораб",
+    "path": "/systemNames/68/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аль Кафрах",
+    "path": "/systemNames/69/1",
+    "op": "replace"
+  },
+  {
+    "value": "Алькес",
+    "path": "/systemNames/70/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альмаз",
+    "path": "/systemNames/71/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альмач",
+    "path": "/systemNames/72/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аль Мінліар",
+    "path": "/systemNames/73/1",
+    "op": "replace"
+  },
+  {
+    "value": "Асад",
+    "path": "/systemNames/74/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аль Найр",
+    "path": "/systemNames/75/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альнасл",
+    "path": "/systemNames/76/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альнілам",
+    "path": "/systemNames/77/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альнітак",
+    "path": "/systemNames/78/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аль Ніят",
+    "path": "/systemNames/79/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альфа",
+    "path": "/systemNames/80/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альфард",
+    "path": "/systemNames/81/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альфекка",
+    "path": "/systemNames/82/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альферац",
+    "path": "/systemNames/83/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альреша",
+    "path": "/systemNames/84/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альсафі",
+    "path": "/systemNames/85/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альскіукат",
+    "path": "/systemNames/86/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альшаін",
+    "path": "/systemNames/87/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альтаіс",
+    "path": "/systemNames/88/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альтаір",
+    "path": "/systemNames/89/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аль Тарф",
+    "path": "/systemNames/90/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альтерф",
+    "path": "/systemNames/91/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ель Талімейн",
+    "path": "/systemNames/92/1",
+    "op": "replace"
+  },
+  {
+    "value": "Алудра",
+    "path": "/systemNames/93/1",
+    "op": "replace"
+  },
+  {
+    "value": "Алула",
+    "path": "/systemNames/94/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аустраліс",
+    "path": "/systemNames/95/1",
+    "op": "replace"
+  },
+  {
+    "value": "Алула Бореаліс",
+    "path": "/systemNames/96/1",
+    "op": "replace"
+  },
+  {
+    "value": "Алія",
+    "path": "/systemNames/97/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аль Зірр",
+    "path": "/systemNames/98/1",
+    "op": "replace"
+  },
+  {
+    "value": "Анкаа",
+    "path": "/systemNames/99/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ансер",
+    "path": "/systemNames/100/1",
+    "op": "replace"
+  },
+  {
+    "value": "Антарес",
+    "path": "/systemNames/101/1",
+    "op": "replace"
+  },
+  {
+    "value": "Анвар аль Фаркадаін",
+    "path": "/systemNames/102/1",
+    "op": "replace"
+  },
+  {
+    "value": "Арктурус",
+    "path": "/systemNames/103/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аркаб",
+    "path": "/systemNames/104/1",
+    "op": "replace"
+  },
+  {
+    "value": "Арракіс",
+    "path": "/systemNames/105/1",
+    "op": "replace"
+  },
+  {
+    "value": "Асцелла",
+    "path": "/systemNames/106/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аселлус",
+    "path": "/systemNames/107/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аспідіск",
+    "path": "/systemNames/108/1",
+    "op": "replace"
+  },
+  {
+    "value": "Алік",
+    "path": "/systemNames/109/1",
+    "op": "replace"
+  },
+  {
+    "value": "Атлас",
+    "path": "/systemNames/110/1",
+    "op": "replace"
+  },
+  {
+    "value": "Атрія",
+    "path": "/systemNames/111/1",
+    "op": "replace"
+  },
+  {
+    "value": "Авіор",
+    "path": "/systemNames/112/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ажа",
+    "path": "/systemNames/113/1",
+    "op": "replace"
+  },
+  {
+    "value": "Батен Кайтос",
+    "path": "/systemNames/114/1",
+    "op": "replace"
+  },
+  {
+    "value": "Бейд",
+    "path": "/systemNames/115/1",
+    "op": "replace"
+  },
+  {
+    "value": "Беллатрікс",
+    "path": "/systemNames/116/1",
+    "op": "replace"
+  },
+  {
+    "value": "Бета",
+    "path": "/systemNames/117/1",
+    "op": "replace"
+  },
+  {
+    "value": "Бетельгейз",
+    "path": "/systemNames/118/1",
+    "op": "replace"
+  },
+  {
+    "value": "Біхам",
+    "path": "/systemNames/119/1",
+    "op": "replace"
+  },
+  {
+    "value": "Канопус",
+    "path": "/systemNames/120/1",
+    "op": "replace"
+  },
+  {
+    "value": "Капелла",
+    "path": "/systemNames/121/1",
+    "op": "replace"
+  },
+  {
+    "value": "Каф",
+    "path": "/systemNames/122/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кастор",
+    "path": "/systemNames/123/1",
+    "op": "replace"
+  },
+  {
+    "value": "Цебальрай",
+    "path": "/systemNames/124/1",
+    "op": "replace"
+  },
+  {
+    "value": "Целено",
+    "path": "/systemNames/125/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чара",
+    "path": "/systemNames/126/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чертан",
+    "path": "/systemNames/127/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чі",
+    "path": "/systemNames/128/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кор Каролі",
+    "path": "/systemNames/129/1",
+    "op": "replace"
+  },
+  {
+    "value": "Курса",
+    "path": "/systemNames/130/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сігнус X-1",
+    "path": "/systemNames/131/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дабіх",
+    "path": "/systemNames/132/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дельта",
+    "path": "/systemNames/133/1",
+    "op": "replace"
+  },
+  {
+    "value": "Денеб",
+    "path": "/systemNames/134/1",
+    "op": "replace"
+  },
+  {
+    "value": "Діадема",
+    "path": "/systemNames/135/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чабба",
+    "path": "/systemNames/136/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дубхе",
+    "path": "/systemNames/137/1",
+    "op": "replace"
+  },
+  {
+    "value": "Едасіч",
+    "path": "/systemNames/138/1",
+    "op": "replace"
+  },
+  {
+    "value": "Електра",
+    "path": "/systemNames/139/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ельнас",
+    "path": "/systemNames/140/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ельтанін",
+    "path": "/systemNames/141/1",
+    "op": "replace"
+  },
+  {
+    "value": "Еніф",
+    "path": "/systemNames/142/1",
+    "op": "replace"
+  },
+  {
+    "value": "Еррай",
+    "path": "/systemNames/143/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ета",
+    "path": "/systemNames/144/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фомальхаут",
+    "path": "/systemNames/145/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фуруд",
+    "path": "/systemNames/146/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гакрукс",
+    "path": "/systemNames/147/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гамма",
+    "path": "/systemNames/148/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гарнет",
+    "path": "/systemNames/149/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гаузар",
+    "path": "/systemNames/150/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гіена",
+    "path": "/systemNames/151/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гіртаб",
+    "path": "/systemNames/152/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гомейс",
+    "path": "/systemNames/153/1",
+    "op": "replace"
+  },
+  {
+    "value": "Горгонея",
+    "path": "/systemNames/154/1",
+    "op": "replace"
+  },
+  {
+    "value": "Граффіас",
+    "path": "/systemNames/155/1",
+    "op": "replace"
+  },
+  {
+    "value": "Груміум",
+    "path": "/systemNames/156/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хадар",
+    "path": "/systemNames/157/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хаєдус",
+    "path": "/systemNames/158/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хамаль",
+    "path": "/systemNames/159/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хезе",
+    "path": "/systemNames/160/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хінд",
+    "path": "/systemNames/161/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хомам",
+    "path": "/systemNames/162/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хадум",
+    "path": "/systemNames/163/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хадор",
+    "path": "/systemNames/164/1",
+    "op": "replace"
+  },
+  {
+    "value": "Йота",
+    "path": "/systemNames/165/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ізар",
+    "path": "/systemNames/166/1",
+    "op": "replace"
+  },
+  {
+    "value": "Джабах",
+    "path": "/systemNames/167/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кафалджідхма",
+    "path": "/systemNames/168/1",
+    "op": "replace"
+  },
+  {
+    "value": "Каккаб",
+    "path": "/systemNames/169/1",
+    "op": "replace"
+  },
+  {
+    "value": "Каппа",
+    "path": "/systemNames/170/1",
+    "op": "replace"
+  },
+  {
+    "value": "Каус",
+    "path": "/systemNames/171/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кіталфа",
+    "path": "/systemNames/172/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кочаб",
+    "path": "/systemNames/173/1",
+    "op": "replace"
+  },
+  {
+    "value": "Корнефорос",
+    "path": "/systemNames/174/1",
+    "op": "replace"
+  },
+  {
+    "value": "Краз",
+    "path": "/systemNames/175/1",
+    "op": "replace"
+  },
+  {
+    "value": "Куллат",
+    "path": "/systemNames/176/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кума",
+    "path": "/systemNames/177/1",
+    "op": "replace"
+  },
+  {
+    "value": "Курхах",
+    "path": "/systemNames/178/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лямбда",
+    "path": "/systemNames/179/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лезах",
+    "path": "/systemNames/180/1",
+    "op": "replace"
+  },
+  {
+    "value": "Майя",
+    "path": "/systemNames/181/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мерфік",
+    "path": "/systemNames/182/1",
+    "op": "replace"
+  },
+  {
+    "value": "Меркеб",
+    "path": "/systemNames/183/1",
+    "op": "replace"
+  },
+  {
+    "value": "Меркіб",
+    "path": "/systemNames/184/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мерсік",
+    "path": "/systemNames/185/1",
+    "op": "replace"
+  },
+  {
+    "value": "Матар",
+    "path": "/systemNames/186/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мебсута",
+    "path": "/systemNames/187/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мегрез",
+    "path": "/systemNames/188/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мейсса",
+    "path": "/systemNames/189/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мекбуда",
+    "path": "/systemNames/190/1",
+    "op": "replace"
+  },
+  {
+    "value": "Менкалінан",
+    "path": "/systemNames/191/1",
+    "op": "replace"
+  },
+  {
+    "value": "Менкар",
+    "path": "/systemNames/192/1",
+    "op": "replace"
+  },
+  {
+    "value": "Менкент",
+    "path": "/systemNames/193/1",
+    "op": "replace"
+  },
+  {
+    "value": "Менкіб",
+    "path": "/systemNames/194/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мерак",
+    "path": "/systemNames/195/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мероп",
+    "path": "/systemNames/196/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мезарфім",
+    "path": "/systemNames/197/1",
+    "op": "replace"
+  },
+  {
+    "value": "Міаплакідус",
+    "path": "/systemNames/198/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мімоза",
+    "path": "/systemNames/199/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мінкар",
+    "path": "/systemNames/200/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мінтака",
+    "path": "/systemNames/201/1",
+    "op": "replace"
+  },
+  {
+    "value": "Міра",
+    "path": "/systemNames/202/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мірах",
+    "path": "/systemNames/203/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мірфек",
+    "path": "/systemNames/204/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мірзам",
+    "path": "/systemNames/205/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мізар",
+    "path": "/systemNames/206/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мосала",
+    "path": "/systemNames/207/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мю",
+    "path": "/systemNames/208/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мухліфайн",
+    "path": "/systemNames/209/1",
+    "op": "replace"
+  },
+  {
+    "value": "Муліфейн",
+    "path": "/systemNames/210/1",
+    "op": "replace"
+  },
+  {
+    "value": "Муліфен",
+    "path": "/systemNames/211/1",
+    "op": "replace"
+  },
+  {
+    "value": "Муфрід",
+    "path": "/systemNames/212/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мусціда",
+    "path": "/systemNames/213/1",
+    "op": "replace"
+  },
+  {
+    "value": "Наос",
+    "path": "/systemNames/214/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нашіра",
+    "path": "/systemNames/215/1",
+    "op": "replace"
+  },
+  {
+    "value": "Неккар",
+    "path": "/systemNames/216/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ніхал",
+    "path": "/systemNames/217/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ню",
+    "path": "/systemNames/218/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нункі",
+    "path": "/systemNames/219/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нусакан",
+    "path": "/systemNames/220/1",
+    "op": "replace"
+  },
+  {
+    "value": "Омега",
+    "path": "/systemNames/221/1",
+    "op": "replace"
+  },
+  {
+    "value": "Омікрон",
+    "path": "/systemNames/222/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пікок",
+    "path": "/systemNames/223/1",
+    "op": "replace"
+  },
+  {
+    "value": "Персей",
+    "path": "/systemNames/224/1",
+    "op": "replace"
+  },
+  {
+    "value": "Факт",
+    "path": "/systemNames/225/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фекда",
+    "path": "/systemNames/226/1",
+    "op": "replace"
+  },
+  {
+    "value": "Феркад",
+    "path": "/systemNames/227/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фі",
+    "path": "/systemNames/228/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пі",
+    "path": "/systemNames/229/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пласкетт",
+    "path": "/systemNames/230/1",
+    "op": "replace"
+  },
+  {
+    "value": "Плейон",
+    "path": "/systemNames/231/1",
+    "op": "replace"
+  },
+  {
+    "value": "Поларіс",
+    "path": "/systemNames/232/1",
+    "op": "replace"
+  },
+  {
+    "value": "Поліс",
+    "path": "/systemNames/233/1",
+    "op": "replace"
+  },
+  {
+    "value": "Поллукс",
+    "path": "/systemNames/234/1",
+    "op": "replace"
+  },
+  {
+    "value": "Порріма",
+    "path": "/systemNames/235/1",
+    "op": "replace"
+  },
+  {
+    "value": "Преціпуа",
+    "path": "/systemNames/236/1",
+    "op": "replace"
+  },
+  {
+    "value": "Проціон",
+    "path": "/systemNames/237/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пропус",
+    "path": "/systemNames/238/1",
+    "op": "replace"
+  },
+  {
+    "value": "Проксіма Центавра",
+    "path": "/systemNames/239/1",
+    "op": "replace"
+  },
+  {
+    "value": "Псі",
+    "path": "/systemNames/240/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рана",
+    "path": "/systemNames/241/1",
+    "op": "replace"
+  },
+  {
+    "value": "Расалас",
+    "path": "/systemNames/242/1",
+    "op": "replace"
+  },
+  {
+    "value": "Растабан",
+    "path": "/systemNames/243/1",
+    "op": "replace"
+  },
+  {
+    "value": "Регор",
+    "path": "/systemNames/244/1",
+    "op": "replace"
+  },
+  {
+    "value": "Регулус",
+    "path": "/systemNames/245/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рігель",
+    "path": "/systemNames/246/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рігіл",
+    "path": "/systemNames/247/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ротанев",
+    "path": "/systemNames/248/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рухба",
+    "path": "/systemNames/249/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рухбах",
+    "path": "/systemNames/250/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рукбат",
+    "path": "/systemNames/251/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сабік",
+    "path": "/systemNames/252/1",
+    "op": "replace"
+  },
+  {
+    "value": "Садахбія",
+    "path": "/systemNames/253/1",
+    "op": "replace"
+  },
+  {
+    "value": "Садалбарі",
+    "path": "/systemNames/254/1",
+    "op": "replace"
+  },
+  {
+    "value": "Садальмелік",
+    "path": "/systemNames/255/1",
+    "op": "replace"
+  },
+  {
+    "value": "Садальсууд",
+    "path": "/systemNames/256/1",
+    "op": "replace"
+  },
+  {
+    "value": "Садр",
+    "path": "/systemNames/257/1",
+    "op": "replace"
+  },
+  {
+    "value": "Саіф",
+    "path": "/systemNames/258/1",
+    "op": "replace"
+  },
+  {
+    "value": "Шеат",
+    "path": "/systemNames/259/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сегін",
+    "path": "/systemNames/260/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сегінус",
+    "path": "/systemNames/261/1",
+    "op": "replace"
+  },
+  {
+    "value": "Шам",
+    "path": "/systemNames/262/1",
+    "op": "replace"
+  },
+  {
+    "value": "Шаула",
+    "path": "/systemNames/263/1",
+    "op": "replace"
+  },
+  {
+    "value": "Шедар",
+    "path": "/systemNames/264/1",
+    "op": "replace"
+  },
+  {
+    "value": "Шеліак",
+    "path": "/systemNames/265/1",
+    "op": "replace"
+  },
+  {
+    "value": "Шератан",
+    "path": "/systemNames/266/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сігма",
+    "path": "/systemNames/267/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сіріус",
+    "path": "/systemNames/268/1",
+    "op": "replace"
+  },
+  {
+    "value": "Скат",
+    "path": "/systemNames/269/1",
+    "op": "replace"
+  },
+  {
+    "value": "Спіка",
+    "path": "/systemNames/270/1",
+    "op": "replace"
+  },
+  {
+    "value": "Суалокін",
+    "path": "/systemNames/271/1",
+    "op": "replace"
+  },
+  {
+    "value": "Субра",
+    "path": "/systemNames/272/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сухайл",
+    "path": "/systemNames/273/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сулафат",
+    "path": "/systemNames/274/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сурьма",
+    "path": "/systemNames/275/1",
+    "op": "replace"
+  },
+  {
+    "value": "Табіта",
+    "path": "/systemNames/276/1",
+    "op": "replace"
+  },
+  {
+    "value": "Таліса",
+    "path": "/systemNames/277/1",
+    "op": "replace"
+  },
+  {
+    "value": "Таразед",
+    "path": "/systemNames/278/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тау",
+    "path": "/systemNames/279/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тауджета",
+    "path": "/systemNames/280/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тегмін",
+    "path": "/systemNames/281/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тежат",
+    "path": "/systemNames/282/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тета",
+    "path": "/systemNames/283/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тубан",
+    "path": "/systemNames/284/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тюрейс",
+    "path": "/systemNames/285/1",
+    "op": "replace"
+  },
+  {
+    "value": "Унукалхай",
+    "path": "/systemNames/286/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вега",
+    "path": "/systemNames/287/1",
+    "op": "replace"
+  },
+  {
+    "value": "Віндеміатрікс",
+    "path": "/systemNames/288/1",
+    "op": "replace"
+  },
+  {
+    "value": "Васат",
+    "path": "/systemNames/289/1",
+    "op": "replace"
+  },
+  {
+    "value": "Везен",
+    "path": "/systemNames/290/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ксі",
+    "path": "/systemNames/291/1",
+    "op": "replace"
+  },
+  {
+    "value": "Юлдун",
+    "path": "/systemNames/292/1",
+    "op": "replace"
+  },
+  {
+    "value": "Заньях",
+    "path": "/systemNames/293/1",
+    "op": "replace"
+  },
+  {
+    "value": "Заюрак",
+    "path": "/systemNames/294/1",
+    "op": "replace"
+  },
+  {
+    "value": "Завіджава",
+    "path": "/systemNames/295/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зета",
+    "path": "/systemNames/296/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зібал",
+    "path": "/systemNames/297/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зосма",
+    "path": "/systemNames/298/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зубенельджінубі",
+    "path": "/systemNames/299/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зубенесшамалі",
+    "path": "/systemNames/300/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зубенхакрабі",
+    "path": "/systemNames/301/1",
+    "op": "replace"
+  },
+  {
+    "value": "Айріс",
+    "path": "/systemNames/302/1",
+    "op": "replace"
+  },
+  {
+    "value": "Марша",
+    "path": "/systemNames/303/1",
+    "op": "replace"
+  },
+  {
+    "value": "Луна",
+    "path": "/systemNames/304/1",
+    "op": "replace"
+  },
+  {
+    "value": "Інді",
+    "path": "/systemNames/305/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тай",
+    "path": "/systemNames/306/1",
+    "op": "replace"
+  },
+  {
+    "value": "Деманрісу",
+    "path": "/systemNames/307/1",
+    "op": "replace"
+  },
+  {
+    "value": "Раз",
+    "path": "/systemNames/308/1",
+    "op": "replace"
+  },
+  {
+    "value": "Прекрасний Грідлі",
+    "path": "/systemNames/309/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гловігос",
+    "path": "/systemNames/310/1",
+    "op": "replace"
+  },
+  {
+    "value": "Іракулі",
+    "path": "/systemNames/311/1",
+    "op": "replace"
+  },
+  {
+    "value": "Курен",
+    "path": "/systemNames/312/1",
+    "op": "replace"
+  },
+  {
+    "value": "Бартві",
+    "path": "/systemNames/313/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пульс",
+    "path": "/systemNames/314/1",
+    "op": "replace"
+  },
+  {
+    "value": "Араксіс",
+    "path": "/systemNames/315/1",
+    "op": "replace"
+  },
+  {
+    "value": "Юлан",
+    "path": "/systemNames/316/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ваксас",
+    "path": "/systemNames/317/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ксіні",
+    "path": "/systemNames/318/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ня",
+    "path": "/systemNames/319/1",
+    "op": "replace"
+  },
+  {
+    "value": "Умбраксіон",
+    "path": "/systemNames/320/1",
+    "op": "replace"
+  },
+  {
+    "value": "Торміун",
+    "path": "/systemNames/321/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гіпернексус",
+    "path": "/systemNames/322/1",
+    "op": "replace"
+  },
+  {
+    "value": "Калодокс",
+    "path": "/systemNames/323/1",
+    "op": "replace"
+  },
+  {
+    "value": "Реквая",
+    "path": "/systemNames/324/1",
+    "op": "replace"
+  },
+  {
+    "value": "Коллокью",
+    "path": "/systemNames/325/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рагнарок",
+    "path": "/systemNames/326/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тутоокі",
+    "path": "/systemNames/327/1",
+    "op": "replace"
+  },
+  {
+    "value": "Піросія",
+    "path": "/systemNames/328/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аквасія",
+    "path": "/systemNames/329/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аеросія",
+    "path": "/systemNames/330/1",
+    "op": "replace"
+  },
+  {
+    "value": "Умбрасія",
+    "path": "/systemNames/331/1",
+    "op": "replace"
+  },
+  {
+    "value": "Некросія",
+    "path": "/systemNames/332/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кріосія",
+    "path": "/systemNames/333/1",
+    "op": "replace"
+  },
+  {
+    "value": "Електросія",
+    "path": "/systemNames/334/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дракосія",
+    "path": "/systemNames/335/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хронотіа",
+    "path": "/systemNames/336/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дьяблі",
+    "path": "/systemNames/337/1",
+    "op": "replace"
+  },
+  {
+    "value": "Омнібенево",
+    "path": "/systemNames/338/1",
+    "op": "replace"
+  },
+  {
+    "value": "Омнімалево",
+    "path": "/systemNames/339/1",
+    "op": "replace"
+  },
+  {
+    "value": "Юніос",
+    "path": "/systemNames/340/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дуанія",
+    "path": "/systemNames/341/1",
+    "op": "replace"
+  },
+  {
+    "value": "Трайсі",
+    "path": "/systemNames/342/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кватраз",
+    "path": "/systemNames/343/1",
+    "op": "replace"
+  },
+  {
+    "value": "Атоміліон",
+    "path": "/systemNames/344/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ассімілія",
+    "path": "/systemNames/345/1",
+    "op": "replace"
+  },
+  {
+    "value": "Децімата",
+    "path": "/systemNames/346/1",
+    "op": "replace"
+  },
+  {
+    "value": "Велоція",
+    "path": "/systemNames/347/1",
+    "op": "replace"
+  },
+  {
+    "value": "Датоа",
+    "path": "/systemNames/348/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тіко",
+    "path": "/systemNames/349/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вікс",
+    "path": "/systemNames/350/1",
+    "op": "replace"
+  },
+  {
+    "value": "Умбрія",
+    "path": "/systemNames/351/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ей",
+    "path": "/systemNames/352/1",
+    "op": "replace"
+  },
+  {
+    "value": "Омікрон",
+    "path": "/systemNames/353/1",
+    "op": "replace"
+  },
+  {
+    "value": "Епсілон",
+    "path": "/systemNames/354/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альфа Тайтаурі",
+    "path": "/systemNames/355/1",
+    "op": "replace"
+  },
+  {
+    "value": "Альфа Тайурі",
+    "path": "/systemNames/356/1",
+    "op": "replace"
+  },
+  {
+    "value": "Солайр",
+    "path": "/systemNames/357/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сазугі",
+    "path": "/systemNames/358/1",
+    "op": "replace"
+  },
+  {
+    "value": "Алідсл",
+    "path": "/systemNames/359/1",
+    "op": "replace"
+  },
+  {
+    "value": "Леєла",
+    "path": "/systemNames/360/1",
+    "op": "replace"
+  },
+  {
+    "value": "Калліоп",
+    "path": "/systemNames/361/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кліо",
+    "path": "/systemNames/362/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ерато",
+    "path": "/systemNames/363/1",
+    "op": "replace"
+  },
+  {
+    "value": "Еутерп",
+    "path": "/systemNames/364/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мельпомен",
+    "path": "/systemNames/365/1",
+    "op": "replace"
+  },
+  {
+    "value": "Поліхімнія",
+    "path": "/systemNames/366/1",
+    "op": "replace"
+  },
+  {
+    "value": "Терпсіхор",
+    "path": "/systemNames/367/1",
+    "op": "replace"
+  },
+  {
+    "value": "Талія ",
+    "path": "/systemNames/368/1",
+    "op": "replace"
+  },
+  {
+    "value": "Уранія",
+    "path": "/systemNames/369/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ендервуд",
+    "path": "/systemNames/370/1",
+    "op": "replace"
+  },
+  {
+    "value": "Елебіс",
+    "path": "/systemNames/371/1",
+    "op": "replace"
+  },
+  {
+    "value": "Глумі",
+    "path": "/systemNames/372/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зоінкс",
+    "path": "/systemNames/373/1",
+    "op": "replace"
+  },
+  {
+    "value": "Телладар",
+    "path": "/systemNames/374/1",
+    "op": "replace"
+  },
+  {
+    "value": "Брам",
+    "path": "/systemNames/375/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хойл",
+    "path": "/systemNames/376/1",
+    "op": "replace"
+  },
+  {
+    "value": "Віксаріус",
+    "path": "/systemNames/377/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мун",
+    "path": "/systemNames/378/1",
+    "op": "replace"
+  },
+  {
+    "value": "Раппарт",
+    "path": "/systemNames/379/1",
+    "op": "replace"
+  },
+  {
+    "value": "Квом",
+    "path": "/systemNames/380/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гор",
+    "path": "/systemNames/381/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чімаках",
+    "path": "/systemNames/382/1",
+    "op": "replace"
+  },
+  {
+    "value": "Марсін",
+    "path": "/systemNames/383/1",
+    "op": "replace"
+  },
+  {
+    "value": "Арденті",
+    "path": "/systemNames/384/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рамфар",
+    "path": "/systemNames/385/1",
+    "op": "replace"
+  },
+  {
+    "value": "Бабалохн",
+    "path": "/systemNames/386/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сіта",
+    "path": "/systemNames/387/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гаутам",
+    "path": "/systemNames/388/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гіта",
+    "path": "/systemNames/389/1",
+    "op": "replace"
+  },
+  {
+    "value": "Маймон",
+    "path": "/systemNames/390/1",
+    "op": "replace"
+  },
+  {
+    "value": "Меркаб",
+    "path": "/systemNames/391/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зоха",
+    "path": "/systemNames/392/1",
+    "op": "replace"
+  },
+  {
+    "value": "Атен",
+    "path": "/systemNames/393/1",
+    "op": "replace"
+  },
+  {
+    "value": "Малкут",
+    "path": "/systemNames/394/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тіферет",
+    "path": "/systemNames/395/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кетер",
+    "path": "/systemNames/396/1",
+    "op": "replace"
+  },
+  {
+    "value": "Бель",
+    "path": "/systemNames/397/1",
+    "op": "replace"
+  },
+  {
+    "value": "Біблброкс",
+    "path": "/systemNames/398/1",
+    "op": "replace"
+  },
+  {
+    "value": "Віннланд",
+    "path": "/systemNames/399/1",
+    "op": "replace"
+  },
+  {
+    "value": "Селестія",
+    "path": "/systemNames/400/1",
+    "op": "replace"
+  },
+  {
+    "value": "Канудл",
+    "path": "/systemNames/401/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фламмокс",
+    "path": "/systemNames/402/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гумбах",
+    "path": "/systemNames/403/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зерус",
+    "path": "/systemNames/404/1",
+    "op": "replace"
+  },
+  {
+    "value": "Іллюзорія",
+    "path": "/systemNames/405/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хорсбатт",
+    "path": "/systemNames/406/1",
+    "op": "replace"
+  },
+  {
+    "value": "Обсекрі",
+    "path": "/systemNames/407/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гіперіон",
+    "path": "/systemNames/408/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кіпкрон",
+    "path": "/systemNames/409/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ультрагон",
+    "path": "/systemNames/410/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зелл",
+    "path": "/systemNames/411/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пуксеріон",
+    "path": "/systemNames/412/1",
+    "op": "replace"
+  },
+  {
+    "value": "Реддітрон",
+    "path": "/systemNames/413/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вадрок",
+    "path": "/systemNames/414/1",
+    "op": "replace"
+  },
+  {
+    "value": "Магратея",
+    "path": "/systemNames/415/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кріккіт",
+    "path": "/systemNames/416/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вільтводл VI",
+    "path": "/systemNames/417/1",
+    "op": "replace"
+  },
+  {
+    "value": "Міглі",
+    "path": "/systemNames/418/1",
+    "op": "replace"
+  },
+  {
+    "value": "Агллеос",
+    "path": "/systemNames/419/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пітчеон",
+    "path": "/systemNames/420/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сетуск",
+    "path": "/systemNames/421/1",
+    "op": "replace"
+  },
+  {
+    "value": "Еулернія",
+    "path": "/systemNames/422/1",
+    "op": "replace"
+  },
+  {
+    "value": "Еарнек",
+    "path": "/systemNames/423/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зенталіон",
+    "path": "/systemNames/424/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ікарус",
+    "path": "/systemNames/425/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хіксівайус",
+    "path": "/systemNames/426/1",
+    "op": "replace"
+  },
+  {
+    "value": "Асербус",
+    "path": "/systemNames/427/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хамасакі",
+    "path": "/systemNames/428/1",
+    "op": "replace"
+  },
+  {
+    "value": "Літус",
+    "path": "/systemNames/429/1",
+    "op": "replace"
+  },
+  {
+    "value": "Куро",
+    "path": "/systemNames/430/1",
+    "op": "replace"
+  },
+  {
+    "value": "Круйтн",
+    "path": "/systemNames/431/1",
+    "op": "replace"
+  },
+  {
+    "value": "Неннето",
+    "path": "/systemNames/432/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чісті",
+    "path": "/systemNames/433/1",
+    "op": "replace"
+  },
+  {
+    "value": "Каліла",
+    "path": "/systemNames/434/1",
+    "op": "replace"
+  },
+  {
+    "value": "Етхахлід",
+    "path": "/systemNames/435/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ксетонарус",
+    "path": "/systemNames/436/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ларкхід",
+    "path": "/systemNames/437/1",
+    "op": "replace"
+  },
+  {
+    "value": "Базінго",
+    "path": "/systemNames/438/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гамма Корік",
+    "path": "/systemNames/439/1",
+    "op": "replace"
+  },
+  {
+    "value": "Шонабін",
+    "path": "/systemNames/440/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ксаероллокс",
+    "path": "/systemNames/441/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кайрон",
+    "path": "/systemNames/442/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лагоморф",
+    "path": "/systemNames/443/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лапін",
+    "path": "/systemNames/444/1",
+    "op": "replace"
+  },
+  {
+    "value": "Моірай",
+    "path": "/systemNames/445/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тартарус",
+    "path": "/systemNames/446/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аетер",
+    "path": "/systemNames/447/1",
+    "op": "replace"
+  },
+  {
+    "value": "Апат",
+    "path": "/systemNames/448/1",
+    "op": "replace"
+  },
+  {
+    "value": "Оізіс",
+    "path": "/systemNames/449/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рататоскр",
+    "path": "/systemNames/450/1",
+    "op": "replace"
+  },
+  {
+    "value": "Танатос",
+    "path": "/systemNames/451/1",
+    "op": "replace"
+  },
+  {
+    "value": "Іґґдрасіль",
+    "path": "/systemNames/452/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гайя",
+    "path": "/systemNames/453/1",
+    "op": "replace"
+  },
+  {
+    "value": "Онейрой",
+    "path": "/systemNames/454/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гера",
+    "path": "/systemNames/455/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гера",
+    "path": "/systemNames/456/1",
+    "op": "replace"
+  },
+  {
+    "value": "Еребус",
+    "path": "/systemNames/457/1",
+    "op": "replace"
+  },
+  {
+    "value": "Інтегра",
+    "path": "/systemNames/458/1",
+    "op": "replace"
+  },
+  {
+    "value": "Асгардіон",
+    "path": "/systemNames/459/1",
+    "op": "replace"
+  },
+  {
+    "value": "Алвас",
+    "path": "/systemNames/460/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лакресіль",
+    "path": "/systemNames/461/1",
+    "op": "replace"
+  },
+  {
+    "value": "Меркуя",
+    "path": "/systemNames/462/1",
+    "op": "replace"
+  },
+  {
+    "value": "Парлетті",
+    "path": "/systemNames/463/1",
+    "op": "replace"
+  },
+  {
+    "value": "Шарцедон",
+    "path": "/systemNames/464/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нероноя",
+    "path": "/systemNames/465/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ічора",
+    "path": "/systemNames/466/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лулуліт",
+    "path": "/systemNames/467/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лацедія",
+    "path": "/systemNames/468/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мерідій",
+    "path": "/systemNames/469/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тессера",
+    "path": "/systemNames/470/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зецес",
+    "path": "/systemNames/471/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фольсетта",
+    "path": "/systemNames/472/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хельгавіса",
+    "path": "/systemNames/473/1",
+    "op": "replace"
+  },
+  {
+    "value": "Астракс",
+    "path": "/systemNames/474/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зормедра",
+    "path": "/systemNames/475/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мендрагол",
+    "path": "/systemNames/476/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зол",
+    "path": "/systemNames/477/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пріма-нор",
+    "path": "/systemNames/478/1",
+    "op": "replace"
+  },
+  {
+    "value": "Цеті Девять",
+    "path": "/systemNames/479/1",
+    "op": "replace"
+  },
+  {
+    "value": "Верагон",
+    "path": "/systemNames/480/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ацера",
+    "path": "/systemNames/481/1",
+    "op": "replace"
+  },
+  {
+    "value": "Караксіс",
+    "path": "/systemNames/482/1",
+    "op": "replace"
+  },
+  {
+    "value": "Скіос",
+    "path": "/systemNames/483/1",
+    "op": "replace"
+  },
+  {
+    "value": "Танатос",
+    "path": "/systemNames/484/1",
+    "op": "replace"
+  },
+  {
+    "value": "Наурлуйн",
+    "path": "/systemNames/485/1",
+    "op": "replace"
+  },
+  {
+    "value": "Корвін",
+    "path": "/systemNames/486/1",
+    "op": "replace"
+  },
+  {
+    "value": "Джосон",
+    "path": "/systemNames/487/1",
+    "op": "replace"
+  },
+  {
+    "value": "Омнікульпа",
+    "path": "/systemNames/488/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стегамагістр",
+    "path": "/systemNames/489/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тенебріс",
+    "path": "/systemNames/490/1",
+    "op": "replace"
+  },
+  {
+    "value": "Венатор",
+    "path": "/systemNames/491/1",
+    "op": "replace"
+  },
+  {
+    "value": "Торкуларіс",
+    "path": "/systemNames/492/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фріббілус Ксакс",
+    "path": "/systemNames/493/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фаргл VIII",
+    "path": "/systemNames/494/1",
+    "op": "replace"
+  },
+  {
+    "value": "Целестал",
+    "path": "/systemNames/495/1",
+    "op": "replace"
+  },
+  {
+    "value": "Луун",
+    "path": "/systemNames/496/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пікка",
+    "path": "/systemNames/497/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рондер",
+    "path": "/systemNames/498/1",
+    "op": "replace"
+  },
+  {
+    "value": "Огромний Вітус",
+    "path": "/systemNames/499/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ексібіір",
+    "path": "/systemNames/500/1",
+    "op": "replace"
+  },
+  {
+    "value": "Квігон",
+    "path": "/systemNames/501/1",
+    "op": "replace"
+  },
+  {
+    "value": "Оккеінг",
+    "path": "/systemNames/502/1",
+    "op": "replace"
+  },
+  {
+    "value": "Епінгі",
+    "path": "/systemNames/503/1",
+    "op": "replace"
+  },
+  {
+    "value": "Унба",
+    "path": "/systemNames/504/1",
+    "op": "replace"
+  },
+  {
+    "value": "Елейон",
+    "path": "/systemNames/505/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ааое",
+    "path": "/systemNames/506/1",
+    "op": "replace"
+  },
+  {
+    "value": "Шільвіна",
+    "path": "/systemNames/507/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ортопія",
+    "path": "/systemNames/508/1",
+    "op": "replace"
+  },
+  {
+    "value": "Емброксіллія",
+    "path": "/systemNames/509/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ауріс",
+    "path": "/systemNames/510/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сімбіліус",
+    "path": "/systemNames/511/1",
+    "op": "replace"
+  },
+  {
+    "value": "Максімус",
+    "path": "/systemNames/512/1",
+    "op": "replace"
+  },
+  {
+    "value": "Піромія",
+    "path": "/systemNames/513/1",
+    "op": "replace"
+  },
+  {
+    "value": "Паркоміум",
+    "path": "/systemNames/514/1",
+    "op": "replace"
+  },
+  {
+    "value": "Інтрапілліум",
+    "path": "/systemNames/515/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аксімія",
+    "path": "/systemNames/516/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аерія",
+    "path": "/systemNames/517/1",
+    "op": "replace"
+  },
+  {
+    "value": "Маркітіон",
+    "path": "/systemNames/518/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чімпуніус",
+    "path": "/systemNames/519/1",
+    "op": "replace"
+  },
+  {
+    "value": "Локсдол",
+    "path": "/systemNames/520/1",
+    "op": "replace"
+  },
+  {
+    "value": "Марініус",
+    "path": "/systemNames/521/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чарр",
+    "path": "/systemNames/522/1",
+    "op": "replace"
+  },
+  {
+    "value": "Магна Лупо",
+    "path": "/systemNames/523/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сурінікс",
+    "path": "/systemNames/524/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ремпе",
+    "path": "/systemNames/525/1",
+    "op": "replace"
+  },
+  {
+    "value": "Копернікус",
+    "path": "/systemNames/526/1",
+    "op": "replace"
+  },
+  {
+    "value": "Баомра",
+    "path": "/systemNames/527/1",
+    "op": "replace"
+  },
+  {
+    "value": "Латасія",
+    "path": "/systemNames/528/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сенет",
+    "path": "/systemNames/529/1",
+    "op": "replace"
+  },
+  {
+    "value": "Беартоніас",
+    "path": "/systemNames/530/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вірміруль",
+    "path": "/systemNames/531/1",
+    "op": "replace"
+  },
+  {
+    "value": "Думіль",
+    "path": "/systemNames/532/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гас Мемвар",
+    "path": "/systemNames/533/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кьятз",
+    "path": "/systemNames/534/1",
+    "op": "replace"
+  },
+  {
+    "value": "Евіваль",
+    "path": "/systemNames/535/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ондор",
+    "path": "/systemNames/536/1",
+    "op": "replace"
+  },
+  {
+    "value": "Моаторон",
+    "path": "/systemNames/537/1",
+    "op": "replace"
+  },
+  {
+    "value": "Люменс",
+    "path": "/systemNames/538/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ваймай",
+    "path": "/systemNames/539/1",
+    "op": "replace"
+  },
+  {
+    "value": "Токсідіон",
+    "path": "/systemNames/540/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фрідстар",
+    "path": "/systemNames/541/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вотерос",
+    "path": "/systemNames/542/1",
+    "op": "replace"
+  },
+  {
+    "value": "Майя",
+    "path": "/systemNames/543/1",
+    "op": "replace"
+  },
+  {
+    "value": "Допплед",
+    "path": "/systemNames/544/1",
+    "op": "replace"
+  },
+  {
+    "value": "Термінатус",
+    "path": "/systemNames/545/1",
+    "op": "replace"
+  },
+  {
+    "value": "Освін",
+    "path": "/systemNames/546/1",
+    "op": "replace"
+  },
+  {
+    "value": "Понд",
+    "path": "/systemNames/547/1",
+    "op": "replace"
+  },
+  {
+    "value": "Астрікс",
+    "path": "/systemNames/548/1",
+    "op": "replace"
+  },
+  {
+    "value": "Оатем",
+    "path": "/systemNames/549/1",
+    "op": "replace"
+  },
+  {
+    "value": "Томоч",
+    "path": "/systemNames/550/1",
+    "op": "replace"
+  },
+  {
+    "value": "Люксоль",
+    "path": "/systemNames/551/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чуантак",
+    "path": "/systemNames/552/1",
+    "op": "replace"
+  },
+  {
+    "value": "Преміум",
+    "path": "/systemNames/553/1",
+    "op": "replace"
+  },
+  {
+    "value": "Орабеллі",
+    "path": "/systemNames/554/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мельпоменія",
+    "path": "/systemNames/555/1",
+    "op": "replace"
+  },
+  {
+    "value": "Допплед",
+    "path": "/systemNames/556/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гордон",
+    "path": "/systemNames/557/1",
+    "op": "replace"
+  },
+  {
+    "value": "Утарекс",
+    "path": "/systemNames/558/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вонтон",
+    "path": "/systemNames/559/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аліонд",
+    "path": "/systemNames/560/1",
+    "op": "replace"
+  },
+  {
+    "value": "Грарос",
+    "path": "/systemNames/561/1",
+    "op": "replace"
+  },
+  {
+    "value": "Балон",
+    "path": "/systemNames/562/1",
+    "op": "replace"
+  },
+  {
+    "value": "Меззгорг",
+    "path": "/systemNames/563/1",
+    "op": "replace"
+  },
+  {
+    "value": "Глінейт",
+    "path": "/systemNames/564/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зепжуб",
+    "path": "/systemNames/565/1",
+    "op": "replace"
+  },
+  {
+    "value": "Слудхон",
+    "path": "/systemNames/566/1",
+    "op": "replace"
+  },
+  {
+    "value": "Аліса",
+    "path": "/systemNames/567/1",
+    "op": "replace"
+  },
+  {
+    "value": "Харобед",
+    "path": "/systemNames/568/1",
+    "op": "replace"
+  },
+  {
+    "value": "Скардж",
+    "path": "/systemNames/569/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мая",
+    "path": "/systemNames/570/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ліліт",
+    "path": "/systemNames/571/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дасквуд",
+    "path": "/systemNames/572/1",
+    "op": "replace"
+  },
+  {
+    "value": "Себбі",
+    "path": "/systemNames/573/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вадрок",
+    "path": "/systemNames/574/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ленна",
+    "path": "/systemNames/575/1",
+    "op": "replace"
+  },
+  {
+    "value": "Крісм",
+    "path": "/systemNames/576/1",
+    "op": "replace"
+  },
+  {
+    "value": "Коунсілос",
+    "path": "/systemNames/577/1",
+    "op": "replace"
+  },
+  {
+    "value": "Декстер",
+    "path": "/systemNames/578/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кросбот",
+    "path": "/systemNames/579/1",
+    "op": "replace"
+  },
+  {
+    "value": "Леслой",
+    "path": "/systemNames/580/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сіру",
+    "path": "/systemNames/581/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рутіон",
+    "path": "/systemNames/582/1",
+    "op": "replace"
+  },
+  {
+    "value": "Геріан",
+    "path": "/systemNames/583/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ваастолаан",
+    "path": "/systemNames/584/1",
+    "op": "replace"
+  },
+  {
+    "value": "Андреа",
+    "path": "/systemNames/585/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гледос",
+    "path": "/systemNames/586/1",
+    "op": "replace"
+  },
+  {
+    "value": "Маджоріс",
+    "path": "/systemSuffixNames/0/1",
+    "op": "replace"
+  },
+  {
+    "value": "Міноріс",
+    "path": "/systemSuffixNames/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Прайм",
+    "path": "/systemSuffixNames/2/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кластер",
+    "path": "/systemSuffixNames/3/1",
+    "op": "replace"
+  },
+  {
+    "value": "Басін",
+    "path": "/systemSuffixNames/4/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стрім",
+    "path": "/systemSuffixNames/5/1",
+    "op": "replace"
+  },
+  {
+    "value": "Крест",
+    "path": "/systemSuffixNames/6/1",
+    "op": "replace"
+  },
+  {
+    "value": "Бета",
+    "path": "/systemSuffixNames/7/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рім",
+    "path": "/systemSuffixNames/8/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гамма",
+    "path": "/systemSuffixNames/9/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нексус",
+    "path": "/systemSuffixNames/10/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нест",
+    "path": "/systemSuffixNames/11/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фронтір",
+    "path": "/systemSuffixNames/12/1",
+    "op": "replace"
+  },
+  {
+    "value": "Васт",
+    "path": "/systemSuffixNames/13/1",
+    "op": "replace"
+  },
+  {
+    "value": "Експанс",
+    "path": "/systemSuffixNames/14/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вейл",
+    "path": "/systemSuffixNames/15/1",
+    "op": "replace"
+  },
+  {
+    "value": "Крадл",
+    "path": "/systemSuffixNames/16/1",
+    "op": "replace"
+  },
+  {
+    "value": "Трешолд",
+    "path": "/systemSuffixNames/17/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вейк",
+    "path": "/systemSuffixNames/18/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ріфт",
+    "path": "/systemSuffixNames/19/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сігма",
+    "path": "/systemSuffixNames/20/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дельта",
+    "path": "/systemSuffixNames/21/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рідж",
+    "path": "/systemSuffixNames/22/1",
+    "op": "replace"
+  },
+  {
+    "value": "Рест",
+    "path": "/systemSuffixNames/23/1",
+    "op": "replace"
+  },
+  {
+    "value": "Екліпс",
+    "path": "/systemSuffixNames/24/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тайд",
+    "path": "/systemSuffixNames/25/1",
+    "op": "replace"
+  },
+  {
+    "value": "Формація",
+    "path": "/systemSuffixNames/26/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ордер",
+    "path": "/systemSuffixNames/27/1",
+    "op": "replace"
+  },
+  {
+    "value": "Масс",
+    "path": "/systemSuffixNames/28/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сварм",
+    "path": "/systemSuffixNames/29/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кресент",
+    "path": "/systemSuffixNames/30/1",
+    "op": "replace"
+  },
+  {
+    "value": "Міріада",
+    "path": "/systemSuffixNames/31/1",
+    "op": "replace"
+  },
+  {
+    "value": "Легіон",
+    "path": "/systemSuffixNames/32/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мастер",
+    "path": "/systemSuffixNames/33/1",
+    "op": "replace"
+  },
+  {
+    "value": "Траверс",
+    "path": "/systemSuffixNames/34/1",
+    "op": "replace"
+  },
+  {
+    "value": "Странд",
+    "path": "/systemSuffixNames/35/1",
+    "op": "replace"
+  },
+  {
+    "value": "Грасп",
+    "path": "/systemSuffixNames/36/1",
+    "op": "replace"
+  },
+  {
+    "value": "Морасс",
+    "path": "/systemSuffixNames/37/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пресіпіс",
+    "path": "/systemSuffixNames/38/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мар",
+    "path": "/systemSuffixNames/39/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стенд",
+    "path": "/systemSuffixNames/40/1",
+    "op": "replace"
+  },
+  {
+    "value": "",
+    "path": "/systemSuffixNames/41/1",
+    "op": "replace"
+  },
+  {
+    "value": "^white;- ^yellow;А^white;",
+    "path": "/satelliteSuffixes/0",
+    "op": "replace"
+  },
+  {
+    "value": "^white;- ^yellow;Б^white;",
+    "path": "/satelliteSuffixes/1",
+    "op": "replace"
+  },
+  {
+    "value": "^white;- ^yellow;В^white;",
+    "path": "/satelliteSuffixes/2",
+    "op": "replace"
+  },
+  {
+    "value": "^white;- ^yellow;Г^white;",
+    "path": "/satelliteSuffixes/3",
+    "op": "replace"
+  },
+  {
+    "value": "^white;- ^yellow;Д^white;",
+    "path": "/satelliteSuffixes/4",
+    "op": "replace"
+  },
+  {
+    "value": "^white;- ^yellow;Е^white;",
+    "path": "/satelliteSuffixes/5",
+    "op": "replace"
+  },
+  {
+    "value": "^white;- ^yellow;Ж^white;",
+    "path": "/satelliteSuffixes/6",
+    "op": "replace"
+  },
+  {
+    "value": "^white;- ^yellow;З^white;",
+    "path": "/satelliteSuffixes/7",
+    "op": "replace"
+  },
+  {
+    "value": "^white;- ^yellow;І^white;",
+    "path": "/satelliteSuffixes/8",
+    "op": "replace"
+  },
+  {
+    "value": "^white;- ^yellow;К^white;",
+    "path": "/satelliteSuffixes/9",
+    "op": "replace"
+  },
+  {
+    "value": "^white;- ^yellow;Л^white;",
+    "path": "/satelliteSuffixes/10",
+    "op": "replace"
+  },
+  {
+    "value": "^white;- ^yellow;М^white;",
+    "path": "/satelliteSuffixes/11",
+    "op": "replace"
+  }
+]

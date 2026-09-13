@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеальний камуфляж для шахтарів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рок-штани"
+  }
+]

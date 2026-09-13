@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Богатирська скриня з гербом героя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Футболка Pixel Hero"
+  }
+]

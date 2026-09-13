@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Будь напоготові, солдате!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/0",
+    "value": "Дияволи Міннаук!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/1",
+    "value": "Не відступати!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/2",
+    "value": "Схопіть їх!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/3",
+    "value": "Революція!"
+  }
+]

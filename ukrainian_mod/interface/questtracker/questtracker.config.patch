@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/progressFrameImage",
+    "value": "/interface/questtracker/progressframe.png"
+  },
+  {
+    "op": "replace",
+    "path": "/expandedProgressFrameImage",
+    "value": "/interface/questtracker/progressframe_expanded.png"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/imgFrame/file",
+    "value": "/interface/questtracker/frame.png"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/imgFrameExpanded/stretchSet/begin",
+    "value": "/interface/questtracker/expandedframebottom.png"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/imgFrameExpanded/stretchSet/inner",
+    "value": "/interface/questtracker/expandedframemiddle.png"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/imgFrameExpanded/stretchSet/end",
+    "value": "/interface/questtracker/expandedframetop.png"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/imgProgressFrame/file",
+    "value": "/interface/questtracker/progressframe.png"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/questProgress/background",
+    "value": "/interface/questtracker/emptyprogress.png"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/questProgress/progressSet/inner",
+    "value": "/interface/questtracker/progress.png"
+  }
+]

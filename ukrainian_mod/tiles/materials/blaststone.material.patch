@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гострі камені, утворені вибухами величезної температури."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Blaststone Block"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вражений. Сильне тепло сплавило мінерали в цей вибуховий камінь."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssharp rockss are sstrong."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "These tough rocks are mighty sharp."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зловісні штани Bonesaw."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Брюки Bonesaw's Slacks"
+  }
+]

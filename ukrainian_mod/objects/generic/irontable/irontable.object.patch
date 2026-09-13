@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стіл з мечами для ніг. Не ідеально підходить для гри в футсі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Різкий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей стіл привносить відчуття завершеності, щоб вдарити палець на нозі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Сидіти тут було б достатньо, щоб будь-кого роздратувати."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран нарізка на стіл. Тепер Флоран вирізав зі столу."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Комфорт. Повсякденний стіл. Інші, здається, побоюються цього."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я дуже вагаюся сидіти тут."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можливо, це занадто небезпечно, ніж альтернативне використання зброї."
+  }
+]

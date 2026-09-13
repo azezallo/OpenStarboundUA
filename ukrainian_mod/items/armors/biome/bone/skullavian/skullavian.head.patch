@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Здається, це пташиний череп. Ідеальний капелюх!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска пташиного черепа"
+  }
+]

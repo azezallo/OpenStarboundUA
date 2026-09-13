@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бурулька."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бурулька."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гострий лід."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Бурулька."
+  }
+]

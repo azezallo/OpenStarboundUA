@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий череп непізнаної форми життя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Таємничий інопланетний череп"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Таємничий інопланетний череп"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Дивна і цікава форма життя, яку зараз втрачає час."
+  }
+]

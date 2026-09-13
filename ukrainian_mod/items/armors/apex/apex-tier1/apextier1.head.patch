@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Залізна маска, яка дещо приховує особу власника."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска перебіжчика"
+  }
+]

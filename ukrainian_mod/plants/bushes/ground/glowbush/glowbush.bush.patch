@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Грубий м'ясистий виступ."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Грубий м'ясистий виступ."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Fleshhh!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Відраза. Грубий м'ясистий виступ."
+  }
+]

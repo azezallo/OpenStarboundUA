@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На дисплеї зображена кругла центральна кімната, яка розгалужується на кілька коридорів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дисплей Blueprint"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Схоже на якусь цифрову карту."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Можливо, макет цієї території?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Звивисті лінії не мають сенсу для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Здається, це зображує макет області, в якій ми знаходимося."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Базове відображення карти."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "На цій карті нанесені коридори та кімнати."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Переконаний, що це карта."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хороша порцелянова чашка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класична чашка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кружка для гарячого соку. Такі соки потрапили під заборону."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чашок такої форми у Авіан немає."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Огидний фруктовий запах всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Аналітичний. Здається, у склянці був розігрітий фруктовий сік."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Запах нагадує соки тропічних фруктів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Hylotl прийняли менший форм-фактор для пиття гарячих напоїв."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Здається, це товсте дзеркало для гарячих напоїв."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це забезпечить достатній захист від тепла під час зварювання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом зварника"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Очне крісло. Не плутати з високим стільчиком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Очне крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я відчуваю, що мені варто перевірити це око на приховані камери Miniknog."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це крісло здається майже... живим."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран дивиться на стілець, чекає, доки стілець моргне. втомитися. Сідай вниз."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Незважаючи на зовнішній вигляд, це крісло насправді не бачить."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сидячи тут, я відчуваю, що стілець дивиться в мій мозок. Сподіваюся, це не засудження."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Химерне, але зручне крісло. На це є око."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "На цьому стільці ви не зможете розслабитися ні хвилини. Постійно відчуваєш спостереження..."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Жвавий жучок, видно п’є ранкову росу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розпушувач"
+  }
+]

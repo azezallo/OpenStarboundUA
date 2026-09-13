@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Приваблює моль. Молі виробляють шовк!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пастка для молі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це можна використати для збору шовкових волокон, якщо ви залишите його досить довго."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я можу використовувати це для збору шовкових волокон."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дурні молі, що залишають дорогоцінне волокно шовку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гордий. Виготовляйте найкращий шовк із ферми."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Хіба не дивно, що такий модний матеріал починається з цих маленьких метеликів?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Використовуючи це, я можу збирати шовкове волокно для ткацтва в шовкову тканину, найрозкішніший матеріал."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шовк трохи модний для таких, як я, але я можу його продати!"
+  }
+]

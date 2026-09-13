@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця вишукана лампа тихо мерехтить."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Багато прикрашений ліхтар"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Екзотичний дизайн для досить простої лампи."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Занадто гарячий на дотик."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Досить вогнем всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Цей ліхтар був витончено створений."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Досить гарна масляна лампа."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Найкраща майстерність, надійне джерело світла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця лампа дуже гарна."
+  }
+]

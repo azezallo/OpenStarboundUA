@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Звичайний на вигляд туалет! Спасибі зіркам!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Базовий туалет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленький туалет. Виглядає не зовсім гігієнічно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Місце для посліду."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискуче місце для ссссмердючого бізнесу."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безкорисливий. Туалет."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Туалет. Завжди бажане видовище."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Грубий туалет."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто простий туалет. Не гламурно, але вкрай необхідно."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сучасні мікропідсилювачі гарантують, що він завжди повернеться."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бумеранг"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Бумеранг ^yellow;^reset;"
+  }
+]

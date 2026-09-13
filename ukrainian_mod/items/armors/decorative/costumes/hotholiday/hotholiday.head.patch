@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Класна святкова шапка!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Святковий капелюх"
+  }
+]

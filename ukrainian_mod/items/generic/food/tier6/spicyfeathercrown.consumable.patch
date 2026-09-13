@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Смажена перина з гострим перцем чилі. Гаряче гаряче гаряче!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пряний Feathercrown"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Двері, покриті очима. Не моргай."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Око Двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Пронизливий погляд дверей просто змушує мене увійти."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це око випромінює злобу. Які жахи лежать за ним?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран думає, що двері дивляться на Флорана смішно. Флоран відчуває себе територіальним."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Споглядальний. Лише одним оком ці двері мають бачити світ як одновимірний простір."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці двері виглядають не дуже привітно. Я думаю, що це був свого роду каламбур."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Надто ефектні двері, прикрашені великим вічком. Hylotl віддає перевагу яскравій красі, щоб передати важливість."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці двері стежать за мною."
+  }
+]

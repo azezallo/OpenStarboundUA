@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Яєчний пагін, сповнений рідини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння яйця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Відомо, що яєчний пагін викликає у птахів екзистенціальні дилеми."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Яєчний пагін — коли птахам захочеться омлету."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Виглядає як яйце, не вилуплюється."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Птахи із задоволенням їдять їх, незважаючи на їх яйцеподібний вигляд."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вегетаріанське яйце."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Прийнятна заміна для тих з нас, хто не їсть яєць."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Стрічка яйця виглядає як яйце і на смак схожа на яйце, але не є яйцем."
+  }
+]

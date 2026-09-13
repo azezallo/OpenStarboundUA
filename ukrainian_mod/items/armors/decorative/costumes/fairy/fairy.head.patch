@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Капелюх для вечірки, інкрустований дорогоцінними каменями. Виглядає справжнім!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Корона"
+  }
+]

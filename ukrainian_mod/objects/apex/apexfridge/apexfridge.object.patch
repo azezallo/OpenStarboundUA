@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Холодильник, зручний для зберігання їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стандартний холодильник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Рідко, коли у Apex є запас їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пристрій для зберігання їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить магазин холодної їжі. Зберігайте м'ясо свіжим, так."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Рішучий. Я мушу здійснити рейд на цей пристрій для зберігання їжі!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Холодильник! Саме те, що потрібно, щоб їжа залишалася холодною."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Нам під океаном такі апарати не потрібні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Всередині прохолодно, щоб їжа довше зберігалася свіжою."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Механічна зброя, яка стріляє кулаком, що повертається самостійно, із шипами з дюрастелі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Spikefist Mech Arm"
+  }
+]

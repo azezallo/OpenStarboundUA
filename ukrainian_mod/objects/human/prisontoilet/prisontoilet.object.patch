@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Схоже, у когось була важка ніч."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Брудний туалет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ми, Apex, звикли до таких жахливих умов."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Думаю, піду в інше місце."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смердючий ссс! фу!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огидно. у мене немає слів"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ніщо з відбілювачем і напалмом не відсортує."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ніколи в житті я не бачив такого гротескного нехтування елементарною гігієною."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ніхто не любить прибирати, але це за межі розумного."
+  }
+]

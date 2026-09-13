@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кокос"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей кокос просто чекає, коли його викинуть."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Квадрат із синтетичного матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Синтетичний матеріал"
+  }
+]

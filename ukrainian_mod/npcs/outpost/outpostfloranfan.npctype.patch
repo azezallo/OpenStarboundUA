@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Флорану пасссує людссський одяг?",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану пасссує людссський одяг?",
+    "path": "/scriptConfig/dialog/converse/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран хоче знати, чому прийшов інший флоран. Іншому флорану теж подобаютьссся люди?",
+    "path": "/scriptConfig/dialog/converse/floran/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Людина-риба не повинна боятиссся флорана. Флоран тепер як людина. Не ріже.",
+    "path": "/scriptConfig/dialog/converse/floran/hylotl/0",
+    "op": "replace"
+  }
+]

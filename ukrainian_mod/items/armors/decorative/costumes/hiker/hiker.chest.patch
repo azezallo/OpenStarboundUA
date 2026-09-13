@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дає власнику відчуття, що він може піднятися на будь-яку гору."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Туристська куртка"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnAccept/caption",
+    "value": "Добре"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblMoney/value",
+    "value": "^shadow;БОНУС:^noshadow;"
+  }
+]

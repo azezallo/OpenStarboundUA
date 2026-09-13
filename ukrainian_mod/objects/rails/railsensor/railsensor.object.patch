@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виявляє залізничників під час їхнього проходження"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рейковий датчик"
+  }
+]

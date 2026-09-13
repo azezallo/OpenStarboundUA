@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Штани з підкладкою Durasteel і міцні черевики. Витончений і практичний - живе революція!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Революційні штани"
+  }
+]

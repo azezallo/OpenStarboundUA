@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Милий дерев'яний столик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яний кінцевий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Невеликий торцевий столик."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дуже малий обсяг пам'яті."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сссмаленькі ящики."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Предмет меблів, який можна поставити поруч з ліжком."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дерев'яний торцевий столик з парою ящиків."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можливо, стіл, створений для сидіння біля спальні?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Маленький кабінет."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/destinations/0/name",
+    "value": "На корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/destinations/0/planetName",
+    "value": "Залишити цей світ"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика стильна шафа для зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класична шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дорогий шафа, можливо, використовувався для зберігання секретів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "У шафі такої пишності може міститися щось не менш цінне."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Давайте зазирнемо всередину."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "З надією. Можливо, всередині є щось корисне."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Давайте подивимося, що тут зберігається всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Що ховається за такими розкішними дверима?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Виглядає як велика старенька шафа."
+  }
+]

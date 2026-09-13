@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Витончена черепиця.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Вишукана черепиця",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Знайомо. Схожі плитки використовуються в традиційному дизайні дахів.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран оцінив вишшшукану черепицю.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ця вишукана черепиця може прикрасити будь-який дах.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

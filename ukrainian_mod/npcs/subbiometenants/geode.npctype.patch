@@ -1,0 +1,47 @@
+[
+  {
+    "value": "  Геологічний торговець",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "  Продаж матеріалів!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Дружелюбно. Ти не хочеш придбати кілька каменів? У мене їх багато!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Понуро. Ніхто не хоче купувати мої камені... А ти?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Азартно. Можливо, тебе зацікавлять мої камені?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. Ти нарешті прийшов до мого магазину? Як чудово!",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Схвильовано. Ти взагалі збираєшся купувати камені?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Привітно. Раз уже ти тут, чи не хочеш придбати кілька каменів?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Відчайдушно. Будь ласка, приходь знову. Мені потрібно більше покупців!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "op": "replace"
+  }
+]

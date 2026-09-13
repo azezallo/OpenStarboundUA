@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/titleLabel/value",
+    "value": "ЗАПРОСИТИ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/name/hint",
+    "value": "Ім'я гравця"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/ok/caption",
+    "value": "Покл."
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/close/caption",
+    "value": "Скас."
+  }
+]

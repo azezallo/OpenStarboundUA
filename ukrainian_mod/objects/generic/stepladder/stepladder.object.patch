@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Драбина."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Драбина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Драбина. Коли потрібно бути трохи вище."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Досить непримітна драбинка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Крихітна драбина."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Це досить коротка драбина."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Один маленький крок для людини.."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Драбина. Більше нічого про це сказати."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Драбина! Іноді вам потрібно трохи підбадьоритися."
+  }
+]

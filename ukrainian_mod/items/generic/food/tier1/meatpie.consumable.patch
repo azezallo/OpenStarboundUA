@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "М'ясний фарш у насиченій підливі, заправлений вершковим пюре."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пастуший пиріг"
+  }
+]

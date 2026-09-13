@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/serverAssetsMismatchMessage",
+    "value": "Цей сервер забороняє підключення клієнтів із невідповідними ресурсами"
+  },
+  {
+    "op": "replace",
+    "path": "/clientAssetsMismatchMessage",
+    "value": "Невідповідність активів між клієнтом і сервером, а параметр заміни не встановлено"
+  }
+]

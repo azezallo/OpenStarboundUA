@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старий знак, що попереджає про смертельну небезпеку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Старий попереджувальний знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей знак змушує мене думати, що я повинен бути обережним."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Загрозливий знак. Для чого це може бути попередженням?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Знак sssign означає весело!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Здається, це попередження."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Як непередбачувано!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Здається, у цього черепа немає трьох очних ямок. Можливо, Hylotl не ризикує небезпека."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якийсь знак черепа."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Переносний котел, що працює від руху."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Котел"
+  }
+]

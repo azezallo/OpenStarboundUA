@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Колекція кісток, щільно упакованих разом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Упаковані кістки"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вжахнувся. Кістки з різних джерел, зібрані разом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Бонесс!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Купа кісток. Кому вони потрібні!"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцний залізний факел з ніжним мерехтливим полум'ям."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічний факел"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Залізний факел."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мерехтливий факел."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Полум'я пхає."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Втішили. Такий факел, який освітлює коридори замку."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Маленький факел, який випльовує вуглинки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Палаючий факел."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Залізний настінний факел."
+  }
+]

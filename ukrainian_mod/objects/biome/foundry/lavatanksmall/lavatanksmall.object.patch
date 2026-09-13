@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Невеликий резервуар, наповнений розплавленою рідиною."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Малий лавовий резервуар"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей танк випускає клуби диму."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей резервуар наповнений гарячою рідиною."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Танк містить палаючу лаву."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Цей резервуар випромінює тепло від рідини, що міститься всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей резервуар призначений для використання потужності лави всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "З цього резервуара виходять токсичні хмари."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей маленький танк викидає клуби диму."
+  }
+]

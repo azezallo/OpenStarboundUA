@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Асорті мідних шматочків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гайки і Болти"
+  }
+]

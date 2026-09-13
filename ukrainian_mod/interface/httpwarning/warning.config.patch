@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/message/value",
+    "value": "Скрипт хоче HTTP-запит до:"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/domain/value",
+    "value": "meme.com"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/message2/value",
+    "value": "Чи дозволяєте ви цей запит?"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/rememberLabel/value",
+    "value": "Довіряти цьому домену"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/bookmarkName",
+    "value": "Аванпост - Ковчег"
+  },
+  {
+    "op": "replace",
+    "path": "/destinations/0/name",
+    "value": "На корабель"
+  }
+]

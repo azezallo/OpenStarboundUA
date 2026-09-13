@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Штани костюм пінгвіна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ноги костюма пінгвіна"
+  }
+]

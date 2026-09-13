@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Поєднання природних елементів забезпечує цілющі властивості."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Засіб від трави"
+  }
+]

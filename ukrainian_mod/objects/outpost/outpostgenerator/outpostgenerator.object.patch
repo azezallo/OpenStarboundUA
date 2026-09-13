@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зручний генератор електроенергії."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Генератор електроенергії"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Генератор електроенергії."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це генератор електроенергії."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це створює силу."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Веселий. Це генерує достатньо енергії для всіх."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Генератор. Сподіваюся, є і резервний."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Грубий генератор електроенергії."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця річ генерує силу."
+  }
+]

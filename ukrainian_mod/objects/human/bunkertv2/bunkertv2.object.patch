@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Набір із трьох телевізійних моніторів, спрямованих у різні боки»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Телевізійні монітори USCM"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Серія моніторів. Нічого цікавого не кажуть."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кілька екранів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssscreens."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нудно. Кілька екранів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Екрани. Вони, здається, не показують багато чого."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Набір з трьох ширм."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці екрани не загоряються."
+  }
+]

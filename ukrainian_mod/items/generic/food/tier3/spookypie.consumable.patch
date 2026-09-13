@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Просто моторошно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Моторошний пиріг"
+  }
+]

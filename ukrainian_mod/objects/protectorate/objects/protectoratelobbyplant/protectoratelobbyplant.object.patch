@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарна лобі рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Завод лобі Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Міцна кімнатна рослина. Це поширені."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чудова рослина. Є кілька таких у горщиках навколо академії."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Листяний друг. Флорану подобається ваша компанія."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Фікус Бенджаміна. Звичайна кімнатна рослина в академії."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гарна рослина. Виглядає... Планті."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Близькість природи є гарним нагадуванням про те, звідки ми колись прийшли."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Рослина в горщику. Не можу сказати, що це дуже цікаво."
+  }
+]

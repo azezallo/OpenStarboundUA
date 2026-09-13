@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/close/caption",
+    "value": "Назад"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/categories/children/list/schema/listTemplate/button/caption",
+    "value": "Без назви"
+  }
+]

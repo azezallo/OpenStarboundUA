@@ -1,0 +1,192 @@
+[
+  {
+    "value": "Я вдома!",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Кликали мене?",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти щось хотів дізнатися?",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я тобі потрібен? Знадобилася моя порада?",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ось подарунок за всю твою допомогу!",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я знайшов це, поки подорожував, бери!",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ось що я знайшов, поки блукав навколо!",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ось тобі нагорода за твою допомогу!",
+    "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Час тікати!",
+    "path": "/scriptConfig/dialog/flee/helpme/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Не вбивай мене! Я можу стати в нагоді!",
+    "path": "/scriptConfig/dialog/flee/helpme/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я не заслужив зустріти свою смерть тут!",
+    "path": "/scriptConfig/dialog/flee/helpme/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Що ти наробив?!",
+    "path": "/scriptConfig/dialog/flee/helpthem/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Взяти їх!",
+    "path": "/scriptConfig/dialog/flee/encourage/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Помстися за мене!",
+    "path": "/scriptConfig/dialog/flee/encourage/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Торкни їх разок за мене!",
+    "path": "/scriptConfig/dialog/flee/encourage/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Не дайте їм втекти!",
+    "path": "/scriptConfig/dialog/flee/encourage/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я був на волосок від смерті!",
+    "path": "/scriptConfig/dialog/flee/safe/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Варто бути обережнішим наступного разу. Це було близько.",
+    "path": "/scriptConfig/dialog/flee/safe/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мені потрібна перерва!",
+    "path": "/scriptConfig/dialog/flee/safe/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я просто подорожую у своїх справах.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Гей, незнайомцю! Якщо шукаєш фрагменти ядра, тобі варто зазирнути в цю стару, покинуту шахту!",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Фрагменти ядра хороші для хімічних реакцій, тому раніше шахтарі робили з них вибухівку.",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Думаю, шахтарі давно пішли з цих місць, шахта кишить різними звірятами.",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Давненько я не бачив нових облич! Потрібні поради щодо виживання? У мене їх повно!",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Відрубуй лозу, якщо побачиш! Її можна використовувати для медичних пов'язок і мотузок. І те, і інше добре.",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Будь обережний, коли падаєш! Краще побудуй собі безпечний спуск, якщо потрібно.",
+    "path": "/scriptConfig/dialog/converse/human/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Тобі варто запастися ліхтариком до настання темряви. Голодні звірі виходять на полювання!",
+    "path": "/scriptConfig/dialog/converse/human/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо зберешся копати шахти, захопи трохи дерева для смолоскипів!",
+    "path": "/scriptConfig/dialog/converse/human/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Обережніше з дикими звірами: навіть мирні створіння нападуть, якщо ти атакуєш їх...",
+    "path": "/scriptConfig/dialog/converse/human/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "Екстремальні погодні умови впливають на швидкість твого пересування. Не забувай про це!",
+    "path": "/scriptConfig/dialog/converse/human/default/9",
+    "op": "replace"
+  },
+  {
+    "value": "Я віддаю перевагу життю на природі, аніж у задушливих містах!",
+    "path": "/scriptConfig/dialog/converse/human/default/10",
+    "op": "replace"
+  },
+  {
+    "value": "Клімат тут кращий, ніж на інших планетах. Вони можуть виявитися не такими гостинними...",
+    "path": "/scriptConfig/dialog/converse/human/default/11",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо розіб'єш білі капсули постачання, на які будеш натрапляти, то напевно отримаєш що-небудь корисне.",
+    "path": "/scriptConfig/dialog/converse/human/default/12",
+    "op": "replace"
+  },
+  {
+    "value": "Коли будеш блукати селами, старайся не злити місцеву охорону. Про всяк випадок...",
+    "path": "/scriptConfig/dialog/converse/human/default/13",
+    "op": "replace"
+  },
+  {
+    "value": "Тривалість дня різна залежно від планети. Досить круто, так?",
+    "path": "/scriptConfig/dialog/converse/human/default/14",
+    "op": "replace"
+  },
+  {
+    "value": "До мене доходили чутки про дивні руїни, знайдені в підземеллі на декількох планетах. Цікаво, чи правда це?",
+    "path": "/scriptConfig/dialog/converse/human/default/15",
+    "op": "replace"
+  },
+  {
+    "value": "Чи можеш ти уявити собі, що таке жити на одній-єдиній планеті весь час?",
+    "path": "/scriptConfig/dialog/converse/human/default/16",
+    "op": "replace"
+  },
+  {
+    "value": "Як давно я не був на Землі! Як там справи?",
+    "path": "/scriptConfig/dialog/converse/human/default/17",
+    "op": "replace"
+  }
+]

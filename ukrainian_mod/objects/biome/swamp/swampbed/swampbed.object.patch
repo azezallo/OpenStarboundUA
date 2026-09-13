@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Традиційна грядка з коріння та листя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Болотна грядка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це ліжко – це зовсім інше, ніж серійні меблі MiniKnog."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Спати серед натуральної постільної білизни – мила думка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран спить у листі та корінні."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Сонний. Я міг би трохи поспати тут."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я повністю за те, щоб бути одним із природою, але я не зовсім впевнений щодо цього ліжка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Якби це ліжко було зроблено з морських водоростей, воно могло б виглядати привабливіше."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "У постільній білизні ручної роботи є неймовірний шарм."
+  }
+]

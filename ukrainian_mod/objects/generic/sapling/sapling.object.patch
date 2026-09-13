@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Саджанець. З простих коренів виросте дерево."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Саджанець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я можу посадити це, щоб виростити дерево."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я можу виростити дерево, посадивши цей саджанець."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран посадить милий саджанець, виростить велике погане зле дерево!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Чудо. Посадка цього саджанця дозволяє мені виростити життя."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "З цього саджанця виросте дерево."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Таке дивовижне життя, що виростає з найменшого паростка. Зітхання."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "З нього виросте велике дерево, якщо я його посаджу."
+  }
+]

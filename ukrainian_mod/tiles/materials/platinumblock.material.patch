@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цілий блок твердої платини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Платиновий блок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "в захваті. Цей мерехтливий блок виготовлений із твердої платини."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить блискучу платину."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я вважаю, що цей великий старий блок платини був би для когось чогось вартий."
+  }
+]

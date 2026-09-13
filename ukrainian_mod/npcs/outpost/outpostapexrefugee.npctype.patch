@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Hello, star traveller! A friendly face is always welcome here."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "value": "Hello, star traveller! A friendly face is always welcome here."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/apex/0",
+    "value": "We are both free of the Miniknog here!"
+  }
+]

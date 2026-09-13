@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Трохи міцніший, ніж ваші голі руки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Базовий щит"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Подивіться на агаранця з цією капелюшком мухомору!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капелюх агарика"
+  }
+]

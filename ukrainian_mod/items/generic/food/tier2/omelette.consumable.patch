@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Легко приготований і смачний, ви точно не помилитеся з омлетом!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "омлет"
+  }
+]

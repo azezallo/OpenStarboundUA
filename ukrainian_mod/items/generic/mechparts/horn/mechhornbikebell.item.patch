@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Заявіть про себе ніжним дзвоном."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Bike Bell Mech Horn"
+  }
+]

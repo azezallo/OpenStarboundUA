@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Захисний шолом з вбудованим козирком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шахтарський шолом"
+  }
+]

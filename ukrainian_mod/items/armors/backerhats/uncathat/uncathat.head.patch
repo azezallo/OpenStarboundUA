@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пахне зеленими яйцями та шинкою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капелюх Un-Cat"
+  }
+]

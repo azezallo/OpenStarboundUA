@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "This is an impressive collection! I wonder who acquired these pieces?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/0",
+    "value": "This is an impressive collection! I wonder who acquired these pieces?"
+  }
+]

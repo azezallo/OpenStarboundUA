@@ -1,0 +1,127 @@
+[
+  {
+    "value": " ствол",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": " пітчер",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": " метальник",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": " фазер",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": " шкідник",
+    "path": "/scriptConfig/dialog/converse/apex/default/3",
+    "op": "replace"
+  },
+  {
+    "value": " руйнівник",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": " трощитель",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": " грішник",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": " вбивця",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "op": "replace"
+  },
+  {
+    "value": " затвор",
+    "path": "/scriptConfig/dialog/converse/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": " силовик",
+    "path": "/scriptConfig/dialog/converse/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": " виклик",
+    "path": "/scriptConfig/dialog/converse/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": " штовхач",
+    "path": "/scriptConfig/dialog/converse/avian/default/3",
+    "op": "replace"
+  },
+  {
+    "value": " ізгой",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": " загороджувач",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": " терор",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "До бою!",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ти прагнеш бою? Чудово!",
+    "path": "/scriptConfig/dialog/converse/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Наше володіння мечем не має собі рівних!",
+    "path": "/scriptConfig/dialog/converse/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ці землі належать нам, і тільки нам!",
+    "path": "/scriptConfig/dialog/converse/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я навчався у найвидатніших! Ти не маєш ані найменшого шансу!",
+    "path": "/scriptConfig/dialog/converse/floran/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Зоряний",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ударний",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Псі",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Поліцей.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/3",
+    "op": "replace"
+  }
+]

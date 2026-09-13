@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Не турбуйся, я займаюся приватним дослідженням - не для Міннаука.",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я проводжу польові випробування, і це місце надає ідеальні умови.",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я проводжу деякі експерименти, і це місце ідеально для них підходить.",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я записую все наше спілкування для подальшої обробки. Сподіваюся, ти не проти.",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Так багато даних навколо мені належить записати. Це чудово.",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я пишу наукову статтю про біорізноманіття. Це надзвичайно важливо.",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Складно знайти хорошу пару окулярів для гілотла в наші дні.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хотілося б, щоб ці окуляри мені підійшли.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я відчуваю себе нерозумно, проводячи дослідження без відповідних окулярів. Таке життя гілотлів.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/2",
+    "op": "replace"
+  }
+]

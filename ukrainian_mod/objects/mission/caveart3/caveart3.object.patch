@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Печерне мистецтво, що зображує якусь велику фігуру."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фігура печерного мистецтва"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Зображення якогось ритуалу чи церемонії?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хто ця гігантська фігура? Вони сяють, як саме сонце."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Навіть Флоран не впевнений, що це означає."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Страшний. Щось у цьому малюнку здається неймовірно старовинним."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця картина схожа на гігантську людину, яка сяє, як сонце."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можливо, цим малюнком художник хотів надихнути глядача."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Що тут коїться?"
+  }
+]

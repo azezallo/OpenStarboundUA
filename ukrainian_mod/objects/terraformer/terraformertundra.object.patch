@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює клімат планети на замерзлий ландшафт снігу та льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крижаний тераформер"
+  }
+]

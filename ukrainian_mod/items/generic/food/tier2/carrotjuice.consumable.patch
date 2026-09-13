@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Морква в рідкому вигляді. Напрочуд солодкий, напрочуд поживний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Морквяний сік"
+  }
+]

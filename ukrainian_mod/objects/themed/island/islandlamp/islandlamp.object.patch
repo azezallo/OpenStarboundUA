@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця скляна лампа випромінює тепле світло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Острівна лампа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця лампа також має аромат трави. Цікаво, чи це навмисно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця лампа схожа на маленьке скляне сонечко. мені подобається"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить лампи з листям."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спокійно. Це світло змушує мене спати."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця лампа ароматизована! З якою метою?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я можу оцінити гладке скляне покриття цього світильника."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я можу віднестись до барвистого світіння цих старих ламп."
+  }
+]

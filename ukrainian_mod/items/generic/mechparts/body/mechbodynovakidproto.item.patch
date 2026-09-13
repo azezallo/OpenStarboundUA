@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прототип відкритого переднього механізму, розроблений для пілотів Новакіда."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Marshal-00 Mech Body"
+  }
+]

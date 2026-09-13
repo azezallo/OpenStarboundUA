@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крихка широка урна з глини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Широка урна"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленька урна, я сумніваюся, що вона вміщує багато всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якась урна.  Він не такий елегантний, як знайдений у пташиних гробницях."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssmash всі урни."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Філософський. Урна наполовину повна чи наполовину порожня?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Є швидкий спосіб дізнатися, що всередині цієї урни. Розбийте його."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Добре зроблена урна, її майже шкода розбити."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цю урну просто просять розбити."
+  }
+]

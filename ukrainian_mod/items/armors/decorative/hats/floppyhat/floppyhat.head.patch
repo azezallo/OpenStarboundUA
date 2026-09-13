@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеально підходить для чаювання на галявині."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Флоппі Fancy Hat"
+  }
+]

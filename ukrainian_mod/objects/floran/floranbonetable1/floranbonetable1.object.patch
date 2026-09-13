@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Схоже, що весь цей стіл вирізано з однієї величезної кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великий примітивний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стіл з кісток. Норми гігієни тут сумнівні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Флоран має своєрідний смак у столах."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Іноді, якщо у Флорана закінчується їжа, Флоран їсть стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Схоже, цей стіл пройшов термічну обробку для знищення бактерій."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей кістяний стіл гладкий і холодний."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Поїсти за таким столом – шлунок перекрутить."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не прихильник кістяних меблів, але вони здаються досить міцними."
+  }
+]

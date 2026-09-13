@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Він просто сидить цілий день. Який ледачий хлопець."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капелюх гнома"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peblit"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Через те, що його голова пропорційна розміру тіла, він не може бігати на великі відстані."
+  }
+]

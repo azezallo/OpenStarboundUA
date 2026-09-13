@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вибраний за свою силу на полі бою. Авангардний бронежилет врятував багато життів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бронежилет Vanguard"
+  }
+]

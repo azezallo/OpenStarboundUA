@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Бульбашки.",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Бульбашки",
+    "path": "/scriptConfig/dialog/attack/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Луссскайте, бульбашшшки!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Бульбашки.",
+    "path": "/scriptConfig/dialog/attack/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Блок, зроблений з м'яких грибів.",
+    "path": "/scriptConfig/dialog/attack/glitch/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Грибний блок",
+    "path": "/scriptConfig/dialog/attack/glitch/default/4",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Живе кошеня хоче вимагати, щоб ви стали своїм рабом!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кітті Шапочка"
+  }
+]

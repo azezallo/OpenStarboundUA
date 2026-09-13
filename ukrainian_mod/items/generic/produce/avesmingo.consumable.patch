@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Авесмінго, рослина 100 різних смаків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Авесмінго"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Густий слиз. Воно похитується, коли тикати."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Слиз Глоб"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вагається. Цей слиз виглядає липким."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить sslime!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей слиз виглядає неприємно."
+  }
+]

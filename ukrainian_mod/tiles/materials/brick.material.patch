@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Цеглини",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Маленькі, але відмінно сформовані цеглини з глини.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволення. Ці цеглини акуратно сформовані та організовані.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Звичайні цеглиниссс.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Файна цегляна кладка.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

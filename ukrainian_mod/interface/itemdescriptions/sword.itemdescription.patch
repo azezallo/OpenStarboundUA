@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/speedTitleLabel/value",
+    "value": "Швидкостріл.:"
+  },
+  {
+    "op": "replace",
+    "path": "/damagePerShotTitleLabel/value",
+    "value": "Шкода за удар:"
+  }
+]

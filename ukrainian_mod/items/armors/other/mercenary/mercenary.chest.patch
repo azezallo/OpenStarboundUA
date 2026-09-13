@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Солідний нагрудник без надмірностей."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кираса найманця"
+  }
+]

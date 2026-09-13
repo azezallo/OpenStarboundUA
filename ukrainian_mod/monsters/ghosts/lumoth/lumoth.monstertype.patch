@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Люмот"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "The bulb only stays lit while the Lumoth flaps its wings."
+  }
+]

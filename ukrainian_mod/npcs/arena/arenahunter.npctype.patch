@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Воло",
+    "path": "/identity/name",
+    "op": "replace"
+  },
+  {
+    "value": "Фассс!",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тепер ти не втечешшш!",
+    "path": "/scriptConfig/dialog/reattack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти був легкою ззздобиччю!",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран всссе щщще чує тебе!",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Досссить ховатиссся!",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Взяти їх!",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Повернисссь!",
+    "path": "/scriptConfig/dialog/cantReach/default/default/0",
+    "op": "replace"
+  }
+]

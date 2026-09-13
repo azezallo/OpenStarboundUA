@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Цегла, вирізана з тіньової породи.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Тіньова цегла",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Усвідомлення. Ця цегла виготовлена з дуже міцного матеріалу.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Міцна чорна цегла.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Цеглини, зроблені з тіньової породи.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

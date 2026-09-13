@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Схема простої деталі механізму."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Простий проект механізму"
+  }
+]

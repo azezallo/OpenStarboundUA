@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прибулець, дитинча личинки. Він маленький, м’який і беззахисний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дитинча личинки"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тепле святкове сяйво."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Менора"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Теплий сяючий набір свічників."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тепле сяйво нагадує мені пташині храми."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Горять свічки! Флоран подобається."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Менора."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чарівна менора."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці свічки випромінюють тепле, веселе світло."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це дає чудове сяйво."
+  }
+]

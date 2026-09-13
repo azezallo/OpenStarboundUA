@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Настінна решітка. чудово"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Решітка каналізаційна"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Настінна решітка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Решітка в стіні."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Решітка в стіні. Флоран не може пройти!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Продуманий. Чи щось ховається за цими гратами?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ну це просто решітка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця решітка проста, але запобігає проникненню будь-чого несподіваного."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Сподіваюся, за цією решіткою не ховаються тварини."
+  }
+]

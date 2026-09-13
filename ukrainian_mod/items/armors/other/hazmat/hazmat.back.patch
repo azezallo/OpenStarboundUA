@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Небезпечний повітряний резервуар, але, на жаль, він порожній."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Hazmat Airtank"
+  }
+]

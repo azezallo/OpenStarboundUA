@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленький водонепроникний світильник"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленький настінний світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це настінний світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Настінний світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "світло."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Байдуже. Світло."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це світло."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Маленьке світло."
+  }
+]

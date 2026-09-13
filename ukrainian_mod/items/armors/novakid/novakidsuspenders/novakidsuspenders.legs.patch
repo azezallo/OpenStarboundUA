@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пара штанів із затискачами для підтяжок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани на підтяжках"
+  }
+]

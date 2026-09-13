@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розбита вітрина."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зламаний дисплей Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей дисплей розбитий."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей дисплей повністю зруйнований. Яка трагедія!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Розбитий стіл..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. О ні! Ці дорогоцінні дисплеї ремонту не підлягають."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Розбитий дисплейний стіл..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "На це надто сумно дивитися. Мені будуть про це снитися кошмари."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не хочу вірити тому, що я бачу..."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Горизонтальне крісло на кшталт капітанського крісла на шатлі Земля."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підйомне сидіння"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Досить захоплююче моделювати досвід ранньої подорожі людини в космос."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я бачу, як це положення було б найзручнішим під час зльоту."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Було б весело лежати, масштабуючи ssspace."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Яка геніальна ідея лягти під час транспортування."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Який чудовий дизайн. Це все ще тримається."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ідея керувати космічним кораблем у такому положенні смішна Гілотлу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це крісло надає нового значення лежанню на роботі."
+  }
+]

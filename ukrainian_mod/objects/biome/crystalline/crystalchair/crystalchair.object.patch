@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кришталеве крісло. Підходить для монарха."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кришталеве крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дуже королівське кришталеве крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це кришталеве крісло екзотичне і привабливе."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран міг використати стілець, щоб розбити істоту."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безкорисливий. Незважаючи на те, наскільки вони поширені, один із кристалів у цьому кріслі все ж таки підроблений."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, це крісло коштувало б багато."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Красиве, блискуче крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Чи потрібно мені носити кришталеву корону, щоб сидіти тут?"
+  }
+]

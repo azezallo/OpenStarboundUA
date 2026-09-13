@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вони схожі на млинці, але мають присмак горошини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Млинці перлові"
+  }
+]

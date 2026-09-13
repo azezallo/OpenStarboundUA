@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Земного Захисту вітряних курантів. Такі можна знайти в саду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Куранти в саду Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці вітряні дзвіночки видають приємний звук."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мені подобається звук цих вітряних курантів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Шумні куранти."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Ці дзвіночки дуже заспокоюють. Я міг би слухати їх вічно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вітряні куранти! Вночі вони трохи моторошні, але вдень вони звучать чудово!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вітер грає з вітряками. Чудова."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Який чудовий звук."
+  }
+]

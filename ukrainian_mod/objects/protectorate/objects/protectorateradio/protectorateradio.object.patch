@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "радіо."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Радіо Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Моє радіо! Я люблю слухати місцеві новини."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це радіо."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Радіоприставка для новин і музики."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Це радіо гуртожитку."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ах, моє радіо! Це добре для фонового шуму."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Просте радіо."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто радіо."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це грубо виготовлений меч."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Залізний палаш"
+  }
+]

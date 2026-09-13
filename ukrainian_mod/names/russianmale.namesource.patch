@@ -1,0 +1,427 @@
+[
+  {
+    "op": "replace",
+    "path": "/sourceNames/0",
+    "value": "Abram"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/1",
+    "value": "Afanasy"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/2",
+    "value": "Albert"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/3",
+    "value": "Alexander"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/4",
+    "value": "Alexei"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/5",
+    "value": "Anatoly"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/6",
+    "value": "Andrei"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/7",
+    "value": "Anton"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/8",
+    "value": "Arkady"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/9",
+    "value": "Arseny"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/10",
+    "value": "Artur"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/11",
+    "value": "Artyom"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/12",
+    "value": "Bogdan"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/13",
+    "value": "Boris"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/14",
+    "value": "Daniil"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/15",
+    "value": "David"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/16",
+    "value": "Denis"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/17",
+    "value": "Dmitry"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/18",
+    "value": "Eduard"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/19",
+    "value": "Erik"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/20",
+    "value": "Evgeny"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/21",
+    "value": "Garry"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/22",
+    "value": "Gavriil"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/23",
+    "value": "Gennady"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/24",
+    "value": "Georgy"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/25",
+    "value": "Gerasim"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/26",
+    "value": "German"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/27",
+    "value": "Gleb"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/28",
+    "value": "Grigory"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/29",
+    "value": "Igor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/30",
+    "value": "Ilia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/31",
+    "value": "Illarion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/32",
+    "value": "Immanuil"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/33",
+    "value": "Ivan"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/34",
+    "value": "Kirill"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/35",
+    "value": "Konstantin"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/36",
+    "value": "Leo"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/37",
+    "value": "Leonid"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/38",
+    "value": "Lev"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/39",
+    "value": "Makar"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/40",
+    "value": "Marat"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/41",
+    "value": "Mark"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/42",
+    "value": "Matvei"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/43",
+    "value": "Maxim"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/44",
+    "value": "Mikhail"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/45",
+    "value": "Nestor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/46",
+    "value": "Nikita"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/47",
+    "value": "Nikolay"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/48",
+    "value": "Oleg"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/49",
+    "value": "Pavel"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/50",
+    "value": "Peter"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/51",
+    "value": "Pyotr"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/52",
+    "value": "Robert"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/53",
+    "value": "Rodion"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/54",
+    "value": "Roman"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/55",
+    "value": "Rostislav"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/56",
+    "value": "Ruslan"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/57",
+    "value": "Semyon"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/58",
+    "value": "Sergei"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/59",
+    "value": "Spartak"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/60",
+    "value": "Stanislav"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/61",
+    "value": "Stepan"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/62",
+    "value": "Taras"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/63",
+    "value": "Timofei"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/64",
+    "value": "Timur"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/65",
+    "value": "Trofim"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/66",
+    "value": "Vadim"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/67",
+    "value": "Valentin"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/68",
+    "value": "Valery"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/69",
+    "value": "Vasily"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/70",
+    "value": "Veniamin"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/71",
+    "value": "Viktor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/72",
+    "value": "Vitaly"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/73",
+    "value": "Vlad"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/74",
+    "value": "Vladimir"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/75",
+    "value": "Vladislav"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/76",
+    "value": "Vsevolod"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/77",
+    "value": "Vyacheslav"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/78",
+    "value": "Yakov"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/79",
+    "value": "Yaroslav"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/80",
+    "value": "Yefim"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/81",
+    "value": "Yegor"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/82",
+    "value": "Yulian"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/83",
+    "value": "Yury"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/84",
+    "value": "Zakhar"
+  }
+]

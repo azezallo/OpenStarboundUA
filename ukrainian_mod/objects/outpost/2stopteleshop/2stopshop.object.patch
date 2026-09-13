@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей магазин пропонує персональні телепорти в різних стилях."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "2 Зупиніть Teleshop"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Магазин з продажу телепортів. Це може стати в нагоді."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "О, це магазин, де продають пристрої для телепортації! Дуже корисно знати."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "У цьому магазині Флоран може купити телепорти."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Продавець, що продає пристрої для телепортації!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Магазин повний телепортів. Налаштування для ідеального відпочинку..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Магазин з продажу телепортів. Можливо, мені варто його переглянути."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Магазин, що продає телепорти... Якщо у вас є горщик пікселів."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "2 Зупиніть Teleshop"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Доставляємо вас від точки А до точки Б без усього цього надокучливого проміжного простору"
+  }
+]

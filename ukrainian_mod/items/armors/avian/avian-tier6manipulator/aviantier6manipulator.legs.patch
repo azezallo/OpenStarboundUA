@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Брюки з тканого солярію. Просто приголомшливо."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кігті Ворона"
+  }
+]

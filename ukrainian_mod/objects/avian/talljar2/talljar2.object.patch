@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це схоже на те, що я зробив на уроці гончарства. Сирий. Я повинен розбити його."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сирий горщик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Високий горщик. Може містити запаси."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Високий горщик, нічого особливого."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран sssmash багато горщиків."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Продуманий. Розбити чи не розбити?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ще один день, ще один горщик, який потрібно розбити."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці горщики зробили мене набагато агресивнішою особистістю."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Треба їх розбити, щоб дізнатися, що всередині."
+  }
+]

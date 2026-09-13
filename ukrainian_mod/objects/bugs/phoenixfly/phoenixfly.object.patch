@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей жучок треться ногами, утворюючи крихітні іскри."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Феніксфлай"
+  }
+]

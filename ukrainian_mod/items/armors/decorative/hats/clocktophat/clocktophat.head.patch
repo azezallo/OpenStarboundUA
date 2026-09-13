@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Панківський циліндр із годинником у ньому."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Годинник Tophat"
+  }
+]

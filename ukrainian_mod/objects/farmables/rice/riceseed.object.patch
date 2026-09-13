@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Варить, смажить, кидає до нареченої. Рис! Для всіх ваших кулінарних потреб."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння рису"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Рис. Чудове доповнення до будь-якої страви."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Рис, смачна закуска."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран готує рис як хороший гарнір до відварних сердечок."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Одного разу Глітч з’їв сирий рис і почав успішну кар’єру ударного інструмента."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Рис. Підходить, коли ви голодні і хочете з’їсти тисячі чогось."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Рис. Ніжний на смак, але зручний. Проста основа для страви."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Час від часу рис підійде. Ідеально з перцем чилі!"
+  }
+]

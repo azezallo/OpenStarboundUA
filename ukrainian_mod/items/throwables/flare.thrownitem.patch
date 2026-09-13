@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Відблиск"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Добре підходить для освітлення темної печери перед зануренням у неї."
+  }
+]

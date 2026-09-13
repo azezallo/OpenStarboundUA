@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Вишукана платформа",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Красиво оброблені дерев'яні платформи.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Захоплено. Ці дерев'яні платформи чудово відшліфовані та відполіровані.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Платформи, зззроблені з дерева. Флоран бачить.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Прості дерев'яні платформи, файні такі.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скупчення іржавого металу. Слідкуйте за гострими краями."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іржавий кущ"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей шматок сміття давно поржавів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Покинутий шматок старого іржавого металу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран міг використовувати металеву зброю."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "нервовий. Від вигляду іржі я відчуваю непритомність."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Здається, це шматок іржавого металу. Природа це створила? Як таке можливо?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це просто шматок неприємного, що іржавіє металу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я впевнений, що цей старий метал можна було б використати з користю, якщо його почистити."
+  }
+]

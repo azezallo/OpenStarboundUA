@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Світло ніби закручується всередині цих фіолетових кристалів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фіолетовий кристалічний блок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "вражений. Світло танцює крізь цей фіолетовий кристал."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Гарний фіолетовий кристал."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Цей фіолетовий кристал виглядає чисто."
+  }
+]

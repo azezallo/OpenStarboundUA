@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Здобути артефакт авіан",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "^green;^orange;Артефакт авіан^green; знаходиться у ^orange;Великому Суверенному Храмі^white;; одній з найбільших споруд, присвячених Клуексу, які коли-небудь будували авіани. Ці храми зазвичай охороняються, тому будь обережним всередині, любе.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ще один артефакт на місці. Ми впевнено просуваємося, любе. Чудова робота!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Я отримала координати ^orange;Великого Суверенного Храму^reset;. ^green;Використай комп'ютер корабля^reset;, щоб отримати доступ до локації.",
+    "path": "/scriptConfig/missionRadioMessage/text",
+    "op": "replace"
+  },
+  {
+    "value": "Знайди ^orange;артефакт^reset; у ^orange;Великому Суверенному Храмі^reset;",
+    "path": "/scriptConfig/descriptions/artifact",
+    "op": "replace"
+  },
+  {
+    "value": "Повернися до ^orange;Естер^reset; на ^orange;Ковчег^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

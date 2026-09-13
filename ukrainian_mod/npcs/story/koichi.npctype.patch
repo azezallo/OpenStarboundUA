@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/npcname",
+    "value": "Koichi"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/koichi/greet/default/default/0",
+    "value": "Ви тут! Ви це зробили! Ви перемогли цих лиходіїв у капотах!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/koichi/greet/default/default/1",
+    "value": "Отже, ви теж тут заради цього артефакту? Як інтригуюче..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/koichi/giveRelic/default/default/0",
+    "value": "Я вважаю, що найкраще довірити це вам — винагорода за вашу порядність. Тут точно небезпечно."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/koichi/giveRelic/default/default/1",
+    "value": "Але, гм... Можна мені піти з вами? Цей об’єкт, артефакт – я хотів би знати більше."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/koichi/end/default/default/0",
+    "value": "Великі мислителі кажуть нам, що «Досвід — мати мудрості». Я стану ТАКИМ МУДРИМ!"
+  }
+]

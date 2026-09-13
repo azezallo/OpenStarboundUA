@@ -1,0 +1,27 @@
+[
+  {
+    "value": "До бою!",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Жадаєш бою? Чудово!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Наше володіння мечем не має собі рівних!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Це наша земля, і лише наша!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я вчився у найкращих! У тебе немає жодного шансу!",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/3",
+    "op": "replace"
+  }
+]

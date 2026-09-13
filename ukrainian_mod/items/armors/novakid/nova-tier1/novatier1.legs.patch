@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прості, але стильні депутатські брюки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Депутатські штани"
+  }
+]

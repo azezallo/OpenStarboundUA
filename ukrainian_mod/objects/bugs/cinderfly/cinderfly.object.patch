@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Процвітає в безлюдних умовах."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Попелюшка"
+  }
+]

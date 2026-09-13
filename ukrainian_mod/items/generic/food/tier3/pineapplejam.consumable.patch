@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Суперсолодке варення з ананасів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ананасовий джем"
+  }
+]

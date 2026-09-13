@@ -1,0 +1,557 @@
+[
+  {
+    "value": "Нутмідж",
+    "path": "/parameters/monster/example/name",
+    "op": "replace"
+  },
+  {
+    "value": "монстрів",
+    "path": "/scriptConfig/generatedText/fluff/0/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "засмучен<questGiver.pronoun.obj1end>",
+    "path": "/scriptConfig/generatedText/fluff/1/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "розлючен<questGiver.pronoun.obj1end>",
+    "path": "/scriptConfig/generatedText/fluff/1/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "стривожен<questGiver.pronoun.obj1end>",
+    "path": "/scriptConfig/generatedText/fluff/1/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "засмучен<questGiver.pronoun.obj1end>",
+    "path": "/scriptConfig/generatedText/fluff/1/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "стурбован<questGiver.pronoun.obj1end>",
+    "path": "/scriptConfig/generatedText/fluff/1/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "зграя",
+    "path": "/scriptConfig/generatedText/fluff/2/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "група",
+    "path": "/scriptConfig/generatedText/fluff/2/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "орда",
+    "path": "/scriptConfig/generatedText/fluff/2/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "диких",
+    "path": "/scriptConfig/generatedText/fluff/3/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "розлючених",
+    "path": "/scriptConfig/generatedText/fluff/3/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "злісних",
+    "path": "/scriptConfig/generatedText/fluff/3/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "неслухняних",
+    "path": "/scriptConfig/generatedText/fluff/3/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "хижих",
+    "path": "/scriptConfig/generatedText/fluff/3/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "лютих",
+    "path": "/scriptConfig/generatedText/fluff/3/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "диких",
+    "path": "/scriptConfig/generatedText/fluff/3/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "лютих",
+    "path": "/scriptConfig/generatedText/fluff/3/1/7",
+    "op": "replace"
+  },
+  {
+    "value": "скажених",
+    "path": "/scriptConfig/generatedText/fluff/3/1/8",
+    "op": "replace"
+  },
+  {
+    "value": "влаштувала засідку на мене",
+    "path": "/scriptConfig/generatedText/fluff/4/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "підкралася до мене",
+    "path": "/scriptConfig/generatedText/fluff/4/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "стрибнула на мене",
+    "path": "/scriptConfig/generatedText/fluff/4/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "переслідувала мене",
+    "path": "/scriptConfig/generatedText/fluff/4/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "переслідувала мене",
+    "path": "/scriptConfig/generatedText/fluff/4/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "дошкуляла мені",
+    "path": "/scriptConfig/generatedText/fluff/4/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "досліджував<questGiver.pronoun.obj1end>",
+    "path": "/scriptConfig/generatedText/fluff/5/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "гуляв<questGiver.pronoun.obj1end>",
+    "path": "/scriptConfig/generatedText/fluff/5/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "бігав<questGiver.pronoun.obj1end>",
+    "path": "/scriptConfig/generatedText/fluff/5/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "відпочивав<questGiver.pronoun.obj1end>",
+    "path": "/scriptConfig/generatedText/fluff/5/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "мандрував<questGiver.pronoun.obj1end>",
+    "path": "/scriptConfig/generatedText/fluff/5/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "з'їли",
+    "path": "/scriptConfig/generatedText/fluff/6/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "знищили",
+    "path": "/scriptConfig/generatedText/fluff/6/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "зруйнували",
+    "path": "/scriptConfig/generatedText/fluff/6/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "забруднили",
+    "path": "/scriptConfig/generatedText/fluff/6/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "мою книгу",
+    "path": "/scriptConfig/generatedText/fluff/7/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "мій обід",
+    "path": "/scriptConfig/generatedText/fluff/7/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "мій сендвіч",
+    "path": "/scriptConfig/generatedText/fluff/7/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "моє взуття",
+    "path": "/scriptConfig/generatedText/fluff/7/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "мій рюкзак, повний закусок",
+    "path": "/scriptConfig/generatedText/fluff/7/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "мій гаманець",
+    "path": "/scriptConfig/generatedText/fluff/7/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "мій дешевий годинник",
+    "path": "/scriptConfig/generatedText/fluff/7/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "рукопис мого незавершеного роману",
+    "path": "/scriptConfig/generatedText/fluff/7/1/7",
+    "op": "replace"
+  },
+  {
+    "value": "єдину копію <belonging2>, що залишилася",
+    "path": "/scriptConfig/generatedText/fluff/7/1/8",
+    "op": "replace"
+  },
+  {
+    "value": "<belonging2>",
+    "path": "/scriptConfig/generatedText/fluff/7/1/9",
+    "op": "replace"
+  },
+  {
+    "value": "стару сімейну реліквію",
+    "path": "/scriptConfig/generatedText/fluff/7/1/10",
+    "op": "replace"
+  },
+  {
+    "value": "мого незавершеного роману",
+    "path": "/scriptConfig/generatedText/fluff/8/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "моїх мемуарів",
+    "path": "/scriptConfig/generatedText/fluff/8/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "мого саморобного альбому",
+    "path": "/scriptConfig/generatedText/fluff/8/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "моєї особистої збірки поезій",
+    "path": "/scriptConfig/generatedText/fluff/8/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "раніше",
+    "path": "/scriptConfig/generatedText/fluff/9/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "не так давно",
+    "path": "/scriptConfig/generatedText/fluff/9/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "сьогодні раніше",
+    "path": "/scriptConfig/generatedText/fluff/9/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "минулої ночі",
+    "path": "/scriptConfig/generatedText/fluff/9/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "вчора",
+    "path": "/scriptConfig/generatedText/fluff/9/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "помститися за мене",
+    "path": "/scriptConfig/generatedText/fluff/10/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "покласти їм край",
+    "path": "/scriptConfig/generatedText/fluff/10/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "провчити їх",
+    "path": "/scriptConfig/generatedText/fluff/10/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "змусити їх заплатити",
+    "path": "/scriptConfig/generatedText/fluff/10/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "розібратися з ними",
+    "path": "/scriptConfig/generatedText/fluff/11/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "позбутися їх",
+    "path": "/scriptConfig/generatedText/fluff/11/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "тихо вбити їх усіх",
+    "path": "/scriptConfig/generatedText/fluff/11/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "провчити їх",
+    "path": "/scriptConfig/generatedText/fluff/11/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "силою виселити їх",
+    "path": "/scriptConfig/generatedText/fluff/11/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "вистежити їх",
+    "path": "/scriptConfig/generatedText/fluff/12/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "вбити їх усіх",
+    "path": "/scriptConfig/generatedText/fluff/12/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "зззарізати їх",
+    "path": "/scriptConfig/generatedText/fluff/12/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "почувши чутки про",
+    "path": "/scriptConfig/generatedText/fluff/13/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "дізнавшись про",
+    "path": "/scriptConfig/generatedText/fluff/13/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "через усі розмови про",
+    "path": "/scriptConfig/generatedText/fluff/13/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "ледь уникнувши",
+    "path": "/scriptConfig/generatedText/fluff/13/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "ледве втікши від",
+    "path": "/scriptConfig/generatedText/fluff/13/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "що спричиняють незначні місцеві проблеми",
+    "path": "/scriptConfig/generatedText/fluff/14/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "що не дають людям спати ночами",
+    "path": "/scriptConfig/generatedText/fluff/14/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "що кусають людей за щиколотки",
+    "path": "/scriptConfig/generatedText/fluff/14/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "що здіймають галас",
+    "path": "/scriptConfig/generatedText/fluff/14/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "що постійно витріщаються на людей",
+    "path": "/scriptConfig/generatedText/fluff/14/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "що лякають людей",
+    "path": "/scriptConfig/generatedText/fluff/14/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "нападають на людей",
+    "path": "/scriptConfig/generatedText/fluff/15/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "лякають людей",
+    "path": "/scriptConfig/generatedText/fluff/15/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "роБбблять багато шуму",
+    "path": "/scriptConfig/generatedText/fluff/15/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "намагаються з'їсти людей",
+    "path": "/scriptConfig/generatedText/fluff/15/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "забув зззробити зброю",
+    "path": "/scriptConfig/generatedText/fluff/16/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "не відчуває сссебе надто впевнено щодо полювання зараз",
+    "path": "/scriptConfig/generatedText/fluff/16/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "почуваєтьссся ліниво",
+    "path": "/scriptConfig/generatedText/fluff/16/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "думає, що ти впораєшссся краще",
+    "path": "/scriptConfig/generatedText/fluff/16/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ті <monster> більше не будуть проблемою, бо вони мертві! Ха ха ха.",
+    "path": "/scriptConfig/generatedText/fluff/17/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти позбувся <monster>?",
+    "path": "/scriptConfig/generatedText/fluff/17/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "О, ти розібрався з <monster>?",
+    "path": "/scriptConfig/generatedText/fluff/17/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую за допомогу, сподіваюся, ця нагорода підійде!",
+    "path": "/scriptConfig/generatedText/fluff/18/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я ціную те, що ти це зробив для мене. Будь ласка, прийми цей подарунок.",
+    "path": "/scriptConfig/generatedText/fluff/18/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сподіваюся, цього подарунка достатньо за час, витрачений на мою проблему!",
+    "path": "/scriptConfig/generatedText/fluff/18/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую! Я ціную допомогу!",
+    "path": "/scriptConfig/generatedText/fluff/18/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я буду спати краще, знаючи, що ти зробив це місце трохи безпечнішим!",
+    "path": "/scriptConfig/generatedText/fluff/18/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую! Ти зробив проживання тут набагато безпечнішим.",
+    "path": "/scriptConfig/generatedText/fluff/18/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "Розібратися з <monster>",
+    "path": "/scriptConfig/generatedText/title/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Справа з <monster>",
+    "path": "/scriptConfig/generatedText/title/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Мені потрібна допомога з монстром, що став проблемою.",
+    "path": "/scriptConfig/generatedText/goalText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран має дещо, про що тобі треба подбати...",
+    "path": "/scriptConfig/generatedText/goalText/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Стурбовано. Деякі звірі налякали мене.",
+    "path": "/scriptConfig/generatedText/goalText/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я <upset> і потребую твоєї допомоги! <group> <wild> ^orange;<monster>^white; <ambushed>, коли я <exploring> і <ate> <belonging1>! Це сталося на ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;чи не міг би ти піти і <revenge1>^white;?",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я занадто налякан<questGiver.pronoun.obj1end>, щоб іти звідси після <rumours> зграї <wild> ^orange;<monster>^white;, що <loitering>. Я чув, що їх востаннє бачили на ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Ти міг би <revenge2> для мене^white;?",
+    "path": "/scriptConfig/generatedText/text/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран чув, що тут є група <wild> ^orange;<monster>^white;, які <loiteringfloran>. Флоран би вполював їх, але флоран <excusefloran>. Вони на ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;чи не міг би ти <revengefloran> для флорана^white;?",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. Я <upset> і потребую твоєї допомоги! <group> <wild> монстрів [^orange;<monster>^white;] <ambushed> мене, коли я <exploring>, і вони <ate> <belonging1>! Це сталося ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;чи не міг би ти піти туди і <revenge1>^white;?",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Стривожено. Я боюся йти звідси після того, як <rumours> <wild> монстрів [^orange;<monster>^white;], <loitering>. Я чув, що їх востаннє бачили ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Чи міг би ти <revenge2> для мене^white;?",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "<appreciation1> <appreciation2>",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран вдячний за допомогу!",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. <appreciation1> <appreciation2>",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ой, я не зміг допомогти жителю <questGiver>.",
+    "path": "/scriptConfig/generatedText/failureText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Знайди <spawnPoint>",
+    "path": "/scriptConfig/objectives/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Вбий монстрів [<monster>]",
+    "path": "/scriptConfig/objectives/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Повернися до жителя <questGiver>",
+    "path": "/scriptConfig/objectives/2/text",
+    "op": "replace"
+  }
+]

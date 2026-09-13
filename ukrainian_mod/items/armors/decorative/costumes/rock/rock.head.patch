@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця скеля має обличчя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Rock Head"
+  }
+]

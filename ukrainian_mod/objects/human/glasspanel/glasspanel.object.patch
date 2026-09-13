@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блискуча скляна панель."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скляна панель"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кольорове скло. Дуже красива."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це скло виблискує, як коштовності."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Красиве скло служить поганою схованкою."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Людська майстерність може бути дещо вражаючою."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Таке кольорове скло можна використовувати для виготовлення стильних сонцезахисних окулярів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це скло виблискує, як різнокольорові морські мушлі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Прозоре скло. Я бачу прямо крізь нього."
+  }
+]

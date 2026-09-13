@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ніжки цього маленького жука вкриті прозорими волосками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Білий мотузок"
+  }
+]

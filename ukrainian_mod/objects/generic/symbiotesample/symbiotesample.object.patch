@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створка в банці мріє."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Симбіот в банці"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленький Симбіот в банці. Їх часто використовують для тестування."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Желатинова маленька істота в пастці в банці."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дурне маленьке желеподібне створіння."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Симпатичний. Цей симбіот виглядає трохи... сумно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ого, це просто маленький симбіот у банці. Бідолаха."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я сумніваюся, що цьому симбіоту подобається жити в банці більше, ніж мені."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ох, диртурчин желе! Просто жартую."
+  }
+]

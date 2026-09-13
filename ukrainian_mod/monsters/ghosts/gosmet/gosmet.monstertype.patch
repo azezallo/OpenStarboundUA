@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Gosmet"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці істоти мають ефірні тіла, які вони формують у броню, коли їм загрожують."
+  }
+]

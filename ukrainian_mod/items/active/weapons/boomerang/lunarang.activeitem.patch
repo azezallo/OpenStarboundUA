@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це не місяць."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лунаранг"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Лунаранг ^yellow;^reset;"
+  }
+]

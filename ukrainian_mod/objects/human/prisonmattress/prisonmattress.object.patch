@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей матрац брудний! Присягаюся, щойно побачив, як щось повзає всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Брудний матрац"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це наближається до умов рівня Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Огидний матрац."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Навіть Флоран вважає ssssmoll огидним."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Цей матрац потрібно окурити. Я можу виявити ознаки життя."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я спала гірше."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Підлий, гнилий матрац. Я б волів триматися на відстані."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "What's that smell? Не може бути... цей матрац?!"
+  }
+]

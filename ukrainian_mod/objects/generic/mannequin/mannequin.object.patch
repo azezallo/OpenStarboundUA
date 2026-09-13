@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Показуйте та легко екіпіруйте комплекти броні!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Манекен"
+  }
+]

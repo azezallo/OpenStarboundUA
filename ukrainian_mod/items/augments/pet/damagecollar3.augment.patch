@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нашийник, який значно збільшує потужність ураження вашого вихованця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пошкодження III Комір"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "value": "Пошкодження III"
+  }
+]

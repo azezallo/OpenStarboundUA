@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Загострений блок, зроблений з темного матеріалу.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Тіньовий блок",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Зацікавлення. Цей блок зроблений з невідомого матеріалу.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Тіньовий блок, темний як нічсссь.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ці блоки темніші, ніж ніч без місяця, ото вже.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

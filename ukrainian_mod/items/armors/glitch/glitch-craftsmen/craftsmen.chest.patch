@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Проста сорочка з кишенею для майстрів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сорочка майстра"
+  }
+]

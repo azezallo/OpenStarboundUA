@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Трохи люмінесцентних штанів - більше не ступайте обережно!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Світяться штани"
+  }
+]

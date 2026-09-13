@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Платформи, створені для використання в середовищах із потенційним тиском."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Платформа під тиском"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Схвалення. Ці потужні платформи посилені, щоб протистояти змінам тиску."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Міцні металеві платформи холодні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Якась блискуча на вигляд платформа."
+  }
+]

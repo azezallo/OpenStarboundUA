@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленька синтетична ялинка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленька штучна ялинка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це синтетичне дерево. Потрібно більше світла та прикрас."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це дерево виглядає переконливо справжнім."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Не сссіскристе дерево. Просто дерево."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Це синтетичне дерево позбавлене декору."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Шкода, що синтетика, ще пам'ятаю запах справжніх ялин."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Незважаючи на свою неавтентичність, це дуже гарне дерево."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це дерево, але не справжнє дерево?"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рис. Зерна добра."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рис"
+  }
+]

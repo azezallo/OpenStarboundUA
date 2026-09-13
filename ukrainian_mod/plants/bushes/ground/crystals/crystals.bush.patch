@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кристали."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кристали."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучі кристали."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Кристали."
+  }
+]

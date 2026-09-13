@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Орбід"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Something about the way it limps makes you feel uncomfortable."
+  }
+]

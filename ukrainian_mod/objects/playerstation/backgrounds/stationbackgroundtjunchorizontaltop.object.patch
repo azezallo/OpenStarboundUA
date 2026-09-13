@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Горизонтальний верхній шматок тла T Junction"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Горизонтальний верхній шматок тла T Junction"
+  }
+]

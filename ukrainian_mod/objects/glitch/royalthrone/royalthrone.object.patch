@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Трон, який підходить для королівських сідниць."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Королівський трон"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Великий золотий трон."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Роялті, здається, оточують себе золотом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучий металевий стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Такий трон, безумовно, підходить для королівської особи."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Королівський трон. Чудово виготовлений із золота та атласу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Фокус помпезної розкоші."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тепер цей трон справді виглядає привабливо!"
+  }
+]

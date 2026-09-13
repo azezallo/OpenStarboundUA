@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Легкі та гнучкі штани та чоботи – ідеальний одяг для крадькома."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани розбійника"
+  }
+]

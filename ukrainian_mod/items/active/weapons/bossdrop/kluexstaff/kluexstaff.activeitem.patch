@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей потужний посох підкріплює воїна, який ним володіє."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Персонал Kluex"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Персонал Kluex ^yellow;^reset;"
+  }
+]

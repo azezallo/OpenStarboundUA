@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Він повністю висічений з одного шматка каменю. На це, мабуть, пішли роки роботи."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця емблема позначає зал для глядачів. Кажуть, що ті, хто стоїть перед ним, знаходяться на аудієнції з Kluex."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гігантський птах із оком для прикладу. Чи плачуть яйця?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Тут немає нічого, крім обробленого каменю."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Око моторошне. Ніби пташиний бог дивиться."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Здається, різьблення по каменю готове розсипатися. Його слід зберегти."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я б не хотів натрапити на цього птаха."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Клянусь, очі слідкують за мною по кімнаті.."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташиний герб"
+  }
+]

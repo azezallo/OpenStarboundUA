@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бруд, висохла на сонці."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сухий бруд"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Проникливий. Цей бруд дуже сухий."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Сухий бруд."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Просто сухий пиловий бруд."
+  }
+]

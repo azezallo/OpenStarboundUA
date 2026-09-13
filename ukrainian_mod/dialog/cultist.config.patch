@@ -1,0 +1,527 @@
+[
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Ніхто не пройде!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/0",
+    "value": "Це просто не твій день!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/1",
+    "value": "Ми — Окказус! Ти не зможеш нас зупинити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/2",
+    "value": "Не думай, що зможеш втекти, невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/3",
+    "value": "Якщо ти не з нами, значить ти проти нас!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/4",
+    "value": "Ти тут, щоб зупинити нас? Це все одно не має значення!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/5",
+    "value": "Ти не зможеш нас зупинити! Навіть не намагайся!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/6",
+    "value": "Тобі не варто було сюди приходити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/7",
+    "value": "Ти вибрав поганий час для візиту!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/8",
+    "value": "Наближається невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/9",
+    "value": "Якщо я вб'ю тебе, Нокс може мене підвищити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/10",
+    "value": "Тобі не зупинити наші плани!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/11",
+    "value": "Ти не покинеш це місце!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/0",
+    "value": "Сьогодні просто не твій день!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/1",
+    "value": "Ми — Окказус! Тобі нас не зупинити, мавпо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/2",
+    "value": "Не думай, що зможеш втекти, невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/3",
+    "value": "Якщо ти не з нами, значить, ти проти нас!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/4",
+    "value": "Ти тут, щоб зупинити нас? У будь-якому разі це не має значення!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/5",
+    "value": "Тобі нас не зупинити! Навіть не намагайся!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/6",
+    "value": "Тобі не варто було сюди приходити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/7",
+    "value": "Ти вибрав поганий час для візиту!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/8",
+    "value": "Наближається невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/9",
+    "value": "Якщо я вб'ю тебе, Нокс може мене підвищити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/10",
+    "value": "Тобі не зупинити наші плани!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/11",
+    "value": "Ти не покинеш це місце!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/12",
+    "value": "Всесвіту не потрібні такі, як ти, мавпо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/apex/13",
+    "value": "Нам було б краще без вас, мавп!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/avian/0",
+    "value": "Сьогодні просто не твій день!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/avian/1",
+    "value": "Ми — Окказус! Тобі нас не зупинити, птахо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/avian/2",
+    "value": "Не думай, що зможеш втекти, невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/avian/3",
+    "value": "Якщо ти не з нами, значить, ти проти нас!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/avian/4",
+    "value": "Ти тут, щоб зупинити нас? У будь-якому разі це не має значення!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/avian/5",
+    "value": "Тобі нас не зупинити! Навіть не намагайся!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/avian/6",
+    "value": "Тобі не варто було сюди приходити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/avian/7",
+    "value": "Ти вибрав поганий час для візиту!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/avian/8",
+    "value": "Наближається невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/avian/9",
+    "value": "Якщо я вб'ю тебе, Нокс може мене підвищити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/avian/10",
+    "value": "Тобі не зупинити наші плани!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/avian/11",
+    "value": "Людству було б краще без вас, птахів!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/avian/12",
+    "value": "Всесвіту не потрібна раса Авіан!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/floran/0",
+    "value": "Сссьогодні просссто не твій день!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/floran/1",
+    "value": "Ми — Окказуссс! Вам нассс не зупинити, варвари!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/floran/2",
+    "value": "Не думай, що зможешшш втекти, невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/floran/3",
+    "value": "Якщо ти не з нами, значить, ти проти нассс!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/floran/4",
+    "value": "Ти тут, щоб зупинити нассс? У будь-якому разі це не має значення!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/floran/5",
+    "value": "Тобі нассс не зупинити! Навіть не намагайссся!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/floran/6",
+    "value": "Тобі не варто було сссюди приходити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/floran/7",
+    "value": "Ти вибрав поганий чассс для візиту!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/floran/8",
+    "value": "Наближаєтьссся невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/floran/9",
+    "value": "Якщо Флоран вб'ю тебе, Нокссс може Флорана підвищити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/floran/10",
+    "value": "Тобі не зупинити нашшші плани!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/floran/11",
+    "value": "Ми звільнимо галактику від вассс, флоранссських варварів!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/floran/12",
+    "value": "Ссскоро ми позбудемоссся таких, як ти, Флоране!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/human/0",
+    "value": "Сьогодні просто не твій день!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/human/1",
+    "value": "Ми — Окказус! Тобі нас не зупинити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/human/2",
+    "value": "Не думай, що зможеш втекти, невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/human/3",
+    "value": "Якщо ти не з нами, значить, ти проти нас!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/human/4",
+    "value": "Ти тут, щоб зупинити нас? У будь-якому разі це не має значення!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/human/5",
+    "value": "Тобі нас не зупинити! Навіть не намагайся!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/human/6",
+    "value": "Тобі не варто було сюди приходити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/human/7",
+    "value": "Ти вибрав поганий час для візиту!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/human/8",
+    "value": "Наближається невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/human/9",
+    "value": "Якщо я вб'ю тебе, Нокс може мене підвищити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/human/10",
+    "value": "Тобі не зупинити наші плани!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/human/11",
+    "value": "Ти воюєш не за ту сторону!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/human/12",
+    "value": "Ти вибрав не ту сторону, зраднику!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/hylotl/0",
+    "value": "Сьогодні просто не твій день!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/hylotl/1",
+    "value": "Ми — Окказус! Тобі нас не зупинити, Хайлотле!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/hylotl/2",
+    "value": "Не думай, що зможеш втекти, невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/hylotl/3",
+    "value": "Якщо ти не з нами, значить, ти проти нас!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/hylotl/4",
+    "value": "Ти тут, щоб зупинити нас? У будь-якому разі це не має значення!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/hylotl/5",
+    "value": "Тобі нас не зупинити! Навіть не намагайся!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/hylotl/6",
+    "value": "Тобі не варто було сюди приходити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/hylotl/7",
+    "value": "Ти вибрав поганий час для візиту!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/hylotl/8",
+    "value": "Наближається невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/hylotl/9",
+    "value": "Якщо я вб'ю тебе, Нокс може мене підвищити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/hylotl/10",
+    "value": "Тобі не зупинити наші плани!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/hylotl/11",
+    "value": "Повзи назад у свою калюжу!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/hylotl/12",
+    "value": "Скоро ми позбудемося таких, як ти, Хайлотле!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/glitch/0",
+    "value": "*Заява.* Сьогодні просто не твій день!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/glitch/1",
+    "value": "*Заява.* Ми — Окказус! Тобі нас не зупинити, роботе!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/glitch/2",
+    "value": "*Заява.* Не думай, що зможеш втекти, невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/glitch/3",
+    "value": "*Заява.* Якщо ти не з нами, значить, ти проти нас!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/glitch/4",
+    "value": "*Заява.* Ти тут, щоб зупинити нас? У будь-якому разі це не має значення!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/glitch/5",
+    "value": "*Заява.* Тобі нас не зупинити! Навіть не намагайся!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/glitch/6",
+    "value": "*Заява.* Тобі не варто було сюди приходити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/glitch/7",
+    "value": "*Заява.* Ти вибрав поганий час для візиту!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/glitch/8",
+    "value": "*Заява.* Наближається невіруючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/glitch/9",
+    "value": "*Заява.* Якщо я вб'ю тебе, Нокс може мене підвищити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/glitch/10",
+    "value": "*Заява.* Тобі не зупинити наші плани!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/glitch/11",
+    "value": "*Заява.* Я відправлю тебе на металобрухт, роботе!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/glitch/12",
+    "value": "*Заява.* Ти навіть не по-справжньому живий, роботе!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/novakid/0",
+    "value": "Сьогодні просто не твій день, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/novakid/1",
+    "value": "Ми — Окказус, йо! Тобі нас не зупинити, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/novakid/2",
+    "value": "Не думай, що зможеш втекти, невіруючий, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/novakid/3",
+    "value": "Якщо ти не з нами, значить, ти проти нас, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/novakid/4",
+    "value": "Ти тут, щоб зупинити нас? У будь-якому разі це не має значення, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/novakid/5",
+    "value": "Тобі нас не зупинити, йо! Навіть не намагайся, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/novakid/6",
+    "value": "Тобі не варто було сюди приходити, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/novakid/7",
+    "value": "Ти вибрав поганий час для візиту, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/novakid/8",
+    "value": "Наближається невіруючий, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/novakid/9",
+    "value": "Якщо я вб'ю тебе, Нокс може мене підвищити, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/novakid/10",
+    "value": "Тобі не зупинити наші плани, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/novakid/11",
+    "value": "Я навіть не знаю, ЩО ти таке, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/novakid/12",
+    "value": "Всесвіту не потрібні дивні створіння, що світяться, йо!"
+  }
+]

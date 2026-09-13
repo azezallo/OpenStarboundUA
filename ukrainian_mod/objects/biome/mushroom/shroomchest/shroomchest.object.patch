@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гриб, сформований у вигляді скрині."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скриня з грибами"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ви можете легко підняти цю скриню і піти з нею."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Скриня з грибами. Легко відкривається."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Скриня із здобиччю Флорана. Флоран знайти товари."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Аналіз. Відкриття цієї скрині вивільняє невидимі спори. Довгострокові ефекти невідомі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Симпатична м’яка скриня з грибами."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Смішна ідея для скрині."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця скриня виглядає просто як маленький милий гриб."
+  }
+]

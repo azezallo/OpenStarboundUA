@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стелаж для зброї Floran. Вся зброя зникла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Порожня стійка для зброї"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стелаж для зброї, він абсолютно порожній."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, ця стійка призначена для зберігання зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Порожній стенд для мисливської зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гіпотетичний. Судячи з розмірів, ця стійка виглядає призначеною для списів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Стійка для списа, без усіх списів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стелаж для зберігання грубої зброї Floran."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця стійка зроблена для того, щоб тримати списи, цікаво, чи вміщує вона рушницю?"
+  }
+]

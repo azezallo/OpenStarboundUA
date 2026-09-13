@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мала могильна цегла"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці маленькі цеглинки майстерно виготовлені."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вражений. Ця робота з каменю найбільше вражає."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Маленькі цеглинки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Виглядає, як маленькі цеглинки."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарне ліжко з блискучого золота."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вишукане королівське ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Постіль з шовку і золота. Підходить для короля."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ліжко, виковане з дорогоцінних металів. Хто спить серед таких дорогоцінних матеріалів?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче спробувати блискуче ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Ідентифікувати. Ліжко, створене для королівських осіб."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я підозрюю, що це було побудовано для королівських осіб."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Хіба королю потрібна така пишнота? Чи це робить його кращим королем?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Звичайно, шикарне ліжко, майже для короля!"
+  }
+]

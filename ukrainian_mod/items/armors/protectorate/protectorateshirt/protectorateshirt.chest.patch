@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зручна футболка, прикрашена логотипом Земного Захисту Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Футболка Земного Захисту"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Лопніть, як гаряче!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Попкорн"
+  }
+]

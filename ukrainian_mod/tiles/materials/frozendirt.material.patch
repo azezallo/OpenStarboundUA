@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Чи можеш ти уявити собі, що таке жити на одній-єдиній планеті весь час?",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Як давно я не був на Землі! Як там справи?",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Витончена черепиця.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Вишукана черепиця",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Знайомо. Схожі плитки використовуються в традиційному дизайні дахів.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

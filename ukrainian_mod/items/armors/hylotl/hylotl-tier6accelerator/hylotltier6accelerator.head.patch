@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шолом із продуманою естетикою, схожою на бульбашку, що забезпечує широкий огляд."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Euphotic Helm"
+  }
+]

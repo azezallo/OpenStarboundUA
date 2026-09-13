@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зірваний блакитний прапор якогось далекого народу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прапор Фельхайма"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей потертий банер викликає відчуття непередбачуваності."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Який жахливий банер..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче пробити стіну."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Цікаво, з якого королівства цей прапор?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво звідки цей банер? Це виглядає якось моторошно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Який простий це банер."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Здається, це представляє якусь націю."
+  }
+]

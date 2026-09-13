@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Обсяг даних на цьому екрані надзвичайно великий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великий монітор"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Набір моніторів. Я чекаю побачити обличчя Великої мавпи."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Можливо, монітор для... читання даних."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Забагато інформації для Флорана, щоб отримати його зараз."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Показання на цьому моніторі показують, що вони стосуються найближчої зірки."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Здається, цей середній екран тут аналізує місцеву зірку. Підказка: дуже жарко."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "За даними цих моніторів, місцевій зірці поки що не загрожує колапс."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Зчитування даних. для чого"
+  }
+]

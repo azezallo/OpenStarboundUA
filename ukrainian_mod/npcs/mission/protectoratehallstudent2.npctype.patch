@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Eager. My very own Matter Manipulator. I figuratively cannot wait."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "Nervous. Do my bolts look big in this?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "Pleased. I am glad I ironed my uniform this morning."
+  }
+]

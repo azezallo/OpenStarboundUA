@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Забезпечує виняткове тепло і чудово підходить для приготування їжі на відкритому повітрі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Наностове"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Наностове"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Високотехнологічна кухня в кемпінгу"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Портативна, екологічно чиста піч для кемпінгу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "A handy camping stove. Більше немає вуглецевого сліду!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран боїться ссстове спалить Флорана. Флоран використовуйте в будь-якому випадку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Захоплення. Ця плита економить багато енергії."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чудово, це як кемпінг у майбутньому!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Яскрава, але практична піч для кемпінгу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Зручна піч, але справжнє багаття неможливо перемогти."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Носячи їх, ви будете схожі на жабу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жаб'ячі лапки"
+  }
+]

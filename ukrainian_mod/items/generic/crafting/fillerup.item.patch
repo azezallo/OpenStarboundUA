@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Заправляє ваш корабель паливом"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Заповніть"
+  }
+]

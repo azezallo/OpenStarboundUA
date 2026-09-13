@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зелений неоновий символ"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Металева лілія з яскраво-зеленою емблемою."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Лілія з символом на ній."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Схоже, Hylotl наступив на фарбу, а потім натоптав лілію."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не зрозумів концепції цього твору."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. Прикрашена лілія залишається лілейкою."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це виглядає більш захоплююче, ніж, мабуть, є."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Таке прекрасне злиття культурних мотивів Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Що з символом, що світиться?"
+  }
+]

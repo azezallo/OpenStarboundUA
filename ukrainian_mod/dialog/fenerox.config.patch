@@ -1,0 +1,597 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "value": "Нова людина. Дивно пахне. Дуже захоплююче!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/1",
+    "value": "Дивна людина. Сподіваюся, хороша. Почуваюся обережно!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/2",
+    "value": "Дивна людина. Не Фенерокс. Буду ввічливим!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/3",
+    "value": "Зустріч з незнайомцем. Буду дружнім. Новий досвід!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/4",
+    "value": "Дивна людина. Кажу привіт. Не Фенерокс?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/5",
+    "value": "Дружній незнайомець. Почуваюся незручно. Обережно оптимістичний!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/6",
+    "value": "Новий незнайомець. Не впевнений. Кажу привіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/7",
+    "value": "Невідома людина. Не волохата. Виглядає дивно."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/0",
+    "value": "Нова людина. Дивно пахне. Дуже захоплююче! Слава Великому Мавпу!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/1",
+    "value": "Дивна людина. Сподіваюся, хороша. Почуваюся обережно, як при Міннаук!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/2",
+    "value": "Дивна людина. Не Фенерокс. Буду ввічливим заради Великого Мавпа!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/3",
+    "value": "Зустріч з незнайомцем. Буду дружнім. Новий досвід під оком Міннаук!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/4",
+    "value": "Дивна людина. Кажу привіт. Не Фенерокс, а слуга Великого Мавпа?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/5",
+    "value": "Дружній незнайомець. Почуваюся незручно через Міннаук. Обережно оптимістичний!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/6",
+    "value": "Новий незнайомець. Не впевнений. Кажу привіт в ім'я Великого Мавпа!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/7",
+    "value": "Невідома людина. Досить волохата. Гарна борода, як у Великого Мавпа!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/0",
+    "value": "Нова людина. Пташине обличчя. Дуже захоплююче, хвала Клуексу!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/1",
+    "value": "Дивна людина. Сподіваюся, хороша. Почуваюся обережно під поглядом Клуекса!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/2",
+    "value": "Дивна людина. Не Фенерокс. Буду ввічливим заради Клуекса!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/3",
+    "value": "Зустріч з незнайомцем. Буду дружнім. Новий досвід з благословення Клуекса!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/4",
+    "value": "Дивна людина. Кажу привіт. Не Фенерокс, а дитя Клуекса?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/5",
+    "value": "Дружній незнайомець. Почуваюся незручно. Обережно оптимістичний, хай береже Клуекс!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/6",
+    "value": "Новий незнайомець. Не впевнений. Кажу привіт в ім'я Клуекса!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/7",
+    "value": "Невідома людина. Тіло в пір'ї. Досить дивно, але Клуекс великий."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/0",
+    "value": "*Захоплення.* Нова людина. Виглядає металевою. Дуже захоплююче!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/1",
+    "value": "*Обережність.* Дивна людина. Сподіваюся, хороша. Почуваюся обережно!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/2",
+    "value": "*Ввічливість.* Дивна людина. Не Фенерокс. Буду ввічливим!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/3",
+    "value": "*Цікавість.* Зустріч з незнайомцем. Буду дружнім. Новий досвід!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/4",
+    "value": "*Збентеження.* Дивна людина. Кажу привіт. Не Фенерокс?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/5",
+    "value": "*Оптимізм.* Дружній незнайомець. Почуваюся незручно. Обережно оптимістичний!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/6",
+    "value": "*Нервовість.* Новий незнайомець. Не впевнений. Кажу привіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/7",
+    "value": "*Здивування.* Невідома людина. Сяючі очі. Металева шкіра?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/0",
+    "value": "Сссс! Флоран бачить нову людину. Пахне квітами. Дуже захоплююче для Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/1",
+    "value": "Дивна людинассс. Сподіваюссс, хороша. Флоран почуваєтьсся обережно!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/2",
+    "value": "Дивна людинассс. Не Фенерокссс. Флоран буде ввічливим!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/3",
+    "value": "Флоран зуссстрічає незнайомця. Флоран дружній. Новий досвід!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/4",
+    "value": "Дивна осссоба. Флоран вітаєтьссся. Не Фенерокссс?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/5",
+    "value": "Дружній незнайомець. Флоран почуваєтьссся ніяково. Обережно оптиміссстичний!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/6",
+    "value": "Новий незнайомець. Флоран не впевнений. Флоран вітаєтьссся!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/7",
+    "value": "Невідома осссоба. Лисстяне тіло. Моторошшна посссмішка..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/0",
+    "value": "Нова особа. Тхне рибою, мов океанська глибина. Яка витончена зустріч!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/1",
+    "value": "Дивна особа. Сподіваюсь, ви шляхетні. Відчуваю поетичну обережність!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/2",
+    "value": "Химерна особа. Не Фенерокс. Я виявляю свою Хайлотлську ґречність!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/3",
+    "value": "Зустріч із незнайомцем. Виявляю приязність. Який поетичний новий досвід!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/4",
+    "value": "Дивна особа. Вишукано вітаюся. Ви ж не Фенерокс?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/5",
+    "value": "Дружній незнайомець. Відчуваю незручність. Обережно оптимістичний, як спокійна вода!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/6",
+    "value": "Новий незнайомець. Не маю певності, але шляхетно вітаюся!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/7",
+    "value": "Невідома особа. Гумова шкіра. Виглядає вельми незграбно та химерно."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/0",
+    "value": "Нова людина. Світиться файно. Йо, як цікаво!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/1",
+    "value": "Дивний леґінь. Надіюсь, добрий. Трохи маю острах!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/2",
+    "value": "Чудна людина. Не Фенерокс. Буду ґречним, як ґазда!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/3",
+    "value": "Здибав незнайомця. Буду файним. Новий досвід, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/4",
+    "value": "Дивний леґінь. Кажу здоров. Ти не Фенерокс?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/5",
+    "value": "Файний незнайомець. Трохи ніяково. Але маю надію, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/6",
+    "value": "Новий незнайомець. Не певний я. Кажу здоров!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/7",
+    "value": "Незнайома людина. Вогняний леґінь. Без лиця, чи шо?"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/0",
+    "value": "Незнайомець краде. Це погано. Дуже хвилююсь!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/1",
+    "value": "Шокуючий розвиток. Крадіжка тут. Дуже обурений!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/2",
+    "value": "Бачу пограбування. Дуже стурбований. Жахлива поведінка!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/3",
+    "value": "Злодій краде. Не ввічливо. Досить прикро."
+  },
+  {
+    "op": "replace",
+    "path": "/alert/default/default/0",
+    "value": "Крадіжка жахлива. Треба зупинити. Попереджаю охорону!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/default/default/1",
+    "value": "Крадіжка це жах. Потрібна допомога. Шукаю охорону!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/default/default/2",
+    "value": "Красти неправильно. Кличу підмогу. Шукаю охорону!"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/0",
+    "value": "Дім змінився. Досить прикро. Не щасливий."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/1",
+    "value": "Щось зникло. Дім змінився. Досить сумно."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/2",
+    "value": "Речі зникли. Дім інакший. Відчувається неправильно."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/0",
+    "value": "Стіни зламані. Потрібен ремонт. Досить тривожно."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/1",
+    "value": "Дім пошкоджено. Потрібен ремонт. Відчуваю смуток!"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/2",
+    "value": "Дім пошкоджено. Стіни зламані. Треба полагодити!"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/0",
+    "value": "Ще один договір. Досить грубо. Зовсім не щасливий."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/1",
+    "value": "Другий договір. Мій дім. Не щасливий."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/0",
+    "value": "Дуже засмучений. Відчуваю ігнорування. Можу піти."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/1",
+    "value": "Неприйнятні умови. Відчуваю ігнорування. Гучно скаржусь!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/2",
+    "value": "Погані умови. Відчуваю ігнорування. Думаю піти."
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/0",
+    "value": "Дуже засмучений. Йду зараз. Розчаровуючий досвід!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/1",
+    "value": "Йду зараз. Мене ігнорують. Бідний дім! "
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/0",
+    "value": "Мене викликали. Відчуваю дружність. Давайте поговоримо!"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/1",
+    "value": "Я потрібен. Говорю зараз. Давайте поспілкуємось!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/0",
+    "value": "Відчуваю вдячність. Маю подарунок. Сподіваюсь, сподобається!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/1",
+    "value": "Відчуваю задоволення. Приніс подарунок. Візьміть подарунок!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/2",
+    "value": "Дуже задоволений. Гарний дім. Візьміть подарунок!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "value": "Бій відновлюється. Маю спис. Час битви!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/1",
+    "value": "Нападник повертається. Відчуваю завзяття. Давайте битися!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/2",
+    "value": "Напад повторюється. Спис готовий. Бій відбувається!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/3",
+    "value": "Битва повертається. Не боюсь. Фенерокс хоробрий!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/4",
+    "value": "Жодного страху. Тільки сміливість. Списи вперед!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Бій почався. Є спис. Час битви!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/1",
+    "value": "Нападника видно. Є завзяття. Поборемося!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/2",
+    "value": "Йде атака. Спис напоготові. Відбувається бій!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/3",
+    "value": "Початок битви. Не страшно. Фенерокс сміливий!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/4",
+    "value": "Жодного страху. Тільки сміливість. Списи вперед!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "value": "Бій успішний. Не мертвий. Фенерокс переможець!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/1",
+    "value": "Я вижив. Битву виграно. Виснажливий досвід!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/2",
+    "value": "Ворога переможено. Спис міцний. Тепер безпечно?"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/3",
+    "value": "Ворога переможено. Фенерокс сильний. Час перемоги!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "value": "Ворог зник. Не видно. Ворог злякався?"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/1",
+    "value": "Недруг зник. Може втік. Може ховається?"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/2",
+    "value": "Ворог пішов. Певно втік. Фенерокс успішний...?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/0",
+    "value": "Ворог зник. Не видно. Ворог злякався?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/1",
+    "value": "Недруг зник. Може втік. Може ховається?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/2",
+    "value": "Ворог пішов. Певно втік. Фенерокс успішний...?"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/0",
+    "value": "Недруг далеко. Не дістати. Спис короткий!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/1",
+    "value": "Не дістати. Досить здивований. Ворог далеко!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/0",
+    "value": "Фенерокс підтримує. Надає підтримку. Виграй битву!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/1",
+    "value": "Завзятий помічник. Надає поради. Виграй бій!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/2",
+    "value": "Є завзяття. Надаю підтримку. Виграй бій!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/0",
+    "value": "Немає зброї. Досить беззахисний. Під атакою!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/1",
+    "value": "Не озброєний. Атакують. Потрібна допомога!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/2",
+    "value": "Досить вразливий. Під загрозою. Треба тікати!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/3",
+    "value": "У небезпеці. Боляче. Треба бігти!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpthem/default/default/0",
+    "value": "Бачу напад. Не можу допомогти. Потрібна допомога!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpthem/default/default/1",
+    "value": "Відбувається напад. Не озброєний. Допоможіть хтось!"
+  },
+  {
+    "op": "replace",
+    "path": "/encourage/default/default/0",
+    "value": "Фенерокс підтримує. Надає підтримку. Виграй битву!"
+  },
+  {
+    "op": "replace",
+    "path": "/encourage/default/default/1",
+    "value": "Завзятий помічник. Надає поради. Виграй бій!"
+  },
+  {
+    "op": "replace",
+    "path": "/encourage/default/default/2",
+    "value": "Є завзяття. Надаю підтримку. Виграй бій!"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/0",
+    "value": "Небезпека минула. Відчуваю виснаження. Страшний досвід!"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/1",
+    "value": "Небезпека минула. Пережив сутичку. Досі трясе!"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/2",
+    "value": "Небезпека минула. Не мертвий. Хороший результат!"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/3",
+    "value": "Не мертвий. Небезпека минула. Потрібен відпочинок!"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Клепана металева стінка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Металеві перила"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Безпечний. Ця металева стіна була посилена міцними болтами."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Міцний металевий болт."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Міцна на вигляд стіна з металу."
+  }
+]

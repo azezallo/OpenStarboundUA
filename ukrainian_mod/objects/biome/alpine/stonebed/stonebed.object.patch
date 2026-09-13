@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ліжко з бруківки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кам'яне ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тверде ліжко, я спав на гірших."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Важко влаштувати гніздо."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Кам'яне ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "роздратований. Я міг би подряпати свою фарбу, сплячи тут."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це ліжко виглядає не дуже зручно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Жорстка постіль - суворі сни."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це ліжко зроблено з каміння. Незручно."
+  }
+]

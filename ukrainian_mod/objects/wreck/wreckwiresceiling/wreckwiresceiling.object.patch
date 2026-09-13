@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стара проводка, розірвана."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зруйновані висячі дроти"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Обірвані дроти."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пошкоджена проводка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пошкоджені дроти, як мідна лоза."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "хвилювався. Сподіваюся, ці дроти не під напругою."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Оголені дроти! Це виглядає небезпечно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ослаблені дроти вирвані з корпусу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Купа зламаних проводів."
+  }
+]

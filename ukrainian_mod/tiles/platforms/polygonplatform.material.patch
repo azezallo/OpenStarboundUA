@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Багатокутна платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A smooth platform made from \"Hard Light\"."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Interested. A platform made from \"Hard Light\"."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Thisss platform humsss with energy."
+  }
+]

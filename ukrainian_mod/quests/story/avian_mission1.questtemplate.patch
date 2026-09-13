@@ -1,0 +1,207 @@
+[
+  {
+    "value": "Знайди підказки про місцезнаходження артефакту авіан",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Наступні, думаю, ^orange;авіани^reset;! Мабуть, найкраще буде ^green;відправитися на планети, де вдосталь ^orange;джунглів^white; - авіани люблять мешкати в таких місцях. Ти знайдеш такі планети навколо ^orange;радіоактивних зірок^white;. До зустрічі, любе. Будь обережним і вдалого полювання!",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "З цією останньою підказкою ми маємо все необхідне, щоб знайти артефакт авіан! Дякую за всю цю важку роботу.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Скануй об'єкти^reset;, щоб знайти ^orange;підказки авіан^reset;",
+    "path": "/scriptConfig/descriptions/findClues",
+    "op": "replace"
+  },
+  {
+    "value": "Повернися до ^orange;Естер^reset; на ^orange;Ковчег^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmap1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це схоже на стародавнє зображення зоряної карти. Можливо, воно вказує місце розташування чогось важливого?",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmap1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmural1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Цей розпис описує великий небесний скарб... Описи артефакту авіан легко могли б бути виражені в таких термінах.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmural1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmural2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ця фреска стародавня і розкриває таємниці, які давно були втрачені.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexmural2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Яка дивна статуя. А напис на підставці ще більш інтригуючий, ніж саме зображення. Диявол криється в деталях, любе.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Незвичайне зображення Клуекса, а супровідний опис дивний і багатообіцяючий!",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Хммм, як цікаво... Мені потрібно перевірити це з іншими даними.",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво. Це безумовно вплине на мої дослідження.",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Авіани мають дивовижні стосунки зі своїм богом. Ці маленькі підказки натякають на більшу правду.",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Підказка невеликого значення, але тим не менш актуальна!",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це чудово, все, що ти знаходиш, сприяє формуванню теорії.",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Минуле сповнене таємниць, які волають про розкриття. Гарна знахідка, любе!",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ти б здивувався, як сильно допомагають дрібниці!",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Де б авіани далекого минулого зберігали щось цінне? Вибач, любе, просто мислю вголос!",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Навіть найменший доказ може допомогти розкрити найвеличніші таємниці всесвіту.",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ця підказка натякає на приховану інформацію.",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/startWithProgress/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Здається, ти вже знайшов деякі предмети, які дають підказки щодо місцезнаходження артефакту. Я почну їх аналіз, поки ти шукатимеш інші!",
+    "path": "/scriptConfig/radioMessages/startWithProgress/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ти справжній колекціонер авіанських старожитностей! Здається, ти вже знайшов достатньо підказок, щоб дозволити мені визначити місце розташування Артефакту!",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/complete/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Великий Суверенний Храм... Це має бути він! Це вся необхідна нам інформація. ^#71f2f6;Повертайся до Ковчега, коли будеш готовий^white;, любе.",
+    "path": "/scriptConfig/radioMessages/complete/text",
+    "op": "replace"
+  }
+]

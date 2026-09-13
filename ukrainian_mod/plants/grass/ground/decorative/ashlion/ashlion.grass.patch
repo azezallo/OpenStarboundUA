@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Попелястий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Попелястий."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Burny flower."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Попелястий."
+  }
+]

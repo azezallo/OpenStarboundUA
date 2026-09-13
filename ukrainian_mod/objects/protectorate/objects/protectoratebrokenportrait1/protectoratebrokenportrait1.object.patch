@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зламана фоторамка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зламана фоторамка Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця фоторамка повністю зламана."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Зруйнована фоторамка, а також єдиного великого захисника птахів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Рама зламана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. Зламана фоторамка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мабуть, ця фоторамка впала."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Впала фоторамка. Нищівний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "А потім було четверо."
+  }
+]

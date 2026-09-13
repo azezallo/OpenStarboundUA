@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Діртурчин, фарширований перловкою. Смак якийсь м'який..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фарширований Dirturchin"
+  }
+]

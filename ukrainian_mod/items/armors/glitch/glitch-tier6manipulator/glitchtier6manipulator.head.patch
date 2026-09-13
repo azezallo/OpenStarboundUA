@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ваші вороги зіщуляться під сяйвом цього шестиокого шолома."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом тамплієра"
+  }
+]

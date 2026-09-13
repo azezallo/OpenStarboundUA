@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потужне енергетичне лезо для прорізання... Майже всього."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Механічна рука Energy Blade"
+  }
+]

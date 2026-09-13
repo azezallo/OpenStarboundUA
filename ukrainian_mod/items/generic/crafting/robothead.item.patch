@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Голова робота з живим мозком!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Голова робота"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnOk/caption",
+    "value": "Добре"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelError/value",
+    "value": "Помилка"
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "value": "Злий ",
+    "path": "/prefix/0",
+    "op": "replace"
+  },
+  {
+    "value": "Буйний ",
+    "path": "/prefix/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хитрий ",
+    "path": "/prefix/2",
+    "op": "replace"
+  },
+  {
+    "value": "Швидкий ",
+    "path": "/prefix/3",
+    "op": "replace"
+  },
+  {
+    "value": "Тіньовий ",
+    "path": "/prefix/4",
+    "op": "replace"
+  },
+  {
+    "value": "Поганий ",
+    "path": "/prefix/5",
+    "op": "replace"
+  },
+  {
+    "value": "Гнилий ",
+    "path": "/prefix/6",
+    "op": "replace"
+  },
+  {
+    "value": "Слизький ",
+    "path": "/prefix/7",
+    "op": "replace"
+  },
+  {
+    "value": "Вбивчий ",
+    "path": "/prefix/8",
+    "op": "replace"
+  },
+  {
+    "value": "Кричущий ",
+    "path": "/prefix/9",
+    "op": "replace"
+  },
+  {
+    "value": "Снайперський ",
+    "path": "/prefix/10",
+    "op": "replace"
+  },
+  {
+    "value": "Лихий ",
+    "path": "/prefix/11",
+    "op": "replace"
+  },
+  {
+    "value": "Брудний ",
+    "path": "/prefix/12",
+    "op": "replace"
+  },
+  {
+    "value": "Тихий ",
+    "path": "/prefix/13",
+    "op": "replace"
+  },
+  {
+    "value": "Спритний ",
+    "path": "/prefix/14",
+    "op": "replace"
+  },
+  {
+    "value": "Штормовий ",
+    "path": "/prefix/15",
+    "op": "replace"
+  },
+  {
+    "value": "Двоствольний ",
+    "path": "/prefix/16",
+    "op": "replace"
+  },
+  {
+    "value": "Підступний ",
+    "path": "/prefix/17",
+    "op": "replace"
+  },
+  {
+    "value": "Гладенький ",
+    "path": "/prefix/18",
+    "op": "replace"
+  },
+  {
+    "value": "Головний ",
+    "path": "/prefix/19",
+    "op": "replace"
+  },
+  {
+    "value": "Запальний ",
+    "path": "/prefix/20",
+    "op": "replace"
+  },
+  {
+    "value": "Стрілецький ",
+    "path": "/prefix/21",
+    "op": "replace"
+  },
+  {
+    "value": "Хаотичний ",
+    "path": "/prefix/22",
+    "op": "replace"
+  },
+  {
+    "value": "Похмурий ",
+    "path": "/prefix/23",
+    "op": "replace"
+  },
+  {
+    "value": "Швидкий ",
+    "path": "/prefix/24",
+    "op": "replace"
+  },
+  {
+    "value": "Помірний ",
+    "path": "/prefix/25",
+    "op": "replace"
+  },
+  {
+    "value": "Великий ",
+    "path": "/prefix/26",
+    "op": "replace"
+  },
+  {
+    "value": "Крихітний ",
+    "path": "/prefix/27",
+    "op": "replace"
+  },
+  {
+    "value": "Генерал ",
+    "path": "/prefix/28",
+    "op": "replace"
+  },
+  {
+    "value": "Доктор ",
+    "path": "/prefix/29",
+    "op": "replace"
+  },
+  {
+    "value": "Професор ",
+    "path": "/prefix/30",
+    "op": "replace"
+  },
+  {
+    "value": "Капітан ",
+    "path": "/prefix/31",
+    "op": "replace"
+  },
+  {
+    "value": "Веселий ",
+    "path": "/prefix/32",
+    "op": "replace"
+  },
+  {
+    "value": "Майстер ",
+    "path": "/prefix/33",
+    "op": "replace"
+  },
+  {
+    "value": "Великий ",
+    "path": "/prefix/34",
+    "op": "replace"
+  },
+  {
+    "value": "Рожевий ",
+    "path": "/prefix/35",
+    "op": "replace"
+  },
+  {
+    "value": "Грубий ",
+    "path": "/prefix/36",
+    "op": "replace"
+  },
+  {
+    "value": "Ріжучий ",
+    "path": "/prefix/37",
+    "op": "replace"
+  },
+  {
+    "value": "Самотній ",
+    "path": "/prefix/38",
+    "op": "replace"
+  },
+  {
+    "value": "Оригінальний ",
+    "path": "/prefix/39",
+    "op": "replace"
+  },
+  {
+    "value": "Покращений ",
+    "path": "/prefix/40",
+    "op": "replace"
+  },
+  {
+    "value": "Свіжий ",
+    "path": "/prefix/41",
+    "op": "replace"
+  },
+  {
+    "value": "Небезпечний ",
+    "path": "/prefix/42",
+    "op": "replace"
+  },
+  {
+    "value": "Смішний ",
+    "path": "/prefix/43",
+    "op": "replace"
+  },
+  {
+    "value": "Дворучний ",
+    "path": "/prefix/44",
+    "op": "replace"
+  },
+  {
+    "value": "Швидкостріл ",
+    "path": "/prefix/45",
+    "op": "replace"
+  },
+  {
+    "value": "Турбо ",
+    "path": "/prefix/46",
+    "op": "replace"
+  },
+  {
+    "value": "Крижаний ",
+    "path": "/prefix/47",
+    "op": "replace"
+  },
+  {
+    "value": "Дикий ",
+    "path": "/prefix/48",
+    "op": "replace"
+  },
+  {
+    "value": "Божевільний ",
+    "path": "/prefix/49",
+    "op": "replace"
+  },
+  {
+    "value": "Талановитий ",
+    "path": "/prefix/50",
+    "op": "replace"
+  },
+  {
+    "value": "Радикальний ",
+    "path": "/prefix/51",
+    "op": "replace"
+  },
+  {
+    "value": "Хаотичний ",
+    "path": "/prefix/52",
+    "op": "replace"
+  },
+  {
+    "value": " Калічитель",
+    "path": "/suffix/0",
+    "op": "replace"
+  },
+  {
+    "value": " Добрий",
+    "path": "/suffix/1",
+    "op": "replace"
+  },
+  {
+    "value": " Поганий",
+    "path": "/suffix/2",
+    "op": "replace"
+  },
+  {
+    "value": " Потворний",
+    "path": "/suffix/3",
+    "op": "replace"
+  },
+  {
+    "value": " Дивний",
+    "path": "/suffix/4",
+    "op": "replace"
+  },
+  {
+    "value": " Ремонтник",
+    "path": "/suffix/5",
+    "op": "replace"
+  },
+  {
+    "value": " Горобець",
+    "path": "/suffix/6",
+    "op": "replace"
+  },
+  {
+    "value": " Стукач",
+    "path": "/suffix/7",
+    "op": "replace"
+  },
+  {
+    "value": " Малюк",
+    "path": "/suffix/8",
+    "op": "replace"
+  },
+  {
+    "value": " Тінь",
+    "path": "/suffix/9",
+    "op": "replace"
+  },
+  {
+    "value": " Великий",
+    "path": "/suffix/10",
+    "op": "replace"
+  },
+  {
+    "value": " Щур",
+    "path": "/suffix/11",
+    "op": "replace"
+  },
+  {
+    "value": " Стукач",
+    "path": "/suffix/12",
+    "op": "replace"
+  },
+  {
+    "value": " Звірюка",
+    "path": "/suffix/13",
+    "op": "replace"
+  },
+  {
+    "value": " Придурок",
+    "path": "/suffix/14",
+    "op": "replace"
+  },
+  {
+    "value": " Машина",
+    "path": "/suffix/15",
+    "op": "replace"
+  },
+  {
+    "value": " Загадка",
+    "path": "/suffix/16",
+    "op": "replace"
+  },
+  {
+    "value": " Снайпер",
+    "path": "/suffix/17",
+    "op": "replace"
+  },
+  {
+    "value": " Фронтмен",
+    "path": "/suffix/18",
+    "op": "replace"
+  },
+  {
+    "value": " Шоустоппер",
+    "path": "/suffix/19",
+    "op": "replace"
+  },
+  {
+    "value": " Розбійник",
+    "path": "/suffix/20",
+    "op": "replace"
+  },
+  {
+    "value": " Хакер",
+    "path": "/suffix/21",
+    "op": "replace"
+  },
+  {
+    "value": " Оператор",
+    "path": "/suffix/22",
+    "op": "replace"
+  },
+  {
+    "value": " Силач",
+    "path": "/suffix/23",
+    "op": "replace"
+  },
+  {
+    "value": " Ас",
+    "path": "/suffix/24",
+    "op": "replace"
+  },
+  {
+    "value": " Лис",
+    "path": "/suffix/25",
+    "op": "replace"
+  },
+  {
+    "value": " Слаймз",
+    "path": "/suffix/26",
+    "op": "replace"
+  },
+  {
+    "value": " Гокінс",
+    "path": "/suffix/27",
+    "op": "replace"
+  },
+  {
+    "value": " Мовчун",
+    "path": "/suffix/28",
+    "op": "replace"
+  },
+  {
+    "value": " Молот",
+    "path": "/suffix/29",
+    "op": "replace"
+  },
+  {
+    "value": " Поріз",
+    "path": "/suffix/30",
+    "op": "replace"
+  },
+  {
+    "value": " Грубер",
+    "path": "/suffix/31",
+    "op": "replace"
+  },
+  {
+    "value": " Швидкий",
+    "path": "/suffix/32",
+    "op": "replace"
+  },
+  {
+    "value": " Слизький",
+    "path": "/suffix/33",
+    "op": "replace"
+  },
+  {
+    "value": " Есквайр",
+    "path": "/suffix/34",
+    "op": "replace"
+  },
+  {
+    "value": " Грей",
+    "path": "/suffix/35",
+    "op": "replace"
+  },
+  {
+    "value": " Лектер",
+    "path": "/suffix/36",
+    "op": "replace"
+  },
+  {
+    "value": " Созе",
+    "path": "/suffix/37",
+    "op": "replace"
+  },
+  {
+    "value": " Гайковий ключ",
+    "path": "/suffix/38",
+    "op": "replace"
+  },
+  {
+    "value": " Постріл",
+    "path": "/suffix/39",
+    "op": "replace"
+  },
+  {
+    "value": " Вовк",
+    "path": "/suffix/40",
+    "op": "replace"
+  },
+  {
+    "value": " Хакермен",
+    "path": "/suffix/41",
+    "op": "replace"
+  },
+  {
+    "value": " Джонс",
+    "path": "/suffix/42",
+    "op": "replace"
+  },
+  {
+    "value": " Інкогніто",
+    "path": "/suffix/43",
+    "op": "replace"
+  },
+  {
+    "value": " Кинджал",
+    "path": "/suffix/44",
+    "op": "replace"
+  },
+  {
+    "value": " Хаос",
+    "path": "/suffix/45",
+    "op": "replace"
+  }
+]

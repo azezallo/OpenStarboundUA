@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Коли хочеться відкласти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ігрова консоль Protectorate"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Іноді я знімаю його та граю в ігри зі своїми сусідами по кімнаті."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ах, моя стара ігрова консоль. Я зосередився на своєму навчанні, тому це виглядає трохи запорошеним..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ігри зі стрільбою — це улюблені ігри Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Моя ігрова консоль! Я намагаюся, щоб це не відволікало мене під час іспитів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "О, чувак... Я б хотів пограти в ігри прямо зараз."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Зараз я не можу дозволити собі відволікатися на ігри."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Наполегливо працювати, наполегливо грати. Це те, що ми тут робимо."
+  }
+]

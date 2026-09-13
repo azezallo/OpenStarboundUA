@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Смачна смажена риба у формі палички. Де заварний крем?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рибні пальці"
+  }
+]

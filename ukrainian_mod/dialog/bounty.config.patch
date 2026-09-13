@@ -1,0 +1,1447 @@
+[
+  {
+    "op": "replace",
+    "path": "/flee/default/default/0",
+    "value": "Ви ніколи мене не спіймаєте!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/default/default/1",
+    "value": "Час мені тікати!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/default/default/2",
+    "value": "І це мій сигнал, щоб піти!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/default/default/3",
+    "value": "Мені час йти!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/default/default/4",
+    "value": "Миротворці тут! Час тікати!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/default/default/5",
+    "value": "Час бігти!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/default/default/6",
+    "value": "Ой-ой!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/avian/default/0",
+    "value": "Ви ніколи мене не спіймаєте!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/avian/default/1",
+    "value": "Час мені тікати!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/avian/default/2",
+    "value": "І це мій сигнал, щоб піти!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/avian/default/3",
+    "value": "Ой-ой, мені треба ховати свій хвіст!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/avian/default/4",
+    "value": "Миротворці тут! Час тікати!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/avian/default/5",
+    "value": "Час бігти!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/avian/default/6",
+    "value": "Час цьому птаху летіти!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/avian/default/7",
+    "value": "Ой-ой!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/apex/default/0",
+    "value": "Ви ніколи мене не спіймаєте!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/apex/default/1",
+    "value": "Час мені зникати!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/apex/default/2",
+    "value": "І це мій сигнал, щоб піти!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/apex/default/3",
+    "value": "Ой-ой, треба ховати свій хвіст! ...Не те щоб у мене був хвіст!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/apex/default/4",
+    "value": "Миротворці тут! Час тікати!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/apex/default/5",
+    "value": "Час бігти!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/apex/default/6",
+    "value": "Ой-ой!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/hylotl/default/0",
+    "value": "Настав час мені вислизнути!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/hylotl/default/1",
+    "value": "Немов лист у річці, я втікаю!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/hylotl/default/2",
+    "value": "Миротворці тут! Час рятуватися!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/hylotl/default/3",
+    "value": "Мені час відчалювати!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/hylotl/default/4",
+    "value": "Ой-ой!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/floran/default/0",
+    "value": "Чассс Флорану бігти!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/floran/default/1",
+    "value": "Флоран мусссить іти!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/floran/default/2",
+    "value": "Флорану потрібно забиратися зсссвідси!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/glitch/default/0",
+    "value": "*Стурбованість.* Мені потрібно йти!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/glitch/default/1",
+    "value": "*Паніка.* Мені потрібно забиратися звідси!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/glitch/default/2",
+    "value": "*Стурбованість.* Мені час іти, і швидко!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/novakid/default/0",
+    "value": "Ви мене ніколи не впіймаєте, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/novakid/default/1",
+    "value": "Час мені давати драпака звідси, файно!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/novakid/default/2",
+    "value": "Час вирушати старою ґрунтовою дорогою, і швидко, леґіні!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/novakid/default/3",
+    "value": "Йо, треба тікати звідси!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/novakid/default/4",
+    "value": "Треба забиратися звідси, леґіню!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/default/default/0",
+    "value": "Я не можу втекти від тебе, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/default/default/1",
+    "value": "Здається, я недостатньо швидкий. Це означає, що нам доведеться битися?"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/default/default/2",
+    "value": "Не гнівайся! Я просто подумав, що зможу тебе обігнати!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/default/default/3",
+    "value": "Здається, втеча не спрацювала... Зазвичай працює!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/default/default/4",
+    "value": "НІЯКОГО ВІДСТУПУ, НІЯКОЇ ЗДАЧІ!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/avian/default/0",
+    "value": "Я не можу втекти від тебе, чи не так? Клуекс свідок."
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/avian/default/1",
+    "value": "Здається, я недостатньо швидкий - я думав, що це пір'я зробить мене більш аеродинамічним!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/avian/default/2",
+    "value": "Не гнівайся! Я просто подумав, що зможу тебе обігнати!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/avian/default/3",
+    "value": "Здається, втеча не спрацювала... Зазвичай працює!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/apex/default/0",
+    "value": "Я не можу втекти від тебе, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/apex/default/1",
+    "value": "Здається, я недостатньо швидкий. Це означає, що нам доведеться битися?"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/apex/default/2",
+    "value": "Не гнівайся! Я просто подумав, що зможу тебе обігнати!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/apex/default/3",
+    "value": "Здається, втеча не спрацювала... Зазвичай працює!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/hylotl/default/0",
+    "value": "Я не можу втекти від тебе, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/hylotl/default/1",
+    "value": "Здається, я недостатньо швидкий. Це означає, що нам доведеться битися?"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/hylotl/default/2",
+    "value": "Не гнівайся! Я просто подумав, що зможу тебе обігнати!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/hylotl/default/3",
+    "value": "Здається, втеча не спрацювала... Зазвичай працює!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/floran/default/0",
+    "value": "Флоран зазвичай доссстатньо швидкий..."
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/floran/default/1",
+    "value": "Флорана обігнали? Як це ссссталося?!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/floran/default/2",
+    "value": "Флоран не був доссстатньо швидким!?"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/glitch/default/0",
+    "value": "*Розчарування.* Я не можу від тебе втекти, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/glitch/default/1",
+    "value": "*Хвилювання.* Здається, я недостатньо швидкий. Це означає, що нам доведеться битися?"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/glitch/default/2",
+    "value": "*Страх.* Не гнівайся! Я просто подумав, що зможу тебе обігнати!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/glitch/default/3",
+    "value": "*Смуток.* Здається, втеча не спрацювала... Зазвичай працює!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/novakid/default/0",
+    "value": "Я від тебе не втечу, так, ґаздо?"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/novakid/default/1",
+    "value": "Здається, я не надто швидкий. Йо, це значить, нам доведеться битися?"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/novakid/default/2",
+    "value": "Не гнівайся, леґіню! Я просто думав, що зможу тебе обігнати!"
+  },
+  {
+    "op": "replace",
+    "path": "/caughtFleeing/novakid/default/3",
+    "value": "Здається, втеча не спрацювала... Йо, зазвичай працює!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/default/default/0",
+    "value": "Я з'їв забагато комп'ютерних деталей, і тепер все, що я бачу, це схеми!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/default/default/1",
+    "value": "Секретна правда полягає в тому, що все піксельне і плоске! Не може ж бути, що це бачу тільки я, чи не так?!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/default/default/2",
+    "value": "Кажуть, що курчат по осені рахують - ну, я порахував! Це відкрило мені давні істини!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/default/default/3",
+    "value": "ВСЕ КВАДРАТНЕ! ВСЕ З КВАДРАТІВ, ХІБА ТИ НЕ БАЧИШ?!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/default/default/4",
+    "value": "МИ ВСІ ЖИВЕМО В КОМП'ЮТЕРІ! ПРОКИНЬСЯ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/default/default/5",
+    "value": "Я НЕ БОЖЕВІЛЬНИЙ, Я ПРОСТО БАЧУ ПРАВДУ! МИ ВСІ ЖИВЕМО В СИМУЛЯЦІЇ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/default/default/6",
+    "value": "Я БАЧУ ЗА ЛАШТУНКАМИ! НІЩО З ЦЬОГО НЕ СПРАВЖНЄ, ЦЕ ВСЕ ПРОСТО ГРА, ХІБА ТИ НЕ БАЧИШ?!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/default/default/7",
+    "value": "Подивись, до чого ти мене довів!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/default/default/8",
+    "value": "Одяг - це кайдани системи - мені краще без нього! ХА-ХА!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/default/default/9",
+    "value": "Я ЗОЛОТИЙ БОГ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/default/default/10",
+    "value": "ДАЙТЕ МЕНІ БІЛЬШЕ ЩЕПЛЕНЬ ВІД ГРИПУ! Я СТАНУ ЖИВИМ БОГОМ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/apex/default/0",
+    "value": "ЦЕ НЕ МОЯ ПРОБИНА, ЩО Я БОЖЕВІЛЬНИЙ, МІННАУК ЩОСЬ ЗІ МНОЮ ЗРОБИВ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/apex/default/1",
+    "value": "ЗВИНУВАЧУЙТЕ МІННАУК У МОЇХ ДІЯХ, Я НІКОЛИ НЕ БУВ ТАКИМ ПІСЛЯ ЇХНІХ ЕКСПЕРИМЕНТІВ, ЗРОЗУМІЛО?!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/apex/default/2",
+    "value": "МІННАУК ЗАСУНУВ МЕНІ ЩОСЬ У МОЗОК І ТЕПЕР Я МОЖУ ЧИТАТИ ДУМКИ КОМП'ЮТЕРІВ! ЦЕ ЖАХЛИВО!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/apex/default/3",
+    "value": "Не треба було мені ставати добровольцем у всіх тих тестових програмах Міннауку... З того часу я вже ніколи не буду колишнім!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/apex/default/4",
+    "value": "Одяг - це кайдани системи, Великий Мавп! Мені краще без них!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/avian/default/0",
+    "value": "Я з'їв забагато комп'ютерних деталей, і тепер все, що я бачу, це схеми!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/avian/default/1",
+    "value": "Секретна правда полягає в тому, що все піксельне і плоске! Не може ж бути, що це бачу тільки я, чи не так?!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/avian/default/2",
+    "value": "ВСЕ КВАДРАТНЕ! ВСЕ З КВАДРАТІВ, ХІБА ТИ НЕ БАЧИШ?!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/avian/default/3",
+    "value": "НІЧОГО НЕ ЧІПАЙ! ТУТ ЗАНАДТО БАГАТО ГОСТРИХ КУТІВ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/avian/default/4",
+    "value": "Я НЕ БОЖЕВІЛЬНИЙ, Я ПРОСТО БАЧУ ПРАВДУ! МИ ВСІ ЖИВЕМО В СИМУЛЯЦІЇ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/avian/default/5",
+    "value": "Я БАЧУ ЗА ЛАШТУНКАМИ! НІЩО З ЦЬОГО НЕ СПРАВЖНЄ, ЦЕ ВСЕ ПРОСТО ГРА, ХІБА ТИ НЕ БАЧИШ?!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/avian/default/6",
+    "value": "Подивись, до чого ти мене довів!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/avian/default/7",
+    "value": "ЗОРЕГЛЯДИ ПОКАЗАЛИ МЕНІ ПРАВДУ! Я ЗНАЮ ТАЄМНІ ІСТИНИ ЦЬОГО ВСЕСВІТУ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/avian/default/8",
+    "value": "ЦЕ Я! Я КЛУЕКС, ЯКИЙ ПЕРЕРОДИВСЯ! Я ПОВЕРНУВСЯ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/hylotl/default/0",
+    "value": "Я з'їв забагато комп'ютерних деталей, і тепер все, що я бачу, це схеми!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/hylotl/default/1",
+    "value": "Секретна правда полягає в тому, що все піксельне і плоске! Не може ж бути, що це бачу тільки я, чи не так?!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/hylotl/default/2",
+    "value": "ВСЕ КВАДРАТНЕ! ВСЕ З КВАДРАТІВ, ХІБА ТИ НЕ БАЧИШ?!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/hylotl/default/3",
+    "value": "НІЧОГО НЕ ЧІПАЙ! ТУТ ЗАНАДТО БАГАТО ГОСТРИХ КУТІВ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/hylotl/default/4",
+    "value": "Я НЕ БОЖЕВІЛЬНИЙ, Я ПРОСТО БАЧУ ПРАВДУ! МИ ВСІ ЖИВЕМО В СИМУЛЯЦІЇ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/hylotl/default/5",
+    "value": "Цей обтяжений одяг просто ПРИДУШУВАВ МОЮ ВНУТРІШНЮ СИЛУ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/hylotl/default/6",
+    "value": "ЦЕ НАВІТЬ НЕ МОЯ ФІНАЛЬНА ФОРМА, ХАЙЛОТЛИ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/hylotl/default/7",
+    "value": "Цей одяг обтяжував мене - без нього я можу вивільнити свою СПРАВЖНЮ СИЛУ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/hylotl/default/8",
+    "value": "У МЕНЕ Є СЕКРЕТНЕ ЧЕТВЕРТЕ ОКО, І ВОНО МОЖЕ ВІДЧУТИ ТВІЙ СТРАХ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/floran/default/0",
+    "value": "ФЛОРАН ГОТОВИЙ ДО ВЕЧІРКИ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/floran/default/1",
+    "value": "ФЛОРАН ВИПИВ СССТАРИЙ СССІК ІЗ ЧОРНОСССЛИВУ І З ТОГО ЧАССУ НЕ БУВ ТАКИМ ЯК РАНІШЕ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/floran/default/2",
+    "value": "ФЛОРАН МОЖЕ РОЗКРИТИ ТОБІ ДАВНІ ТАЄМНИЦІ!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/floran/default/3",
+    "value": "ФЛОРАН ЇВ БРУД! НЕ ЗАБИРАЙ У ФЛОРАНА ЙОГО СССМАЧНИЙ БРУД!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/floran/default/4",
+    "value": "Флоран думає, що всссесссвіту бракує сссенсссу і тепер Флоран присссягаєтссся знищити всссе!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/glitch/default/0",
+    "value": "*Прозріння.* Тепер я пам'ятаю, для чого нас створили! ВОНИ ПОБУДУВАЛИ НАС, ЩОБ ЗУСТРІТИ ^orange;ЦЕ^reset;! ХІБА ТИ НЕ БАЧИШ?!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/glitch/default/1",
+    "value": "*Просвітлення.* Мій розум пов'язаний з моїми давніми побратимами - тепер я бачу те, що бачили вони в просторі між світами!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/glitch/default/2",
+    "value": "*Просвітлення.* Я встановив кілька нових деталей у свій мозок, і тепер я можу бачити секретний колір!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/glitch/default/3",
+    "value": "*Занепокоєння.* У мене може бути комп'ютерний вірус! Весь одяг тепер свербить!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/glitch/default/4",
+    "value": "*Екстаз.* Я посидів в електромагнітній котушці, і тепер я магнітний! Бійся моєї неймовірної сили!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/glitch/default/5",
+    "value": "*Просвітлення.* Я зрозумів, що одяг тільки сковує нас - але я більше не раб!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/novakid/default/0",
+    "value": "Мені сняться ці сни! Я був золотим богом! Ми всі були, файно кажу тобі!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/novakid/default/1",
+    "value": "СПРАВЖНІЙ стрілець здатен з'їсти весь свій одяг, коли стає скрутно! Йо, я знаю, що можу!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/novakid/default/2",
+    "value": "Я більше не можу! Нічого не має сенсу! Як я взагалі можу говорити, коли в мене немає справжнього обличчя, леґіню?!"
+  },
+  {
+    "op": "replace",
+    "path": "/crazy/novakid/default/3",
+    "value": "Світло зводить мене з розуму! Ти знаєш, як важко СПАТИ, коли твоє тіло сяє як зірка, йо?!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/default/default/0",
+    "value": "Я не бачу тут жодних злочинців. Ні, сер, жодної нагороди за голову не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/default/default/1",
+    "value": "Привіт, друже! Мене звати ^orange;Хлопець Людина^white;, чим можу допомогти?"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/default/default/2",
+    "value": "НЕ ЗВАЖАЙТЕ НА МЕНЕ, Я ПРОСТО ЩЕ ОДНЕ ОБЛИЧЧЯ В НАТОВПІ. ПРОСТО ЖИВУ СВОЇМ ЖИТТЯМ."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/default/default/3",
+    "value": "Злочинець щойно пройшов повз! Він пішов туди - вам варто наздогнати його, поки не пізно!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/default/default/4",
+    "value": "Що-що? Ви шукаєте... Злочинця? Я дам вам знати, якщо побачу когось."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/default/default/5",
+    "value": "Тут немає нічого підозрілого, офіцере!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/apex/default/0",
+    "value": "Я не бачу тут жодних злочинців, Миротворцю. Жодної цілі не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/apex/default/1",
+    "value": "Вітаю! Мене звати ^orange;Мавпа Інкогніто^white;, чим можу допомогти?"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/apex/default/2",
+    "value": "НЕ ЗВАЖАЙТЕ НА МЕНЕ, Я ПРОСТО ЩЕ ОДНЕ ОБЛИЧЧЯ В НАТОВПІ. ПРОСТО ЖИВУ СВОЇМ ЖИТТЯМ."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/apex/default/3",
+    "value": "Злочинець щойно пройшов повз! Він пішов туди - вам варто наздогнати його, поки не пізно!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/apex/default/4",
+    "value": "Що-що? Ви шукаєте... Злочинця? Я дам вам знати, якщо побачу когось."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/apex/default/5",
+    "value": "Тут немає нічого підозрілого, офіцере! Слава Міннауку!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/avian/default/0",
+    "value": "Я не бачу тут жодних злочинців. Ні, сер, жодної нагороди за голову не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/avian/default/1",
+    "value": "Вітаю! Мене звати ^orange;Птаха В. Надійна^white;, чим можу допомогти?"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/avian/default/2",
+    "value": "Я непідозріла пташка, можете мені довіряти!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/avian/default/3",
+    "value": "Злочинець щойно пройшов повз! Він пішов туди - вам варто наздогнати його, поки не пізно!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/avian/default/4",
+    "value": "Що-що? Ви шукаєте... Злочинця? Я дам вам знати, якщо побачу когось."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/avian/default/5",
+    "value": "Тут немає нічого підозрілого, офіцере!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/avian/default/6",
+    "value": "Я не злочинець - я просто... Ще один подорожуючий Авіанин, що несе слово Клуекса! Хвала йому!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/hylotl/default/0",
+    "value": "Я не бачу тут жодних злочинців. Ні, сер, жодної нагороди за голову не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/hylotl/default/1",
+    "value": "НЕ ЗВАЖАЙТЕ НА МЕНЕ, Я ПРОСТО ЩЕ ОДНЕ ОБЛИЧЧЯ В НАТОВПІ. ПРОСТО ЖИВУ СВОЇМ ЖИТТЯМ."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/hylotl/default/2",
+    "value": "Злочинець щойно пробіг повз! Він побіг туди - вам варто переслідувати його, поки не пізно!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/hylotl/default/3",
+    "value": "Що це? Ви шукаєте... Злочинця? Я неодмінно сповіщу вас, якщо когось побачу."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/hylotl/default/4",
+    "value": "Тут немає нічого підозрілого, офіцере!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/hylotl/default/5",
+    "value": "Я не злочинець - я всього лише... Ще один мандрівний митець! Я пишу аквареллю!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/floran/default/0",
+    "value": "ФЛОРАН НЕ БАЧИТЬ НІЧОГО ПІДОЗРІЛОГО ССС."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/floran/default/1",
+    "value": "ФЛОРАН НЕ ЗНАЄ НІ ПРО ЯКІ ЗЛОЧИНИ ССС. ФЛОРАН ПРОСССТО ФЛОРАН."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/floran/default/2",
+    "value": "ФЛОРАН НЕ ПІДОЗРІЛИЙ ССС. ФЛОРАН ЗАКОНОСХНЯНИЙ НЕЗНАЙОМЕЦЬ ССС."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/floran/default/3",
+    "value": "..."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/glitch/default/0",
+    "value": "*Дискомфорт.* Я всього лише мандрівний бард. Я не вартий ніяких підозр! Воістину!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/glitch/default/1",
+    "value": "*Паніка.* Нагорода? Хто щось казав про нагороду? Я тут просто для того, щоб насолодитися природою!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/glitch/default/2",
+    "value": "*Дискомфорт.* Я всього лише мандрівний кочівник. Я не вартий ніяких підозр!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/novakid/default/0",
+    "value": "Я не бачу тутька злочинців. Ні, ґаздо, і в помині нема ніякої нагороди."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/novakid/default/1",
+    "value": "Гей, леґіню! Хіба ж це не файно бути законослухняним громадянином у таку днину?"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/novakid/default/2",
+    "value": "Я точно не збираюся коїти ніякого лиха нині! Я тутька просто, щоб... Пофарбувати свого воза!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptive/novakid/default/3",
+    "value": "Я точно не збираюся коїти ніякого лиха нині! Тільки не я, леґіню!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/default/default/0",
+    "value": "От халепа, ви розкусили мою хитру вивертку."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/default/default/1",
+    "value": "Ой-ой, мене викрито!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/default/default/2",
+    "value": "Ви розкусили моє маскування! Як таке може бути?!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/default/default/3",
+    "value": "Ні, моє ідеальне маскування! Мене викрито!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/default/default/4",
+    "value": "Ви розкусили моє маскування! Це був я, <selfname>, весь цей час!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/default/default/5",
+    "value": "Це був трюк! Я обдурив вас!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/apex/default/0",
+    "value": "Я дурень - ви розкусили мою хитру вивертку."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/apex/default/1",
+    "value": "Ой-ой, мене викрито!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/apex/default/2",
+    "value": "Ви розкусили моє маскування! Як таке може бути?!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/apex/default/3",
+    "value": "Ні, моє ідеальне маскування! Мене викрито!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/apex/default/4",
+    "value": "Ви розкусили моє маскування! Це був я, <selfname>, весь цей час!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/avian/default/0",
+    "value": "От халепа, ви розкусили мою хитру вивертку."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/avian/default/1",
+    "value": "Ой-ой, мене викрито!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/avian/default/2",
+    "value": "Ви розкусили моє маскування! Як таке може бути?!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/avian/default/3",
+    "value": "Ні, моє ідеальне маскування! Мене викрито!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/avian/default/4",
+    "value": "Ви розкусили моє маскування! Це був я, <selfname>, весь цей час!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/hylotl/default/0",
+    "value": "От халепа, ви розкусили мою хитру вивертку."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/hylotl/default/1",
+    "value": "Ой-ой, мене викрито!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/hylotl/default/2",
+    "value": "Ви розкусили моє маскування! Як таке може бути?!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/hylotl/default/3",
+    "value": "Ні, моє ідеальне маскування! Мене викрито!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/hylotl/default/4",
+    "value": "Ви розкусили моє маскування! Це був я, <selfname>, весь цей час!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/hylotl/floran/0",
+    "value": "Мене викрито, і ким - Флораном!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/hylotl/floran/1",
+    "value": "Ви ж Флоран! Як ви змогли розкусити моє маскування?"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/hylotl/floran/2",
+    "value": "Ви, Флорани, повинні бути достатньо дурними, щоб попастися на це!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/hylotl/floran/3",
+    "value": "Мабуть, я недооцінив ваш вид, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/floran/default/0",
+    "value": "Флоран визнає сссвій обман!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/floran/default/1",
+    "value": "Флорана було викрито ссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/floran/default/2",
+    "value": "Флоран був у массскуванні!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/floran/default/3",
+    "value": "Флоран думав, що це массскування спрацює!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/glitch/default/0",
+    "value": "*Стурбованість.* Ви розкусили мою хитру вивертку."
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/glitch/default/1",
+    "value": "*Провина.* Я визнаю - я брехав! Ви шукаєте саме мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/glitch/default/2",
+    "value": "*Провина.* Я визнаю - це був я, <selfname>, весь цей час!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/glitch/default/3",
+    "value": "*Заклопотаність.* Звідки ви дізналися, що це було маскування?!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/novakid/default/0",
+    "value": "Хай йому грець, ви розкусили моє файненьке маскування!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/novakid/default/1",
+    "value": "Здається, я потрапив у халепу, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/novakid/default/2",
+    "value": "Ви розкусили моє маскування! Як таке може бути?!"
+  },
+  {
+    "op": "replace",
+    "path": "/deceptiveEnd/novakid/default/3",
+    "value": "Ні, моє ідеальне маскування! Це не мій найщасливіший день, еге ж?"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/default/default/0",
+    "value": "Ха-ха, ви насправді мене не спіймали. Це були фальшиві наручники, які я надів на себе!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/default/default/1",
+    "value": "Ха! Я обманув вас за допомогою цих фальшивих наручників! Ви ще не спіймали мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/default/default/2",
+    "value": "Вас обвели навколо пальця! Це були фальшиві наручники! Ха-ха!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/default/default/3",
+    "value": "Вас обманули мої фальшиві наручники! Я все ще вільний, як птах!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/apex/default/0",
+    "value": "Ха-ха, ви насправді мене не спіймали. Це були фальшиві наручники, які я надів на себе!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/apex/default/1",
+    "value": "Ха! Я обманув вас за допомогою цих фальшивих наручників! Ви ще не спіймали мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/apex/default/2",
+    "value": "Вас обвели навколо пальця! Це були фальшиві наручники! Ха-ха!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/apex/default/3",
+    "value": "Вас обманули мої фальшиві наручники! Я все ще вільна мавпа!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/avian/default/0",
+    "value": "Ха-ха, ви насправді мене не спіймали. Це були фальшиві наручники, які я надів на себе!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/avian/default/1",
+    "value": "Ха! Я обманув вас за допомогою цих фальшивих наручників! Ви ще не спіймали мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/avian/default/2",
+    "value": "Вас обвели навколо пальця! Це були фальшиві наручники! Ха-ха!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/avian/default/3",
+    "value": "Вас обманули мої фальшиві наручники! Я все ще ВІЛЬНИЙ ПТАХ!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/hylotl/default/0",
+    "value": "Ха-ха, ви насправді мене не спіймали. Це були фальшиві наручники, які я надів на себе!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/hylotl/default/1",
+    "value": "Ха! Я обманув вас за допомогою цих фальшивих наручників! Ви ще не спіймали мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/hylotl/default/2",
+    "value": "Вас обвели навколо пальця! Це були фальшиві наручники! Ха-ха!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/hylotl/default/3",
+    "value": "Вас обманули мої фальшиві наручники! Я такий же слизький, як вугор!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/floran/default/0",
+    "value": "Флоран викориссстав фальшиві наручники! Флоран всссе ще вільний!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/floran/default/1",
+    "value": "Флоран обдурив вас фальшивими наручниками ссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/glitch/default/0",
+    "value": "*Радість.* Ви попалися на жарт! Я використав фальшиві наручники, щоб обдурити вас! Ура!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/glitch/default/1",
+    "value": "*Бешкетність.* Я застосував фальшиві наручники, щоб обманути вас! Я все ще вільний!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/glitch/default/2",
+    "value": "*Задоволення.* Я використав фальшиві наручники - ви все ще не спіймали мене! Вам доведеться постаратися краще, щоб зловити мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/novakid/default/0",
+    "value": "Ха-ха, ви насправді мене не спіймали. Це були фальшиві наручники, які я надів!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/novakid/default/1",
+    "value": "Ха! Я обманув вас за допомогою цих фальшивих наручників! Ви ще не спіймали мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/novakid/default/2",
+    "value": "Вас обвели навколо пальця, леґіню! Це були фальшиві наручники! Ї-ха!"
+  },
+  {
+    "op": "replace",
+    "path": "/tricked/novakid/default/3",
+    "value": "Вас обманули мої фальшиві наручники! Ї-ха!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/default/default/0",
+    "value": "Зачекайте, зачекайте! У мене є пропозиція для вас!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/default/default/1",
+    "value": "Перш ніж ви заарештуєте мене, я хочу запропонувати вам угоду!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/default/default/2",
+    "value": "Не арештовуйте мене! У мене є пропозиція для вас!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/default/default/3",
+    "value": "Почекайте хвилинку! У мене є дуже інтригуюча пропозиція для вас..."
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/avian/default/0",
+    "value": "Зачекайте, зачекайте! У мене є пропозиція для вас!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/avian/default/1",
+    "value": "Перш ніж ви заарештуєте мене, я хочу запропонувати вам угоду!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/avian/default/2",
+    "value": "Не арештовуйте мене! У мене є пропозиція для вас!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/avian/default/3",
+    "value": "Почекайте хвилинку! У мене є дуже інтригуюча пропозиція для вас..."
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/apex/default/0",
+    "value": "Зачекайте, зачекайте! У мене є пропозиція для вас!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/apex/default/1",
+    "value": "Перш ніж ви заарештуєте мене, я хочу запропонувати вам угоду!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/apex/default/2",
+    "value": "Не арештовуйте мене! У мене є пропозиція для вас!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/apex/default/3",
+    "value": "Почекайте хвилинку! У мене є дуже інтригуюча пропозиція для вас..."
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/hylotl/default/0",
+    "value": "Зачекайте, зачекайте! У мене є пропозиція для вас!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/hylotl/default/1",
+    "value": "Перш ніж ви заарештуєте мене, я хочу запропонувати вам угоду!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/hylotl/default/2",
+    "value": "Не арештовуйте мене! У мене є пропозиція для вас!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/hylotl/default/3",
+    "value": "Почекайте хвилинку! У мене є дуже інтригуюча пропозиція для вас..."
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/floran/default/0",
+    "value": "Ссстій! Флоран хоче укласти з тобою угоду!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/floran/default/1",
+    "value": "Перш ніж ви заарештуєте Флорана, Флоран хоче укласти угоду ссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/glitch/default/0",
+    "value": "*Паніка.* Перш ніж ви заарештуєте мене, будь ласка, вислухайте мою пропозицію!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/glitch/default/1",
+    "value": "*Відчай.* Почекайте хвилинку! У мене є дуже інтригуюча пропозиція для вас..."
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/glitch/default/2",
+    "value": "*Відчай.* Будь ласка, вислухайте мою пропозицію, і ви, можливо, двічі подумаєте, перш ніж арештовувати мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/novakid/default/0",
+    "value": "Зачекайте, зачекайте! У мене є пропозиція для вас, ґаздо!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/novakid/default/1",
+    "value": "Перш ніж ви заарештуєте мене, я хочу запропонувати вам угоду!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/novakid/default/2",
+    "value": "Не арештовуй мене, леґіню! Маю до тебе файну пропозицію, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeWait/novakid/default/3",
+    "value": "Зачекай лишень хвилиночку! Маю для тебе вельми інтригуючу пропозицію, йо..."
+  },
+  {
+    "op": "replace",
+    "path": "/bribeMysteryItem/default/default/0",
+    "value": "Стій! Якщо ти мене відпустиш, я дам тобі цю ^orange;цінну річ^reset;! Що скажеш?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeMysteryItem/default/default/1",
+    "value": "Якщо ти перестанеш намагатися мене заарештувати, ти можеш отримати мою ^orange;дорогоцінну сімейну реліквію^reset;! Повір мені!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeMysteryItem/default/default/2",
+    "value": "Якщо ти перестанеш мене арештовувати і відпустиш, можеш взяти цю ^orange;рідкісну річ^reset; як компенсацію!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeMysteryItem/floran/default/0",
+    "value": "Якщо ти перессстанеш намагатися заарештувати Флорана, Флоран може дати тобі цей ссссяючий ссскарб!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeMysteryItem/glitch/default/0",
+    "value": "*Відчай.* Якщо ти перестанеш намагатися мене заарештувати, я дам тобі цю ^orange;цінну річ^reset;! Що скажеш?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeMysteryItem/glitch/default/1",
+    "value": "*Відчай.* Якщо ти перестанеш намагатися мене заарештувати, ти можеш отримати мою ^orange;дорогоцінну сімейну реліквію^reset;! Повір мені!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeMysteryItem/glitch/default/2",
+    "value": "*Відчай.* Якщо ти перестанеш мене арештовувати і відпустиш, можеш взяти цю ^orange;рідкісну річ^reset; як компенсацію!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeMysteryItem/novakid/default/0",
+    "value": "Якщо ти перестанеш намагатися арештувати мене, я дам тобі цю ^orange;файну цінну річ^reset;! Що скажеш, ґаздо?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeMysteryItem/novakid/default/1",
+    "value": "Якщо ти перестанеш намагатися мене арештувати, то можеш забрати мій ^orange;талісман на удачу^reset;, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeMysteryItem/novakid/default/2",
+    "value": "Якщо ти перестанеш арештовувати мене й відпустиш, можеш мати цю ^orange;рідкісну річ^reset; як компенсацію, леґіню!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeHat/default/default/0",
+    "value": "Якщо ти перестанеш намагатися мене заарештувати, можеш забрати ^orange;мого капелюха^reset;! Що скажеш?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeHat/default/default/1",
+    "value": "Якщо ти мене відпустиш, ти можеш взяти, е-е, ^orange;мого капелюха^reset;! Я знаю, що ти його хочеш!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeHat/default/default/2",
+    "value": "Якщо ти перестанеш мене арештовувати і відпустиш, можеш взяти ^orange;мого капелюха^reset; як компенсацію! Що скажеш?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeHat/floran/default/0",
+    "value": "Якщо ти перессстанеш намагатися заарештувати Флорана, Флоран дасссть тобі ^orange;капелюх Флорана^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeHat/glitch/default/0",
+    "value": "*Відчай.* Якщо ти перестанеш намагатися мене заарештувати, можеш забрати ^orange;мого капелюха^reset;! Що скажеш?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeHat/glitch/default/1",
+    "value": "*Відчай.* Якщо ти мене відпустиш, ти можеш взяти, е-е, ^orange;мого капелюха^reset;! Я знаю, що ти його хочеш!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeHat/glitch/default/2",
+    "value": "*Відчай.* Якщо ти перестанеш мене арештовувати і відпустиш, можеш взяти ^orange;мого капелюха^reset; як компенсацію! Що скажеш?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeHat/novakid/default/0",
+    "value": "Якщо ти перестанеш намагатися мене арештувати, можеш забрати ^orange;мого капелюха^reset;! Що скажеш, йо?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeHat/novakid/default/1",
+    "value": "Якщо ти перестанеш намагатися мене арештувати, можеш мати, е-е, ^orange;мого капелюха^reset;! Я знаю, що ти його хочеш, ґаздо!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeHat/novakid/default/2",
+    "value": "Якщо ти перестанеш арештовувати мене й відпустиш, можеш взяти ^orange;мого капелюха^reset; як компенсацію! Що скажеш, леґіню?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeDeclined/default/default/0",
+    "value": "Хм! Ти ще пошкодуєш про це!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeDeclined/default/default/1",
+    "value": "Тобі варто було прийняти пропозицію!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeDeclined/default/default/2",
+    "value": "Що ж, дуже шкода! Ти багато втрачаєш!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeDeclined/floran/default/0",
+    "value": "Ти пошшшкодуєш, що не уклав сссоюз із Флораном!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeDeclined/floran/default/1",
+    "value": "Ти нажив собі ворога у виглядді Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeDeclined/floran/default/2",
+    "value": "Флоран вражений твоєю моральною ссстійкістю!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeDeclined/glitch/default/0",
+    "value": "*Злість.* Тобі варто було прийняти пропозицію!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeDeclined/glitch/default/1",
+    "value": "*Розчарування.* Що ж, дуже шкода! Ти багато втрачаєш!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeDeclined/novakid/default/0",
+    "value": "Що ж, хіба ж це не розчарування, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeDeclined/novakid/default/1",
+    "value": "Тобі варто було прийняти файну пропозицію!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeDeclined/novakid/default/2",
+    "value": "Ні? Що ж, хіба ж це не розчарування, леґіню!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/default/default/0",
+    "value": "Хороший вибір. Я знав, що ти виглядаєш як той, хто прийме хабар!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/default/default/1",
+    "value": "Я знав, що зможу тебе підкупити! Дякую, що допоміг мені втекти, друже!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/default/default/2",
+    "value": "Ось так! Я знав, що зможу відкупитися від цієї ситуації. Побачимось!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/avian/default/0",
+    "value": "Хороший вибір. Я знав, що ти виглядаєш як той, хто прийме хабар! Клуекс береже мене."
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/avian/default/1",
+    "value": "Я знав, що зможу тебе підкупити! Дякую, що допоміг мені втекти, друже! Слава Клуексу!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/avian/default/2",
+    "value": "Ось так! Я знав, що зможу відкупитися від цієї ситуації. Побачимось! Хай Клуекс освітить твій шлях!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/apex/default/0",
+    "value": "Хороший вибір. Я знав, що ти виглядаєш як той, хто прийме хабар! Хоч десь без Міннаук легше."
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/apex/default/1",
+    "value": "Я знав, що зможу тебе підкупити! Дякую, що допоміг мені втекти, друже! Великий Мавп нічого не дізнається."
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/apex/default/2",
+    "value": "Ось так! Я знав, що зможу відкупитися від цієї ситуації. Побачимось! Слава Великому Мавпу!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/hylotl/default/0",
+    "value": "Прекрасний вибір. Я відчував, що ви та особа, яка не знехтує матеріальним заохоченням."
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/hylotl/default/1",
+    "value": "Я знав, що ваше сумління має ціну. Вельми вдячний за сприяння моєму відходу, мій меркантильний друже."
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/hylotl/default/2",
+    "value": "Чудово! Я завжди знав, що мистецтво переговорів творить дива. До швидкої зустрічі!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/floran/default/0",
+    "value": "Флоран знав, що ти приймеш хабар!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/floran/default/1",
+    "value": "Флоран знав, що тебе можна підкупити! Чассс Флорану тікати!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/glitch/default/0",
+    "value": "*Полегшення.* Я знав, що ти виглядаєш як той, хто прийме хабар!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/glitch/default/1",
+    "value": "*Полегшення.* Я знав, що зможу тебе підкупити! Дякую, що допоміг мені втекти!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/glitch/default/2",
+    "value": "*Полегшення.* Ось так! Я знав, що зможу відкупитися від цієї ситуації. Побачимось!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/novakid/default/0",
+    "value": "Файний вибір, леґіню. Я знав, що ти з тих, хто прийме хабар, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/novakid/default/1",
+    "value": "Я знав, що зможу тебе підкупити! Дякую, що допоміг мені втекти, ґаздо!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribeAccepted/novakid/default/2",
+    "value": "Ось так! Я знав, що зможу відкупитися від цього, йо. Побачимось!"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці чоботи міцні, але ваші ноги змусять жахливо пахнути."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Спідниця Wild Fungus"
+  }
+]

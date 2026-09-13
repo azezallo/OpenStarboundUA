@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створіть свого власного чарівника!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Wizard Spawner"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Напевно, чарівник міг би просто телепортуватися сюди."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Магія і наука. Який прекрасний союз."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану потрібен чарівник!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Недовіра. Глюки не люблять магію."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Можливо, я стану учнем цього чаклуна."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це породить чарівника чи ще одного шарлатана?"
+  }
+]

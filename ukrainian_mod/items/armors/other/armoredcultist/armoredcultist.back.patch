@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шлея з прикріпленими штучними щупальцями."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Генерал культистів Щупальця"
+  }
+]

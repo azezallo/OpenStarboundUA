@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цих жуків можна побачити танцюючими в сутінках."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Muddancer"
+  }
+]

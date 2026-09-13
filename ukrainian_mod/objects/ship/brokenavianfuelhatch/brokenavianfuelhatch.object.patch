@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зламаний паливний люк FTL. Це не вийде!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зламаний паливний люк FTL"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Перетворює паливо на свободу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Давайте завантажимо його та понесемо до зірок!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Поїхали!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Після заповнення ми можемо відвідати іншу планету."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Паливний люк. Я можу заповнити це та дослідити."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Паливо є джерелом життєвої сили дослідження."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Сюди йде паливо FTL! Коли це буде виправлено..."
+  }
+]

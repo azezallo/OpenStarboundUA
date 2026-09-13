@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зручна пташина лавка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сільська Лавка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця лавка виглядає зручною."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Приземлене ремесло не може бути набагато кращим за це."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Лава дерев'яна sssoft."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Ця лавка виготовлена ​​з більшою майстерністю, ніж більшість інших пташиних меблів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гарна, зручна лавка. Це виглядає добре зроблено."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Незважаючи на хорошу майстерність, цій лавці бракує шарму."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже на зручне місце, де можна трохи відпочити."
+  }
+]

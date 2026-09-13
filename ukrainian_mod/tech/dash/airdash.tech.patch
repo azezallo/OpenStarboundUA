@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тире, яке можна використовувати в повітрі! Зарядка: 0,8 с"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "value": "Повітряний тире"
+  }
+]

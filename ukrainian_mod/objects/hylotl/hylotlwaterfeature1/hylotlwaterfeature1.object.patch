@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей водний елемент ідеально підходить для дому, саду чи міжзоряного додзьо."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційний водограй"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Милий маленький фонтанчик."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей водний об’єкт надзвичайно спокійний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран приймає ванну у фонтані."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Звук водограю заспокоює."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Водний елемент. круто"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дзвінк води, що тече, — музика для моїх вух."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Який гарний фонтан."
+  }
+]

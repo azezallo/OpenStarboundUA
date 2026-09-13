@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Величезний грибний стіл, що світиться. Ідеально підходить для сидіння в темряві."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Світиться стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Якщо ви дуже зголодніли, ви могли з'їсти сам стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей стіл надто яскравий на мій смак."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran rock table під час нарізки м'яса."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засліплений. Цей гігантський стіл, що світиться, переконливо нагадує гриб."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Поїсти тут буде наче чарівний пікнік."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Створений так, щоб нагадувати підземні гриби, цей стіл імітує їх блиск."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Великий підроблений гриб, який можна використовувати як стіл."
+  }
+]

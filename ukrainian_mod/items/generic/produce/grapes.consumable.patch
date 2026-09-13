@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виноград, закуска природи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Виноград"
+  }
+]

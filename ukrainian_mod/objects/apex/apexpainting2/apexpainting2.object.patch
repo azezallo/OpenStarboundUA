@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Портрет миротворця Апекс."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Апекс-портрет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Миротворець. Ці хлопці обміняли б власну матір на милість Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей Apex виглядає щиро щасливим."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сссссусміхнений Апекс."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Що є джерелом щастя цього Apex?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей хлопець посміхається. Цікаво чому?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей Апекс самовдоволено посміхається."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Вершина піднесеного настрою."
+  }
+]

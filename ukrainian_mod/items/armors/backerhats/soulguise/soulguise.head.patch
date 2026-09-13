@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шолом надзвичайної темної сили кличе свого справжнього господаря"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом Soul Guise"
+  }
+]

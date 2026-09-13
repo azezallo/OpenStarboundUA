@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/selectLabel/value",
+    "value": "Колекція"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/emptyLabel/value",
+    "value": "Оберіть колекцію зліва"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "Бібліотека колекцій"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "Каталогізуйте все, що ви бачили та робили!"
+  }
+]

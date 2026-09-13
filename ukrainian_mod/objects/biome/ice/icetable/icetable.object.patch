@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стіл з різьбленого льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крижаний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стіл, висічений з величезної брили льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Великий стіл з льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран ssslice на льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "враховуючи. Було б цікаво побачити, як тут подають гарячу їжу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це той стіл, на який вам не захочеться спиратися ліктями."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Крижаний стіл. Красиво, хоча й непрактично."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Як правило, я, ймовірно, повинен триматися подалі від меблів із льоду."
+  }
+]

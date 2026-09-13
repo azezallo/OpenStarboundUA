@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Моторошний кістяний стіл. Схоже більше на жертовний вівтар. Добре підходить для пікніків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кістковий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "У цього кістяного столу не так багато місця для ніг."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це нагадує мені жертовні вівтарі, про які я волів би забути."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран довго різав м'ясо на столі. Стіл здається готовим."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Поверхня цього столу вкрита слідами ножа. Деякі виглядають досить брутально."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Круто! Жахливий стіл. Саме те, чого я завжди хотів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стіл, народжений смертю. Безсумнівно, тут було спожито багато м’яса."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Більше схоже на моторошний кістяний вівтар."
+  }
+]

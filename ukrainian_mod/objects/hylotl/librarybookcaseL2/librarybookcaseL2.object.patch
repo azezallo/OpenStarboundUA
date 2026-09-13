@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика антикварна книжкова шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Велика вишукана книжкова шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я б пишався володінням такої великої книжкової шафи."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хороша книжкова шафа повна історій."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ще одна книжкова шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Споглядальний. Книжкові шафи навіюють приємні спогади про читання казок про королів і замки Глітча."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це всі поетичні книги?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Справді важливий не розмір, а вміст книжкової шафи."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хто встигає все це прочитати?"
+  }
+]

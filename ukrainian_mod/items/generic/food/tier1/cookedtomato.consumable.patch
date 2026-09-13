@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "М'який, солодкий і соковитий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "варений помідор"
+  }
+]

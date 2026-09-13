@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шафа зі шкіри, натягнута між чотирма великими бивнями."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Величезний примітивний кабінет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Шафа з дубленої шкіри та бивнів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця шафа виготовлена ​​з натягнутої шкіри. Він згинається під час застосування тиску."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану подобається шкіряна шафа. Шафа ssstretch коли повна."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Натхненний. Інноваційний дизайн, шкіра при необхідності розтягується."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сама шафа виготовлена ​​зі шкіри. Класна ідея."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Інноваційний дизайн цієї шафи зіпсований бійнею."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це досить вражаючі бивні для кабінету."
+  }
+]

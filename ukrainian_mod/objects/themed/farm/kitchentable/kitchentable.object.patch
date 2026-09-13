@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сільський кухонний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кухонний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ніяких надмірностей, просто гарно зроблений кухонний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Той, хто зробив цей кухонний стіл, мав на меті, що він прослужить довго."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гарний міцний стіл для важкого м'яса."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Солідний кухонний стіл, який виглядав би як вдома в будь-якому селі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Так, я міг би з’їсти це."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Товсті дошки цього кухонного столу поєднують форму та чудово функціонують."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Нічого особливого, але я сів би за цей столик у будь-який день."
+  }
+]

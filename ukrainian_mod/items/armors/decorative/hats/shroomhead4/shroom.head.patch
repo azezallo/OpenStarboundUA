@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Подивіться на агаранця з цією зяберною капелюшком гриба!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шапка з жабрами Агаран"
+  }
+]

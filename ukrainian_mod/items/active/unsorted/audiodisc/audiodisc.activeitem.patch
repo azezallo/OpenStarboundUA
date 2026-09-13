@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей диск із даними містить аудіофайл. Я повинен це послухати!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Диск із аудіоданими"
+  },
+  {
+    "op": "replace",
+    "path": "/defaultSenderName",
+    "value": "Аудіо журнал"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це зачаровує. Я не можу відвести погляд."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пінгвін бар знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Барна вивіска, що привертає увагу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей барний знак вимагає, щоб на нього витріщилися."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Короткі пташки мають бар."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Це зламано чи це так задумом?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ой, бар! З пінгвінами!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей барний знак не зовсім занижений, але він має шарм."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці шумні птахи тепер знайшли собі бар."
+  }
+]

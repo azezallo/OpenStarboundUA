@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці темні крила виглядають велично і зловісно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крила демона"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пахви трохи потерті, це пальто, мабуть, багато лопалося."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Куртка пілота"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Іржаві старі прогонні балки - не можуть бути надто безпечними."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Горизонтальна іржава балка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Проіржавіла балка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Небезпечна на вигляд балка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Великий метал!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Імовірність обвалення цієї балки висока."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Виглядає абсолютно безпечно для підйому."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Іржава металева балка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Іржава балка."
+  }
+]

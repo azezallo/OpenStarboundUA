@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Не використовуй палець! Цей надійний датчик вказує на наявність рідини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Датчик рідини"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Не використовуй палець! Цей датчик вказує на наявність рідини."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Цей надійний датчик вказує на наявність рідини."
+  }
+]

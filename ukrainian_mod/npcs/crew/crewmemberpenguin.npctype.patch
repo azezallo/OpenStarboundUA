@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "value": "Soldier"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "value": "Security"
+  }
+]

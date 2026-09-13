@@ -1,0 +1,212 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "value": "Мені нічого тобі сказати."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/0",
+    "value": "То яка сьогоднішня місія?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/1",
+    "value": "Дуже добре бути тут, мій друже. Великий Мавп не дістане нас."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/2",
+    "value": "Це справжня свобода від Міннаук. Слава Великому Мавпу... жартую."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/0",
+    "value": "Що у нас заплановано на сьогодні? Клуекс береже."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/1",
+    "value": "Пригоди чекають! В ім'я Клуекса!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/2",
+    "value": "Я ширяю серед зірок, не на пір'ястих крилах, а в компанії друзів."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/3",
+    "value": "То яка наступна місія?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/0",
+    "value": "Флоран любить полювати ссссеред ззззірок."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/1",
+    "value": "Флоран дужжже професссійний!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/2",
+    "value": "Флоран дужжже хоче шшшвидко щосссь шшштрикнути!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/0",
+    "value": "*Завзятість.* У мене так багато заплановано на сьогодні!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/1",
+    "value": "*Захоплення.* Давай виконаємо кілька завдань!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/2",
+    "value": "*Захоплення.* Ще так багато завдань треба виконати!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/3",
+    "value": "*Дружелюбність.* Ти будеш у безпеці, якщо триматимешся поруч зі мною!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/default/0",
+    "value": "Пригоди чекають!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/default/1",
+    "value": "Польоти через космос, потрапляння у халепи... Оце так життя!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/default/2",
+    "value": "Життя на космічному кораблі... Хіба є щось більш захоплююче?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/default/3",
+    "value": "Не хвилюйся, ти будеш у безпеці зі мною!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/default/4",
+    "value": "Що чекає нас далі? Пригоди, інтриги, грабунки? Ні, не грабунки, правда?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/0",
+    "value": "Наше майбутнє не написане, наші долі розпущені серед зірок!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/1",
+    "value": "У битві є поезія. Можливо, Хайлотли незабаром заспівають кілька віршів!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/2",
+    "value": "Ніщо так не заспокоює дух, як подорожі з друзями."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/0",
+    "value": "Йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/1",
+    "value": "Файно бачиш. Як щодо стрілянини між тобою та мною, леґіню?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/2",
+    "value": "Маю добрячу спрагу до стрілянини. Надіюсь, знайдемо якусь пригоду, ґаздо."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/3",
+    "value": "Я в душі бродяча душа, тож це робота якраз для мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/0",
+    "value": "Гей, здоровань! Я збережу тебе в безпеці, не хвилюйся!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/1",
+    "value": "Все добре, здоровань? Потрібна охорона?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/2",
+    "value": "Я народжений і вихований найманець."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/3",
+    "value": "Немає нікого кращого за пінгвіна для безпеки, і немає пінгвіна, який робить це краще за мене."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/4",
+    "value": "Я вартий своєї ваги в золоті! Насправді, я вартий ТВОЄЇ ваги в золоті."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/5",
+    "value": "Пригоди! Захоплення! Дублони!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/6",
+    "value": "Я вартий свого гонорару, спитай будь-кого."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/7",
+    "value": "Моя зброя вичищена і готова до наступної роботи."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/8",
+    "value": "Я неперевершений професіонал."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/9",
+    "value": "Я просто твій типовий космічний пінгвін-найманець."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/10",
+    "value": "Я міцний старий птах, не хвилюйся за мене."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/11",
+    "value": "Ти ніколи не будеш у більшій безпеці, ніж з пінгвіном поруч."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/12",
+    "value": "Я вірний, поки добре платять."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/13",
+    "value": "Обидва моїх батьки були найманцями, і всі четверо їхніх батьків теж. Я з хорошого родоводу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/14",
+    "value": "Найманство у мене в крові! Ти в безпеці зі мною, без сумніву!"
+  }
+]

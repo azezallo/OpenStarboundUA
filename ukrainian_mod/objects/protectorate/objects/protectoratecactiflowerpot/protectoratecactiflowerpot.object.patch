@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Екзотичний на вигляд кактус у квітковому горщику."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Земного Захисту кактус горщик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Горщиковий кактус. Я не бачу звернення."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Колюча рослина з маленькою барвистою квіткою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Суккулентний самозахист."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інформований. Подібні кактуси майже не потребують води, щоб залишатися здоровими."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кактус! Легко вирощувати, легко доглядати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Болісна на вигляд рослина. Я краще не чіпаю."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Не можу пояснити, але мені дуже подобається цей кактус."
+  }
+]

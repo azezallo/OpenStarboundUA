@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Газ, що виділяється з цих жолобів, збільшує вашу швидкість бігу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прискорювач швидкості"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Розумний пристрій, він випускає газ, здатний збільшити мою фізичну швидкість."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Солодкуватий зелений газ закриває мій крок."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Зелений газ змушує Флорана бігати швидше."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "З надією. Газ з цього пристрою має солодкуватий запах."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей газ пахне свіжим і солодким. Що це робить?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Корисні властивості цього газу пов'язані з підвищенням фізичної швидкості."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Зелений газ. Це збільшує мою швидкість."
+  }
+]

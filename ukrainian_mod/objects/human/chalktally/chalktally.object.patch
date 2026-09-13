@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хтось не міг порахувати до 25."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Таллі Маркс"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Подібні позначки часто зустрічаються на стінках клітин Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хтось щось рахував, але що?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран використовує ці позначки для підрахунку вбивств."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Це означає двадцять п'ять випадків... чогось. Ми ніколи не дізнаємося, що."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Серія позначок чи кілька малюнків парканів? Неможливо сказати, справді."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Простий, але ефективний метод підрахунку."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хлопець, якого я колись знав, рахував убивства таким чином."
+  }
+]

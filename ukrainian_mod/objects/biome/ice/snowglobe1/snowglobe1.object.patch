@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Снігова куля зі сніговиком всередині. Святковий!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сніговик Снігова куля"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Скляна куля зі сніговиком всередині. Це чарівно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Всередині застиглий у часі сніговик."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче штовхнути ногою і розбити снігову кулю."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Читання. За словами мого перекладача, внизу надруковано «зроблено в Китаї». Що це означає?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ой, снігова куля. Не можу не потрясти!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це нагадує мені миску для риби. Навіть моделі сніговиків не варто тримати в полоні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ого, тільки подивіться на цього маленького сніговика там."
+  }
+]

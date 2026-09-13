@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Невибаглива рослина, бородавник легко росте за будь-яких умов."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння бородавника"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Бородавник — легкозберігаюча культура."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Бородавки важко прокльовувати."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Бойовики ідеально підходять для того, щоб Флоран їв або брикав."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Шкіра бородавника майже така ж жорстка, як і моя"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дивлячись на бородавник, я відчуваю себе трохи дивно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Бородавник — це міцні, мляві рослини, які користуються перевагою через здатність процвітати в поганих умовах."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не бачу користі для такої міцної культури, як бородавник."
+  }
+]

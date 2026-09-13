@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Кораб. платформа",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Достатньо міцна, щоб витримати навантаження космічних подорожей.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Обізнаність. Платформи такого типу використовуються при будівництві космічних кораблів.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ммміцна корабельна платформа.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ці платформи достатньо міцні, щоб витримати великі навантаження.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

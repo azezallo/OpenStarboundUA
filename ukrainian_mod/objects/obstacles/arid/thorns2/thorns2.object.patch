@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Не хочу вступати в ті..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шипи"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гострий. Я краще їх уникаю."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якби я міг літати."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Рослина не друг Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Вони виглядають небезпечно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дуже гострі шипи."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці виглядають смертельно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Вони справді виглядають чітко, я готовий кинути їх звідси!"
+  }
+]

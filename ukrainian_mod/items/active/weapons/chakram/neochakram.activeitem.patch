@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потріскує руйнівною енергією."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нео Чакрам"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Нео Чакрам ^yellow;^reset;"
+  }
+]

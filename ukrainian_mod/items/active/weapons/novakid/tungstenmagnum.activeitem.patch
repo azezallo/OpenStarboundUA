@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий пістолет, який забезпечує удар."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вольфрамовий магнум"
+  }
+]

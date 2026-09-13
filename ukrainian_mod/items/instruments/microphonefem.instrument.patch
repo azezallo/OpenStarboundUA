@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "мікрофон. Для всіх душевних дів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Високочастотний мікрофон"
+  }
+]

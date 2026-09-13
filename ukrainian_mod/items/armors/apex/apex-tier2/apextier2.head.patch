@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей капюшон і маска надають власникові бунтарського вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Повстанський капюшон"
+  }
+]

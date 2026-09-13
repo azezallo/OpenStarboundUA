@@ -1,0 +1,142 @@
+[
+  {
+    "value": "Охорона для <questGiver>",
+    "path": "/scriptConfig/generatedText/title/0",
+    "op": "replace"
+  },
+  {
+    "value": "<questGiver> хоче охорони",
+    "path": "/scriptConfig/generatedText/title/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран думав, що всі почувалися б у безпеці, якби в місті з'явився новий охоронець.",
+    "path": "/scriptConfig/generatedText/goalText/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран думає, що місту пішло б на користь найняти нового охоронця. Ось план Флорана...",
+    "path": "/scriptConfig/generatedText/goalText/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Беззахисно. Я б почувався безпечніше, якби тут був охоронець. Чи можеш ти допомогти мені найняти одного?",
+    "path": "/scriptConfig/generatedText/goalText/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Вразливо. Тут недостатньо захисту. Найм охоронця міг би допомогти.",
+    "path": "/scriptConfig/generatedText/goalText/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Я б почувався безпечніше з якимось захистом тут. Чи можеш ти допомогти найняти охоронця?",
+    "path": "/scriptConfig/generatedText/goalText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Нам не завадив би більший захист тут. У мене є план...",
+    "path": "/scriptConfig/generatedText/goalText/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Остання частина — ^green;розмістити ^orange;<guardObject> ^white;у щойно збудованому домі, разом із ^green;3 ^orange;<tag>^green; предметами^white;, для охоронця <tag>! Також ^green;розмісти цей ^orange;Колонізатор^green; всередині^white; та ^green;^orange;джерело світла^white;!",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ця остання частина буде важкою працею. Тобі потрібно буде ^green;збудувати дім^white;, куди зможе переїхати охоронець. ^green;Розмісти цей ^orange;Колонізатор^green; та ^orange;<guardObject>^green; у будинку з 3 ^orange;<tag> тематичними предметами^white;. Не забудь про ^orange;джерело світла^white; та двері!",
+    "path": "/scriptConfig/generatedText/text/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нетерпляче. Нарешті, ^green;збудуй новий дім із твоїм ^orange;<guardObject>^white; у ньому, ^green;додай 3 предмети меблів, які б сподобалися ^orange;<tag>^white;, і ^green;постав туди цей ^orange;Колонізатор^green;^white;! Не забудь ^green;додати^orange; джерело світла!",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Схвильовано. Тепер тобі просто потрібно ^green;збудувати новий дім із твоїм ^orange;<guardObject>^white; у ньому, ^green;додати 3 предмети меблів, які б сподобалися ^orange;<tag>^white;, і ^green;розмістити цей ^orange;Колонізатор^green; також^white;. Не забудь ^green;додати ^orange;джерело світла^white;!",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нарешті, ^green;збудуй новий дім із твоїм ^orange;<guardObject>^white; у ньому, ^green;додай 3 предмети меблів, які б сподобалися ^orange;<tag>^white;, і ^green;постав туди цей ^orange;Колонізатор^green;^white;! Не забудь ^green;додати^orange; джерело світла^white;!",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Все, що залишилося, це ^green;збудувати новий дім із твоїм ^orange;<guardObject>^white; у ньому, ^green;додати 3 предмети меблів, які б сподобалися ^orange;<tag>^white;, і ^green;розмістити цей ^orange;Колонізатор^green; також^white;. Не забудь ^green;додати ^orange;джерело світла^white;!",
+    "path": "/scriptConfig/generatedText/text/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран ні на мить не сумнівався в тобі! Флоран вже почувається тут безпечніше! Дякую.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "З новим охоронцем Флоран відчуває, що все місто вже може розслабитися. Дякую за твою важку працю!",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. Я маю повний спокій, знаючи, що наш новий охоронець на чергуванні. Я не забуду твої невтомні зусилля.",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Натхненно. Я маю впевненість зустріти новий день, тепер, коли наш новий охоронець поруч зі мною.",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вакансію закрито! Це не зайняло багато часу! Дякую за допомогу у забезпеченні моєї безпеки!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "У нас є новий охоронець! Я вже почуваюся безпечніше. Дякую за твою допомогу!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я не зміг допомогти покращити безпеку <questGiver>. З <questGiver.pronoun.object> ймовірно, все буде добре. Напевно.",
+    "path": "/scriptConfig/generatedText/failureText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я вирішив не допомагати з безпекою <questGiver>. Якщо <questGiver.pronoun.subject> не може захистити себе, <questGiver.pronoun.subject> ймовірно взагалі не повинен був сюди переїжджати.",
+    "path": "/scriptConfig/generatedText/failureText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Збудуй дім для охоронця з:",
+    "path": "/scriptConfig/objectives/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "1 Колонізатор",
+    "path": "/scriptConfig/objectives/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "3 об'єкти <tag>",
+    "path": "/scriptConfig/objectives/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "1 <guardObject>",
+    "path": "/scriptConfig/objectives/3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Будь-яке джерело світла",
+    "path": "/scriptConfig/objectives/4/text",
+    "op": "replace"
+  },
+  {
+    "value": "Будь-які двері",
+    "path": "/scriptConfig/objectives/5/text",
+    "op": "replace"
+  }
+]

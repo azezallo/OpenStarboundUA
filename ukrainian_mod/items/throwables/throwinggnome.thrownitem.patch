@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бал гномів"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Киньте цих маленьких хлопців, щоб вони воювали за вас."
+  }
+]

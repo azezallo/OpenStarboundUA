@@ -1,0 +1,92 @@
+[
+  {
+    "value": "Я постачальник творів мистецтва. А ти культурний?",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я більш ніж упевнений: Великий Мавп замішаний у цій справі.",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мої побратими змирилися з життям у злиднях. Нікчеми.",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Земля втрачена, як і твори, що там були!",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Моя особа має найкращий одяг на будь-якому з прийомів!",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хіба мій наряд не найпрекрасніший з тих, що ти бачив?",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран завжжжди в центрі уваги з цією перукою.",
+    "path": "/scriptConfig/dialog/converse/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Коли флоран одягає перуку, люди починають розмовляти з флораном. Флоран не знає, чому.",
+    "path": "/scriptConfig/dialog/converse/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран одного разу одягнув перуку, і тепер всссе думають, що флоран модний.",
+    "path": "/scriptConfig/dialog/converse/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я не любитель шоломів з пір'ям — ця штука мені пасує набагато краще.",
+    "path": "/scriptConfig/dialog/converse/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Через цю перуку все свербить... але я почуваюся таким вишуканим!",
+    "path": "/scriptConfig/dialog/converse/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Це ж неймовірно незручно. Але я люблю увагу!",
+    "path": "/scriptConfig/dialog/converse/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мене цікавлять виключно твори мистецтва.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Треба поводитися вкрай витончено.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гілотли — лідери у витонченості, і я найкращий серед них.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Зневажливо. Йди геть, я практикую зарозумілий сміх!",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Захоплено. Коли я в цій перуці, люди думають, що я багатий!",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. Люди витріщаються на мене в цій перуці — напевно, я виглядаю в ній дуже модно.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеально підходить для початку дуелі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "рукавичка"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Рукавиця ^yellow;^reset;"
+  }
+]

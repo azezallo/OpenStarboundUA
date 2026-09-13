@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цілу рибу безладно заштовхнули всередину бонебу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Риба в кістці"
+  }
+]

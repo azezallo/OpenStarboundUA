@@ -1,0 +1,17 @@
+[
+  {
+    "value": "^orange;Нагорода",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Вбити ціль",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Генерування нагороди",
+    "path": "/completionText",
+    "op": "replace"
+  }
+]

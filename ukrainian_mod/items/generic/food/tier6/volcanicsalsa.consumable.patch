@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вогненна сальса з фруктів і овочів, яка може справді зігріти!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вулканічна сальса"
+  }
+]

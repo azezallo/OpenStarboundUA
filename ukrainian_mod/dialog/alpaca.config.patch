@@ -1,0 +1,317 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "value": "Я не бачив тут багато таких як ти, кажу тобі!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/1",
+    "value": "У мене сверблять руки віддубасити кількох звірюк."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/2",
+    "value": "Ти боєць чи боягуз?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/3",
+    "value": "Я був воїном ще коли був малим Альпакою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/4",
+    "value": "Один малий мандрівник спитав мене, чи це костюм..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/5",
+    "value": "Хоробрість краща за найгостріший дюрасталь."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/6",
+    "value": "Завжди трішки подрімай, коли маєш нагоду!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/7",
+    "value": "Не втрачай голови!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/8",
+    "value": "Будь веселим, друже!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/9",
+    "value": "Їж добре, якщо хочеш добре битися!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/10",
+    "value": "Мені байдуже, як ти виглядаєш, головне, щоб у тебе було хоробре серце!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/11",
+    "value": "Я виглядаю так, ніби я в костюмі? Просто питаю, це нічого не означає..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/12",
+    "value": "Тобі, мабуть, холодно без такої шуби, як у мене."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/13",
+    "value": "У мене сверблять руки до бійки."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/14",
+    "value": "Чи багато таких, як ти?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/15",
+    "value": "Не створюй проблем, і ми будемо ставитися до тебе як до рідного!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/16",
+    "value": "Кажу тобі, міцні кам'яні меблі роблять Альпаку щасливим!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/17",
+    "value": "Ти не виглядаєш як боягуз. Я поважаю це."
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/0",
+    "value": "Ти намагаєшся мене обікрасти?"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/1",
+    "value": "Думаєш, я не бачу, як ти крадеш?"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/2",
+    "value": "Тобі краще припинити красти!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/3",
+    "value": "Ей! Я бачу, що ти крадеш. Краще припини це!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/4",
+    "value": "Ми тут не любимо боягузливих злодіїв!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/5",
+    "value": "У цих краях ми не терпимо крадіжок!"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/0",
+    "value": "Тут щось пересунули?"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/1",
+    "value": "Ти щось тут пересунув?"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/2",
+    "value": "Тут щось не так..."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/0",
+    "value": "Тут трохи протяг..."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/1",
+    "value": "Чи не міг би ти полагодити тут стіну?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/2",
+    "value": "Здається, у моєму домі є невелика пробоїна! Можеш її полагодити?"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/0",
+    "value": "Тут не повинно бути іншого контракту колонії!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/0",
+    "value": "Не думаю, що зможу жити тут і далі!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/1",
+    "value": "Це не підходящий дім для Альпаки!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/2",
+    "value": "Думаю, з мене досить тебе!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/0",
+    "value": "Я закінчив з тобою! Я переїжджаю!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/1",
+    "value": "Я більше не житиму в таких умовах!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/2",
+    "value": "Я так не житиму!"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/0",
+    "value": "Я тобі потрібен?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/1",
+    "value": "Тобі щось від мене потрібно?"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/0",
+    "value": "Ось подарунок за всю твою допомогу."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/1",
+    "value": "Візьми це, мій маленький помічнику!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "value": "Я здивований, що ти знову показав своє обличчя!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/1",
+    "value": "Ти повернувся? Отримуй!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Отримуй!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/1",
+    "value": "Забирайся під три чорти!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/2",
+    "value": "Геть звідси!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/3",
+    "value": "Ти, маленький боягузливий дурню!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/4",
+    "value": "Боягуз!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/5",
+    "value": "Не думай, що зможеш втекти!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "value": "Геть звідси!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/1",
+    "value": "Ще одна битва виграна, хлопці!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/2",
+    "value": "Ось що ти отримуєш!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "value": "Втікай, дрібний боягузе!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/1",
+    "value": "Не повертайся!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/0",
+    "value": "Куди ти подівся?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/1",
+    "value": "Ти, дрібний негіднику! Повернися!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/0",
+    "value": "Повернися!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/1",
+    "value": "Боягузе! Тільки тому, що я не можу тебе дістати!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/2",
+    "value": "Як ти туди потрапив?"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/0",
+    "value": "Бий мерзотника!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/1",
+    "value": "Зроби боягузу боляче!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/2",
+    "value": "Бий їх!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/3",
+    "value": "Підріж їх під свій розмір!"
+  }
+]

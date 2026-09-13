@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Подивіться, які моторошні ці очі!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Повзуча маска"
+  }
+]

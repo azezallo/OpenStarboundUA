@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарне місце для зберігання контрабанди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленька тюремна шафка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Шафка. Цікаво, що всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Шафка. Можливо, заповнений речами в'язнів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Крадуть у злодіїв і грабіжників! Флорану навіть не погано."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Продуманий. Чи є злочином крадіжка краденого?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я завжди хотів здійснити набіг на тюремну камеру схову, і тепер мої мрії збуваються!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Полонених давно немає. Справедливо брати те, що всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шафка для злочинців."
+  }
+]

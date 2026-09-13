@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Блок дерев'яного мосту",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Дерево дуже старе і поскрипує на вітрі.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Зачарування. У цьому віці дерево починає скрипіти.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ссстара міцна деревина.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, це дерево досить старе, як мій дід.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

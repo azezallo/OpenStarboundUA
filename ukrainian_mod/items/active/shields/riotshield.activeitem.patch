@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бастіон порядку в невизначеному світі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Riot Shield"
+  }
+]

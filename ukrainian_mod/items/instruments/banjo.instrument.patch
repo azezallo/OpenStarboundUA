@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Банджо. Готуйтеся до дуелі!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Банджо"
+  }
+]

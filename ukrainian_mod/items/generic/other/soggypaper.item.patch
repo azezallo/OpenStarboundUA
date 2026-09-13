@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Навіщо мені це непотрібне сміття?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розмоклий папір"
+  }
+]

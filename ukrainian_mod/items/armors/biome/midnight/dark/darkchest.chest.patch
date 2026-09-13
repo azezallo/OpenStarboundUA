@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця сорочка огортає темну порожнечу навколо того, хто її носить."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Темна сорочка"
+  }
+]

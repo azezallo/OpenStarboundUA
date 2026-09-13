@@ -1,0 +1,187 @@
+[
+  {
+    "value": "Відвідати Аванпост",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Перш ніж ти помчиш геть, я навчу тебе, як ^green;отримати доступ і використовувати^white; ^orange;режим сканування^white; на твоєму ^orange;Маніпуляторі Матерії^white;. З оточення можна багато чого дізнатися, і Аванпост — не виняток. ^green;Натисни ^#71f2f6;[N]^green;, щоб взяти свій ^orange;сканер^white;, ключові об'єкти інтересу підсвічуватимуться зеленим. Дай знати, як у тебе вийде!",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Відмінна робота. Це може здатися тривіальним, але сканування — це надзвичайно важлива навичка, яка матиме ключове значення в наших пошуках артефактів.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Скануй об'єкти^reset;, щоб дізнатися більше про ^orange;Аванпост^reset;",
+    "path": "/scriptConfig/descriptions/findClues",
+    "op": "replace"
+  },
+  {
+    "value": "Повернися до ^orange;Естер^reset; на ^orange;Ковчег^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshop/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "У цьому магазині можна купити персональні телепорти, надзвичайно корисні речі.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshop/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зможеш купувати персональні телепорти в цьому магазині, коли він відкриється. Надзвичайно корисні речі.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ця консоль дозволить тобі екіпірувати Технології, значно підвищуючи твою мобільність та спритність.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/signstore/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "У цьому магазині ти можеш створювати власні унікальні вивіски.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/signstore/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Коли цей магазин відкриється, ти зможеш створювати тут унікальні вивіски.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/terramart/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Террамарт пропонує товари для фермерства та садівництва, серед іншого. Вони навіть купуватимуть у тебе власноруч вирощену продукцію через свою службу дистанційної доставки.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/terramart/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Коли Террамарт відкриється, він пропонуватиме товари для фермерства та садівництва, серед іншого. Вони навіть купуватимуть у тебе власноруч вирощену продукцію через свою службу дистанційної доставки.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishing/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Цей меблевий магазин продає великий вибір екзотичних предметів з усього всесвіту і регулярно оновлює асортимент. Він також продає договори на колонію, які приваблюють орендарів, якщо їх розмістити в помешканнях.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishing/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishingclosed/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Цей меблевий магазин продаватиме вибір екзотичних предметів з усього всесвіту і регулярно оновлюватиме асортимент. Він також продаватиме договори на колонію, які приваблюють орендарів, якщо їх розмістити в помешканнях.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/frogfurnishingclosed/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Бармен у барі «Легкий Дзьоб» з радістю обміняє твої діаманти на пінгвінячі дублони, які популярні серед його клієнтури найманців.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Бармен у барі «Легкий Дзьоб» з радістю обміняє твої діаманти на пінгвінячі дублони, які популярні серед його клієнтури найманців.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/shipyardcaptain/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Пінгвін Піт є авторитетом у транспорті, від високотехнологічних космічних кораблів до скромних ховербайків.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/shipyardcaptain/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Сканування — це таке корисне хобі.",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/startWithProgress/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Аванпост — це чудове, яскраве місце, повне цікавинок. Тут ще є на що подивитися!",
+    "path": "/scriptConfig/radioMessages/startWithProgress/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Чудово! Ти безперечно маєш допитливий розум.",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/complete/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "На цьому наша екскурсія на сьогодні завершується! ^#71f2f6;Знайди мене^white;, коли будеш готовий.",
+    "path": "/scriptConfig/radioMessages/complete/text",
+    "op": "replace"
+  }
+]

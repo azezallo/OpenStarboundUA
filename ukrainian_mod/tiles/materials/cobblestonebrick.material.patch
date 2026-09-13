@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Світловий",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Порожній",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Розплавл.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Фазовий",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Світанковий",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

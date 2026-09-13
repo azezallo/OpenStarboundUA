@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцна армована рейка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Композитна рейка"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Задоволений. Матеріал, з якого виготовлена ​​ця рейка, робить її дуже міцною."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Блискучі металеві рейки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Кілька міцних на вигляд рейок, мені хочеться їздити на них."
+  }
+]

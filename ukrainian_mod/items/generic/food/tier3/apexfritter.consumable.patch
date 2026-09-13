@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хрустка страва Apex. Смажена кукурудзяна оладка, звичайно ж, з бананом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Оладка Apex"
+  }
+]

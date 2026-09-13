@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Масляний ліхтар з міді."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мідний масляний ліхтар"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мідний ліхтар, який спалює масло як паливо."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Паливо підтримує полум'я цього ліхтаря."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Полум'я поїдає рідину всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Цей ліхтар містить масло."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Простий мідний ліхтар."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Паливо в цьому ліхтарі не горіло б під водою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ліхтар з міді."
+  }
+]

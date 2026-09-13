@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцна скриня для зберігання зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скриня зі зброєю"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Скриня зі зброєю. Може, всередині буде щось хороше?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці скрині зі зброєю міцні, щоб захистити вміст."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Давайте відкриємо шахи! Можливо, гостра колюча зброя всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нетерпіння. Не втрачайте часу, відкрийте!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Скриня зі зброєю, це приємне видовище."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Подарунки найцікавіші, коли вони ще загорнуті."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Скриня для безпечного зберігання зброї всіх видів."
+  }
+]

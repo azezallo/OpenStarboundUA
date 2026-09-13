@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Якась жахлива, смердюча плоть."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шматок м'яса"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Disgusted. This is made of squishy flesh."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssquishy meat."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це якась плоть."
+  }
+]

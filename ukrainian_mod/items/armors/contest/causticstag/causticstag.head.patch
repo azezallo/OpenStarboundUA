@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бійся могутнього жука!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Їдкий оленячий шолом"
+  }
+]

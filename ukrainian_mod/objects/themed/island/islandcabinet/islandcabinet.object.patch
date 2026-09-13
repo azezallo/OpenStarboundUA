@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тропічна шафа з маленьким деревом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Острівний кабінет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей кабінет занадто виразний для будинків Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це дерево маленьке, щоб сісти на нього."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить речі з деревом."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. На вершині шафи є маленьке дерево."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Шафа з маленьким деревом на вершині. Як мило!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця шафа нагадує мені острів на вершині хвиль."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якби це дерево було трохи більшим, я міг би лежати під ним у тіні."
+  }
+]

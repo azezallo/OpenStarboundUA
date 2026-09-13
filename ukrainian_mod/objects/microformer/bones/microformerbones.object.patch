@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює частину планети на сухе сміття розкиданих кісток."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скелетний мікроформер"
+  }
+]

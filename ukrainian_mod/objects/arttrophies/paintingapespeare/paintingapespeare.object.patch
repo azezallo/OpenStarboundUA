@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Картина великого поета Apex. Він... виглядає знайомим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Портрет поета Apex"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Багато років тому поезію Apex було спалено та оголошено поза законом."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Апекс із шиєю з пір’ям?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стара мавпа, дурний костюм."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Здається, Apex одягнений у сучасній моді Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця картина здається знайомою..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Безперечно, вершина мистецтва."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Стильний Apex із оборками на шиї."
+  }
+]

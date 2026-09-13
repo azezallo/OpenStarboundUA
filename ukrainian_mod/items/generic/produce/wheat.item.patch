@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Необхідний для приготування хліба."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "пшениця"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Солодка та ароматна консервація, цінна серед птахів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Варення з пір'я"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Барвиста спіральна квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Барвиста спіральна квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гарна квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. A colourful spiral flower."
+  }
+]

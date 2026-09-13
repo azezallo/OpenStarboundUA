@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей неймовірно міцний шолом напрочуд зручний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом Тукана"
+  }
+]

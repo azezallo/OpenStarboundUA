@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ящик для зберігання, який зазвичай використовується для зберігання обладнання та руд."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Місячний базовий ящик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гарний ящик для зберігання з міцного матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей ящик використовується для зберігання різного обладнання."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "У блискучому ящику можна зберігати багато речей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заздрісні. Цей ящик доглянутий і відполірований."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, що цей ящик витримає будь-які космічні умови."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Великий ящик, який використовується для впорядкування предметів і їх безпечного зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарний великий ящик. Цікаво, що всередині."
+  }
+]

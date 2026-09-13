@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Генератор щита. Захисний!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Генератор щитів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Генератор щита."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це генерує щит."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Щити!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Втішили. Генератор щита."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це вбереже мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Грубий захисний пристрій."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Кому взагалі потрібен щит?"
+  }
+]

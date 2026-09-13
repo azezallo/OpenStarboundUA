@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Традиційні штани та черевики ідеально підходять для прогулянок снігом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Святкові брюки"
+  }
+]

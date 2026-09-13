@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "Раніше я працював на місячному гірничодобувному заводі. Але я радий, що зараз на пенсії."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "value": "Мені так нудить від запаху рідкого Ерчіуса. Це як... Сироп."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "value": "Ми всі повинні були бути озброєні ще в дні мого шахтарського підприємства. У випадку з космічними піратами, переважно."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "value": "Можливо, я не великий боєць у ближньому бою, але мої шахтарські дні дали мені гострий погляд."
+  }
+]

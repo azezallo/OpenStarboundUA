@@ -1,0 +1,52 @@
+[
+  {
+    "value": "Я щойно вийшов з в'язниці! Хоча, я дуже любив її.",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Не хвилюйся, я не небезпечний! Я був у в'язниці за фінансове шахрайство...",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чи маю я виглядати як невдаха в цьому комбінезоні?",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Не подумай, що я небезпечний через цей комбінезон! Я ношу його, тому що він зручний.",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я не з в'язниці, цей комбінезон просто для комфорту... Чесне слово.",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Якби я приєднався до Земного Захисту, можливо, я б не опинився у в'язниці.",
+    "path": "/scriptConfig/dialog/converse/human/human/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я чув про те, що сталося із Землею. Я радий, що в той час я був у в'язниці в іншому місці.",
+    "path": "/scriptConfig/dialog/converse/human/human/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чи маю я виглядати як невдаха в цьому комбінезоні?",
+    "path": "/scriptConfig/dialog/converse/human/human/2",
+    "op": "replace"
+  },
+  {
+    "value": "Не хвилюйся, я не небезпечний! Я був у в'язниці за фінансове шахрайство...",
+    "path": "/scriptConfig/dialog/converse/human/human/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я не з в'язниці, цей комбінезон просто для комфорту... Чесне слово.",
+    "path": "/scriptConfig/dialog/converse/human/human/4",
+    "op": "replace"
+  }
+]

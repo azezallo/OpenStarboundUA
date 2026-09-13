@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Піднята платформа. Не застрягайте під ним."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Піднята платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Велика дерев'яна платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Така дерев'яна платформа виглядає дуже міцно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ця платформа була побудована мисливцем Флораном."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Якій меті служить така платформа?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дерев'яна платформа, піднята прямо над землею."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Хоч би що Флоран побудував цю платформу, не був дуже вправним майстром."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто якась стара платформа, зроблена з дерева."
+  }
+]

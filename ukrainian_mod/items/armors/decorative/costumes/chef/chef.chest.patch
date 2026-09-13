@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Надається кожному шеф-кухарю, коли вони здають іспити на шеф-кухаря."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кухарська куртка"
+  }
+]

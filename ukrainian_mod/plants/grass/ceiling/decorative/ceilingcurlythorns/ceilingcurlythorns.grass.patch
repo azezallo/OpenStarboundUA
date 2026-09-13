@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Реальний",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Матеріал.",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Світловий",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Порожній",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

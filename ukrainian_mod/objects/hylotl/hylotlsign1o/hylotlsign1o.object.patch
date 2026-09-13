@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Помаранчевий знак вершини"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Помаранчева неонова вивіска, що здається великою мавпою."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Обличчя великої мавпи простягається навіть до морських глибин. Страшно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Обличчя виглядає як Apex. Непарний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Баззі sssign дратує Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Це велика мавпа?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це відображає... Apex? Що це тут робить?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "«Велетенську горилу приваблює риба»? Здається, це було погано перекладено."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це Апекс?"
+  }
+]

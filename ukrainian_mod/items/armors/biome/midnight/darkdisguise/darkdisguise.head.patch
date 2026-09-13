@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Матеріал цієї маски виганяє чисту темряву."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Темна маскова маска"
+  }
+]

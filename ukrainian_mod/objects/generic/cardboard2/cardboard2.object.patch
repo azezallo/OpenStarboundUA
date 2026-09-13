@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Проста картонна коробка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Картонна коробка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цю картонну коробку можна складати в стопку як ефективне рішення для зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Картонна коробка. Всередині могло бути майже все."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Картонні коробки для зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Цей картон надзвичайно міцний, в ньому можна зберігати практично все."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Картонна коробка. Корисно для зберігання речей."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Картонна коробка. Іноді прості рішення є найефективнішими."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто картонна коробка для зберігання речей."
+  }
+]

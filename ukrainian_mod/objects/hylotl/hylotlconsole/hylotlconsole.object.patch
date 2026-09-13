@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Консоль із сенсорним екраном і різноманітними веселими кнопками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хай-тек консоль"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цікаво, що станеться, якщо я натисну... Цю кнопку?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дуже хочеться натиснути на кнопки..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче натиснути всі гарні кнопки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Мені дуже хочеться натиснути всі ці кнопки."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Можливо, натискання кнопки або двох призведе до чогось цікавого."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я повинен уникати натискання кнопок... Хто знає, що може статися?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Консоль з кількома спокусливими кнопками. Чи повинен я...?"
+  }
+]

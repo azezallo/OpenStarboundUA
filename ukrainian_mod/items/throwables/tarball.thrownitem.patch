@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тарбол"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Отримати удар одним із них стає липким."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей жучок видає слабкий дзвінкий звук, коли він літає в повітрі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дрифтбелл"
+  }
+]

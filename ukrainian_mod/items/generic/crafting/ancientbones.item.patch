@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці великі кістки старі. Дуже старий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стародавні кістки"
+  }
+]

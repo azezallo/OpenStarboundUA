@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "комп'ютер. Напевно, непоганий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Настільний ПК"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "комп'ютер."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дивний комп'ютер."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану від цього мало користі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заздрісні. Потужний комп'ютер."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Солодка установка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мене засмучує надмірна залежність інших видів від технологій."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Б’юся об заклад, ця штука може знайти будь-що!"
+  }
+]

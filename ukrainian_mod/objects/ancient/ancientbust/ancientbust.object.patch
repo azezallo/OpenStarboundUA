@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стародавній бюст із зображенням Дбайливець. Куля, яку він тримає, випромінює світло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стародавній бюст"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Світло цієї стародавньої статуї все ще працює добре."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Схоже, ця статуя зображує могутню стародавню расу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить космонавта, що світиться."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. До цієї стародавньої статуї досі прикріплено діюче світло."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця стара статуя все ще випромінює світло. Хто б це не зробив, знав, що робив."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Світло від цієї стародавньої статуї створює моторошну атмосферу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Як щодо цього. Я не можу повірити, що ця лампочка все ще працює."
+  }
+]

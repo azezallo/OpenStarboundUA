@@ -1,0 +1,282 @@
+[
+  {
+    "value": "Нутмідж",
+    "path": "/parameters/monster/example/name",
+    "op": "replace"
+  },
+  {
+    "value": "Скаверан",
+    "path": "/parameters/tradedMonster/example/name",
+    "op": "replace"
+  },
+  {
+    "value": "думаю, що він пахне якось дивно",
+    "path": "/scriptConfig/generatedText/fluff/0/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "не знаю, чим його годувати",
+    "path": "/scriptConfig/generatedText/fluff/0/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "вважаю його дещо огидним",
+    "path": "/scriptConfig/generatedText/fluff/0/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "маю смертельний страх перед ними",
+    "path": "/scriptConfig/generatedText/fluff/0/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "не думаю, що він мені дуже підходить",
+    "path": "/scriptConfig/generatedText/fluff/0/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "не подобаються ті моторошні погляди, які він на мене кидає",
+    "path": "/scriptConfig/generatedText/fluff/0/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "чесно кажучи, він мене дуже лякає",
+    "path": "/scriptConfig/generatedText/fluff/0/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "не думаю, що це улюбленець для мене",
+    "path": "/scriptConfig/generatedText/fluff/0/1/7",
+    "op": "replace"
+  },
+  {
+    "value": "раніше",
+    "path": "/scriptConfig/generatedText/fluff/1/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "не так давно",
+    "path": "/scriptConfig/generatedText/fluff/1/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "на початку тижня",
+    "path": "/scriptConfig/generatedText/fluff/1/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "минулої ночі",
+    "path": "/scriptConfig/generatedText/fluff/1/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "вчора",
+    "path": "/scriptConfig/generatedText/fluff/1/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "здається, ти більш влучний за мене",
+    "path": "/scriptConfig/generatedText/fluff/2/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "мабуть, ти краще за мене в цьому",
+    "path": "/scriptConfig/generatedText/fluff/2/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "можливо, ти зможеш допомогти мені зловити одного",
+    "path": "/scriptConfig/generatedText/fluff/2/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "можливо, ти достатньо вмілий, щоб допомогти",
+    "path": "/scriptConfig/generatedText/fluff/2/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "схоже, у тебе є необхідні мені навички",
+    "path": "/scriptConfig/generatedText/fluff/2/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "ти міг би спробувати пошукати навколо",
+    "path": "/scriptConfig/generatedText/fluff/3/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "чому б не пошукати навколо",
+    "path": "/scriptConfig/generatedText/fluff/3/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "тобі варто спробувати пошукати біля",
+    "path": "/scriptConfig/generatedText/fluff/3/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "я бачив кількох у тому напрямку",
+    "path": "/scriptConfig/generatedText/fluff/4/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "я чув, що там поблизу була їхня група",
+    "path": "/scriptConfig/generatedText/fluff/4/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "хтось сказав мені, що вони там були",
+    "path": "/scriptConfig/generatedText/fluff/4/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "полюватимемо разом",
+    "path": "/scriptConfig/generatedText/fluff/5/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "навчу його трюкам",
+    "path": "/scriptConfig/generatedText/fluff/5/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "матиму нового звірячого друга",
+    "path": "/scriptConfig/generatedText/fluff/5/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "навчу його полювати",
+    "path": "/scriptConfig/generatedText/fluff/5/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ти приніс мені пітомця [<monster>]?! Дякую!",
+    "path": "/scriptConfig/generatedText/fluff/6/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тобі вдалося зловити для мене [<monster>]? Чудово!",
+    "path": "/scriptConfig/generatedText/fluff/6/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "О, тобі вдалося знайти [<monster>]?",
+    "path": "/scriptConfig/generatedText/fluff/6/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ти приніс мені мого власного [<monster>]?! Дякую!",
+    "path": "/scriptConfig/generatedText/fluff/6/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "Сподіваюся, цей [<tradedMonster>] тобі добре послужить!",
+    "path": "/scriptConfig/generatedText/fluff/7/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Впевнений, що цей [<tradedMonster>] буде з тобою щасливішим!",
+    "path": "/scriptConfig/generatedText/fluff/7/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ось, тепер ти гордий власник власного улюбленця [<tradedMonster>]!",
+    "path": "/scriptConfig/generatedText/fluff/7/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ось, ти заслужив цього [<tradedMonster>]. Стався до нього добре!",
+    "path": "/scriptConfig/generatedText/fluff/7/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран сподіваєтьсся, що тобі сподобаєтьсся [<tradedMonster>]!",
+    "path": "/scriptConfig/generatedText/fluff/8/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Цей [<tradedMonster>] може стати твоїм новим партнером по полюванню!",
+    "path": "/scriptConfig/generatedText/fluff/8/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Улюбленець [<monster>]",
+    "path": "/scriptConfig/generatedText/title/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Я хочу, щоб у мене був улюбленець [<monster>].",
+    "path": "/scriptConfig/generatedText/goalText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Якби у мене був власний [<monster>], я був би такий щасливий!",
+    "path": "/scriptConfig/generatedText/goalText/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран хоче, щоб у нього був [<monster>], і йому потрібна допомога, щоб його отримати.",
+    "path": "/scriptConfig/generatedText/goalText/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Невдоволено. Я б хотів<questGiver.pronoun.obj1end>, щоб у мене був власний [<monster>].",
+    "path": "/scriptConfig/generatedText/goalText/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хтось дав мені [<tradedMonster>], але <reason>. Я був би щасливіший з улюбленцем ^orange;<monster>^white;. ^green;Чи не міг би ти зловити для мене одного в цю ^orange;Капсулу Захоплення^white;?\nЯкщо ти не впевнений, з чого почати, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>.",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я намагався зловити собі улюбленця ^orange;<monster>^white; <earlier>, але промахнувся і натомість зловив цього [<tradedMonster>]. Ти <request> - ^green;чи можеш ти взяти цю ^orange;Капсулу Захоплення^green; і зловити для мене [<monster>]^white;? В обмін я віддам тобі свого [<tradedMonster>].\nЯкщо ти не впевнений, з чого почати, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>.",
+    "path": "/scriptConfig/generatedText/text/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран зловив у пастку [<tradedMonster>], але флоран насправді хотів ^orange;<monster>^white;. Якби у флорана був [<monster>], то флоран міг би <florandreams>. ^green;Чи не міг би ти зловити для флорана [<monster>] у цю ^orange;Капссулу Захоплення^white;?\nФлоран бачив кількох біля ^orange;<spawnPoint>^white;<spawnPoint.direction>.",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Невдоволено. Хтось дав мені [<tradedMonster>], але <reason>. Я був би щасливіший з улюбленцем ^orange;<monster>^white;. ^green;Чи не міг би ти зловити для мене одного в цю ^orange;Капсулу Захоплення^white;?\nЯкщо ти не впевнений, з чого почати, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Розчаровано. Я намагався зловити собі улюбленця ^orange;<monster>^white; <earlier>, але промахнувся і натомість зловив цього [<tradedMonster>]. Ти <request> - ^green;чи можеш ти взяти цю ^orange;Капсулу Захоплення^green; і зловити для мене [<monster>]^white;? В обмін я віддам тобі свого [<tradedMonster>].\nЯкщо ти не впевнений, з чого почати, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "<appreciation1> <appreciation2>",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти приніс флорану [<monster>]? <floranappreciation>",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Надзвичайно радісно. <appreciation1> <appreciation2>",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ой, я не зміг допомогти <questGiver>.",
+    "path": "/scriptConfig/generatedText/failureText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Злови монстра [<monster>]",
+    "path": "/scriptConfig/objectives/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Віддай пітомця [<monster>] жителю <questGiver>",
+    "path": "/scriptConfig/objectives/1/text",
+    "op": "replace"
+  }
+]

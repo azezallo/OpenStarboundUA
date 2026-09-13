@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плетений опорний блок"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Щільно плетений плетений матеріал."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Вражений. Цей плетений матеріал міцний."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Флоран любить міцні плетені блоки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Схоже, що ці блоки — просто міцний матеріал, сплетений разом."
+  }
+]

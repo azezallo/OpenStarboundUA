@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кущ з планети-океан."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Опора куща 2"
+  }
+]

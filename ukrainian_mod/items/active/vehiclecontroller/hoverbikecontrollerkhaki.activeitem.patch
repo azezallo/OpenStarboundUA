@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створіть ховербайк кольору хакі зі збережених нанітів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Контролер хакі для ховербайка"
+  }
+]

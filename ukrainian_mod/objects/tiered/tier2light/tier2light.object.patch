@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Проста вольфрамова лампа."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вольфрамове світло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Добре зроблене джерело світла."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей корисний ліхтар освітить навіть найтемнішу кімнату."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Безпечний ліхтар для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Захоплення. Міцний ліхтар."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Акуратний, міцний ліхтар."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Корисне джерело світла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це точно освітлює кімнату."
+  }
+]

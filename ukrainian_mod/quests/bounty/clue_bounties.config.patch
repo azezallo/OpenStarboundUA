@@ -1,0 +1,472 @@
+[
+  {
+    "value": "Мене знайшли - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.name>^reset;, звісно!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Миротворці тут! Краще вирушу на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Миротворець на хвості! Забери мене на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мене знайшли - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.name>^reset;, звісно!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мене помітили - час тікати! Краще вирушу на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Миротворець на хвості! Забери мене на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мою позицію розкрито - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.name>^reset;, звісно!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тривога! Мене помітили! Вирушаю на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Забери мене на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Вони знайшли мене - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.name>^reset;, звісно!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ой-ой, мене помітили! Краще вирушу на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Миротворець на хвості! Забери мене на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Час Флорану тікааати на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран вирушааає на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану треееба летіти на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. Мене знайшли - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.name>^reset;, звісно!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "У паніці. Мене помітили! Краще вирушу на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. <randomName>, телепортуй мене! Миротворець на хвості! Забери мене на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мене так просто не спіймати - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.name>^reset;, звісно!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/novakid/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хай йому грець, мене помітили! Краще вирушу на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/novakid/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Миротворець на моєму сліді! Забери мене на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/planetBounty/dialog/beamout/novakid/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ну, здається, вони щойно точно сказали нам, куди прямують. Тобі краще вирушити на ^green;<next.coordinate.name>^reset;.",
+    "path": "/beamout/clues/planetBounty/message",
+    "op": "replace"
+  },
+  {
+    "value": "Мене знайшли - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.systemName>^reset;, звісно!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Миротворці тут! Краще вирушу на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Миротворець на хвості! Забери мене на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мене знайшли - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.systemName>^reset;, звісно!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мене помітили - час тікати! Краще вирушу на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Миротворець на хвості! Забери мене на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мою позицію розкрито - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.systemName>^reset;, звісно!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тривога! Мене помітили! Вирушаю на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Забери мене на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Вони знайшли мене - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.systemName>^reset;, звісно!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ой-ой, мене помітили! Краще вирушу на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Миротворець на хвості! Забери мене на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Час Флорану тікааати на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран вирушааає на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану треееба летіти на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. Мене знайшли - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.systemName>^reset;, звісно!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "У паніці. Мене помітили! Краще вирушу на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. <randomName>, телепортуй мене! Миротворець на хвості! Забери мене на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мене так просто не спіймати - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.systemName>^reset;, звісно!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/novakid/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хай йому грець, мене помітили! Краще вирушу на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/novakid/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Миротворець на моєму сліді! Забери мене на ^orange;<next.coordinate.systemName>^reset;!",
+    "path": "/beamout/clues/shipBounty/dialog/beamout/novakid/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Дуже зручно, що ціль розповіла нам, куди прямує! Тобі краще вирушити на ^green;<next.coordinate.systemName>^reset;.",
+    "path": "/beamout/clues/shipBounty/message",
+    "op": "replace"
+  },
+  {
+    "value": "Мене знайшли - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.name>^reset;, звісно!",
+    "path": "/beamout/clues/scan/dialog/beamout/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Миротворці тут! Краще вирушу на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Миротворець на хвості! Забери мене на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мене знайшли - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.name>^reset;, звісно!",
+    "path": "/beamout/clues/scan/dialog/beamout/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мене помітили - час тікати! Краще вирушу на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Миротворець на хвості! Забери мене на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мою позицію розкрито - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.name>^reset;, звісно!",
+    "path": "/beamout/clues/scan/dialog/beamout/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тривога! Мене помітили! Вирушаю на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Забери мене на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Вони знайшли мене - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.name>^reset;, звісно!",
+    "path": "/beamout/clues/scan/dialog/beamout/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ой-ой, мене помітили! Краще вирушу на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Миротворець на хвості! Забери мене на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Час Флорану тікааати на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран вирушааає на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану треееба летіти на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. Мене знайшли - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.name>^reset;, звісно!",
+    "path": "/beamout/clues/scan/dialog/beamout/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "У паніці. Мене помітили! Краще вирушу на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. <randomName>, телепортуй мене! Миротворець на хвості! Забери мене на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мене так просто не спіймати - телепортуй мене, <randomName>! Куди? На ^orange;<next.coordinate.name>^reset;, звісно!",
+    "path": "/beamout/clues/scan/dialog/beamout/novakid/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хай йому грець, мене помітили! Краще вирушу на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/novakid/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<randomName>, телепортуй мене! Миротворець на моєму сліді! Забери мене на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/beamout/clues/scan/dialog/beamout/novakid/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Злочинці точно люблять гучно говорити про свої плани! Тобі краще вирушити на ^green;<next.coordinate.name>^reset;.",
+    "path": "/beamout/clues/scan/message",
+    "op": "replace"
+  },
+  {
+    "value": "Ти шукаєш сумнозвісного і привабливого <bounty.name>? Я чув, що він ошивається на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти шукаєш відомого поганця <bounty.name>? Ходять чутки, що його востаннє бачили на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/dialog/interact/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти шукаєш <bounty.name>? Я чув про нього! Як мені казали, ти можеш побачити його на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ти Миротворець, що шукає <bounty.name>? На щастя, я можу допомогти - він на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/dialog/interact/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ти шукаєш <bounty.name>? Я чув, що він ошивається на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Шукаєш того сумнозвісного злочинця, <bounty.name>? Ходять чутки, що востаннє його бачили на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/dialog/interact/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти шукаєш <bounty.name>? Я чув про нього! З того, що мені казали, ти можеш побачити його на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ти Миротворець, що шукає <bounty.name>? На щастя, я можу тобі допомогти - він на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/dialog/interact/avian/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я чую багато пліток - ти шукаєш <bounty.name>? Чув, що він крутиться на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Шукаєш того сумнозвісного злочинця, <bounty.name>? Ходять чутки, що востаннє його бачили на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/dialog/interact/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти шукаєш <bounty.name>? Я чув про нього! З того, що мені казали, ти можеш побачити його на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ти Миротворець, що шукає <bounty.name>? На щастя, я можу тобі допомогти - він на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/dialog/interact/apex/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "<bounty.name>? Я зустрічав цього лиходія у своїх мандрах. Востаннє я бачив його на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Шукаєш того сумнозвісного злочинця, <bounty.name>? Ходять чутки, що востаннє його бачили на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/dialog/interact/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Шукаєш <bounty.name>? Я можу знати про його місцезнаходження! З того, що мені казали, ти можеш побачити його на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ти Миротворець, що шукає <bounty.name>? На щастя, я можу тобі допомогти - він на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/dialog/interact/hylotl/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран бачив злочинця! Флоран бачив його на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран бачив <bounty.name>! Флоран бачив його на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран знає, де злочинець! Злочинець на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/dialog/interact/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Корисно. Я бачив того негідника, якого ти шукаєш. Я ніколи не забуду таке обличчя! Чув, що він крутиться на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Корисно. Шукаєш того сумнозвісного волоцюгу, <bounty.name>? Ходять чутки, що востаннє його бачили на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/dialog/interact/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Корисно. Ти шукаєш <bounty.name>? Я чув про нього! З того, що мені казали, ти можеш побачити його на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Корисно. Ти Миротворець, що шукає <bounty.name>? На щастя, я можу тобі допомогти - він на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/dialog/interact/glitch/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я бачив волоцюгу, якого ти шукаєш - у мене око набите на таких. Чув, що він крутиться на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/novakid/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Шукаєш того відомого злочинця, <bounty.name>? У салуні кажуть, що востаннє його бачили на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/dialog/interact/novakid/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Шукаєш <bounty.name>? Я чув про нього! З того, що я чув, ти можеш побачити його на ^orange;<next.coordinate.name>^reset;.",
+    "path": "/disguise/clues/diversion/dialog/interact/novakid/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ти Миротворець, що шукає <bounty.name>? Тобі пощастило, я можу допомогти - він на ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/dialog/interact/novakid/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Який корисний член галактичного суспільства! Схоже, у тебе є наступне місце призначення - ^orange;<next.coordinate.name>^reset;!",
+    "path": "/disguise/clues/diversion/message",
+    "op": "replace"
+  }
+]

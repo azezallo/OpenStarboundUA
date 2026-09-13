@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маса звивистих щупалець."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скупчення щупальця"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Діструбед. Ці щупальця були розтерті в суцільну масу."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Флоран не любить звиватися без щупалець."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Щупальця жахливого вигляду Buncha змішані разом."
+  }
+]

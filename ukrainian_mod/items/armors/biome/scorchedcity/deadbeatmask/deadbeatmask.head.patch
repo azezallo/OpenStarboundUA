@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленька маска для обличчя та шапка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Deadbeat Mask"
+  }
+]

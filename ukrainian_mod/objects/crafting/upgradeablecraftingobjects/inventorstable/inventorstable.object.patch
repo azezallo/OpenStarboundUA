@@ -1,0 +1,212 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стіл винахідника використовується для виготовлення різних крафтових станцій."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "TAG0GAСтіл винахідника^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стіл з купою інструментів для майстра."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Можливість проявити свою здатність творити."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стіл Флорана Уссе. Творіть приємні речі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Натхненний. Модуль крафта активований."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я можу використовувати знайдені тут матеріали для створення нових речей."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Шанс творити."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я можу використовувати знайдені тут матеріали для створення нових речей."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "value": "Стіл винахідника використовується для виготовлення різних крафтових станцій."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "value": "TAG0GAСтіл винахідника^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "value": "Стіл з купою інструментів для майстра."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "value": "Можливість проявити свою здатність творити."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "value": "Стіл Флорана Уссе. Творіть приємні речі."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "value": "Натхненний. Модуль крафта активований."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "value": "Я можу використовувати знайдені тут матеріали для створення нових речей."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "value": "Шанс творити."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "value": "Я можу використовувати знайдені тут матеріали для створення нових речей."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Таблиця винахідника"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;інноваційна станція"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "value": "Стіл інженера використовується для виготовлення різних крафтових станцій."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "value": "^orange;інженерний стіл^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "value": "Стіл з купою інструментів для майстра."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "value": "Можливість проявити свою здатність творити."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "value": "Стіл Флорана Уссе. Творіть приємні речі."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "value": "Натхненний. Модуль крафта активований."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "value": "Я можу використовувати знайдені тут матеріали для створення нових речей."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "value": "Шанс творити."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "value": "Я можу використовувати знайдені тут матеріали для створення нових речей."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Інженерний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Інноваційна станція"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "value": "Стіл архітектора використовується для виготовлення різних крафтових станцій."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "value": "^orange;Стіл архітектора^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+    "value": "Стіл з купою інструментів для майстра."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+    "value": "Можливість проявити свою здатність творити."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+    "value": "Стіл Флорана Уссе. Творіть приємні речі."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+    "value": "Натхненний. Модуль крафта активований."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+    "value": "Я можу використовувати знайдені тут матеріали для створення нових речей."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+    "value": "Шанс творити."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+    "value": "Я можу використовувати знайдені тут матеріали для створення нових речей."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Стіл архітектора"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Інноваційна станція"
+  }
+]

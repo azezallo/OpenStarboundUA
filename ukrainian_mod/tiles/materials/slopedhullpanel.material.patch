@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дешева пружна обшивка широко використовується для будівництва кораблів і станцій."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Ця обшивка широко використовується для будівництва суден і станцій."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучий sssmooth космічний метал."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Деяке товсте металеве покриття виглядає дуже солідно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Панель корпусу"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зупиняє і пускає рейкових вершників"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Залізнична зупинка"
+  }
+]

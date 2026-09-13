@@ -1,0 +1,92 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "I'm just on my travels, doing my own thing."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "Це гарне місце! Почуваєшся як вдома."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "value": "Якщо ви хочете побудувати магазин для купця, щоб переїхати туди, вам знадобиться трохи сховища для нього!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "value": "Якщо люди досить довго залишаються в будинках, які ви для них побудували, вони, ймовірно, даруватимуть вам подарунки."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "value": "Ви вирощуєте власні культури? Ви зможете, якщо зробите собі мотику!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "value": "Більшість мешканців не збираються жити в будинку без світла чи дверей! Просто кажу."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/5",
+    "value": "Вам слід придбати лійку, якщо ви хочете вирощувати траву або квіти."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/6",
+    "value": "Про що взагалі ці дивні кам’яні ворота? Вони завжди були там?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/7",
+    "value": "Якщо у ваших орендарів є претензії, ви, ймовірно, повинні допомогти їм, перш ніж вони виїдуть назавжди."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/8",
+    "value": "Телепорти справді корисні для подорожей з планети на планету, але для їх виготовлення потрібне ядро ​​телепорту."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/9",
+    "value": "Я підозрюю, що багато хто з нас, мандрівників, здебільшого залишаються на мирних планетах."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/10",
+    "value": "Деякі орендарі пред'являють дуже вибагливі вимоги до декору свого житла."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/11",
+    "value": "Будьте обережні з бомбами! Чи взагалі це потрібно говорити?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/12",
+    "value": "If monsters are attacking your tenants, you might want to encourage some guards to move in!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/13",
+    "value": "Хто всюди розставляє ці скрині зі зброєю? Це практично сміття!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/14",
+    "value": "If you aren't willing to jump down into a big cavern, you can lower yourself down with a climbing rope!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/15",
+    "value": "How hard is it to make a cup of coffee these days?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/16",
+    "value": "I haven't been to Earth in years! How is it doing these days?"
+  }
+]

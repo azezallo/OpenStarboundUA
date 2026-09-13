@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гладкі дверцята з світловідбиваючого скла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Призма Двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гладкі скляні двері, які, здається, сяють палітрою кольорів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чудово зроблені скляні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран може прозирнути через двері... Не можна використовувати це для засідки!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Таке гладке скло рідко зустрічається в природі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці двері дійсно вловлюють світло. Як мило."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це двері, які я дійсно можу оцінити."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці двері сяють, як тихий ставок після шторму."
+  }
+]

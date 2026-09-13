@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Пінгвін",
+    "path": "/charCreationTooltip/title",
+    "op": "replace"
+  },
+  {
+    "value": "Як ти це прочитав?",
+    "path": "/charCreationTooltip/subTitle",
+    "op": "replace"
+  },
+  {
+    "value": "Я гадки не маю, що тут писати",
+    "path": "/charCreationTooltip/description",
+    "op": "replace"
+  },
+  {
+    "value": "Шаблон",
+    "path": "/charGenTextLabels/0",
+    "op": "replace"
+  },
+  {
+    "value": "Колір 1",
+    "path": "/charGenTextLabels/1",
+    "op": "replace"
+  },
+  {
+    "value": "Колір 2",
+    "path": "/charGenTextLabels/2",
+    "op": "replace"
+  },
+  {
+    "value": "Колір дзьоба",
+    "path": "/charGenTextLabels/3",
+    "op": "replace"
+  },
+  {
+    "value": "Капелюх",
+    "path": "/charGenTextLabels/4",
+    "op": "replace"
+  },
+  {
+    "value": "Колір капелюха",
+    "path": "/charGenTextLabels/5",
+    "op": "replace"
+  },
+  {
+    "value": "Одяг",
+    "path": "/charGenTextLabels/6",
+    "op": "replace"
+  },
+  {
+    "value": "Колір одягу",
+    "path": "/charGenTextLabels/7",
+    "op": "replace"
+  },
+  {
+    "value": "ПІНГВІН",
+    "path": "/charGenTextLabels/8",
+    "op": "replace"
+  },
+  {
+    "value": "Особистість",
+    "path": "/charGenTextLabels/9",
+    "op": "replace"
+  }
+]

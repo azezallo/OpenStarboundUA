@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Діодія, м'який коренеплід з мідним смаком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Діодія насіння"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Діодії не найприємніші на смак, але їх легко виростити."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "На вигляд діодія схожа на горіх, а на смак не така."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смачний, як кров, Флоран знаходить Діодію прийнятною заміною."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Ображений. Діодіум – справді недооцінений овоч."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "На вигляд схожий на картоплю, на смак як копійка. Невеликий компроміс."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гіркий коренеплід. Добре підходить для додання смаку."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Діодії з мідним смаком у моді з Glitch."
+  }
+]

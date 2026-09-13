@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Найрозважливіший боксмен, який коли-небудь був."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тілесність Boxman's Bodacity"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Панцирні штани для солдатів Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Міннаук Гривз"
+  }
+]

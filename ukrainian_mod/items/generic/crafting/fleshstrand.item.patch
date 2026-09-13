@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Довге жилаве волокно м’яса."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плоть Strand"
+  }
+]

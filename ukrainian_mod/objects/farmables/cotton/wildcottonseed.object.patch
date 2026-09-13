@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рослина, яка вирощує пухнасті ватні палички!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "насіння бавовни"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Бавовна легко вирощувати і має широкий спектр продуктивних цілей."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Бавовняні рослини! Ці винахідливі культури мають так багато застосувань!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран міг зробити ssssoft ssstuff з рослинами бавовни."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Творчий. Я міг би використовувати цю бавовну для багатьох речей."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Бавовна, один із найдавніших ресурсів людства. Як корисно!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ткачі Hylotl можуть створювати найм’якші тканини з бавовни."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "З такої бавовни можна зробити цілу купу речей."
+  }
+]

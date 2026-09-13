@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Раскраска предупреждает об опасності.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Предупрежд. блок",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Осторожно. Етот узор предпісивает внімательно смотреть себе под ногі.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Еті полоссскі подразумевают осссторожность.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Вроде как я должен обратіть вніманіе на еті полоскі.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

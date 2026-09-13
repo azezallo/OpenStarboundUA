@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дивний зелений світловий стручок вільно висить на вигнутому дерев’яному стовпі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лампа для виноградних стручків"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, це якась світна рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Рослина випромінює зелений відтінок."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran Greenfinger вирощує рослину на світло. Багато менше вогню, менше спаленого Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вражений. Рослина, здається, поглинає сонячні промені протягом дня, змушуючи її світитися."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Він має моторошне зелене світіння. Цікаво, що всередині стручка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Щось у цій рослині здається неприродним."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Як це дерево також є світильником?"
+  }
+]

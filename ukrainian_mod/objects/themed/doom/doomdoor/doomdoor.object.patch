@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Моторошна приречена двері."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Doom Door"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці двері досить моторошні, щоб зупинити будь-кого, хто намагається зламати."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дуже моторошні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран ховається за дверима. Потім двері налякали Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "нервовий. На ці двері є око."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Досить жахливі Doom двері."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Надійні двері. Це також має око на це. Дивний дизайн."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці двері дивляться на мене."
+  }
+]

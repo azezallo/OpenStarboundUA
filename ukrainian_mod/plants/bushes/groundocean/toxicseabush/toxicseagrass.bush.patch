@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Токсична морська трава."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Токсична морська трава"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ссслий бур'ян."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. Sea bush."
+  }
+]

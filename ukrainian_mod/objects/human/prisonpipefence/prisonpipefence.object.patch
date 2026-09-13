@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Огорожа з важких металевих труб."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Трубна огорожа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Огорожа з труб. Розумний."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Паркан. Жорстоке знущання над приземленими."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран впевнений, що Флоран міг би перескочити цей паркан! Але Флоран не намагатиметься."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Серія труб, сформованих у вигляді огорожі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Розумна огорожа з труб."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Якби цей паркан був під океаном, я міг би просто переплисти через нього. Знову ж таки, чому б це було?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Огорожа з труби."
+  }
+]

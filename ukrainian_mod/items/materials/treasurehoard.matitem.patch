@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скарб скарбів"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блискуча скарбниця цінних скарбів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Присвійний. Я не можу відвести очей від цього скарбу."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Флоран любить блискуче золото!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "золото! Я ледве стримую хвилювання!"
+  }
+]

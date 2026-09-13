@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старий на вигляд кам'яний стовп."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стовповий блок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "вражений. Я вважаю, що цей кам'яний стовп дуже старий."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Кам'яний стовп дуже старий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Це один старий кам'яний стовп."
+  }
+]

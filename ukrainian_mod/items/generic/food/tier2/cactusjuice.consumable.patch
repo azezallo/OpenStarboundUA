@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крутий як кактус."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сік кактуса"
+  }
+]

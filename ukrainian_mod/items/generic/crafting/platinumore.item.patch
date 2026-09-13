@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це платина."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Платинова руда"
+  }
+]

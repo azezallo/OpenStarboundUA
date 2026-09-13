@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Купа каміння."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "A pile of rocks."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Rocksss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. A pile of rocks."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей шолом легкий і повітряний, ідеально підходить для трекінгу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом слідопита"
+  }
+]

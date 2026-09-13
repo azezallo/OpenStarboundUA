@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Невелика шафа, пофарбована в яскраві пастельні кольори."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пастельний кабінет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Досить чарівний маленький кабінет."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця шафа має ручку у формі зірки. Приємний штрих!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану подобаються квітчасті кольори кабінету."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Ручка різьблена, схожа на маленьку зірку - приємна деталь."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ого, у цієї шафи маленькі сердечка збоку!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей кабінет досить чарівний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Кольори трохи кричущі на мій смак."
+  }
+]

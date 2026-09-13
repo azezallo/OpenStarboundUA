@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "+1% стійкість до дощу в сухому стані."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Картонний капелюх бродяги"
+  }
+]

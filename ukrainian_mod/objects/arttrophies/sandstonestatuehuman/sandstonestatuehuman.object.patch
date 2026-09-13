@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Статуя людини. Перевірте волосся."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуя людини з пісковика"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Людина. Легко зрозуміти, чому люди вірять, що люди та Апекс пов’язані."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Людина. Його зачіска майже схожа на пір'я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Тупа людина з тупою зачіскою. Ssстатуя."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Занепокоєння. Мені шкода за людей, які змушені терпіти такі дивні зачіски."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Популярний розважальник. У мене були всі його альбоми."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Статуя людини. Цей чоловік, здається, намагається створити якийсь стиль."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це одна божевільна голова. Здається, він щойно зняв капелюха."
+  }
+]

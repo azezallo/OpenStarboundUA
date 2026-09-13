@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вівтар, липкий від старої крові та пір’я."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жертовний вівтар"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Які темні справи вчинялися на цьому вівтарі?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Жертвоприношення поширене серед птахів. Ось чому багато хто вирішує заземлитися."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смачна кров. Флоран хоче смаку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Вівтар здається забризканим кров’ю."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кров і пір'я. Темний."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Хто вирішить слідувати за богом, який вимагає від своїх послідовників пожертвувати життям?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей вівтар вкритий бризками крові. Жахливий."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Hanging bones."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Hanging bones."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Bonesss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Висячі кістки."
+  }
+]

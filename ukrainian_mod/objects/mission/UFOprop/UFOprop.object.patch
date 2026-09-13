@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розбитий НЛО."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "UFO Prop"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Те, що схоже на непрацюючу літаючу тарілку."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Машина, яка колись плавала в небі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Якась крихітна металева річ."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Несправний літак."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Літаюча тарілка дуже виглядає в стилі ретро."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Зламаний автомобіль для маленького пасажира."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Грубий на вигляд космічний апарат. Здається, теж зламався."
+  }
+]

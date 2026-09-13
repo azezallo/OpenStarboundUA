@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вихідне світло. Вказує, чи щось увімкнено чи вимкнено."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "цибулина"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Вихідне світло. Вказує, чи щось увімкнено чи вимкнено."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Вихідне світло. Вказує, чи щось увімкнено чи вимкнено."
+  }
+]

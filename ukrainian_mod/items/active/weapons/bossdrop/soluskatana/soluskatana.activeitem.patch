@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Наповнений солярієм меч, викуваний Асрою Нокс."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Солус Катана"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Solus Katana ^yellow;^reset;"
+  }
+]

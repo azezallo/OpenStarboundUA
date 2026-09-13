@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великі окуляри для захисту маленьких очей."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ливарні окуляри"
+  }
+]

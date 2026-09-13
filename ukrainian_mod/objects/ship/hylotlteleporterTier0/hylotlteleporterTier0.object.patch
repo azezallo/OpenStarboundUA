@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вірний телепортер, що б ми без тебе робили?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "телепорт"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Корабельний телепорт. Мені потрібно включити його."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Телепорт! Якби тільки цей був увімкнений."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Корабельний телепорт. Цей мертвий."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Телепорт без живлення. Мені потрібно включити його."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Телепорт! Шкода, що він не включений."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей телепорт вимкнено."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Корабельний телепорт. Мені потрібно підживити її!"
+  }
+]

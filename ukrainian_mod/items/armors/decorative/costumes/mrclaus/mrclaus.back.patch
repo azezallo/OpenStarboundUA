@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Повний мішок подарунків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Святковий мішок"
+  }
+]

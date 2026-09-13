@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виготовлені фільончасті двері."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фільончасті двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці дерев'яні двері не виготовлялися своїми руками."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці двері були виготовлені машиною."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану не подобаються двері, виготовлені на заводі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Схоже, ці двері були виготовлені на виробничій лінії."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Двері дешевого виробництва."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці двері позбавлені індивідуального підходу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Дешеві дерев'яні двері."
+  }
+]

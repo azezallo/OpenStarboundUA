@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ти хочеш спраги?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Диспенсер для води Protectorate"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Диспенсер для води."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Диспенсер для води. Освіжає!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ця машина щодня отримує свіжу воду!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Цей диспенсер води поповнюється щодня."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Старий добрий H2O."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вода, рідина життя."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я можу отримати холодну воду прямо з цього."
+  }
+]

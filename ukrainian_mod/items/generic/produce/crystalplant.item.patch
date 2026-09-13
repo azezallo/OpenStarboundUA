@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рослина, утворена з кристала. Чарівний!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кристалічний завод"
+  }
+]

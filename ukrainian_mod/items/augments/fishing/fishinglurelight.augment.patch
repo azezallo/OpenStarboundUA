@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Приманка з яскравим внутрішнім підсвічуванням для нічної риболовлі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Приманка з підсвічуванням"
+  },
+  {
+    "op": "replace",
+    "path": "/lureName",
+    "value": "Приманка з підсвічуванням"
+  }
+]

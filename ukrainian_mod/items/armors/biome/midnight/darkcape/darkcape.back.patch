@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Опівнічна накидка для тих, хто віддає перевагу тіні"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Темна накидка"
+  }
+]

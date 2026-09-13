@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Приємно солодкий і солоний сік. Освіжає!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рифовий сік"
+  }
+]

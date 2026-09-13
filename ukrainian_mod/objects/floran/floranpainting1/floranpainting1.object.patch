@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця картина ніби ілюструє, як розпалювати багаття."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мистецтво первісного вогню"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це інструкції?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це дим і вогонь?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Молодий Флоран вчиться розводити вогонь таким чином. Багато молодих Флоран згорають."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Здається, це інструкція з розведення вогню."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Навчальна ілюстрація того, як розвести багаття."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Флорани, можливо, роблять послугу Гілотлям, навчаючи їх дитинчат розводити вогонь."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Малюнок, який показує, як добувати вогонь."
+  }
+]

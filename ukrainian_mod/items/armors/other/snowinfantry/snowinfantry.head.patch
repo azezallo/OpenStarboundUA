@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей теплий шолом допоможе уникнути застуди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом снігової піхоти"
+  }
+]

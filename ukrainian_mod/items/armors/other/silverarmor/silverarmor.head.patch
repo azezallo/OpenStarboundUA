@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Залишайтеся сяючими в цьому сріблястому шоломі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Срібний шолом"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Відчуйте себе надзвичайно розумними з цими окулярами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Окуляри вченого"
+  }
+]

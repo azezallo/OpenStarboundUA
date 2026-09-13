@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Токсична грудна клітка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Токсична грудна клітка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я не впевнений, чи варто торкатися цієї скрині."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця скриня виглядає дуже забрудненою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Chesst sssmell токсичний."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підозрілий. Ця скриня, ймовірно, отруєна оточуючими."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця скриня виглядає досить токсичною."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гротескна скриня..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це дивна на вигляд скриня. Мабуть, мені не варто торкатися до нього більше, ніж потрібно."
+  }
+]

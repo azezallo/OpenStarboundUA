@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Невеликий дерев'яний стіл на трьох ніжках."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стіл для кабіни"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Якби це був метал, він був би міцнішим."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Досить гарний столик."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран дивується, як далеко Флоран міг би це закинути."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Цей невеликий столик стане в нагоді для розміщення речей."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Невеликий дерев'яний столик. Все, що йому потрібно, це книга і, можливо, лампа."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей столик виглядає напівготовим. Можливо, допоміг би шар фарби."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я міг би придумати дюжину застосувань такої старої речі."
+  }
+]

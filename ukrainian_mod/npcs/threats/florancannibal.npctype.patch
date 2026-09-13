@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "value": "Intruder!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/0",
+    "value": "I sssee you!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/1",
+    "value": "Floran isss getting hungry!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/2",
+    "value": "Флоран помітив вечерю!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/3",
+    "value": "Флоран може побачити їжу!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/4",
+    "value": "Флоран голодний!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/5",
+    "value": "Від мене не втечеш!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/6",
+    "value": "Полювання розпочато!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/7",
+    "value": "Food hasss arrived!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/8",
+    "value": "Floran knows who isss for dinner!"
+  }
+]

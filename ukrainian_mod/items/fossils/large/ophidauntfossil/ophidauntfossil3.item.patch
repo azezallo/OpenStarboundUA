@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий верхній хвіст Змієноса."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ophidaunt Upper Tail"
+  }
+]

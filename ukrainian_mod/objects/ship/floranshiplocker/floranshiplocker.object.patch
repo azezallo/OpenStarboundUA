@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шафка. Зберігайте деякі речі, чому б і ні?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Корабельний корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Система зберігання. Точно не флоранського походження."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Шафа для зберігання. Я не вірю, що Флоран зробив цей пристрій."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран зберігає тут багато корисних речей для дослідження всесвіту."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Як Флоран отримав цю технологію?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Більшість техніки на цьому кораблі, здається, не флоранського походження."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця система зберігання не має походження Floran. Floran придбали цю технологію іншим шляхом."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шафка для зберігання речей."
+  }
+]

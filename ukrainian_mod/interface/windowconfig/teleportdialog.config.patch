@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": "Телепортер"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "value": "Оберіть ціль"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnTeleport/caption",
+    "value": "Телепорт"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value",
+    "value": "Назва"
+  },
+  {
+    "op": "replace",
+    "path": "/beamPartyMemberLabel",
+    "value": "До учасника"
+  },
+  {
+    "op": "replace",
+    "path": "/deployPartyMemberLabel",
+    "value": "Висадка"
+  }
+]

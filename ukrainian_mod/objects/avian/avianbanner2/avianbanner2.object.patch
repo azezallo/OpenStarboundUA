@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Товсте плетене знамено із зображенням півмісяця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташиний місячний банер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Яскравий тканий банер. Цікаво, що означає місяць."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Для приземлених місяць є символом свободи."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран полює при місячному світлі, місяць є другом Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Питання. Яке значення має місяць для птахів?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чудово витканий місячний банер."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Місяць... видовище, якого багато Гілотлі ніколи не бачили."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей банер виглядає так, ніби на ньому вплетений місяць."
+  }
+]

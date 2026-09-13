@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Консоль з цікавими рівнями та лампочками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ливарна консоль"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Рудиментарна на вигляд консоль."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Що роблять усі ці лампочки?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Яскраві лампочки та кнопки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Мені було б цікаво дізнатися, що означають ці лампочки."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця консоль має всі переваги, які тільки можна собі уявити."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Рудиментарна техніка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Яскрава консоль."
+  }
+]

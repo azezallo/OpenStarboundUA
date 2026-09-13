@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маса звивистих щупалець."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скупчення щупальця"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Діструбед. Ці щупальця були розтерті в суцільну масу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не любить звиватися без щупалець."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Buncha creepy lookin' tentacles all mashed together."
+  }
+]

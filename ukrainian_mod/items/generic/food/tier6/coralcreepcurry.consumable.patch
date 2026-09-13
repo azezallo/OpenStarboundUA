@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "М’яке пряне каррі, виготовлене з фруктів коралкрипа."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Coralcreep Curry"
+  }
+]

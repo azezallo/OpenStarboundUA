@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Порожня табличка. Що тут належить?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Порожня табличка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Можливо, ця табличка чекає голову."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Меморіальна дошка в очікуванні трофею."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Мисливська табличка для демонстрації флоранської зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений.  Форма цієї дошки незвичайна, що тут розмістити?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Виглядає як порожня мисливська табличка, можливо, призначена для демонстрації рушниці чи списа."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мені страшно від думки про те, що колись тут з’явиться."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця табличка виглядає майже такою, щоб повісити гвинтівку."
+  }
+]

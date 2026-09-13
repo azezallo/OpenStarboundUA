@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створіть власну гвардію!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Охоронець Спаунер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я міг би зробити додатковий захист від Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "З охоронцем Клюкс не наважився б мене торкнутися."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран сам себе охороняє! Але більше сторож не завадить."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зміст. Сила в кількості."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені завжди хотілося антуражу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Охоронці могли б допомогти мені поширювати мир."
+  }
+]

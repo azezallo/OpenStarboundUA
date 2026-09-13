@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сяючий наріст."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сяючий наріст."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Світиться."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Bemusement. A glowing growth."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розбитий чан, всередині засохлий слиз... Щось вирвалося?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зруйнований чан"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Щось... вирвалося?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це зловісно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Тс-с-с-с-с-с-с-ш... О-о-о."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Порушений. Здається, щось звільнило цю машину."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Боже, це нагадує мені фільм, який я колись бачив."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Скло було розбито зсередини..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не дуже хочу торкатися цього."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Детальний малюнок красивого пейзажу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Живопис прикордонних рівнин"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Картина досить мальовничого пейзажу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Картина прекрасної землі. Я хотів би відвідати це місце!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран бачить крихітний світ. Флоран не може піти в крихітний світ. Флоран розчарований."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Натхненний. Який гарний краєвид."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Така гарна сцена! Цікаво, що це надихнуло?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця картина майже відповідає художнім стандартам Hylotl. Мені особливо подобається річка, що протікає через картину."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це чудова картина."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/saveChar/caption",
+    "value": "Готово"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/cancel/caption",
+    "value": "Скас."
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/mode/buttons/0/data/description",
+    "value": "Без голоду і штрафів."
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/mode/buttons/1/data/description",
+    "value": "Голод та втрата речей при смерті."
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/mode/buttons/2/data/description",
+    "value": "Перманентна смерть!"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/labelSpeciesRadio/value",
+    "value": "^#8d8d8d;РАСИ"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/labelToggleClothing/value",
+    "value": "Одяг"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/labelPortrait/value",
+    "value": "ЛЮДИНА"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/labelCasualMode/value",
+    "value": "ЛЕГКО"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/labelSurvivalMode/value",
+    "value": "ВИЖИВАННЯ"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/labelHardcoreMode/value",
+    "value": "ХАРДКОР"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/name/hint",
+    "value": "Ім'я"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/lblSkipIntro/value",
+    "value": "Пропустити вступ"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/labelGender/value",
+    "value": "^#8d8d8d;СТАТЬ"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/labelCustomise/value",
+    "value": "^#8d8d8d;НАЛАШТУВАННЯ"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/labelName/value",
+    "value": "^#8d8d8d;ІМ'Я"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/labelDifficulty/value",
+    "value": "^#8d8d8d;СКЛАДНІСТЬ"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/labelRandomise/value",
+    "value": "ВИПАДКОВО:"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Strong stone slabs, perfect for building a castle."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Важка кам'яна цегла"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Informed. Stone bricks like this are frequently used in castle construction."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Giant sstone brickss."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "I'd hate t've been the fella who had to lay these heavy bricks."
+  }
+]

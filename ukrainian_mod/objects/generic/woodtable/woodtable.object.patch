@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Базовий дерев'яний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дуже простий дерев'яний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Найпростіший із столів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Простий дерев'яний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нудно. Дуже проста таблиця."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Про цей стіл не варто багато говорити."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стіл, дуже простий у всіх відношеннях."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто стіл."
+  }
+]

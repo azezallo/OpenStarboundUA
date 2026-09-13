@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Вивітрена черепиця. Її форма змушує мене відчувати себе ніяково.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Уважно. Ця черепиця нахилена, щоб дощ легко з неї стікав.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Черепиця.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ця черепиця ідеально підходить для даху.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Черепиця",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "піаніно. Дійсно ключовий інструмент."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "фортепіано"
+  }
+]

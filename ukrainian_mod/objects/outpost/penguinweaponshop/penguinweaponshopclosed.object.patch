@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це було б гарне місце для магазину."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Закрита авторитетна зброя Біггі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, це якась торгова станція."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якась торгова станція. Зараз він закритий."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не впевнений, що це буде за магазин."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Ця торгова точка наразі закрита."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ймовірно, торговий пост, але його ще не зайняли."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Прилавок, де будуть продавати товари чи послуги."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Порожній магазин - жалюгідне видовище."
+  }
+]

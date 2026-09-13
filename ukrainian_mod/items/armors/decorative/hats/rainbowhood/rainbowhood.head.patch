@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Капюшон всіх кольорів веселки. Славний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Райдужний капюшон"
+  }
+]

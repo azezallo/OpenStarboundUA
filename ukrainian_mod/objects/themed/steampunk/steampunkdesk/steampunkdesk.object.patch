@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Металевий стіл, покритий цікавими пристроями."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Письмовий стіл у стилі стімпанк"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, це стіл для починаючого божевільного вченого."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я поняття не маю, що роблять речі на цьому столі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран відчуває запах горілого зсередини цієї коробки..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Здається, на цьому столі лежить металева голова."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "З цього столу на мене дивиться голова робота. Це якось моторошно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Жоден інструмент на цьому столі не є інструментом ремісника, до якого я звик..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "У цьому предметі меблів є щось дивне."
+  }
+]

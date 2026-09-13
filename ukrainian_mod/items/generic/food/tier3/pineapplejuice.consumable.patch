@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Солодкий, смачний ананасовий сік."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ананасовий сік"
+  }
+]

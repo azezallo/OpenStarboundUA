@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A small pod."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Small pod."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сссмаленький стручок."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. A small flower pod."
+  }
+]

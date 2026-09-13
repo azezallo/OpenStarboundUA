@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Використовується для виготовлення інструментів для розкопок копалин і вітрин."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Станція копалин^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Станція Fossil"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Пензлі Fossil та підставки для демонстрації"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тут я можу робити інструменти для розкопок скам’янілостей."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Реміснича станція, де я можу виготовляти інструменти для полювання на скам’янілості."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран цікавиться викопними породами. Тут Флоран може робити інструменти для пошуку скам'янілостей!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вражений. Для виготовлення інструментів для ідентифікації скам’янілостей. Я не можу дочекатися, щоб використовувати його."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Інструменти для реставрації копалин – це круто. Давайте дізнаємося про історію цих світів!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Для виготовлення апарату для очищення скам’янілостей, щоб зазирнути в минуле."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я мало знаю про речі минулого. Але, можливо, я міг би навчитися за допомогою цих інструментів."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Блок гліфів"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленькі гліфи покривають цей камінь."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Зачарований. Я не знаю, що говорять ці гліфи."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Флоран не може зрозуміти символів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Декілька стареньких символів."
+  }
+]

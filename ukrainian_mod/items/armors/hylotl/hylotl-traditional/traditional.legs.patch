@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Основні гнучкі та водонепроникні штани."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційні штани"
+  }
+]

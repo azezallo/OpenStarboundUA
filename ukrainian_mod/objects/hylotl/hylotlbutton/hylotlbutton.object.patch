@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хто знає, що це може активувати... просто натисніть!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Синя базова кнопка"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Натисніть! Натисніть!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спокусився. Кнопка, яка благає, щоб її натиснули."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Досить спокуслива кнопка."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стільки потужності в простій кнопці."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Великий ґудзик."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Добре зроблена кнопка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Кнопка. Чи варто натискати?"
+  }
+]

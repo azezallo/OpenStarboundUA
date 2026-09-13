@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Налаштуйте власний зонд розгортання станції."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Транспондер станції"
+  }
+]

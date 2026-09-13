@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На повну вперед!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Паровий свисток Mech Horn"
+  }
+]

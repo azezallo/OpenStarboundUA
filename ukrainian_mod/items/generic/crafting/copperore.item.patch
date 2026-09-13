@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мідна руда. Можна використовувати для плавки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мідна руда"
+  }
+]

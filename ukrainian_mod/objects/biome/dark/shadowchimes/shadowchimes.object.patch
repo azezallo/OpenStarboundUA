@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Багато хто вважає ніжний дзвін вітряних дзвіночків дуже заспокійливим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вітряні куранти"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей дзвін безумовно створює атмосферу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Вітровий дзвінок із гарним дзвінком."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Тіньовий дзвін, що дме вітер, створює приємні звуки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Цей приємний дзвін додає пружину моїм крокам."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Щось у мене про дзвін цього вітряного дзвінка мурашки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей моторошний дзвін видає ефірний звук."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Солодкий дзвін вітру."
+  }
+]

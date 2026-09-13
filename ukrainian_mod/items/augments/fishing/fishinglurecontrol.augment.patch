@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Приманка з внутрішнім гіроскопом для кращого контролю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Моторизована приманка"
+  },
+  {
+    "op": "replace",
+    "path": "/lureName",
+    "value": "Моторизована приманка"
+  }
+]

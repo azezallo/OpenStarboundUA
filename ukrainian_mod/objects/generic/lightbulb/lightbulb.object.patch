@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гола лампочка, що висить на металевому стрижні в стелі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мерехтіння лампочки"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Електрична лампочка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "світло!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Яскравий!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Співчутливий. Я хочу подарувати цю лампочку абажур."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гнітючий світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Світло без декору."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Самотня лампочка."
+  }
+]

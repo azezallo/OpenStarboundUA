@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/panels/5/text",
+    "value": "We've locked Nox away somewhere where she ain't gonna cause any trouble from now on. \nCase closed, partner."
+  },
+  {
+    "op": "replace",
+    "path": "/panels/6/text",
+    "value": "Знаєш, вона не багато говорила, коли ми її привели..."
+  },
+  {
+    "op": "replace",
+    "path": "/panels/7/text",
+    "value": "Але погляд її очей казав, що їй є за що каятися."
+  }
+]

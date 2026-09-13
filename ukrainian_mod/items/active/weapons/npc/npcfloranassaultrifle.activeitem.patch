@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Автоматична гвинтівка з органічного матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штурмова гвинтівка NPC Floran"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Класичні шпалери - ідеальний завершальний штрих.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Класичні шпалери",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Розгублено. Ґлітч ніколи не розумів концепцію шпалер.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Дддивний папір для ссстін. Флоран не розуміє.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Шпалери. Ідеальні для класичних місць, файні.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

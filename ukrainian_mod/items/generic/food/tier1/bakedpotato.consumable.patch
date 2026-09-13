@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хрусткий зовні, гарячий, як розплавлена ​​лава, всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Запечена картопля"
+  }
+]

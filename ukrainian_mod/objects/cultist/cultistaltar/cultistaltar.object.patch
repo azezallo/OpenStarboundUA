@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вівтар культу. Тут триває мерзенне поклоніння."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вівтар культу"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дивний вівтар. Якій таємниці тут поклоняються?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це не вівтар Kluex, це точно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран нюхає кров."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Схоже, цей вівтар використовувався для якогось зловісного ритуалу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Моторошний вівтар. Просто дивлячись на це, мені стає не по собі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Тут ховається темна і жахлива присутність."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей темний вівтар моторошний і тривожний."
+  }
+]

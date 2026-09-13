@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'яніле тулуб Avioscale."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Avioscale Torso"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Легке рагу, яке легко спадається."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тушкована риба"
+  }
+]

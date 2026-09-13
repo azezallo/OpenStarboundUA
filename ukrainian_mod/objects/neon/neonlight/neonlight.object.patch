@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гладке, стримане пурпурове світло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Неонове пурпурове світло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці світильники випромінюють теплий пурпуровий відтінок."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це неонове світло нагадує мені захід сонця, що сяє крізь діамантові хмари."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Рожевий - сильний колір! Колір сильної та здорової квітки!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спокійно. Таке світло створює приємну атмосферу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "неонове освітлення, коли ви хочете надати кімнаті прохолодну атмосферу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це неонове світло нагадує мені сонячне проміння, яке проходить через сапфірові океани."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це світло схоже на холодну палаючу зірку, хоча трохи менше."
+  }
+]

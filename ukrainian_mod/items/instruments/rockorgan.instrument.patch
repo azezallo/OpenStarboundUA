@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рок-орган. Справжній наповнювач стадіонів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рок-орган"
+  }
+]

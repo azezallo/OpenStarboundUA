@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Піратське пальто з китової шкіри - воно все одно пахне китом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Буканери"
+  }
+]

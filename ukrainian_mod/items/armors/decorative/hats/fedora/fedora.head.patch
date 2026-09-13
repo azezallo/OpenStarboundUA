@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Федора — одні носять її, щоб виглядати респектабельно, інші — погано."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Fedora"
+  }
+]

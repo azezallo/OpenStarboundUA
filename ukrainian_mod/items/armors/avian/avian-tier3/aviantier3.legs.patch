@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гнучкі накладки на ноги з титановими манжетами на щиколотках."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Перепелині штани"
+  }
+]

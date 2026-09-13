@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Інструменти, якими тикають у палаюче вугілля або розпалювання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Камінні інструменти"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Інструменти, що використовуються для розведення вогню."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Гострі палички. Для чого вони?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це зброя?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зміст. Набір залізних інструментів для гасіння пожежі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я думаю, що це інструменти, які ви використовуєте в каміні."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Для чого ці інструменти?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Металеві інструменти для розпалювання вогню."
+  }
+]

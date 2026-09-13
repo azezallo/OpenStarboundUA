@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Червоні клубні вогні"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Різнокольорові вогні в клубах."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Просто потрібна машина для створення туману, щоб надати цьому місцю атмосферу нічного клубу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, який кристал може випромінювати червоне світло?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Червоне, блискуче світло."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нецікаво. Це червоне світло."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Розсіяне освітлення для створення настрою. Який настрій? не впевнений"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Навколишнє червоне клубне світло."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це червоне світло точно освітлює кімнату."
+  }
+]

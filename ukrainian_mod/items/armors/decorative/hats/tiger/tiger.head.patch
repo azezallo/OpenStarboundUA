@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця шапка нагадує тигра. Це справжнє хутро?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капелюх тигра"
+  }
+]

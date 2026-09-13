@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Блок, зроблений з рослинного волокна.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Рослинний блок",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Зачарування. Цей блок повністю зроблений з рослинного волокна.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран відчуває ссспорідненісссть з цим россслинним блоком.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, цей блок зроблений з рослин, файний такий.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

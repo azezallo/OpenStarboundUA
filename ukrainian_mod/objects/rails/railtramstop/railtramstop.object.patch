@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Викликає та зупиняє трамваї"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Залізнична трамвайна зупинка"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий череп T. rex."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Череп T. rex"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "T. rex Fossil"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Динозавр, який колись був корінним жителем Землі, поширився по зірках завзятими вченими."
+  }
+]

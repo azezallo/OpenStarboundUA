@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/panels/2/text",
+    "value": "ОНОВЛЕННЯ МОДІВ"
+  },
+  {
+    "op": "replace",
+    "path": "/panels/3/text",
+    "value": "Ого, у тебе добряче так назбиралося модів для оновлення, га?"
+  },
+  {
+    "op": "replace",
+    "path": "/panels/4/text",
+    "value": "Це займе деякий час. Може, вип'єш чашечку чаю?"
+  },
+  {
+    "op": "replace",
+    "path": "/panels/5/text",
+    "value": "Може, сходиш на прогулянку?"
+  },
+  {
+    "op": "replace",
+    "path": "/panels/6/text",
+    "value": "Не питай мене, я просто кролик."
+  }
+]

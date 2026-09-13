@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ignome"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Його обвуглена поверхня напрочуд приємна на дотик. Тільки тримайтеся подалі від вогню!"
+  }
+]

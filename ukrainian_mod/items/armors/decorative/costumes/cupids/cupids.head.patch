@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вінок з листя і серця. Нехай це покаже вашу любов!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сердечний вінок"
+  }
+]

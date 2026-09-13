@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Здається, там є Apex, з’єднаний з купою проводів і трубок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підтримка життєзабезпечення"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Господи... що вони зробили? Я б звільнив його, але він, здається, перебуває на апаратах життєзабезпечення."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Що це за жахливий процес?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "С-суп!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Шокований. Що тут відбувається!?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Що тут коїться?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Бідна душа..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це просто не здається мені правильним."
+  }
+]

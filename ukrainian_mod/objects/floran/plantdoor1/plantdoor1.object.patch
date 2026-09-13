@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Двері з переплетених лоз."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Виноградна двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці лози відкриваються, щоб забезпечити прохід, як двері."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Залиште Флорану зробити двері з лози."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоранська лоза слухається команд і відкривається."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вражений. Здається, ці ліани навмисне рухаються, щоб дозволити проходу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці двері ніби вросли в раму."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Майстерність флори у справі з рослинами вражає, ці ліани відкриваються, як двері."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Що це за двері? Я навіть ручки не бачу."
+  }
+]

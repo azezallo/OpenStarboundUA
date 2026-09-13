@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": " Торговий автомат"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "value": " ^#b9b5b2;Смачні закуски"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/buySellTabs/tabs/0/tabTitle",
+    "value": "Купити"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/buySellTabs/tabs/0/children/lblBuyTotalCaption/value",
+    "value": "ЗАГАЛЬНА ВАРТІСТЬ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/buySellTabs/tabs/0/children/btnBuy/caption",
+    "value": "Купити"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/buySellTabs/tabs/1/tabTitle",
+    "value": "Продати"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/buySellTabs/tabs/1/children/lblSellTotalCaption/value",
+    "value": "ВАРТІСТЬ ПРОДАЖУ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/buySellTabs/tabs/1/children/btnSell/caption",
+    "value": "Продати"
+  }
+]

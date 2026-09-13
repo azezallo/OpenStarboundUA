@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Акустична гітара. Ідеально підходить для пісень біля багаття."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Акустична гітара"
+  }
+]

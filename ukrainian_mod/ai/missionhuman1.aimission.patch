@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "value": "Erchius Mining Facility"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "value": "Revisit the Erchius Mining Facility"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "value": "This Facility is the central source of Erchius Crystals, which can upgrade your ship's FTL Drive."
+  }
+]

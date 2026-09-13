@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Майстерно виготовлений трон, придатний для самого Клюкса."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташиний трон"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Трон, вкритий різьбою. Це справжнє видовище."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Трон звіздаря. Кожному звіздарю буде призначено храм для захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Трон птахолюдини — хороший трофей Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Згоден. Лорди глюків також сидять на тронах."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кам'яний трон. Це рима."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей трон виглядає незручно. Він також виглядає майже не використовуваним, можливо, просто демонстрацією влади."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей стілець зроблений з каменю, здається дуже незручним."
+  }
+]

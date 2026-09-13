@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Легендарний шолом гномів, Хродгард. Він зроблений з каменю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хродгард"
+  }
+]

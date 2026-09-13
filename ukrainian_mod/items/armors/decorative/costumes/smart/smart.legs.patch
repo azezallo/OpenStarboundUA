@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стильна багатошарова спідниця. Як модно!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розумна спідниця"
+  }
+]

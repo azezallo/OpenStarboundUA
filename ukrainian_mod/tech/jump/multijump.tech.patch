@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дає вам три менші стрибки, які можна використовувати в повітрі!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "value": "Багаторазовий стрибок"
+  }
+]

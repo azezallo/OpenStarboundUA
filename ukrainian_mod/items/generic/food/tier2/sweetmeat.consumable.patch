@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рідкісна солодка флоранська страва з цукатів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Солодке м'ясо"
+  }
+]

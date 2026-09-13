@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий трилобіт."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Трилобіт"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Трилобіт"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "«Тріольбіти є однією з найбільш добре збережених груп копалин завдяки своєму екзоскелету."
+  }
+]

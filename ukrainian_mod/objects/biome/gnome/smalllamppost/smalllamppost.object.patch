@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленький ліхтарний стовп. Намагайтеся не перекинути його."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крихітний ліхтарний стовп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленький ліхтарний стовп."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Який маленький ліхтарний стовп."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssmall світло на ssstick."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Маленький ліхтарний стовп."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Маленький ліхтарний стовп."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такий маленький і чарівний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Маленький ліхтарний стовп. Для чого це корисно?"
+  }
+]

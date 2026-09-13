@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пожежа в проіржавілій бочці."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стовбуровий вогонь"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Палаюча бочка з маслом. Я не думаю, що це офіційне опалення в'язниці."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Підійшовши надто близько до цього, я обпалив би моє пір’я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран утримає пальці від палаючого барабана..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Незручно. This almost looks like a burning Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ах, стара саморобна палаюча бочка. Класика."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Незважаючи на грубий вигляд, розпалювання вогню в металевому барабані дещо натхненно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Джерело тепла. Джерело сирого тепла."
+  }
+]

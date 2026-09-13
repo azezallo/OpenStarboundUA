@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Місячний пил - це те, з чого зіткані сни.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Місячний пил",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Захоплення. Цей місячний пил м'який на дотик.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран любить кольоровий місссячний пил.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Мені здається, що це місячний пил.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

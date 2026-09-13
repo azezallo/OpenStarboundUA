@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Корабельна решітка штучного інтелекту, або скорочено S.A.I.L."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "S.A.I.L"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Коли він працює, я можу спілкуватися з SAIL через цю консоль."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Перезавантаження цієї станції дозволить мені поговорити з SAIL."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран виправив цю панель, щоб розбудити корабель!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. Спочатку мені потрібно перезавантажити цю станцію, щоб зв’язатися з SAIL."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якщо я зможу перезавантажити цю станцію, SAIL має повернутися до мережі!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця консоль дозволить мені спілкуватися з SAIL. Спочатку мені потрібно його перезавантажити."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Час перезавантажити цю станцію, щоб я міг поговорити з SAIL."
+  }
+]

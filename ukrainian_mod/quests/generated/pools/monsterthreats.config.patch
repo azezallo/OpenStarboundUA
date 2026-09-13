@@ -1,0 +1,72 @@
+[
+  {
+    "value": "піддослідні риби з ногами",
+    "path": "/0/1/0/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "ґліпи",
+    "path": "/0/1/1/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "волтипи",
+    "path": "/0/1/2/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "міасмопи",
+    "path": "/0/1/3/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "снаунти",
+    "path": "/0/1/4/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "лілодони",
+    "path": "/0/1/5/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "поптопи",
+    "path": "/0/1/6/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "петрикуби",
+    "path": "/0/1/7/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "окулоби",
+    "path": "/0/1/8/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "феннікси",
+    "path": "/0/1/9/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "бобфи",
+    "path": "/0/1/10/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "монстри",
+    "path": "/0/1/11/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "монстри",
+    "path": "/0/1/12/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "птахи",
+    "path": "/0/1/13/1/name",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пряке варення з неонових динь."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Неонове варення"
+  }
+]

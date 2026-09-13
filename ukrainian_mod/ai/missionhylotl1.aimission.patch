@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "value": "The Grand Pagoda Library"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "value": "Revisit the Grand Pagoda Library"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "value": "This ancient island complex has been calculated to be the approximate location of the Hylotl Artifact."
+  }
+]

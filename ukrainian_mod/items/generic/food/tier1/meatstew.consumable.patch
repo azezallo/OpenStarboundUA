@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Як робила мама!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тушковане м'ясо"
+  }
+]

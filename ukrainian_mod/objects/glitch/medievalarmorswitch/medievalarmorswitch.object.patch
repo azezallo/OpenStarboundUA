@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блискуча броня стоїть рішуче. Хм... Щит виглядає ослабленим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підозріла демонстраційна броня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гарний набір обладунків. Щит виглядає пухким."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, це бойові обладунки. Щит виглядає дивно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чи носить металевий обладунок? Флоран відчуває тут щось дивне."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Ця броня має механізм перемикання під щитом."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Привабливий обладунок. Якби це був фільм, щит був би секретним перемикачем."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця броня виглядає так, ніби ніколи не бачила бою. Щит виглядає особливо кволим."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Здається непотрібним одягати щось подібне під час бою. Що з щитом?"
+  }
+]

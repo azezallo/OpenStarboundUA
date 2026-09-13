@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Відкрийте силу природи!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Виноградний кулак"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Vine Fist ^yellow;^reset;"
+  }
+]

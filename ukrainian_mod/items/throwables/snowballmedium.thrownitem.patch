@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середній сніжок"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Він більший за звичайний сніжок, але його можна кинути."
+  }
+]

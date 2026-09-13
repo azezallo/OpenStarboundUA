@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Штрикни їх разок за мене!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Не дайте їм втекти!",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Я був на волосину від смерті!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Варто бути обережнішим наступного разу. Це було близько.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "ой"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Салон Плювальниця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Хтось плюнув у цей горщик. Як нецивілізовано!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тут повно плювок..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран навіть не хоче знати."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нудотно. Мені шкода, що я проаналізував вміст цього горщика."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не впевнений, чого я очікував..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "ой Всередині не дуже гарне видовище..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Старий добрий куспідор..."
+  }
+]

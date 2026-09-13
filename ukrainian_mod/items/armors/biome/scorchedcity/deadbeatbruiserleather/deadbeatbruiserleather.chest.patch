@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Поношена шкіряна куртка, обгоріла від екстремальних умов."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Куртка Deadbeat Bruiser"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Данина Георгію V! Розробник Ultimate! ВСІ ПРИВІТ ДЖОРДЖ!!!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пам'ятник Джорджу Деву"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "ВСІ ПРИВІТ ДЖОРДЖ!!!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "ВСІ ПРИВІТ ДЖОРДЖ!!!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "ВСІ ПРИВІТ ДЖОРДЖ!!!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "ВСІ ПРИВІТ ДЖОРДЖ!!!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "ВСІ ПРИВІТ ДЖОРДЖ!!!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "ВСІ ПРИВІТ ДЖОРДЖ!!!"
+  }
+]

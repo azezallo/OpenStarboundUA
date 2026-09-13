@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Музичні фанфари, як правило, прелюдія до спортивної події чи жахливої ​​битви."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Charge Mech Horn"
+  }
+]

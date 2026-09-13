@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ярррр, я серденько!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яне колесо корабля"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Контрольний пристрій."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Для керування пташиним дирижаблем."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Крути колесо, керуй кораблем."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. Неточний спосіб управління судном."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Капітанське колесо!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Зовні підходить для керування кораблем на хвилях, а не в повітрі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Корабельне колесо. Я бачив декілька раніше."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Голограма, що відображає останні тенденції моди Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Модна голограма Hylotl"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Hylotl мають цікавий смак в одязі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці стилі не ті, до яких я звик..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Мода Fishman. Флоран не подобається."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Цікаво, чи підійде мені цей одяг?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Незважаючи на всю їх претензійність, я повинен визнати, що Hylotl стильні."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці образи дуже актуальні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Можливо, я повинен спробувати моду Hylotl?"
+  }
+]

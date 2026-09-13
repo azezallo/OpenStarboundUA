@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця машина запускає гру під назвою «Stylish Thief Wasteland»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зелена аркадна машина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стильна Thief Wasteland розповідає про злодії, які грабують інших злодіїв. Перемагає найстильніший злодій!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Щоб досягти успіху в Stylish Thief Wasteland, потрібні певні навички й удача."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стильна злодійська гра! Флорану подобається ця гра!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. У Stylish Thief Wasteland стильні злодії зіткнуться з іншими стильними злодіями. 8/10."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Стильна Thief Wasteland найкраща! Я збираюся бути найстильнішим злодієм з усіх."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стильний Thief Wasteland часто критикують за зображення насильства, але ви повинні захоплюватися їхнім відчуттям моди."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "У Stylish Thief Wasteland є щось таке, що мені справді подобається."
+  }
+]

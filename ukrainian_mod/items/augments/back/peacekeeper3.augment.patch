@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Модуль EPP, який підвищує захист і дає м’яке світло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Миротворець III Доповн"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "value": "Миротворець III"
+  }
+]

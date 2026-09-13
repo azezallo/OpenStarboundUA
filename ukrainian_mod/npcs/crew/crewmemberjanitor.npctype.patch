@@ -1,0 +1,52 @@
+[
+  {
+    "value": "прибиральник",
+    "path": "/scriptConfig/crew/role/name",
+    "op": "replace"
+  },
+  {
+    "value": "за чистотою",
+    "path": "/scriptConfig/crew/role/field",
+    "op": "replace"
+  },
+  {
+    "value": "Я <selfname>... Прибиральник.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мене звати <selfname>... Я прибиральник.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран <selfname>... Робота флорана - підмітати. Багато.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флорана звати <selfname>. <selfname> - прибиральник.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нудьга. Я <selfname>... Прибиральник.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Захоплено. Робота - це робота, але все ж...",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Коли приміщення забруднюється, хтось повинен прибирати. І це моя робота.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мене звати <selfname>, я прибиральник. Я беруся за будь-яку роботу, яку мені дають.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1",
+    "op": "replace"
+  }
+]

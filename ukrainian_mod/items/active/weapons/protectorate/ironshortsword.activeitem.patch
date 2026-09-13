@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Не здається таким коротким для ворогів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Залізний короткий меч"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже міцні спокійні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Безтурботні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Форма робить двері дуже безпечними."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дуже міцні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран ховається за дверима. Вискочити. Ssstab!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Така форма дверей робить їх дуже міцними."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Міцні безтурботні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Міцні спокійні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці двері виглядають досить безпечними."
+  }
+]

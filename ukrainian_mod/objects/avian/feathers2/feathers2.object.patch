@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розкішне різнокольорове пір’я, розташоване як квіти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Барвистий пучок пір'я"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Від якого птаха це походить? Пір'я занадто великі, щоб бути пташиними."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пташині прикрашають скроні пір'ям, що випали з крил різнокольорових птахів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран також прикрашаємо пір'ям. Флоран візьме пір'я за трофей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Від якої істоти походять ці пір'я?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вони, мабуть, походять від одного великого птаха."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Неможливо заперечити красу пір'я."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці пір'я виглядають дуже красиво."
+  }
+]

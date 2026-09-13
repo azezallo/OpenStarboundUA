@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Повідомлення графіті."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "шлях заблоковано"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Заблоковано, а? Ми побачимо про це!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ой, можливо, мені не варто ігнорувати це."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не звертає уваги."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Твердження вірне чи хибне?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Коли графіті виявилися правдою?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Автор цього повідомлення невідомий, що ставить під сумнів достовірність."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Що завгодно!"
+  }
+]

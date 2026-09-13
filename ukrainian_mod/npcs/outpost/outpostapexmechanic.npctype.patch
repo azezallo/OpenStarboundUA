@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "It is not much, but I do what I can to keep this place ticking over."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "value": "It is not much, but I do what I can to keep this place ticking over."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/apex/0",
+    "value": "Welcome my friend! Good to see others have escaped the tyranny of Big Ape."
+  }
+]

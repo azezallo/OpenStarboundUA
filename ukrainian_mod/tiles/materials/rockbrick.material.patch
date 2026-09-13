@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Грубо виготовлена кам'яна цегла.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Кам'яна цегла",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Байдужість. Звичайні камені, складені як цегла.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ссскладені камені.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Це всього лиш купа каміння, нічого цікавого.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Пружна, еластична рослина.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Пружиниста рослина",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран підстрибує на ньому.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Весело. Рослина у формі пружини.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

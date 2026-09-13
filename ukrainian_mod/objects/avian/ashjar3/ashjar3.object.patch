@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Баночка знайомої форми. Це виглядає злим і розбитим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знайома баночка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця банка виглядає дуже знайомою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я ніколи раніше не бачив такої глеки, можливо, останки людини з почуттям гумору."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цікаво, яка ця істота на смак."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Я ніколи раніше не бачив такої істоти."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гей, це схоже на..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дивна істота."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Яке це створіння має виглядати?"
+  }
+]

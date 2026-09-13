@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це зручний шарф ручної в’язки. Закутуйся, інакше застудишся!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зимовий шарф"
+  }
+]

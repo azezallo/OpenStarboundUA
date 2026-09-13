@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Двері камери підземелля, створені, щоб вмістити навіть найсильнішого в’язня."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічні двері камери"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Неймовірно міцні двері камери."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Двері великої міцності."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Міцні металеві двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. Глітч замикає в'язнів за такими дверима. Часто вони є іншими збоями, які отримали самосвідомість."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ніхто не втече з камери з такими дверима."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гілотлі ставляться до своїх в'язнів як до почесних гостей."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хороші двері, щоб розбійників тримати на замку."
+  }
+]

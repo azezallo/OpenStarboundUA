@@ -1,0 +1,67 @@
+[
+  {
+    "value": "^orange;Убити ціль",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Знайти підказку до місцезнаходження цілі",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти знайшов підказку. Куди вона веде?",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Подорожуй^reset; до ^green;%s^reset;",
+    "path": "/scriptConfig/objectives/findWorldStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Обшукай^reset; планету на наявність сигнатури цілі",
+    "path": "/scriptConfig/objectives/findClueItemStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Шукай^reset; підказки",
+    "path": "/scriptConfig/objectives/findClueItemStage/1",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nПідказка, яку я тут знайшов, привела мене до <next.coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/prev/0",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nЯ виявив тут зачіпку, яка веде мене до <next.coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/prev/1",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;<bounty.name>^reset; востаннє бачили на <coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;<bounty.name>^reset; був востаннє помічений на <coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Слід ^orange;<bounty.name>^reset; охолов на <coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Слід охолов! Без подальших зачіпок <bounty.name> знову вислизнув з наших рук. Хтозна, які жахливі злочини вони вчинять, перш ніж у нас з'явиться ще один шанс їх схопити?",
+    "path": "/scriptConfig/generatedText/failureText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вичерпавши всі наявні зачіпки, ми змушені відмовитися від полювання на <bounty.name>. Це темний день для правосуддя.",
+    "path": "/scriptConfig/generatedText/failureText/default/1",
+    "op": "replace"
+  }
+]

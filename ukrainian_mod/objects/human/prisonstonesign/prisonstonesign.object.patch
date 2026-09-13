@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "USCM, га? Я б не хотів бути одним із їхніх в'язнів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак виправної колонії USCM"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Сміливе відображення авторитету USCM – це вже не те, що має велике значення."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Немає ризику забути, хто керує цим місцем."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Великий камінь для короткого імені. Тепер Флоран хоче рок з іменем Florans!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "хвилювався. Схоже, ця скеля походить із стародавнього могильника. Воно може бути прокляте!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Щось у цьому знаку морозить мене до глибини душі. Виглядає холодно і обвітрено."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "USCM знову вимагав відчути свою присутність."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це точно виглядає як величний надгробок. Для деяких я впевнений, що це майже так."
+  }
+]

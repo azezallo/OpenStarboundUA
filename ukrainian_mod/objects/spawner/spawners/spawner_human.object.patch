@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створіть свого власного жителя села!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Спаунер людини"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Нескінченна кількість безшерстих мавп."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чого я можу хотіти від людей?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не впевнений, що хоче викликати м’ясних людей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Занепокоєння. Я чув, що люди забобонні щодо такого роду речей."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Що це за зловісне дияволство! Людські клони?! приголомшливо"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Людський спаунер. Як чудово марно."
+  }
+]

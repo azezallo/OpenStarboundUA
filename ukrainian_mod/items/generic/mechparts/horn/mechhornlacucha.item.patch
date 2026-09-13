@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "La cucaracha, la cucaracha, ya no puede caminar!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мелодія Mech Horn"
+  }
+]

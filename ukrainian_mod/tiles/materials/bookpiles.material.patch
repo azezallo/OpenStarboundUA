@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Pile of Books"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Купа запорошених старих книжок, вони повні казок про драконів і лицарів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розважали. У цих книгах записані чудові історії."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Велич не знайдено в книгах."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якісь запорошені книжки. Хто не любить слухати гарну історію?"
+  }
+]

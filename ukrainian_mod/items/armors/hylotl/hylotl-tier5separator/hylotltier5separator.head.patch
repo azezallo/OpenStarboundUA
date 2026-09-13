@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей скрипковий шолом створений для дослідження глибин."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Океанський шолом"
+  }
+]

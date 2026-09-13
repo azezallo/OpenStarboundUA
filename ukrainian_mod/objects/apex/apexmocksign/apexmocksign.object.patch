@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зіпсований плакат великої мавпи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак непокори"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Схоже, хтось не любить Big Ape."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Зіпсований плакат великої мавпи. Хороша робота."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран вважає мавпочку смішною!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Хтось зіпсував цей плакат Великої мавпи."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, хтось не боїться Міннаука."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Навіть у часи гноблення Apex витрачає тайм-аут, щоб псувати плакати."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Плакат Defacin' a Big Ape — сміливий крок. Б'юся об заклад, хтось заплатив ціну."
+  }
+]

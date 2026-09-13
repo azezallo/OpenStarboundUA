@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Штани бандита. Можливо вкрадено."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани Бандита"
+  }
+]

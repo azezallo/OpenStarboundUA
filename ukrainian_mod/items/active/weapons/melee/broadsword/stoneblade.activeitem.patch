@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей кам'яний меч виходить зі скелі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кам'яний меч"
+  }
+]

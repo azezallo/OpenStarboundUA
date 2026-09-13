@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гігантський гриб агарського походження."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гігантський агарський гриб"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Симпатичніше за агаранців."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, для чого служить цей гриб."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран знає твій секрет, маленький грибник. Флоран мовчи."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Це живий агаранець, вміло замаскований."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Потрібна більше гусениці."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мерзенний гриб агарського походження."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Що такого особливого в цьому грибі?"
+  }
+]

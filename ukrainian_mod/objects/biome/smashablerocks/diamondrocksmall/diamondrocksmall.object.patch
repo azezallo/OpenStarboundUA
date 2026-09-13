@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тріснута скеля, повна діамантів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мала діамантова скеля"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, у цій крихкій скелі є алмаз."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якщо я розіб'ю цю скелю, я зможу зібрати в ній алмазну руду."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучий камінь. Ssssmash це!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Цей камінь містить алмаз і вкритий тріщинами."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Камінь, повний діамантів! Можливо, я зможу його зламати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Швидкий удар по цій скелі звільнить діамант усередині."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Скеля багата алмазами. Я повинен його зламати."
+  }
+]

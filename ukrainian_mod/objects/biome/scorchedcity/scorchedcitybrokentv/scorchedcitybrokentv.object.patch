@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розбитий телевізор."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розбитий стильний телевізор"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Розбитий екран цього телевізора."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Зламаний телевізор."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Телебачення зламано."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Сумно. Зламаний телевізор."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Екран розбитий. Однак навіть це краще, ніж статичне."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Розбитий телевізор."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Екран точно розбитий добре."
+  }
+]

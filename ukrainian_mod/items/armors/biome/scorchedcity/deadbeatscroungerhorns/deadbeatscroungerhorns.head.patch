@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хвороблива зелена маска з рогами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мертві торгові роги"
+  }
+]

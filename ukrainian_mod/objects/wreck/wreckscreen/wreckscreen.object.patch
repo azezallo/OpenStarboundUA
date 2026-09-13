@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розбитий монітор, зараз мало користі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зруйнований монітор"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Повністю зламаний, користі мало."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тут нічого не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Розбитий монітор."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Зламаний без ремонту."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Розбитий монітор. Не виправляється."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Скло гостре, я краще буду обережним."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Щось розбило це."
+  }
+]

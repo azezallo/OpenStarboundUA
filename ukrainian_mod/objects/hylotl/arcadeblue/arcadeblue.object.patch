@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Машина запускає гру під назвою «Psychedelic Rodeo Melee»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Блакитна аркадна машина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Psychedelic Rodeo Melee дійсно відкрив мені очі. Зараз я бачу все трохи інакше."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Psychedelic Rodeo Melee насправді дуже заспокійлива гра."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран подумав про гру під назвою Psychotic Rodeo Melee, захопився. не є."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. Я ставлю Psychedelic Rodeo Melee 4/10."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ви ніколи не дізнаєтеся про це, враховуючи назву, але Psychedelic Rodeo Melee досить глибока."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я вважаю, що за своєю суттю Psychedelic Rodeo Melee — це історія дорослішання."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Психоделічний родео ближнього бою? Це зовсім не схоже на справжнє родео..."
+  }
+]

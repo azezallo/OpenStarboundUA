@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Здається безвідповідальним залишати купу немаркованих хімікатів без нагляду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крута хімічна полиця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Полиця, повна експериментальних сумішей."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Зілля алхіміка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Небезпечна липка рідина."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Що станеться, якщо я вип'ю один?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не думаю, що на цій полиці можна пити щось безпечне."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Багато з цих рідин можуть вбити за секунди."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я відчуваю, що вони не для пиття."
+  }
+]

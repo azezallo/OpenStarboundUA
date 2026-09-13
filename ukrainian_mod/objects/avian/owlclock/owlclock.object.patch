@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тік, так, так, так."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сова настінний годинник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Милий годинник, його очі рухаються."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Приземлені люблять майструвати для задоволення."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Годинник Birdman має підступні очі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Очі рухаються щосекунди."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Який чарівний годинник."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Перед цим таймером важко не посміхнутися."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Годинник у формі сови. Це якось мило."
+  }
+]

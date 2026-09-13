@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей жучок неймовірно липкий. На голові має два довгих роги."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Грязьовий штамп"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця машина запускає гру під назвою «Cool Wizard Island»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Червона аркадна машина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Він називається Cool Wizard Island. Мені здається, що я маю правити цим островом, населеним Крутим Чарівником. цікаво..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "На Cool Wizard Island моя мрія керувати островом, населеним крутими чарівниками, нарешті здійснилася."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чарівники на Cool Wizard Island підпалили речі своїми руками! Як Флоран може навчитися цьому трюку?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Якщо я не буду обережний, то змарну цілий день, граючи в Cool Wizard Island. 9/10."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "У Cool Wizard Island ви — мер-чарівник на острові, повному крутих чарівників. Це було дуже популярно на Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Cool Wizard Island була однією з моїх улюблених аркадних ігор, коли я був молодим Гілотлом. Мені сподобалося прикрашати острів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Бути мером-чарівником на Cool Wizard Island, звичайно, забирає багато часу. У мене немає терпіння для такої відповідальності."
+  }
+]

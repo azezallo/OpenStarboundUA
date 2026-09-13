@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Найкраща автоматизована турель безпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Високотехнологічна турель"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Завжди готовий до стрільби."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я повинен рухатися, як вітер, щоб залишитися непоміченим цією вежею."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Такі яскраві лазери. Не хочу бути в їхньому полі зору."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Рішучий. Я не повинен стати мішенню."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Автоматизований охоронний пістолет. Огидна робота."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Нагадування про надзвичайні межі, на які деякі підуть."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Автоматизована зброя не має душі, щоб перевірити її."
+  }
+]

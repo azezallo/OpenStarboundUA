@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прилад для моніторингу сейсмічної активності."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сейсмограф"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей пристрій можна використовувати для реєстрації землетрусів. Корисний інструмент для деяких."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це малювання однієї лінії, яка час від часу рухається вгору та вниз. Цікаво."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Металева штука червона. Червоний - гарний колір."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інформований. Цей пристрій відстежує рухи в місцевості."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця штука відслідковує сейсмічну активність. Досить акуратно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Постійне вимірювання хвиль нагадує мені припливи та відпливи океану."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це машина для моніторингу сейсмічної активності."
+  }
+]

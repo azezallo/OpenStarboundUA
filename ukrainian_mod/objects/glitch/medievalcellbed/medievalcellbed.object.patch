@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Надзвичайно проста грядка з сіна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічна грядка з сіна"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Незручне на вигляд ліжко, в якому лише трохи сіна для тепла."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якомога ближче до гнізда."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ліжко занадто жорстке. У Флорана болить спина."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Я не можу уявити, щоб тут хтось добре виспався."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Грядка з сіна. Я не можу уявити собі спати цю ніч за ніччю."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Незручне ліжко, зроблене з сіна та твердої деревини."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це ліжко має бути формою покарання."
+  }
+]

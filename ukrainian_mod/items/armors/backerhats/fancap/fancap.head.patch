@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Спортивна бейсболка для справжнього фаната."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Спортивна кепка"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потерта шкіряна куртка з підплічниками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Куртка Deadbeat Thug"
+  }
+]

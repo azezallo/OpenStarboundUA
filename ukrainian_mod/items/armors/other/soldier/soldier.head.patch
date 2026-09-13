@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей шолом дійсно вимагає уваги!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Солдатський шолом"
+  }
+]

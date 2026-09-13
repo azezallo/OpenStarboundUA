@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Жахливе очне яблуко."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жахливе очне яблуко."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ссспогляд."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Відраза. Жахливе очне яблуко."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Сніг.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Сніг",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Сссніг.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Сніг.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

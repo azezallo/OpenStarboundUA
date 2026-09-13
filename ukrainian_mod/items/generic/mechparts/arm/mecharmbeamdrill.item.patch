@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Удосконалена універсальна рукоятка, яка запускає швидко пульсуючий промінь для видобутку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Beam Drill Mech Arm"
+  }
+]

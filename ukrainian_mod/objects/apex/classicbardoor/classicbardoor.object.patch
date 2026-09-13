@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці двері чудово виготовлені."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичні заґратовані двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Важкі, заґратовані двері. Ручка здається чистим золотом."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці двері були створені з великою любов’ю... або страхом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Міцні двері. Але ніщо не стримує Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Для виготовлення дверей такого калібру потрібна професійна майстерність."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це великі, стильні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вишукана майстерність."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Великі заґратовані двері з блискучою ручкою."
+  }
+]

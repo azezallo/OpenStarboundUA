@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сніговий замет."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сніговий замет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Купа снігу. Бій сніжками!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Купа холодного снігу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран сховатися в снігу. Вискочити. Ssstab sssnowman."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Туга. Лежати в цій купі снігу та створювати снігових янголів може бути погано для моїх внутрішніх схем."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей сніг просто проситься, щоб його пнули."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Холодний, красивий сніг. Можливо, я його зберу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це купа снігу."
+  }
+]

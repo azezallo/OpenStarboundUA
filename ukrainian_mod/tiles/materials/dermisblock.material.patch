@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Шкіра Руїни",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "М'ясиста маса з тонкою жорсткою шкірою.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Враження. Товщина цієї шкіри робить її неймовірно міцною.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Міцна шкіра - хороший захиссст.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ця шкіра виглядає жорсткішою, ніж мої файні шкіряні чоботи.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

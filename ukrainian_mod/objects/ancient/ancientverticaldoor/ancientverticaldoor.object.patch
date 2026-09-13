@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старовинний вертикальний дверний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стародавній Люк"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Старовинні вертикальні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Старовинний люк."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це схоже на двері в підлозі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Цей люк старовинний."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Люка для горизонтального руху просто недостатньо."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Старовинний люк, сам по собі реліквія."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Люк в підлозі. Виглядає дуже старим."
+  }
+]

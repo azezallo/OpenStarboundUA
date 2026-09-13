@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розфарбуйте місто в червоний колір!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Червоний рушник"
+  }
+]

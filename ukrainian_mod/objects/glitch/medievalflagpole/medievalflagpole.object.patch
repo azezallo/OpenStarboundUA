@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Флагшток підійде для покриття будь-якої будівлі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічний флагшток"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стовбок прапора. Створений для розміщення на даху, звідки його видно за милі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Прапор на довгому древку, на якому майорить емблема."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Крихітний прапорець на довгій жердині."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гордий. Було б приємно побачити це на вершині свого будинку."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Прапор на довгій жердині, щоб усі могли його бачити."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дуже стильний прапор, емблема може означати королівську сім'ю."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Чудовий золотий прапор."
+  }
+]

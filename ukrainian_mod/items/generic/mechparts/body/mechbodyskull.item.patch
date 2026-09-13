@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Корпус механізму, створений для скритності та проникнення, персоналізований моторошним обличчям черепа."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Nightwinder Mech Body"
+  }
+]

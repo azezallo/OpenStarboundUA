@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це сяюча лоза!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Glow Vine"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Сяючі вусики."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Є щось прекрасне в цих ліанах."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сяючий зелений виноград."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Я б хотів, щоб ці сяючі ліани росли в кожній печері."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Моторошні світяться лози."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці виноградні лози схожі на хвилюючі морські водорості безодні, їх слабке сяйво піднімає настрій."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "З цих виноградних лоз можна робити всілякі корисні речі."
+  }
+]

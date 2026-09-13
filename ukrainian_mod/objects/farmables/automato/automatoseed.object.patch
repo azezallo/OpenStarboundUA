@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Автомати! Обов’язково виплюньте гвинти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Автоматичне насіння"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Автоматики... досить стандартні, якщо не ламати зуби об гвинти."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Автомати. Насіння самі по собі дуже смачні."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "М'ясистий і соковитий, з хрусткими шматочками. Як люди."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "несхвально. Інші видаляють гвинти. The Glitch відчувають, що вони покращують смак."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Помідор, наповнений шурупами. Смачно, але небезпечно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Звичайна глюкова селянська їжа. Не на мій смак."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Автомати мають гострий, металевий смак."
+  }
+]

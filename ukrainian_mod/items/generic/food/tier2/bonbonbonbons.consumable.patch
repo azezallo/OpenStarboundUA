@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Еврика! Єдиний можливий спосіб покращити досконалість – це примножити її."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бон Бон Бон Бонс"
+  }
+]

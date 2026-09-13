@@ -1,0 +1,172 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Оглядайте навколишній світ. ^green;Швидкий вибір за допомогою клавіші [N]."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Режим перевірки"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/default/0",
+    "value": "Я не бачу цього місця."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/default/1",
+    "value": "Мені потрібно підійти ближче, щоб це побачити."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/default/2",
+    "value": "Я не бачу цього звідси."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/default/3",
+    "value": "Я не настільки близько, щоб це побачити."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/novakid/0",
+    "value": "Мої очі не зовсім такі хороші; треба підійти ближче."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/novakid/1",
+    "value": "Я не настільки близько, щоб це зрозуміти."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/novakid/2",
+    "value": "Потрібно підійти ближче, щоб правильно це побачити."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/novakid/3",
+    "value": "Звідси цього не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/floran/0",
+    "value": "Флорану звідси не видно!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/floran/1",
+    "value": "Флорану потрібно підійти ближче, щоб це побачити."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/floran/2",
+    "value": "Флоран не бачить цього ssspot."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/floran/3",
+    "value": "Флоран не так близько, щоб це побачити."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/glitch/0",
+    "value": "Розчарований. Я не бачу цього місця з цієї позиції."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/glitch/1",
+    "value": "спантеличений. Я не знаю, що це таке; можливо мені варто підійти ближче."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/glitch/2",
+    "value": "Розчарований. Я не бачу цього звідси."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/glitch/3",
+    "value": "Роздратований. Я не настільки близько, щоб це побачити."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/default/0",
+    "value": "Тут немає нічого цікавого."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/default/1",
+    "value": "Тут нічого не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/default/2",
+    "value": "Це не зовсім нічого."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/default/3",
+    "value": "Нема про що говорити."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/novakid/0",
+    "value": "Я малюю заготовку."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/novakid/1",
+    "value": "Там немає нічого, про що варто говорити."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/novakid/2",
+    "value": "Там немає нічого цікавого."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/novakid/3",
+    "value": "Це просто багато нічого."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/floran/0",
+    "value": "Нічого цікавого."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/floran/1",
+    "value": "Нічого не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/floran/2",
+    "value": "Це нічого."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/floran/3",
+    "value": "Нема про що говорити."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/glitch/0",
+    "value": "Не вражений. Тут немає нічого цікавого."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/glitch/1",
+    "value": "Нейтральний. Там нічого немає."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/glitch/2",
+    "value": "Розчарований. Нічого цікавого."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/glitch/3",
+    "value": "Безкорисливий. Це не зовсім нічого."
+  }
+]

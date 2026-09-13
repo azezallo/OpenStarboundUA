@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Чим можу прислужитися, легіню?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Повертайся скоріше, легіню!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ходімо зі мною, якщо хочеш перехилити чарку!",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ну ось, що тобі налити?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хочеш перехилити чарку?",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Здоров! Хочеш перехилити чарку?",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/1",
+    "op": "replace"
+  }
+]

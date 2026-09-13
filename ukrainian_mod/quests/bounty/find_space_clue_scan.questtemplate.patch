@@ -1,0 +1,77 @@
+[
+  {
+    "value": "^orange;Нагорода за вбивство",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Знайти підказку до місцезнаходження цілі",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти знайшов підказку. ХММММ, куди вона веде?",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Вирушай^reset; до ^green;%s^reset;",
+    "path": "/scriptConfig/objectives/findSpaceBountyStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Наблизься^reset; до ^green;Схованки злочинця^reset;",
+    "path": "/scriptConfig/objectives/findSpaceBountyStage/1",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Висадися^ у ^green;Схованці злочинця^reset;",
+    "path": "/scriptConfig/objectives/findSpaceBountyStage/2",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Обшукай^reset; космос на наявність сигнатури цілі",
+    "path": "/scriptConfig/objectives/findClueScanStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Шукай^reset; підказки",
+    "path": "/scriptConfig/objectives/findClueScanStage/1",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nПідказка, яку я знайшов у космосі, привела мене до <next.coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/prev/0",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nЯ виявив зачіпку на космічному об'єкті, яка веде мене до <next.coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/prev/1",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;<bounty.name>^reset; востаннє бачили на <coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;<bounty.name>^reset; востаннє помітили на <coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Слід ^orange;<bounty.name>^reset; охолов на <coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Слід охолов! Без жодних подальших зачіпок <bounty.name> знову вислизнув крізь наші пальці. Хто знає, які жахливі злочини він скоїть, перш ніж ми отримаємо ще один шанс його знешкодити?",
+    "path": "/scriptConfig/generatedText/failureText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вичерпавши всі доступні зачіпки, ми змушені припинити полювання на <bounty.name>. Це темний день для справедливості.",
+    "path": "/scriptConfig/generatedText/failureText/default/1",
+    "op": "replace"
+  }
+]

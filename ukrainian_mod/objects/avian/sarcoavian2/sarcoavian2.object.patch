@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Майстерно виготовлений пташиний саркофаг. Перо свідчить про те, що воно було для когось важливого."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великий пташиний саркофаг"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Саркофаг. Цікаво, чи є хтось усередині."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Найбагатші та найшановніші пташині зберігають у них усі свої тіла. Перо означає прихильність звіздарів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Закуска всередині не свіжа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Пташине всередині справді дуже старе."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Запорошений саркофаг."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гілотлі віддають своїх мертвих океану."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Місце для трупа."
+  }
+]

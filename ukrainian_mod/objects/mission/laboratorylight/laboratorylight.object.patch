@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гладкий настінний червоний світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лабораторне світло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей світильник, розроблений Miniknog, працює навіть при низькій потужності."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця лампа відволікає."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Світло спонукає Флорана до бою."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Це дуже енергоефективна лампа."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця лампа випромінює гаряче червоне світіння. Це трохи неприємно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це світло споживає дуже мало енергії. Це на відміну від Miniknog бути екологічно свідомим."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Світиться червоним, як сонце, що згасає."
+  }
+]

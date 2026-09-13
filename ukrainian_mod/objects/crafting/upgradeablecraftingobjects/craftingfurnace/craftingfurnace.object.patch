@@ -1,0 +1,212 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Використовується для перетворення руд та інших матеріалів на інгредієнти для крафта."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Первісна піч^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Примітивна піч. Я відчуваю запахи тут."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Основна піч, ідеальна для плавки руди."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Полум'я печі шипить, горить. Флоран сміливий."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Ця піч є ідеальною температурою для плавки основних руд."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Плавильна піч. Виглядає гаряче."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гаряча імпозантна піч."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Звичайна піч для плавки руди."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "value": "Примітивна піч використовується для перетворення руди та інших матеріалів на інгредієнти для ремесел."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "value": "^orange;Первісна піч^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "value": "Примітивна піч. Я відчуваю запахи тут."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "value": "Основна піч, ідеальна для плавки руди."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "value": "Полум'я печі шипить, горить. Флоран сміливий."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "value": "Вражений. Ця піч є ідеальною температурою для плавки основних руд"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "value": "Плавильна піч. Виглядає гаряче."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "value": "Гаряча імпозантна піч."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "value": "Звичайна піч для плавки руди."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Примітивна піч"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Bатончики та інгредієнти"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "value": "Промислова піч використовується для перетворення руди та інших матеріалів на інгредієнти для крафта."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "value": "^orange;Промислова піч^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "value": "Промислова піч. Тут я можу плавити титан та інші матеріали."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "value": "Промислова піч ідеальна для виробництва титану та інших сплавів."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "value": "Полум'я печі шипить, горить. Може розплавити потужний барс."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "value": "Задоволений. Піч є ідеальною температурою для виготовлення титану та більш міцних сплавів."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "value": "Промислова піч, достатньо гаряча для плавлення титану та інших матеріалів."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "value": "Дуже гаряча, велична промислова піч. З цим я можу робити міцніші матеріали."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "value": "Випромінювання тепла інтенсивне. Якби я міг потіти, я б добре пітнів."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Промислова піч"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Bатончики та інгредієнти"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "value": "Атомна піч використовується для перетворення руд та інших матеріалів на інгредієнти для крафта."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "value": "^orange;Aтомна піч^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+    "value": "Атомна піч. З цим я можу створювати неймовірно міцні сплави."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+    "value": "Атомна піч. Ідеально підходить для виготовлення ще міцніших сплавів."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+    "value": "Блискуча штука ssspin, ssspin, ssspin. Робіть сильніші блискучі речі."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+    "value": "вражений. Ця атомна піч достатньо вдосконалена, щоб поєднувати руди в сплави."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+    "value": "Атомна піч. Цей пристрій достатньо потужний для створення очищеної руди та сплавів."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+    "value": "Атомна піч. З цього я можу виготовляти очищену руду та сплави."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+    "value": "Міг би очищати деякі могутні потужні сплави за допомогою цієї атомної печі."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Атомна піч"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Bатончики та інгредієнти"
+  }
+]

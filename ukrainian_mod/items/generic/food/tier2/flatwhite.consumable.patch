@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кава з молоком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плоска біла кава"
+  }
+]

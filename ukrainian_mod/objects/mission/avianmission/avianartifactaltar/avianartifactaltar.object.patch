@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Схоже, його створили, щоб зберігати щось важливе."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вівтар пташиного артефакту"
+  }
+]

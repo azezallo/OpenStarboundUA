@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Місячний",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Множин.",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Піксельний",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Земний",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

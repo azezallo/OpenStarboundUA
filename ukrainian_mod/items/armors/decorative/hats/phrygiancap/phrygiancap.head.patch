@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей фригійський ковпак - це вибух з минулого."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фригійська шапка"
+  }
+]

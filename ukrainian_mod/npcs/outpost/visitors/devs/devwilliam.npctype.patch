@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/identity/name",
+    "value": "William"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Hi! I'm William. A programmer from Earth. I specialise in AI."
+  }
+]

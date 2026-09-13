@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Silver Platform"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Полірована платформа з чистого срібла."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Delighted. I can see my reflection in these silver platforms."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Платформи зі срібла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я вважаю, що ця платформа на вагу срібла."
+  }
+]

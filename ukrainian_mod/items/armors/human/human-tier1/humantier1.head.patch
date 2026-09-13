@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця гарнітура для скаутера має вишуканий доповнений козирок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Козирок Скаутера"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "value": "Барон",
+    "path": "/npcname",
+    "op": "replace"
+  },
+  {
+    "value": "Ввічливість. Привіт, незнайомцю! Ласкаво просимо до моєї фортеці!",
+    "path": "/scriptConfig/dialog/baron/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я чекав на тебе... з того самого моменту, як ти увійшов через двері! Ха-ха-ха!",
+    "path": "/scriptConfig/dialog/baron/start/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Уважно. Що таке? У тебе є прохання? Річ позаду мене? Ах, ця...",
+    "path": "/scriptConfig/dialog/baron/start/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Так, я знайшов це кілька років тому. Ти не можеш взяти це: воно гарне і мені подобається.",
+    "path": "/scriptConfig/dialog/baron/showRelic/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Владно. Що ж! Тоді бувай, дивна людино!",
+    "path": "/scriptConfig/dialog/baron/showRelic/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Перелякано. Ти чуєш це?",
+    "path": "/scriptConfig/dialog/baron/alerted/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ці злочинці в каптурах! Повернулися знову! Вже вчетверте!",
+    "path": "/scriptConfig/dialog/baron/alerted/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Задумливо. Пропоную угоду: ти позбуваєшся цих сектантів - я віддаю тобі дрібничку.",
+    "path": "/scriptConfig/dialog/baron/alerted/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Вражено. Відмінна робота! Я сумніваюся, що вони ще раз прийдуть... Ти нагадав мене в молодості.",
+    "path": "/scriptConfig/dialog/baron/finalWaveComplete/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти безумовно заслужив на цю дрібничку!",
+    "path": "/scriptConfig/dialog/baron/finalWaveComplete/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Шоковано. Що це таке в небі?!",
+    "path": "/scriptConfig/dialog/baron/finalWaveComplete/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мовчазно. ...",
+    "path": "/scriptConfig/dialog/baron/finalWaveComplete/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Оцинковано. Візьми артефакт і мене прихопи.",
+    "path": "/scriptConfig/dialog/baron/missionComplete/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "У мене є телепорт, ти можеш його використати. Я йду з тобою, у мене є незакінчені справи.",
+    "path": "/scriptConfig/dialog/baron/missionComplete/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Задумливо. Крім того, тут досить нудно.",
+    "path": "/scriptConfig/dialog/baron/missionComplete/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Бадьоро. Вихід у велике невідоме!",
+    "path": "/scriptConfig/dialog/baron/beamOut/default/default/0",
+    "op": "replace"
+  }
+]

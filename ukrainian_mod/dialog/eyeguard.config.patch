@@ -1,0 +1,162 @@
+[
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "value": "*Агресія.* ТИ ЗНОВУ ТУТ!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/1",
+    "value": "*Спостережливість.* Наш ворог повертається!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/2",
+    "value": "*Залякування.* Ти повернувся! Тепер зустрінь свою смерть!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/3",
+    "value": "*Ворожість.* Я насолоджуватимусь цим!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/4",
+    "value": "*Погроза.* Я ЗНОВУ ПОБАЧИВ нашу ціль!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "*Агресія.* Я БАЧУ ТЕБЕ!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/1",
+    "value": "*Спостережливість.* Жалюгідний мандрівник наближається!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/2",
+    "value": "*Залякування.* Тобі не втекти від мого погляду!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/3",
+    "value": "*Ворожість.* Твоя історія закінчується тут, мандрівнику!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/4",
+    "value": "*Зловмисність.* Ніхто не втече від Всевидячих Хрестоносців!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/5",
+    "value": "*Ворожість.* Будь свідком своєї смерті!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/6",
+    "value": "*Зловмисність.* Прийми осліплюючу темряву!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/7",
+    "value": "*Погроза.* Я ПОБАЧИВ нашу нову ціль!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/8",
+    "value": "*Лють.* Який негідник проходить через нашу територію?!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/9",
+    "value": "*Розлюченість.* Ця земля належить Всевидячим Хрестоносцям!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/10",
+    "value": "*Ворожість.* Залиште всяку надію, ви, хто наважиться протистояти нам!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/11",
+    "value": "*Агресія.* Ти пошкодуєш, що ступив на нашу територію!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "value": "*Задоволення.* Всевидячі Хрестоносці знову перемагають!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/1",
+    "value": "*Незадоволення.* Ми повинні продовжувати наш хрестовий похід!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/2",
+    "value": "*Задумливість.* Ще одна перемога, але їх буде більше."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/3",
+    "value": "*Лють.* Я вимагаю більш гідного супротивника!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/4",
+    "value": "*Невдоволення.* Я міг би закінчити це швидше."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "value": "*Лють.* Як вони втекли від вічного погляду?!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/1",
+    "value": "*Здивування.* Як вони відвернули мій погляд?!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/0",
+    "value": "*Похмурість.* Наш ворог пішов, але обов'язково повернеться!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/1",
+    "value": "*Шок.* Вони поза моїм зором?"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/0",
+    "value": "*Розчарування.* Наш ворог - боягуз!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/1",
+    "value": "*Злість.* Наш ворог - боягуз! Зустрінься зі мною віч-на-віч!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/2",
+    "value": "*Лють.* Підійди ближче, демоне!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/0",
+    "value": "*Злість.* Вбий демона!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/1",
+    "value": "*Підтримка.* Всевидячі Хрестоносці обов'язково принесуть перемогу!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/2",
+    "value": "*Підтримка.* Я бажаю побачити знищення нашого ворога!"
+  }
+]

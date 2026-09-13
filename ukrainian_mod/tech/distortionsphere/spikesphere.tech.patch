@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворіться на сферу, яка може лазити по стінах! ^green;[F]"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "value": "Спайка Сфера"
+  }
+]

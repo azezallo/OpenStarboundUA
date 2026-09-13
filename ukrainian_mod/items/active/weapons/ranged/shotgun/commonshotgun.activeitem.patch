@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стріляє смертоносним на близькій відстані."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Звичайна рушниця"
+  }
+]

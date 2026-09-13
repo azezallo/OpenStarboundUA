@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Освіжаюча сальса з тропічних і океанських фруктів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Океанська сальса"
+  }
+]

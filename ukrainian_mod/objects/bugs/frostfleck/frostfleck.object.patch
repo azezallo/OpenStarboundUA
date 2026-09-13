@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цього жука легко прийняти за сніжинку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фростфлек"
+  }
+]

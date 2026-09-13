@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чарівна та добре зроблена дерев’яна шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічний кабінет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Висока дерев'яна шафа. Багато місця для зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Містка шафа. Не сплутати з флігелем."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Високий дерев'яний ящик. Good for Floran to hide in."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Чудово зроблена дерев'яна шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, чи є тут ворота в інший світ."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Приваблива шафа з дерева з вигадливим орнаментом."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарна на вигляд шафа."
+  }
+]

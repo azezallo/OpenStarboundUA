@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцні платформи зі стебел бамбука."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бамбукова платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "З надією. Ця бамбукова платформа неймовірно міцна."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Флоран вирощує міцний бамбук для платформ."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Бамбук висів як платформа."
+  }
+]

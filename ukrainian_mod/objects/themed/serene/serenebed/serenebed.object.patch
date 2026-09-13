@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Надзвичайно комфортне спокійне ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Безтурботне ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дуже гарне, зручне ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це дуже зручне місце для відпочинку мого пір'я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран спокійний у чудовому ліжку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "в захваті. Це ліжко якраз потрібної висоти."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чудове ліжко. Тут можна легко відпочити."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дуже гідна якість збірки. Мені подобається це ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я міг би бути спокійним у цьому."
+  }
+]

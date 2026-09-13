@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Останки якогось невідомого створіння.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Останки",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Шшвидше за всссе, флоран убив його.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Стародавні останки.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

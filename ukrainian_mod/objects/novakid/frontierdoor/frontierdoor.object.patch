@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дерев'яні двері, прикрашені залізною емблемою з обох боків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прикордонні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "На цих дерев’яних дверях є великий дивний символ."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, чи має значення емблема на цих дверях."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ці прикордонні двері сухі та старі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Різні матеріали поєднуються в естетично привабливий спосіб."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці двері мають дуже блискучу ручку. Мені подобається!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Символ на цих дверях мені не знайомий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Незвично бачити такі двері в прикордонних будівлях."
+  }
+]

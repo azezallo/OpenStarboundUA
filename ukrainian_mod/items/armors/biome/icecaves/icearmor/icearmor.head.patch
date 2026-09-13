@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Формована маска з льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крижана броня маска"
+  }
+]

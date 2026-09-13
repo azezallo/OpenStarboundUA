@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Не варто нервувати. Мої цілі поза межами твого розуміння.",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Не турбуйся за мене. Я цілком заслуговую на довіру. Хі-хі.",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Не бійся, я абсолютно нешкідливий.",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "По-своєму Земний Захист - теж культ.",
+    "path": "/scriptConfig/dialog/converse/human/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Жахи, що ховаються вночі... Якщо ти не можеш перемогти їх, то чому б не приєднатися до них?",
+    "path": "/scriptConfig/dialog/converse/human/default/4",
+    "op": "replace"
+  }
+]

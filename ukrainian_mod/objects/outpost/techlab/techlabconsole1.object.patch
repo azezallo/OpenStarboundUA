@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Купуйте технічні консолі за допомогою цього інтерфейсу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Диспенсер технічної консолі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тут я можу купити технічні приставки."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тут я можу купити технічну приставку."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ця машина продає корисні технічні консолі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. У цій машині можна придбати технічні консолі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Технічна консоль, яка продає технічні консолі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Своєрідний магазин, він продає технічні приставки. Дуже корисні гаджети."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тут я можу купити собі технічну консоль."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Диспенсер технічної консолі"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "TAG0GA Продає технічні консолі"
+  }
+]

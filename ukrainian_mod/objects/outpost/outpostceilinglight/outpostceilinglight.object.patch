@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Металевий світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Металевий світильник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Освітлювальний прилад з металу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Він легкий, але не привабливий."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучі вогники."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Цей світильник працює чудово."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці вогні чудові, поки вони не починають мерехтіти."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це світло суворе і невблаганне."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Світло, яке працює, чого ще можна побажати?"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Місячний",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Гострий",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Фокусув.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Централ.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

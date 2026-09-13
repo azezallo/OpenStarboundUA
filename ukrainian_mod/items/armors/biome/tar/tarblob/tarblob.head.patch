@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Густа дігтярна маска."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Густа дегтярна маска"
+  }
+]

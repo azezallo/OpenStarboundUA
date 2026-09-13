@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Таємничий дерев'яний ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великий дерев'яний ящик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дерев'яний ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ящик для зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Коробка!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Всередині щось є?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дерев'яний ящик. Він відкритий."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Відкритий ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Звичайний дерев'яний ящик."
+  }
+]

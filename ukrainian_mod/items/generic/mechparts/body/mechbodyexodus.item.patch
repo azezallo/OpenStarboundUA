@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потужне механічне тіло, кероване мережею синтетичної мозкової тканини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Exodus Mech Body"
+  }
+]

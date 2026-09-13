@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Корпус механізму, який використовується переважно піратами та найманцями зі зрозумілих причин."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Skulduggery Mech Body"
+  }
+]

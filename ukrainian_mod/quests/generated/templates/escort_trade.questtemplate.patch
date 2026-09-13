@@ -1,0 +1,97 @@
+[
+  {
+    "value": "Якась людина",
+    "path": "/parameters/target/example/name",
+    "op": "replace"
+  },
+  {
+    "value": "темну, страшну печеру",
+    "path": "/parameters/spawnPoint/example/name",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую за супровід!",
+    "path": "/scriptConfig/generatedText/fluff/0/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти й справді виручив мене, дякую!",
+    "path": "/scriptConfig/generatedText/fluff/0/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую, що виручив мене!",
+    "path": "/scriptConfig/generatedText/fluff/0/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ссспасибі за допомогу флорану!",
+    "path": "/scriptConfig/generatedText/fluff/1/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран вдячний за допомогу!",
+    "path": "/scriptConfig/generatedText/fluff/1/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ссспасибі за супровід флорана!",
+    "path": "/scriptConfig/generatedText/fluff/1/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "Спочатку потрібно ^orange;[<items>]^white;. Це потрібно доставити торговцю ^green;<target> ^orange;<spawnPoint>^white;<spawnPoint.direction>. Можеш ^green;відвезти мене туди^white;, щоб знайти торговця і ^green;отримати товар^white;?",
+    "path": "/scriptConfig/generatedText/text/first/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ссспочатку нам знадобиться ^orange;[<items>]^white;. Їх потрібно доссставити мандрівному торговцю ^orange;<target>^white; ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвезти флорана туди^white;, щоб флоран знайшов торговця <target> і ^green;отримав товар^white;?",
+    "path": "/scriptConfig/generatedText/text/first/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Енергійно. Спочатку нам знадобиться ^orange;[<items>]^white;. Їх потрібно доставити мандрівному торговцю ^orange;<target>^white; ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвезти мене туди^white;, щоб знайти торговця <target> і ^green;отримати товар^white;?",
+    "path": "/scriptConfig/generatedText/text/first/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Потім нам знадобиться ^orange;[<items>]^white;. Їх потрібно доставити мандрівному торговцю ^orange;<target>^white; ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвезти мене туди^white;, щоб знайти торговця <target> і ^green;отримати товар^white;?",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Потім нам знадобиться ^orange;[<items>]^white;. Їх потрібно доссставити мандрівному торговцю ^orange;<target>^white; ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвезти флорана туди^white;, щоб флоран знайшов торговця <target> і ^green;отримав товар^white;?",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Енергійно. Потім нам знадобиться ^orange;[<items>]^white;. Їх потрібно доставити мандрівному торговцю ^orange;<target>^white; ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвезти мене туди^white;, щоб знайти торговця <target> і ^green;отримати товар^white;?",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "<appreciation> Можеш взяти [<items>] для наступної частини завдання?",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "<appreciationfloran> Чи не міг би ти взяти [<items>] для наступної частини плану?",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вдячно. <appreciation> Чи не міг би ти взяти [<items>] для наступної частини плану?",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Приведи жителя <questGiver> до торговця <target>",
+    "path": "/scriptConfig/objectives/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Повернись до жителя <questGiver>",
+    "path": "/scriptConfig/objectives/1/text",
+    "op": "replace"
+  }
+]

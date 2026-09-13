@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика антикварна книжкова шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Велика багато прикрашена книжкова шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тут має бути пристойний місяць читання."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хтось повинен витрачати весь свій час на читання."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Яка шкода хорошої деревини для зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Глюку знадобиться багато років, щоб засвоїти таку кількість даних."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це не найбільша книжкова шафа, яку я коли-небудь бачив."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці полиці стогнуть від тягаря знань."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Вау! Це дуже багато книжок."
+  }
+]

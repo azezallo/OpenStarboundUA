@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Джерело вогняних здібностей істоти. Можна використовувати для крафта."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Випалене ядро"
+  }
+]

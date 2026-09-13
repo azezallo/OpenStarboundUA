@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці двері зроблені з якогось куленепробивного матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бронювання дверей"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці двері виглядають досить міцними, щоб утримати будь-що... або всіх."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Міцні двері. Навіть вітерець не міг проскочити."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Двері великої міцності."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "ревнивий. Такі міцні матеріали."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Величезні важкі броньовані двері."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це виглядає досить міцно, щоб стримати океан."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Дуже товсті двері."
+  }
+]

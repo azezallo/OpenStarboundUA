@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Земля втрачена, як і твори мистецтва, що там були!",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Моя безцінна колекція монет була на Землі, коли... це сталося. Я розбитий!",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Моя особа має найкращий одяг на будь-якому з прийомів!",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Хіба моє вбрання не найкраще з усіх, що ти коли-небудь бачив?",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  }
+]

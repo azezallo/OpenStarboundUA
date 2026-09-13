@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Смачні, гострі частування!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кактуси Морозиво"
+  }
+]

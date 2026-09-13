@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Можна використовувати для виробництва броні та зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Залізне ковадло^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Залізне ковадло"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Броня та зброя"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ковадло. Apex не використовував їх для металоконструкцій протягом тривалого часу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Велика залізна плита з плоскою поверхнею."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дуже важкий, корисний у пастці."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гордий. На цих ковадлах Глітч виготовляє всі види зброї. На цих ковадлах майструють навіть ковадла."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ковадло. Люди не використовували їх з самого початку своєї історії."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ймовірно, використовувався в металообробці."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ковадло. Мені вони не чужі."
+  }
+]

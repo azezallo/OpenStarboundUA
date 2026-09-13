@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Там нічого немає. Кожен канал показує лише зображення великої мавпи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Big Ape TV"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Big Ape ніколи не з'являвся на Big Ape TV."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, на цьому пристрої немає з чим взаємодіяти."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Непотрібна машина."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Пристрій отримує тисячі різних трансляцій, але всі вони здаються однаковими."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Його очі просто рухалися?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Єдині зображення великої мавпи здаються штучними."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "З екрану на мене дивиться якась істота."
+  }
+]

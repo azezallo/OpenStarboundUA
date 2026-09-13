@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей унітаз виглядає не дуже герметичним."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивний туалет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, це якийсь випадковий туалет."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Важко уявити, щоб Флоран користувався ванною."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану не потрібні шикарні туалети."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підозрілий. Цей туалет здається неможливим утримувати в чистоті через його дизайн."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Туалет. Виглядає не дуже чисто."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я вражений тим, що Флорани досить цивілізовані, щоб будувати туалети."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей туалет підійде прямо у флігель."
+  }
+]

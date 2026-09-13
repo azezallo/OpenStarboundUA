@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Окарина. Переконайтеся, що у вас є час для практики."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Окарина"
+  }
+]

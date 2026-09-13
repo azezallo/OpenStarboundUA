@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/messages/alreadyKnown",
+    "value": "Кодекс вже відомий."
+  },
+  {
+    "op": "replace",
+    "path": "/messages/learned",
+    "value": "Кодекс додано до журналу!"
+  }
+]

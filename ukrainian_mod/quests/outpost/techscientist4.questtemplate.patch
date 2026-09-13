@@ -1,0 +1,42 @@
+[
+  {
+    "value": "^orange;Стрибок у розвитку",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Моя ^orange;технологія стрибка^white; вимагає ретельного тестування, перш ніж я зможу випустити її на ринок. Чергова ^orange;смуга перешкод^white; готова і чекає! ^green;Повідом, коли зберешся з духом, і розпочнемо^white;.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Технологія стрибка^white;, схоже, працює чудово! Тримай одну, як подарунок від виробника. ^green;У мене є ще кілька ідей, тож заходь якось^white;.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Елліотт",
+    "path": "/scriptConfig/portraits/questStarted/title",
+    "op": "replace"
+  },
+  {
+    "value": "Елліотт",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "op": "replace"
+  },
+  {
+    "value": "Поговори з ^orange;Елліоттом^reset;, і йди на ^orange;смугу перешкод^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "op": "replace"
+  },
+  {
+    "value": "Пройди ^orange;тест стрибка^reset;",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "op": "replace"
+  },
+  {
+    "value": "Повернися до ^orange;Елліотта^reset; на ^orange;Аванпост^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

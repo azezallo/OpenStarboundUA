@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "У цього жука морда, як у морського коника."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Морський шершень"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Символьний блок",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Невеликі символи вкривають цей камінь.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Зачаровано. Я не знаю, про що говорять ці символи.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран не може зрозуміти ці сссимволи.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже на старі символи, легінь.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

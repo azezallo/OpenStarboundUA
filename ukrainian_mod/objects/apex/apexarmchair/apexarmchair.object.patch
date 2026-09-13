@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця оббивка - банани."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крісло Standard Issue"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "З моменту створення цього крісла мода Apex змінилася; на жаль, свободи Apex не мають."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Таке зручне сидіння. Це гніздо Apex?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Огидно."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Невдоволений. Це крісло ображає мою оптику."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гнітюче крісло. Хоча зручно!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Який вплив має така... неелегантність на розум?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це не красиво, але зручно."
+  }
+]

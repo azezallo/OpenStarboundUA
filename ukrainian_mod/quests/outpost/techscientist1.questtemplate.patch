@@ -1,0 +1,32 @@
+[
+  {
+    "value": "^orange;Давайте перейдемо до техніки",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Я розробляю технологію, яка дозволить користувачеві швидко переміщатися з однієї точки в іншу, але мені не вистачає кількох важливих компонентів для мого ^orange;прототипу^white;. Чи міг би ти допомогти мені, ^green;принісши ^orange;10 мідних злитків^white;?",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти приніс мені деталі! Чудово! З ними ^orange;Технологія Ривка^white; має бути готова до роботи, але є лише один спосіб переконатися в цьому...",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Елліотт",
+    "path": "/scriptConfig/portraits/questStarted/title",
+    "op": "replace"
+  },
+  {
+    "value": "Елліотт",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "op": "replace"
+  },
+  {
+    "value": "Поговори з ^orange;Елліоттом^reset; на ^orange;Аванпості^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

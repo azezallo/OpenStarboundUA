@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Золотий м'яч. Вони популярні як святкові прикраси."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Золота куля свято Орнамент"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Блискуча золота куля. Гарненька."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Велична золота куля."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран удар блискучий м'яч!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Радісний. Чудова прикраса."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Треба бути обережним, щоб не розбити цю дрібничку."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У цьому блискучому м’ячі є щось гіпнотизуюче."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не думаю, що ця золота куля взагалі зроблена із золота..."
+  }
+]

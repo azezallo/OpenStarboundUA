@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже корисні камені. Або стріла може бути трюком?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стрілка Гравіровані скелі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Скеля зі стрілою на ній."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Скеля з висіченою стрілою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це шлях до ssstabbing."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Чому в цій скелі висічена стріла?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Йдемо за стрілкою на цій скелі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Грубо вирізана скеля."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хтось пішов і висік стрілу в цій скелі."
+  }
+]

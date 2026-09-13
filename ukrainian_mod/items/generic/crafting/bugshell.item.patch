@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старий, висохлий панцир якоїсь давно мертвої комахи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Оболонка клопа"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей масивний залізний порткул закривається з стуком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Порткуліс великий"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мене нудить від решіток і ланцюгів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Надійні ворота, здатні відбити загарбників."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Міцні металеві двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. Цей порткул нагадує мені місце, де я зібрався."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Порткулліс, це як повернення в минуле! Дуже автентичний."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці двері дуже непривітні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це дуже міцні на вигляд двері."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "У цьому відрі є дірка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічний Ківш"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дерев'яне відро."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мені здається, носив воду."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Зручне маленьке відерце."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Принижений. Цим відром черпали воду з колодязів і струмків."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Таке відро, яке можна знайти в колодязі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Хтось використовує це відро, щоб носити воду? Я не можу уявити світ, в якому не вистачає води."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Звичайне старе відро."
+  }
+]

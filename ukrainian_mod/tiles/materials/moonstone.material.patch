@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Красивий гладкий місячний камінь."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Місячний камінь"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Цей унікальний камінь іноді знаходять на місяцях."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гладкий місячний камінь."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Здається, якийсь місячний камінь."
+  }
+]

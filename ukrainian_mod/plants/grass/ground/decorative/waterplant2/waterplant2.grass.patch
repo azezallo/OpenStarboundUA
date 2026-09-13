@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Подводное растеніе.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Подводное растеніе",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Плавающее рассстеніе.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Утвердітельно. Подводное растеніе.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

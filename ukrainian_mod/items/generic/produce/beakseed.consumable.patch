@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дзьобове насіння. Ммм хрусткий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дзьобове насіння"
+  }
+]

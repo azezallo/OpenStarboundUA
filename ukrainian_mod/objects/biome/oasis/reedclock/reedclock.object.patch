@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Очеретяний годинник із глухим цокаючим звуком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Настінні годинники з очерету"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цокання годинника заспокоює."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Нескінченне цокання справді тріпає моє пір’я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Очеретяний годинник має заспокійливий тик-так."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "роздратований. Цокання ніколи не припиняється."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Милий годинник, шкода одноманітного цокання."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Заспокійливе, монотонне цокання."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Такий звук зведе будь-кого з розуму."
+  }
+]

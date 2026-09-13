@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розірваний настінний банер Земного Захисту з академії Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Порваний банер на стіні Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей банер порвано..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Порваний банер! Нищівний!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Зламаний банер... Флорану це не подобається."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спустошений. Порваний прапор Земного Захисту..."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Прапор Земного Захисту тримається не дуже добре."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Банер рветься! Так само, як моє серце."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Не витримують навіть горді знамена."
+  }
+]

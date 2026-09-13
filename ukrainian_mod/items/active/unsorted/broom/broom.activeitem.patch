@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Найкорисніший інструмент для підмітання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мітла"
+  }
+]

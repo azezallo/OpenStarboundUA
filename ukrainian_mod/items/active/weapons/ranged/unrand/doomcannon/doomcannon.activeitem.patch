@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "\"...тому що врешті-решт Doom - це все, що має значення\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Doomcannon"
+  }
+]

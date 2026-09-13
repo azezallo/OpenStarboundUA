@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Блок огидної спотвореної землі.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Спотворена земля",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Гидливо. Ця земля спотворена.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Огидна ссспотворена ззземля.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Не дуже приємна спотворена земля.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

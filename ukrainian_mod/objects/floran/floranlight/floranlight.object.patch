@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стручок випромінює природне зелене світло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Настінний світильник Vine"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Моторошне зелене світло."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, як ви контролюєте, де росте освітлення рослин."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Світло Флорана отримує силу від sssun. Уповільнення вивільнення живлення, коли сонце зникне."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Здається, ріст цих стручків суворо контролюється."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Зелене світіння викликає у мене дискомфорт."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці стручки здаються зовсім не природними."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це світло росте прямо зі стіни."
+  }
+]

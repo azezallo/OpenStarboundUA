@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Хвалькувато. Я на дорученні від імені райдужних шахраїв!",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Дружелюбно. Яка зустріч, друже!",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дружелюбно. Я хоч і райдужний шахрай, але це не означає, що ми не можемо поговорити!",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Нетерпляче. Я прийшов здобути деякі важливі інгредієнти, і на цьому все!",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Доблесно. Гільдія райдужних шахраїв захищає невинних! Ми абсолютно серйозна організація!",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "op": "replace"
+  }
+]

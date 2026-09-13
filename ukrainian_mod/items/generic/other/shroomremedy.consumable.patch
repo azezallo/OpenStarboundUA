@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Суміш, яка, здається, забезпечує природне відновлення."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Засіб від грибів"
+  }
+]

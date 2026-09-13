@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вітаємо Великий Банан!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Банановий пропагандистський плакат"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Колись ці знаки позначали вхід до Banana Clubs, поки Міннаук не наклав заборони. Тепер вони служать нагадуванням про те, що за порушення закону передбачена смертна кара."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Птахи мають чутливе травлення. Ми дотримуємося своєї їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Така жахлива їжа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Я вважаю, що це харчування Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ну... лаконічно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це їжа? Мені дуже хочеться скуштувати екзотичні страви."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Малюнок банана. На ньому також написано «БАНАН», якщо ми його пропустимо."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Солоний, хрусткий інопланетний бекон."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Варений бекон"
+  }
+]

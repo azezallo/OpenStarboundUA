@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Світло свічок у найстрашніший спосіб."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Готична свічка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Вишуканий готичний постамент. Соромно за череп."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ніщо так не говорить про гордість, як череп на п’єдесталі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран також поставив улюблену відрубану голову на п'єдестал."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Милуючись. Чудовий постамент."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це, звичайно, один із способів поставити когось на п’єдестал.."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дуже готичний стенд."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цікаво, яке це відчуття, мати одну з цих речей у своїй голові?"
+  }
+]

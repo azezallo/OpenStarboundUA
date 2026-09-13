@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Цей плінтус завершує класичний домашній вигляд.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Класичний плінтус",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Цікавість. Плінтуси не часто зустрічаються в конструкціях глітчів.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Незвичайні нассстінні дошшшки.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Незвичайні прикраси для стін.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

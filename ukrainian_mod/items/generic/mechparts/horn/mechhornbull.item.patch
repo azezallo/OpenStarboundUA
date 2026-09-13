@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Навіщо просто хапати бика за роги, коли ти можеш БУТИ биком?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Bull Mech Horn"
+  }
+]

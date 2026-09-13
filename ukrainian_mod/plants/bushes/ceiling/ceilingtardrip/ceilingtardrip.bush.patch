@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Капає дьоготь."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капає дьоготь."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Липка чорна крапелька!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Капає дьоготь."
+  }
+]

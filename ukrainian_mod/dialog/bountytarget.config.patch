@@ -1,0 +1,1692 @@
+[
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Ти думаєш дістати мене, але це ТЕБЕ дістануть!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/1",
+    "value": "Давай потанцюємо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/2",
+    "value": "Один на один, поїхали!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/3",
+    "value": "Я чекав на тебе, Миротворцю!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/4",
+    "value": "Ти пошкодуєш, що прийшов за ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/5",
+    "value": "Ти зробив помилку, зв'язавшись з ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/6",
+    "value": "Я член ^orange;<gangName>^reset; - хіба не помітно?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/7",
+    "value": "Чи зможеш ти вистоять проти могутності ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/0",
+    "value": "Міннаук не може спіймати мене - з чого ти взяв, що ти зможеш?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/1",
+    "value": "Давай потанцюємо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/2",
+    "value": "Я чекав на тебе, Миротворцю!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/3",
+    "value": "Ти пошкодуєш, що прийшов за ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/4",
+    "value": "Ти зробив помилку, зв'язавшись з ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/5",
+    "value": "Я член ^orange;<gangName>^reset; - хіба не помітно?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/6",
+    "value": "Чи зможеш ти вистоять проти могутності ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/0",
+    "value": "Ти не посадиш мене - я вільний птах!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/1",
+    "value": "Давай потанцюємо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/2",
+    "value": "Я чекав на тебе, Миротворцю!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/3",
+    "value": "Ти пошкодуєш, що прийшов за ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/4",
+    "value": "Ти зробив помилку, зв'язавшись з ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/5",
+    "value": "Я член ^orange;<gangName>^reset; - хіба не помітно?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/6",
+    "value": "Чи зможеш ти вистоять проти могутності ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/0",
+    "value": "Флоран не повернетьссся до в'язниці!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/1",
+    "value": "Флоран є гордим членом ^orange;<gangName>^reset;! Флоран так просссто не здастьссся!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/2",
+    "value": "Ти думаєш, що зможеш зззупинити ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/3",
+    "value": "Флоран готовий до бою з Миротворцем!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/0",
+    "value": "*Нетерпіння.* Ти не перший, хто прийшов за мною, і не останній!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/1",
+    "value": "*Гордість.* Я покажу справжню могутність ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/2",
+    "value": "*Погроза.* Ти зробив серйозну помилку, кинувши виклик ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/3",
+    "value": "*Залякування.* Ти дурень, що схрестив клинки з ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/0",
+    "value": "Я більш слизький, ніж снаунт, і швидший, ніж повітряний потік. Ти не спіймаєш мене легко!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/1",
+    "value": "Моє третє око бачить твоє вагання. Ти знаєш, що кидати мені виклик - це помилка!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/2",
+    "value": "Давайте потанцюємо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/3",
+    "value": "Я чекав на вас, Миротворцю!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/4",
+    "value": "Ви пошкодуєте, що прийшли за ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/5",
+    "value": "Ви зробили помилку, зв'язавшись з ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/6",
+    "value": "Я член ^orange;<gangName>^reset; - хіба не помітно?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/7",
+    "value": "Чи зможеш ти вистояти проти могутності ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/0",
+    "value": "Йо, ^orange;<gangName>^reset; — найгучніша ватага в галактиці! Ти робиш файну таку помилку!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/1",
+    "value": "Ти хочеш битися зі мною на моїй землі? Це не дуже мудро, леґіню!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/2",
+    "value": "Давай, Миротворче — зроби мій день, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/3",
+    "value": "Я давненько не ганяв новачків! Це буде файно!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/4",
+    "value": "^orange;<gangName>^reset; вже нудить від таких допитливих ґазд, як ти!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/5",
+    "value": "Такі леґіні, як ти, завжди пхають носа, куди не треба. Ти отримаєш файний урок!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/6",
+    "value": "Ти не дуже мудрий, якщо думаєш кинути виклик ^orange;<gangName>^reset;, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/default/default/0",
+    "value": "Ви ніколи не візьмете мене живим!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/default/default/1",
+    "value": "О, то у нас ТАКА бійка, так?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/default/default/2",
+    "value": "Попереджаю, мене не так легко зловити!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/default/default/3",
+    "value": "Тобі треба бути швидшим, якщо хочеш мене зловити!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/default/default/4",
+    "value": "Ти ж не думаєш, що я зроблю це легким для тебе, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/default/default/5",
+    "value": "Ти намагаєшся мене заарештувати? Як мило!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/default/default/6",
+    "value": "Ти збираєшся спробувати заарештувати мене? Я сподівався на перестрілку!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/default/default/7",
+    "value": "Не направляй на мене цю штуку! Ти знаєш, хто я?!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/default/default/8",
+    "value": "Тобі мене не зловити — ^orange;<gangName>^reset; завжди на два кроки попереду!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/default/default/9",
+    "value": "Ми — ^orange;<gangName>^reset; — нас не так легко зупинити!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/default/default/10",
+    "value": "Ти справді намагаєшся зловити члена ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/default/default/11",
+    "value": "Зловити члена ^orange;<gangName>^reset; буде непросто!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/apex/default/0",
+    "value": "Ви ніколи не візьмете мене живим!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/apex/default/1",
+    "value": "О, то у нас ТАКА бійка, так?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/apex/default/2",
+    "value": "Попереджаю, мене не так легко зловити!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/apex/default/3",
+    "value": "Тобі треба бути швидшим, якщо хочеш мене зловити!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/apex/default/4",
+    "value": "Ти ж не думаєш, що я зроблю це легким для тебе, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/apex/default/5",
+    "value": "Ти намагаєшся мене заарештувати? Як мило!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/apex/default/6",
+    "value": "Ти збираєшся спробувати заарештувати мене? Я сподівався на перестрілку!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/apex/default/7",
+    "value": "Не направляй на мене цю штуку! Ти знаєш, хто я?!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/apex/default/8",
+    "value": "Тобі мене не зловити — ^orange;<gangName>^reset; завжди на два кроки попереду!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/apex/default/9",
+    "value": "Ми — ^orange;<gangName>^reset; — нас не так легко зупинити!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/apex/default/10",
+    "value": "Ти справді намагаєшся зловити члена ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/apex/default/11",
+    "value": "Зловити члена ^orange;<gangName>^reset; буде непросто!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/avian/default/0",
+    "value": "Ви ніколи не візьмете мене живим!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/avian/default/1",
+    "value": "О, то у нас ТАКА бійка, так?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/avian/default/2",
+    "value": "Попереджаю, мене не так легко зловити!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/avian/default/3",
+    "value": "Тобі треба бути швидшим, якщо хочеш мене зловити!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/avian/default/4",
+    "value": "Ти ж не думаєш, що я зроблю це легким для тебе, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/avian/default/5",
+    "value": "Ти намагаєшся мене заарештувати? Як мило!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/avian/default/6",
+    "value": "Ти збираєшся спробувати заарештувати мене? Я сподівався на перестрілку!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/avian/default/7",
+    "value": "Не направляй на мене цю штуку! Ти знаєш, хто я?!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/avian/default/8",
+    "value": "Тобі мене не зловити — ^orange;<gangName>^reset; завжди на два кроки попереду!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/avian/default/9",
+    "value": "Ми — ^orange;<gangName>^reset; — нас не так легко зупинити!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/avian/default/10",
+    "value": "Ти справді намагаєшся зловити члена ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/avian/default/11",
+    "value": "Зловити члена ^orange;<gangName>^reset; буде непросто!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/floran/default/0",
+    "value": "Флорана не так легко зловити! Шшш!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/floran/default/1",
+    "value": "Флоран ссслизький! Тобі не зловити Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/floran/default/2",
+    "value": "Флорана не заарешшштують!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/floran/default/3",
+    "value": "Ти не зупинишшш Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/glitch/default/0",
+    "value": "*Лють.* До мене не будуть чіплятися!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/glitch/default/1",
+    "value": "*Нетерпіння.* Ми тепер будемо танцювати?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/glitch/default/2",
+    "value": "*Задоволення.* Схоже, ти бажаєш дуелі!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/glitch/default/3",
+    "value": "*Шок.* Я думав, вони пришлють когось більш вражаючого, щоб арештувати мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/glitch/default/4",
+    "value": "*Рішучість.* Ти не спіймаєш мене - банда ^orange;<gangName>^reset; завжди на два кроки попереду!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/glitch/default/5",
+    "value": "*Зухвалість.* Ти не можеш перемогти члена банди ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/default/0",
+    "value": "Ти ніколи не візьмеш мене живим!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/default/1",
+    "value": "О, то у нас ТАКА битва, га?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/default/2",
+    "value": "Попереджаю, мене не так легко спіймати!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/default/3",
+    "value": "Ти маєш бути швидшим, якщо хочеш мене зловити!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/default/4",
+    "value": "Ти ж не думаєш, що я полегшу тобі завдання, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/default/5",
+    "value": "Ти намагаєшся мене заарештувати? Як мило!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/default/6",
+    "value": "Ти спробуєш мене арештувати? Я сподівався на перестрілку!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/default/7",
+    "value": "Не наставляй на мене цю штуку! Ти хоч знаєш, хто я?!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/default/8",
+    "value": "Ти не спіймаєш мене - банда ^orange;<gangName>^reset; завжди на два кроки попереду!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/default/9",
+    "value": "Ми - банда ^orange;<gangName>^reset;, нас так просто не зупинити!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/default/10",
+    "value": "Ти справді намагаєшся спіймати члена банди ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/default/11",
+    "value": "Буде непросто зловити члена банди ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/floran/0",
+    "value": "Вони послали за мною флорана? Яка ганьба!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/floran/1",
+    "value": "Звісно, тільки ФЛОРАН міг бути таким дурним, щоб кинути виклик банді ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/floran/2",
+    "value": "Флоран з роботою? Як мило!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/floran/3",
+    "value": "Флоран-миротворець? Твій вид не може БУТИ мирним!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/floran/4",
+    "value": "Це не твоя битва, флоране! Йди, поки ще можеш!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/floran/5",
+    "value": "Флоран? Я думав, у мене буде СПРАВЖНІЙ бій!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/floran/6",
+    "value": "Флоран? Я насолоджуватимусь цим!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/hylotl/floran/7",
+    "value": "Буде непросто зловити члена банди ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/novakid/default/0",
+    "value": "Ти не візьмеш мене живим, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/novakid/default/1",
+    "value": "То у нас ТАКА битва, га, леґіню?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/novakid/default/2",
+    "value": "Попереджаю, мене не так легко зловити!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/novakid/default/3",
+    "value": "Тобі треба бути швидшим, якщо хочеш зловити такого ґазду!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/novakid/default/4",
+    "value": "Ти ж не думаєш, що я полегшу тобі завдання, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/novakid/default/5",
+    "value": "Ти намагаєшся мене заарештувати? Файний жарт!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/novakid/default/6",
+    "value": "Ти спробуєш мене арештувати? Я сподівався на перестрілку!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/novakid/default/7",
+    "value": "Не наставляй на мене цю штуку! Ти хоч знаєш, хто я?!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/novakid/default/8",
+    "value": "Ти не спіймаєш мене - банда ^orange;<gangName>^reset; завжди на два кроки попереду!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/novakid/default/9",
+    "value": "Ми - банда ^orange;<gangName>^reset;, ти нас так просто не зупиниш!"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/novakid/default/10",
+    "value": "Ти справді намагаєшся спіймати члена банди ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/resistArrest/novakid/default/11",
+    "value": "Буде не так вже й легко зловити члена банди ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/default/default/0",
+    "value": "Зніміть із мене ці штуки!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/default/default/1",
+    "value": "Ні, не треба! У мене алергія на кайданки - вам треба швидко їх зняти!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/default/default/2",
+    "value": "Я зовсім не ТАК хотів провести цей день."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/default/default/3",
+    "value": "Ох, мене перемогли!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/default/default/4",
+    "value": "Ну, принаймні, я добре бився!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/default/default/5",
+    "value": "Напевно, мені варто було втекти раніше. Моя зарозумілість стала моєю загибеллю."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/default/default/6",
+    "value": "Ой, ці кайданки натирають!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/default/default/7",
+    "value": "Відпустіть мене - я обіцяю, що буду хорошим у майбутньому! Обіцяю!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/default/default/8",
+    "value": "Ці кайданки не мого розміру! Вам варто зняти їх з мене."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/default/default/9",
+    "value": "Ого, ти справді дістав мене. Мені не слід було тебе недооцінювати, га?"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/default/default/10",
+    "value": "Хоч би що вони тобі платили, я заплачу вдвічі більше! Тільки зніми з мене ці штуки, добре?!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/default/default/11",
+    "value": "Чому ти арештовуєш мене? У чому звинувачення, га?!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/default/default/12",
+    "value": "Я суверенний галактичний громадянин, і ти не маєш права мене арештовувати!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/apex/default/0",
+    "value": "Ці кайданки не втримають мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/apex/default/1",
+    "value": "Гм - я втратив пильність!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/apex/default/2",
+    "value": "Мені не слід було послаблювати захист..."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/apex/default/3",
+    "value": "Я підійшов до цієї сутички зовсім неправильно..."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/apex/default/4",
+    "value": "Зніміть це з мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/apex/default/5",
+    "value": "Ця операція була провальною..."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/apex/default/6",
+    "value": "Я недооцінив тебе, Миротворцю. Ти спіймав мене чесно і справедливо."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/apex/default/7",
+    "value": "Стій, ти спіймав мене! Я вже підкорився!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/apex/default/8",
+    "value": "Хннг..."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/apex/default/9",
+    "value": "Для мене все скінчено, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/apex/default/10",
+    "value": "Я... зазнав невдачі."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/avian/default/0",
+    "value": "Ой! Зніми ці кайданки, або пошкодуєш!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/avian/default/1",
+    "value": "Ні, не треба! Кайданки шкідливі для мого пір'я - тобі треба швидко їх зняти!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/avian/default/2",
+    "value": "Я думав, що перемагаю..."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/avian/default/3",
+    "value": "Моє пір'я застряє в цих кайданках! Можеш їх зняти?"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/avian/default/4",
+    "value": "Я тренувався в боях усе своє життя - як я міг програти?!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/avian/default/5",
+    "value": "Ці кайданки трохи затісні!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/avian/default/6",
+    "value": "Це все, що я мав... В мені не лишилося духу для боротьби..."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/avian/default/7",
+    "value": "Мій бойовий дух вичерпався... Я зазнав невдачі."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/avian/default/8",
+    "value": "Я знаю, коли програв! Просто припини мене атакувати!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/avian/default/9",
+    "value": "Кляті Миротворці!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/avian/default/10",
+    "value": "Всесвіт був кращим без вас, Миротворців!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/avian/default/11",
+    "value": "Ти впевнений, що ми не можемо укласти угоду?"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/floran/default/0",
+    "value": "Флоран не любить кайданкиссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/floran/default/1",
+    "value": "Флоран морально проти в'язниціссс! Не відправляй Флорана геть!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/floran/default/2",
+    "value": "Флоран передумав, Флоран не хоче у в'язницюссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/floran/default/3",
+    "value": "Флоран справді хотів би бути вільнимссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/floran/default/4",
+    "value": "Ссспинись! Відпусти Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/floran/default/5",
+    "value": "Флоран готовий піти на угоду зі ссслідством!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/floran/default/6",
+    "value": "Якщо Флоран ссскаже вибач, ти відпустиш Флорана?"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/glitch/default/0",
+    "value": "*Лють.* Зніми з мене ці штуки!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/glitch/default/1",
+    "value": "*Гнів.* Негайно зніми ці кайданки!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/glitch/default/2",
+    "value": "*Засмучення.* Ці кайданки занадто тугі - вони залишать вм'ятини!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/glitch/default/3",
+    "value": "*Відчай.* Я вирішив покинути злочинність! Відпусти мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/glitch/default/4",
+    "value": "*Задоволення.* Може я і програв, але я добре бився!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/glitch/default/5",
+    "value": "*Стурбованість.* Я на твоїй милості! Будь ласка, не ув'язнюй мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/hylotl/default/0",
+    "value": "Як нерозумно з мого боку..."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/hylotl/default/1",
+    "value": "Прокляття! Як я міг дозволити себе спіймати?!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/hylotl/default/2",
+    "value": "Добре, добре, ти спіймав мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/hylotl/default/3",
+    "value": "Урх, як я міг бути переможений отак?"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/hylotl/default/4",
+    "value": "Ні!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/hylotl/default/5",
+    "value": "Не можу повірити, що саме ТИ схопив мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/hylotl/default/6",
+    "value": "Зніми ці кайданки, інакше БУДУТЬ наслідки!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/hylotl/default/7",
+    "value": "Я недооцінив тебе, Миротворцю..."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/hylotl/default/8",
+    "value": "Ти мене спіймав... Я майже вражений!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/hylotl/default/9",
+    "value": "Ці кайданки - такі грубі пристосування. Як принизливо..."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/hylotl/default/10",
+    "value": "Ой!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/novakid/default/0",
+    "value": "Зніміть із мене ці кляті штуки!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/novakid/default/1",
+    "value": "Я не дуже пишаюся тим, як усе це сталося..."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/novakid/default/2",
+    "value": "Схоже, мене заарканили, йо..."
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/novakid/default/3",
+    "value": "Хай йому грець, мене заарканили!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/novakid/default/4",
+    "value": "Хай йому трясця, зніміть се з мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/novakid/default/5",
+    "value": "Зніміть з мене ці кляті штуки, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/novakid/default/6",
+    "value": "Ти закував мене, просто побивши? Як се взагалі працює, ґаздо?"
+  },
+  {
+    "op": "replace",
+    "path": "/arrested/novakid/default/7",
+    "value": "Зніми ці кайданки! Файно і швидко!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/0",
+    "value": "Я ще повернуся, от побачиш!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/1",
+    "value": "Я зараз багато про що шкодую!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/2",
+    "value": "Я повернусь!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/3",
+    "value": "Жодна в'язниця мене не втримає!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/4",
+    "value": "Не відправляйте мене до в'язниці - у мене клаустрофобія!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/5",
+    "value": "Не відправляйте мене в космічну в'язницю - я НЕНАВИДЖУ космічну в'язницю!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/6",
+    "value": "Будьте ви прокляті, правоохоронці!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/7",
+    "value": "Я тобі віддячу за це - я ніколи не забуваю обличчя!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/8",
+    "value": "Ти щойно нажив собі ворога на все життя!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/9",
+    "value": "Я скоро вийду, і ти це знаєш!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/10",
+    "value": "Ми ще не закінчили, Миротворцю!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/11",
+    "value": "Не думай, що ^orange;<gangName>^reset; легко це пробачить!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/12",
+    "value": "^orange;<gangName>^reset; оголосили полювання на твою голову!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/13",
+    "value": "^orange;<gangName>^reset; цього не потерпить!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/14",
+    "value": "^orange;<gangName>^reset; відплатить тобі за це!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/default/default/15",
+    "value": "Бувай, і прощавай!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/apex/default/0",
+    "value": "Ця мавпа ВТЕЧЕ!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/apex/default/1",
+    "value": "Ти дійсно зробив з мене мавпу..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/apex/default/2",
+    "value": "..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/apex/default/3",
+    "value": "Одного дня я повернусь!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/apex/default/4",
+    "value": "Прощавай, Миротворцю..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/apex/default/5",
+    "value": "Урх..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/apex/default/6",
+    "value": "Хай буде так..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/apex/default/7",
+    "value": "^orange;<gangName>^reset; цього не пробачить, Миротворцю!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/apex/default/8",
+    "value": "^orange;<gangName>^reset; назавжди!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/apex/default/9",
+    "value": "Колись я тобі відплачу, Миротворцю!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/avian/default/0",
+    "value": "Гадаю, я більше не вільний птах..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/avian/default/1",
+    "value": "КАР КАР!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/avian/default/2",
+    "value": "Я зганьбив своїх предків..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/avian/default/3",
+    "value": "^orange;<gangName>^reset; витягне мене з в'язниці, от побачиш!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/avian/default/4",
+    "value": "^orange;<gangName>^reset; володіє цією сонячною системою! Ніколи не забувай про це!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/avian/default/5",
+    "value": "Я це запам'ятаю!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/avian/default/6",
+    "value": "Напевно, я був на самому дні ієрархії..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/avian/default/7",
+    "value": "КАР!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/avian/default/8",
+    "value": "Дуже добре..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/avian/default/9",
+    "value": "Що ж, це прикро."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/avian/default/10",
+    "value": "Хмф."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/floran/default/0",
+    "value": "Флоран клянетьссся помститися!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/floran/default/1",
+    "value": "Флоран одного разу ссспіймає тебе!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/floran/default/2",
+    "value": "Флоран повернетьссся одного разу!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/floran/default/3",
+    "value": "Ти ще почуєшссс про Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/floran/default/4",
+    "value": "Флоран не любить в'язницсссю!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/floran/default/5",
+    "value": "Флоран повернетьссся, щоб завершити роботу!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/floran/default/6",
+    "value": "Шссс..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/glitch/default/0",
+    "value": "*Мстиво.* Одного разу ми знову зіткнемося в бою!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/glitch/default/1",
+    "value": "*Стурбовано.* Я не впишуся у в'язничне життя! Я глибоко шкодую про свої дії!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/glitch/default/2",
+    "value": "*Розчаровано.* Я підвів ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/glitch/default/3",
+    "value": "*Присоромлено.* ^orange;<gangName>^reset; покладалися на мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/glitch/default/4",
+    "value": "*Зніяковіло.* Як я докотився до такого?"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/glitch/default/5",
+    "value": "*Переможено.* Мене дійсно здолали в бою, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/glitch/default/6",
+    "value": "*Стурбовано.* Я не можу потрапити до в'язниці! Я занадто легко іржавію!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/glitch/default/7",
+    "value": "*Впевнено.* ^orange;<gangName>^reset; незабаром подбає про мою свободу!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/hylotl/default/0",
+    "value": "Не смій дивитися на мене з такою зневагою! Урх..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/hylotl/default/1",
+    "value": "Хай вічно процвітає ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/hylotl/default/2",
+    "value": "Наші шляхи ще перетнуться, жалюгідний Миротворцю!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/hylotl/default/3",
+    "value": "Яке нестерпне приниження для моєї персони..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/hylotl/default/4",
+    "value": "Такий кінець є негідним моєї величі..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/hylotl/default/5",
+    "value": "Моя шляхетна натура заслуговувала на значно кращу долю..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/hylotl/default/6",
+    "value": "..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/hylotl/default/7",
+    "value": "Як міг такий видатний розум, як мій, опинитися в такій ганебній пастці?"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/hylotl/default/8",
+    "value": "^orange;<gangName>^reset; неодмінно здійснить свою невідворотну помсту!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/hylotl/default/9",
+    "value": "Твої нікчемні зусилля ніколи не зупинять могутність ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/novakid/default/0",
+    "value": "Я ще вернуся, от подивишся, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/novakid/default/1",
+    "value": "Ах, хай йому трясця!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/novakid/default/2",
+    "value": "Ти ще пожалкуєш про се, ґаздо!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/novakid/default/3",
+    "value": "Мені гаплик!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/novakid/default/4",
+    "value": "Ти ще не бачив усього, на що я здатен, Миротворцю!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/novakid/default/5",
+    "value": "Не гадай, що ^orange;<gangName>^reset; так просто се подарує!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/novakid/default/6",
+    "value": "^orange;<gangName>^reset; не буде терпіти таку зневагу!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/novakid/default/7",
+    "value": "Побачимось на тім світі, леґіню Миротворцю!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/novakid/default/8",
+    "value": "^orange;<gangName>^reset; файно нафарширує тебе свинцем, дуже скоро!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/novakid/default/9",
+    "value": "Ні, стривай, я не створений для буцегарні!"
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/novakid/default/10",
+    "value": "Се до біса соромно..."
+  },
+  {
+    "op": "replace",
+    "path": "/completeArrest/novakid/default/11",
+    "value": "Ї-ха!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "value": "Ха! Хочеш спробувати ще раз? Тобі мене не спіймати!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/1",
+    "value": "Ти повернувся, Миротворцю? Не думав, що тобі вистачить сміливості!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/2",
+    "value": "Повернувся за ще одним раундом проти ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/apex/default/0",
+    "value": "Отже, хочеш спробувати ще раз? Це справжні мавпячі витівки!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/apex/default/1",
+    "value": "Ти повернувся, Миротворцю? Не думав, що тобі вистачить сміливості!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/apex/default/2",
+    "value": "Повернувся за ще одним раундом проти ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/avian/default/0",
+    "value": "Отже, хочеш спробувати ще раз? Тобі не спіймати й пір'їни з моєї голови!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/avian/default/1",
+    "value": "Ти повернувся, Миротворцю? Не думав, що тобі вистачить сміливості!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/avian/default/2",
+    "value": "Повернувся за ще одним раундом проти ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default/0",
+    "value": "Ти повернувссся, щоб битиссся з Флораном? Ти не такий вже й розумний!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/0",
+    "value": "*Схвильовано.* Отже, хочеш спробувати ще раз? Тобі мене не спіймати!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/1",
+    "value": "*Вражено.* Ти повернувся, Миротворцю? Не думав, що тобі вистачить сміливості!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/2",
+    "value": "*Здивовано.* Повернувся за ще одним раундом проти ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/hylotl/default/0",
+    "value": "Отже, ти маєш зухвалість спробувати ще раз? Твої спроби жалюгідні, тобі не зловити мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/hylotl/default/1",
+    "value": "Ти наважився повернутися, Миротворцю? Я не очікував такої безрозсудності від такої простої істоти!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/hylotl/default/2",
+    "value": "Ти знову прийшов, щоб зустріти свою поразку від рук могутньої ^orange;<gangName>^reset;?"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/novakid/default/0",
+    "value": "Отже, хочеш спробувати ще раз? Ти не спіймаєш мене так просто, леґіню!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/novakid/default/1",
+    "value": "Ти повернувся, Миротворцю? Не гадав, що в тебе є на се кишки!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/novakid/default/2",
+    "value": "Повернувся за ще одним раундом проти ^orange;<gangName>^reset;? Гадаю, ти не дуже розумний, ґаздо!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "value": "Ось що буває, коли намагаєшся замкнути МЕНЕ!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/1",
+    "value": "Ось що буває, коли зв'язуєшся з ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/2",
+    "value": "Ха! ^orange;<gangName>^reset; назавжди!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/3",
+    "value": "Ще одна перемога для ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/0",
+    "value": "Ось що буває, коли намагаєшся замкнути МЕНЕ!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/1",
+    "value": "Ось що буває, коли зв'язуєшся з ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/2",
+    "value": "Ха! ^orange;<gangName>^reset; назавжди!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/3",
+    "value": "Ще одна перемога для ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/0",
+    "value": "Ось що буває, коли намагаєшся замкнути МЕНЕ! Клуекс свідчить!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/1",
+    "value": "Ось що буває, коли зв'язуєшся з ^orange;<gangName>^reset;! Хай Клуекс благословить нас!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/2",
+    "value": "Ха! ^orange;<gangName>^reset; назавжди! В ім'я Клуекса!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/3",
+    "value": "Ще одна перемога для ^orange;<gangName>^reset;! Клуекс з нами!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/0",
+    "value": "Флоран переміг? Флоран ПЕРЕМІГсссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/1",
+    "value": "Флорану подобаєтьссся хороша бійка!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/2",
+    "value": "Ти зв'язавссся не з тією бандою! Флоран є чассстиною ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/0",
+    "value": "*Радість.* Ось що ти отримуєш за спробу замкнути мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/1",
+    "value": "*Задоволення.* Ось що ти отримуєш за те, що зв'язався з ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/2",
+    "value": "*Екстаз.* ^orange;<gangName>^reset; неможливо перевершити!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/3",
+    "value": "*Радість.* Ще одна перемога для ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/0",
+    "value": "Ось що ти отримуєш, намагаючись ув'язнити МЕНЕ! Хайлотли не здаються!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/1",
+    "value": "Ось що ти отримуєш за те, що став на шляху ^orange;<gangName>^reset;! Неосвіченість карається."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/2",
+    "value": "Ха! ^orange;<gangName>^reset; житиме вічно у віршах!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/3",
+    "value": "Ще одна граціозна перемога для ^orange;<gangName>^reset;! Хайлотли тріумфують."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/novakid/default/0",
+    "value": "Ти мене так просто не посадиш, леґіню! Отримав, на що заслуговував, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/novakid/default/1",
+    "value": "Ось що буває, коли зв'язуєшся з ^orange;<gangName>^reset;, файно отримав!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/novakid/default/2",
+    "value": "Йо! ^orange;<gangName>^reset; назавжди!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/novakid/default/3",
+    "value": "Ще одна файна перемога для ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "value": "Гей, вони здалися? Ха-ха, ніхто ніколи не зупинить МЕНЕ!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/1",
+    "value": "Схоже, Миротворець злякався! Так я і думав."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/2",
+    "value": "Не можу їх знайти... Мабуть, втекли зі страху!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/3",
+    "value": "Гадаю, вони втекли. Я їх не звинувачую - вони Ж зв'язалися з ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/apex/default/0",
+    "value": "Гей, вони здалися? Ха-ха, ніхто ніколи не зупинить МЕНЕ! Навіть Міннаук!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/apex/default/1",
+    "value": "Схоже, Миротворець злякався! Так я і думав."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/apex/default/2",
+    "value": "Не можу їх знайти... Мабуть, втекли зі страху перед гнівом Великого Мавпа!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/apex/default/3",
+    "value": "Гадаю, вони втекли. Я їх не звинувачую - вони Ж зв'язалися з ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/avian/default/0",
+    "value": "Гей, вони здалися? Ха-ха, ніхто ніколи не зупинить МЕНЕ! Клуекс захищає!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/avian/default/1",
+    "value": "Схоже, Миротворець злякався! Так я і думав."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/avian/default/2",
+    "value": "Не можу їх знайти... Мабуть, втекли зі страху перед могутністю Клуекса!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/avian/default/3",
+    "value": "Гадаю, вони втекли. Я їх не звинувачую - вони Ж зв'язалися з ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/0",
+    "value": "Вони втекли від Флорана? Флоран, мабуть, надто сссстрашний для них!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/1",
+    "value": "Флоран, мабуть, надто сссстрашний, щоб з ним битиссся!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/0",
+    "value": "*Спантеличеність.* Вони втекли? Нам же було так весело!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/1",
+    "value": "*Розчарування.* Здається, Миротворець боягузливо втік! Так я і думав."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/2",
+    "value": "*Здивування.* Я не можу їх знайти... Можливо, вони втекли зі страху?"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/3",
+    "value": "*Здивування.* Я не звинувачую їх у втечі - вони Ж зв'язалися з ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/hylotl/default/0",
+    "value": "О, вони здалися? Ха-ха, ніхто ніколи не зупинить МЕНЕ! Хайлотли непереможні."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/hylotl/default/1",
+    "value": "Схоже, Миротворець злякався! Як я і передбачав."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/hylotl/default/2",
+    "value": "Я не можу їх знайти... Вони, мабуть, втекли у жаху перед моєю величчю!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/hylotl/default/3",
+    "value": "Я припускаю, що вони втекли. Я їх не звинувачую - вони Ж зв'язалися з ^orange;<gangName>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/novakid/default/0",
+    "value": "Вони просто зібрали манатки і пішли, йо? От же боягузи!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/novakid/default/1",
+    "value": "Схоже, Миротворець накивав п'ятами, йо! Вони тут ще не скоро з'являться, я певен, ґаздо..."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/novakid/default/2",
+    "value": "Не можу їх знайти... От трясця, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/novakid/default/3",
+    "value": "Куди, в дідька, подівся той Миротворець, йо?"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/novakid/default/4",
+    "value": "Ось що буває, коли зв'язуєшся з ^orange;<gangName>^reset;, файно!"
+  }
+]

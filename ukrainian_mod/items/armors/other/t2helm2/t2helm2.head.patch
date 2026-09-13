@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Не будьте мертвими без цього акуратного зварювального шолома."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Охайний шолом зварника"
+  }
+]

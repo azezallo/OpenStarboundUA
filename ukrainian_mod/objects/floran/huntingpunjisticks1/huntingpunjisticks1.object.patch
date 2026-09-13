@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гострі, гострі палички. Не потрапляйте на них."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великі гострі палички"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Смертоносні шипи."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Небезпечні шипи."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пастка Ssspike. Ssharp."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "нервовий. Ці загострені шипи могли проколоти навіть Глітча."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я повинен перекинутися через ці шипи."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такі брутальні шипи."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Кінчики цих паличок дуже гострі."
+  }
+]

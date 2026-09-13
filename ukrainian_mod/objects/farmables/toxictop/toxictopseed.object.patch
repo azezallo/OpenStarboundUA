@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Токсичний на вигляд фрукт, але чи все так погано?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння Toxictop"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Від цієї рослини я міг захворіти. Або це може вилікувати хворобу?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кислий і смачний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Для розваги Флоран годує друзів токсичними топами."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Ця рослина токсична для всіх відомих видів барових пінгвінів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Токсичний ананас, коли звичайний ананас недостатньо токсичний."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Токсичність цього фрукта можна вміло використати для лікування захворювань."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я б не довіряв нічого, що містить слово \"токсичний\" у назві."
+  }
+]

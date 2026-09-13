@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стара табличка з лабораторії Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак Міністерства знань"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Міністерство знань? Це... це місце походження Міннаук?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Який приємний знак. Цікаво скільки йому років?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорана не дуже хвилює старе місце."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Які приємні відтінки сірого і сріблястого."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Щось у цьому знаку мене нервує."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такі бридкі написи. Якби я мав каліграфічний пензель..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я відчуваю, що це відкриття дуже важливе для когось там..."
+  }
+]

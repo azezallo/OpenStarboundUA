@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плакат"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ретро плакат."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ретро-постер до фільму, який я не бачив."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це драматичний кінофільм."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Фільм про космічний корабель! Флоран бачив це п'ять разів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нудно. Людям досі цікавий цей старий фільм? Особисто я ніколи не був фанатом."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ах, цей старий фільм. класичний."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Старий постер фільму."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я ніколи не дивився цей фільм, але постер виглядає круто."
+  }
+]

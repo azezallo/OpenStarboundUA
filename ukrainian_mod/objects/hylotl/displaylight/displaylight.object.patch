@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Спрямоване світло, яке використовується для освітлення предметів на дисплеї."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Світло дисплея"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це світло, його єдина мета — вказати на цю річ."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я повинен перевірити, на що вказує світло, може, це буде цікавіше."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Яскравий блиск на красивих предметах."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Принижений. Це світло старанно виконує свою єдину мету."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мабуть, мене більше цікавить, на що спрямоване це світло."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це світло тут, щоб висвітлити тему, яка більше гідна мого інтересу, ніж він сам."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цікаво, на що може вказувати це світло?"
+  }
+]

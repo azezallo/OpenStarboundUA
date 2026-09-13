@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На етикетці написано: «Його рух визначається рівнями температури в атмосфері»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фігурка Squeem"
+  }
+]

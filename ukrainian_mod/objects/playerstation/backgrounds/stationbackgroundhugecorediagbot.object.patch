@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Величезний Core Diagonal нижній шматок фону"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Величезний Core Diagonal нижній шматок фону"
+  }
+]

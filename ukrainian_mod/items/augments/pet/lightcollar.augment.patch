@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нашийник, що випромінює світло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Легкий комір"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "value": "світло"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На ярлику написано: «Вночі все, що ви бачите від кута, — це його світло»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуетка Anglure"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Посилена опорна балка аванпосту.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Опорна балка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Уважно. Такий тип опорної балки зазвичай використовується в конструкції аванпостів.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Опорна балка.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже на велику металеву балку.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

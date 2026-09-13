@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий череп Фрогга."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Череп жаби"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Скам'янілість жаби"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Чудовий приклад скам'янілої жаби."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей жучок виглядає так, ніби він одягнений у крихітні зелені черевички."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Greentip"
+  }
+]

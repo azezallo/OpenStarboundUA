@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Іржаве ліжко. Виглядає дешево і крихко."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іржаве ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дешеве, іржаве ліжко. Нагадує клітини Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Старе, нелюблене ліжко. Він іржавіє."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не спав у піщаному ліжку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Параноїк. Від запаху іржі мені сняться кошмари."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Старе, іржаве ліжко. Нічого примітного."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Грубе ліжко. Він практично розвалюється."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це ліжко практично розвалюється."
+  }
+]

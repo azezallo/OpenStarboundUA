@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кристал, вбудований в цей світильник, світиться блідим світлом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кришталеве світло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Світло, яке видно, можливо, трохи кричуще в дизайні..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кристали корисні для всього. Ця лампа чудово створює настрій."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сяючий вогонь, виготовлений із ssstone."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Яке гарне світло."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "З огляду на лампи, це справжня перлина."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Який інтригуючий світильник, виготовлений із зразкового дорогоцінного каменю."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це божевільне світло виглядає так, ніби воно зроблено з каменю."
+  }
+]

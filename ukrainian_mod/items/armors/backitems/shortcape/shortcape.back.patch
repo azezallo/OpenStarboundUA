@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Взагалі коротка накидка. Можливо, довга накидка для пінгвінів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Коротка накидка"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже приємна картина великої мавпи, славетного улюбленого вождя верхівки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Живопис славетного лідера"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Велика мавпа... Ця картина висить у мільйонах будинків Apex. Спотворити зображення великої мавпи означає смерть."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця мавпа намальована як бог."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Надзвичайно смачна блискуча мавпа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Недовірливий. Імовірно неточне малювання."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не думаю, що цей хлопець відповідає своєму іміджу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Справді великий лідер не дбає про славу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Апекс на фоні чудового заходу сонця."
+  }
+]

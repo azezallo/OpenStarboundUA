@@ -1,0 +1,52 @@
+[
+  {
+    "value": "Я звик бути частиною великої команди! Мені тут спокійно.",
+    "path": "/scriptConfig/dialog/converse/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Йо-хо-хо, ось тобі і життя приземленого!",
+    "path": "/scriptConfig/dialog/converse/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я приєднався до екіпажу корабля, коли втратив віру в Клуекса. Щасливі дні підкорення вітру.",
+    "path": "/scriptConfig/dialog/converse/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Свіже повітря та воля - файно, от таке життя для легіня!",
+    "path": "/scriptConfig/dialog/converse/avian/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Не суди про мене за моєю зовнішністю! Я завжди такий чарівний.",
+    "path": "/scriptConfig/dialog/converse/avian/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Я звик бути частиною великої команди! Мені тут спокійно.",
+    "path": "/scriptConfig/dialog/converse/avian/avian/0",
+    "op": "replace"
+  },
+  {
+    "value": "Йо-хо-хо, ось тобі і життя приземленого!",
+    "path": "/scriptConfig/dialog/converse/avian/avian/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я приєднався до екіпажу корабля, коли втратив віру в Клуекса. Щасливі дні підкорення вітру.",
+    "path": "/scriptConfig/dialog/converse/avian/avian/2",
+    "op": "replace"
+  },
+  {
+    "value": "Свіже повітря та воля - файно, от таке життя для легіня!",
+    "path": "/scriptConfig/dialog/converse/avian/avian/3",
+    "op": "replace"
+  },
+  {
+    "value": "Забудь усе, що тобі казали, бути приземленим - ось справжня свобода.",
+    "path": "/scriptConfig/dialog/converse/avian/avian/4",
+    "op": "replace"
+  }
+]

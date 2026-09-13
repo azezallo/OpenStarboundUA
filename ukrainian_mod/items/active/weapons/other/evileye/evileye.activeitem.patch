@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мені здається, воно дивиться на мене."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лихе око"
+  }
+]

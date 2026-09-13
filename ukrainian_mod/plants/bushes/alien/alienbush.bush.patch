@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Інопланетний кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чужий Буш"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чужорідні рослини."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Чужорідна рослина."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика книжкова шафа, яка була пошкоджена."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пошкоджена велика книжкова шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця книжкова шафа сильно побита."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, як ця книжкова шафа так постраждала."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Книжкова шафа вже розбита?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Як ця книжкова шафа зазнала таких пошкоджень?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця книжкова шафа - розвал."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пошкоджена книжкова шафа - трагічне видовище."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Що трапилось у зірках?"
+  }
+]

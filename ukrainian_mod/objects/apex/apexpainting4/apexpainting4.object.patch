@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Не варто недооцінювати любов Apex до бананів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стандартний випуск живопису"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дехто настільки любить банан, що увічнює його в мистецтві."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Плід жовтого кольору."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран ненавидить м’яку жовту їжу."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Здається, це фрукт."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Банан... добре."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Хтось повинен дуже піклуватися про їхні жовті плоди."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якийсь поп-арт?"
+  }
+]

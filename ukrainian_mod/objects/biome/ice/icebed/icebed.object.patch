@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ліжко з льоду. Влітку стає водяним ліжком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крижане ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Апекс нагрівається, коли ми спимо. Це ліжко — це катастрофа, яка чекає свого розвитку."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не думаю, що це ліжко дуже спокійне."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран лизати ліжко. Ліжко дуже холодне. У Флорана боліла голова."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Конфліктний. Це тверде ліжко ідеально підходить для Глітча, але що, якщо воно розтане?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це ліжко виглядає так, ніби воно дасть вам холодне плече. Ха-ха... Ха..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Надзвичайно розумне використання води."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я відчуваю, що мені занадто жарко для цього ліжка."
+  }
+]

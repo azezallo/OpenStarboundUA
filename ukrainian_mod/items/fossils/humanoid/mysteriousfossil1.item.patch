@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий череп невідомої істоти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Непізнаний череп"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Непізнана копалина"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Істота, яка збентежила багатьох вчених, її походження та вік неможливо визначити."
+  }
+]

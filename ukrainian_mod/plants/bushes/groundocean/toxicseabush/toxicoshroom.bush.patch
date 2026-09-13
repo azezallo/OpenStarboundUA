@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Токсичний туалет."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Токсичний Oshroom"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ссслий бур'ян."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Морський кущ."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Військовий берет для маленького солдатика Пінгвіна. Як мило."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Берет пінгвін"
+  }
+]

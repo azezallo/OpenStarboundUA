@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Прекрасна квітка.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Прекрасна квітка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану це здається ссссимпатичним.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Симпатична квітка.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

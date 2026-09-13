@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Якісь рябі зручні штани."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Брюки Geode"
+  }
+]

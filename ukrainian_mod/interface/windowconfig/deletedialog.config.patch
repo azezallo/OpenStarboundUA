@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/areYouSure/value",
+    "value": "Дійсно видалити\nперсонажа?"
+  },
+  {
+    "op": "replace",
+    "path": "/delete/caption",
+    "value": "Видалити"
+  },
+  {
+    "op": "replace",
+    "path": "/cancel/caption",
+    "value": "Скас."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Fire Lilodon"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Його предки жили в морі. Це може виглядати маленьким, але він має великий укус."
+  }
+]

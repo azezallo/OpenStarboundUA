@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Basalt Darter"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Його вузьке кутасте тіло щільно вписується в тріщини у вулканічних породах, де воно спить."
+  }
+]

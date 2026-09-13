@@ -1,0 +1,482 @@
+[
+  {
+    "value": "Збери предмет [<itemName>]: <current> / <required>",
+    "path": "/objectiveDescriptions/gatherItem",
+    "op": "replace"
+  },
+  {
+    "value": "Знайди предмети <tag>: <current> / <required>",
+    "path": "/objectiveDescriptions/gatherItemTag",
+    "op": "replace"
+  },
+  {
+    "value": "Досліди об'єкти",
+    "path": "/objectiveDescriptions/scanObjects",
+    "op": "replace"
+  },
+  {
+    "value": "Покращ корабель з класу <current> до класу <required>",
+    "path": "/objectiveDescriptions/shipLevel",
+    "op": "replace"
+  },
+  {
+    "value": "Збери предмет [<itemName>]: <current> / <required>",
+    "path": "/objectiveDescriptions/fetch",
+    "op": "replace"
+  },
+  {
+    "value": "Повернися до жителя <questGiver>",
+    "path": "/objectiveDescriptions/return",
+    "op": "replace"
+  },
+  {
+    "value": " нагорі",
+    "path": "/directions/0/descriptions/0",
+    "op": "replace"
+  },
+  {
+    "value": " над нами",
+    "path": "/directions/0/descriptions/1",
+    "op": "replace"
+  },
+  {
+    "value": " прямо нагорі",
+    "path": "/directions/0/descriptions/2",
+    "op": "replace"
+  },
+  {
+    "value": " на сході",
+    "path": "/directions/1/descriptions/0",
+    "op": "replace"
+  },
+  {
+    "value": " на сході звідси",
+    "path": "/directions/1/descriptions/1",
+    "op": "replace"
+  },
+  {
+    "value": " на сході від нас",
+    "path": "/directions/1/descriptions/2",
+    "op": "replace"
+  },
+  {
+    "value": " знизу",
+    "path": "/directions/2/descriptions/0",
+    "op": "replace"
+  },
+  {
+    "value": " під нами",
+    "path": "/directions/2/descriptions/1",
+    "op": "replace"
+  },
+  {
+    "value": " прямо знизу",
+    "path": "/directions/2/descriptions/2",
+    "op": "replace"
+  },
+  {
+    "value": " на заході",
+    "path": "/directions/3/descriptions/0",
+    "op": "replace"
+  },
+  {
+    "value": " на заході звідси",
+    "path": "/directions/3/descriptions/1",
+    "op": "replace"
+  },
+  {
+    "value": " на заході від нас",
+    "path": "/directions/3/descriptions/2",
+    "op": "replace"
+  },
+  {
+    "value": "вона",
+    "path": "/pronouns/female/subject",
+    "op": "replace"
+  },
+  {
+    "value": "їй",
+    "path": "/pronouns/female/object",
+    "op": "replace"
+  },
+  {
+    "value": "її",
+    "path": "/pronouns/female/possessiveDet",
+    "op": "replace"
+  },
+  {
+    "value": "її",
+    "path": "/pronouns/female/possessive",
+    "op": "replace"
+  },
+  {
+    "value": "її",
+    "path": "/pronouns/female/reflexive",
+    "op": "replace"
+  },
+  {
+    "value": "Вона",
+    "path": "/pronouns/female/capitalSubject",
+    "op": "replace"
+  },
+  {
+    "value": "їй",
+    "path": "/pronouns/female/capitalObject",
+    "op": "replace"
+  },
+  {
+    "value": "їй",
+    "path": "/pronouns/female/capitalPossessiveDet",
+    "op": "replace"
+  },
+  {
+    "value": "її",
+    "path": "/pronouns/female/capitalPossessive",
+    "op": "replace"
+  },
+  {
+    "value": "Її",
+    "path": "/pronouns/female/capitalReflexive",
+    "op": "replace"
+  },
+  {
+    "value": "ній",
+    "path": "/pronouns/female/copulative",
+    "op": "replace"
+  },
+  {
+    "value": "ній",
+    "path": "/pronouns/female/copulativePast",
+    "op": "replace"
+  },
+  {
+    "value": "а",
+    "path": "/pronouns/female/obj1end",
+    "op": "add"
+  },
+  {
+    "value": "ую",
+    "path": "/pronouns/female/obj2end",
+    "op": "add"
+  },
+  {
+    "value": "ла",
+    "path": "/pronouns/female/obj3end",
+    "op": "add"
+  },
+  {
+    "value": "на",
+    "path": "/pronouns/female/obj4end",
+    "op": "add"
+  },
+  {
+    "value": "ла",
+    "path": "/pronouns/female/obj5end",
+    "op": "add"
+  },
+  {
+    "value": "ась",
+    "path": "/pronouns/female/obj6end",
+    "op": "add"
+  },
+  {
+    "value": "ая",
+    "path": "/pronouns/female/obj7end",
+    "op": "add"
+  },
+  {
+    "value": "ьна",
+    "path": "/pronouns/female/obj8end",
+    "op": "add"
+  },
+  {
+    "value": "ая",
+    "path": "/pronouns/female/obj9end",
+    "op": "add"
+  },
+  {
+    "value": "ая",
+    "path": "/pronouns/female/obj10end",
+    "op": "add"
+  },
+  {
+    "value": "ё",
+    "path": "/pronouns/female/obj11end",
+    "op": "add"
+  },
+  {
+    "value": "йна",
+    "path": "/pronouns/female/obj12end",
+    "op": "add"
+  },
+  {
+    "value": "у",
+    "path": "/pronouns/female/obj13end",
+    "op": "add"
+  },
+  {
+    "value": "на",
+    "path": "/pronouns/female/obj14end",
+    "op": "add"
+  },
+  {
+    "value": "він",
+    "path": "/pronouns/male/subject",
+    "op": "replace"
+  },
+  {
+    "value": "йому",
+    "path": "/pronouns/male/object",
+    "op": "replace"
+  },
+  {
+    "value": "його",
+    "path": "/pronouns/male/possessiveDet",
+    "op": "replace"
+  },
+  {
+    "value": "його",
+    "path": "/pronouns/male/possessive",
+    "op": "replace"
+  },
+  {
+    "value": "його",
+    "path": "/pronouns/male/reflexive",
+    "op": "replace"
+  },
+  {
+    "value": "Він",
+    "path": "/pronouns/male/capitalSubject",
+    "op": "replace"
+  },
+  {
+    "value": "йому",
+    "path": "/pronouns/male/capitalObject",
+    "op": "replace"
+  },
+  {
+    "value": "його",
+    "path": "/pronouns/male/capitalPossessiveDet",
+    "op": "replace"
+  },
+  {
+    "value": "його",
+    "path": "/pronouns/male/capitalPossessive",
+    "op": "replace"
+  },
+  {
+    "value": "Його",
+    "path": "/pronouns/male/capitalReflexive",
+    "op": "replace"
+  },
+  {
+    "value": "ньому",
+    "path": "/pronouns/male/copulative",
+    "op": "replace"
+  },
+  {
+    "value": "ним",
+    "path": "/pronouns/male/copulativePast",
+    "op": "replace"
+  },
+  {
+    "value": "",
+    "path": "/pronouns/male/obj1end",
+    "op": "add"
+  },
+  {
+    "value": "его",
+    "path": "/pronouns/male/obj2end",
+    "op": "add"
+  },
+  {
+    "value": "",
+    "path": "/pronouns/male/obj3end",
+    "op": "add"
+  },
+  {
+    "value": "ен",
+    "path": "/pronouns/male/obj4end",
+    "op": "add"
+  },
+  {
+    "value": "ёл",
+    "path": "/pronouns/male/obj5end",
+    "op": "add"
+  },
+  {
+    "value": "ся",
+    "path": "/pronouns/male/obj6end",
+    "op": "add"
+  },
+  {
+    "value": "ый",
+    "path": "/pronouns/male/obj7end",
+    "op": "add"
+  },
+  {
+    "value": "ен",
+    "path": "/pronouns/male/obj8end",
+    "op": "add"
+  },
+  {
+    "value": "ой",
+    "path": "/pronouns/male/obj9end",
+    "op": "add"
+  },
+  {
+    "value": "ий",
+    "path": "/pronouns/male/obj10end",
+    "op": "add"
+  },
+  {
+    "value": "го",
+    "path": "/pronouns/male/obj11end",
+    "op": "add"
+  },
+  {
+    "value": "ен",
+    "path": "/pronouns/male/obj12end",
+    "op": "add"
+  },
+  {
+    "value": "ого",
+    "path": "/pronouns/male/obj13end",
+    "op": "add"
+  },
+  {
+    "value": "ин",
+    "path": "/pronouns/male/obj14end",
+    "op": "add"
+  },
+  {
+    "value": "він",
+    "path": "/pronouns/neutral/subject",
+    "op": "replace"
+  },
+  {
+    "value": "йому",
+    "path": "/pronouns/neutral/object",
+    "op": "replace"
+  },
+  {
+    "value": "його",
+    "path": "/pronouns/neutral/possessiveDet",
+    "op": "replace"
+  },
+  {
+    "value": "його",
+    "path": "/pronouns/neutral/possessive",
+    "op": "replace"
+  },
+  {
+    "value": "його",
+    "path": "/pronouns/neutral/reflexive",
+    "op": "replace"
+  },
+  {
+    "value": "Він",
+    "path": "/pronouns/neutral/capitalSubject",
+    "op": "replace"
+  },
+  {
+    "value": "йому",
+    "path": "/pronouns/neutral/capitalObject",
+    "op": "replace"
+  },
+  {
+    "value": "його",
+    "path": "/pronouns/neutral/capitalPossessiveDet",
+    "op": "replace"
+  },
+  {
+    "value": "його",
+    "path": "/pronouns/neutral/capitalPossessive",
+    "op": "replace"
+  },
+  {
+    "value": "Його",
+    "path": "/pronouns/neutral/capitalReflexive",
+    "op": "replace"
+  },
+  {
+    "value": "ньому",
+    "path": "/pronouns/neutral/copulative",
+    "op": "replace"
+  },
+  {
+    "value": "ним",
+    "path": "/pronouns/neutral/copulativePast",
+    "op": "replace"
+  },
+  {
+    "value": "",
+    "path": "/pronouns/neutral/obj1end",
+    "op": "add"
+  },
+  {
+    "value": "его",
+    "path": "/pronouns/neutral/obj2end",
+    "op": "add"
+  },
+  {
+    "value": "",
+    "path": "/pronouns/neutral/obj3end",
+    "op": "add"
+  },
+  {
+    "value": "ен",
+    "path": "/pronouns/neutral/obj4end",
+    "op": "add"
+  },
+  {
+    "value": "ёл",
+    "path": "/pronouns/neutral/obj5end",
+    "op": "add"
+  },
+  {
+    "value": "ся",
+    "path": "/pronouns/neutral/obj6end",
+    "op": "add"
+  },
+  {
+    "value": "ый",
+    "path": "/pronouns/neutral/obj7end",
+    "op": "add"
+  },
+  {
+    "value": "ен",
+    "path": "/pronouns/neutral/obj8end",
+    "op": "add"
+  },
+  {
+    "value": "ой",
+    "path": "/pronouns/neutral/obj9end",
+    "op": "add"
+  },
+  {
+    "value": "ий",
+    "path": "/pronouns/neutral/obj10end",
+    "op": "add"
+  },
+  {
+    "value": "го",
+    "path": "/pronouns/neutral/obj11end",
+    "op": "add"
+  },
+  {
+    "value": "ен",
+    "path": "/pronouns/neutral/obj12end",
+    "op": "add"
+  },
+  {
+    "value": "ого",
+    "path": "/pronouns/neutral/obj13end",
+    "op": "add"
+  },
+  {
+    "value": "ин",
+    "path": "/pronouns/neutral/obj14end",
+    "op": "add"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крила Купідона можуть бути недостатньо міцними, щоб витримати вашу вагу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крила Купідона"
+  }
+]

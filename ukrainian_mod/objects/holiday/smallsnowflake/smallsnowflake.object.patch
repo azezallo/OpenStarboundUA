@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленька прикраса сніжинка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленька Сніжинка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кажуть, кожна сніжинка унікальна."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кожна сніжинка унікальна на вигляд. Подарунок від Kluex."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сссніжинка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Ця сніжинка єдина в своєму роді?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вигляд сніжинок завжди змушує мене тужити за зимою."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Сніжинки – справді прекрасне природне явище."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Сніжинки, звичайно, гарні."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Найкраща камера безпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Високотехнологічна камера безпеки"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Завжди спостерігаю."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я повинен бути пильним щодо таких камер відеоспостереження, як ця."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ця камера рухається самостійно."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Ця камера безпеки оснащена функцією виявлення руху."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Хтось стежить за кожним моїм рухом цією камерою. Так моторошно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Побачивши цю камеру, мені хочеться сховатися під океаном, щоб уникнути її погляду."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "На що дивишся, га?"
+  }
+]

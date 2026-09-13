@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Для мовчазного воїна, який підстерігає."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нагрудник збирача"
+  }
+]

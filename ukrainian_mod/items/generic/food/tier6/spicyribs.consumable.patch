@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Солодко-гострі ребра. Смачного!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пряні ребра"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Мені потрібна перерва!",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я просто мандрую у своїх справах.",
+    "path": "/scriptConfig/dialog/attack/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Гей, незнайомцю! Якщо шукаєш фрагменти ядра, тобі варто зазирнути в цю стару, покинуту шахту!",
+    "path": "/scriptConfig/dialog/attack/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фрагменти ядра хороші для хімічних реакцій, тому раніше шахтарі робили з них вибухівку.",
+    "path": "/scriptConfig/dialog/attack/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Думаю, шахтарі давно пішли з цих місць, шахта кишить різними звірятами.",
+    "path": "/scriptConfig/dialog/attack/human/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Давненько я не бачив нових облич! Потрібні поради щодо виживання? У мене їх повно!",
+    "path": "/scriptConfig/dialog/attack/human/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Обрубай лозу, якщо побачиш! Її можна використовувати для медичних пов'язок та мотузок. І те, і інше добре.",
+    "path": "/scriptConfig/dialog/attack/human/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Будь обережний, коли падаєш! Краще побудуй собі безпечний спуск, якщо потрібно.",
+    "path": "/scriptConfig/dialog/attack/human/default/6",
+    "op": "replace"
+  }
+]

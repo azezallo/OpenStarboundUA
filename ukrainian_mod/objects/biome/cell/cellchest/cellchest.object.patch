@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скриня зі сферичним замком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Cell Chest"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Він має металевий вигляд, але насправді виготовлений з органічного матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Засувка виглядає як ягідка, що приємно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Воно блищить, але виглядає надто тупо, щоб зацікавити Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Без ентузіазму. Яка гарна скриня..."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я знаю, що він зроблений із клітинок, але виглядає, ніби він зроблений із цукерок."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Розробник цієї скрині не був знайомим словом «заниження»."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Надто помітний, щоб зберігати в ньому щось важливе."
+  }
+]

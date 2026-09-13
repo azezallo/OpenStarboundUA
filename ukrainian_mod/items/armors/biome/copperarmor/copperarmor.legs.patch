@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Практична пара мідних шкварок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мідні шкварки"
+  }
+]

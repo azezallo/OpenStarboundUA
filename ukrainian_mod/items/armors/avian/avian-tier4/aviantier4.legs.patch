@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця спідниця з підкладкою Durasteel щільно облягає в усіх потрібних місцях."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Спідниця-сова"
+  }
+]

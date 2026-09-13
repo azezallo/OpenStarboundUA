@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дайте своєму меху гучний голос, щоб залякати своїх ворогів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Голосовий мех-горн робота"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Захисний",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Завиваючий",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Імпульсний",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": " стрілець",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  }
+]

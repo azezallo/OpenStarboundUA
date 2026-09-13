@@ -1,0 +1,492 @@
+[
+  {
+    "value": "Ти схожий на того, хто теж втратив свій дім.",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти тут, щоб допомогти нам у нескінченній боротьбі проти Міннауку?",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ми може й ховаємося від Міннауку, але я ніколи не почувався таким вільним!",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Міннаук називає нас заколотниками, але ми - борці за свободу!",
+    "path": "/scriptConfig/dialog/converse/apex/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ми боремося за свободу нашого народу. За що б'єшся ти, людино?",
+    "path": "/scriptConfig/dialog/converse/apex/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Часи ще ніколи не були настільки жорстокими, але ми не повинні втрачати надію.",
+    "path": "/scriptConfig/dialog/converse/apex/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво, як виглядає Великий Мавп?",
+    "path": "/scriptConfig/dialog/converse/apex/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Б'юся об заклад, що Великий Мавп не такий вже й великий.",
+    "path": "/scriptConfig/dialog/converse/apex/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Чи багато ти знаєш про те, як живеться апексам, людино?",
+    "path": "/scriptConfig/dialog/converse/apex/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "Як багато ти знаєш про Міннаук? Він керує апексами, і робить це жорстоко.",
+    "path": "/scriptConfig/dialog/converse/apex/default/9",
+    "op": "replace"
+  },
+  {
+    "value": "У більшості повстанців Міннаук забрав сім'ю та друзів. Ми не знатимемо спокою, поки Міннаук не впаде.",
+    "path": "/scriptConfig/dialog/converse/apex/default/10",
+    "op": "replace"
+  },
+  {
+    "value": "Не відволікай мене, я зайнятий, намагаюся повалити злий режим.",
+    "path": "/scriptConfig/dialog/converse/apex/default/11",
+    "op": "replace"
+  },
+  {
+    "value": "Постарайся не створювати занадто багато заворушень тут, добре?",
+    "path": "/scriptConfig/dialog/converse/apex/default/12",
+    "op": "replace"
+  },
+  {
+    "value": "У твого виду теж є безсердечний диктатор?",
+    "path": "/scriptConfig/dialog/converse/apex/default/13",
+    "op": "replace"
+  },
+  {
+    "value": "Ти теж втратив сім'ю через Міннаук?",
+    "path": "/scriptConfig/dialog/converse/apex/apex/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти тут, щоб допомогти нам у нескінченній боротьбі проти Міннауку?",
+    "path": "/scriptConfig/dialog/converse/apex/apex/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ми може й ховаємося від Міннауку, але я ніколи не почувався таким вільним!",
+    "path": "/scriptConfig/dialog/converse/apex/apex/2",
+    "op": "replace"
+  },
+  {
+    "value": "Міннаук називає нас заколотниками, але ми - борці за свободу!",
+    "path": "/scriptConfig/dialog/converse/apex/apex/3",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо ми будемо завзято битися, одного разу наш вид буде звільнено від утисків.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/4",
+    "op": "replace"
+  },
+  {
+    "value": "Часи ще ніколи не були настільки жорстокими, але ми не повинні втрачати надію.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/5",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво, як виглядає Великий Мавп?",
+    "path": "/scriptConfig/dialog/converse/apex/apex/6",
+    "op": "replace"
+  },
+  {
+    "value": "Б'юся об заклад, що Великий Мавп не такий вже й великий.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/7",
+    "op": "replace"
+  },
+  {
+    "value": "Ти ховаєшся від Міннауку? Удачі, друже.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/8",
+    "op": "replace"
+  },
+  {
+    "value": "Міннаук заплатить за те, що зробив з нашим родом!",
+    "path": "/scriptConfig/dialog/converse/apex/apex/9",
+    "op": "replace"
+  },
+  {
+    "value": "У більшості повстанців Міннаук забрав сім'ю та друзів. Ми не знатимемо спокою, поки Міннаук не впаде.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/10",
+    "op": "replace"
+  },
+  {
+    "value": "Не відволікай мене, я зайнятий, намагаюся повалити злий режим.",
+    "path": "/scriptConfig/dialog/converse/apex/apex/11",
+    "op": "replace"
+  },
+  {
+    "value": "Постарайся не створювати занадто багато заворушень тут, добре?",
+    "path": "/scriptConfig/dialog/converse/apex/apex/12",
+    "op": "replace"
+  },
+  {
+    "value": "Ти належиш до повстанців?",
+    "path": "/scriptConfig/dialog/converse/apex/apex/13",
+    "op": "replace"
+  },
+  {
+    "value": "Ти схожий на того, хто теж втратив свій дім.",
+    "path": "/scriptConfig/dialog/converse/apex/avian/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти тут, щоб допомогти нам у нескінченній боротьбі проти Міннауку?",
+    "path": "/scriptConfig/dialog/converse/apex/avian/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ми може й ховаємося від Міннауку, але я ніколи не почувався таким вільним!",
+    "path": "/scriptConfig/dialog/converse/apex/avian/2",
+    "op": "replace"
+  },
+  {
+    "value": "Міннаук називає нас заколотниками, але ми - борці за свободу!",
+    "path": "/scriptConfig/dialog/converse/apex/avian/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ми боремося за свободу нашого народу. За що б'єшся ти, авіане?",
+    "path": "/scriptConfig/dialog/converse/apex/avian/4",
+    "op": "replace"
+  },
+  {
+    "value": "Часи ще ніколи не були настільки жорстокими, але ми не повинні втрачати надію.",
+    "path": "/scriptConfig/dialog/converse/apex/avian/5",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво, як виглядає Великий Мавп?",
+    "path": "/scriptConfig/dialog/converse/apex/avian/6",
+    "op": "replace"
+  },
+  {
+    "value": "Б'юся об заклад, що Великий Мавп не такий вже й великий.",
+    "path": "/scriptConfig/dialog/converse/apex/avian/7",
+    "op": "replace"
+  },
+  {
+    "value": "Чи багато ти знаєш про те, як живеться апексам, авіане?",
+    "path": "/scriptConfig/dialog/converse/apex/avian/8",
+    "op": "replace"
+  },
+  {
+    "value": "Як багато ти знаєш про Міннаук? Він керує апексами, і робить це жорстоко.",
+    "path": "/scriptConfig/dialog/converse/apex/avian/9",
+    "op": "replace"
+  },
+  {
+    "value": "У більшості повстанців Міннаук забрав сім'ю та друзів. Ми не знатимемо спокою, поки Міннаук не впаде.",
+    "path": "/scriptConfig/dialog/converse/apex/avian/10",
+    "op": "replace"
+  },
+  {
+    "value": "Не відволікай мене, я зайнятий, намагаюся повалити злий режим.",
+    "path": "/scriptConfig/dialog/converse/apex/avian/11",
+    "op": "replace"
+  },
+  {
+    "value": "Постарайся не створювати занадто багато заворушень тут, добре?",
+    "path": "/scriptConfig/dialog/converse/apex/avian/12",
+    "op": "replace"
+  },
+  {
+    "value": "У твого виду теж є безсердечний диктатор?",
+    "path": "/scriptConfig/dialog/converse/apex/avian/13",
+    "op": "replace"
+  },
+  {
+    "value": "Ти схожий на того, хто теж втратив свій дім.",
+    "path": "/scriptConfig/dialog/converse/apex/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти тут, щоб допомогти нам у нескінченній боротьбі проти Міннауку?",
+    "path": "/scriptConfig/dialog/converse/apex/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ми може й ховаємося від Міннауку, але я ніколи не почувався таким вільним!",
+    "path": "/scriptConfig/dialog/converse/apex/floran/2",
+    "op": "replace"
+  },
+  {
+    "value": "Міннаук нас називає заколотниками, але ми - борці за свободу!",
+    "path": "/scriptConfig/dialog/converse/apex/floran/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ми боремося за свободу нашого народу. За що борешся ти, флоране?",
+    "path": "/scriptConfig/dialog/converse/apex/floran/4",
+    "op": "replace"
+  },
+  {
+    "value": "Часи ще ніколи не були настільки жорстокими, але ми не повинні втрачати надію.",
+    "path": "/scriptConfig/dialog/converse/apex/floran/5",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво, як виглядає Великий Мавп?",
+    "path": "/scriptConfig/dialog/converse/apex/floran/6",
+    "op": "replace"
+  },
+  {
+    "value": "Б'юся об заклад, що Великий Мавп не такий вже й великий.",
+    "path": "/scriptConfig/dialog/converse/apex/floran/7",
+    "op": "replace"
+  },
+  {
+    "value": "Чи багато ти знаєш про те, як живеться апексам, флоране?",
+    "path": "/scriptConfig/dialog/converse/apex/floran/8",
+    "op": "replace"
+  },
+  {
+    "value": "Як багато ти знаєш про Міннаук? Він керує апексами, і робить це жорстоко.",
+    "path": "/scriptConfig/dialog/converse/apex/floran/9",
+    "op": "replace"
+  },
+  {
+    "value": "У більшості повстанців Міннаук забрав сім'ю та друзів. Ми не знатимемо спокою, поки Міннаук не впаде.",
+    "path": "/scriptConfig/dialog/converse/apex/floran/10",
+    "op": "replace"
+  },
+  {
+    "value": "Не відволікай мене, я зайнятий, намагаюся повалити злий режим.",
+    "path": "/scriptConfig/dialog/converse/apex/floran/11",
+    "op": "replace"
+  },
+  {
+    "value": "Постарайся не створювати тут занадто багато хвилювань, добре?",
+    "path": "/scriptConfig/dialog/converse/apex/floran/12",
+    "op": "replace"
+  },
+  {
+    "value": "У твого виду теж є безсердечний диктатор?",
+    "path": "/scriptConfig/dialog/converse/apex/floran/13",
+    "op": "replace"
+  },
+  {
+    "value": "Ти схожий на того, хто теж втратив свій дім.",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти тут, щоб допомогти нам у нескінченній боротьбі проти Міннаука?",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ми може й ховаємося від Міннаука, але я ніколи не почувався таким вільним!",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/2",
+    "op": "replace"
+  },
+  {
+    "value": "Міннаук нас називає заколотниками, але ми - борці за свободу!",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ми боремося за свободу нашого народу. За що борешся ти, гілотле?",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/4",
+    "op": "replace"
+  },
+  {
+    "value": "Часи ще ніколи не були настільки жорстокими, але ми не повинні втрачати надію.",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/5",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво, як виглядає Великий Мавп?",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/6",
+    "op": "replace"
+  },
+  {
+    "value": "Б'юся об заклад, що Великий Мавп не такий вже й великий.",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/7",
+    "op": "replace"
+  },
+  {
+    "value": "Чи багато ти знаєш про те, як живеться апексам, гілотле?",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/8",
+    "op": "replace"
+  },
+  {
+    "value": "Як багато ти знаєш про Міннаук? Він керує апексами, і робить це жорстоко.",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/9",
+    "op": "replace"
+  },
+  {
+    "value": "У більшості повстанців Міннаук забрав сім'ю та друзів. Ми не знатимемо спокою, поки Міннаук не впаде.",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/10",
+    "op": "replace"
+  },
+  {
+    "value": "Не відволікай мене, я зайнятий, намагаюся повалити злий режим.",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/11",
+    "op": "replace"
+  },
+  {
+    "value": "Постарайся не створювати тут занадто багато хвилювань, добре?",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/12",
+    "op": "replace"
+  },
+  {
+    "value": "У твого виду теж є безсердечний диктатор?",
+    "path": "/scriptConfig/dialog/converse/apex/hylotl/13",
+    "op": "replace"
+  },
+  {
+    "value": "Ти схожий на того, хто теж втратив свій дім.",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти тут, щоб допомогти нам у нескінченній боротьбі проти Міннаука?",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ми може й ховаємося від Міннаука, але я ніколи не почувався таким вільним!",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/2",
+    "op": "replace"
+  },
+  {
+    "value": "Міннаук нас називає заколотниками, але ми - борці за свободу!",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ми боремося за свободу нашого народу. За що борешся ти, ґлітче?",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/4",
+    "op": "replace"
+  },
+  {
+    "value": "Часи ще ніколи не були настільки жорстокими, але ми не повинні втрачати надію.",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/5",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво, як виглядає Великий Мавп?",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/6",
+    "op": "replace"
+  },
+  {
+    "value": "Б'юся об заклад, що Великий Мавп не такий вже й великий.",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/7",
+    "op": "replace"
+  },
+  {
+    "value": "Чи багато ти знаєш про те, як живеться апексам, ґлітче?",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/8",
+    "op": "replace"
+  },
+  {
+    "value": "Як багато ти знаєш про Міннаук? Він керує апексами, і робить це жорстоко.",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/9",
+    "op": "replace"
+  },
+  {
+    "value": "У більшості повстанців Міннаук забрав сім'ю та друзів. Ми не знатимемо спокою, поки Міннаук не впаде.",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/10",
+    "op": "replace"
+  },
+  {
+    "value": "Не відволікай мене, я зайнятий, намагаюся повалити злий режим.",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/11",
+    "op": "replace"
+  },
+  {
+    "value": "Постарайся не створювати тут занадто багато хвилювань, добре?",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/12",
+    "op": "replace"
+  },
+  {
+    "value": "У твого виду теж є безсердечний диктатор?",
+    "path": "/scriptConfig/dialog/converse/apex/glitch/13",
+    "op": "replace"
+  },
+  {
+    "value": "Ти схожий на того, хто теж втратив свій дім.",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти тут, щоб допомогти нам у нескінченній боротьбі проти Міннаука?",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ми може й ховаємося від Міннаука, але я ніколи не почувався таким вільним!",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/2",
+    "op": "replace"
+  },
+  {
+    "value": "Міннаук нас називає заколотниками, але ми - борці за свободу!",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ми боремося за свободу нашого народу. За що борешся ти, мій дивний світний друже?",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/4",
+    "op": "replace"
+  },
+  {
+    "value": "Часи ще ніколи не були настільки жорстокими, але ми не повинні втрачати надію.",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/5",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво, як виглядає Великий Мавп?",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/6",
+    "op": "replace"
+  },
+  {
+    "value": "Б'юся об заклад, що Великий Мавп не такий вже й великий.",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/7",
+    "op": "replace"
+  },
+  {
+    "value": "Чи багато ти знаєш про те, як живеться апексам? ...Що ти за істота?",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/8",
+    "op": "replace"
+  },
+  {
+    "value": "Як багато ти знаєш про Міннаук? Він керує апексами, і робить це жорстоко.",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/9",
+    "op": "replace"
+  },
+  {
+    "value": "У більшості повстанців Міннаук забрав сім'ю та друзів. Ми не знатимемо спокою, поки Міннаук не впаде.",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/10",
+    "op": "replace"
+  },
+  {
+    "value": "Не відволікай мене, я зайнятий, намагаюся повалити злий режим.",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/11",
+    "op": "replace"
+  },
+  {
+    "value": "Постарайся не створювати тут занадто багато хвилювань, добре?",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/12",
+    "op": "replace"
+  },
+  {
+    "value": "У твого виду теж є безсердечний диктатор?",
+    "path": "/scriptConfig/dialog/converse/apex/novakid/13",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює частину планети на зарослу пустелю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дикий мікроформер"
+  }
+]

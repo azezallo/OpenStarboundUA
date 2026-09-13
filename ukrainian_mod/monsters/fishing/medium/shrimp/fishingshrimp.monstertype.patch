@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Volcaris"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Істота, якій вдалося уникнути вимирання, незважаючи на її слабке тіло."
+  }
+]

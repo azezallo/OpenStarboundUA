@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дає зрозуміти, наскільки жовті ваші мішені."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жовтий Paintgun"
+  }
+]

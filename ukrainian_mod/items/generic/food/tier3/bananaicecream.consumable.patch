@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вершковий, крижаний, банановий смак."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "бананове морозиво"
+  }
+]

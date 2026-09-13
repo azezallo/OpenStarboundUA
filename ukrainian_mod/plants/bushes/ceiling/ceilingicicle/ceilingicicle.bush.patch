@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An icicle."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бурулька."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssstabby бурулька."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. An icicle."
+  }
+]

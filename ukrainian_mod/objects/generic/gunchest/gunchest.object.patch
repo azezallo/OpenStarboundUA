@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Високотехнологічний контейнер для зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скриня зі зброєю"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я бачив, як багато охоронців Міннаук зберігають свою зброю в таких скринях."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я вважаю, що ці скрині використовуються для зберігання вогнепальної зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Потворні риболюди кладуть рушниці в цю скриню."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заспокоєний. Високотехнологічна скриня, загальновизнана для зберігання зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ємність для зберігання зброї. Я бачив, як люди по телевізору цим користуються."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Скриня для зберігання зброї. Я вже десь бачив один із них."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це дивовижний спосіб зберігання зброї."
+  }
+]

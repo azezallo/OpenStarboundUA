@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Меч надзвичайної темної сили, колись використаний могутньою душею."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шукач душ"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Шукач душ ^yellow;^reset;"
+  }
+]

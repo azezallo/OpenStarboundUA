@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташиний технічний блок"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Удосконалений синтетичний пташиний матеріал з друкованими маркуваннями."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Цікаво. Ці блоки зроблені з невідомого штучного матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Цеглини вкриті дивними позначками."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Міцні на вигляд цеглини, усі позначені символами."
+  }
+]

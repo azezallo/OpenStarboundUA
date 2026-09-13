@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ударопоглинаючі штани з титановими черевиками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Повстанські штани"
+  }
+]

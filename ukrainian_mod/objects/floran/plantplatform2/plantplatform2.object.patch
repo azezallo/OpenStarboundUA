@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великі колоди, організовані як майданчик для будівництва."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Велика дерев'яна сцена"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці колоди виглядають складеними, щоб допомогти в будівництві."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, ця платформа створена для підтримки розробників."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran inscenging використовувався для будівництва."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Ця груба платформа може розвалитися в будь-яку хвилину."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, що ця велика платформа витримає велику вагу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Схоже, що це тимчасова споруда, яку планують розібрати та перенести."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці колоди створюють досить солідну платформу."
+  }
+]

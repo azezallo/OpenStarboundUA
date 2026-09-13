@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": "Підтвердити"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/ok/caption",
+    "value": "Добре"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/cancel/caption",
+    "value": "Скас."
+  }
+]

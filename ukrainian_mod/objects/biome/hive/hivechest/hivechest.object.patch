@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дійсно огидна скриня."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вулик Скриня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Досить мерзенна скриня."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Від цього звуку грудей тремтить по спині."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче з'їсти скриню."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огида. М'ясиста, пульсуюча грудна клітка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гарна груба скриня з плоті."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Яка огидна скриня."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це не дуже приваблива скриня, але я все одно хочу те, що всередині."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцна куртка зі сталевими застібками зігріє вас у будь-яку погоду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жилет бандита"
+  }
+]

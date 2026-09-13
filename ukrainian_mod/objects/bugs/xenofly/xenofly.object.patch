@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "У цього хлопця маленьке моторошне обличчя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ксенофіл"
+  }
+]

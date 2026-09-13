@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Класичний футбольний... або футбольний м'яч, якщо вам більше подобається."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "футбол"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Якийсь м'яч, призначений для спорту."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якийсь м'яч, що стрибає."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Що з цим робить Флоран?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Чому на кульці білі та чорні плями?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Футбол! Здивований, побачивши один із них тут."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це футбольний м'яч. Останнім часом вони стали популярними серед молодого Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я вважаю, що це декоративний предмет."
+  }
+]

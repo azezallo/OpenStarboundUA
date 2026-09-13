@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стара книга, повна вказівок для захисників."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Земного Захисту Стара книга"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "У цій книзі містяться оригінальні, трохи застарілі, рекомендації щодо того, як бути захисником."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Давно написана книга, яка містить вказівки для того, щоб бути захисником."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Dusssty книга зі старими правилами."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Ця книга добре збереглася."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "І стара та запорошена книга. Він містить застарілі вказівки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У цій книзі містяться перші вказівки для того, щоб стати захисником."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Старовинна книга."
+  }
+]

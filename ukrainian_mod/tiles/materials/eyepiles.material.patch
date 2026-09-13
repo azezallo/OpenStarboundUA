@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Купа очей"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Купа хлюпаючих очних яблук."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Світловідбиваюча. За винятком тих, хто знаходиться на вершині купи, більшість із цих очей завжди знатимуть лише темряву."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Шкідливі очі!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Деякі з цих очей дивляться прямо на мене."
+  }
+]

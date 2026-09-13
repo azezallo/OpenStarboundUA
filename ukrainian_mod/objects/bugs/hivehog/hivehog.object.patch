@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей жучок ніколи не припиняє їсти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вулик"
+  }
+]

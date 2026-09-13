@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Настінна люмінесцентна лампа рожевого кольору."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пастельний світло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Таких рожевих ламп я не бачив!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ніжне рожеве сяйво цієї лампи заспокоює."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить світлі кольори. Хороший колір."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Я не бачив багато таких ламп, які світяться рожевим."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ніжне рожеве світіння цієї лампи дуже заспокоює. Я міг дивитися на це годинами."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я міг повірити, що Hylotl зробив цю лампу - це так заспокоює!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця лампа випромінює тепле світло, чи не так?"
+  }
+]

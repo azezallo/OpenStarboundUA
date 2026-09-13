@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пиріг досить великий, щоб вмістити всі ваші улюблені овочі з металевим смаком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Расті Пасті"
+  }
+]

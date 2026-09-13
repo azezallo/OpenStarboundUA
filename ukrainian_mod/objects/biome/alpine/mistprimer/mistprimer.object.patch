@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Купа замшілого каміння."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Купа мохових каменів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Деякі камені."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Просто замшілі камені."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssstones."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Трохи мохових каменів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Деякі камені вкриті мохом."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Група покритих мохом каменів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто кілька каменів."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Колба, повна синьої рідини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Синя колба"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Один Бог знає, яких страждань завдала ця суміш."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Синє зілля? Це не може бути добре."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пахне жахливо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Натхненний. Синій!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це пахне як... Щось, що не повинно пройти повз губи."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця суміш виглядає токсично."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ніщо блакитне ніколи не буває природним."
+  }
+]

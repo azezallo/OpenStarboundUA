@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Військова каска призначена для бойових медиків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бойовий медичний шолом"
+  }
+]

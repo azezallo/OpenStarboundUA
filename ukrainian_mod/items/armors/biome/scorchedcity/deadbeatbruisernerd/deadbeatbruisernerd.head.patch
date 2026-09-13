@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Захисні окуляри підкреслюють цю покриту маску."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Окуляри Deadbeat Bruiser"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "op": "replace",
+    "path": "/defaultRecruitName",
+    "value": "Гарматне м'ясо"
+  },
+  {
+    "op": "replace",
+    "path": "/defaultRecruitDescription",
+    "value": "> Немає даних."
+  },
+  {
+    "op": "replace",
+    "path": "/missionBreadcrumbText",
+    "value": "МІСІЯ"
+  },
+  {
+    "op": "replace",
+    "path": "/missionDeployText",
+    "value": "ВИСАДКА"
+  },
+  {
+    "op": "replace",
+    "path": "/crewBreadcrumbText",
+    "value": "ЕКІПАЖ"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/windowtitle/title",
+    "value": "Б.Ш.І."
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/windowtitle/subtitle",
+    "value": "Бортовий Штучний Інтелект"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/backButton/caption",
+    "value": "НАЗАД"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/showMissions/caption",
+    "value": "МІСІЇ"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/showCrew/caption",
+    "value": "ЕКІПАЖ"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/homeBreadcrumb/value",
+    "value": "ГОЛОВНА"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/mainStack/stack/1/missionStack/stack/2/missionName/value",
+    "value": "назва місії"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/mainStack/stack/1/missionStack/stack/2/missionText/value",
+    "value": "опис місії"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/mainStack/stack/1/missionStack/stack/2/startMission/caption",
+    "value": "ВИСАДКА"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/mainStack/stack/2/crewStack/stack/2/recruitName/value",
+    "value": "ім'я рекрута"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/mainStack/stack/2/crewStack/stack/2/recruitText/value",
+    "value": "опис рекрута"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/mainStack/stack/2/crewStack/stack/2/dismissRecruit/caption",
+    "value": "ЗВІЛЬНИТИ"
+  }
+]

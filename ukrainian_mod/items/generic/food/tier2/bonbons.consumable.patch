@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кондитерська досконалість."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бон Бонс"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'яніле яйце."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Викопне яйце"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Викопне яйце"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Яйце давньої істоти, заморожене в часі до того, як воно взагалі вижило."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пташине знамено, виткане з дорогого шовку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташиний барвистий банер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чудово яскравий банер."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Такими прапорами земляни прикрашають свої села. Вони наповнюють своє життя кольором."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гарний колір, нагадує Флорану квіти."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Погано зроблений, але все ж гарний."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Яскраві та веселі кольори!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Така вібрація може бути тільки над океаном."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Щось є в цьому банері. мені подобається"
+  }
+]

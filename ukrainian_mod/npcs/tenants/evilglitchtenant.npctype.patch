@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "value": "Impatient. I haven't disconnected some heads for some time."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "value": "Impatient. I haven't disconnected some heads for some time."
+  }
+]

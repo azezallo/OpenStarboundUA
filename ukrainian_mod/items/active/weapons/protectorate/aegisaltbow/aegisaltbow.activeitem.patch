@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Традиційна зброя для полювання на лазерних оленів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Егізальтовий лук"
+  }
+]

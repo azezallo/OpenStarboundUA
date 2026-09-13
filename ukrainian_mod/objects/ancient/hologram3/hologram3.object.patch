@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стародавнє голографічне зображення міфологічної сцени."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стародавня голограма"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, ця сцена показує фігуру, що штовхає монстра у вир."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це показує якусь катастрофічну битву між двома могутніми силами."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Старе фото бійки! Потрібне більше ударів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Допитливий. Істоту праворуч штовхають у вир?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сюжет захоплює. Напруга мене вбиває."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цікаво, це історична історія чи міф?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "На цьому зображено, як хтось сперечається з огидним оком-монстром."
+  }
+]

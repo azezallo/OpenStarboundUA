@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ярр! Я втратив око через нещасний випадок, коли відкрив банку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Піратська бандана"
+  }
+]

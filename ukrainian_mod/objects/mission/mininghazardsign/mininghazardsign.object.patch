@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Металевий знак з написом \"НЕБЕЗПЕКА!\""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак небезпеки видобутку"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Табличка з написом «Небезпека»."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Знак - попередження про щось."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Хоч би що це було, Флоран ігноруйте."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "хвилювався. небезпека? Де?!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Знак свідчить про турботу про мою безпеку. Як продумано."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Знак, який попереджає людей про небезпеку, якої можна уникнути."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не боюся жодних проблем."
+  }
+]

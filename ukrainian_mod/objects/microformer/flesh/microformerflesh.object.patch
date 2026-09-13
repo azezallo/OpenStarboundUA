@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює частину планети на м'ясисту гидоту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "М'ясистий мікроформер"
+  }
+]

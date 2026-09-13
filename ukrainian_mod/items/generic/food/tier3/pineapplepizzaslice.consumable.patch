@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Більше начинок!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скибочка піци з ананасом"
+  }
+]

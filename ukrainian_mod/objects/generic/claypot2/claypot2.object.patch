@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тріснутий глиняний горщик. Цікаво, що всередині?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Незвичайний глиняний горщик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тріснутий глиняний горщик. Мені розбити його?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тріснутий глиняний горщик. У ньому може бути щось корисне!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей глиняний горщик можна розбити!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Розбивши цей тріснутий горщик, ви побачите його вміст."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я думаю, що там щось є. Я, мабуть, зможу його відкрити."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей тріснутий горщик був ретельно виготовлений, але його вміст неможливо дослідити, не розбивши його."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Б’юся об заклад, що зможу розбити цей старий горщик одним пострілом."
+  }
+]

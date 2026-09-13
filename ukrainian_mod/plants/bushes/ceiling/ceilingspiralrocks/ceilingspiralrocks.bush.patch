@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Спіральні камені.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Спіральні камені",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Закручені камені.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Спіральні камені.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

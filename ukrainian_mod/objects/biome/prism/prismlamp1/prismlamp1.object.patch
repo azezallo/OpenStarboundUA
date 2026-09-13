@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Лампа з гладко різьбленого світиться кришталю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Prism Magenta лампа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця кристалічна лампа випромінює дивне рожеве світіння."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей кришталевий світильник випромінює небесне світло."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран нервує через сяючий камінь..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Що змушує цей скляний осколок світитися?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, чому доторкнувшись до цієї лампи, вона починає світитися?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У цій призматичній лампі, що світиться, є щось цікаве."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я б нервував, торкаючись до таких дивних світяться речей."
+  }
+]

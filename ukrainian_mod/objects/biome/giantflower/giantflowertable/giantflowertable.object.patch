@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велетенська квітка. Ідеально підходить для використання як стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гігантський квітковий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Якщо ви дуже зголодніли, ви могли з'їсти сам стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей стіл здається досить тендітним."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стіл буде хитатися, коли Флоран наріже м'ясо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Ця гігантська квітка є продуктом років ретельного вирощування."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Поїсти тут буде наче чарівний пікнік."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Природа стільки дає, скільки знищує."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Природно вирощений стіл. Виросло зі столового насіння?"
+  }
+]

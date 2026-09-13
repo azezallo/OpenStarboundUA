@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Traditional looking ornate roofing."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ornate Roofing"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Impressed. This ornate roofing is structurally sound."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Вишукана покрівля – це гарно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це не те, до чого я звик, але все одно гарна покрівля."
+  }
+]

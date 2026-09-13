@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стільчик для апортування, виготовлений з цінного дерева та латунних труб."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крісло Steamspring"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Схоже, що це крісло виготовлено зі справжніх функціональних труб. Дивно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це крісло пахне свіжозрубаним деревом. Як мило."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чому стілець видає шиплячий звук?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Навіщо робити стілець із труб?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якщо не звертати уваги на дивні труби, це виглядає як досить гарне крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Труби на цьому стільці тут з якоїсь конкретної причини?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Комусь кант на цьому стільці може здатися неприємним, але мені воно подобається."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Страва Hylotl, переповнена інгредієнтами сумнівного океанічного походження."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Океанський сюрприз"
+  }
+]

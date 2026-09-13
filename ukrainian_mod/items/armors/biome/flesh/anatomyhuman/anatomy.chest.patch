@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це повчально! Сорочка, що демонструє мускулатуру тулуба."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Анатомічна сорочка"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^shadow;БЛОК",
+    "path": "/effects/organic/hit/particles/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "^shadow;БЛОК",
+    "path": "/effects/robotic/hit/particles/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "^shadow;БЛОК",
+    "path": "/effects/wooden/hit/particles/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "^shadow;БЛОК",
+    "path": "/effects/stone/hit/particles/0/text",
+    "op": "replace"
+  }
+]

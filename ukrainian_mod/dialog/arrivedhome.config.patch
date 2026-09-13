@@ -1,0 +1,367 @@
+[
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/0",
+    "value": "Я вдома!"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/human/default/0",
+    "value": "Ти кликав?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/human/default/1",
+    "value": "Тобі щось потрібно?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/human/default/2",
+    "value": "Хочеш поговорити?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/human/default/3",
+    "value": "Привіт! Що сталося?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/human/default/4",
+    "value": "Тобі щось треба?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/floran/default/0",
+    "value": "Тобі потрібен Флоран?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/floran/default/1",
+    "value": "Тобі потрібен Флоран для чогосссь?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/floran/default/2",
+    "value": "Сссюрприз, Флоран тут!"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/floran/default/3",
+    "value": "Ти шшшукав Флорана?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/floran/default/4",
+    "value": "Ти шшшукав Флорана?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/glitch/default/0",
+    "value": "*Зацікавленість.* Я тобі для чогось потрібен?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/glitch/default/1",
+    "value": "*Цікавість.* Я був потрібен тобі з якоїсь конкретної причини?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/glitch/default/2",
+    "value": "*Веселість.* Ось і я! Про що ти хотів поговорити?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/glitch/default/3",
+    "value": "*Дружелюбність.* Хотів поспілкуватися?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/glitch/default/4",
+    "value": "*Ввічливість.* Це дружній візит?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/avian/default/0",
+    "value": "Гей, радий тебе бачити. Просто хочеш поговорити?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/avian/default/1",
+    "value": "Привіт, чим можу допомогти?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/avian/default/2",
+    "value": "Я був тобі для чогось потрібен?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/avian/default/3",
+    "value": "Привіт, для чого я тобі знадобився?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/avian/default/4",
+    "value": "Знову привіт, як справи?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/apex/default/0",
+    "value": "Для чого ти мене покликав?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/apex/default/1",
+    "value": "Я тобі для чогось потрібен, мій друже?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/apex/default/2",
+    "value": "Я був потрібен, і я прийшов, що можу для тебе зробити?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/apex/default/3",
+    "value": "Що таке, мій друже?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/apex/default/4",
+    "value": "Ти хотів зі мною поговорити?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/hylotl/default/0",
+    "value": "Що б ви хотіли обговорити?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/hylotl/default/1",
+    "value": "Вітання! Що вам було потрібно обговорити?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/hylotl/default/2",
+    "value": "Як приємно бути запрошеним на розмову."
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/hylotl/default/3",
+    "value": "Ви сподівалися поговорити зі мною?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/hylotl/default/4",
+    "value": "Я був потрібен вам для чогось конкретного?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/novakid/default/0",
+    "value": "Маєш щось на гадці, ґаздо?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/novakid/default/1",
+    "value": "Що можу зробити для тебе, леґіню?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/novakid/default/2",
+    "value": "Маєш потребу побалакати про щось?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/novakid/default/3",
+    "value": "Про що маєш балакати, йо?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/novakid/default/4",
+    "value": "Ти гукнув, і я прибіг, файно."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/0",
+    "value": "Ось подарунок за всю твою допомогу!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/human/default/0",
+    "value": "Я подумав, тобі це сподобається!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/human/default/1",
+    "value": "Ось подарунок, за всю твою допомогу."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/human/default/2",
+    "value": "Я приніс це для тебе. Можеш брати, а можеш ні. Вирішувати тобі."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/human/default/3",
+    "value": "Ось дещо за твої клопоти!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/human/default/4",
+    "value": "Гей! Ось подарунок!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/human/default/5",
+    "value": "Ось невеликий подарунок для тебе на знак подяки."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/floran/default/0",
+    "value": "Осьсс подарунок для тебе!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/floran/default/1",
+    "value": "Флоран дісстав тобі річ! Бери!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/floran/default/2",
+    "value": "Флоран дісстав тобі це, щоб сссказати дякую."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/floran/default/3",
+    "value": "Флоран має дещо для тебе!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/floran/default/4",
+    "value": "Флорану подобається будинок, Флоран ссскаже дякую подарунком."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/glitch/default/0",
+    "value": "*Оптимізм.* Усе йде дуже добре! Ось подарунок на знак подяки."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/glitch/default/1",
+    "value": "*Вдячність.* Ось подарунок, за всю твою допомогу."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/glitch/default/2",
+    "value": "*Повага.* Подарунок на знак подяки."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/glitch/default/3",
+    "value": "*Вдячність.* Я приготував тобі подарунок за все, що ти для мене зробив."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/glitch/default/4",
+    "value": "*Дружелюбність.* Сподіваюся, тобі сподобається подарунок, ти його заслужив!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/avian/default/0",
+    "value": "Ось знак моєї вдячності."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/avian/default/1",
+    "value": "Ось - я приніс подарунок за твої клопоти."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/avian/default/2",
+    "value": "Здається, тобі б не завадив подарунок. Візьми це."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/avian/default/3",
+    "value": "Я купив для тебе подарунок, щоб подякувати, сподіваюся, тобі сподобається."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/avian/default/4",
+    "value": "Сподіваюся, тобі сподобається подарунок!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/apex/default/0",
+    "value": "Будь ласка, прийми цей подарунок за всю твою допомогу."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/apex/default/1",
+    "value": "Це гарний, безпечний дім. Я приніс тобі подарунок, щоб подякувати."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/apex/default/2",
+    "value": "Цей подарунок для тебе, на знак подяки."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/apex/default/3",
+    "value": "Це гарний дім. Ось подарунок на знак подяки."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/apex/default/4",
+    "value": "За все, що ти зробив, візьми це."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/hylotl/default/0",
+    "value": "Мій дім настільки мирний, наскільки я міг сподіватися. Ось подарунок за все, що ви зробили."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/hylotl/default/1",
+    "value": "Нехай цей подарунок полегшить ваші турботи, як ви полегшили мої."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/hylotl/default/2",
+    "value": "За все, що ви зробили для мене, будь ласка, прийміть цей скромний подарунок на знак подяки."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/hylotl/default/3",
+    "value": "Будь ласка, прийміть цей подарунок з моєю вдячністю."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/hylotl/default/4",
+    "value": "Сподіваюся, цей скромний подарунок передасть мою вдячність за вашу допомогу."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/novakid/default/0",
+    "value": "Осьдечки трохи за твої клопоти. Файне тобі дякую."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/novakid/default/1",
+    "value": "Це дуже файне місце, що ти поміг мені облаштувати. Мушу подякувати тобі за це, ґаздо."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/novakid/default/2",
+    "value": "Дякую, що поміг мені. Ти заслужив це, леґіню."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/novakid/default/3",
+    "value": "Не знаю, як тобі файно подякувати, але наразі бери це."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/novakid/default/4",
+    "value": "Це для тебе, роби з тим що хочеш, йо."
+  }
+]

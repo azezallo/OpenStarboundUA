@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Ветха платформа",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Стара, запорошена дерев'яна платформа. Ось-ось розвалиться.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Стривожено. Структура цієї дерев'яної платформи майже згнила.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Гниюча і небезпечннна. Флоран сссхвалює.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Краще на цій платформі не стрибати - того і гляди розвалиться.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

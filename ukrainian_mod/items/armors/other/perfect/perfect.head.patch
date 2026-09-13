@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чисте досконалість. Майже соромно класти на голову."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ідеальний шолом"
+  }
+]

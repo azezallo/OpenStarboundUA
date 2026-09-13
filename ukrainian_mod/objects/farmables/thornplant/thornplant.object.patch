@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Колюча рослина з колючими плодами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Колюча рослина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці фрукти виглядають не дуже привабливо..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дивні колючі рослини з дивними колючими плодами."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гострий фрукт... добре кидати!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Здається, ці плоди з шипами добре захищені від голодної дикої природи."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якісь дивні плоди з колючками."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці рослини люто захищають свою дорогоцінну воду..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже на якийсь інший світський кактус!"
+  }
+]

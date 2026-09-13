@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Тонауак",
+    "path": "/npcname",
+    "op": "replace"
+  },
+  {
+    "value": "Такі великі стародавні руїни... Їх створив Клуекс, у мене немає сумнівів!",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "І сказав Клуекс: \"Хай зійде благословення на воїнів моїх!\".",
+    "path": "/scriptConfig/dialog/bless/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Аворукопис, вірш 81:1:6 - \"Ті, хто йдуть за Клуексом, кращі за інших людей.\".",
+    "path": "/scriptConfig/dialog/bless/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тут можна отримати благословення!",
+    "path": "/scriptConfig/dialog/bless/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Це місце виглядає навіть старішим, ніж великий верховний храм! Тут можна отримати благословення!",
+    "path": "/scriptConfig/dialog/bless/default/default/3",
+    "op": "replace"
+  }
+]

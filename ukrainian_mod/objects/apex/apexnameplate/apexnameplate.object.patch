@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Металева табличка з написами."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Табличка з вигравіруваним на ній написом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Маленька металева пластинка з нудним написом."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Невелика металева табличка з написом."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Табличка з написом."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Табличка з написом."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Металева пластина з написом."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шикарна табличка з написом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шикарна табличка"
+  }
+]

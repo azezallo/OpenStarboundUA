@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей фасон штанів часто носять дворяни Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шляхетні Штани"
+  }
+]

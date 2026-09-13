@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розплавлена ​​порода."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розплавлена ​​порода."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Горяче каміння."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Розплавлена ​​порода."
+  }
+]

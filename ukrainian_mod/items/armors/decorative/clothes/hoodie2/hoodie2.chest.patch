@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Толстовка без рукавів зручна та дихаюча."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Худі без рукавів"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перегони банерів Академії Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прапори гонки Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці банери представляють різні раси."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Барвисті банери, що представляють шість рас. Прапор Пташиний праворуч."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоранський банер найкращого кольору. Green like sapling leaf."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гордий. Шість расових прапорів! Банер Glitch — мій улюблений відтінок сірого."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Шість банерів. Кожен представляє іншу расу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Кожен банер представляє расу. Особисто я віддаю перевагу простоті Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шість расових банерів висять над вікном."
+  }
+]

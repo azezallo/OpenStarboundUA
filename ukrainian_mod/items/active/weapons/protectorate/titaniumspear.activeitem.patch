@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Спис, створений для того, щоб тримати ворогів на відстані."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Титановий спис"
+  }
+]

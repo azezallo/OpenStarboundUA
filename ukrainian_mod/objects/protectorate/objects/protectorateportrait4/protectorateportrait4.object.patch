@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Портрет колишнього великого Захисник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Портрет великого захисника"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей колишній великий Захисник міг бути набагато старшим, ніж виглядає."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей старий Великий Захисник має молодий блиск в старих очах."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Більш зморшкувата плоть людей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спокійно. У цього великого захисника в його грубих очах горів доброзичливий блиск."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей Великий Захисник виглядає старим, але має дружню іскру молодшого чоловіка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей Великий Захисник може здатися старим, але в їхніх очах видно їхній молодий дух."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей старий хлопець має в собі іскру молодості."
+  }
+]

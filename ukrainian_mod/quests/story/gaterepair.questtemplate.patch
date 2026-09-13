@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Начало",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Зараз ми на орбіті невідомої планети. Корабель сильно пошкоджено, і ми не можемо покинути орбіту. Я раджу ^green;вирушити на поверхню планети, використовуючи ^orange;телепорт^white;, і знайти припаси, а також матеріали для ремонту корабля.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую, що приєднався до мене, серденько. З твоєю допомогою ми переможемо.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Досліди ^orange;планету^reset;",
+    "path": "/scriptConfig/descriptions/explore",
+    "op": "replace"
+  },
+  {
+    "value": "Знайди ^orange;стародавнє джерело живлення^reset;",
+    "path": "/scriptConfig/descriptions/findGate",
+    "op": "replace"
+  },
+  {
+    "value": "Збери ^orange;фрагменти ядра^reset;",
+    "path": "/scriptConfig/descriptions/collectRepairItem",
+    "op": "replace"
+  },
+  {
+    "value": "Використай ^orange;фрагменти ядра^reset; для активації брами",
+    "path": "/scriptConfig/descriptions/repairGate",
+    "op": "replace"
+  },
+  {
+    "value": "Знайди джерело ^orange;загадкових повідомлень^reset;",
+    "path": "/scriptConfig/descriptions/findEsther",
+    "op": "replace"
+  },
+  {
+    "value": "Аванпост - Ковчег",
+    "path": "/scriptConfig/outpostBookmark/bookmarkName",
+    "op": "replace"
+  }
+]

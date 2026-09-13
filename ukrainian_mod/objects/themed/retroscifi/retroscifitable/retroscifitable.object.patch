@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стіл виконаний в ретро-футуристичному стилі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ретро стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гарний стіл справді об’єднує кімнату."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я боюся, що цей стіл перекинеться, якщо я поставлю на нього щось важке."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Шикарний стіл, на якому все ще можна поласувати."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Особливо добре збалансований стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, цей стіл може перекинутися будь-якої хвилини."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Краса цього столу в його ідеальному балансі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я заздрю ​​цьому столу здатності триматися вертикально."
+  }
+]

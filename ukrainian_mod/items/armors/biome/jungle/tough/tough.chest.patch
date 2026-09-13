@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "М'язовий костюм для сильних людей!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жорстка грудна клітка"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Попереджувальний плакат"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це застереження для всіх, хто хоче це прочитати."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це попереджає мене про щось, але я не знаю, що..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не знаю, що робити з цим попередженням."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Якесь попередження."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Я не знаю, про що мене попереджає цей знак."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Попередження schmorning."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Заплутане попереджувальне повідомлення, воно ніколи не доходить до певної точки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Не знаю, що робити з цим так званим \"попередженням\"."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Залізна люстра. Хороший спосіб освітлення великої кімнати."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічна люстра"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Металева люстра. Здається, відкидає довгі тіні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Спосіб підвішування світильників до стелі, щоб вони простягалися через кімнату."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Висячий вогонь змушує Флорана нервувати."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Втішили. Люстра, це просте джерело світла, наче вдома."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якби це була відеогра, вона могла б впасти й розчавити когось."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця люстра купає навколишнє середовище теплим сяйвом."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хто встигає запалити всі ці свічки?"
+  }
+]

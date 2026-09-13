@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кактус."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кактус."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssspiky."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Кактус."
+  }
+]

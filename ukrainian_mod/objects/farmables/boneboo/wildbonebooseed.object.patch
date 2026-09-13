@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Boneboo, хороше джерело кальцію."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння Бонебу"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Особливо незвичайна рослина. Хрустка ніжка, м'ясисті плоди."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Boneboos не в пташиному смаку."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Хрустка, м’ясиста їжа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безкорисливий. Ця рослина зовні нагадує органічну внутрішню анатомію. У Glitch таких частин немає."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця рослина може не підійти вегетаріанцям."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Багато вегетаріанських страв Hylotl готуються з рослини бонебу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Фрукт, який за смаком нагадує м'ясо. Збиває з пантелику!"
+  }
+]

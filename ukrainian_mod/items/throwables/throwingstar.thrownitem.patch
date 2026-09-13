@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "метальна зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кишенькова зірка, смертоносна."
+  }
+]

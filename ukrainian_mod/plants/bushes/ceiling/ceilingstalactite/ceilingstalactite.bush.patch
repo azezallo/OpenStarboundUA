@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Сталактит, стережись.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Сталактит",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Кам'яні шипи.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Кам'яні шипи.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

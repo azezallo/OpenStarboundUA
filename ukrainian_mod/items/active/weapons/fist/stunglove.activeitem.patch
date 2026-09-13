@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шокуюче ефективний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Електрошокова рукавичка"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Електрошокова рукавичка ^yellow;^reset;"
+  }
+]

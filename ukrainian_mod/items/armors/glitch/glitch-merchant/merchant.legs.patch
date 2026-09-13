@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прості торговельні штани низької якості."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Торгові штани"
+  }
+]

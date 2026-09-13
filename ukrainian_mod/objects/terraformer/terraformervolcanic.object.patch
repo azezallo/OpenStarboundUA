@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює клімат планети на димляче вулканічне пекло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вулканічний тераформер"
+  }
+]

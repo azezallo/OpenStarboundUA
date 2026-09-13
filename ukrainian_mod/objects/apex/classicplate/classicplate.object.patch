@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарна порцелянова тарілка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класична тарілка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гарна порцелянова тарілка. Apex зазвичай дають пластини з пластику."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Птахи традиційно їдять тільки з мисок."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран намагається їсти свіжу їжу з убитого."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Пустотливий. Найбільше задоволення викликає звук кинутої тарілки."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Досить шикарний кухонний посуд."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гілотлі також є майстрами вишуканої порцеляни."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця гарна тарілка настільки чиста, що я бачу своє відображення."
+  }
+]

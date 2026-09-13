@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стильна сорочка на підтяжках."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сорочка на підтяжках"
+  }
+]

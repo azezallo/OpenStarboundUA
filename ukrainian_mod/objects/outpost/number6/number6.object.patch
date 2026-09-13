@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шість маркерів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шість"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Шість."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Шість."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Число sssix."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Шість."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Шість."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Шість."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шістка."
+  }
+]

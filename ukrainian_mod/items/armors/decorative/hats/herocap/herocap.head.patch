@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кажуть, що ця шапка колись належала герою легенди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кепка героя"
+  }
+]

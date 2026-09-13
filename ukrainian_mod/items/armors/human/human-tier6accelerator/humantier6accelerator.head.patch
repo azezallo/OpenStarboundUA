@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Козирок на цьому міцному шоломі призначений для кращого зору користувача."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом шукача"
+  }
+]

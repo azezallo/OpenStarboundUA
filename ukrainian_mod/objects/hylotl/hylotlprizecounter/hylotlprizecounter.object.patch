@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скляна вітрина, повна плюшів та іграшок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Аркадний лічильник призів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ой, мені цікаво, чи зможу я виграти плюшевого єдинорога?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я сам був би не проти виграти плюшеву Poptop."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Хм, Флоран хоче плюшеву черепаху."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Мотивований. Я хотів би виграти деякі з них..."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені подобається цей плюш Numi... цікаво, скільки він коштує?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ой! Я хочу їх усіх!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це небагато для м’яких іграшок, але вони дуже милі."
+  }
+]

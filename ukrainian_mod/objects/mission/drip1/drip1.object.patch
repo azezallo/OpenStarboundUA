@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Краплі води."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Джерело краплі води"
+  }
+]

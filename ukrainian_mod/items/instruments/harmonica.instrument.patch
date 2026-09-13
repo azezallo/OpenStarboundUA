@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гармошка. Улюблений інструмент сивих космічних капітанів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гармошка"
+  }
+]

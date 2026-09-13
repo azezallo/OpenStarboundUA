@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Красиві лілії."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Lilies."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Pretty liliesss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. An attractive lily."
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "Слот розширення станції"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "^#b9b5b2;Розширте свою станцію"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/selectedDescription/value",
+    "value": "Частину не вибрано"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/warning/value",
+    "value": "Частину не вибрано"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/placeButton/caption",
+    "value": "розмістити"
+  },
+  {
+    "op": "replace",
+    "path": "/warningMessages/range",
+    "value": "Частина поза зоною станції"
+  },
+  {
+    "op": "replace",
+    "path": "/warningMessages/overlap",
+    "value": "Перекриває існуючу частину"
+  },
+  {
+    "op": "replace",
+    "path": "/warningMessages/invalid",
+    "value": "Не вдається приєднати до існуючої частини"
+  },
+  {
+    "op": "replace",
+    "path": "/warningMessages/blocking",
+    "value": "Блокує існуючу частину"
+  },
+  {
+    "op": "replace",
+    "path": "/warningMessages/uncraftable",
+    "value": "Недостатньо матеріалів"
+  },
+  {
+    "op": "replace",
+    "path": "/warningMessages/unplaceable",
+    "value": "Немає дійсної точки кріплення"
+  },
+  {
+    "op": "replace",
+    "path": "/warningMessages/blocked",
+    "value": "Частина заблокована сутністю"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipLayout/title/value",
+    "value": "ІНГРЕДІЄНТИ"
+  }
+]

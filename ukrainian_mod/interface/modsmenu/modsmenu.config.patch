@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": "Моди"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "value": "^#b9b5b2;Завантажені ресурси"
+  }
+]

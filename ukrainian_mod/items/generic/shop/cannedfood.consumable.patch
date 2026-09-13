@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Корм не найкращої якості, але він ситний і зберігається довго."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Консерви"
+  }
+]

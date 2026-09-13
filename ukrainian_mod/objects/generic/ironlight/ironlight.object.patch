@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чи світло, чи шабля? Можливо, обидва."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Різке світло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Незвичайний меч, що випромінює світло."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дивно. Цей меч служить світлом, а не зброєю."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Різке світло, прорізає тінь. Флоран гострий."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Практичний. Це світло могло служити смолоскипом і зброєю."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Меч, що світиться. Я володів подібними речами за часів готів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Зброя, призначена для освітлення кімнати. Я схвалюю."
+  }
+]

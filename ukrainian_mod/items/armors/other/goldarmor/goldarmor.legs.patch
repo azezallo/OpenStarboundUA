@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Золоті наголенники для тих, хто вважає за краще носити своє багатство."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Золоті наголенники"
+  }
+]

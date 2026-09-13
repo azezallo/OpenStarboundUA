@@ -1,0 +1,552 @@
+[
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/0",
+    "value": "Щось у моєму житлі змінилося, мені це не подобається!"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/human/default/0",
+    "value": "Речі змінилися... Або ти щось зіпсував, або мене переслідують привиди."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/human/default/1",
+    "value": "Обстановка мого будинку змінилася, це не нормально..."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/human/default/2",
+    "value": "Тут щось пересунулося? Відчувається щось не те..."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/floran/default/0",
+    "value": "Прррипини забирати мої гарні речіссс."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/floran/default/1",
+    "value": "Поверни дім Флорана до того, як булоссс."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/floran/default/2",
+    "value": "Дім Флорана був чудовим до того. Зроби всссе як треба знову!"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/glitch/default/0",
+    "value": "*Пантелик.* Мій дім інакший."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/glitch/default/1",
+    "value": "*Невдоволення.* Мені не подобаються ці зміни, поверніть усе як було."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/glitch/default/2",
+    "value": "*Задума.* Я б хотів, щоб мій будинок був таким, як раніше."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/avian/default/0",
+    "value": "Ем, мій дім не був таким раніше... Клуекс свідчить."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/avian/default/1",
+    "value": "Мені це не подобається, чи міг би ти повернути все як було? Заради Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/avian/default/2",
+    "value": "Будь ласка, поверни мої речі на місце. Хай Клуекс благословить."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/apex/default/0",
+    "value": "Ці зміни тривожні, будь ласка, поверніть мої речі. Міннаук і так стежить за нами."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/apex/default/1",
+    "value": "Припини забирати речі... Тобі треба виправити мій дім зараз. В ім'я Великого Мавпа."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/apex/default/2",
+    "value": "Мені потрібно, щоб ти повернув речі туди, звідки взяв, будь ласка."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/hylotl/default/0",
+    "value": "Щось розбалансувало гармонію мого дому..."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/hylotl/default/1",
+    "value": "Будь ласка, поверни те, що ти взяв. Хайлотли не терплять злодійства."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/hylotl/default/2",
+    "value": "Є щось тривожне у нинішньому плануванні мого дому..."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/novakid/default/0",
+    "value": "Щось тут не так, файно..."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/novakid/default/1",
+    "value": "Це старе місце відчувається не так, йо. Ти тут щось наплутав."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/novakid/default/2",
+    "value": "Не гоже красти у людини, ґаздо. Ану, повертай те, що взяв, йо."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/0",
+    "value": "Мій дім потребує ремонту!"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/human/default/0",
+    "value": "Моєму дому не завадив би ремонт..."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/human/default/1",
+    "value": "Можеш розібратися з пошкодженнями тут?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/human/default/2",
+    "value": "Мені потрібен ремонт!"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/floran/default/0",
+    "value": "Будь лассска, полагодь ссстіни Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/floran/default/1",
+    "value": "Дім Флорана зламаний. Ти можеш його полагодитиссс?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/floran/default/2",
+    "value": "Флорану подобаютьссся ссстіни без дірок. Ти можеш полагодити дім Флорана?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/glitch/default/0",
+    "value": "*Смуток.* Мій бідний дім - стіни пошкоджені. Ти міг би все полагодити?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/glitch/default/1",
+    "value": "*Стурбованість.* Тут потрібен ремонт."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/glitch/default/2",
+    "value": "*Надія.* Чи можеш ти полагодити мій дім? Я впевнений, що його можна врятувати."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/avian/default/0",
+    "value": "Не міг би ти полагодити мої стіни? В ім'я Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/avian/default/1",
+    "value": "Я був би дуже вдячний, якби ти міг відремонтувати пошкодження мого дому."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/avian/default/2",
+    "value": "Хм, ці пошкодження - це недобре. Ти міг би це полагодити? Хай Клуекс допоможе."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/apex/default/0",
+    "value": "У моєму будинку дірка..."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/apex/default/1",
+    "value": "Мені потрібно, щоб ти полагодив мої стіни, поки дах не впав на нас. Великий Мавп не буде задоволений."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/apex/default/2",
+    "value": "Будь ласка, полагодь ці стіни, такий дім мені ні до чого."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/hylotl/default/0",
+    "value": "Мій дім відкритий для стихій, я був би вдячний, якби ви усунули пошкодження."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/hylotl/default/1",
+    "value": "Я був би неймовірно вдячний, якби ви могли полагодити мої стіни. Це б повернуло гармонію."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/hylotl/default/2",
+    "value": "Я помітив тут пошкоджену стіну, можливо, ви могли б допомогти з ремонтом?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/novakid/default/0",
+    "value": "Не тільки ж я відчуваю тут протяг, йо?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/novakid/default/1",
+    "value": "Це місце має більше дірок, ніж шериф на перестрілці, файно."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/novakid/default/2",
+    "value": "Схоже, ти випустив тут скаженого капрікота! Ти збираєшся лагодити ці стіни, ґаздо?"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/0",
+    "value": "Я думав, це місце для мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/human/default/0",
+    "value": "Я думав, тут живуть по одному!? Я не можу ділити свій дім!"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/human/default/1",
+    "value": "Ти намагаєшся когось сюди підселити?!"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/human/default/2",
+    "value": "Чому ти розмістив тут ще один договір оренди?!"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/floran/default/0",
+    "value": "Флорану потрібен весссь цей просстір, а не ділитиссся з якимосссь випадковим незнайомцем."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/floran/default/1",
+    "value": "Якщо ти поселишшш когось іншого, Флоран їх з'їсссть."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/floran/default/2",
+    "value": "Флоран не ділитиме дім! Зніми другий договір."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/glitch/default/0",
+    "value": "*Шок.* Ти намагаєшся поселити незнайомця в мій дім?"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/glitch/default/1",
+    "value": "*Плутанина.* Але це мій дім, я не можу ним ділитися..."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/glitch/default/2",
+    "value": "*Сум.* Я думав, що це мій власний дім, але ти хочеш, щоб я ним ділився."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/avian/default/0",
+    "value": "Чому хтось інший намагається переїхати в мій дім?"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/avian/default/1",
+    "value": "Ти здав мій дім в оренду? Це, мабуть, помилка..."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/avian/default/2",
+    "value": "В моєму домі ще один договір - напевно, це не навмисно."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/apex/default/0",
+    "value": "Чому тут ще один договір? Що ти намагаєшся зробити?"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/apex/default/1",
+    "value": "Це мій дім. Я орендую його у тебе. Ти не можеш поселити сюди когось іншого."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/apex/default/2",
+    "value": "Так не можна робити. Я не буду ділитися своїм домом."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/hylotl/default/0",
+    "value": "Я не бажаю ділити свій дім з незнайомцем."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/hylotl/default/1",
+    "value": "Пасивний я чи ні, але я не можу стояти осторонь, поки ви влаштовуєте другого мешканця в моєму домі."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/hylotl/default/2",
+    "value": "Ще один договір у моєму домі? Напевно, сталася помилка?"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/novakid/default/0",
+    "value": "Це моя земля, ґаздо, нема сенсу селити сюди когось іншого."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/novakid/default/1",
+    "value": "Ця стара хата не для того, щоб ділитися. Краще зніми той другий договір, йо."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/novakid/default/2",
+    "value": "Це моя хата, хай йому грець, я не буду ділитися нею ні з ким."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/0",
+    "value": "Я не можу жити в таких умовах!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/human/default/0",
+    "value": "Я не можу жити в таких умовах!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/human/default/1",
+    "value": "Жити тут зараз просто жахливо..."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/human/default/2",
+    "value": "Жити так неможливо!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/floran/default/0",
+    "value": "Флоран не може так житиссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/floran/default/1",
+    "value": "Флоран злий, полагодь дім Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/floran/default/2",
+    "value": "Ти всссе ще не полагодив речі в домі Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/glitch/default/0",
+    "value": "*Роздратування.* Мені потрібно, щоб ти полагодив мій дім."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/glitch/default/1",
+    "value": "*Розчарування.* Хотів би я, щоб до моїх прохань прислухалися."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/glitch/default/2",
+    "value": "*Невдоволення.* Мій дім так і не полагодили."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/avian/default/0",
+    "value": "Це зайшло надто далеко, мені потрібно, щоб ти все полагодив!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/avian/default/1",
+    "value": "Я не можу терпіти це набагато довше - подивись на стан мого дому."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/avian/default/2",
+    "value": "Моє зазвичай стійке терпіння починає вичерпуватися. Полагодь мій дім."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/apex/default/0",
+    "value": "Подивись на це місце! Полагодь мій дім, або я піду."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/apex/default/1",
+    "value": "Я не можу більше миритися з твоєю байдужістю..."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/apex/default/2",
+    "value": "Нерозумно ігнорувати злого Апекса. Раджу тобі полагодити мій дім."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/hylotl/default/0",
+    "value": "Мої прохання залишаються без відповіді, мої благання не чують... Ганебно."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/hylotl/default/1",
+    "value": "Ці умови жалюгідні, а ваша поведінка заслуговує на осуд."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/hylotl/default/2",
+    "value": "Це просто ганьба, я вимагаю, щоб ви полагодили мій дім."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/novakid/default/0",
+    "value": "Здається мені, ґаздо, ти б хотів полагодити цю халупу, перш ніж я піду."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/novakid/default/1",
+    "value": "Ну хіба це місце не розчаровує... Ти збираєшся його лагодити чи як, файно?"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/novakid/default/2",
+    "value": "Ця халупа вже не та, що була. Тобі краще все виправити."
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/0",
+    "value": "З мене досить!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/human/default/0",
+    "value": "З мене досить!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/human/default/1",
+    "value": "Все, я здаюся. Час йти!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/human/default/2",
+    "value": "Я здаюся, я виїжджаю!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/floran/default/0",
+    "value": "Осссь і всссе, Флоран йде!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/floran/default/1",
+    "value": "Флоран здаєтьссся! Флоран не може так жити!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/floran/default/2",
+    "value": "Флоран йде, більше не може тут жити!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/glitch/default/0",
+    "value": "*Пригнічення.* Це вище моїх сил. Я йду."
+  },
+  {
+    "op": "replace",
+    "path": "/final/glitch/default/1",
+    "value": "*Обурення.* Я заслуговую на кращий дім, ніж цей."
+  },
+  {
+    "op": "replace",
+    "path": "/final/glitch/default/2",
+    "value": "*Смуток.* Я не хотів, щоб до цього дійшло, але я більше не можу тут залишатися."
+  },
+  {
+    "op": "replace",
+    "path": "/final/avian/default/0",
+    "value": "Годі. Я заслуговую на нормальний дім."
+  },
+  {
+    "op": "replace",
+    "path": "/final/avian/default/1",
+    "value": "Все. Я йду. Я більше не можу терпіти життя тут."
+  },
+  {
+    "op": "replace",
+    "path": "/final/avian/default/2",
+    "value": "Я намагаюся з повагою ставитися до інших, шкода, що ти не робиш того ж."
+  },
+  {
+    "op": "replace",
+    "path": "/final/apex/default/0",
+    "value": "Я переїхав сюди заради кращого життя... Яке розчарування."
+  },
+  {
+    "op": "replace",
+    "path": "/final/apex/default/1",
+    "value": "Я заслуговую на кращі умови життя, ніж ці!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/apex/default/2",
+    "value": "Все. Я маю піти. Ти жахливий орендодавець."
+  },
+  {
+    "op": "replace",
+    "path": "/final/hylotl/default/0",
+    "value": "Я більше не можу цього терпіти. Я йду."
+  },
+  {
+    "op": "replace",
+    "path": "/final/hylotl/default/1",
+    "value": "Я втратив до вас будь-яку повагу. Сподіваюся, одного дня ви побачите помилковість своїх дій."
+  },
+  {
+    "op": "replace",
+    "path": "/final/hylotl/default/2",
+    "value": "Це оточення згубне для самого мого існування. Я маю піти."
+  },
+  {
+    "op": "replace",
+    "path": "/final/novakid/default/0",
+    "value": "Мені було б краще заночувати в гнізді з тварюками, ніж стирчати тут, йо."
+  },
+  {
+    "op": "replace",
+    "path": "/final/novakid/default/1",
+    "value": "Я краще спатиму на яктусі, ніж залишуся тут ще на одну ніч."
+  },
+  {
+    "op": "replace",
+    "path": "/final/novakid/default/2",
+    "value": "Хай йому грець! Це місце - суцільний безлад! Час мені тікати."
+  }
+]

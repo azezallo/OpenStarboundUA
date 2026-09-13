@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Двері піднімаються... Двері опускаються... Двері піднімаються... Двері опускаються..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розсувні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Двері без ручки. Здається, що він ковзає вгору та вниз."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці двері відкриваються вгору."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дурні двері спантеличили Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вдячність. Механізм за цими дверима складний."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці двері рухаються так швидко, що створюють приплив повітря."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такі двері використовуються для контролю над потоком води в містах Гілотл."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це розсувні двері."
+  }
+]

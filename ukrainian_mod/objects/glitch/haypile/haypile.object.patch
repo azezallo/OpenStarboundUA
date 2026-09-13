@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Купа сіна. Напевно, не дуже гарне місце для сховку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Купа сіна"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Купа сіна."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Велика свіжа купа сіна. Птахи використовують сіно як підстилку."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Свіже сіно добре пахне!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Пустотливий. Велика купа сіна, в якій можна сховатися."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я відчуваю спокусу зануритися."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Сіно виглядає м'яким і пахне свіжістю."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Купа свіжого сіна."
+  }
+]

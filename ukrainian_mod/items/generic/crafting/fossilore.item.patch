@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це скам'янілість. Цікаво, що це за вид."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Непізнана копалина"
+  }
+]

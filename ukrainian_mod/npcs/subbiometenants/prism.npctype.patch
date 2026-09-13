@@ -1,0 +1,67 @@
+[
+  {
+    "value": "  Торговець вікнами",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "  Продаж віконних матеріалів!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Прикрась своє житло елегантними вікнами!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Додай світла в свій дім - встанови вікна!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Люди, у яких є вікна в домі, живуть щасливішим життям. Це перевірено!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я продаю віконні матеріали! Зроби свій дім світлішим вже сьогодні!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ми прийшли! Хочеш придбати віконні матеріали?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Чудово. Тепер, можливо, ти поглянеш на мої вікна?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "А ось і ми - чи не хочеш купити трохи віконного скла?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо тобі знадобляться ще вікна - ти знаєш, де мене знайти!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Додай світла в свій дім і приходь ще!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сподіваюся, тебе влаштують ці вікна!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Приємно було мати з тобою справу, ще побачимося!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/3",
+    "op": "replace"
+  }
+]

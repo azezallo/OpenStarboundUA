@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Для всіх ваших потреб у фермерстві та тераформуванні!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Террамарт"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Террамарт"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2; Продукти харчування, товари для сільського господарства та тварин"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Фермерський магазин, що торгує товарами. Чудово."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Найкраще місце, щоб купити сільськогосподарські товари, крім жодного."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran може купити подарунки для тварин тут! Також інші речі..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Чудове місце для покупки сільськогосподарських товарів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Терормарт? мене аж трусить! Почекай, о. Terr-a-mart. Гаразд"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Місце для придбання сільськогосподарського інвентарю."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я завжди хотів піти на пенсію в стару садибу."
+  }
+]

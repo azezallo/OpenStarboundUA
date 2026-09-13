@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Портрет подружжя Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Готичний малюнок мавп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця пара Apex здається... порожньою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це обличчя людей без Kluex у своєму житті."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Як Людина-Мавпа може бути засмученою, коли в неї є велика вилка, що колоє?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Ця пара Apex має футуристичний одяг."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не пам’ятаю цієї класичної картини з зображенням Апекса."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Тут відображені неймовірні емоції."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Пара фермерів Apex одягнена як люди. Дивно."
+  }
+]

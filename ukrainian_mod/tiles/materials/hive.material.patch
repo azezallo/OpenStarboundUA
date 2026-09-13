@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Липкі комірки вулика зроблені з рештків загиблих істот.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Блок вулика",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Обурення. Цей вулик складається з подрібнених істот.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Вулик ззроблений іссс подрібнених тварин.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Вулик зроблений з подрібнених потвор.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

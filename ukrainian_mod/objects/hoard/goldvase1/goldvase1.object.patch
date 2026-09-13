@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дивний золотий глечик для особливих церемоній."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Непарний золотий глечик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Золотистий глечик."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Гарний парадний глечик."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гарний глечик, можливо sssteals."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Закоханий. Здається, це церемоніальний глечик цибулинного вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей глечик виглядає кумедно, цікаво, для чого він?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Золотий дивний глечик для особливих церемоній."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цікаво, для чого використовувався цей дивний на вигляд золотий глечик?"
+  }
+]

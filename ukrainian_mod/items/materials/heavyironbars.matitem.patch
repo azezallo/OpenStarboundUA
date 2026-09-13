@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Товсті залізні прути. Все ще міцний, хоч і зруйнований іржею."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Важкі залізні злитки"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Засмучений. Бачити, як метал іржавіє таким чином, викликає занепокоєння."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Russsty старі бари."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Ці іржаві старі бари бачили кращі дні."
+  }
+]

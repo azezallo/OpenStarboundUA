@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "У тканину вплетені захисні залізні волокна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скаутерські наголенники"
+  }
+]

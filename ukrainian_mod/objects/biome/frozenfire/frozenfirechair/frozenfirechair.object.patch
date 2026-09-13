@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Досить небезпечний стілець для сидіння"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крижане вогняне крісло"
+  }
+]

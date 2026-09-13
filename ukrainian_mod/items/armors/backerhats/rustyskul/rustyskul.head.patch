@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Не входить: пістолет і нескінченна потужність нанодоповнення."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іржавий металевий скул"
+  }
+]

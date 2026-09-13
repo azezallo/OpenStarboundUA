@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Головний убір, який і зручний, і товстіє!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капелюх пивовара"
+  }
+]

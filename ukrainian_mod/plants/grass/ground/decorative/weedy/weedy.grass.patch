@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Надокучливий бур'ян."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бур'ян."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить траву, як і всі рослини."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Безглуздий бур'ян."
+  }
+]

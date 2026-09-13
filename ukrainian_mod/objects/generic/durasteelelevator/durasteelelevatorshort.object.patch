@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей ліфт Durasteel виконає роботу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Короткий ліфт Durasteel"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Міцний ліфт."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Найпростіший спосіб обійти багаторівневий заклад."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ліфт катається вгору і вниз."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нудно. Не надихаючий ліфт."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ліфт для підйому і спуску на рівні."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Елегантний ліфт із дюрастілу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якийсь ліфт, корисно!"
+  }
+]

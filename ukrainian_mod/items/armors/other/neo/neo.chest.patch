@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виготовлений із дихаючих тканин із подвійним швом для довговічності."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нео нагрудник"
+  }
+]

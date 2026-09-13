@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Так виглядає, анонімний художник графіті."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Графіті \"Немає порятунку\"."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мабуть, немає порятунку. Попередження, яке Apex знає занадто добре."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "У когось явно були похмурі перспективи."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гарно написано, але Флоран не погоджується з повідомленням."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Сумнівний. Незважаючи на повідомлення графіті, мої скани вказують на щонайменше чотири способи втечі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Виклик прийнято."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "З графіті так само сочиться безвихідь, як і фарба."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хтось написав це як поганий день."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Саксофон. Коли у вас космічний блюз."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Саксофон"
+  }
+]

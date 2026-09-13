@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей легендарний меч вийшов зі скелі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Легенда Меч"
+  }
+]

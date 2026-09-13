@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Залишайся на місці! Він не зможе вас побачити, якщо ви будете нерухомі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Детектор руху"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, це детектор руху."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Детектор руху. Краще будьте обережні."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран думає, що ця машина хоче, щоб Флоран танцював."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Аналіз. Досить елементарний детектор руху."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Детектор руху. Краще стережіться."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Здається, це якийсь пристрій для виявлення руху."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже, ця штука шукає рух."
+  }
+]

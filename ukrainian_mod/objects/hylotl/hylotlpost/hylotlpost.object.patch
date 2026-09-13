@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Декоративна дерев'яна стійка з ліхтарем."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційний дерев'яний стовп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Нічим не примітний пост."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Досить добре, щоб на нього точити дзьоб."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Лампа possst."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. Навіть для основної посади це не надихає."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця публікація здається досить хиткою."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це забезпечує приємне зовнішнє джерело світла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Стовп з ліхтарем. Сяй, друже."
+  }
+]

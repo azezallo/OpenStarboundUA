@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Тут досить холодно! Мій лабораторний халат не дуже теплий."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "I wish my research didn't involve being sent to THIS planet..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "I can barely feel my fingers in this cold climate. How can I take notes like this?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "value": "Це місце може бути холодним, але воно точно прекрасне."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "value": "What brings you here? Are you conducting research too?"
+  }
+]

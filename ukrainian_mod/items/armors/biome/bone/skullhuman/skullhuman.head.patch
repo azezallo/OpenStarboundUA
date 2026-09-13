@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Справжній людський череп. На жаль, бідний Йорик!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска людського черепа"
+  }
+]

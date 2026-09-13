@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Квітка з яскраво-жовтими пелюстками. Корисно для виготовлення барвників."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жовта квітка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "З цією квіткою я нарешті можу пожовтіти весь свій одяг."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Фарба з жовтих квітів широко використовується в пташиній культурі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Жовта квітка символізує молодість у культурі Флори."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Ентузіазм. Яскрава жовта квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Навіщо ти мене будуєш, жовта квітко невідомого роду?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чарівна жовта квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Звичайна жовта квітка."
+  }
+]

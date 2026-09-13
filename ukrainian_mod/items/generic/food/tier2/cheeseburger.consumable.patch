@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Соковитий гамбургер, посипаний сиром."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чізбургер"
+  }
+]

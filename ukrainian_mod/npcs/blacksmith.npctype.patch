@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Похмурість. Так я зіпсую всю свою нову зброю.",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Грубість. Від вас, молодих, самі лише неприємності!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Втома. Що, знову...",
+    "path": "/scriptConfig/dialog/attack/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Роздратування. Ти не виставиш мене на посміховисько!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Непривітність. Хіба тебе не вчили не злити коваля?",
+    "path": "/scriptConfig/dialog/attack/glitch/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Похмурість. Так я зіпсую всю свою нову зброю.",
+    "path": "/scriptConfig/dialog/attack/glitch/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Смиренність. Гей, ще більше порушень.",
+    "path": "/scriptConfig/dialog/attack/glitch/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Азарт. Відмінний шанс протестувати мою зброю!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Роздратування. Схоже, тобі потрібно дати урок.",
+    "path": "/scriptConfig/dialog/attack/glitch/default/7",
+    "op": "replace"
+  }
+]

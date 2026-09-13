@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Купа замшілого каміння."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Купа замшілого каміння."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssstones."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Купа замшілого каміння."
+  }
+]

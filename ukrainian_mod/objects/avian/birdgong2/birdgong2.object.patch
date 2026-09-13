@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий шикарний гонг. Воно вкрите різьбленням."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чудовий пташиний гонг"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Який це має бути звук."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Священики били в цей гонг на початку і в кінці молитви."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пташиний звук, гучний, як гонг Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Здається, він вібрує з тією ж частотою, що й пташині кристали."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я завжди хотів потрапити в одну з них."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Подібні звуки ще ніколи не лунали під океаном."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Удар по цій штукі повинен створювати якийсь шум."
+  }
+]

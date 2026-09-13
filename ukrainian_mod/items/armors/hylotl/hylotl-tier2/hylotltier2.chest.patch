@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вольфрамовий нагрудник простого елегантного дизайну."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кираса Ставок"
+  }
+]

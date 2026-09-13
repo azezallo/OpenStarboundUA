@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^green;Кузня героя",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Стрімко. Дай мені свій меч! ...Хм, можливо, варто бути більш конкретним. Дай мені свій ^orange;Зламаний палаш^reset;, щоб я міг його полагодити! Естер розповіла мені як - і це не проблема для такого мечника, як я! ^white;Однак, ^green;мені знадобиться ^orange;10 технічних карт^green;, щоб завершити роботу^reset;.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Гордо. Ось він! Кращий, ніж новий! Прошу!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Поговори з ^orange;Бароном^reset; на ^orange;Аванпості^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

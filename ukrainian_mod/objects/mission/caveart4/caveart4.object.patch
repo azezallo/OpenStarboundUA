@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Печерне мистецтво із зображенням істоти зі щупальцями."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Неоднозначне печерне мистецтво"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мене раптом охоплює жах."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чи може це справді бути картина...? О, боже!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран більше ніколи не хоче цього бачити."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Наляканий. Можливо, я помиляюся, але... Ця картина дуже знайома."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "О ні... Як це фото потрапило сюди?!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це викликає погані спогади."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це не те, що я хотів бачити сьогодні."
+  }
+]

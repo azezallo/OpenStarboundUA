@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей рупорний модуль напрочуд малий... Цікаво, як він звучить?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іграшковий механік Горн"
+  }
+]

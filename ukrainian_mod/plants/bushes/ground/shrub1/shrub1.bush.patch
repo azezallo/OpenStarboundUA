@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чагарник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чагарник."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssshrub."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Чагарник."
+  }
+]

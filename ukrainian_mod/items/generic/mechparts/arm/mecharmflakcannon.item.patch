@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Найдешевша доступна механічна зброя, рука, яка стріляє розігрітими металевими осколками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зенітна гармата Mech Arm"
+  }
+]

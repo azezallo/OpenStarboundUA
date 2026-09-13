@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'яніла пара ніг Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ноги верхівки"
+  }
+]

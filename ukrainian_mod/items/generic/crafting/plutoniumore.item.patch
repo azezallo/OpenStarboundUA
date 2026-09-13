@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Він гарний, але надзвичайно радіоактивний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плутонієва руда"
+  }
+]

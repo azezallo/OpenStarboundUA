@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/energyStatLabel/value",
+    "value": "Макс. енергія"
+  },
+  {
+    "op": "replace",
+    "path": "/protectionStatLabel/value",
+    "value": "Захист"
+  }
+]

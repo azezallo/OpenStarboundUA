@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Раніше це була найкласніша завіса. Тепер він трохи пошматований."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пошарпаний класичний банер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Що сталося з цією гарною завісою?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хтось зіпсував цю завісу?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стара, зламана штора. Більше не такий sssoft."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Колись це була гарна завіса, я впевнений."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Деякий агресивний знос."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця стара завіса бачила кращі дні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "сором. Ця завіса бачила кращі дні."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарнітура віртуальної реальності."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гарнітура VR"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Установивши відповідну програму, я міг досліджувати будь-де, про що міг мріяти."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Використовуючи цю гарнітуру, я відчуваю, що літаю!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран теж може полювати у VR!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Носити гарнітуру віртуальної реальності — це все одно, що змінювати програму, не роблячи цього насправді."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "У цьому я міг би піти куди завгодно, навіть у космос!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Захоплюючий пристрій, здатний імітувати досвід перебування під водою без намокання."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "З цим чудовим обладнанням я міг побачити весь Всесвіт, навіть не виходячи з дому!"
+  }
+]

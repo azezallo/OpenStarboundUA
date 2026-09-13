@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Порожній рюкзак для виживання... марно!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рюкзак для виживання"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Елегантний шолом, виготовлений із вольфраму."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ставок Хелм"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На ярлику написано: «Сумно відомий Пінгвін-пірат Дредкрило в його безпомилковому НЛО»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуетка Dreadwing"
+  }
+]

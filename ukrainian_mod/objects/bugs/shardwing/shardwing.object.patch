@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крила цього клопа райдужні, як лід."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "черепаха"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Неймовірно міцний шолом, який просто жахає всіх, хто наважиться вам протистояти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Frontliner's Helm"
+  }
+]

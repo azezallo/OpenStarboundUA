@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Навіщо чекати блакитного місяця, якщо його можна зробити самостійно?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Блакитний рушник"
+  }
+]

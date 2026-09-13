@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Блок, зроблений з м'яких грибів.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Грибний блок",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Заінтригованість. Хоч це і блок, але гриб усе ще живий.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Чудоввві гриби.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Видається, шо цей блок змекітаний з грибів, легіню.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

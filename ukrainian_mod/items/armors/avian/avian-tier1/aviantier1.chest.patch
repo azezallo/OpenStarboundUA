@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нагрудний щиток із залізними погонами. У комплекті червона грудка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кираса дитинча"
+  }
+]

@@ -1,0 +1,567 @@
+[
+  {
+    "value": "Всі показники живої активності вказують на щось глибоко під поверхнею. Важко визначити... Заздалегідь вітаю тебе за твою мужність.",
+    "path": "/lunarbase01/text",
+    "op": "replace"
+  },
+  {
+    "value": "Спрацював захист. Тобі потрібно знайти спосіб відключити його та відновити подачу енергії. Будь ласка, будь обережний у темряві.",
+    "path": "/lunarbase02/text",
+    "op": "replace"
+  },
+  {
+    "value": "Я зафіксував суміш людської ДНК та ерхію. Висока ймовірність спонтанної поведінки.",
+    "path": "/lunarbase03/text",
+    "op": "replace"
+  },
+  {
+    "value": "Лічильник ерхію досяг 94 рад. Ти в небезпеці. Твій рівень загрози життю зараз 14,607.",
+    "path": "/lunarbase04/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/lunarbase04a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Вибач за штучний інтелект, голубе.",
+    "path": "/lunarbase04a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/lunarbase05/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Подивися на них, довгий контакт з кристалами ерхію знищив саму їхню сутність! Бідні істоти зовсім втратили себе.",
+    "path": "/lunarbase05/text",
+    "op": "replace"
+  },
+  {
+    "value": "Лічильник ерхію досяг 101 рад. Ти в небезпеці. Твій рівень загрози життю зараз 18,472...",
+    "path": "/lunarbase06/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/lunarbase06a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Тихше! Ти заважаєш.",
+    "path": "/lunarbase06a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Звичайна зброя має 0% шанс нанесення шкоди ерхієвому кристалу. Ти повинен знайти інший спосіб його атакувати.",
+    "path": "/lunarbase07/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/lunarbase08/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Відмінно!",
+    "path": "/lunarbase08/text",
+    "op": "replace"
+  },
+  {
+    "value": "Тут достатньо ерхію для повної лагодження корабля.",
+    "path": "/lunarbase08a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ці стародавні руїни, схоже, були приховані флоранами. Показання також кажуть, що вони темні та лиховісні.",
+    "path": "/floranmission101/text",
+    "op": "replace"
+  },
+  {
+    "value": "Біодатчики фіксують безліч сигналів життя в цих тунелях. 97% небезпечні. Я захоплююсь твоєю доблестю.",
+    "path": "/floranmission102/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/floranmission103/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Який нахабний флоран! Нагадує мені мене в молодості, хоча у мене було менше листя.",
+    "path": "/floranmission103/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/floranmission104/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "У будь-якому випадку, ці флорани переслідують те, що має для них величезну важливість. Вони ще гірші, ніж я під час лову жуків! Будь обережний, голубе.",
+    "path": "/floranmission104/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ця субстанція - органічна. Аналіз не підтверджує, але істота, що виробляє стільки матерії, має бути досить великого розміру.",
+    "path": "/floranmission105/text",
+    "op": "replace"
+  },
+  {
+    "value": "Дані показують, що ця істота ще не виросла; велика ймовірність того, що вона нещодавно вилупилася. Схоже, ти натрапив на гніздо.",
+    "path": "/floranmission106/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/apexmission01/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ми якраз встигли до нападу повстанців на Міннаук. Я думаю, що це буде вигідно як їм, так і нам, голубе.",
+    "path": "/apexmission01/text",
+    "op": "replace"
+  },
+  {
+    "value": "Сканери показують, що цей об'єкт добре укріплений важко озброєними охоронцями, що патрулюють кожен рівень.",
+    "path": "/apexmission02/text",
+    "op": "replace"
+  },
+  {
+    "value": "Мої сканери засікли ще одного охоронця... І ще одного.",
+    "path": "/apexmission02a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Це взаємопов'язано: опускаючи цю барикаду, ти відповідно опускаєш ще одну над землею.",
+    "path": "/apexmission03/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/apexmission03a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ми можемо здійснити позитивний вплив на повстанську війну проти гноблення! Чудово. Навіть найменша дрібниця допоможе.",
+    "path": "/apexmission03a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Тут інша барикада над землею, захищена генератором щита. Я думаю, якщо ти вимкнеш щит, то барикада впаде.",
+    "path": "/apexmission04/text",
+    "op": "replace"
+  },
+  {
+    "value": "Мені подобається твоя завзятість та сміливість у гонитві за великими досягненнями.",
+    "path": "/apexmission04a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Дивні життєві показники виходять з глибин цієї лабораторії.",
+    "path": "/apexmission05/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/apexmission06/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це добре укріплена цитадель Міннауку... Я знаю, що зазвичай ти обережний, голубе, але цього разу будь ще обережнішим...",
+    "path": "/apexmission06/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/apexmission06a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Великий Мавп - дуже небезпечний супротивник.",
+    "path": "/apexmission06a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/avianmission01/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Найкраще роззирнутися навколо, поки він спить, голубе. Краще нам його не турбувати.",
+    "path": "/avianmission01/text",
+    "op": "replace"
+  },
+  {
+    "value": "Попередня інформація свідчить про те, що такий стародавній храм не може містити в собі настільки смертельну систему захисту... Переналаштовую вказані параметри.",
+    "path": "/avianmission02/text",
+    "op": "replace"
+  },
+  {
+    "value": "Шлях розділяється. Я б порадив не ходити ні ліворуч, ні праворуч. На жаль, нам це не підходить.",
+    "path": "/avianmission03/text",
+    "op": "replace"
+  },
+  {
+    "value": "Нуру",
+    "path": "/avianmission04/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Я. Ненавиджу. Вогонь.",
+    "path": "/avianmission04/text",
+    "op": "replace"
+  },
+  {
+    "value": "Нуру",
+    "path": "/avianmission05/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ти повинен ОБІЙТИ його! Не бий і не ссстріляй! Тобі потрібно непомітно прокрассстися, і сподіватиссся, що він тебе не помітить.",
+    "path": "/avianmission05/text",
+    "op": "replace"
+  },
+  {
+    "value": "Коїчі",
+    "path": "/avianmission06/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це місце - немов рідний дім... Звичайно, не включаючи огидні шипи. Очевидно...",
+    "path": "/avianmission06/text",
+    "op": "replace"
+  },
+  {
+    "value": "Цей острів - вхід до \"великої бібліотеки\".",
+    "path": "/hylotlmission01/text",
+    "op": "replace"
+  },
+  {
+    "value": "Поточний зовнішній тиск близько 15 атмосфер. Сканування показує, що ця структура може витримувати до 80 атмосфер. Шанси на виживання - дивно високі.",
+    "path": "/hylotlmission02/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти наблизився до рівня підвалу. Мої показання спотворені, але я можу спробувати оцінити рівень загрози, якщо хочеш...",
+    "path": "/hylotlmission03/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/hylotlmission03a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Я чула про цих культистів, але я знаю про них зовсім небагато... Цікаво, якщо...? Хто ж може знати...",
+    "path": "/hylotlmission03a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Нуру",
+    "path": "/hylotlmission03b/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Не хвилюйссся про це! Смертоносссні незззнайомці - це саме по твоїй чассстині.",
+    "path": "/hylotlmission03b/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/hylotlmission04/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ця жінка... Її голос... Чи може це бути, після стількох років?",
+    "path": "/hylotlmission04/text",
+    "op": "replace"
+  },
+  {
+    "value": "Проаналізувавши дані, я роблю висновок, що не можна дійти до цієї кімнати живим. Вітаю з перемогою завзятості над розумом!",
+    "path": "/hylotlmission05/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/glitchmission01/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це належить глітчу, відомому як Барон. Він відставний герой, і судячи з усього, злегка... ексцентричний...",
+    "path": "/glitchmission01/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/glitchmission01a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "У нього може не вистачати гвинтиків, але він не небезпечний, голубе.",
+    "path": "/glitchmission01a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Показання кажуть, що цей об'єкт, здавалося б, планета, але ні. Фактично, це один великий живий організм.",
+    "path": "/tentaclemission-arrived/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/tentaclemission-arrived2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ти стоїш на Руїні, голубе. Ти не зможеш завдати їй багато пошкоджень із зовнішнього боку - тобі доведеться пробити свій шлях вниз.",
+    "path": "/tentaclemission-arrived2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Лана Блейк",
+    "path": "/tentaclemission-arrived3/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Обережніше тут внизу. Кожна істота і речовина, з якою ти тут зіткнешся - небезпечна...",
+    "path": "/tentaclemission-arrived3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Згідно з показаннями, під тобою величезна прірва, яка простягається глибоко-глибоко. Раджу не вмирати від падіння.",
+    "path": "/tentaclemission-bottom/text",
+    "op": "replace"
+  },
+  {
+    "value": "Коїчі",
+    "path": "/tentaclemission-bottom2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Б.Ш.І. правий, прямо під твоїми ногами порожнеча. Величезна прірва між тобою і центральною частиною Руїни. Тобі потрібно знайти спосіб безпечно спуститися вниз.",
+    "path": "/tentaclemission-bottom2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/tentaclemission-bossroom/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ти досяг серця Руїни. Ти повинен знищити її.",
+    "path": "/tentaclemission-bossroom/text",
+    "op": "replace"
+  },
+  {
+    "value": "Тонауак",
+    "path": "/tentaclemission-bossroom2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Нехай Клуекс направить тебе.",
+    "path": "/tentaclemission-bossroom2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/tentaclemission-destruction1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зробив це!.. Але щось не так. Руїна... Її структура нестабільна!",
+    "path": "/tentaclemission-destruction1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Коїчі",
+    "path": "/tentaclemission-destruction2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Вона ось-ось вибухне! Тікай!",
+    "path": "/tentaclemission-destruction2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Нуру",
+    "path": "/tentaclemission-destruction3/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Не кажи їм, що робити, риб'яча пико! Вони ссстикалися з ссситуаціями набагато гіршими, ніж ця!",
+    "path": "/tentaclemission-destruction3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/cultistmission01a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Отже, ти знайшов її... Ти знайшов Азру.",
+    "path": "/cultistmission01a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Капітан Нобл",
+    "path": "/cultistmission01b/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ти спілкуєшся з легендарною Естер Брайт, партнере? Для мене честь познайомитися з тобою!",
+    "path": "/cultistmission01b/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/cultistmission01c/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Насолоджуйся цим, голубе!",
+    "path": "/cultistmission01c/text",
+    "op": "replace"
+  },
+  {
+    "value": "Коїчі",
+    "path": "/cultistmission02/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ти можеш викликати мех з цієї платформи. Це повинно стати тобі в нагоді.",
+    "path": "/cultistmission02/text",
+    "op": "replace"
+  },
+  {
+    "value": "Лана Блейк",
+    "path": "/cultistmission03a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "На щастя, літаюча фортеця нашого ворога має такі слабкі протоколи безпеки...",
+    "path": "/cultistmission03a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Капітан Нобл",
+    "path": "/cultistmission03b/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Давай-но подивимося на твої відмінні навички злому, партнере!",
+    "path": "/cultistmission03b/text",
+    "op": "replace"
+  },
+  {
+    "value": "Барон",
+    "path": "/cultistmission03c/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Враження. Незважаючи на свої вчинки, ці огидні культисти, принаймні, знають, як зберегти таємну кімнату в чистоті! Ха-ха!",
+    "path": "/cultistmission03c/text",
+    "op": "replace"
+  },
+  {
+    "value": "Нуру",
+    "path": "/cultistmission04a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Холодильник! Цікаввво, що погані хлопці їдять на сссніданок?",
+    "path": "/cultistmission04a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Барон",
+    "path": "/cultistmission04b/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Здивування. Можливо, вони їдять... погані яблука? Хо-хо! Мій розум бездоганний!",
+    "path": "/cultistmission04b/text",
+    "op": "replace"
+  },
+  {
+    "value": "Капітан Нобл",
+    "path": "/cultistmission05a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ти досяг хорошого результату, партнере. Цей корабель дійсно величезний, чи не так?",
+    "path": "/cultistmission05a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Тонауак",
+    "path": "/cultistmission05b/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, він і справді досить великий, щоб конкурувати з найбільшим з божественних храмів Клуекса!",
+    "path": "/cultistmission05b/text",
+    "op": "replace"
+  },
+  {
+    "value": "???",
+    "path": "/cultistmission06a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Чий це канал зв'язку?! Чому ти на борту Данталіона?!",
+    "path": "/cultistmission06a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Азра Нокс",
+    "path": "/cultistmission06b/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ох. Це ^orange;ти^white;.",
+    "path": "/cultistmission06b/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/cultistmission07/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ох, Азро, коли ж закінчиться твоя одержимість Руїною?",
+    "path": "/cultistmission07/text",
+    "op": "replace"
+  },
+  {
+    "value": "Капітан Нобл",
+    "path": "/cultistmission08/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Мені не подобається такий стиль, партнере.",
+    "path": "/cultistmission08/text",
+    "op": "replace"
+  },
+  {
+    "value": "Азра Нокс",
+    "path": "/cultistmission09a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Не змушуй мене чекати, \"захиснику\".",
+    "path": "/cultistmission09a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер Брайт",
+    "path": "/cultistmission09b/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Я думаю, це воно, голубе. Сподіваюся, ти готовий...",
+    "path": "/cultistmission09b/text",
+    "op": "replace"
+  }
+]

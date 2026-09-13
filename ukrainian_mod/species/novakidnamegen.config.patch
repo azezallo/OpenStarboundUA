@@ -1,0 +1,882 @@
+[
+  {
+    "op": "replace",
+    "path": "/names/1/1/1",
+    "value": "Туз"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/2",
+    "value": "Акро"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/3",
+    "value": "Акрил"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/4",
+    "value": "Боєприпаси"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/5",
+    "value": "Аміл"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/6",
+    "value": "Aqu"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/7",
+    "value": "Аргон"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/8",
+    "value": "Axus"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/9",
+    "value": "Азен"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/10",
+    "value": "Лазурний"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/11",
+    "value": "Бадде"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/12",
+    "value": "Застава"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/13",
+    "value": "Бензе"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/14",
+    "value": "Бензі"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/15",
+    "value": "Берил"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/16",
+    "value": "Біллі"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/17",
+    "value": "Блаз"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/18",
+    "value": "Синій"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/19",
+    "value": "Бостон"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/20",
+    "value": "Бронко"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/21",
+    "value": "Бак"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/22",
+    "value": "Куля"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/23",
+    "value": "Бутан"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/24",
+    "value": "Бутч"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/25",
+    "value": "бутил"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/26",
+    "value": "Берд"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/27",
+    "value": "Карбо"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/28",
+    "value": "Cerise"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/29",
+    "value": "Клінт"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/30",
+    "value": "Клем"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/31",
+    "value": "Кобальт"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/32",
+    "value": "Країна"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/33",
+    "value": "Цетус"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/34",
+    "value": "хлор"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/35",
+    "value": "Chrome"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/36",
+    "value": "Корвус"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/37",
+    "value": "Багряний"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/38",
+    "value": "Кюрі"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/39",
+    "value": "Блакитний"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/40",
+    "value": "Cylo"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/41",
+    "value": "Dace"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/42",
+    "value": "Денді"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/43",
+    "value": "Тире"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/44",
+    "value": "Декан"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/45",
+    "value": "пустеля"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/46",
+    "value": "Декс"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/47",
+    "value": "кубики"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/48",
+    "value": "Канава"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/49",
+    "value": "Діетил"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/50",
+    "value": "Діоксі"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/51",
+    "value": "діоксол"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/52",
+    "value": "Додека"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/53",
+    "value": "Доміно"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/54",
+    "value": "Дован"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/55",
+    "value": "Дрое"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/56",
+    "value": "Запилений"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/57",
+    "value": "Дайм"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/58",
+    "value": "Епіч"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/59",
+    "value": "Eryx"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/60",
+    "value": "Етан"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/61",
+    "value": "Етоксі"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/62",
+    "value": "Етил"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/63",
+    "value": "Фараді"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/64",
+    "value": "Кремінь"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/65",
+    "value": "Фреон"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/66",
+    "value": "паливо"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/67",
+    "value": "Фуран"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/68",
+    "value": "Ферф"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/69",
+    "value": "Гіббс"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/70",
+    "value": "Гуд"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/71",
+    "value": "Зелений"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/72",
+    "value": "пістолет"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/73",
+    "value": "Жолоб"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/74",
+    "value": "Гелій"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/75",
+    "value": "Гептан"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/76",
+    "value": "Гексан"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/77",
+    "value": "Гексен"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/78",
+    "value": "Гідро"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/79",
+    "value": "Іон"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/80",
+    "value": "Індиго"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/81",
+    "value": "Isobu"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/82",
+    "value": "Джейн"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/83",
+    "value": "Джессі"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/84",
+    "value": "Реактивний літак"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/85",
+    "value": "Каді"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/86",
+    "value": "Керо"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/87",
+    "value": "малюк"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/88",
+    "value": "Лакто"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/89",
+    "value": "пров"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/90",
+    "value": "Ласо"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/91",
+    "value": "Свинець"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/92",
+    "value": "Лівша"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/93",
+    "value": "Лео"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/94",
+    "value": "Лекс"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/95",
+    "value": "Ваги"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/96",
+    "value": "Лука"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/97",
+    "value": "Щасливчик"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/98",
+    "value": "Люмен"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/99",
+    "value": "Рись"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/100",
+    "value": "Ліра"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/101",
+    "value": "Магі"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/102",
+    "value": "Маршалл"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/103",
+    "value": "Merca"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/104",
+    "value": "Мета"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/105",
+    "value": "Метан"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/106",
+    "value": "Метокс"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/107",
+    "value": "Метил"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/108",
+    "value": "Міллі"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/109",
+    "value": "Мінера"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/110",
+    "value": "Монтана"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/111",
+    "value": "Нафта"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/112",
+    "value": "Неон"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/113",
+    "value": "Азотний"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/114",
+    "value": "Нітро"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/115",
+    "value": "Nonane"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/116",
+    "value": "Октан"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/117",
+    "value": "октил"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/118",
+    "value": "Оріо"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/119",
+    "value": "Оксі"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/120",
+    "value": "Пентан"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/121",
+    "value": "Окунь"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/122",
+    "value": "чол"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/123",
+    "value": "Піт"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/124",
+    "value": "Фено"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/125",
+    "value": "Феніл"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/126",
+    "value": "Pinen"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/127",
+    "value": "пістолет"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/128",
+    "value": "пропан"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/129",
+    "value": "Пропил"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/130",
+    "value": "Кварк"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/131",
+    "value": "Куаррен"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/132",
+    "value": "Ренді"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/133",
+    "value": "Рейдер"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/134",
+    "value": "Ворон"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/135",
+    "value": "Бритва"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/136",
+    "value": "Червоний"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/137",
+    "value": "Рінго"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/138",
+    "value": "рубін"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/139",
+    "value": "Раш"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/140",
+    "value": "Райдер"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/141",
+    "value": "Сідло"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/142",
+    "value": "Сойєр"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/143",
+    "value": "Скарлет"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/144",
+    "value": "Скаут"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/145",
+    "value": "Сет"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/146",
+    "value": "Тінь"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/147",
+    "value": "Срібло"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/148",
+    "value": "Смокі"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/149",
+    "value": "Сонні"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/150",
+    "value": "Спайк"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/151",
+    "value": "Styre"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/152",
+    "value": "Сленг"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/153",
+    "value": "Цільова"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/154",
+    "value": "Чирок"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/155",
+    "value": "трет"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/156",
+    "value": "Тесла"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/157",
+    "value": "Тетра"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/158",
+    "value": "Топпер"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/159",
+    "value": "Тригер"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/160",
+    "value": "Трікс"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/161",
+    "value": "Ведмедиця"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/162",
+    "value": "Варні"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/163",
+    "value": "Вела"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/164",
+    "value": "Вініл"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/165",
+    "value": "Діва"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/166",
+    "value": "Уорд"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/167",
+    "value": "Уоррен"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/168",
+    "value": "Вейн"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/169",
+    "value": "Батіг"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/170",
+    "value": "Дикий"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/171",
+    "value": "Ксилол"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/172",
+    "value": "Ксенон"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/173",
+    "value": "Зейн"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/174",
+    "value": "Зік"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/175",
+    "value": "Цинк"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/176",
+    "value": "Золан"
+  }
+]

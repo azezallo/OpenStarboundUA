@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Очеретяний орган. Не псуйте цю виставу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Очеретяний орган"
+  }
+]

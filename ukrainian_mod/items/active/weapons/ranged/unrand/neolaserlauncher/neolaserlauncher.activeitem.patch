@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потужна протонна гармата, створена для здійснення важкого правосуддя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лазеркастер"
+  }
+]

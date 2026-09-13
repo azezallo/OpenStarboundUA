@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Квітка з яскраво-синіми пелюстками. Корисно для виготовлення барвників."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Синя квітка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Синя квітка. Це має мету."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Гарна синя квітка, я можу використовувати її для виготовлення кольорових барвників."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цією синьою квіткою можна розфарбувати одяг!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Продуманий. Синя квітка. Він має практичне застосування у створенні барвника."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Зелена квітка. Почекай, ні, він синій."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чудовий блакитний квітка, красивий і корисний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Синя квітка? Це має бути для чогось корисним."
+  }
+]

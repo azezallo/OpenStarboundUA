@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це надзвичайно круте крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Круте крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стильний. Тільки Міннаук отримує такі меблі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Яйце?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "М'яка шкіра."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заздрісні. Це крісло дуже приємне."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це дуже круте крісло. Отже, Apex здатні на стиль."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це крісло тече, як сценарій на сторінці."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Крісло у формі яйця. Мені здається, це дуже круто."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Violium робить цей нагрудний щиток неймовірно міцним."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нагрудний страж шукача пригод"
+  }
+]

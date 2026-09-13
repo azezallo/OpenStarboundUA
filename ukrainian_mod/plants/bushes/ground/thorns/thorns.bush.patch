@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Терновий кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Терновий кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Шпилястий кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Терновий кущ."
+  }
+]

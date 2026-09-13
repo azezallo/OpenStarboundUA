@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Панель доступу з полум’ям, вирізаним на її основі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Різьблена полум'яна консоль"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кристали всередині цієї консолі здаються важливими, але я не розумію технології."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця консоль здатна взаємодіяти з іншими пристроями за допомогою кристалічних коливань."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "На консолі Birdman є полум’я. Флоран ненавидить вогонь."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Кристали, що живлять цю консоль, здатні взаємодіяти з іншими пристроями."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця панель доступу містить незрозумілі мені символи."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вогні від цієї консолі гіпнотичні та красиві."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені дуже хочеться натиснути деякі з цих химерних кнопок."
+  }
+]

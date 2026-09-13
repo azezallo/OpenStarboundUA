@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Сніг",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "М'який і пухнастий сніг.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Зачарування. Цей сніг знову випав.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Холодний сссніг.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Купа свіжого снігу.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

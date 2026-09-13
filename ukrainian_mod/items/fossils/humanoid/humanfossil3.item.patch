@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'яніла пара людських ніг."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ноги людини"
+  }
+]

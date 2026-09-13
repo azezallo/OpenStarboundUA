@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Голова альпаки з рогатим бойовим шоломом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Альпака Охоронець Справжня голова"
+  }
+]

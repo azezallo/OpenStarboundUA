@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Роги стирчать із цієї маски скрангера."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Deadbeat Scrounger Horns"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Генетично покращені банани. Менші дерева з великими плодами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння банана"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Існує стереотип, що Apex люблять банани, завдяки Міннаук. Вони дуже смачні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці банани незвичайні на смак, я не можу визначити."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssssmells як людина-мавпа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цинічно. Apex любить це, але Glitch не бачить нічого особливого."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це як банан, але ще більше банановий."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Генетично модифікований банан, я відчуваю штучний смак."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Генетично покращені банани є найкращими бананами."
+  }
+]

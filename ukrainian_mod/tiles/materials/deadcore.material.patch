@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "The superdense core of a dead planet. Nearly unbreakable."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Dead Core Block"
+  }
+]

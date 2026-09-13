@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Модуль EPP, який трохи покращує ваше здоров’я."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Health I Aug"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "value": "Здоров'я І"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Круглий стіл, який зазвичай зустрічається на станціях Peacekeeper."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стіл миротворця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей стіл має відповідний великий розмір."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хтось зберіг цей стіл у хорошому стані!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран може стояти на столі, щоб отримати тактичну перевагу."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Це точно круглий стіл... Я не знаю, що ще я можу сказати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей великий стіл надзвичайно добре відшліфований."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей круглий стіл дуже підходить для гри в карти."
+  }
+]

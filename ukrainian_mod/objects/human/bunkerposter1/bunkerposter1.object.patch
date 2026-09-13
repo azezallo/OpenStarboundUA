@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це не дуже обнадійливо."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мотиваційний плакат"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Якби це був плакат Miniknog, відсутній текст мав би бути «вас не звільнять»."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Птахи моляться Клуексу про спокій. Нам не потрібні дурні мотиваційні плакати."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Постер пошкоджений. Флоран почувається менш спокійним після того, як побачив цей постстер."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Спроба вгадати пропущений текст буде дратувати мене днями."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не здивований, що хтось це зіпсував."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Нам, Hylotl, не потрібні плакати, щоб допомогти нам досягти дзен."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Зберігайте спокій і що? Здається, я ніколи не дізнаюся."
+  }
+]

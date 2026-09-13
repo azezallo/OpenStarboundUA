@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Засніжений кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Засніжений кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сссніжний кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Засніжений кущ."
+  }
+]

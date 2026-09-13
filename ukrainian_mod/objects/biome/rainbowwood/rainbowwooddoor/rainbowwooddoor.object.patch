@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Двері з веселкового дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яні двері Rainbow"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це двері з веселкового дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дверний отвір із веселкою, надрукованою на ньому. Я сумніваюся, що це веде до одного."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Двері мають барвистий малюнок."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Це двері яскравого кольору."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Райдужні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Які гарні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці двері напевно гостинні."
+  }
+]

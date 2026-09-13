@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Є щось тривожне в цьому шикарному старому ліжку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Моторошне ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я не можу позбутися поганих передчуттів щодо цього ліжка..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "З цим ліжком щось не так, я це відчуваю..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран нервує через те, що тут спить..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "нервовий. Є щось зловмисне в цих меблях."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Навіщо спати, коли можна не спати від жаху?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я мав би бути відчайдушним, щоб спати в чомусь подібному."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Під цим щось ховається?"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рвана накидка ідеальна для пригод!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рвана накидка"
+  }
+]

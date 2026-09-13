@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "У цих приємних брюках ви зможете залишатися свіжими та бадьорими."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани пустелі"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скрипучий ліхтарний стовп із латунних труб."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Латунний ліхтарний стовп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Схоже, цей ліхтарний стовп зроблений із металобрухту."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Сподіваюся, цей ліхтарний стовп освітлюватиме шлях."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Висока і блискуча лампа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Високий ліхтарний стовп з металу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Симпатичний ліхтарник з труб."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Схоже, що цей ліхтарний стовп може навіть витримати підводні умови."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Світло на цьому ліхтарному стовпі не мерехтить, як відкрите полум'я."
+  }
+]

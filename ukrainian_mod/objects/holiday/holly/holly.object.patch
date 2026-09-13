@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нічого, як трохи падуба, щоб ви почувалися весело!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Декоративний падуб"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гарний зелений падуб. Хоч колючий."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця колюча рослина викликає у мене відчуття свята."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану подобається ssspiky leaf!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Сюрприз. Святкова гілочка падуба."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гілочка падуба викликає в мене відчуття майже ностальгії."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гостра, колюча рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Його досить гарний колір, але чому він такий гострий?"
+  }
+]

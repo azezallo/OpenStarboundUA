@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зі стелі стирчать маленькі корінці."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Коріння"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Крихітні корінці з крихітними вогниками."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Маленькі корінці виблискують, як зірочки, прикрашають стелю."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Навіть коріння сяє... Флоран жадає темряви."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розпитування. Це коріння рослин вище, чи окремий організм?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені подобається, як тут світиться кожна дрібниця, навіть коріння!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці крихітні світяться корінці нагадують деяких рідкісних трубочників, яких я колись бачив у глибокій океанській западині."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці блискучі корінці точно чисті."
+  }
+]

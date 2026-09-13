@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вони будуть поважати ваш авторитет, коли ви носите ці штани шерифа."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани шерифа"
+  }
+]

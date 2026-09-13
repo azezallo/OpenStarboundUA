@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "I almost became an Ascendant for Kluex, but I got scared and fled here. What do I do now?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/default/0",
+    "value": "I almost became an Ascendant for Kluex, but I got scared and fled here. What do I do now?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/avian/avian/0",
+    "value": "Another Avian who no longer follows Kluex? Your presence brings me comfort."
+  }
+]

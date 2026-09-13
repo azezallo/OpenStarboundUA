@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Ланцюг з вольфраму, і він не для забав.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Вольфрамовий ланцюг",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Враження. Ці ланцюги надзвичайно міцні.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран викорисстовує ланцюги, щоб упіймати ззздобич.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ланцюги з вольфраму, легіню.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потужна механічна зброя, створена для механізму \"Лебедина пісня\" Асри Нокс."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Solus Katana Mech Arm"
+  }
+]

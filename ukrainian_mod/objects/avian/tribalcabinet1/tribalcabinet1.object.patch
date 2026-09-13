@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цю маленьку шафу оточують різьблені візерунки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Невелика різьблена шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кабінет. Таке враження, ніби господарі самі його прикрасили."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Оздоблення меблів є найпопулярнішим хобі серед заземлених людей. Цей кабінет, схоже, постраждав від цього."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран бачить багато помилок в оздобленні."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Схоже, що прикраса є роботою кількох людей."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, декому було дуже весело прикрашати цю шафу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Оздоблення цього кабінету, здається, було джерелом багатьох розваг."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це бідно оздоблений кабінет."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створює монстрів різними способами, які можна налаштувати."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Породжувач монстрів"
+  }
+]

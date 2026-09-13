@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це повчально! Штани, що демонструють пташину мускулатуру ніг."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташині анатомічні штани"
+  }
+]

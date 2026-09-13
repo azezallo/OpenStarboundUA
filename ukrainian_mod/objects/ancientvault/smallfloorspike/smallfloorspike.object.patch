@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це шип"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Малий підлоговий шип"
+  }
+]

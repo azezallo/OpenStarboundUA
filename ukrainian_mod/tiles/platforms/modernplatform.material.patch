@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сучасна платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Made from a modern material, these are smooth to the touch."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Satisfied. This smooth modern platform is attractive and sturdy."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssmooth modern platformsss."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Деякі химерні металеві платформи."
+  }
+]

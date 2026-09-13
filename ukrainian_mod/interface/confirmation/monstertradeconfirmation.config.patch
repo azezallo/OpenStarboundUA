@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Обмін монстра"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "<questGiver> хоче обмін!"
+  },
+  {
+    "op": "replace",
+    "path": "/message",
+    "value": "<questGiver> хоче обміняти <questGiver.pronoun.possessiveDet> <tradedMonster> на вашого <monster>. Обмін є незворотним.\n\nПродовжити обмін?"
+  },
+  {
+    "op": "replace",
+    "path": "/okCaption",
+    "value": "Звісно"
+  },
+  {
+    "op": "replace",
+    "path": "/cancelCaption",
+    "value": "Не зараз"
+  }
+]

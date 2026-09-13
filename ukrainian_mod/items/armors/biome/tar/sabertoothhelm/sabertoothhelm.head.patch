@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Загрозливий шолом, зроблений із того, що схоже на шаблезубий череп."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шаблезубий шолом"
+  }
+]

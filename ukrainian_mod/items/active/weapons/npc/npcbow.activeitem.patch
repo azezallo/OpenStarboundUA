@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Збирає м'ясо та інші товари з монстрів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "NPC Лук"
+  }
+]

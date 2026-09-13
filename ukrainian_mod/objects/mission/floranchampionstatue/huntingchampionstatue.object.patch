@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Статуя Флорана. Виглядає як чудовий мисливець."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуя Чемпіона Флорана"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Величний, але вражаючий флоранський мисливець."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Статуя воїна Флорана. Пташиних воїнів не часто імпортують у камені."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Успішні флоранські мисливці отримують великі статуї."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Флоран, зображений тут, був успішним мисливцем."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця статуя виглядала б краще, якби це був я."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Статуя, споруджена на честь шанованого флоранського мисливця."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей хлопець, мабуть, був чудовим мисливцем!"
+  }
+]

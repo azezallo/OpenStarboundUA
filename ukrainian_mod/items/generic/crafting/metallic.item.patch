@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Металеве покриття поверх деревного матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерево з металевим покриттям"
+  }
+]

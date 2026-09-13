@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Унікальний механізм у стилі Новакіда, створений для невтомних та досвідчених пілотів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Marshal Mech Body"
+  }
+]

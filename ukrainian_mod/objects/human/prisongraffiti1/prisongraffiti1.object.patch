@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Waz."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Графіті \"Waz\"."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Там написано «WAZ». Зворушливо."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Що взагалі означає це слово? У мого перекладача нічого немає."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран напише повідомлення кров'ю на стіні."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Академічний. Цілком можливо, що це має на меті передати математичне рівняння еволюції."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Хе-хе. Waz. Ви, хлопці."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це слово не знайоме ні мені, ні моєму перекладачу."
+  }
+]

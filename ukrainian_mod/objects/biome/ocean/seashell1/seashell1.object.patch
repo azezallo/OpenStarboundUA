@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Черепашка!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "черепашка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Черепашки іноді збирають всередині скарби."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Черепашки - справжній скарб природи."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Мушля sssmashable! Що всередині?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Сентиментальний. Здається, соромно розбити мушлю."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця черепашка колись була домом для інопланетної істоти. Тепер у ньому є пікселі!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мушля, пам’ять океану для всіх нас."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не проти розбити кілька черепашок, якщо вони розгалужуються над пікселями."
+  }
+]

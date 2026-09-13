@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Легендарний шолом чемпіона арени."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом чемпіона арени"
+  }
+]

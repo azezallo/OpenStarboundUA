@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Floran enjoys travel! Floran wants to sssee whole universe!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/0",
+    "value": "Floran enjoys travel! Floran wants to sssee whole universe!"
+  }
+]

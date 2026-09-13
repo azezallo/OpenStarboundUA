@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бар, який підходить для пінгвіна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пінгвін Бар Топ"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "У барі цього пінгвіна не дуже багато. Я не впевнений, що тут навіть подають напої..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Знаєте, для бару з багатьма напоями я не бачу, щоб бармен справді продавав..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Бар нікому не продає напої!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підозрілий. Можливо, бармен тримає пляшку, але я не бачу, щоб він комусь продав напій..."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "У цьому барі майже немає запасів. Цілком очевидно, що вони не мають наміру продавати тут якісь напої."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Яка низька якість. Це полегшення, що бармен, здається, нічого не продає."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей дайв-бар навіть не вдає, що продає напої."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Бар Beakeasy"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Найміть пінгвінових найманців!"
+  }
+]

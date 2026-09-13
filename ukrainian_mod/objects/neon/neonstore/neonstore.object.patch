@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Магазин з асортиментом меблів Neon Peacekeeper."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Неоновий магазин"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Неонові меблі"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Прикрашай, як миротворець!"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Особа, яка обслуговує цей кіоск, не здається глюком. Можливо, це якийсь інший автомат?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Неонова естетика цього магазину справді інтригує!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран думає, що Флоран міг би побити магазинного персона в кулачній бійці."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Здається, що цей крамар механік, але він не збій."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей хлопець, здається, не говорить багато, але його магазин виглядає дуже круто."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Якщо цьому магазину потрібно наполягати, що він «крутий», то мої очікування вже низькі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я справді хотів би переглянути цей магазин!"
+  }
+]

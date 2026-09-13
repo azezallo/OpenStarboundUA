@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кольчуга з ферозіуму, яка захищає тулуб, але дозволяє пір’ю дихати."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кольчуга фламінго"
+  }
+]

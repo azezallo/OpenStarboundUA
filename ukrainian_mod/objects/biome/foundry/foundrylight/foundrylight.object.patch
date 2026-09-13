@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Лава в цьому маленькому фонтані перегріта до яскравого світіння."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ливарне світло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця лава яскраво світиться та переробляється через прилад."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Гадаю, це природне джерело світла."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Палаюча лава яскраво світиться"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Для чого служить лавовий фонтан?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця лава повинна бути дуже гарячою, щоб так яскраво світитися."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Лава - нагадування про силу природи. Рідко вдається побачити це так близько."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Краще дивіться, ця лава гарячіша за обгорілий черевик."
+  }
+]

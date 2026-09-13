@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'яніла пара ніг Avioscale."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ноги Avioscale"
+  }
+]

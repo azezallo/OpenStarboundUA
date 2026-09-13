@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеально підходить для зберігання рідин."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Порожня пляшка"
+  }
+]

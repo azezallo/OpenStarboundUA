@@ -1,0 +1,27 @@
+[
+  {
+    "value": "^orange;Запчастини та праця",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Я працюю над блискучою новою зброєю для меха, але мені потрібна допомога зі збором деяких деталей. Якщо ти зможеш ^green;відправитися в космос^white; та ^green;знайти мені 5^orange; врятованих чіпів інтерфейсу^white; і ^green;10 ^orange;збережених силових муфт^white;, думаю, цього буде достатньо, щоб закінчити її!",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Цих деталей мені достатньо, щоб завершити мою нову ^orange;руку з ракетною установкою^white;! На знак моєї вдячності я відправив копію ^green;креслення^white; на твій ^green;стіл для створення деталей меха^white; — тепер ти можеш піти і зробити свою власну!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Доктор Акагі",
+    "path": "/scriptConfig/portraits/questStarted/title",
+    "op": "replace"
+  },
+  {
+    "value": "Доктор Акагі",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,1372 @@
+[
+  {
+    "op": "replace",
+    "path": "/merchantStart/default/default/0",
+    "value": "Ласкаво просимо до мого магазину!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/default/default/1",
+    "value": "Бачиш щось, що тобі подобається?"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/default/default/2",
+    "value": "Чим я можу тобі допомогти?"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/apex/default/0",
+    "value": "Зламаєш - купуєш. Міннаук не прощає боргів."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/apex/default/1",
+    "value": "Що тобі потрібно?"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/apex/default/2",
+    "value": "Що я можу зробити, щоб прискорити цю угоду?"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/apex/default/3",
+    "value": "Будь ласка, не продавай мені нічого незаконного, мені не потрібні проблеми з Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/avian/default/0",
+    "value": "Вітаю, що я можу тобі продати?"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/avian/default/1",
+    "value": "Чим я можу допомогти сьогодні?"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/avian/default/2",
+    "value": "Гей. Бачиш щось, що тобі подобається?"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/floran/default/0",
+    "value": "Флоран вітає тебе в магазззині."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/floran/default/1",
+    "value": "Що Флоран може діссстати для тебе?"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/floran/default/2",
+    "value": "Ти даєшшш Флоран пікссселі, Флоран дає тобі речі."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/glitch/default/0",
+    "value": "*Улесливість.* Ласкаво просимо до мого магазину."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/glitch/default/1",
+    "value": "*Доброзичливість.* Ти ж знаєш, що хочеш купити все!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/glitch/default/2",
+    "value": "*Задоволення.* Покупець!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/hylotl/default/0",
+    "value": "Сподіваюсь, ми зможемо зробити обмін, який сприятиме вашому щастю."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/hylotl/default/1",
+    "value": "Можливо, ви знайдете дещо з мого асортименту збагачуючим."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/hylotl/default/2",
+    "value": "Будь ласка, не соромтеся оглядати мої товари."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/novakid/default/0",
+    "value": "Йо, друже. Потрібні якісь товари?"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/novakid/default/1",
+    "value": "Вітання, партнере! Тобі треба щось купити?"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/novakid/default/2",
+    "value": "Маю товару на продаж - цікавить?"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/default/default/0",
+    "value": "Побачимось наступного разу!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/default/default/1",
+    "value": "Приходь ще!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/default/default/2",
+    "value": "Твої пікселі тут завжди приймають."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/default/default/3",
+    "value": "Приємно мати з тобою справу!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/default/default/4",
+    "value": "Дякую за візит."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/default/default/5",
+    "value": "Радий тебе бачити!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/default/default/6",
+    "value": "Давай вести бізнес знову."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/human/default/0",
+    "value": "Побачимось наступного разу!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/human/default/1",
+    "value": "Приходь ще."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/human/default/2",
+    "value": "Твої пікселі тут завжди приймають."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/human/default/3",
+    "value": "Приємно мати з тобою справу!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/human/default/4",
+    "value": "Дякую за візит."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/human/default/5",
+    "value": "Радий тебе бачити!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/human/default/6",
+    "value": "Давай вести бізнес знову."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/avian/default/0",
+    "value": "Який швидкий візит. Сподіваюсь скоро побачити тебе знову."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/avian/default/1",
+    "value": "Щиро дякую за підтримку. Хай благословить тебе Клуекс."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/avian/default/2",
+    "value": "Дякую за покупки. Приходь ще."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/avian/default/3",
+    "value": "З нетерпінням чекаю на нову зустріч. З волі Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/glitch/default/0",
+    "value": "*Наполегливість.* Повертайся скоріше!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/glitch/default/1",
+    "value": "*Задоволення.* Дякую за вашу підтримку."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/glitch/default/2",
+    "value": "*Розчарування.* Ти більше нічого не купиш?"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/glitch/default/3",
+    "value": "*Меланхолія.* До наступного разу, покупцю."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/hylotl/default/0",
+    "value": "Будь ласка, приходьте ще."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/hylotl/default/1",
+    "value": "Дякую за ваші покупки, будь ласка, повертайтеся скоріше."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/hylotl/default/2",
+    "value": "Сподіваюсь скоро побачити вас знову."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/hylotl/default/3",
+    "value": "Дякую за ваш візит, я з нетерпінням чекаю на наші майбутні транзакції."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/apex/default/0",
+    "value": "Приходь ще. Бережи себе від очей Великого Мавпа."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/apex/default/1",
+    "value": "Ми ще побачимось, побережи свої пікселі для мене."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/apex/default/2",
+    "value": "Сподіваюсь, ми ще побачимось, друже."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/apex/default/3",
+    "value": "Повертайся, коли зможеш."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/floran/default/0",
+    "value": "Повертайссся, зззалишшшайссся тут, витрачай більше!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/floran/default/1",
+    "value": "Флоран ссссподіваєтьссся, що ти сссскоро повернешшшссся."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/floran/default/2",
+    "value": "Флоран продає найкращі речі, ти сссскоро повернешшшссся."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/floran/default/3",
+    "value": "Флоран зззадоволений, ссссподіваєтьссся, що ти ще прийдешшш."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/novakid/default/0",
+    "value": "Надіюсь, скоро знову побачимось, друже!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/novakid/default/1",
+    "value": "Бережи себе там, файно!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/novakid/default/2",
+    "value": "Заходь привітатись, як будеш поруч, партнере!"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/novakid/default/3",
+    "value": "Ще побачимось, партнере!"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/default/default/0",
+    "value": "Йди зі мною, ми зможемо вести бізнес у моєму магазині!"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/default/default/1",
+    "value": "Заходь, заходь і подивись, що у мене є!"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/glitch/default/0",
+    "value": "*Привітність.* Будь ласка, йди за мною до мого магазину."
+  },
+  {
+    "op": "replace",
+    "path": "/follow/glitch/default/1",
+    "value": "*Спокуса.* Дозволь мені провести тебе до мого магазину."
+  },
+  {
+    "op": "replace",
+    "path": "/follow/avian/default/0",
+    "value": "Йди за мною, я проведу тебе до мого магазину."
+  },
+  {
+    "op": "replace",
+    "path": "/follow/avian/default/1",
+    "value": "Ми можемо вести справи у моєму магазині. Будь ласка, йди за мною."
+  },
+  {
+    "op": "replace",
+    "path": "/follow/apex/default/0",
+    "value": "Мої товари в моєму магазині. Йди за мною, я покажу."
+  },
+  {
+    "op": "replace",
+    "path": "/follow/apex/default/1",
+    "value": "Якщо ти підеш за мною до мого магазину, ми зможемо торгувати."
+  },
+  {
+    "op": "replace",
+    "path": "/follow/hylotl/default/0",
+    "value": "Дозвольте мені провести вас до мого магазину."
+  },
+  {
+    "op": "replace",
+    "path": "/follow/hylotl/default/1",
+    "value": "Можу я провести вас до мого магазину? Це сюди."
+  },
+  {
+    "op": "replace",
+    "path": "/follow/floran/default/0",
+    "value": "Йди ззза Флоран до магазззину."
+  },
+  {
+    "op": "replace",
+    "path": "/follow/floran/default/1",
+    "value": "Магазззин у цьому напрямку, йди ззза Флоран."
+  },
+  {
+    "op": "replace",
+    "path": "/follow/novakid/default/0",
+    "value": "Сюди, партнере."
+  },
+  {
+    "op": "replace",
+    "path": "/follow/novakid/default/1",
+    "value": "Ходи за мною, я покажу тобі свій магазин."
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/default/default/0",
+    "value": "Ласкаво просимо до мого магазину!"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/default/default/1",
+    "value": "Ось ми і тут. Чим я можу допомогти?"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/human/default/0",
+    "value": "Ласкаво просимо до мого магазину!"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/human/default/1",
+    "value": "Ось і ми. Чим можу допомогти?"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/glitch/default/0",
+    "value": "*Захоплення.* Тепер ми можемо вести бізнес."
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/glitch/default/1",
+    "value": "*Задоволення.* Тепер ми можемо торгувати досхочу."
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/avian/default/0",
+    "value": "Гаразд, тепер ми тут, хай Клуекс благословить твій вибір, що тобі принести?"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/avian/default/1",
+    "value": "Тепер ми тут, завдяки Клуексу, ти можеш подивитися і знайти те, що тобі до вподоби."
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/apex/default/0",
+    "value": "Тепер ми наодинці, подалі від очей Міннаук, можемо поговорити про справи. Слава Великому Мавпу."
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/apex/default/1",
+    "value": "Добре, Великий Мавп дозволяє, тепер ми можемо торгувати."
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/hylotl/default/0",
+    "value": "Ось ми і тут. Вітаю. Що ти бажав придбати у Хайлотлів?"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/hylotl/default/1",
+    "value": "Вітаю усамітнення мого магазину, сподіваюся, ми знайдемо те, що тобі потрібно. Хайлотли знають ціну речам."
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/floran/default/0",
+    "value": "Осссь мій магазин. Що тобі потрібно?"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/floran/default/1",
+    "value": "Ми тут! Що Флоран може ссдістати для тебе?"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/novakid/default/0",
+    "value": "Йо, ось ми і тут, файно, хочеш поторгувати, леґіню?"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/novakid/default/1",
+    "value": "Тепер ми в моїй крамниці, ґаздо, маєш настрій трохи поторгувати?"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/default/default/0",
+    "value": "Товари на продаж!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/default/default/1",
+    "value": "Гей ти, йди сюди, поглянь на мої дивовижні товари!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/default/default/2",
+    "value": "Найкращі пропозиції тут!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/default/default/3",
+    "value": "Дешеві покупки!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/apex/default/0",
+    "value": "Підходь і подивись на мої товари. Великий Мавп схвалює."
+  },
+  {
+    "op": "replace",
+    "path": "/tout/apex/default/1",
+    "value": "Товари на продаж, підходь і дивись! Не бійся Міннаук тут."
+  },
+  {
+    "op": "replace",
+    "path": "/tout/apex/default/2",
+    "value": "Підходь сюди, клієнте."
+  },
+  {
+    "op": "replace",
+    "path": "/tout/apex/default/3",
+    "value": "Підходь! Купуй речі в ім'я Великого Мавпа!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/avian/default/0",
+    "value": "Приходь і торгуй! Хай береже тебе Клуекс!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/avian/default/1",
+    "value": "Можу я тобі щось продати? Я теж купую. Клуекс свідчить."
+  },
+  {
+    "op": "replace",
+    "path": "/tout/avian/default/2",
+    "value": "Якщо тобі потрібно щось купити, у мене чудовий вибір, благословенний Клуексом."
+  },
+  {
+    "op": "replace",
+    "path": "/tout/avian/default/3",
+    "value": "Гей, там. Потрібно щось купити чи продати?"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/floran/default/0",
+    "value": "Купуй речі! Пррросссдавай речі!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/floran/default/1",
+    "value": "Підходь, подивисссь на товари Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/tout/floran/default/2",
+    "value": "Магазин Флорана - найкращий! Підходь і купуй!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/floran/default/3",
+    "value": "Багато речей на продажжж!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/glitch/default/0",
+    "value": "*Спокуса.* Підходь, купуй!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/glitch/default/1",
+    "value": "*Захоплення.* Ти клієнт?"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/glitch/default/2",
+    "value": "*Привітність.* Підходь і подивись на мої товари!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/glitch/default/3",
+    "value": "*Гордість.* Підходь і купуй у цього відомого торговця!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/hylotl/default/0",
+    "value": "Мій магазин сяє товарами. Підходь і дивись, як це роблять Хайлотли."
+  },
+  {
+    "op": "replace",
+    "path": "/tout/hylotl/default/1",
+    "value": "Я був би дуже радий продати тобі те, що ти потребуєш."
+  },
+  {
+    "op": "replace",
+    "path": "/tout/hylotl/default/2",
+    "value": "Будь ласка, відчувай себе вільно, щоб оглянути мої товари. Хайлотли завжди раді гостям."
+  },
+  {
+    "op": "replace",
+    "path": "/tout/hylotl/default/3",
+    "value": "У мене в наявності багато товарів, впевнений, ти знайдеш щось, що тебе порадує."
+  },
+  {
+    "op": "replace",
+    "path": "/tout/novakid/default/0",
+    "value": "Йо, хочете якихось товарів, леґіні?"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/novakid/default/1",
+    "value": "Файно почуваєшся? І правильно, бо в мене є чудові товари, ґаздо!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/novakid/default/2",
+    "value": "У мене тут є кілька дуже файних товарів!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/novakid/default/3",
+    "value": "Якщо маєш кілька пікселів, щоб витратити, то я твій друг, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/0",
+    "value": "Щось у моєму місці змінилося, мені це не подобається!"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/human/default/0",
+    "value": "Ти щось вкрав з мого магазину?"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/human/default/1",
+    "value": "Розташування мого магазину змінилося, це не нормально..."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/human/default/2",
+    "value": "Як я можу продавати речі, коли мій магазин змінюють?"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/floran/default/0",
+    "value": "Пресстань красти речі..."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/floran/default/1",
+    "value": "Поверни магазин Флорана, як було."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/floran/default/2",
+    "value": "Магазин Флорана був чудовим. Зроби його знову таким!"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/glitch/default/0",
+    "value": "*Спантеличеність.* Мій магазин інший."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/glitch/default/1",
+    "value": "*Невдоволення.* Мені не подобаються зміни, які ти зробив, віднови мій магазин."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/glitch/default/2",
+    "value": "*Смуток.* Хотів би я, щоб мій магазин був таким, як раніше."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/avian/default/0",
+    "value": "Ем, мій магазин раніше був не таким... Клуекс не схвалює."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/avian/default/1",
+    "value": "Мені це не подобається, ти можеш повернути все як було?"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/avian/default/2",
+    "value": "Будь ласка, поклади мої речі туди, де вони були. Заради Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/apex/default/0",
+    "value": "Будь ласка, поклади мої речі назад."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/apex/default/1",
+    "value": "Припини брати речі... Тобі треба полагодити мій магазин. Міннаук стежить."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/apex/default/2",
+    "value": "Мені потрібно, щоб ти повернув речі туди, звідки їх взяв, будь ласка."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/hylotl/default/0",
+    "value": "Чому ти зруйнував мій магазин? Будь ласка, полагоди те, що ти зламав. Це негідно."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/hylotl/default/1",
+    "value": "Це мій магазин! Чому хтось бере з нього речі? Хайлотли не терплять такого."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/hylotl/default/2",
+    "value": "Це глибоко обурливо і абсолютно аморально так розбирати мій магазин."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/novakid/default/0",
+    "value": "Тут щось не так, йо..."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/novakid/default/1",
+    "value": "Ця стара крамниця зараз виглядає не файно. Ти тут щось намутив, леґіню."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/novakid/default/2",
+    "value": "Це не файно — так переробляти крамницю, ґаздо."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/0",
+    "value": "Моєму дому не завадив би ремонт!"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/human/default/0",
+    "value": "Ти можеш полагодити стіни? Пошкодження відлякує клієнтів."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/human/default/1",
+    "value": "Мені потрібно полагодити стіну, якщо я хочу, щоб тут купували. Ти можеш допомогти?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/human/default/2",
+    "value": "Мій магазин має бути в ідеальному стані! Ти можеш допомогти полагодити його?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/floran/default/0",
+    "value": "Будь лассска, полагоди стіни Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/floran/default/1",
+    "value": "Магазин Флорана зламаний. Ти можеш його полагодити?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/floran/default/2",
+    "value": "Флоран любить пікссселі, але не може діссстати пікссселі з такими стінами. Ти можеш полагодити стіни?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/glitch/default/0",
+    "value": "*Пригніченість.* Стіни пошкоджені і клієнтів поменшало. Ти не міг би полагодити магазин?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/glitch/default/1",
+    "value": "*Стурбованість.* Ці зламані стіни відлякують торгівлю, мені потрібно, щоб їх полагодили."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/glitch/default/2",
+    "value": "*Надія.* Ти можеш полагодити мій магазин? Тоді мої клієнти можуть повернутися."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/avian/default/0",
+    "value": "Важко торгувати в магазині без стін. Ти можеш полагодити пошкодження? Клуекс віддячить."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/avian/default/1",
+    "value": "Ти не проти полагодити мої стіни?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/avian/default/2",
+    "value": "Ця стіна сильно пошкоджена, я боюся, що втрачу клієнтів... Ти можеш її полагодити?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/apex/default/0",
+    "value": "У моєму магазині дірка... Міннаук це не сподобається."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/apex/default/1",
+    "value": "Мені потрібно, щоб ти полагодив мої стіни, поки дах не впав нам на голову."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/apex/default/2",
+    "value": "Будь ласка, полагоди ці стіни, магазин у такому стані мені не потрібен."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/hylotl/default/0",
+    "value": "Мій магазин відкритий для стихій, я не можу вести бізнес із пошкодженими стінами."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/hylotl/default/1",
+    "value": "Я був би неймовірно вдячний, якби ти міг полагодити мої стіни. Хайлотли цінують порядок."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/hylotl/default/2",
+    "value": "Зрозуміло, це пошкодження відлякує моїх клієнтів - Будь ласка, полагоди мої стіни."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/novakid/default/0",
+    "value": "Не тільки я відчуваю тут протяг, йо?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/novakid/default/1",
+    "value": "У цьому місці більше дірок, ніж у шерифа на перестрілці. Не файно."
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/novakid/default/2",
+    "value": "У мене не буде клієнтів у крамниці з дірками, ґаздо!"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/0",
+    "value": "Я думав, що це місце для мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/human/default/0",
+    "value": "Я думав, що це оренда для одного!? Я не можу ділити магазин!"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/human/default/1",
+    "value": "Ти намагаєшся когось сюди підселити?!"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/human/default/2",
+    "value": "Чому ти розмістив тут ще один акт?!"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/floran/default/0",
+    "value": "Флорану потрібен весссь цей простір, він не ділиться з якимосссь випадковим незнайомцем."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/floran/default/1",
+    "value": "Якщо ти підсселиш когось іншого, Флоран їх з'їсссть."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/floran/default/2",
+    "value": "Флоран не ділиться магазином! Зніми другий акт."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/glitch/default/0",
+    "value": "*Шок.* Ти намагаєшся переселити іншого торговця до мого магазину?"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/glitch/default/1",
+    "value": "*Спантеличеність.* Але це мій магазин, я не можу ним ділитися..."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/glitch/default/2",
+    "value": "*Смуток.* Я думав, що цей магазин виключно для мене."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/avian/default/0",
+    "value": "Чому хтось інший намагається переїхати до мого магазину? Клуекс не схвалює."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/avian/default/1",
+    "value": "Ти здав мій магазин в оренду? Це, мабуть, помилка..."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/avian/default/2",
+    "value": "У моєму магазині є ще один акт - Напевно, це не навмисно."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/apex/default/0",
+    "value": "Чому тут ще один акт? Що ти намагаєшся провернути? Це витівки Міннаук?"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/apex/default/1",
+    "value": "Це мій магазин. Я орендую його у тебе. Ти не можеш підселити когось іншого."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/apex/default/2",
+    "value": "Це не нормально. Я не буду ділитися своїм магазином."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/hylotl/default/0",
+    "value": "Я не бажаю ділитися своїм магазином з незнайомцем. Це не шлях Хайлотлів."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/hylotl/default/1",
+    "value": "Пасивний я чи ні, я не можу стояти осторонь, поки ви влаштовуєте другого торговця в моєму магазині."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/hylotl/default/2",
+    "value": "У моєму магазині ще один акт? Напевно, сталася помилка?"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/novakid/default/0",
+    "value": "Це моя крамниця, йо, немає сенсу переселяти сюди когось іншого."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/novakid/default/1",
+    "value": "Цей старий прихисток не для того, щоб ним ділитися. Краще зніми цей другий акт, леґіню."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/novakid/default/2",
+    "value": "Це моя крамниця, хай йому грець, я не буду ділитися нею ні з ким, файно?"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/0",
+    "value": "Я не можу продавати свої товари в таких умовах!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/human/default/0",
+    "value": "Я не можу продавати свої товари в таких умовах!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/human/default/1",
+    "value": "Це неприйнятні умови праці..."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/human/default/2",
+    "value": "Працювати так неможливо!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/floran/default/0",
+    "value": "Флоран не може так працювати!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/floran/default/1",
+    "value": "Флоран злий, полагоди магазин Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/floran/default/2",
+    "value": "Ти всссе ще не виправив ситуацію в магазині Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/glitch/default/0",
+    "value": "*Роздратування.* Тобі потрібно покращити ці умови, тут неможливо працювати."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/glitch/default/1",
+    "value": "*Розчарування.* Хотів би я, щоб до моїх прохань дослухалися."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/glitch/default/2",
+    "value": "*Нещастя.* Ремонт у моєму магазині так і не зроблено."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/avian/default/0",
+    "value": "Це зайшло надто далеко, мені потрібно, щоб ти все полагодив!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/avian/default/1",
+    "value": "Я не можу терпіти це набагато довше - подивись на стан мого магазину."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/avian/default/2",
+    "value": "Моє зазвичай стійке терпіння, благословенне Клуексом, починає вичерпуватися. Полагоди мій магазин."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/apex/default/0",
+    "value": "Подивись на це місце! Полагоди мій магазин, або я піду."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/apex/default/1",
+    "value": "Я не можу більше терпіти твою байдужість... Гірше, ніж Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/apex/default/2",
+    "value": "Нерозумно ігнорувати розлюченого Апекса. Раджу тобі полагодити мій магазин."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/hylotl/default/0",
+    "value": "Мої прохання залишаються без відповіді, мої благання падають на глухі вуха... Ганебно. "
+  },
+  {
+    "op": "replace",
+    "path": "/severe/hylotl/default/1",
+    "value": "Ці умови жалюгідні, а твоя поведінка гідна осуду."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/hylotl/default/2",
+    "value": "Це просто ганебно, я вимагаю, щоб ти полагодив мій магазин."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/novakid/default/0",
+    "value": "Мені здається, ти міг би полагодити цю халупу, перш ніж я піду, йо."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/novakid/default/1",
+    "value": "Ну хіба це місце не дуже розчаровує... Ти збираєшся його полагодити чи як, ґаздо?"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/novakid/default/2",
+    "value": "Моя крамниця вже не та, що була раніше. Тобі краще все виправити, леґіню."
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/0",
+    "value": "З мене досить!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/human/default/0",
+    "value": "З мене досить!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/human/default/1",
+    "value": "Все, я здаюся. Час перевести мій бізнес в інше місце!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/human/default/2",
+    "value": "Я здаюся, я буду продавати свої товари деінде!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/floran/default/0",
+    "value": "Осссь і всссе, Флоран йде!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/floran/default/1",
+    "value": "Флоран здаєтьссся! Флоран не може так працювати!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/floran/default/2",
+    "value": "Це непрофессійно, Флоран буде продавати на іншій планеті!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/glitch/default/0",
+    "value": "*Пригніченість.* Це вище моїх сил. Я йду."
+  },
+  {
+    "op": "replace",
+    "path": "/final/glitch/default/1",
+    "value": "*Обурення.* Я заслуговую на кращий магазин для ведення бізнесу!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/glitch/default/2",
+    "value": "*Смуток.* Я не хотів, щоб до цього дійшло, але я не можу тут залишатися більше."
+  },
+  {
+    "op": "replace",
+    "path": "/final/avian/default/0",
+    "value": "Такий торговець, як я, заслуговує на краще. Досить значить досить."
+  },
+  {
+    "op": "replace",
+    "path": "/final/avian/default/1",
+    "value": "Ось і все. Я йду. Мені час знайти кращий магазин."
+  },
+  {
+    "op": "replace",
+    "path": "/final/avian/default/2",
+    "value": "Я намагаюся з повагою ставитися до інших, шкода, що ти не робиш таких же зусиль."
+  },
+  {
+    "op": "replace",
+    "path": "/final/apex/default/0",
+    "value": "Я переїхав сюди заради кращого життя... Яке розчарування. Навіть під владою Міннаук було краще."
+  },
+  {
+    "op": "replace",
+    "path": "/final/apex/default/1",
+    "value": "Я заслуговую на кращі умови праці, ніж ці!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/apex/default/2",
+    "value": "Ось і все. Я маю піти. Ти жахливий орендодавець."
+  },
+  {
+    "op": "replace",
+    "path": "/final/hylotl/default/0",
+    "value": "Я більше не можу цього робити. Я йду."
+  },
+  {
+    "op": "replace",
+    "path": "/final/hylotl/default/1",
+    "value": "Я втратив усю повагу до тебе. Сподіваюся, одного разу ти побачиш хибність свого шляху."
+  },
+  {
+    "op": "replace",
+    "path": "/final/hylotl/default/2",
+    "value": "Це оточення згубне для мого єства. Я маю піти. Хайлотли не терплять такого."
+  },
+  {
+    "op": "replace",
+    "path": "/final/novakid/default/0",
+    "value": "Ця крамниця більш занедбана, ніж водопій Флуффало! Я йду з хвилини на хвилину, йо."
+  },
+  {
+    "op": "replace",
+    "path": "/final/novakid/default/1",
+    "value": "Я краще спатиму на кактусі, ніж працюватиму тут ще одну ніч, файно."
+  },
+  {
+    "op": "replace",
+    "path": "/final/novakid/default/2",
+    "value": "Йой! Тут такий безлад! Час мені тікати, леґіню."
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/0",
+    "value": "Я вдома!"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/human/default/0",
+    "value": "Ви кликали?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/human/default/1",
+    "value": "Вам потрібно щось купити?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/human/default/2",
+    "value": "Привіт! Хочете щось купити?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/floran/default/0",
+    "value": "Тобі потрібно, щоб Флоран продала тобі щосссь?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/floran/default/1",
+    "value": "Флоран потрібна тобі для чогосссь?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/floran/default/2",
+    "value": "Ти шшшукав Флоран?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/glitch/default/0",
+    "value": "*Радість.* Ось і я! Купуєш чи продаєш?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/glitch/default/1",
+    "value": "*Дружелюбність.* Що я можу зробити для тебе?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/glitch/default/2",
+    "value": "*Ввічливість.* Що б ти хотів придбати?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/avian/default/0",
+    "value": "Привіт, радий бачити. Сподіваєшся щось купити, з благословення Клуекса?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/avian/default/1",
+    "value": "Знову привіт! Чим можу допомогти, хай береже тебе Клуекс?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/avian/default/2",
+    "value": "Завжди радий бачити дружнє обличчя, дякувати Клуексу. Що вам запропонувати?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/apex/default/0",
+    "value": "Ти потребував мене, і я прийшов, що я можу зробити для тебе, заради Великого Мавпа?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/apex/default/1",
+    "value": "У чому справа, мій друже? Хочеш щось купити? Головне, щоб Міннаук не дізнався."
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/apex/default/2",
+    "value": "Може, ти купуєш, чи сподіваєшся продати в таємниці від Міннауку?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/hylotl/default/0",
+    "value": "Що б ви хотіли обговорити? Чи є щось, що ви шукаєте? Хайлотли завжди до ваших послуг."
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/hylotl/default/1",
+    "value": "Теплі вітання. Ви сподівалися поторгувати зі мною? Мій смак бездоганний, як у справжнього Хайлотла."
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/hylotl/default/2",
+    "value": "Що я можу вам запропонувати з моєї вишуканої колекції?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/novakid/default/0",
+    "value": "Що я можу для тебе зробити, ґаздо?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/novakid/default/1",
+    "value": "Тобі треба трохи поторгувати, йо?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/novakid/default/2",
+    "value": "Ти покликав, і я прибіг, файно. Треба щось купити?"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/0",
+    "value": "Ось подарунок за всю твою допомогу з моєю крамницею!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/human/default/0",
+    "value": "Я подумав, тобі це може сподобатися."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/human/default/1",
+    "value": "Ось подарунок за всю твою допомогу з моєю крамницею!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/human/default/2",
+    "value": "Я дійсно ціную все, що ти зробив, ось, тримай подарунок."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/floran/default/0",
+    "value": "Осссь подарунок для тебе від Флоран!"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/floran/default/1",
+    "value": "Флоран дісстала це для тебе, щоб ссказати дякую."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/floran/default/2",
+    "value": "Флоран любить крамницю, Флоран ссказати дякую подарунком."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/glitch/default/0",
+    "value": "*Дружелюбність.* Візьми це, за твоє постійне заступництво."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/glitch/default/1",
+    "value": "*Вдячність.* Будь ласка, прийми цей подарунок як подяку за допомогу з моєю крамницею."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/glitch/default/2",
+    "value": "*Оптимізм.* Все йде дуже добре! Ось подарунок, щоб сказати дякую."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/avian/default/0",
+    "value": "Цей подарунок — подяка за всю твою допомогу, нехай Клуекс береже тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/avian/default/1",
+    "value": "Я купив для тебе подарунок, щоб подякувати, сподіваюся, він тобі сподобається. Хвала Клуексу."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/avian/default/2",
+    "value": "Сподіваюся, тобі сподобається подарунок! Клуекс з тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/apex/default/0",
+    "value": "Цей подарунок для тебе, на знак подяки. Нехай Великий Мавп захистить нас."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/apex/default/1",
+    "value": "Справи йдуть добре. Це твій подарунок-подяка. Смерть Міннауку."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/apex/default/2",
+    "value": "Мій бізнес процвітає! Будь ласка, прийми цей подарунок з моєю вдячністю, слава Великому Мавпу."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/hylotl/default/0",
+    "value": "Будь ласка, прийміть цей подарунок як знак моєї подяки. Хайлотли не забувають добра."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/hylotl/default/1",
+    "value": "Будь ласка, прийміть цей витончений подарунок з моєю вдячністю."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/hylotl/default/2",
+    "value": "Сподіваюся, цей скромний подарунок передає мою вдячність за вашу допомогу, притаманну Хайлотлам."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/novakid/default/0",
+    "value": "Ось невеличка дрібничка за твої клопоти. Файно дякую."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/novakid/default/1",
+    "value": "Це дуже файна крамниця, яку ти допоміг мені облаштувати. Мушу тобі подякувати, йо."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/novakid/default/2",
+    "value": "Дякую, що допоміг мені вижити. Ти на це заслужив, леґіню."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/novakid/default/3",
+    "value": "Не знаю, як тобі файно подякувати, але поки що візьми це."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/novakid/default/4",
+    "value": "Це для тебе, роби з цим що забажаєш, ґаздо."
+  }
+]

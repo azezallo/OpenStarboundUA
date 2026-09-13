@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A globule of flesh."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "A globule of flesh."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Flesssh!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Відштовхування. Куля м'яса."
+  }
+]

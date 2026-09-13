@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює частину планети на скупчення очних яблук без повік."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Очний мікроформер"
+  }
+]

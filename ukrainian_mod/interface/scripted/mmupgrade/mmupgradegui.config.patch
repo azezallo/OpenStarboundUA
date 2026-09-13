@@ -1,0 +1,107 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "  Покращення Маніпулятора Матерії"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "  ^#b9b5b2;Маніпулюйте тим, що важливо, на вашому маніпуляторі матерії!"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblGroup1/value",
+    "value": "^green;БЛОК ОБРОБКИ МАТЕРІЇ^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblGroup2/value",
+    "value": "^green;СЛОТ РОЗШИРЕННЯ^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblGroup3/value",
+    "value": "^green;ГЕНЕРАТОР ЕНЕРГІЇ^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblGroup4/value",
+    "value": "^green;ОПТИКА^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblUpgradeDescription/value",
+    "value": "У вас ще немає Маніпулятора Матерії."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblModuleLabel/value",
+    "value": "^green;МОДУЛІ МАНІПУЛЯТОРА^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/defaultDescription",
+    "value": "Виберіть покращення, щоб побачити його вартість та переваги"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/power1/description",
+    "value": "Збільшує швидкість деконструкції матерії на 100%"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/power2/description",
+    "value": "Збільшує швидкість деконструкції матерії на 200%"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/power3/description",
+    "value": "Збільшити швидкість розщеплення матерії на 300%"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/size1/description",
+    "value": "Збільшити площу ефекту до 3x3 блоків"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/size2/description",
+    "value": "Збільшити площу ефекту до 4x4 блоків"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/size3/description",
+    "value": "Збільшити площу ефекту до 5x5 блоків"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/range1/description",
+    "value": "Збільшити дальність маніпулятора на 2 блоки"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/range2/description",
+    "value": "Збільшити дальність маніпулятора на 4 блоки"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/range3/description",
+    "value": "Збільшити дальність маніпулятора на 6 блоків"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/liquidcollection/description",
+    "value": "Дозволити збір рідин за допомогою Режиму копання"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/paintmode/description",
+    "value": "Увімкнути Режим фарбування для розфарбовування блоків у різні кольори"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/wiremode/description",
+    "value": "Увімкнути Режим проводки для з'єднання функціональних об'єктів"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Детальна модель планети Земля сонячної системи, рідного світу людства."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Модель Землі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Земля, дім Терренського Земного Захисту, і я на деякий час."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Земля, мій другий дім. Я іноді забуваю, що його немає..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssad згадати час, проведений на Землі. Флоран сумує."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Ностальгічний. Я насолоджувався своїм часом на Землі в академії."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дім... Мені страшно уявити, що від нього зараз залишилося."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "земля. Така маленька планета, але діра, яку я зараз відчуваю в своєму серці, неосяжна."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "земля. Я скидаю капелюха перед тобою."
+  }
+]

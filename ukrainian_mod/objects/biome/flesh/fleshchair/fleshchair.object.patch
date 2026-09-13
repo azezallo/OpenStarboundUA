@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "М'ясистий стілець. Приблизно так грубо, як це звучить."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Флеш Стілець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "у мене немає слів"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Яке мерзенне сидіння."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не впевнений, чи йому слід сісти чи вбити."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вагається. Сидіти тут було б неприємно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чому я так хочу спробувати це?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вульгарний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не хочу до нього торкатися, не кажучи вже про те, щоб сидіти на ньому."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий металевий гонг. Так хочеться дати йому присмак!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великий гонг"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Удар по цьому гонгу створює глибокий звук."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці гонги використовуються в храмах для заклику Авіана до молитви."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не любить birdman noisse."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Цей тон від цього гонгу лунає голосно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Так важко встояти перед бажанням вдарити в цей гонг."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я думаю, що гонг під океаном звучав би зовсім інакше."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Б'юся об заклад, що це видає досить звук."
+  }
+]

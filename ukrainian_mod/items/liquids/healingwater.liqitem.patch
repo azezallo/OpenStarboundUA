@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Цілюща вода"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мірка прохолодної, чистої, цілющої води. Його вживання відновить організм."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пом’ятий, заплямований аркуш паперу з написаними жахливими жартами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сценарій комедії"
+  }
+]

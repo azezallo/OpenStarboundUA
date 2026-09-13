@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Механічна гармата, яка випускає швидкі промені сонячної енергії."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Механічна рука Beam Sniper"
+  }
+]

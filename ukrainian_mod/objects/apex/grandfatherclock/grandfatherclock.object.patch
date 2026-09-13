@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Я не знав, що годинник здатний відтворювати."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Годинник Дід"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Усі годинники Apex налаштовуються автоматично через радіо."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пташиний час заснований на читанні напрямку тіні."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран все ще орієнтується на захід і світанок сонця, щоб визначити час."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Цей відрізок часу має точність до 1 мілісекунди."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Звук, який видає цей годинник, може бути як зловісним, так і заспокійливим."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Звук метронома ідеально підходить для медитації."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тік, так, так, так. Не можна ігнорувати звук годинника."
+  }
+]

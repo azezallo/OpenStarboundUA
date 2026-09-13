@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гостре, дещо слизьке рагу з окулемону та шматків м’яса."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Окулемон рагу"
+  }
+]

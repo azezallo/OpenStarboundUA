@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Я не можу довго стояти на цій кам'яній платформі!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Temple Pressure Platform"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Якась чутлива до тиску платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Що станеться, якщо я встану на це?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Тут є смішна платформа. Чи повинен Флоран стояти далі?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Я думаю, що ця платформа була створена кимось з певною метою."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гігантська чутлива до тиску платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Що це активує?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я б не хотів наступати на це, не знаючи спочатку, що це робить."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вороги розбиватимуться об вас, як хвилі, що розбиваються."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Щит черепашки"
+  }
+]

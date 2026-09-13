@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Trianglium Ore. Красиві гладкі блискучі трикутники."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Трикутна руда"
+  }
+]

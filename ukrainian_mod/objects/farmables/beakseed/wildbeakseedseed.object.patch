@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Росте хрустке дзьобове насіння. Ніздрі - найкраща частина."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння дзьоба"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Насіння дзьоба надзвичайно хрустке і не зовсім приємне."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Є стара народна казка про те, як птахи їдять дзьобове насіння на бенкеті... Мені це подобається."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Хрустке зерно дзьоба, а не ссссс, як інші ротсссс."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Філософський. Чи дзьоба схожа на дзьоб, чи дзьоби схожі на дзьоби?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Обрізка виглядає як пташина морда. Це трохи бентежить."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дзьобове насіння напрочуд смачне. Можна лише припустити, що дзьоби далеко не такі смачні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я б не хотів помилково з’їсти справжній дзьоб."
+  }
+]

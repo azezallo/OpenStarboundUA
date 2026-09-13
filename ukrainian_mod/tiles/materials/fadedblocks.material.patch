@@ -1,0 +1,27 @@
+[
+  {
+    "value": "М'яка блякла цегла.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "М'яка цегла",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Дедукція. Ці бляклі цеглини з часом стали гладенькими.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "М'яка блякла цегла.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Файні гладенькі цеглини.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

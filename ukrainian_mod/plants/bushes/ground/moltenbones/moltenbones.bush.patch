@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вугільні кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вугільні кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Обпалені кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Вугільні кістки."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "«Ідеальний зразок фрагмента керна»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зразок основного фрагмента"
+  }
+]

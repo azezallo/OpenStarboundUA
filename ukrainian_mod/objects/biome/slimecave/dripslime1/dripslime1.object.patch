@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "З цього місця капає слиз."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капає слиз"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Звідки цей слиз?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я б краще не мав слизу на своєму пір’ї."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не фанат ssslime."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огидно. Здається, капає слиз."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Краще не ходити під цей слиз."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Постійне стікання слизу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Здається, слиз потрапляє скрізь, якщо ви це дозволите."
+  }
+]

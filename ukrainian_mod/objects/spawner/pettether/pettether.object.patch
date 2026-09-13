@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "У цей пристрій можна помістити капсулу для захоплення істот, яка прив’яже тварину в його радіусі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Pet Tether"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Зловлену істоту можна прив’язати до цього місця."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Зручний стовп, до якого можна прив’язати домашнього улюбленця."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Creatures приєднано до публікації ssstay тут."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Зловлена ​​істота, поміщена в цей пристрій, залишатиметься поруч."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Прив'язка для спійманої істоти."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Помістивши в цей пристрій, спіймана істота не відійде далеко."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Зручний прив’язний стовп, щоб не дати спійманим істотам блукати."
+  }
+]

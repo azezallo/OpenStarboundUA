@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створіть зелений вітрильний човен із збережених нанітів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Контролер зеленого човна"
+  }
+]

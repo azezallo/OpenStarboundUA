@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцні, облягаючі штани зі спандексу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вузькі штани Deadbeat"
+  }
+]

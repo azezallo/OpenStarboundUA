@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нафтопереробний завод використовується для виробництва необроблених пікселів із руд."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Refinery^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "Перетворіть руди на пікселі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я можу покласти сюди руду, щоб зробити пікселі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Виготовлення пікселів з руди. корисно"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Машина sssmash скелі, заробляти гроші."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Тут можна конвертувати руду в пікселі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Він друкує гроші! на кшталт..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Складний пристрій для перетворення руди на пікселі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Піксельна машина. Я завжди хотів одну з них!"
+  }
+]

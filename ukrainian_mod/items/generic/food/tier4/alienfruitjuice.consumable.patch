@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Приємно солодкий сік з чужорідного фрукта."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Інопланетний фруктовий сік"
+  }
+]

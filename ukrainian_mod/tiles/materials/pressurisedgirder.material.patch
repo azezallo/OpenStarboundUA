@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Ця опора спроектована, щоб витримувати перепади тиску.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Герметична опора",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Обізнано. Ця опора розроблена спеціально для роботи в середовищі з підвищеним тиском.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Міцна блиссскуча металева опора.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Жорстка стара металева опора.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

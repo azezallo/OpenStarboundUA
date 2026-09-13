@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Флоранський спис, встановлений на декоративній табличці."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Спис на табличці"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Декоративний спис, прикріплений до таблички."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Міцна зброя на виставці."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран пишається своєю мисливською зброєю."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Глітч часто демонструє зброю на стінах, але цей спис флоранського походження."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Спис. Мабуть, це важливо, щоб відображатися таким чином."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "І знову флорани з гордістю демонструють своє варварство."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ну, цей спис не принесе користі, якщо так повісити."
+  }
+]

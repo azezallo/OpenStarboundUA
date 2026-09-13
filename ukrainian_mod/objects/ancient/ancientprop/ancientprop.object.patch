@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тимчасовий реквізит."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "TODO - Стародавня проп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тимчасовий реквізит."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тимчасовий реквізит."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Тимчасовий реквізит."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Тимчасовий реквізит."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Тимчасовий реквізит."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Тимчасовий реквізит."
+  }
+]

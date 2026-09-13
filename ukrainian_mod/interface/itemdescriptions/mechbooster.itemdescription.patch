@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/speedStatLabel/value",
+    "value": "Швидк. польоту"
+  },
+  {
+    "op": "replace",
+    "path": "/controlStatLabel/value",
+    "value": "Маневреність"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Dry, brittle grass."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Dry grass."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Мертва трава."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. Dry grass."
+  }
+]

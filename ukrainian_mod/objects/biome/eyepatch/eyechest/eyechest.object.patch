@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скриня, запечатана пронизливим оком. Варто заглянути всередину."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Око грудей"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця скриня майже змушує вас зазирнути всередину."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Можливо, око покликане бути певним стримуючим фактором для злодіїв. Це майже працює на мене."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран б'є ногою в око, потім відкриває. Sssteal."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Око насправді є дуже складним замком. На щастя, він зламався."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ніби око дивиться, як я краду. Вибач, друже."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Грубий метод відлякування злодіїв. Треба бути дуже забобонним, щоб не зазирнути всередину."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якщо я ткну його в око, може, воно відкриється."
+  }
+]

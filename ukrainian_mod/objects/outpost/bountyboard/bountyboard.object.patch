@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дошка оголошень, де розміщені винагороди за відомих злочинців!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дошка винагород"
+  }
+]

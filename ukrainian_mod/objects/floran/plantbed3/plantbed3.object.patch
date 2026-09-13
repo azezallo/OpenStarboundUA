@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Базове ліжко на дерев'яному каркасі на колесах."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліжко на колесах"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дерев'яне тюремне ліжко на колесах."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це тюремне ліжко має колеса, щоб його пересувати."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоранські в'язні не мають шикарних ліжок."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підозрілий. Я не впевнений, чи цей каркас ліжка витримає мою вагу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дерев'яний каркас ліжка, обсаджений деякими рослинами.  Це не виглядає зручно"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це ліжко виглядає дуже незручно, до того ж без покривала."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я думаю, це ліжко зробить свою справу в крайньому випадку."
+  }
+]

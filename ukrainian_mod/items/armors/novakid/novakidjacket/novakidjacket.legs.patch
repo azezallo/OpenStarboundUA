@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зберігайте прохолоду та комфорт, коли ви піднімаєтеся на всі ці круті гори."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Обрізки Rustler"
+  }
+]

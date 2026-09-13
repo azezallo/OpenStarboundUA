@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сире щупальце. Може бути їстівнішим, якщо його приготувати..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сире щупальце"
+  }
+]

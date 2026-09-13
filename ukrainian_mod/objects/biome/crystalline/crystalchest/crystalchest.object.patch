@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кришталева скриня. Можливо, сама скриня і є скарб?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кришталева скриня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Приголомшлива кришталева скриня. Одне це вже гідна знахідка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Все, що знаходиться в цій скрині, безсумнівно, має бути вражаючим."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Кришталева скриня важка і холодна, як холодильник."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Сентиментальний. Ця скриня колись використовувалася для зберігання великих секретів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Б’юсь об заклад, що в цій скрині завжди були найкращі багатства."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Красива скриня. Він виблискує, як океан."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця скриня настільки холодна, що вона підійде для зберігання швидкопсувних товарів."
+  }
+]

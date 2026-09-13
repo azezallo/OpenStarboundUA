@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Люблю запах напалму в будь-який час доби."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вогнемет"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Вогнемет ^yellow;^reset;"
+  }
+]

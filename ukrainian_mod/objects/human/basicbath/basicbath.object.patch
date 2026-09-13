@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Базова ванна"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мила маленька ванна. Виглядає досить маленьким для Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ванна з душем. Як вода зі спини птаха."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Велике відро для плавання."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Самовдоволений. Глюк не потрібно приймати ванни."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Приємна гаряча ванна. Саме те, що лікар призначив. Не вистачає лише бульбашок і свічок."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Корито, в якому миються люди. Ми, Hylotl, просто йдемо купатися."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Час від часу я люблю гарячу ванну."
+  }
+]

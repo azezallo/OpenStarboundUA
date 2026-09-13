@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/close/caption",
+    "value": "Назад"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/voiceVolumeLabel/value",
+    "value": "Гучн. інших"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/inputVolumeLabel/value",
+    "value": "Ваша гучн."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/voiceModeLabel/value",
+    "value": "Режим голосу"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/thresholdLevel/value",
+    "value": "Чутливість"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/devices/children/list/schema/listTemplate/button/caption",
+    "value": "Без назви"
+  }
+]

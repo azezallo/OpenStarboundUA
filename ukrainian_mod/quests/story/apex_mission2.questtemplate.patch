@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Здобути артефакт апексів",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Боюся, ^orange;артефакт апексів^reset; утримується в ^orange;цитаделі Міннаук^reset;. Туди може бути важко потрапити, любе. Будь ласка, ^green;будь там обережним^reset;, Міннаук можуть бути жорстокими.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Я так рада, що наша група росте; що ми збираємо союзників разом з артефактами. Це майже як створення нового Земного Захисту...",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Я отримала координати ^orange;цитаделі Міннаук^reset;. ^green;Використай комп'ютер корабля^reset;, щоб отримати доступ до локації.",
+    "path": "/scriptConfig/missionRadioMessage/text",
+    "op": "replace"
+  },
+  {
+    "value": "Знайди ^orange;артефакт^reset; в ^orange;цитаделі Міннаук^reset;",
+    "path": "/scriptConfig/descriptions/artifact",
+    "op": "replace"
+  },
+  {
+    "value": "Повернися до ^orange;Естер^reset; на ^orange;Ковчег^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

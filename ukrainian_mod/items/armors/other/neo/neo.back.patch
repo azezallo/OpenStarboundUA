@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стильне доповнення до будь-якого вбрання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нео диск"
+  }
+]

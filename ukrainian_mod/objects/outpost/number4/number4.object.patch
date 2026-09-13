@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чотири маркера."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "чотири"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "чотири."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "чотири."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "чотири."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. чотири."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "чотири."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "чотири."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Четвірка."
+  }
+]

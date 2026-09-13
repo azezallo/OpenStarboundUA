@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Золотий свічник із трьома зубцями. Здається, що віск ніколи не тане."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичний свічник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Основа здається чистим золотом, але полум'я електронне."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Віск не плавиться і полум'я не горить."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран боїться вогню. Але цей вогонь не горить."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Світловідбиваюча. Якщо полум’я – це просто мерехтливі лампочки, чи робить це свічку менш справжньою?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я думаю, що свічки - це просто мерехтливі лампочки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Поєднання технології та майстерності."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це дивовижна свічка, але полум’я навіть не справжнє."
+  }
+]

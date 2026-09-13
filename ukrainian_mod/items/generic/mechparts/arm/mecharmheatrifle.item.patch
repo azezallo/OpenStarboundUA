@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дешева механічна рука, яка стріляє патронами з перегрітого свинцю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Heatrifle Mech Arm"
+  }
+]

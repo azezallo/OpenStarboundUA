@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блакитний стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Синє крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Синє крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нецікаво. Мені не треба сидіти..."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Просте крісло бірюзового кольору."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це стілець."
+  }
+]

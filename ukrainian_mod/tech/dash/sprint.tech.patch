@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Замінює ривок на спринт, який вимагає енергії!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "value": "спринт"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей гарний жучок любить сонячне світло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сонячний стрибун"
+  }
+]

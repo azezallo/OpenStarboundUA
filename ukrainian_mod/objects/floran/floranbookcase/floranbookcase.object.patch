@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Книжкова шафа з останків жертви Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивна книжкова шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чи є щось, що Флоран не прикрашає кістками?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не можу уявити, щоб Флоран написав книгу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не читає книжок. Тільки Greenfinger використовує книжкову шафу."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Цю книжкову шафу давно ніхто не чіпав."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Floran, здається, не дуже читач."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Floran, здається, містить смерть у кожному предметі, навіть у цій книжковій шафі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я ніколи не любив Флорана як великого читача. Я здивований, що їм потрібна книжкова шафа."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Поширена лазерна зброя чорного ринку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нео пістолет"
+  }
+]

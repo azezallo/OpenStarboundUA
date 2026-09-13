@@ -1,0 +1,172 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "value": "Хвалькувато. Гільдія Веселкових Розбишак з легкістю захистить тебе від шкоди!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/1",
+    "value": "Хоробро. Я, сертифікований Веселковий Розбишака, буду патрулювати в пошуках порушників!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/2",
+    "value": "Дружньо. Може, я й Веселковий Розбишака, але це не означає, що ми не можемо поговорити!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/3",
+    "value": "Зухвало. З витонченістю Єдинорога я буду захищати своїх союзників!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/4",
+    "value": "Доблесно. Гільдія Веселкових Розбишак захистить невинних від зла!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/0",
+    "value": "Сердито. Інші Веселкові Розбишаки дізнаються про цю ганьбу!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/1",
+    "value": "Розчаровано. Хтось на кшталт мене не заслуговує на такі умови."
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/0",
+    "value": "Відчайдушно. Я мушу йти - інші Веселкові Розбишаки дізнаються про це!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/1",
+    "value": "Засмучено. Я думав, що зможу застосувати тут свої навички, але мене не цінують."
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/0",
+    "value": "Привітно. Яка тобі потреба у Веселковому Розбишаці, як я?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/1",
+    "value": "Дружньо. Тобі потрібен мій розбишацький досвід?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/2",
+    "value": "Спостережливо. Мені потрібно переконатися, що це не пастка."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/0",
+    "value": "Вдячно. Ось подарунок, від Гільдії Веселкових Розбишак."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/1",
+    "value": "Вдячно. Гільдія Веселкових Розбишак дякує тобі за те, що ти надав мені дім!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "value": "Хоробро. Ти повернувся, щоб зазнати поразки, ворогу!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/1",
+    "value": "Безстрашно. Ніхто не може перемогти Веселкового Розбишаку в дуелі!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Нерозважливо. Це не займе багато часу!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/1",
+    "value": "Галантно. Спектр справедливості завдає удару!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/2",
+    "value": "Люто. Нехай почнеться битва! Спектр справедливості завдає удару!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/3",
+    "value": "Вороже. Який дурень наважується конфліктувати з Веселковим Розбишакою?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/4",
+    "value": "Хоробро. Час показати силу Веселкових Розбишак!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/5",
+    "value": "Натхненно. На сцену! Нехай почнеться битва!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "value": "Переможно. Ще одна перемога для Веселкових Розбишак!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/1",
+    "value": "Задоволено. Спектр справедливості знову переміг!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/2",
+    "value": "Щасливо. Я повідомлю про цю перемогу своїм товаришам, Веселковим Розбишакам!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "value": "Розчаровано. Гадаю, ворог втік."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/1",
+    "value": "Здивовано. Я думав, наш ворог готовий до битви?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/0",
+    "value": "Здивовано. Ворог уникнув мого веселкового погляду!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/1",
+    "value": "Спантеличено. Куди вони поділися?"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/0",
+    "value": "Розчаровано. Якби ж я взяв із собою Веселковий Арбалет!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/1",
+    "value": "Розчаровано. Підійди ближче, щоб я міг вдарити тебе своїм Веселковим мечем!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/0",
+    "value": "Підтримуюче. Переможи сили, що загрожують нам!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/1",
+    "value": "Підтримуюче. Змусь нашого ворога відчути правосуддя!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/2",
+    "value": "Підтримуюче. Обруш спектр поразки на нашого ворога!"
+  }
+]

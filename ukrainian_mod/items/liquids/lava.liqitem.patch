@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лава"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міра кипіння, палючої лави."
+  }
+]

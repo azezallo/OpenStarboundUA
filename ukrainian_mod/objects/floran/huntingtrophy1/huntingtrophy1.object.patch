@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Голова, закріплена на круглій табличці. Його очі слідкують за вами..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Круглий встановлений череп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Навісна головка. Страшно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Голова, ймовірно, взята від якогось старого вбивства."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить демонструвати здобич з полювання."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огидно. Ця голова виставлена ​​як прикраса."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дивлячись на цю річ, у мене просто аж моторошно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такий мерзенний парад вбивств."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені б не хотілося закінчити, як цей хлопець."
+  }
+]

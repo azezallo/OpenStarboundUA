@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "За іронією долі, дивлячись на це декоративне сонце, мороз проходить по спині."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Декоративне сонце"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Емблема сонця. Це виглядає значно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Птахи вірять, що сонце є дверима в ефір."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Birdman горить!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Пташині вірування не більш смішні, ніж вірування Глітча."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чи має сонце особливе значення для птаха?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ви можете собі уявити, що ніколи не побачите схід сонця?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це сонце з пташиним обличчям. Що це означає?"
+  }
+]

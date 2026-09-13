@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей блакитний жучок має гострі маленькі зуби."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Блюбек"
+  }
+]

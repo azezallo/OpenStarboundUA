@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "М’який, чарівний єдиноріг. Що не любити?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плюшевий єдиноріг"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Єдиноріг, га? Це досить мило."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця істота виглядає могутньо. Це чарівність оманлива."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Істота має ріг на голові для ssstabbing."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Ностальгічний. Єдиноріг старих легенд."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це єдиноріг! Як мило."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Прекрасна міфічна істота. Однак цей плюш просто чарівний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Милий іграшковий єдиноріг. Зовсім не схожий на справжній!"
+  }
+]

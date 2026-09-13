@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Не забудьте мити руки!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Раковина для ванної кімнати"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Бездоганна раковина. Міннаук не терпить неохайності в оселях."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Диспенсер для води... можливо, фонтанчик?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Солодка живильна вода."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "уважний. Чистота води 13%. Схоже, вода містить синтетичний елемент."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я повинен час від часу мити руки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця вода не придатна для купання."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Пити з нього здається безпечним."
+  }
+]

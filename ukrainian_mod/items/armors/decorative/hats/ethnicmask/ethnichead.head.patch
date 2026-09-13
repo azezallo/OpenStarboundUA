@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика маска передчуття."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Племінна маска"
+  }
+]

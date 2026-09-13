@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ціла піца! Ти збираєшся все це їсти?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "піца"
+  }
+]

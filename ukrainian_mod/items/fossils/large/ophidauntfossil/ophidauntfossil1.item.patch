@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий череп Змієносця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Череп Змієносця;"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Змієносна копалина"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Цей далекий предок Снаунта полює в океанах, а не на суші."
+  }
+]

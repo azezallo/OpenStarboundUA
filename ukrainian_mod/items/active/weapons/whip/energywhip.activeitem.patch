@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Батіг із чистої енергії. Отримати тріщини!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Енергетичний батіг Лукаїна"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "У цьому буханці хліба прямо в ньому запечені гриби. смак!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Грибний хліб"
+  }
+]

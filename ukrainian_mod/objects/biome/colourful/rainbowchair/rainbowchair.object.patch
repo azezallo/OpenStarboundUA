@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чудове барвисте крісло веселки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стілець Rainbow"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це крісло надзвичайно піднімає настрій."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Вражаюче барвисте крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить гарне крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Емоційний. Це крісло наповнює мене радістю життя."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Яке чудове крісло!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Меблі, які приносять таку радість, справді варті зусиль, витрачених на виготовлення."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якщо я сяду на цей стілець, я зміню колір?"
+  }
+]

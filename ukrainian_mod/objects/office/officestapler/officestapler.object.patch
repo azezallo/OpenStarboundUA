@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Яскраво-червоний степлер."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Офісний степлер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Яскравий червоний, мені подобається ця річ."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Колір цього степлера дозволяє його легко визначити."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану подобається червоний степлер."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Цей червоний степлер є ідеально розробленим інструментом."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей степлер у відмінному стані, видно, що за ним добре доглядали."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Таке відчуття, що цей степлер був комусь важливий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей степлер саме того розміру, щоб поміститися у вашу руку."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це порожня одиниця зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Порожня одиниця зберігання"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Великий блок зберігання. Він порожній."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це порожня одиниця зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Великі полиці."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нецікаво. Блок зберігання. Зараз ні для чого не використовується."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Склад промислового вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Порожній блок зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це нудна одиниця зберігання. Він порожній."
+  }
+]

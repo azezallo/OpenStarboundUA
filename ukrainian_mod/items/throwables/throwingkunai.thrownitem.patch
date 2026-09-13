@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Метання кунаї"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Спеціалізований метальний ніж з важким лезом."
+  }
+]

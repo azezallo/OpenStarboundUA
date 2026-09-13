@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гаряча на дотик, її оболонка мерехтить, як полум'я."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Flameroach"
+  }
+]

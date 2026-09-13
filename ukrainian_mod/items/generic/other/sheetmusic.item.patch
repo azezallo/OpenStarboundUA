@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нотний твір. Цікаво, що це за мелодія."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ноти"
+  }
+]

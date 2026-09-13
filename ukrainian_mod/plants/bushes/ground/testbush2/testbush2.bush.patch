@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Почорнілий кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Почорнілий кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssshrub."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Почорнілий кущ."
+  }
+]

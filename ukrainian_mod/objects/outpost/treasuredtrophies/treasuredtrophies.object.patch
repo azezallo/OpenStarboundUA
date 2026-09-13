@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Є щось рідкісне? У нас щось рідше."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Цінні трофеї"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тут я можу обміняти рідкісні речі на більш рідкісні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Місце для обміну рідкісних предметів на унікальні предмети."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей торговець хоче отримати рідкісні речі в обмін на свої товари."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Магазин, який торгує об’єктами, а не пікселями?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Тут я можу отримати легендарні речі! Але тільки якщо я сам зможу торгувати деякими досить рідкісними речами."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я можу обміняти деякі зі своїх рідкісних предметів на товари в цьому кошику."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я б проміняв свої черевики на щось із цього! Але цей торговець не шукає чобіт..."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Цінні трофеї"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Здайте рідкісні предмети, щоб отримати щедрі винагороди!"
+  }
+]

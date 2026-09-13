@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Свіжа, чиста вода. Заспокійливий і омолоджуючий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вода в пляшках"
+  }
+]

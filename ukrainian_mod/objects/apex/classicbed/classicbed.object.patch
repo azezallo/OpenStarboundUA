@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарне ліжко з дорогого дерева та шовку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичне ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Міннаук так спить?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не бачив нічого більш зручного, відколи покинув гніздо."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Шовкова м'якість."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Комфортно. Це ліжко робить чудові речі з моїми датчиками."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ого, яке ліжко. Мені хочеться зараз заснути."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Таке вишукане, але не зрівнятися з майстерністю Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Кому знадобиться ліжко з усім цим пухом і оборками? Хоча виглядає дуже зручно."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стара панель введення. Один із ключів відпав."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зруйнована панель"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця панель введення не працює."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це панель введення, але вона повністю мертва."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ця панель дуже зламана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Роздратований. Ця панель введення повністю мертва."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Зламана і брудна вхідна панель. Я не думаю, що це спрацює."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця панель вводу не збережена."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Зараз ця стара штука більш ніж марна."
+  }
+]

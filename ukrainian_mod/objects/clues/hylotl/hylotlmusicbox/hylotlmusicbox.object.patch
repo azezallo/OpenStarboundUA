@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вигадлива музична скринька ручної роботи. Мелодія, яку він грає, заспокійлива."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прикрашена музична скринька"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Музична скринька ручної роботи, про неї добре доглядали."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Схоже, ця музична скринька була для когось особливою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гарна блискуча дерев'яна коробка створює музику."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "в захваті. Ця коробка була розроблена для відтворення простої пісні."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "У цій маленькій музичній скриньці є щось дуже спокійне."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Простий і красивий - це втілення в собі всіх цінностей Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця маленька дерев'яна скринька грає могутню гарну мелодію."
+  }
+]

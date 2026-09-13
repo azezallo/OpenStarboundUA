@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дьоготь, виліплений у скриню."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Tarpit Chest"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чи липка скриня відлякує злодіїв?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Краще, що б там не було всередині, варто було б заплатити за дотик до цієї скрині."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Важко відкрити липку скриню, скарби всередині краще варті цього."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Який би скарб не був у скрині зі смолою, ймовірно, він також буде липким."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Клейка скриня, я ціную додаткові переваги безпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Як і в природі, липкість цієї скрині є її власним механізмом самооборони."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Липкий вигляд грудей. Сподіваюсь, що скарби не застрягли на дні."
+  }
+]

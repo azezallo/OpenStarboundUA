@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Фартух для захисту ніг від розливу масла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фартух кухаря"
+  }
+]

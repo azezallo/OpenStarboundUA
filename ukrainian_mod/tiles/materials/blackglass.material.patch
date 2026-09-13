@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Панель із темного скла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чорне скло"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Це скло настільки темно забарвлене, що майже не прозоре."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран може сховатися за темним склом."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Скло таке темне, що сонце ледве просвічує."
+  }
+]

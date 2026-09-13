@@ -1,0 +1,2567 @@
+[
+  {
+    "value": "до тестової локації",
+    "path": "/test/name",
+    "op": "replace"
+  },
+  {
+    "value": "до склепінчастого мосту",
+    "path": "/garden/archway/name",
+    "op": "replace"
+  },
+  {
+    "value": "до зруйнованої вежі",
+    "path": "/garden/archway1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до зруйнованої вежі",
+    "path": "/garden/archway2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до мосту",
+    "path": "/garden/gardenbridge1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до мосту",
+    "path": "/garden/gardenbridge2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до руїн будинку",
+    "path": "/garden/gardenhouseruin1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до самотньої могили",
+    "path": "/garden/grave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до самотньої могили",
+    "path": "/garden/grave2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до цвинтаря",
+    "path": "/garden/graveyard/name",
+    "op": "replace"
+  },
+  {
+    "value": "до цвинтаря",
+    "path": "/garden/graveyardflowers/name",
+    "op": "replace"
+  },
+  {
+    "value": "до табору в печері",
+    "path": "/garden/littlecave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до підземних руїн",
+    "path": "/garden/mediumburiedruin/name",
+    "op": "replace"
+  },
+  {
+    "value": "до зруйнованої стіни",
+    "path": "/garden/mediumgardenruin1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до табору в будівлі",
+    "path": "/garden/mediumgardenruincamp/name",
+    "op": "replace"
+  },
+  {
+    "value": "до купи щебеню",
+    "path": "/garden/mediumgardenruinplain/name",
+    "op": "replace"
+  },
+  {
+    "value": "до обваленої будівлі",
+    "path": "/garden/mediumgardenruintall/name",
+    "op": "replace"
+  },
+  {
+    "value": "до насипу щебеню",
+    "path": "/garden/mediumruin/name",
+    "op": "replace"
+  },
+  {
+    "value": "до табору",
+    "path": "/garden/smallcamp/name",
+    "op": "replace"
+  },
+  {
+    "value": "до самотньої могили",
+    "path": "/garden/smallpile/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яної будівлі",
+    "path": "/garden/smallstonehouse/name",
+    "op": "replace"
+  },
+  {
+    "value": "до стародавньої вежі",
+    "path": "/garden/smalltower/name",
+    "op": "replace"
+  },
+  {
+    "value": "до стародавньої вежі",
+    "path": "/garden/smalltower2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до обваленого підвалу",
+    "path": "/garden/tunnelsmall1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до стародавньої стіни",
+    "path": "/garden/wall1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до зруйнованої стіни",
+    "path": "/garden/wall2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до зруйнованої стіни",
+    "path": "/garden/wall3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до колодязя",
+    "path": "/garden/well1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на дно колодязя",
+    "path": "/garden/well1-bottom/name",
+    "op": "replace"
+  },
+  {
+    "value": "до колодязя",
+    "path": "/garden/well3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до руїн",
+    "path": "/garden/steps1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до тунелю",
+    "path": "/alien/tunnel1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до лабораторії",
+    "path": "/alien/lab1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до лабораторії",
+    "path": "/alien/lab2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до лабораторії",
+    "path": "/alien/lab3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до лабораторії",
+    "path": "/alien/lab4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до лабораторії",
+    "path": "/alien/lab5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дослідницького майданчика",
+    "path": "/alien/podium/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кратера",
+    "path": "/alien/crater/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яної хатини",
+    "path": "/alpine/house1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яної хатини",
+    "path": "/alpine/house2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до гірської хатини",
+    "path": "/alpine/cliffhouse1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до гірської хатини",
+    "path": "/alpine/cliffhouse2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до гірської хатини",
+    "path": "/alpine/cliffhouse3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до гірської хатини",
+    "path": "/alpine/cliffhouse4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до гірської хатини",
+    "path": "/alpine/cliffhouse5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до гірської хатини",
+    "path": "/alpine/cliffhouse6/name",
+    "op": "replace"
+  },
+  {
+    "value": "до гірської хатини",
+    "path": "/alpine/cliffhouse7/name",
+    "op": "replace"
+  },
+  {
+    "value": "до гірської хатини",
+    "path": "/alpine/cliffhouse8/name",
+    "op": "replace"
+  },
+  {
+    "value": "до гірської хатини",
+    "path": "/alpine/cliffhouse9/name",
+    "op": "replace"
+  },
+  {
+    "value": "до гірської хатини",
+    "path": "/alpine/cliffhouse10/name",
+    "op": "replace"
+  },
+  {
+    "value": "до складу",
+    "path": "/alpine/storagehut1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до складу",
+    "path": "/alpine/storagehut2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яного тунелю",
+    "path": "/alpine/tunnel1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до печери",
+    "path": "/bioluminescence/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до тунелю",
+    "path": "/bioluminescence/tunnel1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ставка",
+    "path": "/bioluminescence/pond1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до синього шпиля",
+    "path": "/bioluminescence/spire1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до жовтого шпиля",
+    "path": "/bioluminescence/spire2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до форту",
+    "path": "/bones/fort1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до великого форту",
+    "path": "/bones/fort2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кісткодробарки",
+    "path": "/bones/grinder/name",
+    "op": "replace"
+  },
+  {
+    "value": "до покинутої хатини",
+    "path": "/bones/house1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до складу",
+    "path": "/bones/storage1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до складу",
+    "path": "/bones/storage2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до високого складу",
+    "path": "/bones/storage3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до складу",
+    "path": "/bones/storage4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яного тунелю",
+    "path": "/bones/tunnel1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до порожнього пагорба",
+    "path": "/colourful/tunnel1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до великого тунелю",
+    "path": "/colourful/tunnel2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'янистого тунелю",
+    "path": "/colourful/tunnel3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до тунелю",
+    "path": "/colourful/tunnel4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до мілкого ставка",
+    "path": "/colourful/pond1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ставка",
+    "path": "/colourful/pond2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до поритого пагорба",
+    "path": "/colourful/mound1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в печеру",
+    "path": "/dark/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликого кратера",
+    "path": "/dark/crater1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до сходів у скелі",
+    "path": "/dark/cliff1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до сходів у скелі",
+    "path": "/dark/cliff2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старих руїн",
+    "path": "/dark/ruins1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старих руїн",
+    "path": "/dark/ruins2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старих руїн",
+    "path": "/dark/ruins3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старих руїн",
+    "path": "/dark/ruins4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старих руїн",
+    "path": "/dark/ruins5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до вівтаря",
+    "path": "/dark/altar1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до високих руїн",
+    "path": "/dark/hill1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до зруйнованої вежі",
+    "path": "/dark/tower1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до розлогих руїн",
+    "path": "/dark/tower2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до розбитої вежі",
+    "path": "/dark/tower3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до високих руїн",
+    "path": "/dark/tower4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до зруйнованої платформи",
+    "path": "/dark/platform1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старої платформи",
+    "path": "/dark/platform2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до тунелю під платформою",
+    "path": "/dark/platform3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликих руїн",
+    "path": "/dark/smallruin1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликих руїн",
+    "path": "/dark/smallruin2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликих руїн",
+    "path": "/dark/smallruin3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старих руїн",
+    "path": "/dark/spire/name",
+    "op": "replace"
+  },
+  {
+    "value": "до підземних руїн",
+    "path": "/dark/buried1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яної арки",
+    "path": "/desert/arch1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яної арки",
+    "path": "/desert/arch2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яних стовпів",
+    "path": "/desert/arch3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до піщаних руїн",
+    "path": "/desert/arch4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яних колон",
+    "path": "/desert/column1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до колони з пісковика",
+    "path": "/desert/column2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яного будинку",
+    "path": "/desert/house1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яної хатини",
+    "path": "/desert/house2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яного будинку",
+    "path": "/desert/house3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яного будинку",
+    "path": "/desert/house4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до похилого дерев'яного будинку",
+    "path": "/desert/house5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до будинку з пісковика",
+    "path": "/desert/house6/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликої піраміди",
+    "path": "/desert/pyramid1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до колодязя з пісковика",
+    "path": "/desert/well1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до колодязя з пісковика",
+    "path": "/desert/well2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до колодязя з пісковика",
+    "path": "/desert/well3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до будинку з пісковика",
+    "path": "/desert/oldhouse1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до будинку з пісковика",
+    "path": "/desert/oldhouse2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до хатини з пісковика",
+    "path": "/desert/oldhouse3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликої арки",
+    "path": "/eyepatch/arch1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликого ставка",
+    "path": "/eyepatch/tunnel1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до поритого пагорба",
+    "path": "/eyepatch/mound1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до поритого пагорба",
+    "path": "/eyepatch/mound2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до сторожової вежі",
+    "path": "/eyepatch/tower1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до сторожової вежі",
+    "path": "/eyepatch/tower2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до сторожового поста",
+    "path": "/eyepatch/tower3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дослідницької лабораторії",
+    "path": "/eyepatch/lab1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до порожнього хребта",
+    "path": "/flesh/tunnel1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в печеру з плоті",
+    "path": "/flesh/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ями з плоті",
+    "path": "/flesh/pit1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до галявини",
+    "path": "/flesh/clearing1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до галявини",
+    "path": "/forest/clearing1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до галявини",
+    "path": "/forest/clearing2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до галявини",
+    "path": "/forest/clearing3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яного котеджу",
+    "path": "/forest/cottage1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яного колодязя",
+    "path": "/forest/well1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яного колодязя",
+    "path": "/forest/well2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яної хатини",
+    "path": "/forest/hut1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яної хатини",
+    "path": "/forest/hut2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до високого кам'яного будинку",
+    "path": "/forest/hut3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яної хатини",
+    "path": "/forest/hut4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яних руїн",
+    "path": "/forest/hut5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яної хатини",
+    "path": "/forest/hut6/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яних руїн",
+    "path": "/forest/hut7/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликого ставка",
+    "path": "/forest/pond1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликого ставка",
+    "path": "/forest/pond2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до мілкого ставка",
+    "path": "/forest/pond3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до мілкого ставка",
+    "path": "/forest/pond4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликого ставка",
+    "path": "/forest/pond5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликого ставка",
+    "path": "/forest/pond6/name",
+    "op": "replace"
+  },
+  {
+    "value": "до затоплених руїн",
+    "path": "/forest/pond7/name",
+    "op": "replace"
+  },
+  {
+    "value": "до мілкого ставка",
+    "path": "/forest/pond8/name",
+    "op": "replace"
+  },
+  {
+    "value": "до зруйнованого ставка",
+    "path": "/forest/pond9/name",
+    "op": "replace"
+  },
+  {
+    "value": "до зруйнованої стіни",
+    "path": "/forest/ruin1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яного мосту",
+    "path": "/forest/ruin2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яної платформи",
+    "path": "/forest/ruin3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яних руїн",
+    "path": "/forest/ruin4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яної хатини",
+    "path": "/forest/ruin5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до занедбаної хатини",
+    "path": "/forest/ruin6/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кам'яних руїн",
+    "path": "/forest/ruin7/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ливарні",
+    "path": "/foundry/cliffside1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ливарні",
+    "path": "/foundry/cliffside2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ліфта",
+    "path": "/foundry/cliffside3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ліфта",
+    "path": "/foundry/cliffside4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ліфта",
+    "path": "/foundry/cliffside5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до печери у скелі",
+    "path": "/foundry/cliffside6/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ліфта",
+    "path": "/foundry/cliffside7/name",
+    "op": "replace"
+  },
+  {
+    "value": "до галявини",
+    "path": "/foundry/clearing1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до галявини",
+    "path": "/foundry/clearing2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до галявини",
+    "path": "/foundry/clearing3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до галявини",
+    "path": "/foundry/clearing4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до промислової платформи",
+    "path": "/foundry/factory1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до промислової платформи",
+    "path": "/foundry/factory2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до галявини",
+    "path": "/foundry/factory3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до промислової вежі",
+    "path": "/foundry/factory4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кратерів",
+    "path": "/geode/crater1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кристалічної ями",
+    "path": "/geode/crater2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до кристалічної ями",
+    "path": "/geode/crater3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до широкої печери",
+    "path": "/geode/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у випуклу печеру",
+    "path": "/geode/cave2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у порожню печеру",
+    "path": "/geode/cave3/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пустир",
+    "path": "/geode/clearing1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пустир",
+    "path": "/geode/clearing2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пустир",
+    "path": "/geode/clearing3/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пустир",
+    "path": "/geode/clearing4/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пустир",
+    "path": "/geode/clearing5/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пустир",
+    "path": "/geode/clearing6/name",
+    "op": "replace"
+  },
+  {
+    "value": "до гострого кристала",
+    "path": "/geode/spire1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на кристалічний пагорб",
+    "path": "/geode/spire2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на невеликий пагорб",
+    "path": "/geode/hill1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на невеликий пагорб",
+    "path": "/geode/hill2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у печеру під пагорбом",
+    "path": "/geode/hill3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у печеру під пагорбом",
+    "path": "/geode/hill4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у широку печеру",
+    "path": "/geode/cave/name",
+    "op": "replace"
+  },
+  {
+    "value": "на дерев'яний міст",
+    "path": "/giantflowers/bridge1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у підземну хатину",
+    "path": "/giantflowers/hut1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликого ставка",
+    "path": "/giantflowers/pond1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на кам'яний розсип",
+    "path": "/giantflowers/rocky1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на затоплене каміння",
+    "path": "/giantflowers/rocky2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до пари кам'яних колон",
+    "path": "/giantflowers/rocky3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у кам'яну порожню печеру",
+    "path": "/giantflowers/rocky4/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пару кам'яних розсипів",
+    "path": "/giantflowers/rocky5/name",
+    "op": "replace"
+  },
+  {
+    "value": "у печеру під пагорбом",
+    "path": "/giantflowers/hill4/name",
+    "op": "replace"
+  },
+  {
+    "value": "на невеликий стрімчак",
+    "path": "/giantflowers/cliff1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на невеликий стрімчак",
+    "path": "/giantflowers/cliff2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у годинникову вежу",
+    "path": "/giantflowers/tower1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у скельний тунель",
+    "path": "/hive/cliff1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у печеру в скелі",
+    "path": "/hive/cliff2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у печеру в скелі",
+    "path": "/hive/cliff3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у печеру в скелі",
+    "path": "/hive/cliff4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у скельний тунель",
+    "path": "/hive/cliff5/name",
+    "op": "replace"
+  },
+  {
+    "value": "у невелику яму",
+    "path": "/hive/pit1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у закритий тунель",
+    "path": "/hive/pit2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пустир",
+    "path": "/hive/pit3/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пустир",
+    "path": "/hive/clearing1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на затоплений пустир",
+    "path": "/hive/clearing2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в печеру",
+    "path": "/hive/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на великий порожній пагорб",
+    "path": "/hive/cave2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у дерев'яну хатину",
+    "path": "/jungle/hut1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на скелясту стежку",
+    "path": "/jungle/hut2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у провалля в скелі",
+    "path": "/jungle/hut3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у провалля в скелі",
+    "path": "/jungle/tunnel1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у тунель у скелі",
+    "path": "/jungle/tunnel2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у тунель у скелі",
+    "path": "/jungle/tunnel3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у тунель у скелі",
+    "path": "/jungle/tunnel4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у невеликий тунель",
+    "path": "/jungle/tunnel5/name",
+    "op": "replace"
+  },
+  {
+    "value": "на підвісний міст",
+    "path": "/jungle/bridge1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до пари дерев'яних платформ",
+    "path": "/jungle/platform1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до групи дерев'яних платформ",
+    "path": "/jungle/platform2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яної платформи",
+    "path": "/jungle/platform3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у печеру з платформами",
+    "path": "/jungle/platform4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до групи платформ",
+    "path": "/jungle/platform5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до підвищених платформ",
+    "path": "/jungle/platform6/name",
+    "op": "replace"
+  },
+  {
+    "value": "у зарослу печеру",
+    "path": "/jungle/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у зарослу печеру",
+    "path": "/jungle/cave2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликого ставка",
+    "path": "/jungle/pond1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликого ставка",
+    "path": "/jungle/pond2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у годинникову вежу",
+    "path": "/jungle/tower1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у годинникову вежу",
+    "path": "/jungle/tower2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на дерев'яний міст",
+    "path": "/oasis/bridge1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину з пісковика",
+    "path": "/oasis/hut1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину з пісковика",
+    "path": "/oasis/hut2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину з пісковика",
+    "path": "/oasis/hut3/name",
+    "op": "replace"
+  },
+  {
+    "value": "на дерев'яний склад",
+    "path": "/oasis/hut4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину з пісковика",
+    "path": "/oasis/hut5/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину поруч із криницею",
+    "path": "/oasis/hut6/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину поруч із криницею",
+    "path": "/oasis/hut7/name",
+    "op": "replace"
+  },
+  {
+    "value": "у дерев'яний сторожовий пост",
+    "path": "/oasis/hut8/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину поруч зі ставком",
+    "path": "/oasis/hutpond1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликого ставка",
+    "path": "/oasis/pond1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликого ставка",
+    "path": "/oasis/pond2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину з пісковика",
+    "path": "/oasis/ruin1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до пари колон",
+    "path": "/ocean/column1/name",
+    "op": "replace"
+  },
+  {
+    "value": "в ущелину",
+    "path": "/ocean/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у кам'яні руїни",
+    "path": "/ocean/ruin1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на уламки корабля",
+    "path": "/ocean/ruin2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у дерев'яну хатину",
+    "path": "/ocean/ruin3/name",
+    "op": "replace"
+  },
+  {
+    "value": "на купу щебеню",
+    "path": "/ocean/ruin4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у кам'яні руїни",
+    "path": "/ocean/ruin5/name",
+    "op": "replace"
+  },
+  {
+    "value": "у кам'яні руїни",
+    "path": "/ocean/ruin6/name",
+    "op": "replace"
+  },
+  {
+    "value": "на кам'яний розсип",
+    "path": "/ocean/ruin7/name",
+    "op": "replace"
+  },
+  {
+    "value": "на уламки корабля",
+    "path": "/ocean/ship1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у кам'яну канаву",
+    "path": "/ocean/ditch1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в печеру",
+    "path": "/prism/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на невеликий стрімчак",
+    "path": "/prism/cave2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у порожню печеру",
+    "path": "/prism/cave3/name",
+    "op": "replace"
+  },
+  {
+    "value": "на затоплений пустир",
+    "path": "/prism/clearing1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у тунель під стрімчаком",
+    "path": "/prism/clearing2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на невеликий пагорб",
+    "path": "/prism/hill1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на гострий пагорб",
+    "path": "/prism/hill2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до мілководного ставка",
+    "path": "/prism/pond1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на прикрашену доріжку",
+    "path": "/prism/temple1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на вимощений пустир",
+    "path": "/prism/temple2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у прикрашений храм",
+    "path": "/prism/temple3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у довгий тунель",
+    "path": "/prism/tunnel1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на дерев'яну арену",
+    "path": "/savannah/arena1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в хатину",
+    "path": "/savannah/hut1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у підземну хатину",
+    "path": "/savannah/hut2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в печеру",
+    "path": "/savannah/hut3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у старий котедж",
+    "path": "/savannah/hut4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у руїни котеджу",
+    "path": "/savannah/hut5/name",
+    "op": "replace"
+  },
+  {
+    "value": "у високий котедж",
+    "path": "/savannah/hut6/name",
+    "op": "replace"
+  },
+  {
+    "value": "у невеликий котедж",
+    "path": "/savannah/hut7/name",
+    "op": "replace"
+  },
+  {
+    "value": "у піднятий котедж",
+    "path": "/savannah/hut8/name",
+    "op": "replace"
+  },
+  {
+    "value": "до пари котеджів",
+    "path": "/savannah/hut9/name",
+    "op": "replace"
+  },
+  {
+    "value": "у запилений котедж",
+    "path": "/savannah/hut10/name",
+    "op": "replace"
+  },
+  {
+    "value": "у запилений котедж",
+    "path": "/savannah/hut11/name",
+    "op": "replace"
+  },
+  {
+    "value": "у запилений котедж",
+    "path": "/savannah/hut12/name",
+    "op": "replace"
+  },
+  {
+    "value": "у котедж над тунелем",
+    "path": "/savannah/hut13/name",
+    "op": "replace"
+  },
+  {
+    "value": "у високий котедж",
+    "path": "/savannah/hut14/name",
+    "op": "replace"
+  },
+  {
+    "value": "у високий котедж",
+    "path": "/savannah/hut15/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пустир під котеджем",
+    "path": "/savannah/hut16/name",
+    "op": "replace"
+  },
+  {
+    "value": "у високий котедж",
+    "path": "/savannah/hut17/name",
+    "op": "replace"
+  },
+  {
+    "value": "у дерев'яне сховище",
+    "path": "/savannah/hut18/name",
+    "op": "replace"
+  },
+  {
+    "value": "у запилений котедж",
+    "path": "/savannah/house1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у старий будинок",
+    "path": "/savannah/house2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у піднятий запилений будинок",
+    "path": "/savannah/house3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яного переходу",
+    "path": "/savannah/house4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у котедж поруч із криницею",
+    "path": "/savannah/hutwithwell1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у тунель під котеджем",
+    "path": "/savannah/tunnel1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у дерев'яний тунель",
+    "path": "/savannah/tunnel2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у дерев'яний тунель",
+    "path": "/savannah/tunnel3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у дерев'яні тунелі в пагорбі",
+    "path": "/savannah/tunnel4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у невеликий табір",
+    "path": "/savannah/camp1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у невеликий табір",
+    "path": "/savannah/camp2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яної платформи",
+    "path": "/savannah/platform1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до групи дерев'яних платформ",
+    "path": "/savannah/platform2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у сторожову вежу над бункером",
+    "path": "/savannah/bunker1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у підземний бункер",
+    "path": "/savannah/bunker2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на нижній поверх бункера",
+    "path": "/savannah/bunker3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у запилений тунель",
+    "path": "/savannah/cliffside1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у запилений тунель",
+    "path": "/savannah/cliffside2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на міст над ставком",
+    "path": "/savannah/pond1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у зруйновану будівлю",
+    "path": "/scorchedcity/house1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у зруйновану будівлю",
+    "path": "/scorchedcity/house2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у підземне укриття",
+    "path": "/scorchedcity/shelter1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у підземне укриття",
+    "path": "/scorchedcity/shelter2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на просіле шосе",
+    "path": "/scorchedcity/platform1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у яму в металевому мосту",
+    "path": "/scorchedcity/platform2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до платформи з брухтом",
+    "path": "/scorchedcity/platform3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до платформи з брухтом",
+    "path": "/scorchedcity/platform4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до платформи з брухтом",
+    "path": "/scorchedcity/platform5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до платформи з брухтом",
+    "path": "/scorchedcity/platform6/name",
+    "op": "replace"
+  },
+  {
+    "value": "до платформи з брухтом",
+    "path": "/scorchedcity/platform7/name",
+    "op": "replace"
+  },
+  {
+    "value": "на звалище",
+    "path": "/scorchedcity/clearing1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на завалене шосе",
+    "path": "/scorchedcity/clearing2/name",
+    "op": "replace"
+  },
+  {
+    "value": "в іржаву будівлю",
+    "path": "/scorchedcity/building1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на верхній поверх будівлі",
+    "path": "/scorchedcity/building2/name",
+    "op": "replace"
+  },
+  {
+    "value": "в іржаву будівлю",
+    "path": "/scorchedcity/building3/name",
+    "op": "replace"
+  },
+  {
+    "value": "на верхній поверх будівлі",
+    "path": "/scorchedcity/building4/name",
+    "op": "replace"
+  },
+  {
+    "value": "на верхній поверх будівлі",
+    "path": "/scorchedcity/building5/name",
+    "op": "replace"
+  },
+  {
+    "value": "на верхній поверх будівлі",
+    "path": "/scorchedcity/building6/name",
+    "op": "replace"
+  },
+  {
+    "value": "в іржаву будівлю",
+    "path": "/scorchedcity/building7/name",
+    "op": "replace"
+  },
+  {
+    "value": "в іржаву будівлю",
+    "path": "/scorchedcity/building8/name",
+    "op": "replace"
+  },
+  {
+    "value": "у невелику будівлю",
+    "path": "/scorchedcity/building9/name",
+    "op": "replace"
+  },
+  {
+    "value": "на купу металобрухту",
+    "path": "/scorchedcity/pile1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на купу металобрухту",
+    "path": "/scorchedcity/pile2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на купу металобрухту",
+    "path": "/scorchedcity/pile3/name",
+    "op": "replace"
+  },
+  {
+    "value": "на купу металобрухту",
+    "path": "/scorchedcity/pile4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний тунель",
+    "path": "/shroom/building1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний тунель",
+    "path": "/shroom/building2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний тунель",
+    "path": "/shroom/building3/name",
+    "op": "replace"
+  },
+  {
+    "value": "на грибний склад",
+    "path": "/shroom/building4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибну хатину",
+    "path": "/shroom/building5/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибну хатину",
+    "path": "/shroom/building6/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний будинок",
+    "path": "/shroom/house1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний будинок",
+    "path": "/shroom/house2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний будинок",
+    "path": "/shroom/house3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний котедж",
+    "path": "/shroom/house4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний котедж",
+    "path": "/shroom/house5/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний будинок",
+    "path": "/shroom/house6/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний будинок",
+    "path": "/shroom/house7/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний будинок",
+    "path": "/shroom/house8/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний будинок",
+    "path": "/shroom/house9/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний будинок",
+    "path": "/shroom/house10/name",
+    "op": "replace"
+  },
+  {
+    "value": "у грибний будинок",
+    "path": "/shroom/house11/name",
+    "op": "replace"
+  },
+  {
+    "value": "у дерев'яні руїни",
+    "path": "/shroom/ruin1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до замерзлого ставка",
+    "path": "/snow/lake1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до замерзлого ставка",
+    "path": "/snow/lake2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у снігову печеру",
+    "path": "/snow/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у снігову печеру",
+    "path": "/snow/cave2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у снігову печеру",
+    "path": "/snow/cave3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у снігову печеру",
+    "path": "/snow/cave4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у крижану печеру",
+    "path": "/snow/cave5/name",
+    "op": "replace"
+  },
+  {
+    "value": "у крижаний тунель",
+    "path": "/snow/cave6/name",
+    "op": "replace"
+  },
+  {
+    "value": "у покинуту хатину",
+    "path": "/snow/house1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у напівзруйновану хатину",
+    "path": "/snow/house2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у крижану хатину",
+    "path": "/snow/house3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у крижану хатину",
+    "path": "/snow/house4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у покинуту хатину",
+    "path": "/snow/house5/name",
+    "op": "replace"
+  },
+  {
+    "value": "у покинуту хатину",
+    "path": "/snow/house6/name",
+    "op": "replace"
+  },
+  {
+    "value": "у наукову лабораторію",
+    "path": "/snow/lab1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на металевий маяк",
+    "path": "/snow/beacon/name",
+    "op": "replace"
+  },
+  {
+    "value": "до крижаного колодязя",
+    "path": "/snow/well1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до групи кам'яних колон",
+    "path": "/spring/column1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ставка з кам'яними колонами",
+    "path": "/spring/pool1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до невеликого ставка",
+    "path": "/spring/pool2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ставка з кам'яними колонами",
+    "path": "/spring/pool3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ставка з кам'яними колонами",
+    "path": "/spring/pool4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ставка з кам'яними колонами",
+    "path": "/spring/pool5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до ставка з кам'яними колонами",
+    "path": "/spring/pool6/name",
+    "op": "replace"
+  },
+  {
+    "value": "у зарослі кам'яні руїни",
+    "path": "/spring/ruin1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у затоплені кам'яні руїни",
+    "path": "/spring/ruin2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у затоплені кам'яні руїни",
+    "path": "/spring/ruin3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у затоплені кам'яні руїни",
+    "path": "/spring/ruin4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у затоплені руїни",
+    "path": "/spring/ruin5/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пустир зі стіною",
+    "path": "/spring/ruin6/name",
+    "op": "replace"
+  },
+  {
+    "value": "у дерев'яні руїни",
+    "path": "/spring/ruin7/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пустир з кам'яними колонами",
+    "path": "/spring/clearing1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старого колодязя",
+    "path": "/spring/well1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у дерев'яний притулок",
+    "path": "/steamspring/building1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у порожній цегляний будинок",
+    "path": "/steamspring/building2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на верхній поверх будинку",
+    "path": "/steamspring/building3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у велику цегляну будівлю",
+    "path": "/steamspring/building4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у цегляну хатину",
+    "path": "/steamspring/building5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до пари дерев'яних хатин",
+    "path": "/steamspring/building6/name",
+    "op": "replace"
+  },
+  {
+    "value": "до водяного резервуара",
+    "path": "/steamspring/cliffside1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до водяного резервуара",
+    "path": "/steamspring/cliffside2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до водяного резервуара",
+    "path": "/steamspring/cliffside3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у печеру з трубами",
+    "path": "/steamspring/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину на болоті",
+    "path": "/swamp/hut1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину на болоті",
+    "path": "/swamp/hut2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину на болоті",
+    "path": "/swamp/hut3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину на болоті",
+    "path": "/swamp/hut4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину на болоті",
+    "path": "/swamp/hut5/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину на болоті",
+    "path": "/swamp/hut6/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину на болоті",
+    "path": "/swamp/hut7/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину на болоті",
+    "path": "/swamp/hut8/name",
+    "op": "replace"
+  },
+  {
+    "value": "у хатину на болоті",
+    "path": "/swamp/hut9/name",
+    "op": "replace"
+  },
+  {
+    "value": "до дерев'яної платформи",
+    "path": "/swamp/platform1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у дерев'яну хатину",
+    "path": "/tarpits/hut1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у невелику хатину",
+    "path": "/tarpits/hut2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в печеру",
+    "path": "/tarpits/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у затоплені руїни",
+    "path": "/tarpits/clearing1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у невеликий табір",
+    "path": "/tarpits/camp1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до промислових будівель",
+    "path": "/toxic/industrial1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до промислової платформи",
+    "path": "/toxic/industrial2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у промислове сховище",
+    "path": "/toxic/industrial3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до промислових будівель",
+    "path": "/toxic/industrial4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у металевий тунель під скелею",
+    "path": "/toxic/tunnel1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у тунель під пагорбом",
+    "path": "/toxic/tunnel2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у металевий тунель під токсичною ямою",
+    "path": "/toxic/tunnel3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до мідної платформи над токсичною ямою",
+    "path": "/toxic/platform1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у широку порожнисту печеру",
+    "path": "/toxicoceanfloor/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у маленьку печеру",
+    "path": "/toxicoceanfloor/cave2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у токсичну канаву поруч з трубами",
+    "path": "/toxicoceanfloor/cave3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у печеру під урвищем",
+    "path": "/toxicoceanfloor/cave4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у токсичну канаву поруч з трубами",
+    "path": "/toxicoceanfloor/cave5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до групи зелених труб",
+    "path": "/toxicoceanfloor/pipes1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до групи зелених труб",
+    "path": "/toxicoceanfloor/pipes2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на металеву станцію",
+    "path": "/tundra/building1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на металеву станцію",
+    "path": "/tundra/building2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у металевий притулок",
+    "path": "/tundra/building3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у підземний бункер",
+    "path": "/tundra/building4/name",
+    "op": "replace"
+  },
+  {
+    "value": "у зруйнований бункер",
+    "path": "/tundra/building5/name",
+    "op": "replace"
+  },
+  {
+    "value": "у підземний бункер",
+    "path": "/tundra/building6/name",
+    "op": "replace"
+  },
+  {
+    "value": "на невелику заставу",
+    "path": "/tundra/building7/name",
+    "op": "replace"
+  },
+  {
+    "value": "на металеву заставу",
+    "path": "/tundra/building8/name",
+    "op": "replace"
+  },
+  {
+    "value": "у великий підземний бункер",
+    "path": "/tundra/building9/name",
+    "op": "replace"
+  },
+  {
+    "value": "у невеликий бункер",
+    "path": "/tundra/building10/name",
+    "op": "replace"
+  },
+  {
+    "value": "на металеву заставу",
+    "path": "/tundra/building11/name",
+    "op": "replace"
+  },
+  {
+    "value": "у підземний бункер",
+    "path": "/tundra/building12/name",
+    "op": "replace"
+  },
+  {
+    "value": "у підземний металевий бункер",
+    "path": "/tundra/building13/name",
+    "op": "replace"
+  },
+  {
+    "value": "у підземний металевий бункер",
+    "path": "/tundra/building14/name",
+    "op": "replace"
+  },
+  {
+    "value": "у металевий бункер",
+    "path": "/tundra/building15/name",
+    "op": "replace"
+  },
+  {
+    "value": "на металеву заставу",
+    "path": "/tundra/building16/name",
+    "op": "replace"
+  },
+  {
+    "value": "до промислової платформи",
+    "path": "/tundra/platform1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до промислової платформи",
+    "path": "/tundra/platform2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на невеликий пагорб",
+    "path": "/tundra/hill1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у табір під пагорбом",
+    "path": "/tundra/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у притулок в крижаній печері",
+    "path": "/tundra/cave2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у заморожену печеру",
+    "path": "/tundra/cave3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у тунель під пагорбом",
+    "path": "/tundra/cave4/name",
+    "op": "replace"
+  },
+  {
+    "value": "на старе кладовище",
+    "path": "/tundra/graveyard1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у невелике іглу",
+    "path": "/tundra/igloo1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у неглибоку підземну печеру",
+    "path": "/volcanic/cave1/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пагорб з тунелями",
+    "path": "/volcanic/cave2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у тунель у вулкані",
+    "path": "/volcanic/cave3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у тунель під вулканом",
+    "path": "/volcanic/cave4/name",
+    "op": "replace"
+  },
+  {
+    "value": "на схил вулкана",
+    "path": "/volcanic/clearing1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у печеру під скелею",
+    "path": "/volcanic/clearing2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на пустир",
+    "path": "/volcanic/clearing3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у жерло",
+    "path": "/volcanic/boo/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в стару шахту",
+    "path": "/naturalcave/entrance/name",
+    "op": "replace"
+  },
+  {
+    "value": "у стару шахту",
+    "path": "/naturalcave/depths/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в лабораторію",
+    "path": "/apextestfacility/lab1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в лабораторію",
+    "path": "/apextestfacility/lab2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у катакомби під лабораторією",
+    "path": "/apextestfacility/underground1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у катакомби під лабораторією",
+    "path": "/apextestfacility/underground2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у катакомби під лабораторією",
+    "path": "/apextestfacility/underground3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у катакомби під лабораторією",
+    "path": "/apextestfacility/underground4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до холу бази Міннауку",
+    "path": "/apexbase/entrance1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у лабораторію Міннауку",
+    "path": "/apexbase/room1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у лабораторію Міннауку",
+    "path": "/apexbase/room2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у лабораторію Міннауку",
+    "path": "/apexbase/room3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у фортецю ґлітчів",
+    "path": "/evilfortress/room1/name",
+    "op": "replace"
+  },
+  {
+    "value": "у фортецю ґлітчів",
+    "path": "/evilfortress/room2/name",
+    "op": "replace"
+  },
+  {
+    "value": "у шаховий зал фортеці ґлітчів",
+    "path": "/evilfortress/room3/name",
+    "op": "replace"
+  },
+  {
+    "value": "у фортецю ґлітчів",
+    "path": "/evilfortress/room4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до лівих воріт фортеці глітчів",
+    "path": "/evilfortress/entrance1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до правих воріт фортеці глітчів",
+    "path": "/evilfortress/entrance2/name",
+    "op": "replace"
+  },
+  {
+    "value": "на підвісний міст у фортеці глітчів",
+    "path": "/evilfortress/bridge1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до фортеці глітчів",
+    "path": "/evilfortress/top1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до фортеці глітчів",
+    "path": "/dungeoncrawler/entrance1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до каплиці у старому підземеллі глітчів",
+    "path": "/dungeoncrawler/chapel1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старого підземелля глітчів",
+    "path": "/dungeoncrawler/room1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старого підземелля глітчів",
+    "path": "/dungeoncrawler/room2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старого підземелля глітчів",
+    "path": "/dungeoncrawler/room3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в каналізацію",
+    "path": "/glitchsewer/entrance/name",
+    "op": "replace"
+  },
+  {
+    "value": "до каналізації",
+    "path": "/glitchsewer/depths/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу у в'язницю",
+    "path": "/humanprison/entrance/name",
+    "op": "replace"
+  },
+  {
+    "value": "до тюремного дворика",
+    "path": "/humanprison/courtyard/name",
+    "op": "replace"
+  },
+  {
+    "value": "до тюремної камери",
+    "path": "/humanprison/cellblock/name",
+    "op": "replace"
+  },
+  {
+    "value": "на дах тюремного блоку",
+    "path": "/humanprison/cellblockroof/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в храм авіан",
+    "path": "/aviantemple/entrance/name",
+    "op": "replace"
+  },
+  {
+    "value": "до храму авіан",
+    "path": "/aviantemple/top/name",
+    "op": "replace"
+  },
+  {
+    "value": "до головної кімнати храму авіан",
+    "path": "/aviantemple/grandchamber/name",
+    "op": "replace"
+  },
+  {
+    "value": "до храму авіан",
+    "path": "/aviantemple/depths/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в авіанську гробницю",
+    "path": "/aviantomb/entrance/name",
+    "op": "replace"
+  },
+  {
+    "value": "до авіанської гробниці",
+    "path": "/aviantomb/depths/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в мисливські печери флоранів",
+    "path": "/floranhuntinggrounds/entrance/name",
+    "op": "replace"
+  },
+  {
+    "value": "до мисливських печер флоранів",
+    "path": "/floranhuntinggrounds/depths/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в зарослу лощину",
+    "path": "/florancanyon/entrance1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до зарослої лощини",
+    "path": "/florancanyon/entrance2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до зарослої печери",
+    "path": "/florancanyon/depths1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до зарослої печери",
+    "path": "/florancanyon/depths2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в старі руїни хілотлів",
+    "path": "/hylotlruinedcity/entrance1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старих руїн хілотлів",
+    "path": "/hylotlruinedcity/depths1/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старих руїн хілотлів",
+    "path": "/hylotlruinedcity/depths2/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старих руїн хілотлів",
+    "path": "/hylotlruinedcity/depths3/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старих руїн хілотлів",
+    "path": "/hylotlruinedcity/depths4/name",
+    "op": "replace"
+  },
+  {
+    "value": "до старих руїн хілотлів",
+    "path": "/hylotlruinedcity/depths5/name",
+    "op": "replace"
+  },
+  {
+    "value": "до зруйнованого замку хілотлів",
+    "path": "/hylotlruinedcastle/castletop/name",
+    "op": "replace"
+  },
+  {
+    "value": "до входу в замок хілотлів",
+    "path": "/hylotlruinedcastle/entrance/name",
+    "op": "replace"
+  },
+  {
+    "value": "до заднього входу замку хілотлів",
+    "path": "/hylotlruinedcastle/rearentrance/name",
+    "op": "replace"
+  }
+]

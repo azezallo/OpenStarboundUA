@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Випадковий фонтан. Самий непередбачуваний з фонтанів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Випадковий фонтан"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Фонтан!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Фонтан."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран напій від sssplashy штучки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вагається. Фонтан."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені б хотілося, щоб у мене було рідини для миття посуду."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чудовий фонтан."
+  }
+]

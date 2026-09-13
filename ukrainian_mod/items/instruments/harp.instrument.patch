@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Арфа. Відважний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Арфа"
+  }
+]

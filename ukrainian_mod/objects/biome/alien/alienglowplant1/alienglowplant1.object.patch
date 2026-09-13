@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сяюча інопланетна рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сяючий інопланетний завод"
+  }
+]

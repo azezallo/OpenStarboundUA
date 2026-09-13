@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Для тих, хто досить недалекоглядний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Величезні окуляри"
+  }
+]

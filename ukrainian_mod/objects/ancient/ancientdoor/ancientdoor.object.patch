@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Двері старовинного вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Старовинні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Двері зі старовинного каменю."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Міцні двері стародавнього походження."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Схоже на старовинні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Охороняється. Не було б нічого дивного, якби ці старовинні двері не відчинилися."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я впевнений, що ці руни говорять «відкрити» та «закрити»."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці двері - пережиток давно минулих часів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці старі двері - реліквія."
+  }
+]

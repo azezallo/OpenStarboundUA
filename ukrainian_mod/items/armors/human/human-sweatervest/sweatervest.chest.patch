@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Груди теплі, а руки?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Светр Жилет"
+  }
+]

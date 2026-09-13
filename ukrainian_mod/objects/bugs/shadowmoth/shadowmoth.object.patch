@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Важко помітити, цих жуків чорні, як ніч."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "тіньова моль"
+  }
+]

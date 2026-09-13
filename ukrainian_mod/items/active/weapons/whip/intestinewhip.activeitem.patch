@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Товстий кишечник, він може простягатися напрочуд далеко."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кишковий батіг"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Кишковий батіг ^yellow;^reset;"
+  }
+]

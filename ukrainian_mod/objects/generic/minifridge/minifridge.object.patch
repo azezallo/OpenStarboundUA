@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеально підходить для зберігання продуктів і збереження їх свіжості."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Міні-холодильник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Міні-холодильник. Сподіваюся, він містить банановий молочний коктейль."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Міні-холодильник. Ідеально наповнений напоями та закусками."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран відчуває запах м'яса. Можливо, м'ясо всередині?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Цей міні-холодильник працює при оптимальній температурі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "У мене тече слина від хвилювання, думаючи про можливий вміст."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Під водою охолоджувати легше. Ці пристрої є розумною заміною."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Маленький холодильник."
+  }
+]

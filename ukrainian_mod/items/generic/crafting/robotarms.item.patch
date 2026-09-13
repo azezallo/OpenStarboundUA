@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сильні руки робота, здатні піднімати важкі предмети."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зброя роботів"
+  }
+]

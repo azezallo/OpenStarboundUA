@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Слива, дехто стверджує, що вона дуже смачна!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "слива"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Добре, якщо можна позбутися металевого присмаку!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скибочка піци"
+  }
+]

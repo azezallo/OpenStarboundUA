@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Меч на знаку. Зазвичай він з'являється біля збройового магазину."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак магазину зброї"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Знак збройового магазину."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Можливо, я зможу купити зброю в цьому магазині."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Зброя."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Я бачив, як багато магазинів зброї припиняють роботу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "На табличці намальований меч. Може збройовий магазин?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Меч, швидше за все це збройовий магазин."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "На знаку зображений меч. Здається, це збройовий магазин."
+  }
+]

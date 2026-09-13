@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Брудна на вигляд дерев'яна чашка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічний кубок"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленька дерев'яна чашка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дерев'яна чашка, яку важко підтримувати в чистоті."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран п'є м'ясистий сік з таких чашок."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розпечений. Звичайний дерев'яний келих."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Келих з дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пофарбований дерев'яний келих."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Звичайна дерев'яна чашка."
+  }
+]

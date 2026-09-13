@@ -1,0 +1,447 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "value": "Мені нічого тобі сказати"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/0",
+    "value": "Ти не ВИГЛЯДАЄШ як Міннаук..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/human/0",
+    "value": "А, приємно бачити людей серед нас."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/apex/0",
+    "value": "Ти ризикуєш, повертаючись сюди, вигнанцю."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/avian/0",
+    "value": "Вітаю, Авіано."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/floran/0",
+    "value": "Флоран. Ох."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/glitch/0",
+    "value": "Привіт, Ґлітч."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/hylotl/0",
+    "value": "Привіт, Хайлотле."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/0",
+    "value": "Я не впевнений, що хочу знати, що ти таке."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/human/0",
+    "value": "О, вітаю, гладкошкірий."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/apex/0",
+    "value": "Не підходь надто близько, мавпо. Від тебе смердить."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/avian/0",
+    "value": "Вітаю, Авіано."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/floran/0",
+    "value": "Ґхурк!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/glitch/0",
+    "value": "О, робот."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/hylotl/0",
+    "value": "Ааа, нарешті той, хто мене оцінить."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/0",
+    "value": "Благословенного дня, незнайомцю."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/0",
+    "value": "Вітаю, людино."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/0",
+    "value": "Вітаю, мавпо."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/0",
+    "value": "Вітаю, друже Авіано."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/0",
+    "value": "О... Флоран."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/0",
+    "value": "Привіт, Ґлітч."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/0",
+    "value": "О, Хайлотл."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/default/0",
+    "value": "Чудового дня!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/human/0",
+    "value": "Йоу!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/human/1",
+    "value": "Гей, радий тебе бачити."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/apex/0",
+    "value": "Мавпа, що розмовляє. Круто."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/avian/0",
+    "value": "Гей, це велика пташка!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/floran/0",
+    "value": "Триффід!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/glitch/0",
+    "value": "Ого, круто, робот."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/hylotl/0",
+    "value": "О, привіт, гігантська рибо."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/0",
+    "value": "Сссстранна річ."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/human/0",
+    "value": "М'яссссна людина!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/apex/0",
+    "value": "Флоран хоче обійматисссся з мавполюдиною!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/avian/0",
+    "value": "Пташшшшна людина!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/floran/0",
+    "value": "Флоран!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/glitch/0",
+    "value": "Флоран вітає металеву людину!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/hylotl/0",
+    "value": "Шшшшссссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/0",
+    "value": "*Збентеження.* Що ти за істота?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/human/0",
+    "value": "*Перевага.* Жалюгідна людина."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/apex/0",
+    "value": "*Шок.* Яке волосате створіння!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/avian/0",
+    "value": "*Запит.* Твоє оперення збирається саме, чи його створюють ремісники?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/floran/0",
+    "value": "*Дружність.* Вітаю, людино-рослино."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/glitch/0",
+    "value": "*Дружність.* Вітаю, друже."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/hylotl/0",
+    "value": "*Скептичність.* Як для виду, що живе під водою, ти пахнеш не дуже чисто."
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/default/default/0",
+    "value": "Допоможіть!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/default/default/1",
+    "value": "На допомогу!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/default/default/2",
+    "value": "На мене напали!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/glitch/default/0",
+    "value": "*Страх.* Допоможіть мені!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/glitch/default/1",
+    "value": "*Заляканість.* Будь ласка, не робіть мені боляче!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/glitch/default/2",
+    "value": "*Образа.* До мене причепилися!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/glitch/default/3",
+    "value": "*Страх.* Відійди від мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/glitch/default/4",
+    "value": "*Жах.* Врятуйте мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/glitch/default/5",
+    "value": "*Шок.* Ні! Відійди від мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/floran/default/0",
+    "value": "Чассс різати для Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/floran/default/1",
+    "value": "Флорану роблять боляче!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/floran/default/2",
+    "value": "Флоран не готовий до полювання!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpthem/default/default/0",
+    "value": "Що ти наробив!?"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpthem/glitch/default/0",
+    "value": "*Страх.* Хтось, допоможіть!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpthem/glitch/default/1",
+    "value": "*Заляканість.* Будь ласка, не роби мені боляче!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpthem/glitch/default/2",
+    "value": "*Страх.* Дай мені спокій!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpthem/glitch/default/3",
+    "value": "*Жах.* Врятуйте мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpthem/glitch/default/4",
+    "value": "*Шок.* Що ти наробив?!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpthem/glitch/default/5",
+    "value": "*Праведність.* Я напишу електронного листа з протестом!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpthem/floran/default/0",
+    "value": "Чассс різати для Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpthem/floran/default/1",
+    "value": "Флорану роблять боляче!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpthem/floran/default/2",
+    "value": "Флоран не готовий до полювання!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/default/default/0",
+    "value": "Взяти їх!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/default/default/1",
+    "value": "Помстися за мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/default/default/2",
+    "value": "Пирни їх хоч раз за мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/default/default/3",
+    "value": "Не дай їм втекти!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/glitch/default/0",
+    "value": "*Заохочення.* Насади їх на меч!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/glitch/default/1",
+    "value": "*Збудження.* Помстися за мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/glitch/default/2",
+    "value": "*Агресія.* Збий його з ніг!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/glitch/default/3",
+    "value": "*Мстивість.* Не дай їм втекти!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/floran/default/0",
+    "value": "Заріжжж порушшшників!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/floran/default/1",
+    "value": "Флоран помссститься зараз!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/floran/default/2",
+    "value": "Пошшшатккуй їх!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/default/default/0",
+    "value": "Фух, здається, я втік."
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/default/default/1",
+    "value": "Я ледве врятував своє життя!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/default/default/2",
+    "value": "Це безпечна зона?"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/glitch/default/0",
+    "value": "*Полегшення.* Фух, здається, я втік."
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/glitch/default/1",
+    "value": "*Вдячність.* Я ледве врятував своє життя!"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/glitch/default/2",
+    "value": "*Мрійливість.* Якби ж тільки я міг дозволити собі фортецю."
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/glitch/default/3",
+    "value": "*Надія.* Я в безпеці?"
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/glitch/default/4",
+    "value": "*Зніяковілість.* Здається, з мене витекло трохи мастила."
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/floran/default/0",
+    "value": "Флоран тепер у безссспеці."
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/floran/default/1",
+    "value": "Флорана всссе ж не зарізали."
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/floran/default/2",
+    "value": "Їм пощассстило, що у Флорана не було зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/floran/default/3",
+    "value": "Порятуноккк!"
+  }
+]

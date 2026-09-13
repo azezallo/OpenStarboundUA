@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вершина черепа. Може, решту віддали науці?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска черепа Apex"
+  }
+]

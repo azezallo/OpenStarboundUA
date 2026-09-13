@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Гриб.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Гриб",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Грибок.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Гриб.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

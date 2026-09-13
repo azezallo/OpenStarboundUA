@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Водорості в квітковому горщику."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Горщик з морськими водоростями"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "морські водорості. Я не бачу звернення."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мокра рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Хороша рослина. Ssseaweedsss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Морські водорості в горщику. Дивний смак."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Морські водорості не можуть жити поза морем."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Морським водоростям потрібне море. Інакше вони просто бур'яни."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Яка кумедна рослина мати у своєму домі."
+  }
+]

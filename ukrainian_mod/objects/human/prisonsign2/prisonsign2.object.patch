@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На табличці написано: «Катальня»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак їдальні"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Їдальня. Можливо, тут є їжа."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Знак, що вказує на якусь їдальню."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Брудний зал? Флоран збентежений."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Вивіска їдальні."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ідея відвідати їдальню наповнює мене екзистенціальним страхом. Я не знаю чому. Не можу пояснити."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чому люди позначають кімнату як брудну, а не просто прибирають? Можливо, я неправильно зрозумів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Їдальня? Я думаю, що в'язням теж потрібна їжа."
+  }
+]

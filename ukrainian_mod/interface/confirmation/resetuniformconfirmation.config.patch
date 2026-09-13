@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Скинути уніформу екіпажу?"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "<name>, <rank>"
+  },
+  {
+    "op": "replace",
+    "path": "/message",
+    "value": "\n\nГотові переодягнути екіпаж назад в уніформу Земного Захисту?"
+  },
+  {
+    "op": "replace",
+    "path": "/okCaption",
+    "value": "Звісно"
+  },
+  {
+    "op": "replace",
+    "path": "/cancelCaption",
+    "value": "Не зараз"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарне залізне настінне бра."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичне світло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Сяйво цієї лампи тепле і затишне."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Залізні вироби перевершують вироби пташиних списоносців."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Всередині не горить вогонь."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спантеличеність. Дизайн і призначення не збігаються. Лампа подає кисень для полум'я, проте пристрій повністю електричний."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Електрична лампа. Здається, створений для полум’я."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Лампа, здається, призначена для розміщення полум’я, але повністю електрична."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей світильник виглядає так, ніби йому місце в салоні."
+  }
+]

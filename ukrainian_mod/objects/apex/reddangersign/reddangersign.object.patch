@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Табличка з написом «Небезпека!». Це не могло надіслати чіткішого повідомлення."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Червоний знак небезпеки"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленьке життя Apex не є небезпечним."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чому Apex так чітко позначає небезпеку?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран живе і дихає небезпекою."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Песимістичний. Очевидно, тоді нема про що хвилюватися."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Невелика небезпека ніколи нікому не зашкодить."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ми повинні діяти обережно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені не чужа небезпека."
+  }
+]

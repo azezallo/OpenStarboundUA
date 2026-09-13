@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стрічка освітлення, для використання на космічному кораблі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Корабель Light"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тут нічого не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тут нічого не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Тут нічого не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Тут нічого не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Тут нічого не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Тут нічого не видно."
+  }
+]

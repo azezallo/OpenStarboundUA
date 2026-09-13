@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Штани військові, призначені для бойового медика."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани бойові медики"
+  }
+]

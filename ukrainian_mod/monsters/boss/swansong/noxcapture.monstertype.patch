@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Азра Нокс",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Хмм... Певною мірою, я захоплююсь тим, що в тебе є \"захисник\".",
+    "path": "/baseParameters/dialog/0",
+    "op": "replace"
+  },
+  {
+    "value": "Всі ці роки керована помстою, оточена ненависними людьми? Я жила самотнім життям.",
+    "path": "/baseParameters/dialog/1",
+    "op": "replace"
+  },
+  {
+    "value": "Скажи Естер, що мені... шкода.",
+    "path": "/baseParameters/dialog/2",
+    "op": "replace"
+  }
+]

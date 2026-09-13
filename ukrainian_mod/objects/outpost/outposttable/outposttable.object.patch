@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "стіл. Ідеально підходить для настільних ігор. Або їсти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Основний металевий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Пристойний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Гарний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Байдуже. стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Непривабливий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто стіл."
+  }
+]

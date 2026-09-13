@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рухома платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Довгий ліфт"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Рухома платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Рухома платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Рухома платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Рухома платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Рухома платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Рухома платформа."
+  }
+]

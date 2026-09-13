@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Невеликий повністю автоматичний пістолет."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Звичайний пістолет-кулемет"
+  }
+]

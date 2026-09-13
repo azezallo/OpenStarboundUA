@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Початок трохи пізніше, ніж ти очікував, чи не так, <entityname>?",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Люблю це місце. Так зручно, і краєвид прекрасний.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Більшість людей достатньо ввічливі, щоб звільнити місце, якщо ти їх мило попросиш, але цей стілець занадто зручний, щоб здатися.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Вітаю з випуском, мій друже. Ти заслужив це.",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  }
+]

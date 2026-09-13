@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Морозиво з чудовим смаком заварного крему."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Яєчне морозиво"
+  }
+]

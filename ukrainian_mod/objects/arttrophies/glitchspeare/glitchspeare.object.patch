@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Портрет Вільяма Глічспіра."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Портрет Глічспіра"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Як сталося, що цей глюк має стільки волосся, скільки Апекс?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей глюк має волосся на обличчі. Як таке можливо?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Глюк має бороду. Це реально?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Дедуктивний. Моя база даних свідчить про те, що деякі збої були змодельовані на основі видатних особистостей інших рас. Це може бути один із них."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Він дуже схожий на земного поета на початку нашої історії."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Якийсь глюк художник? Чи здатні Глюки на мистецтво?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Глюк-поет? Ніколи не чув про таке."
+  }
+]

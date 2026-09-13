@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великі майстри чакраму можуть зловити його, не втрачаючи пальців."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чакрам"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Чакрам ^yellow;^reset;"
+  }
+]

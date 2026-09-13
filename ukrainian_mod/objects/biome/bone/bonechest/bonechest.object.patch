@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скриня з кістки. Сподіваюся, він не наповнений кістковим мозком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кістяна грудна клітка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, ця скриня повністю зроблена з кісток."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Скриня з кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран вразив шахами. Sssll виглядає цікаво зламати."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "несхвально. Ця скриня вирізана з кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я міг би використовувати це, щоб зберігати всі мої пентаграми та чорні свічки!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Все, що померло, щоб створити цю скриню, заслуговувало кращого кінця."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Кістяна грудна клітка. Можливо, це зроблено з грудної клітки."
+  }
+]

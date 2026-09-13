@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зелений феєрверк"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Час для святкування!"
+  }
+]

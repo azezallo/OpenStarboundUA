@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Здається, він в основному використовується для введення даних. Нічого надто цікавого."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Малий комп'ютер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "комп'ютер. Клавіатура замала для пальців Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, що це працює?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Комп’ютер для друку та перегляду."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. Я відчуваю спорідненість із цим людським комп’ютером."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "комп'ютер. Він запускає програму, яка вимагає від вас регулярного введення коду."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Комп'ютер людини. Технологічно це вражає."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це комп'ютер. Я не впевнений, що це актуально."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створений для воїна, який є охоронцем миру - стійким і непохитним."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дисфотичний нагрудник"
+  }
+]

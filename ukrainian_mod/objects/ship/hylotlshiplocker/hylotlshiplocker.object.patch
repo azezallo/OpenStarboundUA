@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шафка. Зберігайте деякі речі, чому б і ні?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Корабельний корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Шафка. Досить легко зламати!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Hylotl розробили цю шафку не зовсім з урахуванням безпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран з усіх сил намагається зламати шафку, але зрештою вдається."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цинічно. Навіть Флоран міг зламати цю просту шафку."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не знаю, чому Hylotl навіть потрудилися замкнути цей відсік для зберігання. Хто завгодно міг проникнути."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Надійна шафка. Лише найспритніші злодії могли проникнути туди."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шафка для зберігання речей."
+  }
+]

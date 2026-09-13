@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вони зігріватимуть дуже невелику частину того, хто їх носить."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Доісторичні вовняні штани"
+  }
+]

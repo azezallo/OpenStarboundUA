@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Дрібні червоподібні істоти звиваються під поверхнею цього каменя.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Жахливий камінь",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Враження. Схоже, хробаки в цьому камені допомагають підтримувати його жорсткість.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ворушкий черв'якамінь!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Усередині цього каменя крутяться дрібні хробаки, най їх шляк трафить.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

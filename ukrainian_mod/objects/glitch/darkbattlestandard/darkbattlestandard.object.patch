@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Темний картатий прапор із емблемою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Темний бойовий штандарт"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цікаво, це тут для позначення території?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, чи темні кольори зробили б це більш загрозливим?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не дуже любить прапор. Нудні кольори."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Глюки, які роблять прапори з такими кольорами, часто не найкращі люди."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Похмурий кольоровий банер, який можна розмістити де завгодно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Похмурі кольори показують, що Hylotl не зробив цього."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей прапор такий темний, що люди замисляться, чи це попереджувальний знак."
+  }
+]

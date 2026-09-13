@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Плитка з гладко шліфованого каменю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кам'яна плитка"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Цей камінь був ретельно розгладжений у плитки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Камені, відполіровані в красиву плитку."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Stone cut 'n polished into some fancy lookin' tiles."
+  }
+]

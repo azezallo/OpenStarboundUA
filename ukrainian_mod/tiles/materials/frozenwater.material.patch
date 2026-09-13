@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Трохи природно гладкого льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гладкий лід"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Спосіб замерзання цього льоду зробив його надзвичайно гладким."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssslippy заморожена вода."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "This ice is mighty slick."
+  }
+]

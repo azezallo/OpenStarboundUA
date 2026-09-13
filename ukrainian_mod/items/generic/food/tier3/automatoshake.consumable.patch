@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Автоматичний молочний коктейль! ммм"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Автоматичне струшування"
+  }
+]

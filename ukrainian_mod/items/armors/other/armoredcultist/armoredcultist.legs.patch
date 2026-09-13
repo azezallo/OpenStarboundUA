@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Броньований наколенник культиста."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Броньований культист Грівз"
+  }
+]

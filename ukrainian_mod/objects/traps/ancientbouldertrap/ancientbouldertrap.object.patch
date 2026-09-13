@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пастка, яка кидає важкі брили на нічого не підозрюючих зловмисників."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стародавня пастка для валунів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Якщо я правильно розрахую свої рухи, я зможу уникнути падаючих валунів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Краще час для моїх рухів, я не хочу, щоб камінь впав на мене."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "З цієї діри падають важкі камені."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Хто зробить пастку, щоб скидати валуни з таким зручним часом?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "З цієї маленької дірки виходять валуни."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Кам’яну пастку легко уникнути за допомогою вчасних рухів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Котиться валуни!"
+  }
+]

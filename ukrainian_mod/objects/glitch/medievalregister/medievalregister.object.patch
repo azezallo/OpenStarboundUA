@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Механічний касовий апарат. Ка-цзин!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Касовий апарат"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Милий маленький касовий апарат."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "На цьому маленькому пристрої є цифри."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Маленька машина заплутала Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Ця каса приймає пікселі?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Старомодний касовий апарат."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Машина для підрахунку та зберігання чогось."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Машина для сортування пікселів."
+  }
+]

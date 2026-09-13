@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Квасоля, росте до неба."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "бобове стебло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Справжня квасоля!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Легендарний боб."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стебло квасолі стає великим, Флоран досягає неба."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підозрілий. Що може бути на верхівці бобового стебла?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені цей боб нагадує казку."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "З вершини повинен бути чудовий вид."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Квасоля, росте аж до неба."
+  }
+]

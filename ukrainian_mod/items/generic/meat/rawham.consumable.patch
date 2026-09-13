@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сира шинка. Мабуть, краще, якщо я приготую його спочатку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сира шинка"
+  }
+]

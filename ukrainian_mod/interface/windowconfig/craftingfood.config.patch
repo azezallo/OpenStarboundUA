@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": " Кухонний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "value": " ^#b9b5b2;Приготування їжі"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "value": "Пригот."
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnStopCraft/caption",
+    "value": "Зупинити"
+  }
+]

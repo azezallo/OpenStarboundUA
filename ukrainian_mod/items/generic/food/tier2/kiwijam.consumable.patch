@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гострий і освіжаючий. Спробуйте на тостах!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Варення з ківі"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виключно готичний стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Готичний стілець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Великий готичний стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Розкішне крісло. Але досить похмуро виглядає."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "На великому стільці дуже м'яко сидіти."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Крісло дуже готичного вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Прекрасно створене готичне крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Оксамитовий матеріал набивки вишуканий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шикарне крісло. Виглядає зручно."
+  }
+]

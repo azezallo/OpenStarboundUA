@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зрозуміло, це не може створити щит."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Генератор щитів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Перемикач. Він активує генератор щита."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей перемикач створює щит."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssswitch!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Цей маленький перемикач виглядає не таким потужним."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якщо я поверну цей перемикач, він увімкне та вимкне генератор щита."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Основний перемикач. Його можна використовувати для активації генератора щита."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я можу повернути цей перемикач, щоб увімкнути генератор щита."
+  }
+]

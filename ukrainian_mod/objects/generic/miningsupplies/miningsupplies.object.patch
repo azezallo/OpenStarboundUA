@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старий ящик із майнінговими припасами – для кожного майнера-початківця!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ящик для майнінгових припасів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я вважаю, що ці інструменти занадто погіршилися, щоб їх можна було використовувати."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Зсередини виходить старий іржавий запах."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче сховатися в старій коробці!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Цікаво, що це за людина створила."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Привіт-Хо!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці інструменти виготовлені вручну. Я схвалюю такий рівень відданості."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "У цій старій коробці повно інструментів для копання."
+  }
+]

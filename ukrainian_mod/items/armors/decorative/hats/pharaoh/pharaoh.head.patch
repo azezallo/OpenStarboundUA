@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Одягайтеся, як монарх минулих століть."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Головний убір фараона"
+  }
+]

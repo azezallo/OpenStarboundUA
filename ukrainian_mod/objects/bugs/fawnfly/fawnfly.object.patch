@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Його коричнево-коричневі крила важко помітити на деревах."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Оленяк"
+  }
+]

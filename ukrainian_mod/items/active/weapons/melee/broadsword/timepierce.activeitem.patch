@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це лезо може пробити тканину самого часу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тайм Пірс"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "value": "Зупинка часу"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Time Pierce ^жовтий;^скидання;"
+  }
+]

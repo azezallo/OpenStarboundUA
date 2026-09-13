@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ви ніколи не будете приречені з цим зручним космічним шоломом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зручний космічний шолом"
+  }
+]

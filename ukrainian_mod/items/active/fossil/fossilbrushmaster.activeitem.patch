@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Можна використовувати один раз для розкопок скам’янілості з підвищеним успіхом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Майстер Fossil Brush"
+  }
+]

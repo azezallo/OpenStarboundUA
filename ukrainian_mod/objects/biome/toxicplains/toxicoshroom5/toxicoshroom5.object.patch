@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Токсичний світиться туалет."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Токсичний світиться Oshroom"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це ніжно освітлена кімната."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця маленька туалетна кімната служить маленьким світлом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Світло схоже на дивну бульбашку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Різновид світяться грибка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця сяюча рослина дивно красива."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця туалетна кімната випромінює прекрасне світло, наче ніжна ковдра навколо себе."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Рослина, що світиться. Його світло вітається."
+  }
+]

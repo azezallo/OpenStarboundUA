@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сирний кіш із свіжими грибами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Киш з грибами"
+  }
+]

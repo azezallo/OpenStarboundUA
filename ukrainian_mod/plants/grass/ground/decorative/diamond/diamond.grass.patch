@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Алмазна квітка.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Алмазна квітка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Блиссскучі алмази.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Алмазна квітка.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

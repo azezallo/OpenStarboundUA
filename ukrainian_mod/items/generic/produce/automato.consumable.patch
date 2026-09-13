@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Автомати! Обов’язково виплюньте гвинти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "автомат"
+  }
+]

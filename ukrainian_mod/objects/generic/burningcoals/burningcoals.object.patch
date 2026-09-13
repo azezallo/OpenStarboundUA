@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Не обпікай ноги!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Палаюче вугілля"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Розжарене вугілля. На дотик вони гарячі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Горить вугілля. Вони виглядають гарячими."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран ненавидить вогненний камінь!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Ці розжарені вугілля виглядають небезпечно гарячими."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не думаю, що це те гаряче вугілля, по якому можна ходити."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Спека неприємна."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Горить вугілля. Досить гарячий, щоб спалити мої чоботи."
+  }
+]

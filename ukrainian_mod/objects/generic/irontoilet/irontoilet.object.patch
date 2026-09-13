@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Туалет з мечів. Ризикований."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Різкий туалет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це не найпривабливіший туалет, який я коли-небудь бачив."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не можу уявити, що ці речі будуть дуже популярні."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssspiky brain bowl, дизайн Флорана для власної мозкової чаші."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивування. Цей туалет справді безпечний лише для Глюків, яким він не потрібен."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Туалет з мечів. Тижнями мені будуть снитися кошмари."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можна було б віддати перевагу, якби ці мечі все ще використовувалися для бою."
+  }
+]

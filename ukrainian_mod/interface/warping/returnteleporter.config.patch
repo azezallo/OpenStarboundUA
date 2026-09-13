@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/destinations/0/name",
+    "value": "Телепорт назад"
+  },
+  {
+    "op": "replace",
+    "path": "/destinations/0/planetName",
+    "value": "Назад у світ"
+  }
+]

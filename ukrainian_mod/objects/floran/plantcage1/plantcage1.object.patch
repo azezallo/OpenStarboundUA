@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика клітка для в'язнів Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Велика дерев'яна клітка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця велика клітка, здається, призначена для транспортування в'язнів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Розмір цієї клітки підходить для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ця клітка створена для транспортування в'язня Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Вона виготовлена ​​з основних матеріалів, але ця клітка неймовірно міцна."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "У цій клітці не міг комфортно поміститися більше одного в’язня одночасно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це ідеальний розмір клітки для в’язня Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця клітка не дасть хлопцеві багато приватності."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Лоза.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Лоза",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Лоза.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Лоза.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

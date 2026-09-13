@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стара каліграфічна картина із зображенням раннього воїна Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Картина воїна Гілотла"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це виглядає як старовинна художня гравюра. Цікаво, як вони зберігають його в такому хорошому стані?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, наскільки різні культури мають різні стилі бою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "М'ясистий воїн краще би воював зі зброєю Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Ця поза воїна показує, що він готовий до бою."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей хлопець готовий вдарити! Захоплюючі речі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ранній воїн Гілотл, навчений захищати свій народ. Надихає."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей хлопець виглядає готовим до дії, чи не так?"
+  }
+]

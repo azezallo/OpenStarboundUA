@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Ґрати із залізних прутів. Усе ще міцні, хоч і підточені іржею.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Металев. ґрати",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Засмучено. Такі металеві ґрати можуть бути знайдені в підземеллях ґлітчів.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Міцні металеві грати.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Міцні металеві ґрати.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

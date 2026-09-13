@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дивне желе, яке ніби реагує на дотик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ендоморфне желе"
+  }
+]

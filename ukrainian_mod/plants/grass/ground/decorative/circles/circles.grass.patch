@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A plant with berries."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "A plant with berries."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Purple berries."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Рослина з ягодами."
+  }
+]

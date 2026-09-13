@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Думайте щасливі думки!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак перепризначення"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Перепризначення думок... Мені про це снилися кошмари."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Думки святі, як вони сміють!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану не подобається цей знак."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Симпатичний. Перепризначення думок поширене серед Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей знак неймовірно моторошний."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Кажуть, що медитація перемагає такі практики. Думки не можна перепризначити, якщо їх немає."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Знак не працює на мене. Я не відчуваю нічого іншого."
+  }
+]

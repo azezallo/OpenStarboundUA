@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/toggleCrafting/caption",
+    "value": "Готувати"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblText/value",
+    "value": "^#b9b5b2;Інгредієнти у лівий слот."
+  }
+]

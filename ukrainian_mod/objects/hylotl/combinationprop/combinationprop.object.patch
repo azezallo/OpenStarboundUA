@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Найкласніша штора."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кодовий замок Prop"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "-todo- це тимчасовий об'єкт..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "М'який на дотик."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Apex робить штору з важкого оксамиту, Floran виготовляє штору з ssskin."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Тактильний. Небагато предметів так приємно пестити."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці штори належать до особняка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці штори майже прилипають до шкіри Hylotl."
+  }
+]

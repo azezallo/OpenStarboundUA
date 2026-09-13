@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Смачні рулетики з рису і водоростей. Улюблений Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Суші"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеальний нагрудник. Майже ідеально."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ідеальний нагрудник"
+  }
+]

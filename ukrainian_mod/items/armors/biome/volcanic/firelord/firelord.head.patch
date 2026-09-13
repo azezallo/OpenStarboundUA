@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Подейкують, що в цьому шоломі можна почути шепіт минулого."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шлем Вогненного Господа"
+  }
+]

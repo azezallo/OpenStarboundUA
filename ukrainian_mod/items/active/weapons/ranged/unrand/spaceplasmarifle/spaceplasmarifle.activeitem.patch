@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сучасна штурмова гвинтівка, загартована для використання в екстремальних умовах."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плазмова штурмова гвинтівка"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "value": "Липкі плазмові міни"
+  }
+]

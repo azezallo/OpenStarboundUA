@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стілець пастельного кольору зі спинкою у формі серця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пастельний стілець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Спинка цього стільця має форму серця. Це креативно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Яке чарівне крісло!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Крісло гарного кольору."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Спинка цього стільця - сердечко... З сердечком поменше зверху!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "На цьому стільці точно багато сердець!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей стілець має дуже тропічні кольори. мені подобається"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не впевнений, що це крісло мені подобається, але я ціную увагу до деталей."
+  }
+]

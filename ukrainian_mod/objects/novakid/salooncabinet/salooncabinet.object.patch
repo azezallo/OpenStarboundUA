@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шафа для напоїв, укомплектована скляним посудом і пляшками дивної форми."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кабінет салону"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Шикарна шафа для напоїв, я не бачу бананового соку."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Шафа, повна склянок дивної форми та солодкої рідини."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Неприємні соки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Рідина всередині цих пляшок виглядає як сік."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вінтажна шафа для напоїв. Я не знаю, що в цих пляшках."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Шафа для напоїв. Рідина в цих пляшках чудово пахне..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Добре для котляра та його помічника! Хоча я не бачу Prairie Dew..."
+  }
+]

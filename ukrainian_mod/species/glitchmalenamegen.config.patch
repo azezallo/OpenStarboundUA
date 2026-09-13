@@ -1,0 +1,247 @@
+[
+  {
+    "op": "replace",
+    "path": "/names/1/1/0",
+    "value": "Stark"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/1",
+    "value": "Brass"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/2",
+    "value": "Iron"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/3",
+    "value": "Rend"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/4",
+    "value": "Cleave"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/5",
+    "value": "Arrow"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/6",
+    "value": "Cog"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/7",
+    "value": "Siege"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/8",
+    "value": "Long"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/9",
+    "value": "Stone"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/10",
+    "value": "Turn"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/11",
+    "value": "Brave"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/12",
+    "value": "Gold"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/13",
+    "value": "Storm"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/14",
+    "value": "Farm"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/15",
+    "value": "Star"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/16",
+    "value": "Free"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/17",
+    "value": "Wind"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/18",
+    "value": "Swift"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/19",
+    "value": "Thunder"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/20",
+    "value": "Jet"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/21",
+    "value": "Spark"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/22",
+    "value": "Bronze"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/23",
+    "value": "ніч"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/24",
+    "value": "Іржа"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/0",
+    "value": "болт"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/1",
+    "value": "товариш"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/2",
+    "value": "серце"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/3",
+    "value": "ланцюг"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/4",
+    "value": "дуб"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/5",
+    "value": "перо"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/6",
+    "value": "марш"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/7",
+    "value": "спис"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/8",
+    "value": "лезо"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/9",
+    "value": "лжец"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/10",
+    "value": "лорд"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/11",
+    "value": "дивитися"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/12",
+    "value": "щит"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/13",
+    "value": "щука"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/14",
+    "value": "стіна"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/15",
+    "value": "граблі"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/16",
+    "value": "палець"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/17",
+    "value": "latch"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/18",
+    "value": "пошта"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/19",
+    "value": "спис"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/20",
+    "value": "дріт"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/21",
+    "value": "цвях"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/22",
+    "value": "foot"
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/23",
+    "value": "hand"
+  }
+]

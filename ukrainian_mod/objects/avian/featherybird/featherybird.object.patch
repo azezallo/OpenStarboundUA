@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Величезне пір'я росте з цієї маленької статуї птаха."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Декоративний птах"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чи пір’я взялося від такого птаха?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Авіани будують їх для прикраси своїх храмів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смачна на вигляд пташка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Красива статуя з пір'ям."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гарна статуя пташки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пір'я прекрасніше статуї."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця статуя має гарне на вигляд пір’я."
+  }
+]

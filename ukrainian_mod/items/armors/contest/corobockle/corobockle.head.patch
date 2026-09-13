@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленька людина, щоб голова була в теплі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Коробокль"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Я маю відпрацювати свої танцювальні рухи... Можливо, пізніше."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "Я справді фантастичний танцюрист! Я просто, ех, не хочу це зараз доводити."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "Я найкращий танцюрист по цей бік сонячної системи! Чесно!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "value": "Я блукаю між зірками, принижуючи суперницьких танцюристів своїм нестримним балетом. Захоплююче, правда?"
+  }
+]

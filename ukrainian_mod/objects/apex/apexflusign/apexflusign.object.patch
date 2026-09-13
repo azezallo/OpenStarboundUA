@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мавпячий грип? Звучить серйозно..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мавпячий грип плакат"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мавпячий грип спустошив суспільство Apex. Як не дивно, ніхто з влади не хворів. Ходили чутки, що це був експеримент."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чи можуть птахи заразитися мавпячим грипом?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дурний Верхній грип, Флоран з'їсть вас."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Впевнений. Мавпячий грип не впливає на глюк."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я сподіваюся, що люди не можуть заразитися мавпячим грипом."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Хвороба і страждання. Apex заслуговує нашої допомоги."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не хочу це ловити."
+  }
+]

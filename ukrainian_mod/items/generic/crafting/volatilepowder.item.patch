@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Небезпечний порох, корисний для виготовлення вибухівки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Летючий порошок"
+  }
+]

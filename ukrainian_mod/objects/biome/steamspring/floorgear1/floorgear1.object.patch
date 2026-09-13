@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Напівзакопана в землю іржава шестерня."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підлогове спорядження"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Можливо, це спорядження колись існувало з певною метою, але зараз воно виглядає як прикраса."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це старе спорядження тепер більше схоже на прикрасу, ніж на техніку."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран цікавиться, чи металеве колесо гостре."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Is this meant to turn or is it just decoration?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це спорядження виглядає досить круто - цікаво, чи воно справді обертається?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей старий механізм, безсумнівно, пропрацював багато років без обертання."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Навіть трохи жиру не змусить цю стару штуку знову рухатися."
+  }
+]

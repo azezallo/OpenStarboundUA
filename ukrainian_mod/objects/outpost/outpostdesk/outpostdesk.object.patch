@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Базовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Базовий металевий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Письмовий стіл. Здається функціональним."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Досить гарний на вигляд письмовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "письмовий стіл!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безпристрасний. Це письмовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Письмовий стіл. Здається, нормально."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Базовий стіл. Це не в моїх смаках."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Письмовий стіл. Для тих, хто любить сидіти і писати."
+  }
+]

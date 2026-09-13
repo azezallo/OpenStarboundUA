@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стіл з кришталю. Ідеально підходить для багатих страв."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кришталевий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стіл з кришталю. чудово"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Гарний кришталевий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран може нарізати кришталь, він не залишить слідів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "ревнощі. Як цей стіл залишається таким блискучим?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сидячи за цим столом, я почувався б королівською особою. Чарівний гонорар."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Поверхня цього столу мерехтить, як спокійне озеро."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Два в одному, стіл і дзеркало."
+  }
+]

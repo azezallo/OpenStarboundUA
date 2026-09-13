@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сльота"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Танучий лід утворює густу сльоту."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Іформований. Slush like this is made from melted ice."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Сльота холодна волога сльота."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Ціле місиво замерзаючої сльоти."
+  }
+]

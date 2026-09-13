@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Здобути Артефакт Ґлітчів",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Артефакт Ґлітчів^reset; знаходиться в замку, під охороною одного, дещо дивного, Ґлітча. ^green;Чи не міг би ти відправитись до його фортеці і поговорити з ним^reset;, серденько?",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Я так тобою пишаюся! Після всього, що ти зробив, я знаю, що ти впораєшся з викликом, який стоїть перед нами. А щодо жінки, з якою ти знову бився... ^orange;Мій старий щоденник^white; може дати тобі деякі відповіді.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Я отримала координати ^orange;Фортеці Барона^reset;. ^green;Використай комп'ютер корабля^reset;, щоб вирушити туди.",
+    "path": "/scriptConfig/missionRadioMessage/text",
+    "op": "replace"
+  },
+  {
+    "value": "Знайди ^orange;артефакт^reset; у ^orange;старій фортеці Ґлітчів^reset;",
+    "path": "/scriptConfig/descriptions/artifact",
+    "op": "replace"
+  },
+  {
+    "value": "Поверніться до ^orange;Естер^reset; на ^orange;Ковчег^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

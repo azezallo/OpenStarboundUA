@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зручний масляний ліхтар. Обережно, щоб не розлити."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Залізний ліхтар"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Нічого особливого, але служить своїй меті."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей простий ліхтар освітить навіть найтемнішу кімнату."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Безпечний ліхтар для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Захоплення. Міцний ліхтар."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Акуратний, міцний ліхтар."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Корисне джерело світла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це досить добре освітлює кімнату."
+  }
+]

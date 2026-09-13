@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Мені здається, воно змилося.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Воно втекло?",
+    "path": "/scriptConfig/dialog/converse/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ми в безпеці?",
+    "path": "/scriptConfig/dialog/converse/floran/human/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти бачив, куди воно поділося?",
+    "path": "/scriptConfig/dialog/converse/floran/human/1",
+    "op": "replace"
+  },
+  {
+    "value": "Куди воно поділося?",
+    "path": "/scriptConfig/dialog/converse/floran/apex/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я їх не бачу!",
+    "path": "/scriptConfig/dialog/converse/floran/apex/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ми втратили слід!",
+    "path": "/scriptConfig/dialog/converse/floran/avian/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти це бачив?",
+    "path": "/scriptConfig/dialog/converse/floran/avian/1",
+    "op": "replace"
+  },
+  {
+    "value": "Він не міг просто зникнути...",
+    "path": "/scriptConfig/dialog/converse/floran/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Знищ його!",
+    "path": "/scriptConfig/dialog/converse/floran/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "А ти непоганий!",
+    "path": "/scriptConfig/dialog/converse/floran/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тебе для цього тренували?",
+    "path": "/scriptConfig/dialog/converse/floran/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Відмінна робота!",
+    "path": "/scriptConfig/dialog/converse/floran/hylotl/0",
+    "op": "replace"
+  },
+  {
+    "value": "Набої скінчилися!",
+    "path": "/scriptConfig/dialog/converse/floran/hylotl/1",
+    "op": "replace"
+  }
+]

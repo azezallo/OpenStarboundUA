@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Випромінює імпульси для побудови щільності матеріалів поблизу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Печерний детектор"
+  }
+]

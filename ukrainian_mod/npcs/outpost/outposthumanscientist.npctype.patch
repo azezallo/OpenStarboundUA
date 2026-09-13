@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "The entity that destroyed Earth could strike other worlds. We must devise some means of fighting back!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "Сутність, яка знищила Землю, могла вразити інші світи. Ми повинні винайти якісь засоби відсічі!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/human/0",
+    "value": "A fellow survivor! You wouldn't happen to know any scientists who could assist me with my research, would you?"
+  }
+]

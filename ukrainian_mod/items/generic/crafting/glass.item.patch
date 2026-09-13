@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скло, яке використовується для виготовлення виробів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "скло"
+  }
+]

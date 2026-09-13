@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Золота платформа",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Для найбагатших: платформа, виготовлена із золота.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Зачарування. Ця платформа зроблена з чистого золота.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Золоті платформи. Як прекрасссно.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Золото! Ця платформа із золота, як файний дукач!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

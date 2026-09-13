@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дозволяє назавжди оновити свій корабель до більшого корвета типу Sparrow."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фальшива ліцензія Sparrow"
+  }
+]

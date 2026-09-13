@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Банка у формі зайчика, повна попелу. Можливо, я зможу його розбити."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зайчик Jar"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Багато золи в цій банці. Це можуть бути останки."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Попіл у цій банці — це останки птаха, який помер від сорому. Кролик позначає Птаха всередині як такого, що ніколи не отримає крил в ефірі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це дупа птаха чи іншої істоти?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Зола всередині пташиного походження, тож чому баночка має таку форму?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Банка від зайчика, повна залишків попелу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Навіщо птахам зберігати прах своїх померлих у такій глечику?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця баночка ідеально підходить для стрільби."
+  }
+]

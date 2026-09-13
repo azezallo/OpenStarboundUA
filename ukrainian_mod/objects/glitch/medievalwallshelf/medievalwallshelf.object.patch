@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дерев'яна настінна полиця для демонстрації дрібничок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічна настінна полиця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Проста дерев'яна полиця. Виглядає досить стабільно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Міцна полиця з дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дерев'яна полиця дуже міцна."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Ця дерев'яна полиця міцна і стійка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Пристойна дерев'яна полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Щільно закріплена дерев'яна полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Зручна настінна полиця. Сюди можна поставити що завгодно."
+  }
+]

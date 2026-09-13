@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Аттікус",
+    "path": "/identity/name",
+    "op": "replace"
+  },
+  {
+    "value": "Існують три гладіатори, і кожен б'ється по-своєму.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Боєць є найбільшим і найсильнішим з гладіаторів, але розмір робить його повільним, і його легко обігнати.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стрілець триматиме тебе на відстані. Якщо зможеш підібратися ближче - зможеш його дістати.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Електричне лезо берсерка сповільнюватиме тебе, роблячи вразливим для атак бійця. Тримай дистанцію.",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  }
+]

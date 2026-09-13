@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На ярлику написано: «Скандроїд у нескінченних пошуках. Ніхто не знає, для чого»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фігурка Scandroid"
+  }
+]

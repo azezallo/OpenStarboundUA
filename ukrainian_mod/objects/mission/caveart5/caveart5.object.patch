@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Печерне мистецтво із зображенням підношення."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Таємниче печерне мистецтво"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це стародавня істота дає щось Флорану?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, це показує велику істоту, яка дає щось щасливим фігурам."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це зображення великого подарунка Флорану."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Здається, це груба копія події, яка сталася давно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, скільки років цій картині?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Здається, ця картина показує велику істоту, яка дає надзвичайно важливий дар людям, які стоять під ним."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "На цій картині показано, як хтось великий передає подарунок. Здається знайомим."
+  }
+]

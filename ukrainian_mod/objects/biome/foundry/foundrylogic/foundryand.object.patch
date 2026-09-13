@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "<Перемикач /'І'/. Для роботи потрібно, щоб усі входи були /'on'/.>"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ливарний завод і комутатор"
+  }
+]

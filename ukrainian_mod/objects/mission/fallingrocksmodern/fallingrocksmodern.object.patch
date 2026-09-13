@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Попереджувальний знак із зображенням падаючого каміння."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак падіння каміння"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей знак явно попереджає про нестійкі породи."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Знак, що попереджає про падіння каміння."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssign для нестабільних порід."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "хвилювався. Можливо, це означає, що територія небезпечна?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Падаючі камені. Чому печера хоч раз не може бути безпечною?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можливо, художник намагався застерегти інших."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Краще стережіться каміння, що падає попереду."
+  }
+]

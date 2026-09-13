@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Елегантний і стильний парадний одяг."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Формальні штани"
+  }
+]

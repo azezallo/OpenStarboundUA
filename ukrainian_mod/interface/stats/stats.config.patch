@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/maxHealth/label",
+    "value": "Макс. здоров'я"
+  },
+  {
+    "op": "replace",
+    "path": "/maxHealth/description",
+    "value": "-todo-"
+  },
+  {
+    "op": "replace",
+    "path": "/healthRegen/label",
+    "value": "Регенерація здоров'я"
+  },
+  {
+    "op": "replace",
+    "path": "/healthRegen/description",
+    "value": "-todo-"
+  },
+  {
+    "op": "replace",
+    "path": "/maxEnergy/label",
+    "value": "Макс. енергія"
+  },
+  {
+    "op": "replace",
+    "path": "/maxEnergy/description",
+    "value": "-todo-"
+  },
+  {
+    "op": "replace",
+    "path": "/energyRegen/label",
+    "value": "Регенерація енергії"
+  },
+  {
+    "op": "replace",
+    "path": "/energyRegen/description",
+    "value": "-todo-"
+  },
+  {
+    "op": "replace",
+    "path": "/protection/label",
+    "value": "Броня"
+  },
+  {
+    "op": "replace",
+    "path": "/protection/description",
+    "value": "-todo-"
+  },
+  {
+    "op": "replace",
+    "path": "/powerMultiplier/label",
+    "value": "Шкода зброї"
+  },
+  {
+    "op": "replace",
+    "path": "/powerMultiplier/description",
+    "value": "-todo-"
+  }
+]

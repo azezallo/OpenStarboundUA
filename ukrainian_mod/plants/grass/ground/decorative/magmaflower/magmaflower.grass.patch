@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Кіссстки відженуть твоїх ворогів!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "У флорана є кіссстки на продажжж!",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Повертайссся, флоран чекатиме. Ти обов'язззково повернешшшся!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Повертайссся, якщо захочешшш продати флорану пару кісссток!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

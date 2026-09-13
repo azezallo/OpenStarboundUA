@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Морський",
+    "path": "/identity/name",
+    "op": "replace"
+  },
+  {
+    "value": "Силовий",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Галактич.",
+    "path": "/scriptConfig/dialog/converse/Hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хвильовий",
+    "path": "/scriptConfig/dialog/converse/Hylotl/hylotl/0",
+    "op": "replace"
+  }
+]

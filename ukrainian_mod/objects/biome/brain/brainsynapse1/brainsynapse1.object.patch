@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нервове закінчення щупальця"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Синапс"
+  }
+]

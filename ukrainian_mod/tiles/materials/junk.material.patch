@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Купа випадкового мотлоху."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Купа мотлоху"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Observant. I can see many different types of twisted broken debris in this pile."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Так багато мотлоху."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Велика купа сміття."
+  }
+]

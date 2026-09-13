@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці модні брюки-смокінг дозволять вам вийти стильно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Брюки Moneybags"
+  }
+]

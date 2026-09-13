@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей нагрудний щиток створений, щоб відбити атаки величезних риб, а також звичайних ворогів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ocean Chestguard"
+  }
+]

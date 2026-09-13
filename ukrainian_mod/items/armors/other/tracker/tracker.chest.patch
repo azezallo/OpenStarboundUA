@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцний легкий нагрудний щиток."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нагрудний оберег слідопита"
+  }
+]

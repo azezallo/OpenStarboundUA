@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ви ніколи не знаєте, коли мотузка може стати в нагоді."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рядок"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Скручена шипаста рослина.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скручена шипаста рослина",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран бачить сссскручену й госсстру россслину.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Скручена шипаста рослина.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

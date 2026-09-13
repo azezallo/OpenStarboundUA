@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стандартний туалет гуртожитку Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Туалет гуртожитку Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "У цьому туалеті є автоматичний злив."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Туалет! У мене є кілька чудових ідей, які стосуються цього."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не любить ділитися туалетом з іншими студентами."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Цей туалет дуже чистий!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ви чули анекдот про туалет? Нічого, це занадто брудно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мені не потрібно цим користуватися. Мені треба поспішати на церемонію!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Так Це туалет в порядку."
+  }
+]

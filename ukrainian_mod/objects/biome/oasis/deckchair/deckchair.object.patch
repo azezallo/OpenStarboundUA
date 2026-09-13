@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розкладне крісло для відпочинку. Виглядає розслаблююче."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шезлонг"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це просте крісло виглядає створеним для відпочинку."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це крісло виглядає створеним для відпочинку."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче відкинутися й розслабитися."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Оновлено. Здається, це крісло розвіє мої хвилювання."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це крісло ідеально підходить для того, щоб відкинутися на спинку та відпочити."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я думаю, це крісло змушує кожного, хто в ньому сидить, відчувати спокій."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це крісло виглядає ідеально, щоб трохи підняти чоботи."
+  }
+]

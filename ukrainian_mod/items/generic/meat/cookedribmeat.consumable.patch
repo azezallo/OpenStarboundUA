@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Передайте соус барбекю!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Варені ребра"
+  }
+]

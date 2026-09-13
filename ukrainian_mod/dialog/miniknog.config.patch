@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "value": "Великий Мавп стежить за тобою, чужинцю."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/1",
+    "value": "Незалежність — це рабство. Покірність — це сила."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/2",
+    "value": "Поки ти не влаштовуєш сцен, тебе тут не скривдять."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/3",
+    "value": "Не лякай тут нікого. Взагалі, намагайся не шуміти."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/4",
+    "value": "Міннаук сильний, а Великий Мавп стежить."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/5",
+    "value": "Жодна сила у цьому всесвіті не зрівняється з Міннауком!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/6",
+    "value": "Ти можеш пройти, чужинцю. Тільки не створюй проблем."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/7",
+    "value": "Міннаук могутній, чужинцю. Тобі варто було б поважати нас."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/8",
+    "value": "Я стежу за тобою, так само як Великий Мавп стежить за всіма нами!"
+  }
+]

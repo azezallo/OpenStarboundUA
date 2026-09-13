@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці нагороди отримують люди, які перемогли в грі \"Mazebound64\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Виграшний квиток"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зухвалий фетровий капелюх. Шик і а-ля мод."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зухвалий берет"
+  }
+]

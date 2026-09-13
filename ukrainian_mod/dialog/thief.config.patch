@@ -1,0 +1,312 @@
+[
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/0",
+    "value": "Гей, це не твоє!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/apex/default/0",
+    "value": "Знаєш, наслідки за крадіжку вкрай суворі. Міннаук такого не прощає."
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/apex/default/1",
+    "value": "Як ти можеш виправдати цю крадіжку? Великий Мавп не схвалив би."
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/apex/default/2",
+    "value": "Чому ти береш речі, які тобі не належать?"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/apex/default/3",
+    "value": "Припини! Чому ти крадеш ці речі!?"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/apex/default/4",
+    "value": "Ці речі не належать тобі!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/avian/default/0",
+    "value": "Гей, це не твоє!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/avian/default/1",
+    "value": "Ти справді зможеш насолоджуватися чимось, що здобув крадіжкою? Клуекс засуджує це."
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/avian/default/2",
+    "value": "Будь ласка, не забирай у нас речі. Заради Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/avian/default/3",
+    "value": "Це не твоє!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/avian/default/4",
+    "value": "Знаєш, крадіжка не буває без жертв. Клуекс усе бачить."
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/floran/default/0",
+    "value": "Ссспинись! Не кради речі Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/floran/default/1",
+    "value": "Це не твоєссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/floran/default/2",
+    "value": "Флоран не буде миритися з крадіжкоюссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/floran/default/3",
+    "value": "Флоран не враженийссс! Припини красти!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/floran/default/4",
+    "value": "Поганий незнайомецьссс! Крадіжка буде покарана!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/human/default/0",
+    "value": "Гей! Ці речі не належать тобі!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/human/default/1",
+    "value": "У що ти граєш? Ти не можеш просто ходити і красти!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/human/default/2",
+    "value": "Що!? Що ти робиш!? Це крадіжка!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/human/default/3",
+    "value": "Воу воу воу, хто сказав, що ти можеш це взяти?"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/human/default/4",
+    "value": "Це не нормально! Припини красти!!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/hylotl/default/0",
+    "value": "Будь ласка, негайно припиніть цю крадіжку!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/hylotl/default/1",
+    "value": "Неправильно брати те, що вам не належить!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/hylotl/default/2",
+    "value": "Ганьба вам, ці предмети вам не належать!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/hylotl/default/3",
+    "value": "Ця крадіжка свідчить про ваш характер."
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/hylotl/default/4",
+    "value": "Я благаю вас утриматися, будь ласка, припиніть красти у нас!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/glitch/default/0",
+    "value": "*Жах.* Ти крадеш!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/glitch/default/1",
+    "value": "*Гнів.* Ти береш речі, які тобі не належать!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/glitch/default/2",
+    "value": "*Розчарування.* Я вважав, що ти хороша людина, а не крадій."
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/glitch/default/3",
+    "value": "*Спантеличеність.* Вони не твої, чому ти їх береш?"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/glitch/default/4",
+    "value": "*Приголомшення.* Крадій!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/default/default/0",
+    "value": "Охорона! Тут злочинець!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/avian/default/0",
+    "value": "Охорона! Зупиніть цього злочинця!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/avian/default/1",
+    "value": "Ти крадій! Охорона, швидше сюди!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/avian/default/2",
+    "value": "Охорона зупинить твої крадіжки!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/avian/default/3",
+    "value": "Охорона! Схопіть цього крадія!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/avian/default/4",
+    "value": "Припини красти! Охорона, допоможіть!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/apex/default/0",
+    "value": "Охорона! Тут злочинець!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/apex/default/1",
+    "value": "Крадіжка! Охорона!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/apex/default/2",
+    "value": "Я не терпітиму шахрая! Охорона!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/apex/default/3",
+    "value": "Тут крадуть речі! Охорона, швидше сюди!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/apex/default/4",
+    "value": "Ти повинен припинити брати речі! Охорона!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/human/default/0",
+    "value": "Припини красти! Охорона, допоможіть!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/human/default/1",
+    "value": "Охорона! Схопіть цього жахливого грабіжника!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/human/default/2",
+    "value": "А! Охорона, схопіть того крадія!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/human/default/3",
+    "value": "О ні, о ні! Грабіжник! Охорона!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/human/default/4",
+    "value": "Охорона, схопіть цього злочинця!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/hylotl/default/0",
+    "value": "Охороно! Тут знаходиться злочинець!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/hylotl/default/1",
+    "value": "Зломщик! Шахрай! Крадій! Охороно, ви мені потрібні!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/hylotl/default/2",
+    "value": "Крадіжка! Охороно, допоможіть!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/hylotl/default/3",
+    "value": "Це не можна терпіти! Охороно, схопіть цього крадія!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/hylotl/default/4",
+    "value": "Охороно, захопіть цього негідника!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/floran/default/0",
+    "value": "Охоронассс! Флоран знайшов крадія!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/floran/default/1",
+    "value": "Охорона вполює тебе за цессс!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/floran/default/2",
+    "value": "Ти злочинецьссс! Охоронассс!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/floran/default/3",
+    "value": "Флоран не дозволить тобі вийти сухим з водиссс! Охоронассс!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/floran/default/4",
+    "value": "Вссе - Флоран доповість охороні на тебе!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/glitch/default/0",
+    "value": "*Обурення.* Охорона, схопіть цього злочинця!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/glitch/default/1",
+    "value": "*Паніка.* Охорона, охорона! Крадій!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/glitch/default/2",
+    "value": "*Обурення.* Як ти можеш це робити!? Охорона, допоможіть!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/glitch/default/3",
+    "value": "*Гнів.* Ти злодійкуватий негіднику! Охорона!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/glitch/default/4",
+    "value": "*Лють.* Припини цю крадіжку! Охорона, допоможіть мені!"
+  }
+]

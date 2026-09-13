@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Поливайте свої культури за допомогою цієї модної лійки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лійка"
+  }
+]

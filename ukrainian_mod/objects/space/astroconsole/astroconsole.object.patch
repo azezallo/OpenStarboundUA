@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий дисплей, створений для відстеження різноманітних пристроїв."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Консоль Astro"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мені подобається цей великий дисплей, здається важливим."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "На мою думку, ця консоль виглядає трохи незграбно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Такий блискучий дисплей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Цей інформаційний дисплей у хорошому стані."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "До такої великої консолі можна підключити будь-що."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такий розмір дисплея консолі дозволяє легко читати інформацію."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це потужна консоль."
+  }
+]

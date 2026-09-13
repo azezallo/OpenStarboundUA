@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Земний Захист",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Переживи випускний день.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Роки тренувань окупилися - ти пережив випускний день!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Відвідай свою випускну церемонію",
+    "path": "/scriptConfig/descriptions/graduate",
+    "op": "replace"
+  },
+  {
+    "value": "Візьми маніпулятор матерії",
+    "path": "/scriptConfig/descriptions/matterManipulator",
+    "op": "replace"
+  },
+  {
+    "value": "Врятуйся від руйнування",
+    "path": "/scriptConfig/descriptions/escape",
+    "op": "replace"
+  }
+]

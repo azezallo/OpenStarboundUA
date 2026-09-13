@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Мої сенсори показують наявність ^orange;стародавнього джерела енергії^reset;. Є ^green;32% ймовірності, що його варто дослідити^reset;, і 68% ймовірності, що в тебе немає ідей краще.",
+    "path": "/gaterepair-findGate/text",
+    "op": "replace"
+  },
+  {
+    "value": "Мої сканери вловлюють невідомий радіосигнал біля цього ^orange;стародавнього джерела енергії^reset;.",
+    "path": "/gaterepair-gateFound1/text",
+    "op": "replace"
+  },
+  {
+    "value": "???",
+    "path": "/gaterepair-gateFound1b/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо ти прийняв це повідомлення, то ти знайшов ^orange;стародавні ворота^reset; - будь ласка, використай їх, щоб знайти мене. ^green;Ти можеш увімкнути ворота за допомогою ^orange;фрагментів ядра^reset;.",
+    "path": "/gaterepair-gateFound1b/text",
+    "op": "replace"
+  },
+  {
+    "value": "Я провів сканування найближчих ^orange;фрагментів ядра^reset;. На цій планеті вони виникають природним шляхом. Показання свідчать про численні кластери руд глибоко під землею, біля ядра планети.",
+    "path": "/gaterepair-gateFound2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Здається, ти успішно активував браму. І, схоже, є ще одне ^orange;повідомлення^reset;.",
+    "path": "/gaterepair-gateOpened1/text",
+    "op": "replace"
+  },
+  {
+    "value": "???",
+    "path": "/gaterepair-gateOpened2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Будь ласка, заходь^reset;. Мені терміново потрібна допомога, доля самого всесвіту залежить від цього. ^orange;Використай цю стародавню браму і зустрінься зі мною на руїнах ковчега, відразу за аванпостом^reset;.",
+    "path": "/gaterepair-gateOpened2/text",
+    "op": "replace"
+  }
+]

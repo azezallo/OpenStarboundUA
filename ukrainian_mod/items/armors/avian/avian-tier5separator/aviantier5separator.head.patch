@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блискучий бойовий шолом із яскравої чистої віолії."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шлем Фенікса"
+  }
+]

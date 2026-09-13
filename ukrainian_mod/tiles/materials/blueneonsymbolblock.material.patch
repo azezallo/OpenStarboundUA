@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Зоряний",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ударний",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Псі",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Поліцей.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Черепний",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

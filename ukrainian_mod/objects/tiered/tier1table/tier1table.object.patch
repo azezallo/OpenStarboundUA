@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Простий залізний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Залізний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей залізний стіл виконує свою функцію."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Міцний залізний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Досить хороший стіл, щоб Флоран міг нарізати м’ясо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Добре зроблений залізний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гарний залізний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Що стосується простих залізних столів, то цей непоганий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хороший залізний стіл."
+  }
+]

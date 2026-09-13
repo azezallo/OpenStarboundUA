@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Залізне ліжко з мечів. Ідеально підходить для енергійного сну."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Різке ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Незручне на вигляд ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Яка незвичайно гостра грядка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ліжко sssrp і повне ssspikey."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Блаженство. Зручне залізне ліжко. Тут Глюк може спокійно відпочити."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не думаю, що я буду спати багато на такому ліжку."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Надзвичайно брутальне ліжко. Такий дизайн не передбачає комфорту."
+  }
+]

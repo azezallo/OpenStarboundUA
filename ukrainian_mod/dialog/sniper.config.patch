@@ -1,0 +1,117 @@
+[
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Чужинець!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/0",
+    "value": "Йо, мішень для тренування!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/1",
+    "value": "Я зараз нароблю в тобі дірок, леґіню!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/2",
+    "value": "Скуштуй свинцю, леґіню!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/3",
+    "value": "Йо, чому моя пушка не вміщає більше набоїв?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/4",
+    "value": "Піу-піу-піу!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/5",
+    "value": "Я хочу більшу пушку, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/6",
+    "value": "Ану вертайся! Я хочу пристрелити тебе, ґаздо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/7",
+    "value": "Мандрівники — файна мішень для тренування!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/8",
+    "value": "Вмирай швидше, мені вже нудно, йо."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/9",
+    "value": "Бах-бах-бах!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/10",
+    "value": "Коли я закінчу, в тобі буде більше дірок, ніж у друшляку, файно!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/11",
+    "value": "Аргх! Я хочу більшу пушку, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/12",
+    "value": "Я зараз підірву тебе, леґіню!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/13",
+    "value": "Йо, нарешті є в кого постріляти!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/0",
+    "value": "Флоран зассстрелить чужинця!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/1",
+    "value": "Ти не втечешссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/2",
+    "value": "Флоран зробить у тобі діркиссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/3",
+    "value": "Незнайомець не доссстатньо швидкий, щоб втекти від куліссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/4",
+    "value": "Тобі не сссховатися від Флорана! Флоран виссстежить тебе!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/5",
+    "value": "Чужинецьссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/6",
+    "value": "Флоран вб'є чужинцяссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/7",
+    "value": "Ти не виживешссс! Флоран не дозволить!"
+  }
+]

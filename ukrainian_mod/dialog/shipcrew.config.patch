@@ -1,0 +1,507 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/human/0",
+    "value": "Привіт, землянине! Зачекай, занадто рано?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/1",
+    "value": "Ти ж не колишній з USCM, чи не так? Ні? Фух."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/2",
+    "value": "Робота на кораблі може бути важкою кар'єрою, але це означало, що я не був на Землі, коли... Це сталося."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/3",
+    "value": "Гей, гість? У нас тут не так багато відвідувачів! Залишайся ненадовго!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/4",
+    "value": "У тебе є власний корабель? Це дуже круто!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/5",
+    "value": "Ого, я, ем, не очікував побачити тут когось нового."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/6",
+    "value": "Ти прибув аж у глибокий космос, щоб зустрітися з нами? Це чудово!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/7",
+    "value": "Можеш залишитися тут на деякий час, але не сміти — я щойно закінчив прибирати."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "value": "Гей, гість? У нас тут не так багато відвідувачів! Залишайся ненадовго!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/1",
+    "value": "Ти прийшов з миром?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/2",
+    "value": "У тебе є власний корабель? Це дуже круто!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/3",
+    "value": "Ого, я, ем, не очікував побачити тут когось нового."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/4",
+    "value": "Ти прибув аж у глибокий космос, щоб зустрітися з нами? Це чудово!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/5",
+    "value": "Можеш залишитися тут на деякий час, але не сміти — я щойно закінчив прибирати."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/apex/0",
+    "value": "Вітаю, товаришу Апексе! Сподіваюся, ти теж уникнув погляду Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/apex/1",
+    "value": "Ти ж не таємний інспектор Міннаук?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/apex/2",
+    "value": "Життя на космічному кораблі краще, ніж пригноблення під владою Великого Мавпа."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/apex/3",
+    "value": "Я краще буду тут доглядати за вантажем, ніж жити на рідній планеті під владою Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/apex/4",
+    "value": "Я намагаюся жити спокійним життям — можливо, так Міннаук не вистежить мене."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/apex/5",
+    "value": "Важко підтримувати бороду, коли ти так довго доглядаєш за космічним кораблем."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/0",
+    "value": "Ви член Земного Захисту? Ми раніше доставляли вантажі для них, поки... Нещодавно."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/1",
+    "value": "Життя на космічному кораблі краще, ніж пригноблення під владою Великого Мавпа."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/2",
+    "value": "Я краще буду тут доглядати за вантажем, ніж жити на рідній планеті під владою Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/3",
+    "value": "Я намагаюся жити спокійним життям — можливо, так Міннаук не вистежить мене."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/4",
+    "value": "Важко підтримувати бороду, коли ти так довго доглядаєш за космічним кораблем."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/hylotl/0",
+    "value": "Завжди заспокоює бачити дружнє, триоке обличчя. Почувайся як вдома."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/hylotl/1",
+    "value": "Я завжди буду радий комусь зі свого роду."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/hylotl/2",
+    "value": "Підтримка цілісності корпусу є важливим пріоритетом на цьому кораблі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/hylotl/3",
+    "value": "Плавання серед зірок змушує мене відчувати себе рибою, що пливе крізь безкраїй, нескінченний океан."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/hylotl/4",
+    "value": "Коли ти ведеш свій корабель у велике невідоме... Немає такого відчуття, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/hylotl/5",
+    "value": "Самотні серед зірок.\nУ морі безкінечної ночі.\nРазом ми пливемо."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/hylotl/6",
+    "value": "Як ти думаєш, що чекає на нас там, серед зірок?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/0",
+    "value": "Підтримка цілісності корпусу є важливим пріоритетом на цьому кораблі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/1",
+    "value": "Плавання серед зірок змушує мене відчувати себе рибою, що пливе крізь безкраїй, нескінченний океан."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/2",
+    "value": "Коли ти ведеш свій корабель у велике невідоме... Немає такого відчуття, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/3",
+    "value": "Самотні серед зірок.\nУ морі безкінечної ночі.\nРазом ми пливемо."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/4",
+    "value": "Як ти думаєш, що чекає на нас там, серед зірок?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/floran/0",
+    "value": "Ще один друг Флоран для Флорана! У косссмосссі буває самотньо, Флоран має залишшшитися!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/floran/1",
+    "value": "Флорану подобаютьсся нові Флорани!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/floran/2",
+    "value": "У Флорана є ссстабільна робота на кораблі! Флорану прошшто не треба нікого їссти."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/floran/3",
+    "value": "Флоран таємно боїтьсся виссоти. Корабель — це ссстрашшно."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/floran/4",
+    "value": "Флоран не мас змоги багато полювати в косссмосссі. Сссумно."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/floran/5",
+    "value": "Ти прийшшшов прошшшто привітатиссся з Флораном?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/floran/6",
+    "value": "Флоран не ссстворений для космічних подорожей. Флорану завжди погано."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/0",
+    "value": "У Флорана є ссстабільна робота на кораблі! Флорану прошшто не треба нікого їссти."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/1",
+    "value": "Флоран таємно боїтьсся виссоти. Корабель — це ссстрашшно."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/2",
+    "value": "Флоран не мас змоги багато полювати в косссмосссі. Сссумно."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/3",
+    "value": "Ти прийшшшов прошшшто привітатиссся з Флораном?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/4",
+    "value": "Флоран не ссстворений для космічних подорожей. Флорану завжди погано."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/glitch/0",
+    "value": "*Здивування.* Товариш Глітч! Мене звати <selfname> — приємно познайомитися."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/glitch/1",
+    "value": "*Привітність.* Відвідувачі тут рідкість, а гості-Глітчі — ще більша рідкість!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/glitch/2",
+    "value": "*Задоволення.* Атмосфера з низькою вологістю на борту цього корабля добре запобігає іржі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/glitch/3",
+    "value": "*Нудьга.* Обслуговування космічного корабля — це отупляюча робота, я хочу зіграти в брязкальця!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/glitch/4",
+    "value": "*Виснаження.* Здається, у мене перетерлося кілька дротів після того, як я тягав важкий вантаж..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/glitch/5",
+    "value": "*Приголомшення.* Я навіть не знав про існування космічних подорожей багато років. Хіба це не захоплююче?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/glitch/6",
+    "value": "*Нетерплячість.* До нас нечасто приходять гості! Ти надовго?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/0",
+    "value": "*Задоволення.* Атмосфера з низькою вологістю на борту цього корабля добре запобігає іржі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/1",
+    "value": "*Нудьга.* Обслуговування космічного корабля — це отупляюча робота, я хочу пограти в шахи!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/2",
+    "value": "*Виснаження.* Здається, у мене перетерлося кілька дротів після того, як я тягав важкий вантаж..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/3",
+    "value": "*Приголомшеність.* Я багато років навіть не знав, що космічні подорожі існують. Хіба це не захопливо?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/4",
+    "value": "*Нетерпіння.* Ми не часто маємо гостей! Ви тут надовго?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/0",
+    "value": "Співбрат Авіан! Сподіваюся, вплив Звіздарів не поширюється так далеко..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/1",
+    "value": "Привіт, мій пернатий друже! Хай береже тебе Клуекс."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/2",
+    "value": "Ласкаво просимо на наше скромне космічне судно!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/3",
+    "value": "Вітаю, незнайомцю! Як мило з вашого боку завітати."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/4",
+    "value": "Здається, мені на пір'я потрапив рідкий Ерхій після заправки корабля... Залишиться пляма."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/5",
+    "value": "Моє ім'я <selfname>. Ви до нас надовго?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/6",
+    "value": "Відвідувач? Сподіваюся, вас перевірили на космічних паразитів."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/0",
+    "value": "Ласкаво просимо на наше скромне космічне судно!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/1",
+    "value": "Вітаю, незнайомцю! Як мило з вашого боку завітати."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/2",
+    "value": "Здається, мені на пір'я потрапив рідкий Ерхій після заправки корабля... Залишиться пляма."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/3",
+    "value": "Моє ім'я <selfname>. Ви до нас надовго?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/4",
+    "value": "Відвідувач? Сподіваюся, вас перевірили на космічних паразитів."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/novakid/0",
+    "value": "Йо, ще одне світле лице! Тобі теж сняться ті дивні сни про зорі, леґіню?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/novakid/1",
+    "value": "Я й не думав, що побачу нове лице на цім старім кориті! Вітаю, файно є!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/novakid/2",
+    "value": "Вітаю на нашім старім іржавім кориті!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/novakid/3",
+    "value": "Ти тут щоб поторгувати, чи просто прийшов подивитися на весь цей ґвалт?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/novakid/4",
+    "value": "Йо, леґіню! Мене звуть <selfname>, файно познайомитись."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/novakid/5",
+    "value": "Що ближче до зір, то краще сплю. А чому – хтозна..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/novakid/6",
+    "value": "Мав коли-небудь відчуття, що ти створений для чогось більшого?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/0",
+    "value": "Я й не думав, що побачу нове лице на цім старім кориті! Вітаю, файно є!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/1",
+    "value": "Вітаю на нашім старім іржавім кориті!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/2",
+    "value": "Ти тут щоб поторгувати, чи просто прийшов подивитися на весь цей ґвалт?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/3",
+    "value": "Йо, леґіню! Мене звуть <selfname>, файно познайомитись."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/4",
+    "value": "Що ближче до зір, то краще сплю. А чому – хтозна..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/5",
+    "value": "Мав коли-небудь відчуття, що ти створений для чогось більшого?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/0",
+    "value": "Гей, хлопче! Як тобі наш корабель?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/1",
+    "value": "Добре, що ти помістився на нашому кораблі, га?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/2",
+    "value": "Не можу довго балакати - цей птах має змастити осі, щоб ми трималися на плаву!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/3",
+    "value": "Це робота всього життя. Корабель повний таких файних пернатих хлопців, як я, і купа здобичі на додачу!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/4",
+    "value": "У тебе такий погляд, ніби ти збираєшся обчистити всі наші ящики. Не хвилюйся, друже, я не стукач."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/5",
+    "value": "Шукаєш друзів? Ні, блиск в твоїх очах каже, що ти тут лише заради здобичі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/6",
+    "value": "Як ти взагалі сюди долетів? У тебе є один з тих космічних хутр?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/7",
+    "value": "Не вдарся головою об стелю, друже!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/8",
+    "value": "У мене є приятелі, що шукають роботу найманцями. Тобі варто роздобути трохи дублонів!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/9",
+    "value": "Ти прилетів сюди на хутрі? Здається, у нас є креслення деталей для хутра на цьому кораблі, якщо подумати..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/10",
+    "value": "Що це за злі астероїди, що літають навколо? Все зовсім не так, як було колись."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/11",
+    "value": "Не думай, що раз ти вищий за мене, то маєш наді мною перевагу!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/12",
+    "value": "Мене кличуть <selfname>. Це ім'я передається в родині."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/13",
+    "value": "Бути частиною екіпажу вантажного корабля означає багато тягати. Мої ласти вже втомилися!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/penguin/default/14",
+    "value": "Гей, старий друже! ...Ми раніше не зустрічалися, правда?"
+  }
+]

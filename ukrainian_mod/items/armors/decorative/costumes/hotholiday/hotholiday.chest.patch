@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Здається, це не дуже ефективно для збереження тепла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Святковий верх"
+  }
+]

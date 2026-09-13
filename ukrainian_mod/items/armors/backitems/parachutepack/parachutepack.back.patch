@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Парашут. Більше ніякого вільного падіння!-НЕ ВИКОРИСТОВУЄТЬСЯ-"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Парашут"
+  }
+]

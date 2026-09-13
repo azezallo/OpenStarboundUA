@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Тут так гаряче, що мої окуляри пітніють!",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Дерева - відновлюване джерело органічного металу! Відмінне місце для ливарні!",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тобі подобається, як пахне? Майже як палаючими тостами.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Жити тут важко, але не так, як під наглядом Міннаука.",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Великий Мавп тут за мною не стежить. Сподіваюся.",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо носиш хутро - то тут ще гарячіше, ніж зазвичай.",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я продовжую підпалювати пір'я, працюючи тут...",
+    "path": "/scriptConfig/dialog/converse/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ну і спека! Я весь висох.",
+    "path": "/scriptConfig/dialog/converse/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тільки найміцніший працівник може працювати на такій планеті.",
+    "path": "/scriptConfig/dialog/converse/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Виснажено. Робота в ливарні - важка робота!",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Стомлено. Я важко працював. Майже почав плавитися!",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Азартно. Робота ґлітча ніколи не закінчується!",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Втомлено. Моя зміна ще не закінчена!",
+    "path": "/scriptConfig/dialog/converse/glitch/default/3",
+    "op": "replace"
+  }
+]

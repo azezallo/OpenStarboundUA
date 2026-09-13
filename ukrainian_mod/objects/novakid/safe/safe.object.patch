@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленький, міцний залізний сейф."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Безпечний"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Сейф. Це легко потоне. Для додаткової безпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хоча це забезпечить безпеку, навіщо вам це потрібно?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сейф. Тримайте скарби подалі від інших"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "впевненість. Це діючий сейф."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я міг би використати це, щоб зберегти речі... в безпеці."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Сейф. Корисно для захисту від небажаних відвідувачів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це зупинить цих тварин, які торкаються моєї здобичі!"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Корінь.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Корінь",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Коріння!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Корінь.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

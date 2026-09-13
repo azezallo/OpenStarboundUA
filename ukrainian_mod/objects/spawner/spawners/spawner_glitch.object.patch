@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створіть свого власного селянина Глітча!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Глюк Спаунер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я міг би створити армію роботів, щоб знищити Велику Мавпу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Можливо, ці глюки могли б послужити робочими."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран, покличте металевих друзів!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підбадьорювали. Ця технологія може дозволити нашому виду зростати експоненціально."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Наближається один робот-дворецький!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я вважаю, що глюк підійде для простих завдань."
+  }
+]

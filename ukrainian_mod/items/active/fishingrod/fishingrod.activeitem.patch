@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Проста дерев'яна вудка з титановою фурнітурою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вудка"
+  },
+  {
+    "op": "replace",
+    "path": "/lureName",
+    "value": "Основна приманка"
+  },
+  {
+    "op": "replace",
+    "path": "/reelName",
+    "value": "Основна котушка"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Розширити екіпаж"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "Хтось хоче приєднатися до вас"
+  },
+  {
+    "op": "replace",
+    "path": "/message",
+    "value": "<name> хоче в екіпаж як <role>. Взяти <name> на борт?^gray;\n\n^white;Посада:^gray; <role>\n^white;Ранг:^gray; <rank>\n^white;Статус:^gray; <status>"
+  },
+  {
+    "op": "replace",
+    "path": "/okCaption",
+    "value": "Найняти"
+  },
+  {
+    "op": "replace",
+    "path": "/cancelCaption",
+    "value": "Не зараз"
+  }
+]

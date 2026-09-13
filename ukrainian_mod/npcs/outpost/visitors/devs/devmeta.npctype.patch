@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/identity/name",
+    "value": "Metadept"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Hey, I'm Metadept! I enjoy programming and the colour grey."
+  }
+]

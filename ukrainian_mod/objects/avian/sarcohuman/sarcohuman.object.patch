@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Птахи, як відомо, намагалися взяти людей із собою в потойбічне життя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Саркофаг людини"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Саркофаг. Він має форму людини."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Деякі з перших пташиних серед зірок мали глибоку дружбу з людьми. Це спроба привести людей в ефір, щоб вони також могли отримати крила."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пахне людським."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Всередині цього саркофага сидить людина."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це людина?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це не пташиний саркофаг."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Саркофаг у формі людини. Чи є всередині тіло людини?"
+  }
+]

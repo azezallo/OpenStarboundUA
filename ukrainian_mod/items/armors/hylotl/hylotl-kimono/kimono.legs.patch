@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Витончене традиційне кімоно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Спідниця-кімоно"
+  }
+]

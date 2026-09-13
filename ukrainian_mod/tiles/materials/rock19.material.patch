@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Грубий, необроблений камінь.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Грубий камінь",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Уважність. Це звичайні грубі камені.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран бачить тверді грубі камені, сссстук-сссстук.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Просто купа каміння, ніц цікавого.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

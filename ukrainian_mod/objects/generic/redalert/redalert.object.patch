@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Червоне миготливе світло... Зазвичай це недобре."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Попереджувальне світло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це виглядає як сигнал тривоги або попередження."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я вимкнув цей будильник?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Миготливе світло amussse Floran."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Червоне миготливе світло є попередженням або сигналом тривоги в мільйонах різних культур."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ой, що це означає?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця тривога - страшна прикмета."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Яке лихо це робить!"
+  }
+]

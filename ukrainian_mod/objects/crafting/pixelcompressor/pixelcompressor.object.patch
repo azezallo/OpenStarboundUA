@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стисніть пікселі для зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Pіксельний компресор^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тут я можу зберігати пікселі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Надійне місце для зберігання моїх пікселів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран поклав блискітки в безпечне місце!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Банк пікселів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, чи має цей банк пікселів функцію овердрафту..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Збереження пікселів на майбутнє – хороша інвестиція."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Машина для зберігання ваших золотих квадратів. Я дуже сподіваюся, що це безпечно..."
+  }
+]

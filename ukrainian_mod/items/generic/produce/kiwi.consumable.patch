@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "М'яка текстура та солодкий смак, смак."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ківі"
+  }
+]

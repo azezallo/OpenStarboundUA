@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Залізний скорпіон для шкіри голови... Скальпіон!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Залізний скальпіон"
+  }
+]

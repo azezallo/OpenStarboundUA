@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вертикальна картонна коробка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вертикальна картонна коробка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Картонна коробка з нанесеною на неї стрілкою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Основна картонна коробка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Картонна коробка містить речі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Ця стрілка-індикатор може бути важливою для захисту вмісту всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Картонна коробка. Корисно для зберігання речей."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Основна картонна коробка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Проста коробка з картону."
+  }
+]

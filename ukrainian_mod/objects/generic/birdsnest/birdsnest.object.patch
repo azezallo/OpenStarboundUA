@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пташине гніздо з яйцем у ньому."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташине гніздо"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Пташине гніздо з яйцем у ньому. Цікаво, чи яйцеклітина життєздатна."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Миле пташине гніздечко. Як мило!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Яйця майже м'ясо... Ням, ням!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інформований. У таких гніздах птахи заселяють потомство."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це пташине гніздо. Цікаво, чи є там пташенята?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пташине гніздо. природа"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мабуть, якісь крихітні пташки живуть у такому маленькому гнізді."
+  }
+]

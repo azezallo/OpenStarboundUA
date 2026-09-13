@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стелаж для зброї Floran. Не дивно, що багато зброї зникло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стелаж для мисливської зброї"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стійка для зброї, що тримає списи Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Стелаж, призначений для зберігання зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssstand тримає списи."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Здається, ці гострі списи готові миттєво схопити."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цю зброю не здається вартою брати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Зухвалий прояв насильницьких намірів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Дерев'яна стійка з кількома списами."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Людський експонат може бути маленьким, але він повертає приємні спогади про дім..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "Людський експонат може бути невеликим, але він повертає приємні спогади про Землю..."
+  }
+]

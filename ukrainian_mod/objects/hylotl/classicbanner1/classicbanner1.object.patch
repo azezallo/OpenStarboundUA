@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Найкласніша штора."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичний верхній банер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Багаті, важкі штори."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "М'який на дотик."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Hylotl шиє завіси з важкого оксамиту, Флоран робить завіси з ssskin."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Небагато предметів так приємно пестити."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці штори належать до особняка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці штори майже прилипають до шкіри Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Дуже шикарно."
+  }
+]

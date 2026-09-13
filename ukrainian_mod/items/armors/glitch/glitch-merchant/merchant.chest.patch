@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сорочка низької якості, яку іноді носять торговці."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Торгова сорочка"
+  }
+]

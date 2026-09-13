@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця пастка вивергає полум'я, яке посилює ворогів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Полум'яна пастка арени"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це полум'я робить ворогів сильнішими!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Наляканий. Це полум'я збільшить силу атаки противника."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Краще тримайтеся подалі від цього полум'я, воно робить ворогів сильнішими."
+  }
+]

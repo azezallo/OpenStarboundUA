@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює частину планети на вулик інопланетних безхребетних."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Баггі Мікроформер"
+  }
+]

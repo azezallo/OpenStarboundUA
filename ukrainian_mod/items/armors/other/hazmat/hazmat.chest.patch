@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Захищений нагрудник, він герметичний, щоб уникнути сторонніх забруднень."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сорочка Hazmat"
+  }
+]

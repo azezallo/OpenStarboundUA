@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Підвісний механічний прискорювач."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Висячий бустер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Великий механічний прискорювач, підвішений на ланцюгах."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей механічний прискорювач частково розібраний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Мех ракета висить на chainsss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Така підвіска забезпечує легкий доступ до внутрішніх механізмів цього механічного підсилювача."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Механічний прискорювач, висить на ланцюгах. Напевно в ремонті."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Схоже, над цим механічним прискорювачем працюють."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Механічний прискорювач, висить на великих ланцюгах."
+  }
+]

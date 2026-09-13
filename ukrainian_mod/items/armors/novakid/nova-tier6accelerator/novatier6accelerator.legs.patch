@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вирізати з запасом місця. Ідеально підходить для рухливої ​​особистості."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани гравця"
+  }
+]

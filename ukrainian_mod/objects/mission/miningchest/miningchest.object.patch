@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеально підходить для зберігання інструментів та обладнання!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шахтарський сундук"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Скриня! Заглянемо всередину."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Часто в цих скринях зберігалися цінні речі. Я в захваті!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Chessst! Флоран повинен шукати!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Що може бути всередині?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Скриня! Давайте відкриємо його."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця скриня має промисловий вигляд."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Міцна стара скриня, що містить скарби... Сподіваюся."
+  }
+]

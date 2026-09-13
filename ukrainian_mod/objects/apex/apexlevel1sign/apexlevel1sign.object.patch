@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Go Ape!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак верхнього рівня 01"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, я на першому рівні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Скільки там рівнів?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чи можу я пропустити перший рівень?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Зараз я на першому рівні."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Рівень перший, скільки тут рівнів?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Треба починати спочатку."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Здається, я досяг першого рівня."
+  }
+]

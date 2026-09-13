@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "value": "Купити"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnStopCraft/caption",
+    "value": "Зупинити"
+  }
+]

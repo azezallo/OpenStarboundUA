@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Детальна модель карликової планети сонячної системи Плутон."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Модель Плутона"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я не розумію людської одержимості цією другорядною і незначною карликовою планетою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Плутон був названий на честь бога підземного світу в стародавній міфології Землі. It reminds me of some similar Avian mythos."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Невелика карликова планета з хаотичною орбітою на околиці сонячної системи."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Чому люди так високо поважають Плутон? Це навіть не планета."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Бідолашний Плутон... Ти справді збив кілочок."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я дізнався про суперечливий культурний статус цієї карликової планети в Earth Culture 101 в Академії."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Плутон вважався дев'ятою планетою Сонячної системи до того, як його статус скасували. Тепер це просто маленький поганець."
+  }
+]

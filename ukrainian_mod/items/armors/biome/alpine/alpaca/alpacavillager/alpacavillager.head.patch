@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Справжня голова альпаки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Інопланетна альпака Справжня голова"
+  }
+]

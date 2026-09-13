@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Ціль у полі зору!",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я знову його бачу!",
+    "path": "/scriptConfig/dialog/reattack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ціль повалено!",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я його не бачу!",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я не можу прицілитися!",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Дай мені прицілитися!",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я не можу прицілитися, мені потрібно підійти ближче!",
+    "path": "/scriptConfig/dialog/cantReach/default/default/0",
+    "op": "replace"
+  }
+]

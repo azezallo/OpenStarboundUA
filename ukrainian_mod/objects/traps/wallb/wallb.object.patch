@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленька симпатична вибухівка має серйозний удар!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "ВАЛЛ-Б"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це виглядає мало, але викликає сильний вибух."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця дрібниця може стати причиною вибуху."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це великий бум Caussse!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Це може здатися маленьким, але воно потужне"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цю штуку можна сфальсифікувати, щоб вона вибухнула!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Корисний пристрій безпеки. Якщо ви любите вибухи."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця маленька річ може спричинити шалений бум!"
+  }
+]

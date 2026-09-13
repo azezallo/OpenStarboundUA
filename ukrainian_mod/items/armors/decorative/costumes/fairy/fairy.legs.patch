@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це вишукане, але воно не зігріє ваші цукрові сливи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Туту"
+  }
+]

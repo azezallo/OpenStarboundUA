@@ -1,0 +1,27 @@
+[
+  {
+    "value": " ствол",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": " розпилювач",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": " стопор",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": " розкид",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": " бластер",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

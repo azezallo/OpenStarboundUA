@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Порожня пляшка пелюсткового нектару."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Порожня пляшка пелюсткового нектару"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Пляшка порожня, тож що залишилося зробити, як її розбити?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пляшка порожня, тож що залишилося зробити, як її розбити?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сссмаш!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Пустотливий. У пляшці нічого не залишилося, так що кортить її розбити."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Пляшка порожня, тож що залишилося зробити, як її розбити?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Маленька частинка мене дуже хотіла б розбити цю пляшку..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "ага! Тренування по мішенях!"
+  }
+]

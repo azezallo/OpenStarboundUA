@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Набір ніжок середньої якості для стрибків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ноги механізму бункера"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Залізний шолом лжеца захищає лише маківку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом Валета"
+  }
+]

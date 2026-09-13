@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Красиво оздоблені дерев’яні платформи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Багато прикрашена платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "в захваті. Ці ошатні платформи були дрібно відшліфовані та оброблені."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Ошатні платформи з дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Декілька вишуканих дерев’яних платформ."
+  }
+]

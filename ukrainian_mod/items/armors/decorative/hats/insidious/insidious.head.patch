@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже лякаюча маска кабукі. Він добре приховує особу власника."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підступна маска"
+  }
+]

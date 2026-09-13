@@ -1,0 +1,82 @@
+[
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "value": "Ррраааррр!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/1",
+    "value": "Рррр!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Рарр!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/1",
+    "value": "Ррррр!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/2",
+    "value": "Ґрааарр!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "value": "Ррраааррр! Ррраааррр!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/1",
+    "value": "Рраааааррр!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "value": "Ррраааррр?"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/1",
+    "value": "Ррррр..."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/0",
+    "value": "Ррраааррр?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/1",
+    "value": "Ґрааарр?!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/0",
+    "value": "Ррраааррр!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/1",
+    "value": "Ґрааарр!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/0",
+    "value": "Ґрааарр!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/1",
+    "value": "Рррр!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/2",
+    "value": "Ррраааррр!"
+  }
+]

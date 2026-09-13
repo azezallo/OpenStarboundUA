@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Солодкі запахи темного листя і квітів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пелюстковий блок матерії"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "в захваті. Це листя пахне землею і квітами."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить квіткові рослини."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тут ростуть дуже гарні квіти."
+  }
+]

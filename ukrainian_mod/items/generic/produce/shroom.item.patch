@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "гриб. Я міг би зробити чимало речей із достатньою кількістю цього."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гриб"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Череп Флорана. Sssspooky."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска черепа Флорана"
+  }
+]

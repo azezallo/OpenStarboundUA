@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шматок чужорідного смугастого дерева. смугастий!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чужий смугастий ліс"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Схоже, смуги, присутні в цій деревині, є результатом матеріалів, які відштовхуються один від одного."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "ССсссмугаста деревина. Зробіть смугастий будинок!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця деревина вся вкрита смугами."
+  }
+]

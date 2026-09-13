@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Технологія сковороди ніколи не перевершить чавуну."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сковорода"
+  }
+]

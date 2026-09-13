@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/selectText",
+    "value": "Кодекс <species>"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": "Кодекси"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "value": "^#b9b5b2;Знайдені книги ^green;[L]"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/pageNum/value",
+    "value": "0 з 0"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/pageLabel/value",
+    "value": "Сторінка"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/prevButton/caption",
+    "value": "< Назад"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/nextButton/caption",
+    "value": "Далі >"
+  }
+]

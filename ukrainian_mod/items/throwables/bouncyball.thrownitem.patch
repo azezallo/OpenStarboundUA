@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стрибучий м'яч"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей м'яч відскакує при кидку."
+  }
+]

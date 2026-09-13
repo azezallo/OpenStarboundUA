@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кам'яний стіл в типовому пташиному стилі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Храмовий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кам'яний стіл. Прикрашена візерунками та різьбою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "З цього столу їли вартові храму. Різьблення вдячні Клуексу за його щедрості."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стіл, покритий різьбленням птахів. Зверху плями від їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. На цьому столі багато різних страв."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кам’яний стіл, можливо, обідній, судячи з того, як він потертий."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Різьблення на цьому столі гарне, але, на жаль, за ним не доглядали."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Кам'яний стіл.  Я вважаю, що нелегко пересуватися."
+  }
+]

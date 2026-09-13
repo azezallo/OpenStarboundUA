@@ -1,0 +1,137 @@
+[
+  {
+    "value": "медик",
+    "path": "/scriptConfig/crew/role/name",
+    "op": "replace"
+  },
+  {
+    "value": "з медицини",
+    "path": "/scriptConfig/crew/role/field",
+    "op": "replace"
+  },
+  {
+    "value": "Я буду лікувати тебе, коли ми будемо на кораблі.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран буде лікувати тебе, коли ми будемо на кораблі!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Послужливо. Я буду лікувати тебе, коли ми будемо на кораблі!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти поранився. Дай мені допомогти!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Дозволь допомогти тобі!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти виглядаєш так, ніби тобі потрібне лікування. Сюди!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Гей, я можу вилікувати тебе! Тільки тримайся!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ти виглядаєш пораненим. Флоран може допомогти!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран — лікар! Вір флорану!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти поранений. Флоран може допомогти тобі!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. Ти виглядаєш так, ніби тобі потрібне лікування!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Дбайливо. Можливо, тебе потрібно трохи полікувати?",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Послужливо. Міг би виглядати й краще. Дозволь допомогти тобі!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, що тобі потрібне лікування!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Дозволь допомогти тобі!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я польовий медик — дозволь допомогти тобі!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, тобі не завадить допомога!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я можу вилікувати тебе! Йди до мене, швидше!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран може дечим виручити!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран може виручити!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран може дечим допомогти!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Азартно. Я можу тебе виручити!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Схвильовано. Можливо, тебе потрібно трохи полікувати?",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Послужливо. Це вилікує тебе!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Послужливо. Візьми це, тобі знадобиться!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
+    "op": "replace"
+  }
+]

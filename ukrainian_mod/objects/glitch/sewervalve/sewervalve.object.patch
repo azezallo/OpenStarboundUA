@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кран каналізаційний. Це був кумедний поворот."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Каналізаційний клапан"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Клапан. Він працює, як очікувалося."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Клапан. Добре крутиться."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Обертове колесо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Цей клапан обертається."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Клапан. Якщо я поверну це, мені цікаво, що станеться?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Клапан. Простий, але функціональний предмет."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я хочу повернути цей клапан і подивитися, що станеться!"
+  }
+]

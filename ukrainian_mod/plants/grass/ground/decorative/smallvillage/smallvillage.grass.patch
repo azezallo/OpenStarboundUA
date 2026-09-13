@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Маленькі дерева.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Маленькі дерева",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Іграшкове деревоссс.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Маленьке дерево.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

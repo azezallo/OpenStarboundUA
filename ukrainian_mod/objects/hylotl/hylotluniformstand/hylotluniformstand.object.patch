@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стенд із обладунками Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підставка для броні Hylotl"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гілотлі люблять демонструвати свою броню таким чином."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Вражаюча демонстрація майстерності Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискуча броня на ssspecial дисплеї."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. На цьому стенді представлено майстерно виготовлені обладунки."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вражаючий вигляд обладунків Hylotl нагадує мені стародавні обладунки з Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ми пишаємося своєю майстерністю та розміщуємо броню на таких дисплеях."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця броня досить шикарна... Цікаво, скільки я можу отримати за неї."
+  }
+]

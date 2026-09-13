@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стильне, але міцне крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стильне крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стильне, але міцне крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Гарне на вигляд крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стильне крісло зручне."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Це крісло виглядає досить міцним, щоб витримати більшість глюків."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Крісло з гарним дизайном."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стілець простий по конструкції, але не неприємний на вигляд."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цікаво, чи це міцне на вигляд крісло взагалі зручне?"
+  }
+]

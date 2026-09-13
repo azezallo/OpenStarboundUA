@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарне, просторе рішення для зберігання на стіні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шафа для зберігання Floran"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Шафа з металу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Місце для зберігання речей."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран може запихати речі в шафку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Металева шафка для зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це шафка для зберігання промислового вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Десь зберігати особисті речі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шафка в стіні."
+  }
+]

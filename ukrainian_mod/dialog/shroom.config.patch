@@ -1,0 +1,437 @@
+[
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/0",
+    "value": "Ніякий злодій не житиме в грибі!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/1",
+    "value": "Злодію, плач, немає хуум гриба!"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/2",
+    "value": "Халхуум, ніякого злодія, сссмаш-гриб!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/default/default/0",
+    "value": "Сссмаш-гриб злодій! Сссмаш!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/default/default/1",
+    "value": "Злодію, плач!"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/default/default/2",
+    "value": "Сссмаш-гриб злодій!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/default/default/0",
+    "value": "Хуум! Фісл гриб живе!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/default/0",
+    "value": "Хуум! Фісссл гриб живе! Флоран радіє!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/human/0",
+    "value": "Хуум! М'ясссна людина не сссмажити Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/human/1",
+    "value": "Хуум, м'ясссо. Флоран бачить дивного тупотуна!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/human/2",
+    "value": "Халхуум, гладкий! Флоран рубати дека галбердін картографію!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/human/3",
+    "value": "Хуумах! Месссті стрибати сссмаш-гриб небезпека для Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/human/4",
+    "value": "Хуум! Халхуум! Флоран вітає!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/human/5",
+    "value": "Халмарр, шип циркуляр дека дивний! Флоран дивується!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/human/6",
+    "value": "М'ясссо хуум! Насссолоджуватися будинком чока сссмаш-гриб? Флоран питає!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/human/7",
+    "value": "Халхалхуум! Щупальце-роздавлювач плакати, немає м'яссса для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/avian/0",
+    "value": "Хуум, мах! Дивний не Клуекссс сссмажити Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/avian/1",
+    "value": "Халхуум, дурний птах Клуекссса. Чока сссмаш-гриб не будинок Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/avian/2",
+    "value": "Халхалхуум, плакати кантара налітати не ловець хмар Клуекссса. Флоран бачить."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/avian/3",
+    "value": "Хуумай, мах! Галбердін хабл пухнастий птах Клуекссса. Шріі від Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/avian/4",
+    "value": "Хаба хуум, дурний птах Клуекссса! Хехехе! Налітати дивний Флоран!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/avian/5",
+    "value": "Хуум! Хуум хуум! Рубати сссмаш-гриб не цілувальник миру Клуекссса для Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/avian/6",
+    "value": "Хуум хаба мах мах, дека не птах Клуекссса? Флоран ссслухає."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/avian/7",
+    "value": "Хуум? Царап-царап месссті обійми для Флорана та Клуекссса?"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/floran/0",
+    "value": "Хуум! Хуум хуум гриб! Россслина натурра цілувати обличчя Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/floran/1",
+    "value": "Халхуум! Не боятися дека россслина! Флоран друг!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/floran/2",
+    "value": "Хуум. Халб плакати не сссмаш-гриб. Флоран сумний."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/floran/3",
+    "value": "Цілувати обличчя россслина! Не халб м'яка риба! Хахахахахаха! Флоран сссміється!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/floran/4",
+    "value": "Халхалхалхуум, короп будинок сссмажити россслина! Здається, Флоран бачить."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/floran/5",
+    "value": "Хабахуум м'яка риба, не дубовий сссмаш-гриб диня! Флоран знає!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/floran/6",
+    "value": "Россслина хуум! Цілувати обличчя рубати росссти, халб!? Флоран дивується!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/floran/7",
+    "value": "Хуум. Хуум россслина. Набі шип різати-гриб, плесста? Флоран питає."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/apex/0",
+    "value": "Хуум. Плесста месссті волохата річ Великого Мавпа для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/apex/1",
+    "value": "Хумфа. Волохата річ Великого Мавпа рубати не боятися Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/apex/2",
+    "value": "Хуум! Не рубати Гігантська Волохата річ Великого Мавпа. Плакати від Міннаук? Флоран питає."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/apex/3",
+    "value": "Халхуум, волохата річ Великого Мавпа. Не сссмаш-гриб, плесста від Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/apex/4",
+    "value": "Хуум. Волохата річ волохате обличчя Великого Мавпа короп дерев'яний гриб для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/apex/5",
+    "value": "Плесссті кантара, грибний робочий Міннаук для Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/apex/6",
+    "value": "Хуум. Месссті не рубати волохата річ Великого Мавпа. Халхуум від Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/apex/7",
+    "value": "Хуум! Хміль рубати, волохата річ Великого Мавпа! Халб м'яка риба Міннаук? Флоран питає."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/hylotl/0",
+    "value": "Хах хах хуум? М'яка риба Хайлотли... Флоран бачить."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/hylotl/1",
+    "value": "Наб! Наб Хайлотли! Флоран каже!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/hylotl/2",
+    "value": "Наб халб сссмаш-гриб, м'яка риба Хайлотли! Кантара наб будинок, рубати Флоран!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/hylotl/3",
+    "value": "Цілувати обличчя россслина наб різати-гриб, м'яка риба Хайлотли. Флоран погрожує!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/hylotl/4",
+    "value": "Писсск. Хуум наб Хайлотли. Флоран ссслухає."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/hylotl/5",
+    "value": "Хуум. Месссті наб дисбравада, м'яка риба Хайлотли для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/hylotl/6",
+    "value": "Набнабнабнабнабнаб Хайлотли. Флоран базікає."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/hylotl/7",
+    "value": "Наб будинок, м'яка риба Хайлотли! Наб наб наб. Флоран ссспіває."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/glitch/0",
+    "value": "*Вітання.* Хуум, брязкіт-звір. Хабба наб картографія космічний гриб. Флоран каже."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/glitch/1",
+    "value": "*Питання.* Халхуум, окей. Наб рубати плакати, дека волохата річ? Мах? Флоран питає."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/glitch/2",
+    "value": "*Питання.* Халхалхуум. Сссмаш-гриб наб россслина? Флоран дивується."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/glitch/3",
+    "value": "*Ствердження.* Хурм. Хуум. Брязкіт-звір будинок сссмажити, грибний халб для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/glitch/4",
+    "value": "*Вигук.* Брязкіт-звір! Рубати короп, кантара від Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/glitch/5",
+    "value": "*Питання.* Хуум брязкіт-звір. Халб плесссті кантара, наб? Флоран питає."
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/glitch/6",
+    "value": "*Ствердження.* Хуум. Грибний наб брязкіт-звір боятися. Месссті бравада Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/glitch/7",
+    "value": "*Питання.* Хуум. Брязкіт-звір халб месссті, дека россслина? Флоран цікавиться."
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/0",
+    "value": "Немає магазин-гриб рубати!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpthem/default/default/0",
+    "value": "Рубати!"
+  },
+  {
+    "op": "replace",
+    "path": "/encourage/default/default/0",
+    "value": "Рубати немає магазин-гриб! Рубати!"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/0",
+    "value": "Халхуум мега-брязкіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/1",
+    "value": "Халхалхуум!"
+  },
+  {
+    "op": "replace",
+    "path": "/start/default/default/0",
+    "value": "Хуум! Обмінювати хабл пікселі! Брязкіт брязкіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/start/default/default/1",
+    "value": "Хуум брязкіт. Хабба магазин-гриб дека плесста?"
+  },
+  {
+    "op": "replace",
+    "path": "/start/default/default/2",
+    "value": "Халхуум мега-брязкіт. Хабба рубати рубати робочий!"
+  },
+  {
+    "op": "replace",
+    "path": "/start/default/floran/0",
+    "value": "Халхалхуум, россслина! Обмінювати хабл пікселі! Рубати брязкіт для Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/start/default/floran/1",
+    "value": "Хуум, наб боятися россслина! Хабл пікселі, мессста брязкіт брязкіт для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/start/default/floran/2",
+    "value": "Хуум. Россслина брязкіт хабба магазин-гриб плессста? Флоран питає."
+  },
+  {
+    "op": "replace",
+    "path": "/start/default/hylotl/0",
+    "value": "Хум. Хуум. М'яка риба Хайлотли наб боятися халб брязкіт."
+  },
+  {
+    "op": "replace",
+    "path": "/start/default/hylotl/1",
+    "value": "М'яка риба Хайлотли. Мессста наб тетрана рубати брязкіт."
+  },
+  {
+    "op": "replace",
+    "path": "/start/default/hylotl/2",
+    "value": "Хуум, м'яка риба Хайлотли. Наб сссмаш-гриб хабба брязкіт будинок. Окей?"
+  },
+  {
+    "op": "replace",
+    "path": "/end/default/default/0",
+    "value": "Фуум. Брязкіт більше!"
+  },
+  {
+    "op": "replace",
+    "path": "/end/default/default/1",
+    "value": "Фанфуум! Хабба брязкіт окей."
+  },
+  {
+    "op": "replace",
+    "path": "/end/default/default/2",
+    "value": "Фуумфуум. Брязкіт наб боятися пікселів!"
+  },
+  {
+    "op": "replace",
+    "path": "/end/default/default/3",
+    "value": "Фуум! Брязкіт мессста плессста!"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/default/default/0",
+    "value": "Ней халхуум брязкіт! Ходи!"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/default/default/1",
+    "value": "Наб брязкіт, ходи хуум шропш-гриб!"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/default/default/0",
+    "value": "Халхалхуум, брязкіт! Обмінювати хабл пікселі! Рубати брязкіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/default/default/1",
+    "value": "Халхуум мега-брязкіт. Хабба рубати рубати робочий!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/default/default/0",
+    "value": "Брязкіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/default/default/1",
+    "value": "Рубати робочий!"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/0",
+    "value": "Немає гриба хабба дім-гриб?"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/0",
+    "value": "Ней дім-гриб лагодити!"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/0",
+    "value": "Ней шропш-гриб мессста шропш-гриб!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/0",
+    "value": "Ней брязкіт! Ней плессста!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/0",
+    "value": "Ней фуум, нува шропш-гриб ней!"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/0",
+    "value": "Брязкіт?"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/0",
+    "value": "Фуумфуум плессста шропш-гриб!"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Банан, смажений на багатті, з дармовою кількістю шоколаду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Банан багаття"
+  }
+]

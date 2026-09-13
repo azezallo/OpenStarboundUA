@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Іржавий ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іржавий ящик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ящик іржавого вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Іржавий ящик для зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Російська коробка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Ящик іржавого вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це просто ящик. Трохи іржавий, але цілий."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ящик, який, здається, проіржавів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Іржавий на вигляд ящик."
+  }
+]

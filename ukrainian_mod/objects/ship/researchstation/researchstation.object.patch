@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Дослідна станція"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Розробка спеціалізованих технологій"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Може використовуватися для розробки вузькоспеціалізованого обладнання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Дослідницька станція^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "З цим я можу створювати спеціалізовані станції та пристрої."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дослідницький стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран може створювати ssспеціалізовані речіss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Цей стіл добре підходить для дослідження та розробки нових елементів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Тут я можу створювати спеціальні предмети!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей стіл здається добре обладнаним для розробки нових технологій."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я можу створювати будь-які спеціальні речі тут!"
+  }
+]

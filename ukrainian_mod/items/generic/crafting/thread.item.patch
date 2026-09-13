@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тема, доповнена живим коренем."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нитка"
+  }
+]

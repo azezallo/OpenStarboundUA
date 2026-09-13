@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Лебедина пісня",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Я знала, що ти прийдеш. Зрештою, у нас є незавершена справа.",
+    "path": "/baseParameters/openingDialog/0",
+    "op": "replace"
+  },
+  {
+    "value": "За що мені залишилося боротися? Мої пошуки провалилися... Моя ідеологія слабка.",
+    "path": "/baseParameters/openingDialog/1",
+    "op": "replace"
+  },
+  {
+    "value": "І все ж мені надто соромно здаватися, і я надто вперта, щоб померти.",
+    "path": "/baseParameters/openingDialog/2",
+    "op": "replace"
+  },
+  {
+    "value": "Отже... Проведемо останній танець, \"захиснику\"?",
+    "path": "/baseParameters/openingDialog/3",
+    "op": "replace"
+  }
+]

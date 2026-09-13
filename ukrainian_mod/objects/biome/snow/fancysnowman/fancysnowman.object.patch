@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стильно одягнений сніговик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чудовий Сніговик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чарівний сніговик. Як справи сьогодні?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "сніговик. Я заздрю ​​його капелюху."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран полює на сніговика. Sssnowman байдуже. Ссссніговик розсипається."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "ревнивий. Тіла глюків мають надто багато кутів, щоб я міг створити точний сноуглітч."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сніговик! Спокуса скинути голову... зростає..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це снігове опудало одного разу розтане й повернеться у воду, звідки воно вийшло. Він також має милий ніс-морквину."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це снігова скульптура? Я якось заздрю ​​капелюшку."
+  }
+]

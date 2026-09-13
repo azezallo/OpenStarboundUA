@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "В основу вбудовані кронштейни для кріплення монітора до стелі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стельовий монітор Astro"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "У цій конфігурації дисплея є щось знайоме."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці пристосування забезпечують надійне кріплення дисплея."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Яскравий телевізор на стелі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Таке розміщення вітрин дозволяє ефективно використовувати простір."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чоловіче, це чудове положення для того, щоб відкинутися назад."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей дисплей здатний використовувати мало використовуваного простору."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей екран просто висить."
+  }
+]

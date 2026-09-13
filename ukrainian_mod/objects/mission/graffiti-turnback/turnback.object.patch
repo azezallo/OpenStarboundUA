@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Знак графіті."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "поворот назад"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "У цьому знаку є щось таке, що спонукає мене бути наполегливим."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "А якщо я повинен?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssilly знак."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Довірливий. Я повинен робити, як сказано в графіті. Графіті не можуть брехати, це неможливо."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Повернути назад? Навряд чи."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мудрі слова часто походять із неправдоподібних джерел."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тепер назад не можна."
+  }
+]

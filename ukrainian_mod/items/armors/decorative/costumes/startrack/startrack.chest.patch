@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей топ зарядить енергією свого власника."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Космічний верх у формі"
+  }
+]

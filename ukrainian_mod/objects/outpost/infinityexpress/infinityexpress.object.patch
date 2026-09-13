@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міжгалактичний магазин. Здається, це ідеальне місце для запасів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Infinity Express"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Магазин. Обов'язково куплю все необхідне."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Зручний магазин. Будемо сподіватися, що вони продадуть те, що я хочу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран може отримати товари в обмін на блискучі пікселі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Купець якийсь."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сподіваюся, вони продають газовані напої."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Магазин. Можливо, я перегляну його товари."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Куплю мені підступну пляшку автоматичного соку."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Infinity Express"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Fаливо, закуски та різні товари"
+  }
+]

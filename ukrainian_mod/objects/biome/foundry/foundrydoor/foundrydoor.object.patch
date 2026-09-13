@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Важкі металеві двері, які часто використовуються в ливарних цехах."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Важкі двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Важкі на вигляд двері."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я ледве штовхну ці двері, вони такі важкі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран грюкнув дверима, щоб створити гучний звук."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Пустотливий. Цікаво, чи зможу я створити гучну луну, грюкнувши цими важкими дверима..."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Двері з ілюмінатором!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Двері, схожі на ті, що знайдені під океаном, досить важкі, щоб бути водонепроникними."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Важкі двері зі зручним ілюмінатором."
+  }
+]

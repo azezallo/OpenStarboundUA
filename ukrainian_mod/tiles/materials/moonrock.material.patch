@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцний, жорсткий місячний камінь."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Місячна скеля"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Дедуктивний. Цей камінь має місячний характер."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не любить сухі місячні камені."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якийсь сухий і курний вигляд місячної скелі."
+  }
+]

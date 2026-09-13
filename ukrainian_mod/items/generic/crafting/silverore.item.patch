@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це срібло. Можна використовувати для плавки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Срібна руда"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Порткуллі з твердої дюрастелі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Durasteel Portcullis"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Схоже, ці двері з дюрастілу відкриваються вгору."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці двері виготовлені з твердої дюрастелі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Важкий метал barsss зробити двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Самовдоволений. Глюки створюють свої порткуллі в набагато більших масштабах."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я б не хотів застрягти під цим, коли він закривається."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Твердий дюрастіл. Функція над формою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схожі двері, під які можна просунутися, коли вони зачиняються, якщо у вас є дотепність!"
+  }
+]

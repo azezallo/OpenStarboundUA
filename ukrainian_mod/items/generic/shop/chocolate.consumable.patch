@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Просто об'єктивно найкраще, що коли-небудь було."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шоколад"
+  }
+]

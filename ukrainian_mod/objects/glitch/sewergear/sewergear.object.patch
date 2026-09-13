@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шестерня. Частина добре змащеної машини. Насправді він трохи іржавий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "спорядження"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Шестерня машини. Здається, він працює правильно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Шестерня. Виглядає брудно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Колесо крутиться, але для чого?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Продуманий. Багато з цих механізмів складають глюк."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Змащена шестерня, але здається, що вона трохи іржава."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Злегка іржавий механізм, він був біля занадто великої кількості води."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Б'юсь об заклад, що колись вони були корисними, але мені здається, що вони заржавіли."
+  }
+]

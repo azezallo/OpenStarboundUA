@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Домашній стельовий світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яний стельовий світильник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленький дерев'яний стельовий світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Стельовий світильник, який додасть тепла будь-якій кімнаті."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Мила підвісна лампа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Чарівний стельовий світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гарний маленький стельовий світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чарівний світильник для стелі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Стельовий світильник із теплим відчуттям."
+  }
+]

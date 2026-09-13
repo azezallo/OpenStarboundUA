@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "I work out in the foundries, where the heat could melt the strongest of steels!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "I'm just coming here to get some supplies. Normally, I'm posted out on the foundries."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "I'm just visiting on my lunch break. Normally I'm toiling out on the foundries!"
+  }
+]

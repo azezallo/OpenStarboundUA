@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Один смачний сніговий ріжок, багато смаків!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "сніговий конус"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мені тут не раді..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пінгвіни тільки знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мені тут не раді..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Деякі птахи вважають себе кращими за інших! Мене обурює таке ставлення."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Маленькі пташки-переваги не можуть перешкодити Флорану увійти!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Знервований. Я не відчуваю себе тут бажаним."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені тут не раді..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мені тут не раді..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Спробуй мене зупинити, друже."
+  }
+]

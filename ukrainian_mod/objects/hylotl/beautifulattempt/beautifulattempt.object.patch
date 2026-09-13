@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Аркадна машина з інтерактивною сюжетною грою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гарна спроба! машина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Яскрава аркадна машина, що це за гра?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, гра на цій яскравій аркадній машині може бути розслаблюючою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ця аркадна машина барвиста, як квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Ігри такого типу мають незрозумілу мету."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "На цій яскравій машині є популярна гра Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це класика, кожен Хайлотль знає всі кінцівки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця аркадна машина виглядає дуже гарно."
+  }
+]

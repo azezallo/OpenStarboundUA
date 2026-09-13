@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чим тепліше цей жучок стає, тим більше він світиться."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Світлячка"
+  }
+]

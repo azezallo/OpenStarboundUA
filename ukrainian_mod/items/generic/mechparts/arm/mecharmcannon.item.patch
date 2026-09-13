@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Механічна рука, оснащена лазерною гарматою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рука гарматного механізму"
+  }
+]

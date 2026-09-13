@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Цілісний обсидіан. Від природи чорний.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Обсидіан",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Здивування. Цей обсидіан неймовірно щільний і твердий.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Обсссидіан. Міцна чорна порода.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже на чорну обсидіанову породу.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Металевий ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Металевий ящик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Металевий ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ящик з металу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Металева коробка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Металевий ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Великий металевий ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Важкий на вигляд металевий ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це звичайний металевий ящик."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На етикетці написано: «Його легке тіло пливе за напрямком вітру»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фігурка скімбус"
+  }
+]

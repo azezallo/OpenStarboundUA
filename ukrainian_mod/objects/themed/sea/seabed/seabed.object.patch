@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ліжко у формі черепашки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліжко Seashell"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гарантовано сприятиме сну під водою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це ліжко виготовлене з гігантської розкладачки, виглядає затишно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Легко спати в ліжку з водоростей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гордий. Ліжко для Hylotl King."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це шикарне ліжко, у нього навіть водяний матрац."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Немає нічого зручнішого, ніж спати між простирадлами водоростей."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це ліжко справді виглядає шикарно. І пахне смачними креветками."
+  }
+]

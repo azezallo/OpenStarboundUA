@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Росте смачна морква, привезена аж через зірки із Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння моркви"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Зваріть моркву, вона трохи схожа на банан... але на смак не така."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Проста морква. Підходить для супу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Іноді морква виростає кучерявою. Це смішить Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Морква приємно хрумтить."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Морква. Ідеально підходить для їжі або для наклеювання сніговика."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Морква — це універсальний, хоч і м’який овоч."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Скромна морква."
+  }
+]

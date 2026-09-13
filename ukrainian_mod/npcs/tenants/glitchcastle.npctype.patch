@@ -1,0 +1,52 @@
+[
+  {
+    "value": "Важливість. Я значна особа! Було б доцільно, щоб до мене ставилися добре.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Розчарування. Я звик жити в місцях величніших за це.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Невдячність. Гадаю, що я міг би жити тут. Я жив і в більших місцях, хоча...",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Смуток. Раніше я жив у великому замку, достатньо високому, щоб торкнутися самого неба.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Неповага. Цей дім підійде, але він не такий великий, як я хотів би.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Ввічливість. Ти виглядаєш як селянин, але це зовсім не означає, що ти не можеш досягти багато чого.",
+    "path": "/scriptConfig/dialog/converse/glitch/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мрійливість. У мене раніше був слуга, який виглядав так само, як і ти.",
+    "path": "/scriptConfig/dialog/converse/glitch/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Невдячність. У мене був дім набагато більший, ніж цей. Хтось на кшталт тебе цього не зрозуміє.",
+    "path": "/scriptConfig/dialog/converse/glitch/glitch/2",
+    "op": "replace"
+  },
+  {
+    "value": "Смуток. Раніше я жив у великому замку, достатньо високому, щоб торкнутися самого неба.",
+    "path": "/scriptConfig/dialog/converse/glitch/glitch/3",
+    "op": "replace"
+  },
+  {
+    "value": "Заінтригованість. Якщо у тебе немає слуг, то хто займається всіма клопотами?",
+    "path": "/scriptConfig/dialog/converse/glitch/glitch/4",
+    "op": "replace"
+  }
+]

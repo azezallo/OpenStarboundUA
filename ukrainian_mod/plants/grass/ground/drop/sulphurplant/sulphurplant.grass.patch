@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Сірчана рослина. Смердить.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Сірчана рослина",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Сссмердить! Флоран затикає ніссс.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Рослина з поганим запахом.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

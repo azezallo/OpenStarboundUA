@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скриня зі скарбами з бруківки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кам'яна скриня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Важка кам'яна скриня."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Петлі на цій скрині скрегочуть, коли вона відкривається."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Кам'яні шахи зберігають у безпеці смаколики Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Світловідбиваюча. Щоб зламати цю скриню, не знадобилося б багато сил."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Скриня занадто важка, щоб рухати її, навіть якщо вона порожня."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця скриня — твердий камінь, але може містити делікатні скарби. Метафора серця."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Камінь, в який можна покласти речі."
+  }
+]

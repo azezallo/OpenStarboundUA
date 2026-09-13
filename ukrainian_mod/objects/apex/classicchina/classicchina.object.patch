@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Причина, чому ви не граєте в м'яч вдома."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичний китайський кабінет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Китай зображує Вершину до руйнування нашої ДНК. Так багато з нас прагнуть бути тими, ким були колись."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Верхівка на них не має волосся. Звичайно, я припускаю, що це Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дурні мавпи, навіщо замикати тарілки? Вони не втечуть."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Здається, що Апекс, зображений на цих пластинах, еволюціонував. Чому на старих тарілках такі малюнки?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Тут фарфор покритий зображеннями Apex без хутра."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Судячи із зображень на цих частинах, колись Apex були прекрасною гонкою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тарілки Buncha виставлені, я не знаю, як їх звідти дістати."
+  }
+]

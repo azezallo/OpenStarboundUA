@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Базові вольфрамові двері."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вольфрамові двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці двері є відносно безпечними."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Досить міцний для базових дверей."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран ховається за дверима. Вискочити. Ssstab!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Корисні, базові двері."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Міцні вольфрамові двері."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Звичайні двері справляються зі своєю роботою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто двері, я думаю, виконує свою роботу."
+  }
+]

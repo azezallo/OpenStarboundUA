@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий череп Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вершина черепа"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Верхівка скам'янілості"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Скам'янілі останки Апекса. Зверніть увагу на потужні зуби та яскраво виражені надбрівні валики."
+  }
+]

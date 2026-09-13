@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Меч у... консолі?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Консоль Sharp"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці мечі виконують роль важелів. Цікаво, що вони активують?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Розумне використання зношеної зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Буксирний меч Флорана. Меч змушує вогні гудіти."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Гарне лезо має багато застосувань, навіть якщо воно затупилося. Тут він служить важелем."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я розриваюся між тим, щоб потягнути важіль і хвилюватися, що не порежуся."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чи можуть такі пристрої стати кроком до миру? Або це загроза насильства?"
+  }
+]

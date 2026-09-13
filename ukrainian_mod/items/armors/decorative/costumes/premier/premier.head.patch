@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Декоративний шолом підійде для надзвичайно важливої ​​фігури."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом Premier"
+  }
+]

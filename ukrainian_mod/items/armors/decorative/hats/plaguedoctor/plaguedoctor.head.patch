@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стара маска чумного лікаря. Одягайте його і лякайте своїх друзів!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска чумного лікаря"
+  }
+]

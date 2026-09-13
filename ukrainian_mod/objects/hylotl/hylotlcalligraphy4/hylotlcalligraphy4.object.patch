@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Каліграфія Hylotl \"Leap\"."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Каліграфія в рамці для «стрибка»."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гілотлі, здається, цінують свою мову настільки, щоб розглядати її як мистецтво."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Не надихає всіх, крім Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Виглядає як шаблон ssstabs."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. Можливо, Hylotl повинен замість цього обрамити слово «hubris»."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це як один із тих творів сучасного мистецтва. Я не фанат."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Яскрава краса викликає у мене сльози."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Здається, на цьому полотні стався нещасний випадок."
+  }
+]

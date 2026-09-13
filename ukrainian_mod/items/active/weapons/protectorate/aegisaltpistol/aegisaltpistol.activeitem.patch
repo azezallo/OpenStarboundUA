@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Випромінює безперервний промінь чистої руйнівної енергії."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пістолет Aegisalt"
+  }
+]

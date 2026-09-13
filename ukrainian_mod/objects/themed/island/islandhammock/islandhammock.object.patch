@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Для деяких гамак - це саме зображення розкоші."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Острів Гамак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я віддаю перевагу, щоб грядки були на твердій землі. Безпека перш за все."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чудово бути підвішеним до землі під час сну."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран вважає за краще спати на землі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "хвилювався. Чи витримає цей гамак мою вагу?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гамаки! Ліжко мандрівного обивателя."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ніякої елегантності спати в такому простому ліжку немає."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гамак, га? Тепер є ідея, яку я можу підтримати."
+  }
+]

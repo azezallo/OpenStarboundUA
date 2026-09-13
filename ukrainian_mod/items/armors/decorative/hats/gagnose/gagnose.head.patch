@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Круглий кляп ніс. Це має бути смішним, але насправді це не так."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кляп ніс"
+  }
+]

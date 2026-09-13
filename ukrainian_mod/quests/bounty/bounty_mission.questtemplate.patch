@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Цей текст не буде відображатися",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Цей текст не буде відображатися",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Цей текст не буде відображатися",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Вирушай на %s",
+    "path": "/scriptConfig/objectives/findWorldStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Досліди^reset; планету на наявність ^green;сигнатури цілі^reset;",
+    "path": "/scriptConfig/objectives/missionTeleportStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Шукай^reset; підказки",
+    "path": "/scriptConfig/objectives/missionTeleportStage/1",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Затримай^reset; ^green;<bounty.name>^reset;",
+    "path": "/scriptConfig/objectives/missionBountyStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мої знахідки на <prev.coordinate.name> привели мене до думки, що <bounty.name> знаходиться на <coordinate.name>.",
+    "path": "/scriptConfig/generatedText/text/prev/0",
+    "op": "replace"
+  },
+  {
+    "value": "<bounty.name> востаннє бачили на <coordinate.name>.",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Чудова робота із затриманням <bounty.name>, напарнику! Справедливість сьогодні справді перемогла.\n\nЗаходь на Станцію миротворців, щоб забрати свою нагороду!",
+    "path": "/scriptConfig/generatedText/complete/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти затримав <bounty.name>? Відмінна робота, напарнику! Всесвіт став трохи безпечнішим.\n\nЗаходь на Станцію миротворців, щоб забрати свою нагороду!",
+    "path": "/scriptConfig/generatedText/complete/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти його відпустив?! Мушу сказати, цього разу ти не впорався зі своїми обов'язками Миротворця, напарнику!",
+    "path": "/scriptConfig/generatedText/failure/escape/0",
+    "op": "replace"
+  }
+]

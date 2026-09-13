@@ -1,0 +1,157 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прядка використовується для виготовлення одягу, тканин та інших матеріалів для рукоділля."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Sколесо для обертання^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Прядка. Інструмент для кравців."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Інструмент для обробки ниток."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran ssspin wheel, робоча нитка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Кровецький інструмент."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дерев'яна прядка. Настільки старомодний, що майже химерний."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гілотлі вважають прядіння пряжею формою мистецтва."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Можливо, я зможу зробити собі нову сорочку на цьому."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "value": "Прядка використовується для виготовлення одягу, тканин та інших матеріалів для рукоділля."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "value": "^orange;Sколесо для обертання^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "value": "Прядка. Інструмент для кравців."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "value": "Інструмент для обробки ниток."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "value": "Floran ssspin wheel, робоча нитка."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "value": "Спостережливий. Кровецький інструмент."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "value": "Дерев'яна прядка. Настільки старомодний, що майже химерний."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "value": "Гілотлі вважають прядіння пряжею формою мистецтва."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "value": "Можливо, я зможу зробити собі нову сорочку на цьому."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Прядка"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Tекстиль і барвники"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "value": "Швейна машина використовується для виготовлення одягу, тканин та інших матеріалів для рукоділля."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "value": "TAG0GAШвейна машина^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "value": "Швейна машинка. Інструмент для кравців."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "value": "Інструмент для обробки ниток."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "value": "Floran ssse на машинці, робоча нитка."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "value": "Спостережливий. Удосконалений інструмент для шиття."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "value": "Швейна машинка. Досить стандартний тариф."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "value": "Можливо, це не так традиційно, але швейна машина, безумовно, набагато ефективніша."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "value": "Можливо, я зможу зробити собі нову сорочку на цьому."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "швейна машина"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Tекстиль і барвники"
+  }
+]

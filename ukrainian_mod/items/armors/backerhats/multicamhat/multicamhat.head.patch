@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шапка виконана в камуфляжному стилі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кепка оператора Multicam"
+  }
+]

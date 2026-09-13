@@ -1,0 +1,287 @@
+[
+  {
+    "op": "replace",
+    "path": "/keyActions/player/0/label",
+    "value": "Вгору"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/1/label",
+    "value": "Вліво"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/2/label",
+    "value": "Вправо"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/3/label",
+    "value": "Присісти"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/4/label",
+    "value": "Стрибок"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/5/label",
+    "value": "Йти / Точність ММ"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/6/label",
+    "value": "Дія"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/7/label",
+    "value": "Викинути"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/8/label",
+    "value": "Зміна UI"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/9/label",
+    "value": "Тех. голови"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/10/label",
+    "value": "Емоція: Балаканина"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/11/label",
+    "value": "Емоція: Крик"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/12/label",
+    "value": "Емоція: Радість"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/13/label",
+    "value": "Емоція: Сум"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/14/label",
+    "value": "Емоція: Нейтрал."
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/15/label",
+    "value": "Емоція: Сміх"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/16/label",
+    "value": "Емоція: Злість"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/17/label",
+    "value": "Емоція: Ох"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/18/label",
+    "value": "Емоція: Ооо"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/19/label",
+    "value": "Емоція: Кліпати"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/20/label",
+    "value": "Емоція: Підморг"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/21/label",
+    "value": "Емоція: Їсти"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/player/22/label",
+    "value": "Емоція: Спати"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/toolbar/0/label",
+    "value": "Зміна панелі"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/toolbar/1/label",
+    "value": "Звільнити руки"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/toolbar/2/label",
+    "value": "Слот 1"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/toolbar/3/label",
+    "value": "Слот 2"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/toolbar/4/label",
+    "value": "Слот 3"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/toolbar/5/label",
+    "value": "Слот 4"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/toolbar/6/label",
+    "value": "Слот 5"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/toolbar/7/label",
+    "value": "Слот 6"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/toolbar/8/label",
+    "value": "Маніпулятор"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/toolbar/9/label",
+    "value": "Проводка"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/toolbar/10/label",
+    "value": "Фарбування"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/toolbar/11/label",
+    "value": "Огляд / Сканування"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/0/label",
+    "value": "Підсвітка об'єктів"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/1/label",
+    "value": "Камера"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/2/label",
+    "value": "Чат: Вгору"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/3/label",
+    "value": "Чат: Вниз"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/4/label",
+    "value": "Чат: Попер. рядок"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/5/label",
+    "value": "Чат: Далі"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/6/label",
+    "value": "Чат: Надіслати"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/7/label",
+    "value": "Почати чат"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/8/label",
+    "value": "Команда в чаті"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/9/label",
+    "value": "Повтор команди"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/10/label",
+    "value": "Повний екран"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/11/label",
+    "value": "Інвентар"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/12/label",
+    "value": "Кодекс"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/13/label",
+    "value": "Квести"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/14/label",
+    "value": "Крафт"
+  },
+  {
+    "op": "replace",
+    "path": "/keyActions/game/15/label",
+    "value": "Без UI"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/accept/caption",
+    "value": "Прийняти"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/cancel/caption",
+    "value": "Назад"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/setDefault/caption",
+    "value": "Станд."
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/categories/tabs/0/tabTitle",
+    "value": "ГРАВЕЦЬ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/categories/tabs/1/tabTitle",
+    "value": "ПАНЕЛЬ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/categories/tabs/2/tabTitle",
+    "value": "ГРА"
+  }
+]

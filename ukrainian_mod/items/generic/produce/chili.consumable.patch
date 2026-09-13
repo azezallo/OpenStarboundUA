@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже жарко для людей, супер, надзвичайно жарко для всіх інших."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чилі"
+  }
+]

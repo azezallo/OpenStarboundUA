@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеально підходить для Ascot."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Модний капелюх"
+  }
+]

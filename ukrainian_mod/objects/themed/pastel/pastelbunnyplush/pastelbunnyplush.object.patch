@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ароматний рожевий плюшевий зайчик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пастельний плюшевий кролик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця жахливо мила плюшева іграшка також має аромат троянд."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця мила плюшева іграшка також має запах троянди."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Маленька штука пахне трояндою. Флоран схвалює."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Закоханий. Ця плюшева іграшка неймовірно чарівна."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей рожевий зайчик такий милий, що мені хочеться вдарити його."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця плюшева іграшка справді пахне трояндами. Це приємний штрих."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ну хіба це не наймиліша річ?"
+  }
+]

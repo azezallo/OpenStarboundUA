@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Тремтливе вогняне полум'я.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Вогняна квітка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Обпікаюча квітка лякає флорана, сссстрашно.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Вогняна квітка.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

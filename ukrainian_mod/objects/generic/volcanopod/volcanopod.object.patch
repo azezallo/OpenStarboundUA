@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блок дозування матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дозатор"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей стручок роздає матеріали для крафта."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Безкоштовні матеріали для рукоділля. приємно"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Машина ssspit створює предмети у Floran."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Чудо. Машина, яка дає матеріали безкоштовно!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це як машина для гашапона, але корисна!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стручок, який постачає основні матеріали."
+  }
+]

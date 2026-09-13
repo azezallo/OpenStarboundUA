@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Для всіх ваших святкових потреб!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стіл іграшника"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Стіл іграшника"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Для всіх ваших святкових потреб"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Столик з інструментами для виготовлення святкових прикрас."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей святковий стіл дозволить мені поширити святковий настрій."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран робить красиві червоні бантики."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Святковий. Я створю найсмачнішу жуйку."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "За допомогою цього столу я можу створити купу святкових прикрас!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "За допомогою цього столу я можу створити найпривабливіші святкові прикраси."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це дозволить мені створювати будь-які святкові прикраси."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бурлячий казан, достатньо великий, щоб у нього могла поміститися ціла людина."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Моторошний котел"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, це погана ідея, але я був би не проти посидіти тут."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, чи зварю я, якщо сидітиму в цьому надто довго?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не хоче, щоб його зварили в суп."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розпитування. Скільки мені доведеться сидіти в цьому, щоб іржавіти?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сидячи в цьому, схоже, це б лоскотало!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це дивно пахне, але сидіти в цьому насправді розслабляє."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це маленький бортик для ванни."
+  }
+]

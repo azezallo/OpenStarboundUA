@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює частину планети на слизову яму."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Slimy Microformer"
+  }
+]

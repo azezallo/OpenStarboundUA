@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Подивіться уважно на цих риб."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска для дайвінгу"
+  }
+]

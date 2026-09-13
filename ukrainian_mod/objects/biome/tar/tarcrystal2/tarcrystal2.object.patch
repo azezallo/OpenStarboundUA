@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Осколок кристалізованої смоли"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Осколок дьогтю"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Блискучий, як у темне дзеркало."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мені більше подобається дьоготь у такому твердому вигляді. Легше для очей і пір'я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Красиві, темні кристали."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вражений. Яка трансформація з цього жахливого, клейкого стану."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Досить красиво, для дьогтю."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дьоготь може бути досить красивим у кристалізованому вигляді."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Кристалізований дьоготь."
+  }
+]

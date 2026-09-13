@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцні брюки з обробленої шкіри."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жорсткі штани Deadbeat"
+  }
+]

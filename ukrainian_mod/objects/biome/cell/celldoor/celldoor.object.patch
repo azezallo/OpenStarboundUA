@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бар'єр, що складається з двох згорнутих брусків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Двері камери"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Звичайно, це не надійні двері. Якби я був худим, я міг би просто стиснутися збоку."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Виглядає трохи тендітно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "С-с-круті, с-с-скрутно-дурні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Роздратований. Ці двері явно віддають перевагу формі, а не функції."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Перекручений безлад дверей."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мало корисний і точно не красивий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Дивитися на ці двері все одно, що заглядати в бочку змій."
+  }
+]

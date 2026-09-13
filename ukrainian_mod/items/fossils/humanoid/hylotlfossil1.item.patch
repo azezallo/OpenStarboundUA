@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий череп Гілотля."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Череп Гілотла"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Викопні гілотлі"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Цей скам’янілий скелет Гілотля має ранні ознаки адаптації до водного життя."
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "value": "Дружелюбний друг",
+    "path": "/parameters/target/example/name",
+    "op": "replace"
+  },
+  {
+    "value": "Для початку є щоось, що Флорану потрібно від <target>, <target.pronoun.subject> не повинен бути проти. ^green;Піди попроси ^orange;<target> ^green;створити для Флорана один ^orange;<item>.",
+    "path": "/scriptConfig/generatedText/text/first/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран знаєє, що ^orange;<target> може зробити те, що нам потрібно. ^green;Піди отримай один ^orange;<item> ^white;від <target.pronoun.object>.",
+    "path": "/scriptConfig/generatedText/text/first/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Неспокійно. ^green;Мені потрібно, щоб ти відвідав^white; ^orange;<target>^white;. Той ^orange;<item>^white;, який <target.pronoun.subject> обіцяв створити для мене, має бути готовий.",
+    "path": "/scriptConfig/generatedText/text/first/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Похмуро. Мій друг ^orange;<target>^white; сказав, що <target.pronoun.subject> допоможе зробити ^orange;<item>^white;, який мені потрібен, але <target.pronoun.subject> не з'явився. ^green;Чи не міг би ти піти до <target.pronoun.object> і попросити у <target.pronoun.object> про це?",
+    "path": "/scriptConfig/generatedText/text/first/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "По-перше, мені потрібно, щоб ти дещо для мене дістав. ^orange;<target>^white; знає, як зробити найкращий ^orange;<item>^white; у зоряній системі, ^green;йди туди і попроси про це.^white; Він знадобиться нам пізніше.",
+    "path": "/scriptConfig/generatedText/text/first/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Перше, що мені знадобиться - це один ^orange;<item>. <target>^white; добре вміє їх робити, тож ми ^green;попросимо <target.pronoun.object> зробити один^white; спеціально для нас.",
+    "path": "/scriptConfig/generatedText/text/first/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану потрібна твоя допомога, щоб отримати щось оссобливе від ^orange;<target>. ^green;Тобі варто піти і попросити один ^orange;<item>. ^white;<target.pronoun.capitalSubject> зробить його для нас.",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тепер Флорану потрібно попроссити тебе ^green;дістати один ^orange;<item>. ^white;Флоран впевнений, що ^orange;<target> ^green;зможе зробити його.",
+    "path": "/scriptConfig/generatedText/text/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "З надією. ^green;Якщо ти поговориш з ^orange;<target>^white;, <target.pronoun.subject> повинен віддати тобі ^orange;<item>^white;, який <target.pronoun.subject> робить для мене.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Похмуро. ^orange;<target>^white; знає, як робити ^orange;<item>^white; краще за мене. ^green;Будь ласка, попроси <target.pronoun.object> зробити один для мене.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Наступне, що мені потрібно - це один ^orange;<item>. <target>^white; може зробити майже що завгодно, ^green;попроси <target.pronoun.object> зібрати його.",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Далі, збігай і попроси ^orange;<target>^white; зібрати для нас особливий ^orange;<item>.^white; Просто ^green;згадай моє ім'я, <target> знає, якими я їх люблю.",
+    "path": "/scriptConfig/generatedText/text/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Так! Хіба <target> не найкращий? Цей <item> буде дуже корисним на наступному етапіі нашого плану.",
+    "path": "/scriptConfig/generatedText/completionText/last/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти отримав <item>! Цее хороший день!",
+    "path": "/scriptConfig/generatedText/completionText/last/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. Чудово; <target> зазвичай дружелюбно налаштований до мене, але не завжди такий щедрий. Дякую за твою допомогу.",
+    "path": "/scriptConfig/generatedText/completionText/last/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Радісно. Чудово, ти дістав <item>! Тепер нам потрібно використати його як частину мого великого плану!",
+    "path": "/scriptConfig/generatedText/completionText/last/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Непогано, я знав, що <target> перевершить себе. Однією справою у списку менше...",
+    "path": "/scriptConfig/generatedText/completionText/last/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я ніколи не бачив, щоб хтось робив <item> так само добре, як <target>. Це ідеально підійде для моїх планів.",
+    "path": "/scriptConfig/generatedText/completionText/last/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Відмінно, цейй <item> ідеальний.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран знав, що ти зможеш це зробити. З ццим <item> ми добре підготовлені.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Розчаровано. Ох, якість цього <item> не така, як я очікував. Думаю, доведеться задовольнятися цим.",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Невпевнено. <target.pronoun.capitalSubject> дійсно зробив це для мене? Я справді можу залишити це собі? Вау!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую! <target> робить їх саме так, як треба, я не міг би обійтися звичайним <item> для того, що я задумав.",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ніхто не робить їх так, як <target>! Ще одну справу вирішено. Дякую!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Отримати <item> від <target>",
+    "path": "/scriptConfig/objectives/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Повернутися до <questGiver>",
+    "path": "/scriptConfig/objectives/1/text",
+    "op": "replace"
+  }
+]

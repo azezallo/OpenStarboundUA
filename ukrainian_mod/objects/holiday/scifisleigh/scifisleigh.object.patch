@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "У цих барвистих саней ззаду великий ракетний двигун! Кому потрібні північні олені, правда?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Святкові ракетні сани"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Схоже, що цього року Дід Мороз став надсильним."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Сани з ракетним двигуном. Дивовижно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран став Ссантою!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Сани з ракетним двигуном."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це дало б можливість оленям заробити гроші."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Рокетс може пояснити, як Санта розносить стільки подарунків за одну ніч."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тепер це мої такі собі сани!"
+  }
+]

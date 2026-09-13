@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Брудні, подерті штани, які часто носять негідники."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Брудні штани Deadbeat"
+  }
+]

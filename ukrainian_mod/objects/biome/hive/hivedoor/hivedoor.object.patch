@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Клейкі дверцята з органічних шестикутних стручків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Двері вулика"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "При уважному спостереженні ці двері, здається, трохи просочують біологічні рідини."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці двері залишають щось липке на моєму пір'ї, коли я торкаюся до них..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче вибити дивні липкі двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стривожений. З цих дверей, здається, капає якась біологічна рідина..."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не впевнений, що двері, з яких всюди капає слиз, — це найгігієнічніший вибір для прикраси."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я можу згадати тисячу інших матеріалів, з яких було б розумніше зробити двері."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Дивлячись на ці двері, я починаю їжачити."
+  }
+]

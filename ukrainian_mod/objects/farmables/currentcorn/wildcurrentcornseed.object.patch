@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Актуальна кукурудза, повна кислоти. Не підходить для м'ясистих істот."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Currentcorn Seed"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я чув про людей, які отримували кислотні опіки від нинішньої кукурудзи. Я краще поводжусь обережно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кисла кукурудза. Неприємно і небезпечно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смачна, кисла кукурудза. Робить м'ясисті речі болячими."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гордий. Глюки знають спосіб використовувати ці овочі як батареї."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це схоже на кукурудзу... але це насправді не так."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мерзенний, кислий варіант кукурудзи. Згубний для будь-якої страви."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Поточна кукурудза ближче до елемента батареї, ніж до їстівного продукту."
+  }
+]

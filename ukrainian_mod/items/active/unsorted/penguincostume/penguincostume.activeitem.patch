@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пакет, що містить повністю новий костюм пінгвіна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Костюм пінгвіна"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старовинний стовп, знайдений біля воріт. Він виробляє світло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стародавній стовп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Старовинний світиться стовп. Я в захваті."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Сяючий моноліт. Всесвіт чудовий."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучий камінь! Флоран нагадує призахідне сонце."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Проникливий. Це ефірне сяйво створює речовина, яку я не впізнаю."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це як стародавній ліхтарний стовп!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей високий стовп, мабуть, бачив багато історії."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей сяючий камінь нагадує мені далекий місяць."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Клумба. Сподіваюся, у вас немає сінної лихоманки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гігантська клумба"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це ліжко забавне та пружне."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Від сну тут моє пір’я свербить."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран легко заснув у рослині."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Незручно. Ліжко зроблено з м'ясоїдної рослини. тривога."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Нудотно-солодкий запах рослини не допомагає мені спати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пристосування природи для інших цілей. Чудово."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ліжко з приємним ароматом. Про квітчасті луки в цьому можна було тільки мріяти."
+  }
+]

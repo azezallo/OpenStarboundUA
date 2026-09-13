@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика, смачна зелена жуйка! смакота!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Big Green Gumdrop"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Смачна зелена жуйка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Велика зелена жуйка. смачно"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран їсть велику зелену цукерку!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Смачна зелена жуйка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Солодощі! так!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це виглядає смачно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця жуйка виглядає смачно!"
+  }
+]

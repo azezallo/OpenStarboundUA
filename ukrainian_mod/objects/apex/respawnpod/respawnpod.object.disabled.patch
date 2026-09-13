@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Фабрика, здатна створювати новітні технології міських роботів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Apex Respawn Pod"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Така неефективна конструкція; за допомогою лише однієї конвеєрної лінії."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Теплий тепло виходить через вентиляційний отвір. Теплий, але такий брудний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Що виходить?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "трепет. Так народжуються мої брати."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Нові роботи безперервно сходять з конвеєра."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Не здається водонепроникним."
+  }
+]

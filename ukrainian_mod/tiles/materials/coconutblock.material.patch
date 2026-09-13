@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Блоки, зроблені з кокоса та будівельного розчину.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Кокосовий блок",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Здивування. Основним компонентом цих блоків є кокоси.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран знає, що кокосссові блоки дуже міцні.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Я вважаю ці кокосові блоки вельми файними та міцними.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий пістолет, який дає удар."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Титановий пістолет-кулемет"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Теплий і м'який пісок.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Пісок",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво. Цей пісок настільки прекрасний, що здається гладким на дотик.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Дрібний пісссок.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Файний м'який пісок.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

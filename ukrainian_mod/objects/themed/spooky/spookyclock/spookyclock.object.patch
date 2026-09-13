@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старий дідусевий годинник, увінчаний моторошним зображенням кажана."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Моторошний годинник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я віддаю перевагу цифровим годинникам - Цокання не привертає до вас увагу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, цей годинник застряг на певному часі..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану подобається прикидатися кажаном. Не знаю, для чого це інше."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Пристрій використовує гвинтики для відстеження поточного часу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ви знаєте, отримати годинник було б дешевше, ніж це."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це має на меті вселити страх? Це не вдалося."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей старий годинник дає мені озноб."
+  }
+]

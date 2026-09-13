@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Pet Station"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "За все, що стосується відлову домашніх тварин"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Використовується для виготовлення контейнерів для захоплення, лікувальних станцій та інших предметів, пов’язаних із домашніми тваринами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Pстанція для домашніх тварин^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тут я можу створити контейнери для захоплення."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це дозволить мені створювати контейнери для захоплення."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран іноді захоплює істот!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. З цим я можу створювати контейнери для захоплення!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Круто, можливо, я зможу захопити армію розлючених бджіл."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Приручити дикого звіра - вступити в міцну і вірну дружбу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Tamin' диких звірів стане дитячою грою з контейнерами для захоплення."
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "value": "  Торговец літейной",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "  Продажа руди і оборудованія!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Тільки у нас ти зможеш купити якісні руди, доставлені прямо з ливарень!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тут цех з виливання металів!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ласкаво просимо! Можливо, тобі потрібне обладнання для видобутку? Або потрібні метали?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Підходь! Тож, виходить, тобі потрібні інструменти?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ну ось! То що казав, тобі потрібно? Можливо, метали?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ласкаво просимо! Хочеш купити які-небудь метали?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо потрібна руда, ти точно згадаєш про мене!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо тобі будуть потрібні метали чи руди — ти знаєш, де мене знайти!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Повертайся, коли знадобляться метали!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2",
+    "op": "replace"
+  }
+]

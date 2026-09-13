@@ -1,0 +1,317 @@
+[
+  {
+    "value": "Ідеальна жертва",
+    "path": "/parameters/target/example/name",
+    "op": "replace"
+  },
+  {
+    "value": "Залякати ціль [<target>]",
+    "path": "/scriptConfig/generatedText/title/0",
+    "op": "replace"
+  },
+  {
+    "value": "<questGiver> хоче залякати когось",
+    "path": "/scriptConfig/generatedText/title/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;<target> має знати, що флорана треба боятиссся!",
+    "path": "/scriptConfig/generatedText/goalText/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран хоче більше поваги до сссебе.",
+    "path": "/scriptConfig/generatedText/goalText/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Агресивно. Мені потрібно, щоб <target> поважав<target.pronoun.obj1end> мене, і я маю ідею для цього.",
+    "path": "/scriptConfig/generatedText/goalText/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Хитро. Я хочу, щоб <target> був<target.pronoun.obj1end> в жаху від мене... У мене є ідея.",
+    "path": "/scriptConfig/generatedText/goalText/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Було б непогано, якби <target> підкоряв<target.pronoun.obj6end> мені. У мене є ідея, як це зробити...",
+    "path": "/scriptConfig/generatedText/goalText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Я хочу, щоб <target> поважав<target.pronoun.obj1end> мене, але дружба займає надто багато часу. У мене є краща ідея...",
+    "path": "/scriptConfig/generatedText/goalText/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Почнемо з того, що ^orange;<target>^white; не поважає флорана. Флоран знає чудовий ссспосіб як це виправити - ^green;візьми в руки ^orange;<item>^green; і сссходи поговори з <target.pronoun.copulativePast>. ^white;Не програй!",
+    "path": "/scriptConfig/generatedText/text/first/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран не відчуває, що ^orange;<target>^white; ставиться до нього з належним трепетом. ^green;Візьми в руки ^orange;<item>^green; і потикай <target.pronoun.object> в ніс^white; - так <target.pronoun.subject> відразу зрозуміє, що до чого.",
+    "path": "/scriptConfig/generatedText/text/first/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Погрозливо. Перш за все я хочу, щоб ^orange;<target>^white; тремтів<target.pronoun.obj1end> при вигляді мене. Ти не міг би навіяти <target.pronoun.object> це? Думаю, якщо ти ^green;візьмеш ^orange;<item>^white;, до н<target.pronoun.reflexive> швидше дійде...",
+    "path": "/scriptConfig/generatedText/text/first/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Погрозливо. Для початку мені потрібно, щоб ^orange;<target>^white; не був<target.pronoun.obj1end> здатн<target.pronoun.obj4end> мені відмовити в будь-якому проханні. Чи не міг би ти якось ^green;вплинути на н<target.pronoun.reflexive>^white; - можливо, твої слова звучатимуть цілком переконливо, якщо ти будеш ^green;тримати ^orange;<item>^white;.",
+    "path": "/scriptConfig/generatedText/text/first/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Отже, потрібно домогтися, щоб ^orange;<target>^white; мені підкоряв<target.pronoun.obj6end>. Якщо ти зможеш ^green;навести <target.pronoun.object> пару доводів, особливо недбало стискаючи ^orange;<item>^white;, думаю, <target.pronoun.subject> відразу зрозуміє, що до чого...",
+    "path": "/scriptConfig/generatedText/text/first/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Отже, мені потрібно, щоб ^orange;<target>^white; виконував<target.pronoun.obj1end> всі мої забаганки. Щоб цього домогтися, ти повинен ^green;залякати <target.pronoun.reflexive>^white; - а особливо <target.pronoun.subject> боїться людей, що тримають ^orange;<item>^white; напереваги...",
+    "path": "/scriptConfig/generatedText/text/first/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Слушний час, щоб знайти нових помічників. ^green;Візьми ^orange;<item>^green; і поговори з жителем ^orange;<target>^green;, щоб <target.pronoun.subject> ссслухав<target.pronoun.obj6end> флорана! ^white;Не хвилюйся, це буде легко. Флоран уже робив так.",
+    "path": "/scriptConfig/generatedText/text/next/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Потім тобі потрібно ^green;використати ^orange;<item>^white;, щоб ^green;сссерйозно поговорити^white; з жителем ^orange;<target>^white;. Переконайся, що <target.pronoun.subject> знає, хто тут боссс. Звичайно, це флоран!",
+    "path": "/scriptConfig/generatedText/text/next/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зловтішно. Потім потрібно, щоб ^orange;<target>^white; підкоряв<target.pronoun.obj6end> мені - для цього ^green;<target.pronoun.subject> має боятися мене^white;. <target.pronoun.capitalSubject> боїться ^orange;<item>^green; - візьми зброю і поговори з <target.pronoun.copulativePast>.",
+    "path": "/scriptConfig/generatedText/text/next/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Самовпевнено. Далі мені потрібно підпорядкувати жителя ^orange;<target>^white; - <target.pronoun.subject> має мене боятися. Я чув<questGiver.pronoun.obj1end>, що ^green;<target.pronoun.subject> боїться ^orange;<item>^white; - можеш ^green;вказати <target.pronoun.object>^white;, у кого тут сила в руках?",
+    "path": "/scriptConfig/generatedText/text/next/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Далі нам потрібно, щоб ^orange;<target>^white; підкоряв<target.pronoun.obj6end> мені. Для цього тобі треба залякати <target.pronoun.possessiveDet>! ^green;Візьми в руки ^orange;<item>^green; і поговори з <target.pronoun.copulativePast>^white;.",
+    "path": "/scriptConfig/generatedText/text/next/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Далі мені знадобиться ^orange;<target>^white;. Буде легко, якщо залякати <target.pronoun.possessiveDet>. Можеш ^green;взяти ^orange;<item>^green; і поговорити з <target.pronoun.copulativePast> від мого імені^white;? Це має спрацювати!",
+    "path": "/scriptConfig/generatedText/text/next/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану потрібно ще дещо. ^orange;<target>^white; - потенційно непоганий ссюзник. Цю думку найпростіше навіяти <target.pronoun.object>, ^green;тримаючи в руках ^orange;<item>^white;!",
+    "path": "/scriptConfig/generatedText/text/last/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Настав час показати жителю ^orange;<target>^white;, хто крутіший у цьому місті. ^green;Візьми ^orange;<item>^green; і поговори з <target.pronoun.copulativePast>^white;. Флоран вірить у тебе.",
+    "path": "/scriptConfig/generatedText/text/last/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Погрозливо. Отже, мені потрібно, щоб ^orange;<target>^white; був<target.pronoun.obj1end> у мене в служінні. ^green;Повідом <target.pronoun.object> цю радісну новину, наставивши на н<target.pronoun.reflexive> ^orange;<item>^white;!",
+    "path": "/scriptConfig/generatedText/text/last/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Погрозливо. Мені потрібно, щоб ^orange;<target>^white; поважав<target.pronoun.obj1end> мене. Єдиний спосіб цього досягти - ^green;встромити ^orange;<item>^white; в <target.pronoun.reflexive> пухку тушку! Це надійний план.",
+    "path": "/scriptConfig/generatedText/text/last/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти знав, що ^orange;<target>^white; починає нервувати, коли поруч хтось ^green;тримає ^orange;<item>^white;? Це можна використовувати у своїх інтересах - наприклад, таким чином можна довести <target.pronoun.reflexive> до потрібної кондиції підпорядкування. Треба тільки вибрати <item> побільше...",
+    "path": "/scriptConfig/generatedText/text/last/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мій план, нарешті, спрацює! Але мені все ще потрібен у підпорядкуванні житель ^orange;<target>^white;. Потрібно <target.pronoun.possessiveDet> добряче налякати! Можеш ^green;взяти ^orange;<item>^green; і поговорити з <target.pronoun.copulativePast>? ^white;Не хвилюйся, все вийде.",
+    "path": "/scriptConfig/generatedText/text/last/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран хоче підім'яти під сссебе всіх в окрузі. Твоя ціль - ^orange;<target>^white;. Знайди ^orange;<item>^white; страшніший і ^green;поговори з <target.pronoun.copulativePast>^white; на тему того, кому <target.pronoun.subject> має підкорятися.",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану потрібно, щоб ^orange;<target>^white; зрозумів<target.pronoun.obj1end>, хто тут головний. Сссробимо це так - знайди ^orange;<item>^white; побільше і ^green;поговори з <target.pronoun.copulativePast> про субординацію^white;.",
+    "path": "/scriptConfig/generatedText/text/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Погрозливо. Твоє завдання - зробити так, щоб ^orange;<target>^white; мені корився. Рекомендую вдатися до такого: ^green;взяти ^orange;<item>^white; і виголосити промову слабкої або середньої переконливості. Думаю, цього буде достатньо.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Зловтішно. Щоб ^orange;<target>^white; бояв<target.pronoun.obj6end> мене, потрібно всього лише ^green;направити ^orange;<item>^green; <target.pronoun.object> в обличчя^white;. Завдання настільки просте, що не виконати його просто сущий гріх!",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Як з'ясувалося, ^orange;<target>^white; особливо боїться ^orange;<item>^white;. Чудово! ^green;Сходи до н<target.pronoun.object>, настав ствол і поговори! ^white;<target.pronoun.capitalSubject> так сильно злякається, що зробить усе, що я скажу!",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "До мене дійшли чутки, що ^orange;<target>^white; вельми нервово реагує, якщо ^green;направити на н<target.pronoun.reflexive> ^orange;<item>^white;. У мене є парочка планів, де не завадять зайві руки - так що не бачу причин, чому б не скористатися цією інформацією!",
+    "path": "/scriptConfig/generatedText/text/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Відмінно! Тепер <target> зобов'язан<target.pronoun.obj1end> нам допомогти!",
+    "path": "/scriptConfig/generatedText/completionText/first/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Так швидко! Ссспасибі старій добрій зброї. Флоран задоволений.",
+    "path": "/scriptConfig/generatedText/completionText/first/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. <target> безумовно стане мені в нагоді.",
+    "path": "/scriptConfig/generatedText/completionText/first/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. <target> злякав<target.pronoun.obj6end> швидше, ніж очікувалося. Це мені тільки на руку.",
+    "path": "/scriptConfig/generatedText/completionText/first/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Спрацювало! <target> тепер боїться мене, і, ймовірно, зробить усе, що я скажу! Так просто маніпулювати іншими...",
+    "path": "/scriptConfig/generatedText/completionText/first/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Залякування спрацювало! <target> готов<target.pronoun.obj1end> зробити все, що я скажу. Це мені тільки на руку. Дякую за допомогу!",
+    "path": "/scriptConfig/generatedText/completionText/first/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Відмінна робота. Тепер флоран може сссробити дещо задумане. Дякую.",
+    "path": "/scriptConfig/generatedText/completionText/next/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти повністю виконав цю частину плану. Перейдемо до наступної!",
+    "path": "/scriptConfig/generatedText/completionText/next/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Схвильовано. Залякувати легше, ніж я думав<questGiver.pronoun.obj1end>! Дякую, твої старання не пропадуть даремно.",
+    "path": "/scriptConfig/generatedText/completionText/next/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Енергійно. Залишилося визначитися, чим конкретно <target> може мені стати в нагоді. Дякую за допомогу!",
+    "path": "/scriptConfig/generatedText/completionText/next/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нарешті, <target> виконуватиме все, що я скажу! Залякувати досить легко, еге ж? Скоро це стане в нагоді...",
+    "path": "/scriptConfig/generatedText/completionText/next/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тепер, коли <target> боїться за своє життя, <target.pronoun.subject> виконуватиме все, що я скажу! Я повин<questGiver.pronoun.obj4end> частіше залякувати людей!",
+    "path": "/scriptConfig/generatedText/completionText/next/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран задоволений! З новим сссоюзником життя флорана ссстане простішим.",
+    "path": "/scriptConfig/generatedText/completionText/last/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран не може бажати кращого. Ти справжній друг!",
+    "path": "/scriptConfig/generatedText/completionText/last/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. Я впевнен<questGiver.pronoun.obj1end>, <target> у ролі слуги принесе багато користі. Дякую за... допомогу.",
+    "path": "/scriptConfig/generatedText/completionText/last/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Амбітно. Тепер, коли <target> виконує все, що я скажу, у мене з'явилося багато можливостей... Дякую за співпрацю!",
+    "path": "/scriptConfig/generatedText/completionText/last/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Спрацювало! Тепер <target> виконуватиме все, що я скажу. Одного разу мені це знадобиться. Дякую за... допомогу.",
+    "path": "/scriptConfig/generatedText/completionText/last/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Навіщо домагатися любові людей, коли вони можуть тебе боятися? Дякую за допомогу! Я впевнен<questGiver.pronoun.obj1end>: одного разу <target> стане мені в пригоді...",
+    "path": "/scriptConfig/generatedText/completionText/last/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Уссспіх! Флоран вдячний тобі за виконану роботу. З новим знайомим флоран почувається сссильніше.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую, флоран знав, що ти надійний з самого пппочатку!",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Амбітно. У мене було багато планів, які передбачали послух <target>. Тепер я можу діяти! Я ціную твою допомогу.",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. Тепер, коли <target> робить усе, що я скажу, для мене відкривається більше можливостей. Твоя допомога... оцінена.",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую за допомогу. Тепер <target> робитиме все, що я скажу! Це буде дуже корисно...",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Соціальна маніпуляція — це легко! Через страх <target> тепер вірн<target.pronoun.obj4end> мені. Дякую, що допоміг цьому статися.",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Це завдання пішло не за планом. Можливо, <questGiver> повин<questGiver.pronoun.obj4end> сам<questGiver.pronoun.obj1end> виконувати свою брудну роботу відтепер.",
+    "path": "/scriptConfig/generatedText/failureText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Зрештою, мені не вдалося залякати <target>. Сподіваюся, <questGiver> не надто розчарован<questGiver.pronoun.obj1end> мною.",
+    "path": "/scriptConfig/generatedText/failureText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мені не вдалося допомогти <questGiver> залякати <target>. Можливо, це й на краще — залякування не дуже хороша справа.",
+    "path": "/scriptConfig/generatedText/failureText/2",
+    "op": "replace"
+  },
+  {
+    "value": "Візьми в руки <item>",
+    "path": "/scriptConfig/objectives/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Залякай ціль [<target>]",
+    "path": "/scriptConfig/objectives/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Повернись до жителя <questGiver>",
+    "path": "/scriptConfig/objectives/2/text",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Цей заголовок не відображатиметься.",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Цей текст не відображатиметься.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Цей текст завершення не відображатиметься.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Ми отримали повідомлення про істоту, що сіє хаос на <coordinate.name>! Місцеві жителі почали називати її '^orange;<bounty.name>^reset;', і вони занадто налякані, щоб виходити з домівок. Ти можеш вирушити туди і розібратися з нею?\n\n- НАГОРОДИ -\nВбивство: ^yellow;<rewards.money>^reset; пікселів, +<rewards.rank> рангу",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ми отримали повідомлення про істоту, що розгулює на <coordinate.name>. Якийсь дурень назвав її '^orange;<bounty.name>^reset;', і тепер ніхто не наважується її вбити. Тобі краще вирушити туди і покласти край цьому чудовиську, поки ніхто не постраждав.\n\n- НАГОРОДИ -\nВбивство: ^yellow;<rewards.money>^reset; пікселів, +<rewards.rank> рангу",
+    "path": "/scriptConfig/generatedText/text/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "До нас дійшли чутки про місцеву легенду на <coordinate.name>. Істота дивного кольору на ім'я ^orange;<bounty.name>^reset; вже деякий час тероризує місцевих, і їм це до біса набридло. Ти можеш піти і розібратися з цим безладом?\n\n- НАГОРОДИ -\nВбивство: ^yellow;<rewards.money>^reset; пікселів, +<rewards.rank> рангу",
+    "path": "/scriptConfig/generatedText/text/default/2",
+    "op": "replace"
+  }
+]

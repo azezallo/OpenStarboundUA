@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Модуль EPP, який значно підвищує вашу загальну енергію."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Збільшення енергії III"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "value": "Енергія III"
+  }
+]

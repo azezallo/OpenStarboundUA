@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Каналізаційна труба"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Каналізаційна труба, яка використовується для транспортування відходів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Огидно. Ця труба брудна, я б не хотів дивитися, що всередині неї."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Смердюча каналізаційна труба."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Брудні, брудні на вигляд каналізаційні труби."
+  }
+]

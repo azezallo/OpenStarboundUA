@@ -1,0 +1,67 @@
+[
+  {
+    "value": "^orange;Нагорода за вбивство",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Знайди підказку щодо місцеперебування цілі",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти знайшов підказку. Куди вона веде?",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Вирушай^reset; на ^green;%s^reset;",
+    "path": "/scriptConfig/objectives/findWorldStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Обшукай^reset; планету на наявність сигнатури цілі",
+    "path": "/scriptConfig/objectives/findClueObjectStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Шукай^reset; підказки",
+    "path": "/scriptConfig/objectives/findClueObjectStage/1",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nКомп'ютерні записи тут підказали мені, що <bounty.name> знаходиться на <next.coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/prev/0",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nМої майстерні навички злому привели мене на <next.coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/prev/1",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nМої просунуті навички злому привели мене на <next.coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/prev/2",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nЗлом захищеної бази даних злочинця дав мені локацію \"<next.coordinate.name>\".\n\n",
+    "path": "/scriptConfig/generatedText/text/prev/3",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;<bounty.name>^reset; востаннє бачили на <coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;<bounty.name>^reset; востаннє помітили на <coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Слід цілі ^orange;<bounty.name>^reset; охолов на <coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/default/2",
+    "op": "replace"
+  }
+]

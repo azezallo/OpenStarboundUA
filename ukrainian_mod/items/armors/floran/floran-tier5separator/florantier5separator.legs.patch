@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Спідниця, в якій можна вистежувати здобич."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Спідниця збиральниці"
+  }
+]

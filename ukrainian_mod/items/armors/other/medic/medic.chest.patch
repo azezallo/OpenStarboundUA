@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бойова куртка військового зразка, призначена для медика."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скриня бойового медика"
+  }
+]

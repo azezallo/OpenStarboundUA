@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці прості та трохи брудні штани виглядають ручною роботою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Селянські штани"
+  }
+]

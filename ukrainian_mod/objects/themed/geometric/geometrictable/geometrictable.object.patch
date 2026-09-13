@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже добре зроблена геометрична таблиця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Геометрична таблиця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей геометричний стіл дуже витончений."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Надзвичайно міцний геометричний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Досить хороший стіл, щоб Флоран міг нарізати м’ясо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Дуже добре зроблена геометрична таблиця."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Крута геометрична таблиця."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Зазвичай це не мій стіл, але цей справді вражає."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це не схоже на те, що має бути стабільним, але це так!"
+  }
+]

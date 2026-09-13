@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Станція проводки"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Для всього, що стосується проводки"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Використовується для виготовлення складних елементів електропроводки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Електронна станція^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я можу створювати обладнання для проводки тут."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це робоча станція для створення обладнання для проводки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран може виготовити обладнання для проводки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Робоча станція для створення електромонтажного обладнання. Дуже зручно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "На цій робочій станції можна створювати обладнання, пов’язане з електропроводкою. акуратно!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Для монтажних інструментів і аксесуарів це робоча станція."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Робоча станція для всього, що пов’язано з електропроводкою."
+  }
+]

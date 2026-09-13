@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеально збереглася сніжинка. Кажуть, що немає двох однакових."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сніжинка"
+  }
+]

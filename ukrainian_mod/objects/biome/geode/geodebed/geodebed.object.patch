@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ліжко, вирізане всередині гігантської жеоди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліжко Geode"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця жеода досить порожня, щоб поміститися всередину й спати."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Лежаки для птахів іноді роблять з каменю, але ця здається досить незручною."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Загострені камені роблять погане ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Кристали всередині цієї жеоди не виглядають зручними для сну."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Те, що цьому ліжку не вистачає комфорту, він компенсує безпекою. Спати в скелі!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Спати в жеоді – це один із способів зануритися в природну красу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я міг би згорнутися калачиком, як у власній печері."
+  }
+]

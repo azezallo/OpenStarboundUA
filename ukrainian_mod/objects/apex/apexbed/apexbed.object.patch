@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ліжко дешевого виробництва."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стандартне ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ми, Apex, боїмося зовсім іншого виду постільних клопів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Такий комфорт рідко зустрічається серед птахів, наші меблі з каменю та соломи."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Така незручна постіль. Не збігається з Флораном Фурссс."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Корисна станція для підзарядки акумуляторів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Просте ліжко, без справжнього шарму."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Як заплющити очі, оточуючи таку неподобство?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просте ліжко. Це робить свою роботу."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Обережно, вони надзвичайно гострі!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пекучі очні яблука"
+  }
+]

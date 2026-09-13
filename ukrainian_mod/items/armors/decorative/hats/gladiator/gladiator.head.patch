@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Латунний шолом для тих, хто любить божеволіти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гладіаторський шолом"
+  }
+]

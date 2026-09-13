@@ -1,0 +1,82 @@
+[
+  {
+    "value": "  Торговець квітами",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "  Продаж рослин у горщиках!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Ти хочеш купити квіти?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти виглядаєш як хтось, кому потрібні рослини!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нам варто поторгувати! У мене багато квітів для твого дому!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Повертайся швидше, якщо захочеш купити ще трохи рослин!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую за покупку! Повертайся, якщо знадобиться ще!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Швидше повертайся, якщо тобі знадобляться рослини!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо тобі потрібні рослини - то ти знаєш, де мене знайти.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ти хочеш купити квіти? Давай за мною!",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти хочеш купити квіти?",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пішли до мого магазину - там ти зможеш купити рослини для дому.",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Хочеш подивитися на мої кімнатні рослини? За мною.",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Тепер ми можемо поторгуватися!",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ми на місці! Пройдемо далі й пошукаємо те, що тобі сподобається!",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "То ти хочеш купити рослини?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Широкі, великі на вигляд моторошні ноги."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ноги личинки"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Використовується для виготовлення предметів для полювання, видобутку корисних копалин і землеробства."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "TAG0GAТаблиця для збору їжі^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стіл з купою інструментів для пошуку їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Шанс продемонструвати свою здатність добувати їжу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стіл Флорана Уссе. Флоран любить полювати!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Натхненний. Активований модуль фермерства."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця таблиця дозволить мені виконувати багато польових робіт"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Посіяти зерно означає одного дня пожинати щедроти природи."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей стіл чудово підійде для вирощування деяких культур."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "value": "Використовується для виготовлення предметів для полювання, видобутку корисних копалин і землеробства."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "value": "TAG0GAТаблиця для збору їжі^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "value": "Стіл з купою інструментів для пошуку їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "value": "Шанс продемонструвати свою здатність добувати їжу."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "value": "Стіл Флорана Уссе. Флоран любить полювати!"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "value": "Натхненний. Активований модуль фермерства."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "value": "Ця таблиця дозволить мені виконувати багато польових робіт"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "value": "Посіяти зерно означає одного дня пожинати щедроти природи."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "value": "Цей стіл чудово підійде для вирощування деяких культур."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Таблиця збору кормів"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Фараж, ферма та полювання"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "value": "Використовується для виробництва передових предметів для полювання, видобутку корисних копалин і землеробства."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "value": "^orange;Сільськогосподарська станція^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "value": "Стіл з купою інструментів для пошуку їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "value": "Шанс продемонструвати свою здатність добувати їжу."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "value": "Стіл Флорана Уссе. Флоран любить полювати!"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "value": "Натхненний. Активований модуль фермерства."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "value": "Ця таблиця дозволить мені виконувати багато польових робіт"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "value": "Посіяти зерно означає одного дня пожинати щедроти природи."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "value": "Цей стіл чудово підійде для вирощування деяких культур."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Сільськогосподарська таблиця"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Фараж, ферма та полювання"
+  }
+]

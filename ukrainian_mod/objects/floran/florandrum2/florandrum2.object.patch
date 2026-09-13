@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Барабан бонго зі шкіри та дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великий Бонго"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Барабан бонго. Apex насолоджується перкусією."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Авіан віддає перевагу звуку гонгу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран найкращий барабанщик у всьому всесвіті."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Не вражений. Базовий інструмент. Здається, він видає один звук."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Барабан бонго!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Музика Floran здається грубою на вигляд цього барабана."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Барабан бонго. Бонго - це весело!"
+  }
+]

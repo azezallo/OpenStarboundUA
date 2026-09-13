@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей особливий сорт космічного ківі росте близько до землі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння ківі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Шерсть космічного ківі на дотик схожа на хутро Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дивний пухнастий плід, наповнений чудовими насінням."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пухнасте, м’яке створіння-фрукт."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Дивно, скільки продуктів схожі на тих, хто їх їсть."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це мелений ківі, гриві."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ще один занадто солодкий фрукт. Поверхня неприємна на дотик."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "На смак вони як звичайні ківі!"
+  }
+]

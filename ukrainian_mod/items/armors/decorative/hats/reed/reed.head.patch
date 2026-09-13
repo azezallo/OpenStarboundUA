@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Досить симпатичний капелюх з очерету."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Очеретяний капелюх"
+  }
+]

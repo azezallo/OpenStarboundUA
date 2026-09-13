@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Отрута Смоглін"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хімічна реакція в його череві робить його отруйне дихання токсичним."
+  }
+]

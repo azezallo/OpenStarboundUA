@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/0",
+    "value": "Давайте навчимо цим речам урок!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/1",
+    "value": "Я житиму або помру, намагаючись!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/join/default/default/0",
+    "value": "You saved me! I thought I was done for when that thing captured me. You're my hero!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/join/default/default/1",
+    "value": "Ти знищив монстра! Я опинився в пастці всередині нього, він би мутував мене, як і решта..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/join/default/default/2",
+    "value": "Ця річ захопила мене. Я був би вже мутантом, якби ти його не знищив! дякую!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/join/default/default/3",
+    "value": "Я вижив?! Ти мене врятував! дякую!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/0",
+    "value": "Фу, ти добре справляєшся з собою."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/wait/default/default/0",
+    "value": "Гадаю, мені краще почати лагодити шахту..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/wait/default/default/1",
+    "value": "Хтось ще в шахті пережив цей напад?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/wait/default/default/2",
+    "value": "Вас тут усі поважають."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/wait/default/default/3",
+    "value": "Попереду є скриня, ви повинні взяти речі в неї."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/0",
+    "value": "Ви авантюрист?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/1",
+    "value": "Я ніколи не забуду вас і вашу допомогу!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/2",
+    "value": "Щоб розібратися в цьому безладі, знадобиться велика бригада прибиральників."
+  }
+]

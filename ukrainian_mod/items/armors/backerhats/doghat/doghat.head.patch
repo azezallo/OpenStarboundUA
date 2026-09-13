@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Так можна виглядати як собака!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Собачий капелюх"
+  }
+]

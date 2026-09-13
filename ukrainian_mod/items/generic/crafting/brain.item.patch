@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей мозок виглядає ідеальним для експериментів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вищий мозок"
+  }
+]

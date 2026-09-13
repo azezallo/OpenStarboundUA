@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пальто пташиного обладунку, переплетеного чистим солярієм. Чудовий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Груди Ворона"
+  }
+]

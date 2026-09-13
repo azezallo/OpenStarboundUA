@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Важкий металевий якір. Ярр."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Якір"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Важкий шматок заліза, можливо, якір."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якір з пташиного дирижабля. За іронією долі, багато хто з посаджених живе своїм життям на дирижаблях серед хмар."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Залізний гак, дуже важкий."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Glitch використовує такі якорі на своїх великих вітрильних кораблях. Чому цей тут?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Масивний якір."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ах, якір, я чув розповіді про те, як вони розбивають структури Хайлотла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це один важкий на вигляд шматок металу."
+  }
+]

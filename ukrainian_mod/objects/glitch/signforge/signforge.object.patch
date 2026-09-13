@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Явний показник кузні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак кузні"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дерев'яна табличка, яка вказує на те, що ця будівля, ймовірно, кузня."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Знак із ковадлом на ньому."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це металевий цех?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зміст. Знак для ковальської кузні."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цехна вивіска для ковальської кузні."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Знак, який вказує на кузню."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця будівля має бути кузнею з таким знаком."
+  }
+]

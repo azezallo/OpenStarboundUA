@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це було б гарне місце для ларька."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Закрито 2 Stop Teleshop"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей кіоск виглядає закритим. Цікаво, хто ним керує?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ларьок цього торговця металом зараз виглядає закритим."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не впевнений, для чого цей кіоск."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Це схоже на лавку купця - цікаво, де зараз торговець?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це купецька лавка? Здається, торговця зараз немає."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей тьмяний металевий каркас схожий на купецьку лавку. Зараз він вільний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цікаво, де тут продавець для цього кіоску?"
+  }
+]

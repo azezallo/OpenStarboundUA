@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потерта дерев'яна опора."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яна опора"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дерев'яна опора. Виглядає гірше за носінням."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дерев'яна опора."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дерево, зроблене в sssupport."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Порушений. Я вважаю, що цю деревину наполовину з’їв мокриця."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дерев'яна опора в поганому стані."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця опора не виглядає структурно надійною."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гнила стара дерев'яна балка."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бачити оком меча спочатку дезорієнтує."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Окулус Рейвер"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Oculus Reaver ^yellow;^reset;"
+  }
+]

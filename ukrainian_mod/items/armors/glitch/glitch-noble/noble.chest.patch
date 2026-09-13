@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чиста, добре пошита благородна сорочка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шляхетна сорочка"
+  }
+]

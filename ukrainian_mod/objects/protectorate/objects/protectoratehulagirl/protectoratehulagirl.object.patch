@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Танцююча хула дівчина. Алоха!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Земного Захисту Hula Girl"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Схоже, що людина, яка коливається, грає на укулеле."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця танцююча дівчина одягнена в спідницю з трави."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Жорсткі людські іграшки..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вхідний. Погойдування має майже гіпнотичний ефект."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Алоха!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це нагадує мені білий пісок і блакитне море."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Подивіться на неї, бренчаючи на своїй крихітній укулеле."
+  }
+]

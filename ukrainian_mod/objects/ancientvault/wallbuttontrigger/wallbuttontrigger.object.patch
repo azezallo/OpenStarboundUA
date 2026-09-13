@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хто знає, що це може активувати... просто натисніть!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленька настінна кнопка"
+  }
+]

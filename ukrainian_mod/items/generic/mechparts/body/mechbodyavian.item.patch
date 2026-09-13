@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Імпозантне тіло механіка, створене за образом пташиного воїна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чемпіон Mech Body"
+  }
+]

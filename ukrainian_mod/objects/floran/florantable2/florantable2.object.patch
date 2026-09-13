@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кулінарна стільниця для нарізки м'яса."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивна стільниця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Схоже, що поверхня цього столу була пошкоджена лезом."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Поверхня цього столу в плямах крові."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран нарізає тут м'ясо. Поділіться з іншими Florans."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Можливо, з цього м’ясного блоку Floran можна приготувати інші страви."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Борозни на поверхні роблять його схожим на стіл м'ясника."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Флорани, здається, використовують цей стіл для приготування м’яса."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "М'ясний блок, який використовується для рубання м'яса."
+  }
+]

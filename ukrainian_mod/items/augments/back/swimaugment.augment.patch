@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Підключається модуль EPP, який підвищує вашу мобільність під час плавання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плавання Augment"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "value": "Плавання"
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "value": "Ідеально типова жертва",
+    "path": "/parameters/victim/example/name",
+    "op": "replace"
+  },
+  {
+    "value": "Злий МакЗлодій",
+    "path": "/parameters/thief/example/name",
+    "op": "replace"
+  },
+  {
+    "value": "Моторошне ліжко",
+    "path": "/parameters/object/example/name",
+    "op": "replace"
+  },
+  {
+    "value": "Месник <questGiver>",
+    "path": "/scriptConfig/generatedText/title/0",
+    "op": "replace"
+  },
+  {
+    "value": "Допомогти <victim>",
+    "path": "/scriptConfig/generatedText/title/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран дізнався про жахливий злочин! Давай виправммо це.",
+    "path": "/scriptConfig/generatedText/goalText/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Хтосьь вкрав <item>. Допоможи відноввиити справедливість!",
+    "path": "/scriptConfig/generatedText/goalText/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Стурбовано. <victim> став жертвою дрібної крадіжки! Допоможімо <victim.pronoun.object>!",
+    "path": "/scriptConfig/generatedText/goalText/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Авантюрно. Я виявив, що <thief> краде. Допоможи мені притягнути <thief.pronoun.object> до відповідальності.",
+    "path": "/scriptConfig/generatedText/goalText/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Я бачив, що <victim> шукає свій вкрадений <item>, і я випадково знаю, де він. <victim.pronoun.capitalSubject> був би дуже вдячний, якби ми допомогли повернути його.",
+    "path": "/scriptConfig/generatedText/goalText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;<victim> запитував, чи знаю я когось, хто міг би допомогти знайти його <item>. Я знаю, де він, але мені потрібна твоя допомога.",
+    "path": "/scriptConfig/generatedText/goalText/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "У Флорана проблема, йому потрібна твоя допомога. Цей крадіій ^orange;<thief>^white; вкрав чудовий ^orange;<item>^white; у чесссного громадянина <victim>! ^green;Будь ласка, забери його і поклади у будинок ^orange;<victim>^green;.",
+    "path": "/scriptConfig/generatedText/text/first/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти не повіриш, що сталося! ^orange;<victim>^white; був пограбований не ким іншим, як ^orange;<thief>.^white; Флоран хотів би, щоб ми могли чимось допомогти. Можливо, ти зможеш ^green;повернути вкрадений ^orange;<item> ^green;до будинкуу <victim>?",
+    "path": "/scriptConfig/generatedText/text/first/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. Злодій на ім'я ^orange;<thief>^white; викрав цінний ^orange;<item> у <victim>! Чи міг би ти ^green;повернути його і покласти назад у будинок ^orange;<victim>^green;?^white; Я впевнений, що <victim.pronoun.subject> буде вдячний.",
+    "path": "/scriptConfig/generatedText/text/first/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хитро. <victim> міг би довіряти мені більше, і я знаю, як цього досягти. Днями <thief> вкрав один ^orange;<item>^white; у <victim.pronoun.object>. ^green;Чи не міг би ти забрати його з дому ^orange;<thief>^green;^white; та ^green;покласти назад до будинку ^orange;<victim>^green;?",
+    "path": "/scriptConfig/generatedText/text/first/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гаразд, я точно знаю, що ^orange;<thief>^white; вкрав ^orange;<item> у <victim>^white;. Я буду стояти на сторожі, поки ти ^green;повернеш його.^white; Як тільки ти його отримаєш, ^green;поклади його назад у будинок ^orange;<victim>^green;.",
+    "path": "/scriptConfig/generatedText/text/first/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Перше, що нам потрібно зробити, передбачає трохи крадіжки. Ну, це хороша крадіжка. ^orange;<item>^white;, який нам потрібно повернути, знаходиться у домі ^orange;<thief>. ^green;Піди за ним, а потім поклади його назад у будинок ^orange;<victim>^green;.",
+    "path": "/scriptConfig/generatedText/text/first/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Таак, чудова робота! Флорану потрібна ще одна послуга від тебе... ^orange;<thief>^white; вкрав дорогоцінний ^orange;<item>^white; у дружнього сусіда <victim> - так грубо! ^green;Будь ласка, забери його і поклади у будинок ^orange;<victim>^green;.",
+    "path": "/scriptConfig/generatedText/text/next/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран засмучениий через те, що сталося - ^orange;<thief> ^white;безсоромнно обікрав <victim>! Якби ти міг ^green;повернути вкрадений ^orange;<item>^green; ^orange;<victim>,^white; я впевнениий, що <victim.pronoun.subject> був би вдячний.",
+    "path": "/scriptConfig/generatedText/text/next/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Роздратовано. У того шахрая, <thief>, вистачило нахабства вкрасти улюблений ^orange;<item> бідного <victim>.^white; Ми повинні з цим щось зробити! Будь ласка, чи не міг би ти ^green;забрати його з дому ^orange;<thief>^green;^white; та ^green;повернути у будинок ^orange;<victim>^green;?",
+    "path": "/scriptConfig/generatedText/text/next/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Розраховуючи. Далі, я впевнений, що це зробить ^orange;<victim>^white; щасливим, якщо ти ^green;повернеш ^orange;<item>^white;, який ^orange;<thief>^white; вкрав у <victim.pronoun.object>, і ^green;покладеш його назад у його будинок.^white; Це має забезпечити мені його прихильність.",
+    "path": "/scriptConfig/generatedText/text/next/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гаразд, тепер нам доведеться зайнятися проникненням у житло. ^green;Піди і забери вкрадений ^orange;<item>^green; з дому ^orange;<thief>^green;, і ^green;поклади його назад у будинок ^orange;<victim>^green;.^white; Я буду стежити, щоб ніхто не бачив.",
+    "path": "/scriptConfig/generatedText/text/next/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Трохи злому і проникнення нікому не зашкодить... Напевно. Піди ^green;вкради назад ^orange;<item> ^green; з дому ^orange;<thief>^green;. А потім поклади його назад у будинок ^orange;<victim>^green;.",
+    "path": "/scriptConfig/generatedText/text/next/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ссупер! Флорану потрібна ще одна послуга. ^orange;<thief>^white; вкрав один ^orange;<item>^white; у бідного <victim> - як підступно! ^green;Забери його і поклади у будинок ^orange;<victim>^green;. ^white;Потім Флоран залишить тебе в спокої.",
+    "path": "/scriptConfig/generatedText/text/last/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "О ні! Флоран чув, що ^orange;<victim>^white; був пограбований ^orange;<thief>^white;. Там нікого не було, щоб зупиниити злочин! Будь ласка, чи не міг би ти ^green;забрати вкрадений ^orange;<item>^green; у злодія?",
+    "path": "/scriptConfig/generatedText/text/last/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Схвильовано. У нас є остання проблема - цей настирливий ^orange;<thief>^white; вкрав улюблений ^orange;<item>^white; у <victim>! ^orange;<victim> ^white;буде спустошений, якщо ми - тобто... ти, не ^green;повернеш його і не покладеш назад у його будинок.",
+    "path": "/scriptConfig/generatedText/text/last/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хитро. Нарешті, я знаю, що ^orange;<thief>^white; нещодавно вкрав ^orange;<item> у <victim>.^white; Б'юся об заклад, якщо ти ^green;повернеш його і покладеш назад у будинок ^orange;<victim>^green;,^white; <victim.pronoun.subject> буде дуже вдячний і буде прихильний до мене в майбутньому.",
+    "path": "/scriptConfig/generatedText/text/last/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нарешті настав час для правосуддя! ^green;Забери вкрадений ^orange;<item>^green; з дому ^orange;<thief>^green; і ^green;поклади його назад у будинок ^orange;<victim>^green;.^white; Я буду на сторожі.",
+    "path": "/scriptConfig/generatedText/text/last/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Усе інше на місці! Настав час для крадіжки в стилі месника. Я буду на сторожі, поки ти ^green;забереш вкрадений ^orange;<item>^green; з місця ^orange;<thief>^green;. А потім непомітно повернеш його до будинку ^orange;<victim>^green;.",
+    "path": "/scriptConfig/generatedText/text/last/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти! Ти потрібен Флорануу. ^orange;<thief>^white; вкрав чудовий ^orange;<item>^white; у дорогого друга <victim> - як підсступно! ^green;Забери його і поклади у будинок ^orange;<victim>^green;, ^white;добре?",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Це темні чассии... Флоран чув чутки про те, що ^orange;<thief>^white; вкрав <item> у ^orange;<victim>^white;. ^white;Сьогодні ніде не безпечно! Будь ласка, чи не міг би ти ^green;повернути ^orange;<item> ^green;його справжньому власникуу?",
+    "path": "/scriptConfig/generatedText/text/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. У хвилину відчаю ^orange;<thief>^white; обікрав <victim>, забравши його ^orange;<item>^white;! Якщо ти ^green;забереш його і покладеш назад у будинок ^orange;<victim>^green;,^white; <victim.pronoun.subject> може навіть ніколи не зрозуміти, що його не було. Я був би вдячний.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Підступно. ^orange;<thief>^white; нещодавно вкрав улюблений <item> <victim>. Я впевнений, що ^orange;<victim>^white; був би дуже вдячний тому, хто ^green;поверне ^orange;<item> ^green;і покладе його назад у його будинок.^white; Ти зробиш це для мене?",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гаразд, я буду на сторожі, поки ти ^green;забереш вкрадений ^orange;<item>^green; з дому ^orange;<thief>^green;.^white; Як тільки ти закінчиш, ^green;поклади його назад у будинок ^orange;<victim>^green;. ",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;<item>^white;, який я шукав, був вкрадений ^orange;<thief>.^white; Зараз він лежить у його домі. ^green;Піди вкради його назад,^white; а потім ^green;поклади його назад у будинок ^orange;<victim>^green;^white;, де йому й місце. Я буду слідкувати за небезпекою.",
+    "path": "/scriptConfig/generatedText/text/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дивовижнно! <victim> буде такий радий отримати свій <item> назад! Але Флорану потрібнаа ще допомога.",
+    "path": "/scriptConfig/generatedText/completionText/first/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тепер ми можемо відпочивати спокійнно, знаючи, що <victim> возз'єднався зі своїм <item>. ",
+    "path": "/scriptConfig/generatedText/completionText/first/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. Відмінно! У <victim> є його <item>, і зі всесвітом все гаразд... Майже.",
+    "path": "/scriptConfig/generatedText/completionText/first/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хитро. Тобі вдалося покласти <item> назад у будинок <victim> - дякую! Якщо я зможу переконати його, що це моя заслуга, я точно завоюю його довіру!",
+    "path": "/scriptConfig/generatedText/completionText/first/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зробив таку чудову роботу! Не можу дочекатися, щоб побачити обличчя <thief>, коли він зрозуміє, що відчув на собі своє ж лікування. ",
+    "path": "/scriptConfig/generatedText/completionText/first/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Це було не так важко, як я думав. Ти досить добре розбираєшся в цих речах, чи не так? <victim> буде радий бачити свої речі там, де вони мають бути.",
+    "path": "/scriptConfig/generatedText/completionText/first/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ссупер! <victim> буде дуже вдячний за повернення <item>. Тепер Флорану потрібнаа ще допомога.",
+    "path": "/scriptConfig/generatedText/completionText/next/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зробив це! Сподіваюся, <thief> шкодуєє про свій злочин. Флоран буде стежити, щоб переконатисся, що це не повториться! ",
+    "path": "/scriptConfig/generatedText/completionText/next/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. Чудова робота! <victim> буде такий радий отримати свій <item> назад. Чи не погодився б ти зробити для мене дещо ще?",
+    "path": "/scriptConfig/generatedText/completionText/next/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хитро. Дякую, що повернув <item> для <victim>! Сподіваюся, ти не проти, що я припишу собі всі заслуги. Тоді я точно завоюю довіру <victim>!",
+    "path": "/scriptConfig/generatedText/completionText/next/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Це було справді вражаюче! Мені також подобається, що ти не залишив жодних відбитків пальців, це розумно. Почекай, поки <victim> почує про це! ",
+    "path": "/scriptConfig/generatedText/completionText/next/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Гарна робота! <victim> буде задоволений мною, коли побачить свій <item> назад на його законному місці.",
+    "path": "/scriptConfig/generatedText/completionText/next/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Успіхх! <victim> буде такий радий отримати свій <item> назад. Цее робить Флорана також щасливим.",
+    "path": "/scriptConfig/generatedText/completionText/last/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран дуже вдячниий тобі за повернення <item> для <victim>. Флоран знав, що на тебе можна покластися!",
+    "path": "/scriptConfig/generatedText/completionText/last/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Безмежно радісно. Кризу відвернено - у <victim> знову є його <item>! Дякую за твою допомогу, <player>.",
+    "path": "/scriptConfig/generatedText/completionText/last/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. Я такий радий, що ти повернув <item> для <victim>! Як тільки я візьму на себе всю заслугу за допомогу йому, він точно буде мені довіряти!",
+    "path": "/scriptConfig/generatedText/completionText/last/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "<player> і <questGiver>, постачальники правосуддя месників! Звучить добре, правда? Ти був там, наче привид. <thief> не знатиме, що й думати! ",
+    "path": "/scriptConfig/generatedText/completionText/last/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "У тебе справжній талант до таких речей, я бачу, ти навіть приніс свій власний інструмент для роботи. <victim> буде радий бачити, що його речі були повернуті.",
+    "path": "/scriptConfig/generatedText/completionText/last/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Місію виконано! <victim> буде такий радий отримати свій <item> назад. Цее робить Флорана також щасливим.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти повернув <item>! Я впевнений, що <victim> почувається безпечнішше, знаючи, що ти тут, щоб допомогти!",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "З полегшенням. Велике спасибі! <victim> має свій <item>, і <thief> тепер знатиме, що краще не красти у нього знову!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Щасливо. Чудова робота щодо повернення <item> до будинку <victim> від мого імені! Ти ж не проти, якщо я візьму всі заслуги на себе, чи не так? Звісно, не проти.",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вау, ти зробив це так легко! <victim> буде радий бачити, що ми повернули його <item>. Ти робив це раніше? З таким спеціалізованим інструментом немає небезпеки залишити відбитки пальців..",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Чудова робота! <victim> буде дуже вдячний побачити, що я допоміг повернути його <item>. Тепер ми - сміливий дует месників!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я не зміг домогтися справедливості для <victim>. Можливо, було б краще, якби я не втручався.",
+    "path": "/scriptConfig/generatedText/failureText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мені не вдалося повернути <item> <victim>. <questGiver> мав просто зробити це сам.",
+    "path": "/scriptConfig/generatedText/failureText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мені не вдалося повернути вкрадену річ <victim>. Будемо сподіватися, що <victim.pronoun.subject> не буде сильно заперечувати.",
+    "path": "/scriptConfig/generatedText/failureText/2",
+    "op": "replace"
+  },
+  {
+    "value": "Забрати <item> <victim> з дому <thief>",
+    "path": "/scriptConfig/objectives/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Повернути <item> до будинку <victim>",
+    "path": "/scriptConfig/objectives/1/text",
+    "op": "replace"
+  }
+]

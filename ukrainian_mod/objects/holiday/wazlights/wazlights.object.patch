@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Казкові вогні, які вимовляють «waz», що б це не означало."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вогні Waz"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я не знаю, що робити з цими вогниками... \"waz\"?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Що таке \"waz\"?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Waaaazzzz? Wazzat."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Що таке \"waz\"?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ваааааааз."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чи має це «waz» якесь глибше значення?"
+  }
+]

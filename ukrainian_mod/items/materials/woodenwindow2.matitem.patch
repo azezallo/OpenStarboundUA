@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яні жалюзі"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старі дерев’яні рейки, які погано пропускають світло."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Спостережливий. Ця деревина фільтрує світло і діє як бар’єр."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Флоран може проникати крізь великі дерев'яні рейки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Я бачу прямо крізь прогалини в цьому лісі, чітко з іншого боку."
+  }
+]

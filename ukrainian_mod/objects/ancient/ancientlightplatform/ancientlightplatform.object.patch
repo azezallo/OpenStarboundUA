@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Промінь жорсткого світла створює платформу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стародавня світлова платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Звичайна голографічна платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це не виглядає стійким, щоб витримати мою вагу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран підозрює жорстке світло."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "нервовий. Схоже, я б провалився прямо через цю платформу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця платформа створена за допомогою певної технології силового поля."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей енергетичний бар’єр може витримати вагу понад його можливості."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Суцільна енергетика, як і ми Новакід."
+  }
+]

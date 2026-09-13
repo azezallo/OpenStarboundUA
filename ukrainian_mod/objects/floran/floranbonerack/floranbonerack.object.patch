@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стійка з 3 неідентифікованих кісток."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стійка для кісток"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці кістки сидять тут як інструменти. Але для чого вони можуть бути використані?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це зброя? Інструменти? Трофеї?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Bonesss тут використовується для полірування інших bonesss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Схоже, що кістки тут використовувалися як знаряддя праці."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці кістки зброя чи знаряддя?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Розвішувати кістки, як інструменти, викликає у мене огиду."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Від такого показу кісток у мене мурашки йдуть."
+  }
+]

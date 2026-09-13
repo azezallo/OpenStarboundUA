@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Electric Capricoat"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Його густа шерсть зберігає тепло в найхолодніших кліматичних умовах."
+  }
+]

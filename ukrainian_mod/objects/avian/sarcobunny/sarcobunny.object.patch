@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чи це неправильно брати свого зайчика з собою в потойбічний світ?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Саркофаг зайчика"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чому цей саркофаг має форму кролика?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Саркофаг для злочинців і єретиків. Птахи всередині втратять крила в загробному житті."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Довгі вуха, давно мертвий."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Незважаючи на дизайн саркофага, всередині є Птах."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Саркофаг зайчика! милий!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Кристали в цьому саркофазі, здається, утримують його закритим. Чи був мешканець ще живий, коли їх зачинили?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Пташиний саркофаг. Але чому він має форму кролика?"
+  }
+]

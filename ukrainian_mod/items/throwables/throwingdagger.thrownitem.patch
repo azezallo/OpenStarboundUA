@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "метання кинджала"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Метальний кинджал, для бойових чи циркових номерів."
+  }
+]

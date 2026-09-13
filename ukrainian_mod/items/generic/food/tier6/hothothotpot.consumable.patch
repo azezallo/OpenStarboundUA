@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Так неймовірно гаряче!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Hot Hot Hotpot"
+  }
+]

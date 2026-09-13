@@ -1,0 +1,342 @@
+[
+  {
+    "value": "бандіт",
+    "path": "/scriptConfig/crew/role/name",
+    "op": "replace"
+  },
+  {
+    "value": "по бандітізму",
+    "path": "/scriptConfig/crew/role/field",
+    "op": "replace"
+  },
+  {
+    "value": "Мені потрібно зачаїтися! Будь ласка, не проганяй мене, чи можу я вступити до твоєї команди?",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я нічого поганого не робив, правда! Будь ласка, дозволь мені сховатися на твоєму кораблі!",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ці люди... шукають мене... Я буду працювати на тебе, якщо ти дозволиш мені сховатися на твоєму кораблі!",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Не хочу тебе образити, але мені треба залягти на дно! Ти можеш мене сховати?",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Мені потрібно залягти на дно. Я буду битися за тебе, якщо ти дозволиш залишитися на твоєму кораблі!",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "У мене є пропозиція - дозволь мені сховатися на твоєму кораблі, а я натомість буду битися за тебе!",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Мені дійсно треба десь сховатися. Скажи, у тебе є корабель? У мене є пропозиція...",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Мені потрібно зачаїтися! Будь ласка, не проганяй мене, чи можу я вступити до твоєї команди?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я нічого поганого не робив, правда! Будь ласка, дозволь мені сховатися на твоєму кораблі!",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ці люди... шукають мене... Я буду працювати на тебе, якщо ти дозволиш мені сховатися на твоєму кораблі!",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Не хочу тебе образити, але мені треба залягти на дно! Ти можеш мене сховати?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Мені потрібно залягти на дно. Я буду битися за тебе, якщо ти дозволиш залишитися на твоєму кораблі!",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "У мене є пропозиція - дозволь мені сховатися на твоєму кораблі, а я натомість буду битися за тебе!",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Мені дійсно треба десь сховатися... Скажи, у тебе є корабель? У мене є пропозиція...",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Мені потрібно зачаїтися. Будь ласка, не проганяй мене, чи можу я вступити до твоєї команди?",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я нічого поганого не робив, правда! Будь ласка, дозволь мені сховатися на твоєму кораблі.",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ці люди... шукають мене... Я буду працювати на тебе, якщо ти дозволиш мені сховатися на твоєму кораблі!",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Не хочу тебе образити, але мені треба залягти на дно. Ти можеш мене сховати?",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Мені потрібно залягти на дно. Я буду битися за тебе, якщо ти дозволиш залишитися на твоєму кораблі.",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "У мене є пропозиція - дозволь мені сховатися на твоєму кораблі, а я натомість буду битися за тебе!",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Мені дійсно треба десь сховатися. Скажи, у тебе є корабель? У мене є пропозиція...",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Мені потрібно зачаїтися! Будь ласка, не проганяй мене, чи можу я вступити до твоєї команди?",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я нічого поганого не робив, правда! Будь ласка, дозволь мені сховатися на твоєму кораблі...",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ці люди... шукають мене... Я буду працювати на тебе, якщо ти дозволиш мені сховатися на твоєму кораблі!",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Не хочу тебе образити, але мені треба залягти на дно! Ти можеш мене сховати?",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Мені потрібно залягти на дно. Я буду битися за тебе, якщо ти дозволиш залишитися на твоєму кораблі!",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "У мене є пропозиція - дозволь мені сховатися на твоєму кораблі, а я натомість буду битися за тебе!",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Мені дійсно треба десь сховатися. Скажи, у тебе є корабель? У мене є пропозиція...",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран нічого такого не робив! Флорану проссто потрібно зачаїтисся. Ти допоможеш флорану?",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "У тебе є корабель? Флорану потрібно ссховатися від ворогів. Ти допоможеш флорану?",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану потрібно ссховатися від ворогів! Ти можеш допомогти флорану, дозволиш залишитисся на твоєму кораблі?",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану треба зачаїтисся. Флоран буде битисся за тебе, якщо ти пусстиш його на корабель!",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "У флорана пропозиція - дай флорану ссховатися на твоєму кораблі, і флоран буде битисся за тебе!",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану потрібно десь ссховатися. У тебе є корабель? У флорана є пропозиція...",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану потрібно ссховатися! Прошу, не проганяй флорана... Флоран буде працювати на тебе.",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Відчайдушно. Мені потрібно зачаїтися! Будь ласка, не проганяй мене, чи можу я вступити до твоєї команди?",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Відчайдушно. Я нічого поганого не робив, правда! Будь ласка, дозволь мені сховатися на твоєму кораблі...",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. Ці люди... шукають мене... Дозволь мені сховатися на твоєму кораблі, а натомість я буду за тебе битися.",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Відчайдушно. Не хочу тебе образити, але мені треба залягти на дно! Ти можеш мене сховати?",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Відчайдушно. Мені потрібно залягти на дно! Я буду битися за тебе, якщо ти дозволиш залишитися на твоєму кораблі.",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Відчайдушно. Прошу, дай мені сховатися на твоєму кораблі! Я буду за тебе битися! Є люди, від яких мені треба сховатися...",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Відчайдушно. Мені дійсно потрібно сховатися. У тебе є корабель? Я буду за тебе битися!",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую за прихисток! Звертайся до мене, якщо щось треба зробити, я завжди тут!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я безперечно можу тут сховатися. Моя вдячність не знає меж, якщо потрібно, я що завгодно зроблю!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Насправді, я не такий вже й поганий... Цей корабель - чудовий прихисток. Якщо тобі буде потрібна допомога - тільки скажи!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я можу сховатися тут, поки все не вляжеться! Я тобі всім зобов'язаний. Якщо тобі буде потрібен мій розум або моя сила - відразу кажи!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую за прихисток. Звертайся до мене, якщо щось треба зробити.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я можу тут зачаїтися. Дякую. Якщо тобі щось потрібно - я завжди готовий допомогти.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Насправді, я не такий вже й поганий. Цей корабель - чудовий прихисток. Якщо тобі буде потрібна допомога - тільки скажи.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я можу сховатися тут, поки все не вляжеться. Я тобі всім зобов'язаний. Якщо тобі знадобиться моя зброя - ти завжди можеш на мене розраховувати.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую за притулок! Якщо тобі знадобиться допомога будь-якого роду, то я буду тут!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я безперечно можу тут сховатися. Дуже дякую! Якщо тобі від мене щось потрібно, то я завжди готовий допомогти.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я клянуся, що нічого поганого не робив... Цей корабель - чудове місце, щоб відсидітися. Якщо тобі знадобиться моя допомога - відразу звертайся!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я можу сховатися тут, поки все не вляжеться! Я тобі всім зобов'язаний. Якщо тобі буде потрібен мій розум або моя сила - тільки скажи.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую за прихисток! Звертайся до мене, якщо щось треба зробити, я завжди тут!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я безперечно можу тут сховатися. Моя вдячність не знає меж, якщо потрібно, я що завгодно зроблю!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Насправді, я не такий вже й поганий... Цей корабель - чудовий прихисток. Якщо тобі буде потрібна допомога - тільки скажи!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я можу сховатися тут, поки все не вляжеться! Я тобі всім зобов'язаний. Якщо тобі буде потрібен мій розум або моя сила - відразу кажи!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Цей корабель - прекрасссне місссце для флорана, щоб ссховатися! Флоран буде тут, щоб допомогти в будь-який час!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран вдячний за твою допомогу. Флоран буде битисся з твоїми ворогами в будь-який час!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран не такий вже й поганий, чессно... Цей корабель - прекрасссне місце, щоб ссховатися. Візьми флорана з собою для допомоги в битвах!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран може тут ссховатися, поки люди не забудуть, що ззробив флоран... Дякую! Якщо тобі знадобитьсся допомога - флоран тут.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Вдячно. Дякую за дозвіл залишитися. Я не забуду твоєї доброти, і в битві я завжди захищу тебе.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вдячно. Цей корабель - ідеальний прихисток. Я завжди буду радий допомогти, щоб чимось віддячити тобі!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вдячно. Дякую за прихисток. Я буду битися за тебе, якщо буде потрібно.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Вдячно. Я можу відсидітися тут, поки все не вляжеться! Якщо тобі знадобиться моя допомога - я завжди готовий.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3",
+    "op": "replace"
+  }
+]

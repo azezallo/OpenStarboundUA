@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці штани сміттяра містять ткані шари захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани сміттяра"
+  }
+]

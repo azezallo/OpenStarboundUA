@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стара купа мотлоху."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Купа мотлоху"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Спостережливий. Я бачу багато різних типів скручених уламків у цій купі."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Так багато мотлоху."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Велика купа сміття."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Таємничий дверний отвір, що веде в невідомий вимір. Що може піти не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Двері виклику"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тут можна знайти дивні двері. До якого виміру це може привести мене?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Зловісні двері, які можуть вести в будь-який вимір."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Таємничі двері. Куди це могло привести?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Чи готовий я зіткнутися з тим, що є по той бік цих воріт?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Таємничі двері, що ведуть у невідомий вимір. Що може піти не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Загадковий дверний прохід у невідоме місце... чи прихована можливість?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Що тут роблять такі двері?"
+  }
+]

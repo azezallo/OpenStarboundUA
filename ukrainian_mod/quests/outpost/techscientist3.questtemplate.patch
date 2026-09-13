@@ -1,0 +1,32 @@
+[
+  {
+    "value": "^orange;Стрибок у розробці",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Я працюю над новою технологією, яка дозволяє користувачеві виконувати стрибок у повітрі, щоб досягати неймовірних висот! На жаль, мені потрібно ще кілька компонентів, перш ніж я зможу її завершити. ^green;Чи міг би ти принести мені ^orange;10 срібних злитків^white;?",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Чудово! З цими доповненнями ^orange;технологія імпульсного стрибка^white; готова до тестування! Підійди і поговори зі мною ще раз, якщо хочеш допомогти.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Елліотт",
+    "path": "/scriptConfig/portraits/questStarted/title",
+    "op": "replace"
+  },
+  {
+    "value": "Елліотт",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "op": "replace"
+  },
+  {
+    "value": "Поговори з ^orange;Елліоттом^reset; на ^orange;Аванпості^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

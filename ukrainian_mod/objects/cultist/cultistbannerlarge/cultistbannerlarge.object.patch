@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потертий настінний банер, пофарбований спреєм із культовою емблемою Окаса."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прапор культистів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей культовий банер зроблено дуже грубо - можливо, через брак навичок чи ресурсів?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей банер випромінює дуже загрозливу ауру."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Настінний банер дуже порваний."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Не вражений. Швач, який зробив цей банер, явно некваліфікований."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Той, хто це зробив, повинен взяти кілька уроків мистецтва."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Відсутність артистизму в цьому банері вражає."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це дуже потворний банер."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Деякі сексуальні окуляри, які належать Джорджу. Ви можете впоратися з ними!?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Окуляри Foxy від George"
+  }
+]

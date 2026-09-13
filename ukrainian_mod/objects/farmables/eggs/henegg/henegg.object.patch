@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вилуплюється в крихітне курча, а дозріває в квочку. Доросла курка несе смачні яйця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Куряче яйце"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це куряче яйце. Всередині курча."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Куряче яйце з крихітним курчатям всередині... Я раптом почуваюся дуже батьківським і захисним."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Маленьке куряче яйце з крапками."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Здається, це куряче яйце готове до висиджування!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "У цьому яйці маленьке пухнасте курча."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Куряче яйце - один із найпростіших, але найвишуканіших малюнків природи."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це куряче яйце майже готове до вилуплення."
+  }
+]

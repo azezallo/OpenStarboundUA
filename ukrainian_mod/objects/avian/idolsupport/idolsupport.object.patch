@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Опорна балка, вирізана так, що вона нагадує страшного птаха."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Різьблена опорна балка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, це несуче різьблення."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Традиційна декоративна опорна балка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Промінь Birdman не дуже міцний."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безтурботний. Декоративна опорна балка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чи впаде щось, якщо я це видалю?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Велика увага до деталей."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це одна потужна вигадлива опорна балка."
+  }
+]

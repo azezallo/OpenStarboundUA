@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Світляний гриб. Можливо, токсичний.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Світляний гриб",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Мммилий гриб.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Світляний гриб.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

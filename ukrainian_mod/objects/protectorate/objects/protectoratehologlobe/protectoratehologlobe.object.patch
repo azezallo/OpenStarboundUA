@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це зачаровує. Я не можу відвести погляд."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Земного Захисту Гологлобус"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця лампа є марною тратою енергії."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Лампа у формі кулі рухається гіпнотично."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Надувна лампа - це гарно!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Мені подобається ця дрібничка, незважаючи на її відсутність призначення."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Прикольна лампа-куля! Я так це називаю."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Заспокійлива лампа у формі кулі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця лампа просто продовжує працювати."
+  }
+]

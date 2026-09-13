@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шафка Miniknog."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лабораторна шафка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цікаво, чи є всередині якісь секрети..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чи може бути всередині щось цінне?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "SSsssearch."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Є всередині цікаві речі?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Лабораторна шафка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можливо, всередині є щось корисне."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шафка. Що він містить?"
+  }
+]

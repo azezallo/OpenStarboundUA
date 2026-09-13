@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Хрусткий корінь.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Хрусткий корінь",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Хруссткий корінь.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Хрусткий корінь.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

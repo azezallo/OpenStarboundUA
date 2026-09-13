@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A mysterious flower."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Загадкова квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дивно."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Загадкова квітка."
+  }
+]

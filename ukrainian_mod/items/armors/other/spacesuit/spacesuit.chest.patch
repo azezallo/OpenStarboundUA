@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старомодний нагрудний скафандр!  Виглядає громіздко."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скриня для скафандра"
+  }
+]

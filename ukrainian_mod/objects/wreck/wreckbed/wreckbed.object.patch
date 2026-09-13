@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бруд та іржа поїли це ліжко. На щастя, я зовсім не втомився."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зруйноване ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Жахливе місце для сну."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Не дуже привабливе місце для ночівлі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Русове ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огидно. Іржа!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не можу уявити, щоб це колись виглядало привабливо."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ліжко проіржавіло, ремонту не підлягає. Зрештою час забирає нас усіх."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ти мав би бути біса втомленим, щоб захотіти спати тут."
+  }
+]

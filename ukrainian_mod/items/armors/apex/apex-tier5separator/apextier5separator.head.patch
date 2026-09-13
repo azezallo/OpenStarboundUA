@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Головний убір, призначений для непомітного маскування власника."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска вбивці"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Запечений помідор зі смачною пікантною начинкою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фарширований помідор"
+  }
+]

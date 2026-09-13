@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Базовий стіл масового виробництва."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стандартна таблиця випуску"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кожен Apex їсть свою вечерю за таким столом, як цей. Ну... принаймні кожен Apex дотримується правил."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Для виготовлення цього столу використовувалася деревина низької якості."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Деревина погано пахне. Не справжнє дерево."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "депресія. Стіл позбавлений радості."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гнітючий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Силовими руками збудували цей стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це просто дерев'яний стіл."
+  }
+]

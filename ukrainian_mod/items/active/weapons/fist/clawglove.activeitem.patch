@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Не адамант, але все одно круто."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кігтева рукавичка"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Claw Glove ^yellow;^reset;"
+  }
+]

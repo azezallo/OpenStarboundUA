@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Поширений стиль сорочки, який пропонує комфорт і простоту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційна сорочка"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нехай ми вічно слухаємося його."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вишивка хрестиком Велика мавпа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Вишивка хрестом — одне з небагатьох дозволених хобі, яким може займатися Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Для цього потрібні тонкі пальці."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран дуже вміло працює з тканиною."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Споглядальний. Навіщо Apex робити це?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я сподіваюся, що Apex не будуть змушені робити це."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цікаво, яких благословень бажає йому Апекс?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Для цього, мабуть, знадобився час і відданість справі."
+  }
+]

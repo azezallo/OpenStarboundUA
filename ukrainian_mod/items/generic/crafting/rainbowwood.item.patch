@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Веселкова деревина, найбарвистіша деревина з усіх."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Райдужний ліс"
+  }
+]

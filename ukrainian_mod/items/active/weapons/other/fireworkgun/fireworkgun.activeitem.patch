@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Так, він стріляє феєрверками!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пускова установка Zephyr Spark"
+  }
+]

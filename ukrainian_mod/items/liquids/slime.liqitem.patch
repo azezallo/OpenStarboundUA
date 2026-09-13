@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "слиз"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Слизова рідина."
+  }
+]

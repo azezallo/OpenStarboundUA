@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/identity/name",
+    "value": "Donna"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Hi I'm Donna. Do you like the name Clementine?"
+  }
+]

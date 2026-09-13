@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/identity/name",
+    "value": "Rosie"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Hi, I'm Rosie! The Universe is such a large place, I want to smell every flower, catch every bug and climb every tree."
+  }
+]

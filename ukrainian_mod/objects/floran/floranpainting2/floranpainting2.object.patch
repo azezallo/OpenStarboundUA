@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Схоже, хтось намалював гліфи на шматку шкіри."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивне мистецтво гліфів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Флоранська письмова мова здається в кращому випадку рудиментарною."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це... Дуже схоже на пташиний гліф. Флорани намагаються адаптувати пташину мову?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран почав наносити на папір слова."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Мені важко перекласти цей гліф. Найближче, яке я знаю, це пташине слово."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Не так я уявляв собі мову Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Флоран береться за перо? Можливо, це може бути початком змін."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Грубі каракулі на дубленій шкірі. Нічого особливого."
+  }
+]

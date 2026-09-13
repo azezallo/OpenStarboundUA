@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Минуло стільки часу, коли я їв домашню їжу... або дім."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Базова духовка"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Базова духовка"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "ням, ням"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Піч. Від одних думок про приготування їжі бурчить у животі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Піч, для приготування смачних страв."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Приготоване м'ясо смачніше навіть сирого!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Полегшено. Звичайна піч. Час влаштовувати банкет."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця духовка ледь пахне смаженою куркою. Принаймні, я думаю, що це курка. Справді, може бути що завгодно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Піч. Ідеально, якщо ви хочете гарячої їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Піч."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На ярлику написано: «Могутній крилатий охоронець, створений за образом пташиного бога Клюкса»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуетка Kluex Avatar"
+  }
+]

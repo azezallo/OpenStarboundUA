@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стародавня платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стародавня платформа, складена з якоїсь технологічної породи."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. На цій стародавній платформі працює технологія, яку я не розумію."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Платформа створена за дивною технологією."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Деякі дивні на вигляд технології на цій платформі."
+  }
+]

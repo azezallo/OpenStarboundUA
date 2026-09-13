@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чудовий захист... якщо він не має зубів... чи нижньої щелепи... чи жала."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мисливські Штани"
+  }
+]

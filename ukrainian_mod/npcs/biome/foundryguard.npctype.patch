@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Я стежу за порядком тут. Ласкаво просимо, тільки давай без дурниць.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Робота в ливарній загартувала мої м'язи! Краще зі мною не зв'язуйся.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мій молот підтримує тут порядок. Будь розумником, і тобі не доведеться побачити, як я його використовую.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я став настільки сильним, що навіть Великий Мавп не може побороти мене на руках!",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я так старанно працюю над собою, що промок наскрізь. Це досить неприємно.",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я захищу цю кузню навіть не спітнівши! Хочеш щось сказати?",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "У мене навіть пір'я спітніло!",
+    "path": "/scriptConfig/dialog/converse/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "На моїй планеті я виховувався як воїн із самого народження. Захистити це місце буде простіше простого!",
+    "path": "/scriptConfig/dialog/converse/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вправлятися з величезним молотом не так уже й важко.",
+    "path": "/scriptConfig/dialog/converse/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Хоробрість. Я можу впоратися з будь-якою небезпекою на цій планеті!",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбованість. Це виглядає як піт? Взагалі-то це конденсат... чесне слово!",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нудьга. Стояти на сторожі так нудно. Може, мені знайти, з ким би побитися...",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2",
+    "op": "replace"
+  }
+]

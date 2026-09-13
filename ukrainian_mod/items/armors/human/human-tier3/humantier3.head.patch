@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Елегантний титановий шолом піонера."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Піонерський шолом"
+  }
+]

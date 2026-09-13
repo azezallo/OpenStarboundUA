@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шкіряні ремені, які не забезпечують фактичного захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ремінці Deadbeat"
+  }
+]

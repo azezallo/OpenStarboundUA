@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рюкзак з колючками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Комплект спорядження Foundry"
+  }
+]

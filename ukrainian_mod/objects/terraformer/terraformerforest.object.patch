@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює клімат планети на густий помірний ліс."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лісистий тераформер"
+  }
+]

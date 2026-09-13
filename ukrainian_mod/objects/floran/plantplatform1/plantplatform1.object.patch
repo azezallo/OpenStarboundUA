@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великі колоди, зібрані як будівельна платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великі дерев'яні риштування"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці колоди влаштовані так, щоб витримувати велику вагу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця збірка виглядає так, ніби вона створена для будівництва великої конструкції."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран стій на платформі, стрибай вниз на нічого не підозрюючих ворогів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Як Флоран зміг поставити ці величезні колоди на місце?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якби я грав із цим, то це була б гра на платформі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дуже міцна будівельна платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цілий безлад колод, складених для стояння."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маскування грибів"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Грибна маскувальна маска"
+  }
+]

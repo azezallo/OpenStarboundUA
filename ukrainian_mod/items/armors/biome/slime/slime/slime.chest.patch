@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хто знав, що Goop може бути таким комфортним?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Слизова сорочка"
+  }
+]

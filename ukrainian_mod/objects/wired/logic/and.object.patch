@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перемикач /'AND'/. Для роботи потрібно, щоб усі входи були /'on'/."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "І Перемикач"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Перемикач /'AND'/ sss. Для роботи потрібно, щоб усі входи були /'on'/."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Перемикач /'AND'/. Для роботи потрібно, щоб усі входи були /'on'/."
+  }
+]

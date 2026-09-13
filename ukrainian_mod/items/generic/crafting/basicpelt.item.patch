@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це шкура тварини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пельт"
+  }
+]

@@ -1,0 +1,972 @@
+[
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "value": "Знову ти!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/1",
+    "value": "Ти повернувся!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/2",
+    "value": "Ага!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/3",
+    "value": "Ти повернувся?"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/4",
+    "value": "Отже, ти повернувся."
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/0",
+    "value": "*Роздратування.* Ти пошкодуєш, що повернувся."
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/1",
+    "value": "*Агресія.* Цього разу тобі не втекти."
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/2",
+    "value": "*Безстрашність.* Я готовий битися з тобою знову!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/3",
+    "value": "*Гнів.* Як ти смієш повертатися!?"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/4",
+    "value": "*Пристрасть.* Ти повернувся лише для того, щоб бути переможеним!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default/0",
+    "value": "Флоран розлючений, що ти повернувссся!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default/1",
+    "value": "Ззнову привіт, здобич."
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default/2",
+    "value": "Ти ззнову повернувссся!?"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default/3",
+    "value": "Флоран зззупинить тебе цього разу!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default/4",
+    "value": "Зздобич повернулассся!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "В атаку!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/0",
+    "value": "Вороги! Слава Великому Мавпу!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/1",
+    "value": "Атакую ворогів! В ім'я Великого Мавпа!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/2",
+    "value": "Вороги атакують! Міннаук не врятує їх!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/3",
+    "value": "Шикуватися! За Великого Мавпа!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/4",
+    "value": "Ворожа активність!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/5",
+    "value": "Атакую ворогів! Надішліть підкріплення!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/6",
+    "value": "Ворог атакований!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/0",
+    "value": "Каааар! За Клуекса!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/1",
+    "value": "Чачалакааа! Клуекс зі мною!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/2",
+    "value": "Ангінгааа! Слава Клуексу!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/3",
+    "value": "Джокотоко!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/4",
+    "value": "Тапакуууло!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/5",
+    "value": "Каракарааа!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default/6",
+    "value": "Касік!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/0",
+    "value": "Вввечеря!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/1",
+    "value": "Чассс колоти! Чассс стріляти!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/2",
+    "value": "Полювати на ззздобич!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/3",
+    "value": "Зхватити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/4",
+    "value": "Зззаколоти! Зззастрелити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/5",
+    "value": "Спіймати! З'їсссти!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/6",
+    "value": "Флоран полює!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/0",
+    "value": "*Збудження.* Ворог!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/1",
+    "value": "*Войовничість.* Захищайся!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/2",
+    "value": "*Спокій.* Мене не так легко здолати."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/3",
+    "value": "*Відвага.* До бою!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/4",
+    "value": "*Сміливість.* Я переможу цього ворога!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/5",
+    "value": "*Завзятість.* Ти зробив свій останній подих!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/6",
+    "value": "*Агресія.* Готуйся розпрощатися з життям!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/0",
+    "value": "У битві є честь."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/1",
+    "value": "Почнімо танець війни!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/2",
+    "value": "Я володію міццю шторму!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/3",
+    "value": "Тобі було б краще боротися з виром, ніж зі мною."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/4",
+    "value": "Я вдарю, мов блискавка!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/5",
+    "value": "Я проллю на тебе справжню зливу."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default/6",
+    "value": "Я буду битися з честю! Хайлотли не здаються."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/floran/0",
+    "value": "Я помщуся за своїх предків!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/floran/1",
+    "value": "Я тренувався битися з Флоранами!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/floran/2",
+    "value": "Я переможу флоранського варвара і вшаную своїх пращурів!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/0",
+    "value": "Ти труп!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/1",
+    "value": "Давай покінчимо з цим!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/2",
+    "value": "У тебе немає жодного шансу, як у сніжинки на магмопланеті!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/3",
+    "value": "Я не дуже хороший боєць..."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/4",
+    "value": "Ой-ой..."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/5",
+    "value": "Я так просто не здамся!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/6",
+    "value": "Як я постійно опиняюся в таких ситуаціях?"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/7",
+    "value": "Давай покінчимо з цим..."
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/8",
+    "value": "Попереджаю, я буду чинити опір!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/9",
+    "value": "Зробімо це!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default/10",
+    "value": "Ти навіть не зрозумієш, що тебе вдарило!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/0",
+    "value": "Час для старомодного протистояння, леґіню!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/1",
+    "value": "Йі-ха, поїхали!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/2",
+    "value": "Погнали, файно!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/3",
+    "value": "Відчуваєш удачу, шмаркачу? Йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/4",
+    "value": "Час для гармидеру!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/5",
+    "value": "Готуй зброю, ґаздо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/6",
+    "value": "Якщо шукаєш неприємностей, то я твій клієнт!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/7",
+    "value": "Я не маю на це часу, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/8",
+    "value": "Я стріляю влучніше за тебе, друже!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/9",
+    "value": "Це не перше моє родео, леґіню!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/10",
+    "value": "Бабах! Файно!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/novakid/default/11",
+    "value": "Нам тут не потрібні проблеми, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "value": "Ніколи не зв'язуйся зі мною!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/1",
+    "value": "Перемога!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/2",
+    "value": "Фух!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/3",
+    "value": "Ще одна перемога!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/4",
+    "value": "Я навіть не спітнів!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/5",
+    "value": "Хех."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/6",
+    "value": "Звісно ж, я переміг!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/7",
+    "value": "Я досить непоганий у цьому!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/8",
+    "value": "Це було напружено..."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/9",
+    "value": "Ще одна легка перемога!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/10",
+    "value": "Так!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/11",
+    "value": "Ось що ти отримуєш!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/0",
+    "value": "Ніколи не кидай виклик авіанину. Клуекс захищає!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/1",
+    "value": "Тобі ніколи не перемогти справжнього воїна. За Клуекса!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/2",
+    "value": "Мої супротивники так легко підкорюються..."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/3",
+    "value": "Я народжений виграти цю битву."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/4",
+    "value": "Я не втратив жодної пір'їни."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/5",
+    "value": "Ось наслідок вступу в бій з авіанином."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/6",
+    "value": "Гідні зусилля з їхнього боку."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default/7",
+    "value": "Легка робота."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/0",
+    "value": "Ціль знешкоджено. Слава Великому Мавпу!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/1",
+    "value": "Територія в безпеці."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/2",
+    "value": "Проблему вирішено."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/3",
+    "value": "Так нерозумно зв'язуватися з апексом."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/4",
+    "value": "Загрозу нейтралізовано."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/5",
+    "value": "З ворогом покінчено."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/6",
+    "value": "Ціль ліквідовано."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/7",
+    "value": "Ціль знищено!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/8",
+    "value": "Справу зроблено. Думаю, я заслужив банан."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default/9",
+    "value": "Ціль було нейтралізовано!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/0",
+    "value": "Битва закінчилася..."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/1",
+    "value": "Що зроблено, те зроблено."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/2",
+    "value": "Тепер, коли я переміг свого ворога, я повинен подумати над цією битвою."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/3",
+    "value": "Почесна перемога."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/4",
+    "value": "Шляхетна перемога на захист моєї культури."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/5",
+    "value": "Зроблено."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default/6",
+    "value": "Я послужив своєму народу."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/0",
+    "value": "*Задоволення.* Ще одна перемога!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/1",
+    "value": "*Втіха.* Ще одна добре виконана робота."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/2",
+    "value": "*Захоплення.* Це було неймовірно!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/3",
+    "value": "*Виснаження.* Мені потрібно більше тренуватися."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/4",
+    "value": "*Задоволення.* Який тріумф."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/5",
+    "value": "*Радість.* Чудова перемога!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/6",
+    "value": "*Гордість.* Яка чудова демонстрація моєї майстерності."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/0",
+    "value": "Це було весело. Шшшо Флорану робити тепер..?"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/1",
+    "value": "Флоран — найкращщщий мисливець в ісссторії!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/2",
+    "value": "Тепер Флорану нічччого робити..."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/3",
+    "value": "Флоран перемагаєссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/4",
+    "value": "Флоран найкращщщий!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/5",
+    "value": "Це було весссело!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/6",
+    "value": "Зробив цессс!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/7",
+    "value": "Флорану це сссподобалося."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/novakid/default/0",
+    "value": "Після всього цього мені потрібна склянка рутбіру, йо."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/novakid/default/1",
+    "value": "Я природжений переможець у бійках, що тут скажеш, леґіню?"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/novakid/default/2",
+    "value": "Хіба це не було файне старе родео?"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/novakid/default/3",
+    "value": "Йо-го-го! Це було щось."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "value": "Я дістану тебе одного дня!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/1",
+    "value": "Це ще не кінець!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/2",
+    "value": "Не повертайся!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/3",
+    "value": "Де ти..."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/4",
+    "value": "Яка морока."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/5",
+    "value": "Почекай-но!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/0",
+    "value": "*Збентеження.* Я втратив свого супротивника..."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/1",
+    "value": "*Задумливість.* Що я роблю зі своїм життям?"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/2",
+    "value": "*Нудьга.* Що я тепер буду робити?"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/3",
+    "value": "*Невдоволення.* Скатертю дорога."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/4",
+    "value": "*Надія.* Ем... Повернешся?"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/0",
+    "value": "Флоран піде полювати на щщщось інше."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/1",
+    "value": "Коли вони повернуться, вони отримають удар ножемссс..."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/2",
+    "value": "Флоран знайде когосссь іншого для переслідування."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/3",
+    "value": "Флоран не здавсся! Просто не впевнений, що робити даліссс..."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/4",
+    "value": "Флоран голодний... можливо, здобич повернетьсяссс."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/0",
+    "value": "Підло! Це підло! Як ти зник?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/1",
+    "value": "Вони тікають!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/2",
+    "value": "Куди ти подівся?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/3",
+    "value": "Повернись сюди!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/4",
+    "value": "Як це сталося?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/glitch/default/0",
+    "value": "*Терпіння.* Я просто почекаю тут, поки ти повернешся."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/glitch/default/1",
+    "value": "*Розчарування.* Я знаю, що ти десь тут!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/glitch/default/2",
+    "value": "*Розгубленість.* Куди вони пішли?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/glitch/default/3",
+    "value": "*Невпевненість.* Хіба я не бився з кимось секунду тому?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/glitch/default/4",
+    "value": "*Лють.* Як ти зник!?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/floran/default/0",
+    "value": "Флоран хорошшший мисливець! Здобич не залишатиметься сссхованою довго!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/floran/default/1",
+    "value": "Флоран всссе ще відчуває запах здобичі!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/floran/default/2",
+    "value": "Хитра здобич ховаєтьсся!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/floran/default/3",
+    "value": "... Флоран не може тебе знайтиссс."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/floran/default/4",
+    "value": "Де ця підла річссс?"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/0",
+    "value": "Іди сюди!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/1",
+    "value": "Підійди!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/2",
+    "value": "Повернись сюди!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/3",
+    "value": "Як ти туди потрапив?"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/4",
+    "value": "Я не можу дістати!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/glitch/default/0",
+    "value": "*Роздратування.* Вони поза моєю досяжністю!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/glitch/default/1",
+    "value": "*Гнів.* Підійди!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/glitch/default/2",
+    "value": "*Розчарування.* Чому я не взяв арбалет?"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/glitch/default/3",
+    "value": "*Похмурість.* Як ми можемо битися, якщо я не можу тебе дістати?"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/glitch/default/4",
+    "value": "*Обурення.* Підійди ближче, щоб ми могли битися!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/floran/default/0",
+    "value": "Вони надто далеко, щоб їх вдарити ножемссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/floran/default/1",
+    "value": "Флоран не може діссстати!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/floran/default/2",
+    "value": "Підійди ближччче!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/floran/default/3",
+    "value": "Хитра здобич поза досяжністюссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/floran/default/4",
+    "value": "Флоран не доссстатньо близько!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/0",
+    "value": "У мене є план!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/1",
+    "value": "Хапай їх!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/2",
+    "value": "Всі стоять у мене на шляху."
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/3",
+    "value": "Чому вони ще не мертві?"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/4",
+    "value": "Давай!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/glitch/default/0",
+    "value": "*Захоплення.* Збийте їх з ніг!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/glitch/default/1",
+    "value": "*Наказовість.* Взяти їх!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/glitch/default/2",
+    "value": "*Ентузіазм.* Дістаньте ворога!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/glitch/default/3",
+    "value": "*Провокування.* Чому цей ворог ще не мертвий?"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/glitch/default/4",
+    "value": "*Егоїзм.* Я хочу вбити це!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/floran/default/0",
+    "value": "Залишшш трохи для мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/floran/default/1",
+    "value": "Хапай здобичссс!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/floran/default/2",
+    "value": "Флоран такий щщщасливий бути частиною цього."
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/floran/default/3",
+    "value": "Хапай цессс!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/floran/default/4",
+    "value": "Флоран у захватіссс!"
+  }
+]

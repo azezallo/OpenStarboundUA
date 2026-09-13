@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Письмовий стіл з великими ящиками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Велика шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей стіл має добре оброблену поверхню."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я вражений конструкцією цієї настільної шафи."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стіл, Флоран поклав речі туди."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Якість цього столу здається надзвичайно гарною для дизайну Floran."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей стіл досить гарний, враховуючи, що він із в’язниці."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Груба, погано сконструйована шафа Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це чудовий стіл, і ви можете складати речі в нього."
+  }
+]

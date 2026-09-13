@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Стіл для виготовлення заліза"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Надпотужне виготовлення!"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На цьому столі можна створити дуже складне обладнання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Стіл для виготовлення заліза^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стіл для виготовлення залізних виробів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей стіл для рукоділля дає мені змогу створювати різноманітне обладнання."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Залізний стіл для виготовлення речей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Це стіл для виготовлення заліза. Це краще, ніж дерев'яний."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не боюся якихось саморобок. Давайте зробимо це."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стіл для виготовлення заліза можна використовувати для створення хорошого обладнання."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Старий добрий залізний стіл для рукоділля. Це краще, ніж дерев'яний."
+  }
+]

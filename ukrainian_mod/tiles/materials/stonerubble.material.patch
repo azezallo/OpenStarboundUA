@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Stone rubble which appears to be debris from an old structure."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Камінь щебінь"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Схоже, уламки цього уламку свого часу були частиною споруди."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssstone rubble made from old buildingss."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Buncha crushed up rocks."
+  }
+]

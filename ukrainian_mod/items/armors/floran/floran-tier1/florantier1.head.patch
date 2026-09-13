@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Залізна броня, призначена для носіння юним Флораном на ранньому полюванні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Коло Паростка"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже відомий портрет загадкової дами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичний живопис"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Можливо, це те, до чого прагне Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Людська жінка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Людина має гарну посмішку, Флоран посмішкою лякає людину."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Фарба понад міру стара, але виглядає добре збереженою."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я читав про це... Стогнала Ліза це було? Вона не виглядає нещасною."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Красиво вловлена ​​усмішка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Куди б я не рухався, жінка на цій картині дивиться прямо на мене."
+  }
+]

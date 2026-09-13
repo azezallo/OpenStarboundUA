@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сніжок"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сніжок ідеального розміру для метання."
+  }
+]

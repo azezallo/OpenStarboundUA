@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Опора, що використовується в будівництві корабля.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Корабельна опора",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Обізнаність. Опори, подібні до цієї, зазвичай використовуються в будівництві кораблів.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Бббудівельна опора корабля.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Зроблена так, щоб тримати корабель купи.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий шматок бурштину."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бурштин"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Бурштин"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Бурштин має більше каталогізованих варіацій, ніж будь-який інший стародавній артефакт."
+  }
+]

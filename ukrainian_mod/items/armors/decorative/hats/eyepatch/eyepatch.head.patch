@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Носіння цієї нашивки варте втрати сприйняття глибини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підла пов'язка на оці"
+  }
+]

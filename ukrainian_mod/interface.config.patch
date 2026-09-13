@@ -1,0 +1,112 @@
+[
+  {
+    "op": "replace",
+    "path": "/overflowMessageText",
+    "value": "^green;+<count> більше^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/inventoryText",
+    "value": "Інвентар"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/craftingText",
+    "value": "Крафт"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/codexText",
+    "value": "Кодекс"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/beamUpText",
+    "value": "Beam Up"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/beamDownText",
+    "value": "Промінь вниз"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/deployText",
+    "value": "Розгорнути мех"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/disabledText",
+    "value": "Вимкнено"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/questsText",
+    "value": "Квести"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/mmUpgradeText",
+    "value": "М.М. Оновлення"
+  },
+  {
+    "op": "replace",
+    "path": "/cursorTooltip/collectionsText",
+    "value": "Колекції"
+  },
+  {
+    "op": "replace",
+    "path": "/largeCharPlate/modeText",
+    "value": "РЕЖИМ:"
+  },
+  {
+    "op": "replace",
+    "path": "/largeCharPlate/noPlayerText",
+    "value": "СТВОРИТИ ХАРАКТЕР"
+  },
+  {
+    "op": "replace",
+    "path": "/modeTypeTextAndColor/0/0",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/modeTypeTextAndColor/1/0",
+    "value": "Повсякденний"
+  },
+  {
+    "op": "replace",
+    "path": "/modeTypeTextAndColor/2/0",
+    "value": "Виживання"
+  },
+  {
+    "op": "replace",
+    "path": "/modeTypeTextAndColor/3/0",
+    "value": "Хардкор"
+  },
+  {
+    "op": "replace",
+    "path": "/escapeDialog/returnToGame/caption",
+    "value": "Повернутися до гри"
+  },
+  {
+    "op": "replace",
+    "path": "/escapeDialog/showOptions/caption",
+    "value": "Опції"
+  },
+  {
+    "op": "replace",
+    "path": "/escapeDialog/saveAndQuit/caption",
+    "value": "Зберегти та вийти"
+  },
+  {
+    "op": "replace",
+    "path": "/escapeDialog/lblcopyright/value",
+    "value": "Chucklefish Games 2016 - Зроблено в Лондоні, Великобританія"
+  },
+  {
+    "op": "replace",
+    "path": "/modsWarningMessage",
+    "value": "Встановлення та видалення модів може пошкодити ваші файли збереження, ви можете створити резервну копію каталогу «storage», перш ніж продовжити."
+  }
+]

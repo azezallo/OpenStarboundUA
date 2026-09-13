@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пара окулярів розміром з пінгвіна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Окуляри для пінгвінів"
+  }
+]

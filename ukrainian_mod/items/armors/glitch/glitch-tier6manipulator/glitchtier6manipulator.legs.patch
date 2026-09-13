@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гривни величезної міцності і сангвінічного відтінку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Наголенники тамплієрів"
+  }
+]

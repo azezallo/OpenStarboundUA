@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стара дерев'яна полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічна полиця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Порожня дерев'яна полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це просто порожня полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Порожні полиці."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безкорисливий. Просто стара полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Просто стара дерев'яна полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Проста порожня полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Стара полиця."
+  }
+]

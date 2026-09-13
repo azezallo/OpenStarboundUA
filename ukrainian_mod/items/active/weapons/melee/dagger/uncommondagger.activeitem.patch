@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гострий як бритва та блискавичний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Незвичайний кинджал"
+  }
+]

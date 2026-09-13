@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тароні"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Їсть і живе в смолі. Ознаки свідчать про те, що він також виділяє смолу."
+  }
+]

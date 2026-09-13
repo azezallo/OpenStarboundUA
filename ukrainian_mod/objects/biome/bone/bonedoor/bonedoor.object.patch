@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Двері з кістки. Куди це веде? Пекло? Або ванна?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кістяні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Віщі двері з кістки. Мені страшно проходити."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Звичайно, за такими дверима має бути щось гідне поваги."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран відчуває спорідненість з дверима. Відкрийте ногою."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Комічний. Гадаю, смерть цієї істоти справді... відкрила двері."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Він холодний на дотик. Холод пробирається по спині. Десь вдалині гавкає собака. Зачекайте, це просто співав Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мерзенні двері смерті. Такий жах. Однак дивовижно гладкі петлі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Двері смерті."
+  }
+]

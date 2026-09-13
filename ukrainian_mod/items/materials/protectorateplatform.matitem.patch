@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Проста на вигляд платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Платформа Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Вражений. Ці платформи легко витримують мою вагу."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Блискучі металеві платформи."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Кілька химерних платформ, виготовлених із металу."
+  }
+]

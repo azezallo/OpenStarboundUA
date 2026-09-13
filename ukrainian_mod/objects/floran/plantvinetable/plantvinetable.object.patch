@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дерев'яний стіл, порослий виноградною лозою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зарослий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це було повністю вигнано, крім стільниці."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці рослини виглядають безпечними, але я б краще не їв їх."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран, як рослина, покритий столом."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. За цими рослинами так довго не доглядали, що вони накрили цей стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей стіл виглядає досить гарно, за винятком божевільних виноградних лоз, що ростуть повсюди."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці рослини значно зіпсували цей стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Що за безлад росте на цьому столі?"
+  }
+]

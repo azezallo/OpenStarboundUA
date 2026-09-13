@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця набедрена пов'язка Violium посилена солярієм, що дозволяє рухатися, захищаючи ноги."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Набедрена пов'язка тукана"
+  }
+]

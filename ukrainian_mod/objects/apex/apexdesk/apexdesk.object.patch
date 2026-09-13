@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кожен із цих столів має чашку для кави та лампу, прикріплені до поверхні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стандартний відділ видачі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чашка для кави та лампа лише для показу. Вони прилипли до поверхні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дивний стіл... предмети зверху прилипли до нього."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чому Apex ssstick об’єкт до столу?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Об’єкти здаються прилитими до поверхні столу. Їх не можна видалити."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Що за... кухоль і лампа прилипли до столу. Це просто для показухи?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Фальшивий набір об’єктів з’єднано з цим столом. Що це за біда?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця кавова чашка прибита до столу. Яка користь від цього?"
+  }
+]

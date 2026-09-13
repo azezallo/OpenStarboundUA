@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Посидь зі мною трохи й насолодися цим неперевершеним цвітінням.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Іноді необхідно поспішати, та не дозволяй мізерним радощам життя майнути повз тебе.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Це дерево стоїть тут уже багато століть. Це символ сили та гідності Земного Захисту.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Дзвоники лунають. Вітер співає про зміни. Швидкоплинні пелюстки опадають.",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  }
+]

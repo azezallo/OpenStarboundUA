@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Листяна рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "листяна рослина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Листяна рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Листяна рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Листяні рослини."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Листяна рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Листяна рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця рослина має гарне листя."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це рослина з великими листками."
+  }
+]

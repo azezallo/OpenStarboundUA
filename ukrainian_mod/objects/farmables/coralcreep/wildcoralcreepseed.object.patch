@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Плід коралкрипа схожий на морську істоту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння Coralcreep"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Coralcreep, насправді фрукт, незважаючи на зовнішній вигляд."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Смак морепродуктів у фруктах. Справді моторошно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Рослина, прихована від істоти. Розумний."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Скептичний. Схоже на морську істоту, як це може бути, що це фрукт?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Фрукт, який виглядає і смакує як омар."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Смачний коралкрип. Справжній делікатес. Кожен має спробувати."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Справжній плід моря."
+  }
+]

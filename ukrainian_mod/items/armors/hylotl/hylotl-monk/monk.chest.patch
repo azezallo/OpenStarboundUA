@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці шати традиційно носять ченці Гілотль."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чернеча сорочка"
+  }
+]

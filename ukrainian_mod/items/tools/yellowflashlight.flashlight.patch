@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Жовтий ліхтарик! Не бійся."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліхтарик"
+  }
+]

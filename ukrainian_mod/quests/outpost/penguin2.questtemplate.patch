@@ -1,0 +1,42 @@
+[
+  {
+    "value": "^orange;Полігон випробування пінгвінячої зброї",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Моєму постачальнику зброї потрібна партія від мене, але я був зайнятий лагодженням свого нового експериментального ^orange;меха Шокгоппера^white;. Звісно, ^green;мені знадобиться перспективний воїн, щоб випробувати його^white; - розумієш, до чого я? Поговори зі мною, коли будеш споряджений і готовий, і ми зможемо вирушити на мій ^orange;полігон випробування зброї^white;.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую за інтенсивний сеанс тестування, друже - це дало мені багато корисних даних! Я також відправив партію своєму постачальнику зброї - ^green;його крамниця вже має бути відкрита прямо тут, на Аванпості^white;.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Доктор Акагі",
+    "path": "/scriptConfig/portraits/questStarted/title",
+    "op": "replace"
+  },
+  {
+    "value": "Доктор Акагі",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "op": "replace"
+  },
+  {
+    "value": "Поговори з ^orange;доктором Акагі^reset; та йди на ^orange;полігон^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "op": "replace"
+  },
+  {
+    "value": "Переможи ^orange;Шокгоппера MK-1^reset;",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "op": "replace"
+  },
+  {
+    "value": "Повернись до ^orange;доктора Акагі^reset; на ^orange;Аванпост^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

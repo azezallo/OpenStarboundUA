@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця передова стародавня технологія може підвищити ефективність деяких видів зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Покращення зброї Anvil"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ковадло працює, цікаво, які істоти це зробили."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це ковадло давнього походження"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Кнопки Floran. Нехай речі відбуваються!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Технічне застосування цього ковадла настільки ж просунуте, як і давнє."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ковадло, яке витримало випробування часом"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця ковадло виглядає дуже старою, але все ще функціональною."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це ковадло виглядає старовинним..."
+  }
+]

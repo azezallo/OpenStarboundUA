@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Залізна руда. Можна використовувати для плавки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Залізна руда"
+  }
+]

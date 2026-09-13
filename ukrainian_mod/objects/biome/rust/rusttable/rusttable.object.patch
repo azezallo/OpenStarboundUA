@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Іржавий стіл. Додає аромат."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іржавий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Старий іржавий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей стіл, здається, наприкінці свого життя."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стіл червоний, з russst не кров."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "роздратований. Через іржу я втратив апетит."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Такий стіл виглядає не дуже гігієнічно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Нелюбий, іржавий стіл."
+  }
+]

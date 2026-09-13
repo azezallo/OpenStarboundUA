@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мисливський спис"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Метальний спис. Змушує монстрів скидати м'ясо."
+  }
+]

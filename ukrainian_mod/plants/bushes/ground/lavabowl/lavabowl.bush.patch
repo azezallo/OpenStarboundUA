@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Натуральна лавова чаша."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Натуральна лавова чаша."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пекучі гарячі рідини."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Натуральна лавова чаша."
+  }
+]

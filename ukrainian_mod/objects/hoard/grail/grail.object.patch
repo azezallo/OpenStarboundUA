@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Грааль! Це може бути святим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Грааль"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Золота чаша. Може бути приємно випити."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця чаша дзижчить потужною енергією."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран напій з блискучої чашки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Якась чаша."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Виглядає як шикарна чашка. Це має бути особливим?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Основна функціональна золота чашка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я відчуваю, що це має бути особливим, але я не можу зрозуміти, чому."
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Аптека використовується для виробництва цілющих предметів і ліків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Aаптека^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стіл із купою медичних інструментів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Можливість використати свої медичні здібності."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стіл Флорана Уссе. Залатати себе."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Натхненний. Активований медичний модуль."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я можу використовувати знайдені тут матеріали для створення нових цілющих предметів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це дає мені можливість зцілюватися й омолоджуватися після заподіяних пошкоджень."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей стіл добре виглядає для лікування ран."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "value": "Аптека використовується для виробництва цілющих предметів і ліків."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "value": "^orange;Aаптека^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "value": "Стіл із купою медичних інструментів."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "value": "Можливість використати свої медичні здібності."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "value": "Стіл Флорана Уссе. Залатати себе."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "value": "Натхненний. Активований медичний модуль."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "value": "Я можу використовувати знайдені тут матеріали для створення нових цілющих предметів."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "value": "Це дає мені можливість зцілюватися й омолоджуватися після заподіяних пошкоджень."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "value": "Цей стіл добре виглядає для лікування ран."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Аптекар"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Hздоров'я та благополуччя"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "value": "Медична станція використовується для виробництва цілющих предметів і ліків."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "value": "^orange;Медична станція^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "value": "Стіл із купою медичних інструментів."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "value": "Можливість проявити свої медичні здібності."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "value": "Стіл Флорана Уссе. Залатати себе."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "value": "Натхненний. Активований медичний модуль."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "value": "Я можу використовувати знайдені тут матеріали для створення нових цілющих предметів."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "value": "Це дає мені можливість зцілюватися й омолоджуватися після заподіяних пошкоджень."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "value": "Цей стіл добре виглядає для лікування ран."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Медична станція"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Hздоров'я та благополуччя"
+  }
+]

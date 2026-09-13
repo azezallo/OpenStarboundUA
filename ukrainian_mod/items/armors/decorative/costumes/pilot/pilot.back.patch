@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Може містити або не містити діючий парашут."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рюкзак пілота"
+  }
+]

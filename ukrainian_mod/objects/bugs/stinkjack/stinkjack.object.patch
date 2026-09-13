@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ви відчуєте запах одного з цих маленьких хлопців, перш ніж його побачите."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "вонючий джек"
+  }
+]

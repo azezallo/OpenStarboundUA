@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця рушниця робить дощ фіолетовим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фіолетовий рушник"
+  }
+]

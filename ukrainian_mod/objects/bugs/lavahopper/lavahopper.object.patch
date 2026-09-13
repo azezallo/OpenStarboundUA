@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця крихітна істота стрибає через гарячі озера лави."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Lavahopper"
+  }
+]

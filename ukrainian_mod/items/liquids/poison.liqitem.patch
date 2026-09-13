@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Отрута"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міра сильної отрути."
+  }
+]

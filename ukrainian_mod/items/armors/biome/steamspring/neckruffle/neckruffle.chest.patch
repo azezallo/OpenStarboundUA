@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Формальний піджак, знизу сорочка з рюшами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Куртка з оборками"
+  }
+]

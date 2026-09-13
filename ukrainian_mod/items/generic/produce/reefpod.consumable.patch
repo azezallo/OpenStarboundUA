@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Плід океану."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Reefpod"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця пов'язка швидко склеює рани. Відновлює 100 одиниць здоров'я за 1 секунду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бандаж Nanowrap"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крихітний табурет, вирізаний з кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивний табурет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Сидіння, зроблене з кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Табурет, побудований з кісток."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран сідає на кістку здобичі Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Можливо, цей табурет був створений для зовсім маленького Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей табурет з полірованої кістки. Майже блищить."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Що за чудовисько спочило б на кістках іншої істоти?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Б’юся об заклад, щоб дістати це крісло, трапилася чортівка."
+  }
+]

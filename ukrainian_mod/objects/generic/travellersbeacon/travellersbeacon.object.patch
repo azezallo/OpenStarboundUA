@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Машина, яку мандрівники-любителі використовують для запису геологічної інформації."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мандрівний метр"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Грубо зроблений прилад, який записує геологічну статистику."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чи поширює цей пристрій слово Kluex до зірок?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Lightsss і рухомі bitsss. Нудно!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Цей прилад вимірює місцеві рівні атмосфери."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця погана машина, очевидно, записує інформацію про планету."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Погано продуманий механізм. Hylotl звертається до природи, щоб зібрати таку інформацію."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Що роблять усі ці дурі?"
+  }
+]

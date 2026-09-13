@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий шматок льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шматок льоду"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Осколок льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Холодний осколок льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Розбитий лід."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Осколок льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Трохи льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Розбитий шматок льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто великий шматок льоду."
+  }
+]

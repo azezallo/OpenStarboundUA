@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Окуляри для людей з тринокулярним зором!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Окуляри з трьома очима"
+  }
+]

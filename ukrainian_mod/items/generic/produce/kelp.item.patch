@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "М’яка і слизька ламінарія."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ламінарія"
+  }
+]

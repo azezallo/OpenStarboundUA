@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Суцільний залізний блок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Залізний блок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Приємно бачити, як у будівництві використовують залізо."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Холодне залізо металеві блоки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці блоки зроблені із заліза."
+  }
+]

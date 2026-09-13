@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Смачний яєчний смажений рис з грибами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Грибний рис"
+  }
+]

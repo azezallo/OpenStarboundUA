@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стілець-гриб. А може, мухомор."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стілець Shroom"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це крісло здається губчастим і дивним."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Спинка цього стільця натирає моє пір’я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Крісло Floran sssquish."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розмірковуючи. Скільки років знадобилося грибам, щоб отримати таку форму?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Б’юся об заклад, хто тут сидить, веселий хлопець."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це крісло нагадує морську губку."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей стілець справжній губчастий."
+  }
+]

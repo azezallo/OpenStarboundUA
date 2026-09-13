@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "A Hylotl warrior always needs to be well fed! I am simply here to purchase food."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "Isn't this place wondrous? It makes me want to write a poem, or sing a ballad."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "If I am to protect my people, I must be as strong as I can be. This means being well fed... I am just here for a snack."
+  }
+]

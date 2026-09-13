@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цікаво, наскільки він важкий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "М'яч і ланцюг"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "М'яч і ланцюг, хороша метафора для Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, це пристрій, який утримує в'язнів від втечі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран використовує подібний камінь, щоб їжа не втекла."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "скорботний. Багато глюків, які усвідомили себе, стикалися з м'ячем і ланцюгом."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "М'яч і ланцюжок. Примітивний засіб уповільнення в'язня."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гілотлі ставляться до полонених з більшою повагою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це останнє, що мені потрібно."
+  }
+]

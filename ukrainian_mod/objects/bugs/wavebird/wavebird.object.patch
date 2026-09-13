@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Жук, якого зазвичай можна знайти на гребені хвилі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хвильовий птах"
+  }
+]

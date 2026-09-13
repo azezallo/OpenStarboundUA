@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Avesmingos може мати будь-який смак! Добре це чи гірше, це морозиво теж може."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Морозиво Avesmingo"
+  }
+]

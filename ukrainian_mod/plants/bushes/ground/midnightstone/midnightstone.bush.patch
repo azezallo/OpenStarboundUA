@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці камені формуються завиванням вітру.."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вивітрене каміння."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssstones."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Завивання вітру сформувало це каміння."
+  }
+]

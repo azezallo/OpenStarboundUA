@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створіть власного селянина Apex!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Apex Spawner"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це дозволить мені викликати одного зі своїх людей."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дозатор Apex. Незвичайний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чарівна мавпочка з повітря!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Філософський. Чи є у цих породжених істот душі?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Круто, мавпяча машина."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чому я хочу породити Apex?"
+  }
+]

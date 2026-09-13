@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це осколок призми!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Осколок призми"
+  }
+]

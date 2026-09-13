@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Захищає ваші ноги під час занять наукою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани вченого"
+  }
+]

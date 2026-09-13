@@ -1,0 +1,42 @@
+[
+  {
+    "value": "  Коваль",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "  Чудове спорядження!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Хочеш подивитись на файні крами, які я зробив?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вертайся, легіню, як схочеш ще щось прикупити!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Шукаєш, де купити файне спорядження? Ходи за мною.",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ну ось, що шукаєш?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я продаю файне спорядження! Воно чудово пасує для шукачів пригод!",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я коваль, і маю трохи файного спорядження на продаж!",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/1",
+    "op": "replace"
+  }
+]

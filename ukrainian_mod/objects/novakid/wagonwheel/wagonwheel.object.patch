@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Декоративне дерев'яне колесо вагона."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Колесо вагона"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Колесо, можливо, від старого воза."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дерев'яне колесо. Можливо, це колись було частиною автомобіля?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не знає призначення колеса."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Цікаво, чи це колись було прикріплено до справжнього вагона?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я б не очікував, що старе колесо візка стане гарною прикрасою, але воно працює досить добре!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я не зовсім впевнений, яке призначення цього колеса. Це просто прикраса?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Колесо воза - чудовий реквізит для будь-якої оселі!"
+  }
+]

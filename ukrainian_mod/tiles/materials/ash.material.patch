@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Купа спресованого попелу.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Купа попелу",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво. Купа запакованого попелу.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Велика купа попелу.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Велика стара купа попелу.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

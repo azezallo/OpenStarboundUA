@@ -1,0 +1,207 @@
+[
+  {
+    "value": "Знайти підказки про Артефакт Апексів",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Гадаю, нам варто почати наше полювання на ^orange;артефакт Апексів^reset;. Апексів зазвичай можна знайти на ^orange;заморожених планетах^reset; навколо ^orange;заморожених зірок^reset;, тож це ^green;найкращі місця для пошуку необхідних нам ^orange;підказок^reset;. Одягайся тепліше, серденько, і пам'ятай: суспільство Апексів зараз перебуває в стані перевороту, тому будь напоготові.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти знайшов усі необхідні нам підказки, щоб знайти артефакт Апексів! Це блискуче, серденько – ми зайшли так далеко.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Скануйте об'єкти^reset;, щоб знайти ^orange;підказки Апексів^reset;",
+    "path": "/scriptConfig/descriptions/findClues",
+    "op": "replace"
+  },
+  {
+    "value": "Поверніться до ^orange;Естер^reset; на ^orange;Ковчег^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/bigapedoll/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ця лялька насправді є шпигунською камерою... Міннаук контролює кожен аспект життя та культури Апексів. Я спробую відстежити сигнал цієї камери... Дякую, що знайшов це.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/bigapedoll/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/bigapetargetmap/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Хмм, ця карта вказує на ймовірне місцезнаходження Великого Мавпа. Я бачу, що Міннаук любить тримати свої найважливіші активи під рукою. Думаю, це буде дуже корисна підказка, серденько.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/bigapetargetmap/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/minidronerack/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Відмінна знахідка, серденько! База даних цього дрона насичена корисною інформацією.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/minidronerack/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/miniknogintel1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це корисна знахідка! Я впевнена, що частина інформації тут стосується Артефакту.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/miniknogintel1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/miniknognewspaper/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ця газетна вирізка сповнена обману та пропаганди, але я вірю, що під брехнею прихована корисна інформація.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/miniknognewspaper/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Хмм, як цікаво... Мені потрібно це зіставити.",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво. Це безумовно вплине на мої дослідження.",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Продовжуй у тому ж дусі, серденько, це все дуже корисно!",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Підказка невеликого значення, але тим не менш актуальна!",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це чудово, все, що ти знаходиш, сприяє формуванню теорії.",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Хм, цікаво...",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це підтверджує те, про що я припускала!",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Як дивно! Але несподівана інформація може бути навіть ціннішою, ніж очікувана...",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Навіть найменший доказ може допомогти розкрити найбільші таємниці всесвіту.",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ця підказка натякає на приховану інформацію.",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/startWithProgress/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ти вже знайшов кілька речей, що дають підказки щодо місцезнаходження артефакту. Я розпочну їх аналіз, поки ти шукатимеш ще!",
+    "path": "/scriptConfig/radioMessages/startWithProgress/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ти справжній колекціонер старожитностей Апексів! Здається, ти вже знайшов достатньо підказок, щоб я змогла визначити місцезнаходження Артефакту!",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/complete/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Я вважаю, що знаю, де знаходиться Артефакт Апексів! ^#71f2f6;Повертайся на Ковчег, коли будеш готовий^white;, серденько, і я розповім тобі більше.",
+    "path": "/scriptConfig/radioMessages/complete/text",
+    "op": "replace"
+  }
+]

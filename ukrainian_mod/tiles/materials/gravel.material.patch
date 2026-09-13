@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крупний гравій."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гравій"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Роздратований. Грубий, каскадний гравій."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Щебінь."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Щебінь і гравій."
+  }
+]

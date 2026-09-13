@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Найменший і найжалюгідніший жучок, якого я коли-небудь бачив."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "сирота"
+  }
+]

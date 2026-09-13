@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чомусь ця маска тримає голову вологою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Голова Жаби"
+  }
+]

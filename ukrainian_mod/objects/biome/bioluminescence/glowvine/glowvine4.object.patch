@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сяюча лоза. Це красиво, але трохи моторошно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сяюча лоза"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чомусь я сумніваюся, що ці сяючі фрукти їстівні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чи ці ліани просто накопичують сонячне світло, чи генерують власне?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Яскраві лози ускладнюють нічне полювання."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Який біохімічний процес викликає це світіння?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сяючі виноградні лози? Як зручно!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця виноградна лоза світиться, ніби в ній живе самотній дух."
+  }
+]

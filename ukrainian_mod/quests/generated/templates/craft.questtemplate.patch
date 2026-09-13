@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Тепер у тебе є інгредієнтии для виготовлення, які нам потрібні. ^green;Зроби Флорану ^orange;<craftedItems>.",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану потрібнні ^orange;<craftedItems>.^green; Їх можна виготовити з ^orange;<ingredients>. ^white;Ти можеш допомогти?",
+    "path": "/scriptConfig/generatedText/text/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Зосереджено. Тепер щодо справжнього завдання: ^green;ти повинен виготовити ^orange;<craftedItems>^white; для мене. У тебе вже є всі необхідні матеріали, а також моя вдячність.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. Ось той момент, коли я вагаюся. Мої творчі здібності нижчі від середнього, ^green;чи не був би ти таким ласкавим виготовити ^orange;<craftedItems>^white; від мого імені? Ти можеш використати ^orange;<ingredients>^white;, які ми здобули раніше.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Далі тобі потрібно буде ^green;зібрати ^orange;<craftedItems>^white;. Ти повинен мати змогу ^green;використати ^orange;<ingredients>^white;, які ти зібрав раніше.",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Наступний крок вимагає ^green;зібрати ^orange;<craftedItems>^white;. Я б зробив це сам, але мої навички виготовлення жахливі! Якщо ти хочеш спробувати, у тебе має бути все необхідне.",
+    "path": "/scriptConfig/generatedText/text/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ммайстерно виготовлено, <player>! Тепер у Флорана є ще одне прохання.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "<craftedItems> будуть дуже кориснними. Флоран дякує тобі за їх виготовлення.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "У захваті. Твоя майстерність справді чудова! Я обов'язково звернуся до тебе ще раз у майбутньому. ",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "З полегшенням. Очікування було болісним, але нарешті мої плани можуть рухатися вперед, усе завдяки тобі! ",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вау, дуже добре зібрано. Дякую, це чудово підійде для того, що я запланував.",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зробив це так легко! Підозрюю, ти вже займався виготовленням раніше. З цим ми нарешті можемо рухатися вперед. Дякую!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1",
+    "op": "replace"
+  }
+]

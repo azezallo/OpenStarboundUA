@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кристалізований дьоготь."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кристалізований дьоготь."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сссрп ссслипкий."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Кристалізований дьоготь."
+  }
+]

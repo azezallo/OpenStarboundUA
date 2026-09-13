@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей важкий залізний порткулліс відкривається всередину."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Горизонтальна порткуля"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, ці залізні двері відкриваються всередину."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Важкі залізні двері, такі як ці, добре закріплять будь-яке місце."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Металеві ворота важкі, металеві решітки міцні."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Ці гострі металеві прути здаються небезпечними."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці важкі металеві двері вирівняні вбік."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Тверде залізо. Це може бути некрасиво, але захищає від небажаних гостей."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це міцні на вигляд двері."
+  }
+]

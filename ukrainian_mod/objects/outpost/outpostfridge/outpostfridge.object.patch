@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Холодильник. Сподіваюся, наповнений смачними, смачними частуваннями."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шикарний холодильник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Холодильник. Будемо сподіватися, що всередині є їжа."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, що в холодильнику?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Холодно!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережно. Цей холодильник пахне антисанітарією."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Холодильник. Цікаво, чи є тут яйця?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пристрій для охолодження їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Холодильник! Цікаво, хтось залишив гостинці?"
+  }
+]

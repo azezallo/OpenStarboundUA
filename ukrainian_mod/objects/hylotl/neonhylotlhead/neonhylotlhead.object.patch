@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Неоновий знак Hylotl"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Неонова вивіска із зображенням голови Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Неонова головна вивіска Hylotl. З якої причини?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Знак із зображенням голови Гілотла. Здається, це не служить меті."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Тепер Фішман поставив собі яскравий знак?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Це неонова вивіска у формі голови Гілотла. чому"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, чи Hylotl дійсно люблять робити селфі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це неонова вивіска у формі голови Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Новакіду не потрібні самі неонові вивіски, ми вже світимося!"
+  }
+]

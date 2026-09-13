@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Класичний золотий глечик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Золотий класичний глечик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тонкий золотий глечик, який, можливо, використовувався в особливих церемоніях."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей тонкий золотий глечик, можливо, був для особливих церемоній."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssimple sslim золотий глечик. Гарна."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Милуючись. На цей золотий глечик приємно дивитися."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей золотий глечик досить класичний."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Класичний, але ефектний, золотий глечик."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Невже цьому золоту є краще застосування, ніж глечик?"
+  }
+]

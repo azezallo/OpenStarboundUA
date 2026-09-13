@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скриня робота, міцна, як сталь."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скриня робота"
+  }
+]

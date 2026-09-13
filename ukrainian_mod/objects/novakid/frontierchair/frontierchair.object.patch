@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дерев'яне крісло з амортизацією зі шкіри муші."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прикордонне крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це крісло досить комфортне. Подушки зі шкури тварин додають характеру."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Подушка зі шкіри тварини свербить на пір'ї."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стілець усе ще трохи пахне здобиччю. Хороший стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Це крісло може виглядати низькоякісним, але шкіряні подушки створюють великий потенційний комфорт."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сидіти на цьому дивані трохи свербить."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я б неохоче сидів на цьому стільці. Шкура тварин виглядає не дуже зручно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ідеальний стілець. У будь-який день я б відпочив на такому стільці."
+  }
+]

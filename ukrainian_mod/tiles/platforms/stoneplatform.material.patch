@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кам'яна платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Платформа, висічена з каменю."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Impressed. This platform has been carved from solid stone."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Камінь, висічений на платформах."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Must've taken forever to carve these stone platforms."
+  }
+]

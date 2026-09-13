@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже відомий портрет загадкової дами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дослідження жіночої гілотгії"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Приємно бачити твір мистецтва, на якому немає великої мавпи."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця картина Hylotl була б кращою з Птахом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "На зображенні немає ssstabbing. Флоран вважає, що це нудно."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Це зображення жінки Hylotl дуже детальне."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не впевнений, що я маю ставитися до цього витвору мистецтва..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Який гарний і привабливий витвір мистецтва. Це захоплює стільки емоцій."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це одна дивна жінка."
+  }
+]

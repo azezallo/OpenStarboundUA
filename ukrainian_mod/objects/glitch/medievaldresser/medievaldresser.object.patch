@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей комод має затхлий запах. Виглядає не дуже чисто."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічний комод"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Простий комод, напевно, повний простого одягу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Блок зберігання та стіл в одному."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран нюхає старі меблі. Флоран наповнився пилом."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Старий комод."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Старий і запорошений дерев'яний комод."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Старий комод, можливо для одягу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Старий запорошений комод, мабуть, для одягу."
+  }
+]

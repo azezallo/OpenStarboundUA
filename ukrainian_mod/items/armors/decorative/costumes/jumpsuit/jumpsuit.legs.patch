@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Є етикетка з написом «Зроблено в Deep 13»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Комбінезон брюки"
+  }
+]

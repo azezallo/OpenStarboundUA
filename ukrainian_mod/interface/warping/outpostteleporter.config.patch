@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/bookmarkName",
+    "value": "Аванпост - Телешоп"
+  },
+  {
+    "op": "replace",
+    "path": "/destinations/0/name",
+    "value": "На корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/destinations/1/name",
+    "value": "Музей Коїчі"
+  }
+]

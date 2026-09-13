@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розташування, розташування."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Транслокатор"
+  }
+]

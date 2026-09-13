@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ніщо не втрачено для нас, доки ми це пам’ятаємо."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Квітка Земного Захисту"
+  }
+]

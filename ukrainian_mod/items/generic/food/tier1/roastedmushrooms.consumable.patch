@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Їх смаження справді розкриває весь смак."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Смажені гриби"
+  }
+]

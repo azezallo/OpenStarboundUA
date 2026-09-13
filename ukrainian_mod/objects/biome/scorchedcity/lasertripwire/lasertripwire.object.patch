@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетин цього лазерного променя може щось спровокувати!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лазерний провід"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Лазерний провід. Корисно для пасток."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей лазерний провід може бути корисним."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Розтяжка Лассера."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Розтяжка з лазером."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Перетин цього лазерного променя може щось спровокувати!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Лазерна розтяжка, корисна для обдурювання порушників."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це нагадує мені всі ті банківські крадіжки..."
+  }
+]

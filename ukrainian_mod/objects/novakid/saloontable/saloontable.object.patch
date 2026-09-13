@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стіл із пишними плямами підходить для старого вестерну."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Салонний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей стіл завалений гральними картами."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "На ній розкидано купу кольорових фішок."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Досить desssk."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Дуже простий столик, прикрашений ігровою атрибутикою."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей стіл прямо зі старого заходу!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стіл, призначений для гри в карти і початку боїв."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Намотувач стебла! Дуже добре!"
+  }
+]

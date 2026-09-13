@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Поверхня панцира цього клопа переливається, як масло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Аврорабі"
+  }
+]

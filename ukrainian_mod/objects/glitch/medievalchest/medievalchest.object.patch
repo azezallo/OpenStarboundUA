@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стара дерев'яна скриня, яка ще міцна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічний скриня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стара скриня. Виглядає сильно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Твердий дерев'яний ящик. Що може бути всередині?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran sssearch сильний шах."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Глітчі часто зберігають зброю в таких скринях. Тут є такий?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця скриня прямо з казки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Міцна грудна клітка. Добре підходить для зберігання гострих предметів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Така собі скриня, яку можна очікувати знайти в замку."
+  }
+]

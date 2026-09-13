@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бородавчастий, але не дуже бур'янистий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "бородавник"
+  }
+]

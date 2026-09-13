@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розкішне, яскраве пір'я, розташоване як квіти"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Яскравий пучок пір'я"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я ніколи не бачив птаха з таким великим пір'ям."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пташині храми часто містять пучки великих пір’я різнокольорових птахів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить велике пір'я.  Хоче полювати на птаха, від якого вони походять."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Птах, який мав ці пір’я, мав бути досить великим."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені не хотілося б зустрічати птаха, який скинув ці величезні пір’я."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці пір'я красиві і витончені."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарний пучок пір'я."
+  }
+]

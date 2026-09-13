@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарно витканий банер."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великий глюк банер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Майстерно витканий банер."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Можливо, декоративний банер?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Червоний sssilky банер."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гордий. Glitch виготовляє банери всіх видів. Вони символізують різні будинки Глітча."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Який гарний банер! Золоте оздоблення робить його дуже королівським."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей банер був створений з великою гордістю. Це повинно мати значення."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Могутній гарний банер."
+  }
+]

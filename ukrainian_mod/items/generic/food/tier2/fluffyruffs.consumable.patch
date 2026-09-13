@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вони пухнасті та пухнасті!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пухнасті йоржі"
+  }
+]

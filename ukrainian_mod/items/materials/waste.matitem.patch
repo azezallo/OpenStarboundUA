@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Огидні, слабко світяться токсичні відходи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Відходи"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Відбитий. Хімічні речовини в цих відходах настільки токсичні, що вони світяться."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Смердючий токсичний безлад. Мерзенна отрута."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Бунча світиться токсичними хімічними відходами."
+  }
+]

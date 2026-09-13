@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вудилище Durasteel для риболовлі в екстремальних умовах."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Міцна вудка"
+  },
+  {
+    "op": "replace",
+    "path": "/lureName",
+    "value": "Основна приманка"
+  },
+  {
+    "op": "replace",
+    "path": "/reelName",
+    "value": "Основна котушка"
+  }
+]

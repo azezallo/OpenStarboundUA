@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Тепер найгірша частина! Флоран ненавидить готувати! ^green;Тобі потрібно приготувати ^orange;<cookedItems> ^white;для Флорана, використовуючи ^orange;<ingredients>.",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Далі <player> має ^green;приготувати Флорану ^orange;<cookedItems> ^green;з ^orange;<ingredients>.",
+    "path": "/scriptConfig/generatedText/text/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Розгублено. Тепер, коли у тебе є всі ^orange;інгредієнти^white;, ^green;їх просто треба якимось чином перетворити на ^orange;<cookedItems>^white;. Я залишу цю частину тобі!",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Спокійно. ^green;Тепер тобі просто потрібно приготувати ^orange;<cookedItems>^white; з ^orange;<ingredients>^white;. Все просто!",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тепер настала складна частина - готування. Ти маєш зуміти ^green;перетворити ^orange;<ingredients>^white; на ^orange;<cookedItems>^white;. Рецепт здається простим, але мої спроби готувати ніколи не закінчуються вдало.",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;<ingredients>^white; потребуватимуть деякої підготовки. Ти маєш зуміти ^green;нашвидкуруч приготувати ^orange;<cookedItems>^white;. Чому б тобі не спробувати?",
+    "path": "/scriptConfig/generatedText/text/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ммммм! Флоран не дуже добре готує, тож це був чудовий план!",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую, <player>, ти точно кращий кухар, ніж Флоран!",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Заздрісно. Я дуже вдячний за можливість скористатися твоїми чудовими кулінарними навичками. Дякую!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Щасливо. <cookedItems> виглядають чудово.",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вау! Виглядає дуже смачно! Хотілося б з'їсти це прямо зараз, але це знадобиться нам для того, що буде далі...",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Здається, у тебе не виникло жодних проблем з приготуванням цього! Дякую - це саме те, що потрібно для завершення мого плану.",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1",
+    "op": "replace"
+  }
+]

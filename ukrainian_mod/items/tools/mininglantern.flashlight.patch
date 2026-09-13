@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей ліхтар дослідники можуть носити з собою, щоб освітлювати околиці."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліхтар дослідника"
+  }
+]

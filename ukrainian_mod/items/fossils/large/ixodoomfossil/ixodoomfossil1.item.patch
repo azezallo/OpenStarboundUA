@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий череп Іксодум."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Череп іксодум"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Викопний іксодум"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Товстий екзоскелет цього членистоногого допоміг йому вижити мільйони років."
+  }
+]

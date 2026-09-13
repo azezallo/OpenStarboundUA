@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зупиняє напади застуди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Морозний щит"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/volumeLabel/value",
+    "value": "ГУЧНІСТЬ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/sfxLabel/value",
+    "value": "ЕФЕКТИ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/musicLabel/value",
+    "value": "Музика"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/tutorialMessagesLabel/value",
+    "value": "ПІДКАЗКИ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/allowAssetsMismatchLabel/value",
+    "value": "ДОЗВ. РІЗНІ АСЕТИ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/clientIPJoinableLabel/value",
+    "value": "ПІДКЛ. ЧЕРЕЗ IP"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/clientP2PJoinableLabel/value",
+    "value": "МУЛЬТИПЛЕЄР STEAM / DISCORD"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/backButton/caption",
+    "value": "Назад"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/acceptButton/caption",
+    "value": "Прийняти"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/showGraphics/caption",
+    "value": "Графіка"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/voiceLabel/value",
+    "value": "ГОЛОС"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/showVoiceSettings/caption",
+    "value": "Налаштування"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/showVoicePlayers/caption",
+    "value": "^#a0a000,font=iosevka-semiboldoblique;TODO^#aa7;:^reset; Гравці"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/showKeybindings/caption",
+    "value": "Керування грою"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/showModBindings/caption",
+    "value": "Керування модами"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/instrumentLabel/value",
+    "value": "Мелодії"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/headRotationLabel/value",
+    "value": "ОБЕРТАННЯ ГОЛОВИ"
+  }
+]

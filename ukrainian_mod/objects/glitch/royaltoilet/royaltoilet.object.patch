@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "... Ще один трон."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Королівський туалет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чи справді потрібен золотий унітаз?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Розкішний підхід до проведення часу у ванній кімнаті."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискуча золота чаша для води."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Осудливий. Марна трата багатства."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Золотий унітаз здається трохи за бортом."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Жахлива демонстрація марнотратства."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Для мене золотий унітаз здається марною тратою здобичі."
+  }
+]

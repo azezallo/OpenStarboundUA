@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Платформа телепортації, яка викликає механізм гравця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Механічна платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця платформа викличе меха."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Панель телепортації для розгортання мех."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей телепорт викличе мех sssuit."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інформований. Це спеціальний телепорт, який використовується для виклику механічної броні."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця панель телепорту викликає механізм."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця платформа буде телепортуватися в костюмі механіка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це планшет, створений для телепортації в механічній броні."
+  }
+]

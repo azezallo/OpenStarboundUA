@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це належить Нуру. Як ви це отримали?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Спис Нуру"
+  }
+]

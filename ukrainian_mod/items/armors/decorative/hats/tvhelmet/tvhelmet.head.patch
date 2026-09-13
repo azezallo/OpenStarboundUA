@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сигнал не працює, тому ви навіть не можете дивитися спорт."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "ТВ шолом"
+  }
+]

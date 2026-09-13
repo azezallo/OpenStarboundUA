@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скелі пустелі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скелі пустелі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssandy скелі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Скелі пустелі."
+  }
+]

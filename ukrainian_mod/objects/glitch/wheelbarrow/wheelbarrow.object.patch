@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тачка для перевезення вантажів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тачка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Велика тачка. Виглядає так, ніби він може перевозити велику кількість предметів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Великий дерев'яний візок на колесах. Цікаво, для чого він використовується."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хотів би покататися!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безкорисливий. Тачки можна використовувати для перевезення вантажів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дуже велика тачка. Тут можна подрімати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дуже великий візок. Чи не краще було б чотири колеса?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якась велика тачка, годиться для перевезення спорядження."
+  }
+]

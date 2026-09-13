@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарна кухонна полиця, на якій під рукою зберігаються спеції."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кухонна полиця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці інгредієнти виглядають дуже смачно!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Така полиця ідеально підходить для сонячної кухні."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Маленька рослина краще, ніж відсутність рослини!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Ця рослина призначена для декору чи як інгредієнт?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сподіваюся, хтось поливав цю рослину..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця невелика кухонна полиця зберігає безлад у зоні приготування їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені хочеться приготувати щось смачненьке!"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Відлюдник Тонгвіле"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Its body is one long pink muscle, curled tight into a fossilised shell."
+  }
+]

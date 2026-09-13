@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яне вікно"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вікно з дерев'яними шибками."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "в захваті. Це вікно допомагає освітлити кімнату."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гарні вікна, Флоран може бачити надворі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Nice lookin' window with wooden panes."
+  }
+]

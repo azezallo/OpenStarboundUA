@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Жорсткі чоловічі штани!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жорсткі брюки"
+  }
+]

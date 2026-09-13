@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дослідження показали, що в цій накидці неможливо бути нещасним."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шаль піднесення"
+  }
+]

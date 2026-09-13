@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бачити оком меча спочатку дезорієнтує."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "NPC Окулус Рейвер"
+  }
+]

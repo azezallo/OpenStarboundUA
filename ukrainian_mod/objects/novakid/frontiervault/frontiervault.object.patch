@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Величезний вишуканий сейф-сховище."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прикордонне сховище"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Величезне залізне склепіння. На щастя, він не замкнений."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чудове залізне сховище, у якому можна зберігати дорогоцінні речі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче сховатися у великій коробці."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Це сховище настільки міцне, що я не впевнений, що зможу туди проникнути."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чи доведеться мені стати досвідченим слюсарем, щоб проникнути в це? Ні, чекай, воно вже відкрито."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це склепіння виглядає досить міцним."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Чудове місце, щоб сховати своє золото."
+  }
+]

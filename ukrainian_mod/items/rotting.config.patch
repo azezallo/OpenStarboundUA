@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/0/1",
+    "value": "^red;Занадто гнилий, щоб їсти^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/1/1",
+    "value": "^orange;Починає пахнути гниллю^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/2/1",
+    "value": "^yellow;, ймовірно, скоро зіпсується^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/3/1",
+    "value": "^green; має залишатися свіжим деякий час^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/4/1",
+    "value": "^green;EНадзвичайно добре збережений^reset;"
+  }
+]

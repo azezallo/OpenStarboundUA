@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Променева наступальна зброя далекого бою, розроблена для агентів миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Neo Laser Mech Arm"
+  }
+]

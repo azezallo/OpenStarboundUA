@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Електричний гемобілін"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "It's actually covered in purple skin, but it's still pretty gross."
+  }
+]

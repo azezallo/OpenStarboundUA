@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Похмурий капітан."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капітан верфі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей чоловік має підозрілий вигляд... Але він продає хороші машини."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей чоловік продає автомобілі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сумний чоловік, продає транспортні засоби."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Я можу купити транспортні засоби у цього пана."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Зазвичай я б уникав таких сумнівних персонажів... Але я дійсно хочу автомобіль."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мені сказали, що цей капітан продає транспортні засоби."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цікаво, які транспортні засоби продає цей хлопець?"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Автомобіль Пінгвіна Піта"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Цілком законний піратський бізнес"
+  }
+]

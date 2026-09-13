@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сокира простого вигляду з кривим держаком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "NPC Deadbeat Axe"
+  }
+]

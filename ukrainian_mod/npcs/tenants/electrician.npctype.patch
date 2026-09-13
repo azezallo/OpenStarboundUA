@@ -1,0 +1,92 @@
+[
+  {
+    "value": "Я тут, щоб переконатися, що електропроводка не псується.",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ці схеми дуже добре зроблені. Я не думаю, що вони зіпсуються незабаром.",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мене тягне туди, де багато електросхем.",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я електрик. Я тут для того, щоб всі схеми працювали правильно.",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ці схеми самі себе в порядок не приведуть! Тому я тут.",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я тут, щоб ці схеми працювали як годинник!",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран - електрик, але флоран не зззнає, як працює електриссство.",
+    "path": "/scriptConfig/dialog/converse/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран отримав цю роботу якимось чином... Краще б пронизззував.",
+    "path": "/scriptConfig/dialog/converse/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран цікавитьссся, чи добрий цей електрошолом для бою?",
+    "path": "/scriptConfig/dialog/converse/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Через мій електрошолом пір'я починає свербіти.",
+    "path": "/scriptConfig/dialog/converse/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Цей комбінезон мені не личить. Авіанам не слід так прикриватися!",
+    "path": "/scriptConfig/dialog/converse/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я тут, щоб полагодити електросхему, але, на мій погляд, - все гаразд.",
+    "path": "/scriptConfig/dialog/converse/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Лагодження електроніки є вишуканим мистецтвом заплутаності. На щастя, тут усе бездоганно.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ця електрична схема просто заворожує своєю елегантністю.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Електрики настільки ж шляхетні, як артисти та музиканти. Я цілком серйозний!",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Здивування. Я прийшов сюди, щоб полагодити ці електросхеми, але вони в порядку.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Азарт. Я люблю тримати в справності схеми та електроніку! Це і робота, і хобі.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволення. Я радий, що знаю, як влаштована електротехніка - електросхеми мене захоплюють.",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2",
+    "op": "replace"
+  }
+]

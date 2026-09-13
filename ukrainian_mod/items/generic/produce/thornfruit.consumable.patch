@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Поки ви стежите за колючками, вони дуже смачні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Терновий плід"
+  }
+]

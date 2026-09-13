@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Спокійний кам'яний фонтан. Вода плавно тече."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кам'яний фонтан"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Фонтан з каменю."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей фонтан має великі красиві потоки води."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить чисту воду у фонтані."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "мирний. З цього фонтану ллється шум води, що тече."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я відчуваю потребу загадати бажання."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Камінь сформований і витесаний у фонтан."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якась бризката статуя б’є водою."
+  }
+]

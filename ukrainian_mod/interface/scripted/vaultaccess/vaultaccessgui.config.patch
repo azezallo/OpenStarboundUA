@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "Брама Сховища"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "Позавимірний притулок"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/closeVaultButton/caption",
+    "value": "Закр. Сховище"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/enterVaultButton/caption",
+    "value": "Увійти в Схов."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblTimeDescription/value",
+    "value": "ЗАЛИШ. ЧАСУ:"
+  }
+]

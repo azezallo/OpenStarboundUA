@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Протівние слабо светящіеся отходи.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Отходи",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Отріцательно. Хімікати в етіх отходах очень токсічни, і оні светятся.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Вонючее токсссічное месссіво. Гнусссний яд.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Куча светящіхся токсічних хіміческіх отходов.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

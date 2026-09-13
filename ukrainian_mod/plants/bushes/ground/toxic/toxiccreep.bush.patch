@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Токсичний крип."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рослина-мутант."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Моторошні рослини."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Здається, ця рослина процвітає на навколишньому випромінюванні."
+  }
+]

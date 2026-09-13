@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Грубі двері з пісковику."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Двері з пісковика"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Двері з пісковика."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Добре виготовлені двері з пісковику."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssandy двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Витривалі двері з пісковику."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гарні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Грубі, піщані двері. Сирий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це важкі двері. Шорсткий на дотик."
+  }
+]

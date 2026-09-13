@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Легкий дихаючий топ підходить для тренувань. Ні болю, ні прибутку, вірно?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Топ без рукавів"
+  }
+]

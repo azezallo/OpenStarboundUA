@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця пастка вивергає іній, щоб відлякати загарбників."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стародавня крижана пастка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це смертельна крижана пастка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Небезпечний льодовий механізм."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Лід може бути небезпечним."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Це смертельна крижана пастка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Стережіться смертоносного удару льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Лід, вода в її найбільш смертоносній формі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця морозна пастка може відморозити лапи мідної мавпи."
+  }
+]

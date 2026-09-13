@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарний представницький стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Представницький стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей виконавчий стіл надзвичайно гладкий."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Надзвичайно міцний виконавчий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Досить хороший стіл, щоб Флоран міг нарізати м’ясо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Бездоганний виконавчий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Класний виконавчий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стіл, який перевершує навіть майстерність Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я міг би влаштувати чудові вечірки за таким столом."
+  }
+]

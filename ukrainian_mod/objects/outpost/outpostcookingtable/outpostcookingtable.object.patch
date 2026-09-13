@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця стійка здається ідеальною для приготування їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шикарний кулінарний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Шикарний кулінарний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Готувати та готувати їжу"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кулінарний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я можу використовувати це для приготування смачної їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран може використовувати це для приготування смачної їжі!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "в захваті. Кулінарний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кулінарний стіл, зручно!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Простий стіл, призначений для приготування їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Час готувати!"
+  }
+]

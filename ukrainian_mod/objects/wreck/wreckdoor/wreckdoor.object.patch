@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці двері майже заржавіли."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зруйновані двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Іржаві двері от-от відчиняються."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці двері важкі та поржавілі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Важкі двері важко відкрити."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Іржа робить ці двері струменем."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Старі іржаві двері. Дуже важкий."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Колись ці двері були дуже безпечними."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це могло бути безпечним колись, поки його петлі не поржавіли."
+  }
+]

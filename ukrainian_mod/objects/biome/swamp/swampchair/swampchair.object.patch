@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Невелике сидіння з листя і коріння."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Болотний стілець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я припускаю, що це для сидіння. Виглядає не дуже зручно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це сидіння просте. Немає потреби в екстравагантності."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стілець пахне болотом. Флорану подобається."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Незручно. Сидіти тут було б дивно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я думаю, це місце."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це зроблено не дуже тонко."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це, мабуть, стілець."
+  }
+]

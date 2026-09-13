@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "I'm an electrician! I'm here to buy some fresh batteries from the Infinity Express."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "За фахом я електрик. Я просто приїхав, щоб купити нові акумулятори від Infinity Express."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "I'm an electrician, so I come to the Outpost often to get supplies for my trade."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дає вам сповільнений поштовх повітря в будь-якому напрямку!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "value": "Ракетний стрибок"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Здобич всесвіту тремтить при вигляді цього моторошного керма."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шлем синтезатора"
+  }
+]

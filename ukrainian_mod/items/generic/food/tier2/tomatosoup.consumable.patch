@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Наваристий шовковистий суп зі стиглих помідорів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Томатний суп"
+  }
+]

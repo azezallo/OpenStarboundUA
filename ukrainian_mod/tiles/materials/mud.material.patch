@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Густа і липка грязь."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Mud"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огидно. Цей мул густий і липкий."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran likess muddy messsss."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Виглядає, як купа бруду."
+  }
+]

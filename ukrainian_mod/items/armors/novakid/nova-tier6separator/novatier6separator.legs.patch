@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Штани Wrangler, для витривалого Wrangler."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани Wrangler"
+  }
+]

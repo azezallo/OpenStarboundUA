@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Авіан",
+    "path": "/charCreationTooltip/title",
+    "op": "replace"
+  },
+  {
+    "value": "Авіани — раса барвистих птахів, чия племінна культура обертається навколо поклоніння Клуексу, крилатому богу ефіру. Їхні солдати тренуються від народження, щоб стати лютими воїнами, які захищатимуть свої храми за будь-яку ціну.",
+    "path": "/charCreationTooltip/description",
+    "op": "replace"
+  },
+  {
+    "value": "Колір пір'я",
+    "path": "/charGenTextLabels/0",
+    "op": "replace"
+  },
+  {
+    "value": "Оперення",
+    "path": "/charGenTextLabels/1",
+    "op": "replace"
+  },
+  {
+    "value": "Одяг",
+    "path": "/charGenTextLabels/2",
+    "op": "replace"
+  },
+  {
+    "value": "Штани",
+    "path": "/charGenTextLabels/3",
+    "op": "replace"
+  },
+  {
+    "value": "Дзьоб",
+    "path": "/charGenTextLabels/4",
+    "op": "replace"
+  },
+  {
+    "value": "Обличчя",
+    "path": "/charGenTextLabels/5",
+    "op": "replace"
+  },
+  {
+    "value": "Колір одягу",
+    "path": "/charGenTextLabels/6",
+    "op": "replace"
+  },
+  {
+    "value": "Колір штанів",
+    "path": "/charGenTextLabels/7",
+    "op": "replace"
+  },
+  {
+    "value": "АВІАН",
+    "path": "/charGenTextLabels/8",
+    "op": "replace"
+  },
+  {
+    "value": "Особистість",
+    "path": "/charGenTextLabels/9",
+    "op": "replace"
+  }
+]

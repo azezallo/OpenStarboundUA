@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блідий кам'яний вівтар без декору."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кам'яний вівтар"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Вівтар. Це заготовка різьби."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей вівтар нерізьблений. Нелітаючі можуть молитися тут."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стіл Ssstone підходить для різання."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Цей вівтар виглядає зовсім без декору."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вівтар. Мені стати на коліна?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вівтар. Така побожність — це не шлях вперед."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто звичайний кам'яний вівтар. Нічого особливого."
+  }
+]

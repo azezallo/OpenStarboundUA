@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Одягніть ці позолочені крила, схожі на кажана, і станьте кошмарами!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Страшні крила"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Класичний дизайн бустерів середнього класу, який історично використовувався транспортними судами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Stalwart Mech Boosters"
+  }
+]

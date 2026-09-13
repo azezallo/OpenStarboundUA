@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Навіть не моргає! Як жахливо."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска єті циклопа"
+  }
+]

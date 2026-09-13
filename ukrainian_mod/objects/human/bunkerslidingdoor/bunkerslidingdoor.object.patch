@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці розсувні двері створюють відчуття, ніби я потрапив у науково-фантастичну гру..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сучасні розсувні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Розсувні двері. Захоплюючий."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Деякі культури вважають, що якщо у вас немає душі, ці двері не реагуватимуть."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Підступні розсувні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Загіпнотизований. У русі цих дверей є щось захоплююче."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Одного разу я підбіг до таких дверей, і вони не відчинилися вчасно, і... так."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Витончені розсувні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені завжди подобалися такі розсувні двері."
+  }
+]

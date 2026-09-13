@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кам'яний щебінь, який виглядає як уламки старої споруди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Камінь щебінь"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Спостережливий. Схоже, уламки цього уламку свого часу були частиною споруди."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Кам'яні уламки зі старих будівель."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Бунча розтрощив каміння."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це вогнемет, схожий на меч."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лезо вогнемета"
+  }
+]

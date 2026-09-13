@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Scaveran"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Внутрішня частина його дзьоба являє собою справді жахливе видовище."
+  }
+]

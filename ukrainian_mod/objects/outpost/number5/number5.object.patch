@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "П'ять маркерів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "П'ять"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "П'ять."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "П'ять."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "П'ять! Схоже на гачок."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. П'ять."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "П'ять."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "П'ять."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "П'ятірка."
+  }
+]

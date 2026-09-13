@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мотузка, утворена в батіг. Отримати тріщини!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мотузковий батіг"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Мотузковий хлист ^yellow;^reset;"
+  }
+]

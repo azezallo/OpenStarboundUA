@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці залізні кайдани можуть зробити втечу з в'язниці незручною."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Настінні кайдани"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Набір кайданів. Нагадує мені дім."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Набір залізних обмежувачів. Зіркогляди помістили свою жертву в подібний набір перед тим, як доставити її до Клуексу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран використовує залізні кайдани, щоб утримувати здобич до часу приготування."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Дискомфорт. Набір кайданів з підземелля. Вони виглядають незручно, але надійно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Набір кайданів. На щастя, в них нікого немає."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Тюремна система виглядає досить жорстокою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Б’юся об заклад, у цих кайданах був якийсь поганець."
+  }
+]

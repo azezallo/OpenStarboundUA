@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Щось органічне та слизьке..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Щупальцева частина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це нервує."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Як огидно. Воно живе?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssly виглядає."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Незручно. Здається, щось органічне."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "фу Що це таке?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Якась абсолютно огидна, органічна структура."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Не знаю, що це таке. Не впевнений, що хочу знати."
+  }
+]

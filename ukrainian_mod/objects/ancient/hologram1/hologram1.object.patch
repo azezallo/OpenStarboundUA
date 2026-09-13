@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стародавнє голографічне зображення міфологічної сцени."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стародавня голограма"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця голограма ніби зображує стародавню фігуру з планетами."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це зображення дієти нагадує мені Kluex."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Людина, що світиться, допомагає планетам."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Здається, ця сцена показує істоту, яка захищає планети."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Стародавні фрески люблять бути невиразними і загадковими..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Голограма - це красиве та загадкове зображення істоти."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "На цій старій картинці зображена таємнича дивна фігура."
+  }
+]

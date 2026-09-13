@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скеровує залізничників різними шляхами"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Залізничний вимикач"
+  }
+]

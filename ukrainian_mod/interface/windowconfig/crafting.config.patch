@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": " Базовий крафт"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "value": " ^#b9b5b2;Тільки ви, інгредієнти та ваші руки ^green;[C]"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "value": "Створити"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnStopCraft/caption",
+    "value": "Зупинити"
+  }
+]

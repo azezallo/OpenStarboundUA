@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Яскравий і красивий, він має привітну посмішку на обличчі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Яскрава смуга"
+  }
+]

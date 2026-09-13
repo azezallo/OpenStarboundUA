@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скибочка теплого яєчного хліба. Смачно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Яєчний тост"
+  }
+]

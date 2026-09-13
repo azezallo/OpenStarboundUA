@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стіна традиційного вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Багато прикрашена стіна"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Проникливий. Ця стіна тонко декорована традиційним методом."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Стіна надто красива, щоб її розбити."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Це справжня шикарна стіна."
+  }
+]

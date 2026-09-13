@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рюкзак з прикріпленою галогенною лампою. Це дуже яскраво!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пакет галогенів"
+  }
+]

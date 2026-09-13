@@ -1,0 +1,182 @@
+[
+  {
+    "value": "Б",
+    "path": "/names/1/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Д",
+    "path": "/names/1/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ф",
+    "path": "/names/1/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "Фл",
+    "path": "/names/1/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ґ",
+    "path": "/names/1/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "Х",
+    "path": "/names/1/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "Дж",
+    "path": "/names/1/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "Л",
+    "path": "/names/1/1/7",
+    "op": "replace"
+  },
+  {
+    "value": "М",
+    "path": "/names/1/1/8",
+    "op": "replace"
+  },
+  {
+    "value": "Н",
+    "path": "/names/1/1/9",
+    "op": "replace"
+  },
+  {
+    "value": "П",
+    "path": "/names/1/1/10",
+    "op": "replace"
+  },
+  {
+    "value": "Р",
+    "path": "/names/1/1/11",
+    "op": "replace"
+  },
+  {
+    "value": "Ш",
+    "path": "/names/1/1/12",
+    "op": "replace"
+  },
+  {
+    "value": "Т",
+    "path": "/names/1/1/13",
+    "op": "replace"
+  },
+  {
+    "value": "В",
+    "path": "/names/1/1/14",
+    "op": "replace"
+  },
+  {
+    "value": "а",
+    "path": "/names/1/2/0",
+    "op": "replace"
+  },
+  {
+    "value": "е",
+    "path": "/names/1/2/1",
+    "op": "replace"
+  },
+  {
+    "value": "і",
+    "path": "/names/1/2/2",
+    "op": "replace"
+  },
+  {
+    "value": "о",
+    "path": "/names/1/2/3",
+    "op": "replace"
+  },
+  {
+    "value": "у",
+    "path": "/names/1/2/4",
+    "op": "replace"
+  },
+  {
+    "value": "і",
+    "path": "/names/1/2/5",
+    "op": "replace"
+  },
+  {
+    "value": "ой",
+    "path": "/names/1/2/6",
+    "op": "replace"
+  },
+  {
+    "value": "у",
+    "path": "/names/1/2/7",
+    "op": "replace"
+  },
+  {
+    "value": "ббі",
+    "path": "/names/1/3/0",
+    "op": "replace"
+  },
+  {
+    "value": "бблі",
+    "path": "/names/1/3/1",
+    "op": "replace"
+  },
+  {
+    "value": "ффі",
+    "path": "/names/1/3/2",
+    "op": "replace"
+  },
+  {
+    "value": "ффлі",
+    "path": "/names/1/3/3",
+    "op": "replace"
+  },
+  {
+    "value": "дж",
+    "path": "/names/1/3/4",
+    "op": "replace"
+  },
+  {
+    "value": "джі",
+    "path": "/names/1/3/5",
+    "op": "replace"
+  },
+  {
+    "value": "лі",
+    "path": "/names/1/3/6",
+    "op": "replace"
+  },
+  {
+    "value": "мі",
+    "path": "/names/1/3/7",
+    "op": "replace"
+  },
+  {
+    "value": "п",
+    "path": "/names/1/3/8",
+    "op": "replace"
+  },
+  {
+    "value": "пі",
+    "path": "/names/1/3/9",
+    "op": "replace"
+  },
+  {
+    "value": "т",
+    "path": "/names/1/3/10",
+    "op": "replace"
+  },
+  {
+    "value": "ті",
+    "path": "/names/1/3/11",
+    "op": "replace"
+  },
+  {
+    "value": "тс",
+    "path": "/names/1/3/12",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нагрудний нагрудний солдатський мундир."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Солдатський нагрудник"
+  }
+]

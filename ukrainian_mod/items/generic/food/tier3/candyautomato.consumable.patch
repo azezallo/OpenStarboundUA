@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це як льодяник зі смаком автомата! Що якось дивно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Цукерковий автомат"
+  }
+]

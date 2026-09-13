@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це шолом, перероблений з одного з тих старих комп’ютерних екранів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Монітор Helm"
+  }
+]

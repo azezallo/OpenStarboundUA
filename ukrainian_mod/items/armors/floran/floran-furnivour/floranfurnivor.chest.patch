@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Горда демонстрація хутра тварин, отримана з нещодавнього полювання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скриня для меблів"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стильний шолом, який захистить вашу голову і зведе з пантелику ворогів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом хрестоносця"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скеля, чорна як смола, як тінь."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Shadow Rock"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Зачарований. Цей темний блок ніби поглинає світло навколо себе."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Темні чорні блоки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Могутні темні на вигляд скелі."
+  }
+]

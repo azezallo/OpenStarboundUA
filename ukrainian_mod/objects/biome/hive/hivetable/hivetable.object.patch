@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Клейкий стіл, схожий більше на вулик, ніж на меблі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вулик стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це, здається, було побудовано з якогось органічного матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей стіл зробили люди чи якась істота?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стіл липкий... Флоран розгубився."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Стіл нагадує вулик комах."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я думаю, що їсти за цим столом було б антисанітарно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей стіл чомусь зроблений так, щоб нагадувати органічний вулик."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені б дуже не хотілося подавати тушковане м’ясо на цей стіл."
+  }
+]

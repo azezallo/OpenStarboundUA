@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Спідниця бальної сукні - традиційний весільний одяг на Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Весільна спідниця"
+  }
+]

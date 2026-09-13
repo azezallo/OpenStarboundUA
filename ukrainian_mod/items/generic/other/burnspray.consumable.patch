@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бережіть своє тіло від опіків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Спрей проти опіків"
+  }
+]

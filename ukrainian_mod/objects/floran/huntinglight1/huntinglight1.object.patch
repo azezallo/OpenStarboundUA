@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Світло з виноградної лози. Або виноградна лоза з вогнів?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великі вогні виноградної лози"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Такі гарні вогники."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Рослина, яка світить. Чудово."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Вогники рослин не спалять Флоран."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Floran здатні найбільш ефективно використовувати природу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це світло виглядає так, ніби його виростили, а не зробили."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Здається, навіть підлі Флорани цінують красу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця рослина може випромінювати світло."
+  }
+]

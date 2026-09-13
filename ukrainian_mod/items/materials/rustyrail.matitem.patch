@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці рейки трохи грубуваті, але функціональні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іржава рейка"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "стурбований. Ці рейки виглядають зношеними та іржавими."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Іржаві металеві рейки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Якісь іржаві на вигляд рейки, мені кортить їздити на них."
+  }
+]

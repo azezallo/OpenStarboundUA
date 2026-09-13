@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сухий чагарник савани."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ламкий, сухий кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Dry busssh."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. A brittle, dry bush."
+  }
+]

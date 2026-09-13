@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий слід тварини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Викопний слід"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Викопний слід"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Розмір цього сліду вказує на те, що його, ймовірно, зробив дорослий самець цього виду."
+  }
+]

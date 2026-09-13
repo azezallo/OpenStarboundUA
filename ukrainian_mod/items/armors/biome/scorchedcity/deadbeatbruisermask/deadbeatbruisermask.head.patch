@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пластикова маска, яка не забезпечує фактичного захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска Deadbeat Bruiser"
+  }
+]

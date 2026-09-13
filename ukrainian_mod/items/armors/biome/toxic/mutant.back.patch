@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця труба, що можна носити, виглядає так, ніби вона перекачує токсичні рідини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Mutagen Back Pipe"
+  }
+]

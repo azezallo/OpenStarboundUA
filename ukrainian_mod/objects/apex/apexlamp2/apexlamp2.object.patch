@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Висока дерев'яна лампа з абажуром у горошок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стандартна висока лампа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стандартний випуск."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Висока лампа. Цікаво, як це функціонує? Кристалів немає."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Висока лампа, яскраве світло."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Зі світлом приходить безпека."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Висока яскрава лампа."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця лампа могла освітлювати велику камеру."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це висока стояча лампа."
+  }
+]

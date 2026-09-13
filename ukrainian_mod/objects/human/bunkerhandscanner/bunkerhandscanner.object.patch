@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Він сканує відбитки пальців і зіставляє їх із даними персоналу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сканер відбитків пальців"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Сканер відбитків пальців. Менший за руку Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Птахи не мають відбитків пальців. Такі засоби безпеки для нас марні."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пристрій для сканування рук. Не реагує на руку Флорана..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Ображений. Біометричні пристрої безпеки — це розкіш, якої можуть дозволити лише деякі види."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сканер відбитків пальців. На жаль, я не зареєстрований. Я завжди хотів активувати одну з них."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Руки Hylotl можуть призвести до того, що ці речі зіпсуються."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тип скануючого пристрою для рук. Сумніваюся, що він підбере моє."
+  }
+]

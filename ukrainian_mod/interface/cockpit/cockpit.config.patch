@@ -1,0 +1,1002 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": " Навігаційна консоль"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "^#b9b5b2; Оберіть пункт призначення"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value",
+    "value": "Назва закладки"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value",
+    "value": "Назва планети"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/ok/caption",
+    "value": "Прийняти"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/remove/caption",
+    "value": "Видалити"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/close/caption",
+    "value": "Скасувати"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/title/value",
+    "value": "Нова закладка"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/name/hint",
+    "value": "Введіть назву закладки"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/jumpDialog/children/jump/caption",
+    "value": "Стрибок"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/jumpDialog/children/cancel/caption",
+    "value": "Скасувати"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/jumpDialog/children/title/value",
+    "value": "Підтвердити НСШ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/jumpDialog/children/text/value",
+    "value": "Подорож із НСШ споживатиме ^green;%s палива^reset;.\nПідтвердьте, щоб продовжити."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/coordinatesFrame/children/go/caption",
+    "value": "РУШ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/clusterinfo/children/inner/children/name/value",
+    "value": "ЦЕ СКУПЧЕННЯ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/clusterinfo/children/inner/children/moons/value",
+    "value": "БАГАТО СУПУТНИКІВ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/clusterinfo/children/inner/children/view/caption",
+    "value": "НЕ ДОСЛІДЖЕНО"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/objectinfo/children/inner/children/name/value",
+    "value": "КОСМІЧНИЙ ОБ'ЄКТ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/objectinfo/children/inner/children/description/value",
+    "value": "ЦЕ ДУЖЕ ГАРНИЙ КОСМІЧНИЙ ОБ'ЄКТ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/objectinfo/children/inner/children/threat/value",
+    "value": "ДЛЯ ВИСАДКИ ПОТРІБЕН МЕХ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/objectinfo/children/inner/children/bookmark/caption",
+    "value": "ДОДАТИ ЗАКЛАДКУ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systeminfo/children/inner/children/type/value",
+    "value": "ТИП ЗІРКИ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systeminfo/children/inner/children/name/value",
+    "value": "СИСТЕМА"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systeminfo/children/inner/children/planetList/schema/listTemplate/type/value",
+    "value": "ТИП ПЛАНЕТИ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systeminfo/children/inner/children/view/caption",
+    "value": "НЕ ДОСЛІДЖЕНО"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/name/value",
+    "value": "ЦЕ ПЛАНЕТА"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/description/value",
+    "value": "ОПИС ЦІЄЇ ПЛАНЕТИ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/threatLabel/value",
+    "value": "Загроза: "
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/ores/value",
+    "value": "Геологічний аналіз"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/weather/value",
+    "value": "Погода"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/bookmark/caption",
+    "value": "ДОДАТИ ЗАКЛАДКУ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/disabledLabel/value",
+    "value": "НАВІГАЦІЯ ВИМКНЕНА"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/transitLabel/value",
+    "value": "КОРАБЕЛЬ У ПОЛЬОТІ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/remoteTitle/value",
+    "value": "ВІДДАЛЕНИЙ ПЕРЕГЛЯД СИСТЕМИ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/remoteDescription/value",
+    "value": "НЕВІДОБРАЖЕНІ КОСМІЧНІ ОБ'ЄКТИ НЕДОСТУПНІ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systemName/value",
+    "value": "НАЗВА СИСТЕМИ"
+  },
+  {
+    "op": "replace",
+    "path": "/planetInfoBox/bookmarkButtonCaption/add",
+    "value": "ДОДАТИ ЗАКЛАДКУ"
+  },
+  {
+    "op": "replace",
+    "path": "/planetInfoBox/bookmarkButtonCaption/edit",
+    "value": "РЕДАГУВАТИ ЗАКЛАДКУ"
+  },
+  {
+    "op": "replace",
+    "path": "/planetInfoBox/bookmarkButtonCaption/disabled",
+    "value": "НЕМОЖЛИВО ЗБЕРЕГТИ"
+  },
+  {
+    "op": "replace",
+    "path": "/clusterInfoBox/viewButtonCaption/enabled",
+    "value": "ПЕРЕГЛЯД"
+  },
+  {
+    "op": "replace",
+    "path": "/clusterInfoBox/viewButtonCaption/disabled",
+    "value": "НЕ ДОСЛІДЖЕНО"
+  },
+  {
+    "op": "replace",
+    "path": "/objectInfoBox/bookmarkButtonCaption/add",
+    "value": "ДОДАТИ ЗАКЛАДКУ"
+  },
+  {
+    "op": "replace",
+    "path": "/objectInfoBox/bookmarkButtonCaption/edit",
+    "value": "РЕДАГУВАТИ ЗАКЛАДКУ"
+  },
+  {
+    "op": "replace",
+    "path": "/objectInfoBox/bookmarkButtonCaption/disabled",
+    "value": "НЕМОЖЛИВО ЗБЕРЕГТИ"
+  },
+  {
+    "op": "replace",
+    "path": "/objectInfoBox/bookmarkButtonCaption/unexplored",
+    "value": "НЕ ДОСЛІДЖЕНО"
+  },
+  {
+    "op": "replace",
+    "path": "/systemInfoBox/viewButtonCaption/enabled",
+    "value": "ПЕРЕГЛЯД"
+  },
+  {
+    "op": "replace",
+    "path": "/systemInfoBox/viewButtonCaption/disabled",
+    "value": "НЕ ДОСЛІДЖЕНО"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/garden/0",
+    "value": "^#76fe68;Пишні ^white;передгір'я відзначають це місце посадки. Тут удосталь і флори, і фауни. Місце висадки незмірної безпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/garden/1",
+    "value": "Місце висадки знаходиться в спокійній зоні великого біорізноманіття. Тут є ресурси, які ви могли б використати. ^#76fe68;Пишна ^white;та приємна земля."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/garden/2",
+    "value": "Показники свідчать, що місце висадки непогане - зона безпечна, щедра на флору і фауну. ^#76fe68;Пишне ^white;та гостинне місце."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/forest/0",
+    "value": "Густо колонізоване деревами та іншою флорою, це ^#15ce02;лісове ^white;місце висадки є гостинним і підтримує різноманіття життя - потенційно включаючи ваше власне."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/forest/1",
+    "value": "У цьому ^#15ce02;лісовому ^white;місці рясніють листяні дерева. Зона гостинна для життя, моя база даних вказує на те, що ви можете зустріти лісових істот."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/forest/2",
+    "value": "Ваше місце висадки на цю планету знаходиться в ^#15ce02;лісі^white;. Показники свідчать, що ця лісиста місцевість відносно спокійна."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/desert/0",
+    "value": "Тут обмаль флори, але місце підтримує життя. Також тут дуже багато піску. Простіше кажучи, це ^#e6c801;пустеля^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/desert/1",
+    "value": "^#e6c801;Пустельна^white; місцевість, населена кактусами, а також різноманітним тваринним світом. Відносно безпечне місце висадки, якщо уникати піщаних буревіїв."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/desert/2",
+    "value": "Пісок. Показники вказують на пісок. Також трохи кактусів... але переважно пісок. Зважаючи на наявну інформацію, я припускаю, що місце висадки знаходиться в ^#e6c801;пустелі^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/snow/0",
+    "value": "Це прохолодне місце висадки вкрите ^#69f1fd;снігом^white;. Тут ростуть різні дерева, а також процвітають різноманітні тварини в холодних умовах. Чудове місце для ліплення сніжок."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/snow/1",
+    "value": "Місце висадки холодне, але не смертельно. ^#69f1fd;Сніг^white; вкриває територію, можливі хуртовини. Рекомендується мати капелюх і рукавички."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/snow/2",
+    "value": "Це місце відносно холодне, і ^#69f1fd;сніг^white; густо лежить на землі. Мої сенсори вказують, що крізь м'яку білу ковдру снують тваринки."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/savannah/0",
+    "value": "Місце висадки розташоване в зоні ^#ffe21d;сухих лугів^white;, яка є спекотною та схильною до пилових бур. Вона не є ні особливо приємною, ні особливо небезпечною."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/savannah/1",
+    "value": "Ця зона ^#ffe21d;сухих лугів^white; бідно засаджена деревами. Вона не є надто непривітною - показники свідчать, що тут стрибає заєць."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/savannah/2",
+    "value": "Місце висадки знаходиться в зоні ^#ffe21d;сухих лугів^white;. Дерева та кущі рідко ростуть у спеку. Пилове місце широких, плоских краєвидів."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/ocean/0",
+    "value": "Планета глибоких ^#008aff;океанів^white; і невеликих островів. Мої показники вказують, що водне життя тут рясне, а острівці на поверхні надзвичайно мальовничі."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/ocean/1",
+    "value": "Планета, вкрита ^#008aff;океаном^white;, всіяна островами і кишить життям. Мої показники свідчать про велику активність у глибинах вод."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/ocean/2",
+    "value": "Плаваючі пустельні острови усіяли поверхню цієї ^#008aff;океанічної^white; планети. Середовище тропічної атмосфери та естетики."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/toxic/0",
+    "value": "Ця планета ^#06ff00;токсична^white; - повітря гниле, а океани отруйні. ^red;Радіація перевищує безпечні рівні^white; в тисячі разів."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/toxic/1",
+    "value": "Ця ^red;високорадіоактивна^white; планета - це отруйна пустка, населена опроміненими формами життя. Її люмінесцентна поверхня ^#06ff00;токсична^white;. Непривітне місце призначення."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/toxic/2",
+    "value": "Це ^#06ff00;токсична^white; планета, сповнена ^red;радіації^white;. Шкідливі океани смертельно отруйні... Дозвольте нагадати вам, що доступні й інші пункти призначення."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/jungle/0",
+    "value": "Місце висадки знаходиться в густих ^#12a003;джунглях^white;. Серед пишної флори живе розмаїття дивовижних істот. Шкода через ^red;смертельно високі рівні радіації^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/jungle/1",
+    "value": "^#12a003;Джунглі^white; на місці висадки густо населені різноманітною флорою та фауною. Зона багата на ресурси, але ^red;феноменально висока радіація^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/jungle/2",
+    "value": "^red;Високі рівні радіації^white; роблять цю локацію в ^#12a003;джунглях^white; вкрай ворожим середовищем, а місцева фауна так само непривітна."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/alien/0",
+    "value": "Це дещо ризиковане місце висадки - ^red;рівень радіації надзвичайно високий^white;. Однак, ^#7800ff;мутовану^white; місцевість можна описати як похмуро-химерну."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/alien/1",
+    "value": "Місце висадки характеризується дивною флорою, агресивною фауною та ^red;нудотно високим рівнем радіації^white;. Мешканці цієї зони сильно ^#7800ff;мутовані^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/alien/2",
+    "value": "Місце висадки знаходиться в ^#7800ff;мутованому^white; ландшафті. ^red;Високі рівні радіації^white; створюють шкідливе середовище. Раджу вам уникати плавання."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arctic/0",
+    "value": "^red;Температура в місці висадки небезпечно низька.^white; Ви висадитеся на невеликий острів, оточений ^#00ffe4;крижаним океаном^white;. Настійно раджу вам одягнути шарф."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arctic/1",
+    "value": "Місце висадки ^red;надзвичайно холодне^white;: крихітний острів у ^#00ffe4;крижаному океані^white;. Існує ймовірність 0.025% помилитися з висадкою у воду, швидко піддавшись жахливому холоду."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arctic/2",
+    "value": "Місце з ^red;небезпечно низькими температурами^white;. Тварин тут мало, а рослинності взагалі немає - лише покинуті острови в ^#00ffe4;крижаному океані^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/tundra/0",
+    "value": "^#61ffe3;Замерзле^white; місце, утворене з льоду - вічна мерзлота тут глибока. Снігові бурі є звичним явищем, а ^red;температури небезпечно низькі^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/tundra/1",
+    "value": "Це ^red;небезпечно холодне.^white; місце висадки ^#61ffe3;замерзло^white; в камінь. Висока ймовірність випадкової кріоконсервації. Захистіть себе від холоду."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/tundra/2",
+    "value": "^red;Температура на місці висадки небезпечно низька^white;. Зона ^#61ffe3;замерзла^white; і населена лише флорою та фауною, які надзвичайно стійкі до холоду. "
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/volcanic/0",
+    "value": "^#e11212;Вулканічне^white; місце висадки ^red;катастрофічно гаряче^white;. За бажанням я можу розрахувати вашу ймовірність негайного спалаху під час висадки..."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/volcanic/1",
+    "value": "^#e11212;Вулканічна^white; активність руйнує цю планету, а місце висадки знаходиться в зоні особливої жорстокості. ^red;Температура набагато перевищує нормально виживані рівні^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/volcanic/2",
+    "value": "Місце висадки розташоване у ^#e11212;вулканічній^white; місцевості та є ^red;вишукано гарячим^white;. Ваша цікавість до цього місця безумовно свідчить про вашу безстрашну завзятість."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/midnight/0",
+    "value": "Це ^#e11212;темний^white; світ, де сонце ніколи не сходить. Поверхня ^red;небезпечно холодна^white;. Вам слід підготуватися як морально, так і фізично, перш ніж приземлитися сюди."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/midnight/1",
+    "value": "Цей ^#e11212;темний^white; світ ^red;небезпечно холодний^white;. Дивні тіньові постаті мешкають тут, сховані в безперервній ночі."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/midnight/2",
+    "value": "Сканування показує, що поверхня ^#e11212;темна^white;. Насправді, сканування показує мало іншого через усю цю темряву. Однак, я припускаю, що поверхня ^red;небезпечно холодна^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/scorchedcity/0",
+    "value": "Місце посадки — це ^#b24301;випалена^white; пустка. Атмосферна ^red;температура небезпечно висока^white;. Вражаюче сміливо з вашого боку розглядати цей пункт призначення."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/scorchedcity/1",
+    "value": "Місце висадки ^#b24301;випалене^white; та безлюдне. Мало хто здатен вижити тут, оскільки ^red;температура смертельно висока^white;. Люди живуть у цьому районі, але я не можу збагнути чому."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/scorchedcity/2",
+    "value": "Місце посадки ^#b24301;випалене^white; через ^red;інтенсивну спеку поверхні планети^white;. Лише кілька витривалих осіб залишилися, можливо, просто за звичкою."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/magma/0",
+    "value": "Ця ^red;небезпечно гаряча^white; планета в основному складається з ^#ff1818;магми^white;. Пам'ятайте, ваш стійкий дух вартий захоплення, але він не вогнетривкий."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/magma/1",
+    "value": "Поверхня планети ^red;небезпечно гаряча^white;. Мало істот животіють серед величезних океанів ^#ff1818;магми^white; планети."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/magma/2",
+    "value": "Місце висадки — це крихітний острів, ізольований у морі ^#ff1818;магми^white;. Те, що ви розглядаєте можливість відвідування цієї ^red;пекуче гарячої^white; планети, багато говорить про вашу стійкість."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/moon/0",
+    "value": "Самотній ^#949493;місяць^white; з ^red;непридатною для дихання атмосферою^white;; небо відкрите до зірок, паливо знаходиться під землею. Ймовірність відчуття самотності та безвиході: 92%."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/moon/1",
+    "value": "Цей ^#949493;місяць^white; не підтримує життя і має ^red;відсутню атмосферу^white;. Однак палива тут вдосталь - сканування показують, що його багато закопано під поверхнею. "
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/moon/2",
+    "value": "Цей порожній ^#949493;місяць^white; має ^red;непридатну для дихання атмосферу^white;, але під землею є печери, що містять величезні поклади палива. Підсумовуючи: корисно, але не привабливо."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/asteroids/0",
+    "value": "Голе скупчення ^#d7711e;астероїдів^white;. Дані вказують, що ^red;тут немає атмосфери^white; або життя. Просто нескінченна порожнеча з великою кількістю місця для будівництва."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/asteroids/1",
+    "value": "Мертва смуга ^#d7711e;астероїдів^white; ^red;без атмосфери^white;: дрейфують у космосі, прив'язані до далекої зірки... Гарне місце для будівництва будинку."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/asteroids/2",
+    "value": "Група ^#d7711e;астероїдів^white;, що дрейфують еліптичною орбітою. Дані вказують, що ^red;тут немає атмосфери^white;. Або будь-чого іншого..."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/barren/0",
+    "value": "Це місце ^#999966;пустельне^white; та безжиттєве. Дані показують, що тут нічого немає. Порожнє, порожнє місце."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/barren/1",
+    "value": "Ця планета ^#999966;пустельна^white;, не підтримує жодного життя. Тут взагалі нічого немає..."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/barren/2",
+    "value": "Дані вказують, що місце посадки має незвичайний відтінок. Також, що це ^#999966;пустельне^white; місце і воно було б придатним для будівництва."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/ancientgateway/0",
+    "value": "^#571cff;Стародавня Брама^white; невідомого походження; споруда великої сили та таємничості."
+  },
+  {
+    "op": "replace",
+    "path": "/terraformedPlanetDescription/0",
+    "value": "Ця планета була змінена до невпізнання масштабним тераформуванням."
+  },
+  {
+    "op": "replace",
+    "path": "/terraformedPlanetDescription/1",
+    "value": "Тераформування зробило цю планету безпечною для проживання, хоча її вигляд неприродний."
+  },
+  {
+    "op": "replace",
+    "path": "/terraformedPlanetDescription/2",
+    "value": "Клімат та екосистеми цієї планети були кардинально змінені тераформуванням."
+  },
+  {
+    "op": "replace",
+    "path": "/worldTypeDescription/GasGiant/0",
+    "value": "Гігантська куля газів, що перемішуються між собою. Тут просто немає на що приземлитися."
+  },
+  {
+    "op": "replace",
+    "path": "/worldTypeDescription/GasGiant/1",
+    "value": "Газовий гігант. Ця планета не має твердої речовини, лише скупчення вируючих газів."
+  },
+  {
+    "op": "replace",
+    "path": "/worldTypeDescription/GasGiant/2",
+    "value": "Приземлитися неможливо. Нищівний тиск і розривні вітри цього газового гіганта вб'ють вас миттєво."
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/0",
+    "value": "Низький"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/1",
+    "value": "Помірний"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/2",
+    "value": "Ризикований"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/3",
+    "value": "Небезпечний"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/4",
+    "value": "Екстремальний"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/5",
+    "value": "Неймовірний"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default/6",
+    "value": "Нереальний"
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/moon/0",
+    "value": "Невідомий"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/copper/displayName",
+    "value": "Мідь"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/silver/displayName",
+    "value": "Срібло"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/gold/displayName",
+    "value": "Золото"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/iron/displayName",
+    "value": "Залізо"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/tungsten/displayName",
+    "value": "Вольфрам"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/titanium/displayName",
+    "value": "Титан"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/durasteel/displayName",
+    "value": "Дюрасталь"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/ferozium/displayName",
+    "value": "Ферозій"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/aegisalt/displayName",
+    "value": "Егізальт"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/violium/displayName",
+    "value": "Віолій"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/solarium/displayName",
+    "value": "Солярій"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/erchius/displayName",
+    "value": "Кристалічне ерхієве паливо"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/rain/displayName",
+    "value": "Дощ"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/drizzle/displayName",
+    "value": "Мряка"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/storm/displayName",
+    "value": "Шторми"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/ember/displayName",
+    "value": "Зольні зливи"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/snow/displayName",
+    "value": "Сніг"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/fog/displayName",
+    "value": "Туман"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/ash/displayName",
+    "value": "Падопіл"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/lightash/displayName",
+    "value": "Легкий падопіл"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/meteorshower/displayName",
+    "value": "Дрібні метеорити"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/largemeteor/displayName",
+    "value": "Великі метеорити"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/glowingrain/displayName",
+    "value": "Світний дощ"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/crystalrain/displayName",
+    "value": "Кристалічний дощ"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/hailstones/displayName",
+    "value": "Град"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/groundmist/displayName",
+    "value": "Серпанок"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/windstorm/displayName",
+    "value": "Бурі"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/spacejunk/displayName",
+    "value": "Орбітальне сміття"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/spacedustshower/displayName",
+    "value": "Зоряний пил"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/snowstorm/displayName",
+    "value": "Заметілі"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/sandstorm/displayName",
+    "value": "Піщані бурі"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/duststorm/displayName",
+    "value": "Пилові бурі"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/icestorm/displayName",
+    "value": "Крижані бурі"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/acidrain/displayName",
+    "value": "Кислотний дощ"
+  },
+  {
+    "op": "replace",
+    "path": "/clusterMoons/none",
+    "value": "Немає орбітальних тіл"
+  },
+  {
+    "op": "replace",
+    "path": "/clusterMoons/singular",
+    "value": "Одне орбітальне тіло"
+  },
+  {
+    "op": "replace",
+    "path": "/clusterMoons/plural",
+    "value": "%s орбітальних тіл"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/garden",
+    "value": "Буйна"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/forest",
+    "value": "Лісова"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/desert",
+    "value": "Пустельна"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/snow",
+    "value": "Снігова"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/savannah",
+    "value": "Саванна"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/ocean",
+    "value": "Океанічна"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/toxic",
+    "value": "Токсична"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/jungle",
+    "value": "Джунглі"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/alien",
+    "value": "Інопланетна"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arctic",
+    "value": "Арктична"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/tundra",
+    "value": "Тундра"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/volcanic",
+    "value": "Вулканічна"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/midnight",
+    "value": "Опівнічна"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/scorchedcity",
+    "value": "Випалена"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/magma",
+    "value": "Лавова"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/moon",
+    "value": "Місячна"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/asteroids",
+    "value": "Астероїдна"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/barren",
+    "value": "Пустельна"
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/ancientgateway",
+    "value": "Брама"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/default",
+    "value": "Таємнича зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/whitestar",
+    "value": "Лагідна зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/orangestar",
+    "value": "Помірна зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/yellowstar",
+    "value": "Радіоактивна зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/bluestar",
+    "value": "Заморожена зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/redstar",
+    "value": "Вогняна зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/bookmarks/newTitle",
+    "value": "НОВА ЗАКЛАДКА"
+  },
+  {
+    "op": "replace",
+    "path": "/bookmarks/editTitle",
+    "value": "РЕДАГУВАТИ ЗАКЛАДКУ"
+  },
+  {
+    "op": "replace",
+    "path": "/jumpDialog/valid",
+    "value": "Надсвітлова подорож споживатиме ^green;%i палива^reset;.\nПідтвердьте, щоб продовжити."
+  },
+  {
+    "op": "replace",
+    "path": "/jumpDialog/invalid",
+    "value": "Надсвітлова подорож вимагає ^red;%i палива^reset;.\n Недостатньо палива для продовження."
+  },
+  {
+    "op": "replace",
+    "path": "/topLeftButtonTooltips/showBookmarkList",
+    "value": "Закладки"
+  },
+  {
+    "op": "replace",
+    "path": "/topLeftButtonTooltips/goToShip",
+    "value": "Переглянути корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/topLeftButtonTooltips/goToQuest",
+    "value": "Переглянути місце квесту"
+  },
+  {
+    "op": "replace",
+    "path": "/topLeftButtonTooltips/showCoordinates",
+    "value": "Координати"
+  },
+  {
+    "op": "replace",
+    "path": "/threatTextPrefix",
+    "value": "^white;Загроза: ^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/unavailable",
+    "value": "ПОТРЕБУЄ МЕХА ДЛЯ ВИСАДКИ"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/available/0",
+    "value": "Немає"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/available/1",
+    "value": "Низький"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/available/2",
+    "value": "Помірний"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/available/3",
+    "value": "Небезпечний"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/available/4",
+    "value": "Екстремальний"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/friendly",
+    "value": "Немає"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTooltip/exploredLabel/explored",
+    "value": "ВІДВІДАНО"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTooltip/exploredLabel/unexplored",
+    "value": "НЕ ДОСЛІДЖЕНО"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTooltipConfig/type/hAnchor",
+    "value": "left"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTooltipConfig/type/value",
+    "value": "Лагідна зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTooltipConfig/explored/hAnchor",
+    "value": "right"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTooltipConfig/explored/value",
+    "value": "НЕ ДОСЛІДЖЕНО"
+  }
+]

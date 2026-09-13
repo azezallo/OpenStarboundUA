@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рюкзак достатньо великий, щоб зберігати все необхідне для подорожей."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Туристичний рюкзак"
+  }
+]

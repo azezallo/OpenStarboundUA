@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Каналізаційна труба"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A sewer pipe used for transporting waste."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Disgusted. This pipe is filthy, I would hate to see what is inside it."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смердюча каналізаційна труба."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Filthy, dirty lookin' sewer pipes."
+  }
+]

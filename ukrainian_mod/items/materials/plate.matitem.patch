@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нагадує внутрішню частину медичного центру."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Блок з гладким покриттям"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Заінтригований. Ці металеві пластини були ретельно зачищені."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Гладка блискуча металева пластина."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Кілька гладких настінних тарілок."
+  }
+]

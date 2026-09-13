@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Різні фрукти зручно змішати разом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фруктовий салат"
+  }
+]

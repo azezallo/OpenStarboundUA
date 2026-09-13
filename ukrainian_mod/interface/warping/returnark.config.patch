@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/destinations/0/name",
+    "value": "До Ковчега"
+  },
+  {
+    "op": "replace",
+    "path": "/destinations/0/planetName",
+    "value": "До руїн Ковчега"
+  }
+]

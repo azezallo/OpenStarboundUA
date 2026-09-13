@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Глина, варена в повну цеглу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Обпалена глина"
+  }
+]

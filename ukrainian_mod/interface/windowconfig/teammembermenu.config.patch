@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/removeSelfText",
+    "value": "Покинути"
+  },
+  {
+    "op": "replace",
+    "path": "/removeOtherText",
+    "value": "Прибрати"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/beamToShip/caption",
+    "value": "Телепорт на корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/makeLeader/caption",
+    "value": "Дати лідера"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/removeFromTeam/caption",
+    "value": "Прибрати"
+  }
+]

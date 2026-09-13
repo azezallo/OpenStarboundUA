@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Полиця запакована всілякими товарами Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Полиця магазину Hylotl"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тут представлено багато смачних страв."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "О, дещо з цієї їжі виглядає досить цікаво."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Га... Де м'ясо?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Деякі з цих продуктів виглядають так, ніби вони можуть бути смачними."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Деякі страви Hylotl виглядають так, ніби вони можуть бути дуже хорошими!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ммм, вони продають деякі з моїх дуже улюблених страв."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тут ціла купа дивних продуктів."
+  }
+]

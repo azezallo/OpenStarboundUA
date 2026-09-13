@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Надзвичайно зручне крісло-хвиля."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стілець Wave"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дуже зручне крісло, сидіти приємно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дуже пристойне місце для сидіння."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран сидить на стільці і думає про полювання."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розслаблений. Цей вигнутий стілець надзвичайно зручний для Глітча."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Крісло дуже дивної форми. Хоча це дуже зручно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Майже розкіш, до якої звик Hylotl. Тут можна отримати масу задоволення."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я можу відпочити в цьому кріслі."
+  }
+]

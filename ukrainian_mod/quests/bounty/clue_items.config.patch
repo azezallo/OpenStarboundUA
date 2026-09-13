@@ -1,0 +1,1017 @@
+[
+  {
+    "value": "...Ти записуєш це? Добре. <bounty.name> каже, що у нас зміна плану...",
+    "path": "/audiodisc/diversion/0/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Замість цього ми прямуємо на <next.coordinate.name>! Ти зрозумів?",
+    "path": "/audiodisc/diversion/0/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Оце так чудова зачіпка! Думаю, тобі треба чимшвидше вирушати на <next.coordinate.name>!",
+    "path": "/audiodisc/diversion/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "...Ти опинився ДЕ? Ні, ти не отримав повідомлення? Ми більше не повинні БУТИ там!",
+    "path": "/audiodisc/diversion/1/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Зустрінь мене на <next.coordinate.name> натомість. У нас на хвості Миротворці!",
+    "path": "/audiodisc/diversion/1/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, вони на півкроку попереду нас - але здається, ми зможемо зловити їх на <next.coordinate.name>!",
+    "path": "/audiodisc/diversion/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І через це <bounty.name> натомість прямує на <next.coordinate.name>, гаразд?",
+    "path": "/audiodisc/diversion/2/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...І не залишай випадково запис цієї розмови знову!",
+    "path": "/audiodisc/diversion/2/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нам просто пощастило, що злочинці не такі вже й розумні, га? Краще б тобі вирушити на <next.coordinate.name>.",
+    "path": "/audiodisc/diversion/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І мені іноді буває самотньо, розумієш? Я виявив, що запис власних розмов покращує моє самопочуття.",
+    "path": "/audiodisc/diversion/3/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Але годі про це, мені потрібно зустрітися з <bounty.name> на <next.coordinate.name>.",
+    "path": "/audiodisc/diversion/3/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "...Ну, гадаю, це досить хороша зачіпка. Схоже, <next.coordinate.name> - твоє наступне місце призначення, напарнику!",
+    "path": "/audiodisc/diversion/3/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І <bounty.name> справді не повірив мені, коли я пояснив непорозуміння з Міннауком...",
+    "path": "/audiodisc/diversion/4/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...Ось чому я спізнююся! Я зустрінуся з тобою на <next.coordinate.name>...",
+    "path": "/audiodisc/diversion/4/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Оце так підказка! Гадаю, далі тобі краще вирушати на <next.coordinate.name>!",
+    "path": "/audiodisc/diversion/4/message",
+    "op": "replace"
+  },
+  {
+    "value": "...Хіба ти не чув? За нами стежать. Ми повинні скинути Миротворців зі сліду...",
+    "path": "/audiodisc/diversion/5/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...Натомість достав товар на <next.coordinate.name>...",
+    "path": "/audiodisc/diversion/5/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вони спритні, але не настільки, щоб збити нас зі сліду! Вперед на <next.coordinate.name>!",
+    "path": "/audiodisc/diversion/5/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І саме тоді я знайшов цей порожній компакт-диск, тому подумав, що запишу свій голос і подивлюся, як я звучу...",
+    "path": "/audiodisc/diversion/6/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...Мій голос звучить дуже дивно! Менше з тим, я зараз доставлю товар на <next.coordinate.name>...",
+    "path": "/audiodisc/diversion/6/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ці негідники не дуже розумні, чи не так? Краще вирушай на <next.coordinate.name>, напарнику!",
+    "path": "/audiodisc/diversion/6/message",
+    "op": "replace"
+  },
+  {
+    "value": "...Ти записуєш це? Добре. <bounty.name> каже, що у нас зміна плану...",
+    "path": "/audiodisc/planetClue/0/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Замість цього ми прямуємо на <next.coordinate.name>! Ти зрозумів?",
+    "path": "/audiodisc/planetClue/0/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Оце так чудова зачіпка! Думаю, тобі треба чимшвидше вирушати на <next.coordinate.name>!",
+    "path": "/audiodisc/planetClue/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "...Ти опинився ДЕ? Ні, ти не отримав повідомлення? Ми більше не повинні БУТИ там!",
+    "path": "/audiodisc/planetClue/1/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Зустрінь мене на <next.coordinate.name> натомість. У нас на хвості Миротворці!",
+    "path": "/audiodisc/planetClue/1/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вони мають рацію - ми точно на їхньому хвості! Схоже, ми зможемо зловити їх на <next.coordinate.name>!",
+    "path": "/audiodisc/planetClue/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І через це <bounty.name> натомість прямує на <next.coordinate.name>, гаразд?",
+    "path": "/audiodisc/planetClue/2/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...І не залишай випадково запис цієї розмови знову!",
+    "path": "/audiodisc/planetClue/2/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нам просто пощастило, що злочинці не такі вже й розумні, га? Краще б тобі вирушити на <next.coordinate.name>.",
+    "path": "/audiodisc/planetClue/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І мені іноді буває самотньо, розумієш? Я виявив, що запис власних розмов покращує моє самопочуття.",
+    "path": "/audiodisc/planetClue/3/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Але годі про це, мені потрібно зустрітися з <bounty.name> на <next.coordinate.name>.",
+    "path": "/audiodisc/planetClue/3/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "...Я й не думав, що люди досі користуються компакт-дисками! Схоже, <next.coordinate.name> - твоє наступне місце призначення, напарнику!",
+    "path": "/audiodisc/planetClue/3/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І <bounty.name> справді не повірив мені, коли я пояснив непорозуміння з Міннауком...",
+    "path": "/audiodisc/planetClue/4/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...Ось чому я спізнююся! Я зустрінуся з тобою на <next.coordinate.name>...",
+    "path": "/audiodisc/planetClue/4/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Оце так підказка! Гадаю, далі тобі краще вирушати на <next.coordinate.name>!",
+    "path": "/audiodisc/planetClue/4/message",
+    "op": "replace"
+  },
+  {
+    "value": "...Хіба ти не чув? За нами стежать. Ми повинні скинути Миротворців зі сліду...",
+    "path": "/audiodisc/planetClue/5/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...Натомість достав товар на <next.coordinate.name>...",
+    "path": "/audiodisc/planetClue/5/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вони спритні, але не настільки, щоб збити нас зі сліду! Вперед на <next.coordinate.name>!",
+    "path": "/audiodisc/planetClue/5/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І саме тоді я знайшов цей порожній компакт-диск, тому подумав, що запишу свій голос і подивлюся, як я звучу...",
+    "path": "/audiodisc/planetClue/6/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...Мій голос звучить дуже дивно! Менше з тим, я зараз доставлю товар на <next.coordinate.name>...",
+    "path": "/audiodisc/planetClue/6/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Не думаю, що в цій справі ми маємо справу з розумними хлопцями. Краще вирушай на <next.coordinate.name>!",
+    "path": "/audiodisc/planetClue/6/message",
+    "op": "replace"
+  },
+  {
+    "value": "...Ти записуєш це? Добре. <bounty.name> каже, що у нас зміна плану...",
+    "path": "/audiodisc/planetBounty/0/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Замість цього ми прямуємо на <next.coordinate.name>! Ти зрозумів?",
+    "path": "/audiodisc/planetBounty/0/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Оце так чудова зачіпка! Думаю, тобі треба чимшвидше вирушати на <next.coordinate.name>!",
+    "path": "/audiodisc/planetBounty/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "...ДЕ ж ти? Ні, ти не отримав повідомлення? Ми там більше не повинні БУТИ!",
+    "path": "/audiodisc/planetBounty/1/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "У нас на хвості Миротворці! Замість цього зустрінемося на <next.coordinate.name>.",
+    "path": "/audiodisc/planetBounty/1/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, вони на півкроку попереду нас - але, схоже, ми можемо спіймати їх на <next.coordinate.name>!",
+    "path": "/audiodisc/planetBounty/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І через це, <bounty.name> замість цього попрямує на <next.coordinate.name>, добре?",
+    "path": "/audiodisc/planetBounty/2/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...І не залишай запис цієї розмови знову!",
+    "path": "/audiodisc/planetBounty/2/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нам пощастило, що злочинці не такі розумні, га? Тобі краще відправитися на <next.coordinate.name>.",
+    "path": "/audiodisc/planetBounty/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І я боюся своїх почуттів - що, якщо <bounty.name> не ставиться до мене так само? Я просто лакей, зрештою...",
+    "path": "/audiodisc/planetBounty/3/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Можливо, я повинен зізнатися у своїх почуттях на <next.coordinate.name>.",
+    "path": "/audiodisc/planetBounty/3/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "...Ну, гадаю, ми маємо зачіпку. Схоже, твоє наступне місце призначення - <next.coordinate.name>!",
+    "path": "/audiodisc/planetBounty/3/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І <bounty.name> дійсно не повірив, що поптоп з'їв усі мої документи...",
+    "path": "/audiodisc/planetBounty/4/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...І ось чому я спізнююся! Я зустрінуся з тобою на <next.coordinate.name>...",
+    "path": "/audiodisc/planetBounty/4/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Це дуже схоже на підказку! Гадаю, далі тобі краще відправитися на <next.coordinate.name>!",
+    "path": "/audiodisc/planetBounty/4/message",
+    "op": "replace"
+  },
+  {
+    "value": "...Хіба ти не чув? За нами стежать. Ми повинні скинути Миротворців з хвоста...",
+    "path": "/audiodisc/planetBounty/5/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...Замість цього перенеси товар на <next.coordinate.name>...",
+    "path": "/audiodisc/planetBounty/5/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вони спритні, але не настільки, щоб збити нас зі сліду! Вирушай на <next.coordinate.name>!",
+    "path": "/audiodisc/planetBounty/5/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І ось тоді я знайшов цей чистий диск, тож вирішив записати свій голос і подивитися, що вийшло...",
+    "path": "/audiodisc/planetBounty/6/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...Мій голос звучить дуже дивно! У будь-якому разі, зараз я доставлю товар на <next.coordinate.name>...",
+    "path": "/audiodisc/planetBounty/6/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я не думаю, що ми маємо справу з розумними злочинцями. Краще вирушай на <next.coordinate.name>!",
+    "path": "/audiodisc/planetBounty/6/message",
+    "op": "replace"
+  },
+  {
+    "value": "...Ти записуєш це? Добре. <bounty.name> каже, що у нас зміна плану...",
+    "path": "/audiodisc/spaceBounty/0/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зрозумів? Замість цього ми відправимося на <next.coordinate.name>!",
+    "path": "/audiodisc/spaceBounty/0/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Це гарна зачіпка! Думаю, тобі потрібно поквапитися на <next.coordinate.name>!",
+    "path": "/audiodisc/spaceBounty/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "...ДЕ ж ти? Ні, ти не отримав повідомлення? Ми там більше не повинні БУТИ!",
+    "path": "/audiodisc/spaceBounty/1/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "У нас на хвості Миротворці! Замість цього зустрінемося на <next.coordinate.name>.",
+    "path": "/audiodisc/spaceBounty/1/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, вони на півкроку попереду нас - але, схоже, ми можемо спіймати їх на <next.coordinate.name>!",
+    "path": "/audiodisc/spaceBounty/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І оскільки запах не зникне, замість цього <bounty.name> попрямує на <next.coordinate.name>!",
+    "path": "/audiodisc/spaceBounty/2/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...І не залишай запис цієї розмови знову!",
+    "path": "/audiodisc/spaceBounty/2/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нам пощастило, що злочинці не такі розумні, га? Тобі краще відправитися на <next.coordinate.name>.",
+    "path": "/audiodisc/spaceBounty/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І мені іноді буває самотньо, розумієш? Я вважаю, що запис розмови змушує мене почуватися краще.",
+    "path": "/audiodisc/spaceBounty/3/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Але цього достатньо, мене має зустріти <bounty.name> на <next.coordinate.name>.",
+    "path": "/audiodisc/spaceBounty/3/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "...Ну, гадаю, це достатньо гарна зачіпка. Схоже, твоє наступне місце призначення - <next.coordinate.name>!",
+    "path": "/audiodisc/spaceBounty/3/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І <bounty.name> не був задоволений нестачею кави, тому мені довелося піти і купити трохи...",
+    "path": "/audiodisc/spaceBounty/4/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...І ось чому я спізнююся! Я зустрінуся з тобою на <next.coordinate.name>...",
+    "path": "/audiodisc/spaceBounty/4/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Це дуже схоже на підказку! Гадаю, далі тобі краще відправитися на <next.coordinate.name>!",
+    "path": "/audiodisc/spaceBounty/4/message",
+    "op": "replace"
+  },
+  {
+    "value": "...Хіба ти не чув? За нами стежать. Ми повинні скинути Миротворців з хвоста...",
+    "path": "/audiodisc/spaceBounty/5/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...Замість цього перенеси товар на <next.coordinate.name>...",
+    "path": "/audiodisc/spaceBounty/5/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вони спритні, але не настільки, щоб збити нас зі сліду! Вирушай на <next.coordinate.name>!",
+    "path": "/audiodisc/spaceBounty/5/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І ось тоді я знайшов цей чистий диск, тож вирішив записати свій голос і подивитися, що вийшло...",
+    "path": "/audiodisc/spaceBounty/6/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...Ось так звучить мій голос? Він... досить дивний! У будь-якому разі, зараз я доставлю товар на <next.coordinate.name>...",
+    "path": "/audiodisc/spaceBounty/6/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я не думаю, що ми маємо справу з розумними злочинцями. Краще вирушай на <next.coordinate.name>!",
+    "path": "/audiodisc/spaceBounty/6/message",
+    "op": "replace"
+  },
+  {
+    "value": "...Ти записуєш це? Добре. <bounty.name> каже, що у нас зміна плану...",
+    "path": "/audiodisc/scan/0/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зрозумів? Замість цього ми відправимося на <next.coordinate.name>!",
+    "path": "/audiodisc/scan/0/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Це гарна зачіпка! Думаю, тобі потрібно поквапитися на <next.coordinate.name>!",
+    "path": "/audiodisc/scan/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "...ДЕ ж ти? Ні, ти не отримав повідомлення? Ми там більше не повинні БУТИ!",
+    "path": "/audiodisc/scan/1/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "У нас на хвості Миротворці! Замість цього зустрінемося на <next.coordinate.name>.",
+    "path": "/audiodisc/scan/1/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, вони на півкроку попереду нас - але, схоже, ми можемо спіймати їх на <next.coordinate.name>!",
+    "path": "/audiodisc/scan/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І через це, <bounty.name> замість цього попрямує на <next.coordinate.name>, добре?",
+    "path": "/audiodisc/scan/2/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...І не залишай запис цієї розмови знову!",
+    "path": "/audiodisc/scan/2/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нам пощастило, що злочинці не такі розумні, га? Тобі краще відправитися на <next.coordinate.name>.",
+    "path": "/audiodisc/scan/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І мені іноді буває самотньо, розумієш? Я вважаю, що запис розмови змушує мене почуватися краще.",
+    "path": "/audiodisc/scan/3/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Але цього достатньо, мене має зустріти <bounty.name> на <next.coordinate.name>.",
+    "path": "/audiodisc/scan/3/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "...Ну, гадаю, це достатньо гарна зачіпка. Схоже, твоє наступне місце призначення - <next.coordinate.name>!",
+    "path": "/audiodisc/scan/3/message",
+    "op": "replace"
+  },
+  {
+    "value": "...<bounty.name> дав мені кілька справ...",
+    "path": "/audiodisc/scan/4/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...Тому мені довелося змінити плани! Я зустрінуся з тобою на <next.coordinate.name>...",
+    "path": "/audiodisc/scan/4/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Принаймні, ці злочинці все ще хочуть виконувати свої обов'язки! Гадаю, далі тобі краще відправитися на <next.coordinate.name>!",
+    "path": "/audiodisc/scan/4/message",
+    "op": "replace"
+  },
+  {
+    "value": "...Хіба ти не чув? За нами стежать. Ми повинні скинути Миротворців з хвоста...",
+    "path": "/audiodisc/scan/5/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...Замість цього перенеси товар на <next.coordinate.name>...",
+    "path": "/audiodisc/scan/5/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Їхній план міг би спрацювати, якби вони не залишили слід! Вирушай на <next.coordinate.name>!",
+    "path": "/audiodisc/scan/5/message",
+    "op": "replace"
+  },
+  {
+    "value": "...І ось тоді я знайшов цей чистий диск, тож вирішив записати свій голос і подивитися, що вийшло...",
+    "path": "/audiodisc/scan/6/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "...І виявляється, в моїй голові він звучить крутіше... У будь-якому разі, зараз я доставлю товар на <next.coordinate.name>.",
+    "path": "/audiodisc/scan/6/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я не думаю, що ми маємо справу з розумними злочинцями. Краще вирушай на <next.coordinate.name>!",
+    "path": "/audiodisc/scan/6/message",
+    "op": "replace"
+  },
+  {
+    "value": "Я сподіваюся, ти знайдеш це, Миротворець! Це <bounty.name>. Вгадай що?",
+    "path": "/audiodisc/decoy/0/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Це був Я, з ким ти говорив раніше! Це хитрість! Я обдурив тебе!",
+    "path": "/audiodisc/decoy/0/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дідько, даремно ми поїхали! Думаю, тобі потрібно терміново повернутися до попередньої локації!",
+    "path": "/audiodisc/decoy/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "Це я, <bounty.name>! У мене є повідомлення для тебе, Миротворець...",
+    "path": "/audiodisc/decoy/1/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я обдурив тебе! Корисний громадянин, якого ти зустрів раніше, це був я! Твій час був дійсно витрачений даремно!",
+    "path": "/audiodisc/decoy/1/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ці злочинці - майстри маскування... Думаю, тобі слід повернутися на колишнє місце і знайти цього ошуканця, партнере!",
+    "path": "/audiodisc/decoy/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "Гей, Миротворець! Це <bounty.name> - корисний громадянин, якого ти зустрів раніше, був насправді мною! Ха!",
+    "path": "/audiodisc/decoy/2/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти потрапив у мою мережу хитрощів! Обманна мандрівка! Подорож з обманом!",
+    "path": "/audiodisc/decoy/2/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дідько, нас обдурили! Думаю, тобі потрібно терміново повернутися до попередньої локації!",
+    "path": "/audiodisc/decoy/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "Ти впізнаєш мій голос, Миротворець? Корисний громадянин, якого ти зустрів раніше, це був я, <bounty.name>!",
+    "path": "/audiodisc/decoy/3/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ніколи не забувай той день, коли тебе пошили в дурні!",
+    "path": "/audiodisc/decoy/3/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Яка марна трата часу Миротворця! Тобі краще повернутися в колишнє місце і дати урок цьому ошуканцю!",
+    "path": "/audiodisc/decoy/3/message",
+    "op": "replace"
+  },
+  {
+    "value": "Я сподіваюся, ти знайдеш це, Миротворець! Це <bounty.name>. Вгадай що?",
+    "path": "/audiodisc/decoy/4/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Це був Я, з ким ти говорив раніше! Це хитрість! Я обдурив ТЕБЕ!",
+    "path": "/audiodisc/decoy/4/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Прокляття - нас обдурили! Думаю, тобі потрібно терміново повернутися до попередньої локації!",
+    "path": "/audiodisc/decoy/4/message",
+    "op": "replace"
+  },
+  {
+    "value": "Вітаю! Це я, <bounty.name>! У мене є повідомлення для тебе, Миротворець...",
+    "path": "/audiodisc/decoy/5/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я обдурив тебе! Корисний громадянин, якого ти зустрів раніше, це був я! Б'юся об заклад, тобі зараз ніяково?!",
+    "path": "/audiodisc/decoy/5/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чому він каже нам, де він? Просто щоб похвалитися? Ти повинен повернутися на колишнє місце і знайти цього ошуканця, партнере!",
+    "path": "/audiodisc/decoy/5/message",
+    "op": "replace"
+  },
+  {
+    "value": "Гей, Миротворець! Це <bounty.name> - ти пам'ятаєш корисного громадянина, якого ти зустрів раніше?",
+    "path": "/audiodisc/decoy/6/parameters/radioMessages/0",
+    "op": "replace"
+  },
+  {
+    "value": "ЦЕ БУВ Я! ВВЕСЬ ЧАС Я, МИРОТВОРЕЦЬ!",
+    "path": "/audiodisc/decoy/6/parameters/radioMessages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ох, чортяка! Думаю, тобі потрібно терміново повернутися до попередньої локації!",
+    "path": "/audiodisc/decoy/6/message",
+    "op": "replace"
+  },
+  {
+    "value": "\n\nПривіт, Миротворець,\n\nІз жалем повідомляю тобі, що я, ^green;Капітан Ігнобл^reset;, більше не проживаю в цьому конкретному місці.\n\nЗнайди мене, якщо зможеш!\n\nЯ розбив табір десь на <next.coordinate.name>.",
+    "path": "/papernote/tutorial/0/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Лакей,\n\nТовар тепер на <next.coordinate.name>.\nПереконайся, що за тобою не стежать.\n\nЗ повагою,\n<bounty.name>",
+    "path": "/papernote/diversion/0/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Завжди йди по паперовому сліду, партнере! Схоже, твоя наступна зупинка в цій справі - <next.coordinate.name>.",
+    "path": "/papernote/diversion/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "Список справ для бандита <bounty.name>\n\nª Купити молоко\n\nª Зібрати податки\n\nª Відполірувати чоботи\n\nª Вирушити на <next.coordinate.name>",
+    "path": "/papernote/diversion/1/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ці злочинці дуже організовані для їхнього ж блага! Тобі слід вирушити на <next.coordinate.name>!",
+    "path": "/papernote/diversion/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "Дорогий <bounty.name>,\n\nВибач, що я забув принести твій товар раніше.\nБудь ласка, не гнівайся.\nЯ зустрінуся з тобою на <next.coordinate.name>.\n\n±",
+    "path": "/papernote/diversion/2/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Конфлікт всередині команди завжди її руйнує - нехай це буде їм уроком, партнере! Тобі слід вирушити на <next.coordinate.name>.",
+    "path": "/papernote/diversion/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "Дорогий щоденник,\n\nСьогодні я допоміг бандиту <bounty.name>, взявши здобич на <next.coordinate.name>.\nЯ натякнув йому, як я старанно працював, але він, здається, цього не помітив.\nШвидше за все, я повинен сховати цю сторінку, щоб її ніхто не знайшов.",
+    "path": "/papernote/diversion/3/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо ти збираєшся розпоряджатися письмовими доказами, то тобі краще працювати, ніж ховати їх! Тобі слід вирушити на <next.coordinate.name>.",
+    "path": "/papernote/diversion/3/message",
+    "op": "replace"
+  },
+  {
+    "value": "Лакей,\n\nТовар тепер на <next.coordinate.name>.\nПереконайся, що за тобою не стежать.\n\nЗ повагою,\n<bounty.name>",
+    "path": "/papernote/planetClue/0/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Завжди йди по паперовому сліду, партнере! Схоже, твоя наступна зупинка в цій справі - <next.coordinate.name>.",
+    "path": "/papernote/planetClue/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "Список справ для бандита <bounty.name>\n\nª Заправити корабель\n\nª Відмити гроші\n\nª Випрати білизну\n\nª Вирушити на <next.coordinate.name>",
+    "path": "/papernote/planetClue/1/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ці злочинці дуже організовані для їхнього ж блага! Тобі слід вирушити на <next.coordinate.name>!",
+    "path": "/papernote/planetClue/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "Дорогий <bounty.name>,\n\nВибач, що я забув принести твій товар раніше.\nБудь ласка, не гнівайся.\nЯ зустрінуся з тобою на <next.coordinate.name>.\n\n»",
+    "path": "/papernote/planetClue/2/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Конфлікт всередині команди завжди її руйнує - нехай це буде їм уроком, партнере! Тобі слід вирушити на <next.coordinate.name>.",
+    "path": "/papernote/planetClue/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "Дорогий щоденник,\n\nСьогодні я допоміг бандиту <bounty.name>, взявши здобич на <next.coordinate.name>.\nСподіваюся, що скоро отримаю підвищення!\nШвидше за все, я повинен сховати цю сторінку, щоб її ніхто не знайшов.",
+    "path": "/papernote/planetClue/3/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо ти збираєшся розпоряджатися письмовими доказами, то тобі краще працювати, ніж ховати їх! Тобі слід вирушити на <next.coordinate.name>.",
+    "path": "/papernote/planetClue/3/message",
+    "op": "replace"
+  },
+  {
+    "value": "Лакей,\n\nТовар тепер на <next.coordinate.name>.\nПереконайся, що за тобою не стежать.\n\nЗ повагою,\n<bounty.name>",
+    "path": "/papernote/planetBounty/0/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Завжди йди по паперовому сліду, партнере! Схоже, твоя наступна зупинка в цій справі - <next.coordinate.name>.",
+    "path": "/papernote/planetBounty/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "Список справ для бандита <bounty.name>\n\nª Попрасувати форму\n\nª Приготувати салат на завтрашній обід\n\nª Купити молоко та яйця\n\nª Вирушити на <next.coordinate.name>",
+    "path": "/papernote/planetBounty/1/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ці злочинці дуже організовані для їхнього ж блага! Тобі слід вирушити на <next.coordinate.name>!",
+    "path": "/papernote/planetBounty/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "Дорогий <bounty.name>,\n\nВибач, що я забув принести твій товар раніше.\nБудь ласка, не гнівайся.\nЯ зустрінуся з тобою на <next.coordinate.name>.\n\n§",
+    "path": "/papernote/planetBounty/2/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Конфлікт всередині команди завжди її руйнує - нехай це буде їм уроком, партнере! Тобі слід вирушити на <next.coordinate.name>.",
+    "path": "/papernote/planetBounty/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "Дорогий щоденник,\n\nСьогодні я провів час із бандитом <bounty.name> на шляху до <next.coordinate.name>.\nЯ пожартував, і він розсміявся!\nСподіваюся, одного разу він побачить у мені щось більше, ніж просто найманця «\n\nШвидше за все, я повинен сховати цю сторінку, щоб її ніхто не знайшов.",
+    "path": "/papernote/planetBounty/3/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Чи може любов розквітнути навіть всередині галактичних кримінальних кіл...? Тобі слід відправитися на <next.coordinate.name>.",
+    "path": "/papernote/planetBounty/3/message",
+    "op": "replace"
+  },
+  {
+    "value": "Лакей,\n\nТовар тепер на <next.coordinate.name>.\nПереконайся, що за тобою не стежать.\n\nЗ повагою,\n<bounty.name>",
+    "path": "/papernote/spaceBounty/0/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Завжди йди по паперовому сліду, партнере! Схоже, твоя наступна зупинка в цій справі - <next.coordinate.name>.",
+    "path": "/papernote/spaceBounty/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "Список справ для бандита <bounty.name>\n\nª Піти на ранкову пробіжку\n\nª Зробити бутерброд\n\nª З'їсти бутерброд\n\nª Вирушити на <next.coordinate.name>",
+    "path": "/papernote/spaceBounty/1/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ці злочинці дуже організовані для їхнього ж блага! Тобі слід вирушити на <next.coordinate.name>!",
+    "path": "/papernote/spaceBounty/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "Дорогий <bounty.name>,\n\nВибач, що я забув принести твій товар раніше.\nБудь ласка, не гнівайся.\nЯ зустрінуся з тобою на <next.coordinate.name>.\n\nº",
+    "path": "/papernote/spaceBounty/2/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Конфлікт всередині команди завжди її руйнує - нехай це буде їм уроком, партнере! Тобі слід вирушити на <next.coordinate.name>.",
+    "path": "/papernote/spaceBounty/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "Дорогий щоденник,\n\nСьогодні я допоміг бандиту <bounty.name>, взявши здобич на <next.coordinate.name>.\nСподіваюся, що скоро отримаю підвищення!\nШвидше за все, я повинен сховати цю сторінку, щоб її ніхто не знайшов.",
+    "path": "/papernote/spaceBounty/3/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо ти збираєшся розпоряджатися письмовими доказами, то тобі краще працювати, ніж ховати їх! Тобі слід вирушити на <next.coordinate.name>.",
+    "path": "/papernote/spaceBounty/3/message",
+    "op": "replace"
+  },
+  {
+    "value": "Лакей,\n\nТовар тепер на <next.coordinate.name>.\nПереконайся, що за тобою не стежать.\n\nЗ повагою,\n<bounty.name>",
+    "path": "/papernote/spaceClue/0/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Завжди йди по паперовому сліду, партнере! Схоже, твоя наступна зупинка в цій справі - <next.coordinate.name>.",
+    "path": "/papernote/spaceClue/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "Список справ для бандита <bounty.name>\n\nª Звільнити невмілих лакеїв\n\nª Найняти кращих лакеїв\n\nª Купити нову сорочку\n\nª Вирушити на <next.coordinate.name>",
+    "path": "/papernote/spaceClue/1/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ці злочинці дуже організовані для їхнього ж блага! Тобі слід вирушити на <next.coordinate.name>!",
+    "path": "/papernote/spaceClue/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "Дорогий <bounty.name>,\n\nВибач, що я забув принести твій товар раніше.\nБудь ласка, не гнівайся.\nЯ зустрінуся з тобою на <next.coordinate.name>.\n\nð",
+    "path": "/papernote/spaceClue/2/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Конфлікт всередині команди завжди її руйнує - нехай це буде їм уроком, партнере! Тобі слід вирушити на <next.coordinate.name>.",
+    "path": "/papernote/spaceClue/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "Дорогий щоденник,\n\nСьогодні я допоміг бандиту <bounty.name>, взявши здобич на <next.coordinate.name>.\nСподіваюся, що скоро отримаю підвищення!\nШвидше за все, я повинен сховати цю сторінку, щоб її ніхто не знайшов.",
+    "path": "/papernote/spaceClue/3/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо ти збираєшся розпоряджатися письмовими доказами, то тобі краще працювати, ніж ховати їх! Тобі слід вирушити на <next.coordinate.name>.",
+    "path": "/papernote/spaceClue/3/message",
+    "op": "replace"
+  },
+  {
+    "value": "Лакей,\n\nТовар тепер на <next.coordinate.name>.\nПереконайся, що за тобою не стежать.\n\nЗ повагою,\n<bounty.name>",
+    "path": "/papernote/scan/0/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Завжди йди по паперовому сліду, партнере! Схоже, твоя наступна зупинка в цій справі - <next.coordinate.name>.",
+    "path": "/papernote/scan/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "Список справ для бандита <bounty.name>\n\nª Купити нове взуття\n\nª Купити нові шкарпетки, які відповідають новому взуттю\n\nª Запитати в інших, що вони думають про нове взуття та шкарпетки\n\nª Вирушити на <next.coordinate.name>",
+    "path": "/papernote/scan/1/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ці злочинці дуже організовані для їхнього ж блага! Тобі слід вирушити на <next.coordinate.name>!",
+    "path": "/papernote/scan/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "Дорогий <bounty.name>,\n\nВибач, що я забув принести твій товар раніше.\nБудь ласка, не гнівайся.\nЯ зустрінуся з тобою на <next.coordinate.name>.\n\n±",
+    "path": "/papernote/scan/2/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Конфлікт всередині команди завжди її руйнує - нехай це буде їм уроком, партнере! Тобі слід вирушити на <next.coordinate.name>.",
+    "path": "/papernote/scan/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "Дорогий щоденник,\n\nСьогодні я допоміг бандиту <bounty.name>, взявши здобич на <next.coordinate.name>.\nСподіваюся, що скоро отримаю підвищення!\nШвидше за все, я повинен сховати цю сторінку, щоб її ніхто не знайшов.",
+    "path": "/papernote/scan/3/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо ти збираєшся розпоряджатися письмовими доказами, то тобі краще працювати, ніж ховати їх! Тобі слід вирушити на <next.coordinate.name>.",
+    "path": "/papernote/scan/3/message",
+    "op": "replace"
+  },
+  {
+    "value": "Гей, командо,\n\nВи ніколи не повірите в це!\nЯ ПОВНІСТЮ обдурив Миротворця, прикинувшись кимось іншим!\nЦе було дійсно весело.\n\nДо зустрічі,\n<bounty.name>",
+    "path": "/papernote/decoy/0/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Дідько, він обдурив нас і написав про це! Краще повернись до попередньої локації, партнере!",
+    "path": "/papernote/decoy/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "Миротворець,\nЯкщо ти читаєш це, я хочу, щоб ти знав, що корисний незнайомець...\n\nЦе був Я, <bounty.name>!\n\nНіколи не забувай момент, коли тебе абсолютно пошили в дурні моєю хитрістю.\n«",
+    "path": "/papernote/decoy/1/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Цей негідник заплатить за своє знущання! Повернися до попередньої локації і спіймай назавжди цього ошуканця!",
+    "path": "/papernote/decoy/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "Дорогий щоденник,\n\nРаніше я прикинувся кимось іншим і обдурив місцевого Миротворця.\nВін так пильно шукав мене.\nЯ офіційно майстер маскування, і можу злитися з тінню, якщо захочу.",
+    "path": "/papernote/decoy/2/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Цей бродяга обдурив нас! Шкода, що він записує свою брудну роботу на зручному аркуші паперу. Краще відправитися на колишнє місце, партнере!",
+    "path": "/papernote/decoy/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "Миротворець,\nЯ очікував, що ти виявиш цю записку вчасно.\n\nЯ хочу, щоб ти знав, що це був я.\nЦивільний, який допомагав тобі раніше?\nЦе був я, <bounty.name>!\n\nХоча в тебе все ще є хороший шанс спіймати мене, я не хочу, щоб ти коли-небудь забував ім'я...\nª <bounty.name> ª",
+    "path": "/papernote/decoy/3/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Цей ошуканець думає, що він нас принизив, чи не так? Повернися до попередньої локації і спіймай цього ошуканця раз і назавжди!",
+    "path": "/papernote/decoy/3/message",
+    "op": "replace"
+  },
+  {
+    "value": "Лакей,\n\nВостаннє: припини писати записки з комбінацією від сховища поруч із ним!\nЯ навіть не можу пояснити тобі, чому це погана ідея!\nЯкщо ти забув код ЗНОВУ, краще залиш нагадування в нашому укритті на <next.coordinate.name>.\n\nЗ повагою,\n<bounty.name>",
+    "path": "/papernote/returnVaultItem/0/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, нам потрібно сходити і знайти цей код, га? І під \"ми\" я маю на увазі \"тебе\". Вирушай на <next.coordinate.name>, партнере!",
+    "path": "/papernote/returnVaultItem/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "Нотатка для себе:\n\n<bounty.name> дійсно злиться, що я продовжую залишати записки з кодом на них.\nУсі решта записок повинні зберігатися в спокійному місці на <next.coordinate.name>.",
+    "path": "/papernote/returnVaultItem/1/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Ці люди не стежать за безпекою, чи не так? Вирушай якнайшвидше на <next.coordinate.name>, партнере!",
+    "path": "/papernote/returnVaultItem/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "Посібник з безпеки сховища від бандита <bounty.name>:\n\n1> Не забудь код від сховища!\n\n2> Намагайся не записувати код від сховища\n\n>3> Якщо ти дійсно забув код від сховища, то щоб знову запам'ятати його, вирушай на <next.coordinate.name>!",
+    "path": "/papernote/returnVaultItem/2/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Є дірки навіть у найорганізованішій злочинній організації, чи не так? Вирушай якнайшвидше на <next.coordinate.name>, партнере!",
+    "path": "/papernote/returnVaultItem/2/message",
+    "op": "replace"
+  },
+  {
+    "value": "Важливе зауваження!\n\nЛакеїв просять перестати записувати код від сховища на папері!\n\nЦе величезний недолік безпеки і марна витрата цінного, цінного паперу!\n\nЗамість цього код буде записаний у цифровому вигляді на наших комп'ютерних серверах на ^green;<next.coordinate.name>^reset;.\n\nВдалої контрабанди! - <bounty.name>",
+    "path": "/papernote/returnVaultObject/0/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Гадаю, вони не хочуть витрачати папір! Ти повинен піклуватися про планету... кожну планету. Ти повинен піти і перевірити <next.coordinate.name>.",
+    "path": "/papernote/returnVaultObject/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "Через зміну політики банд ми тепер конвертуємо всі записи в цифровий вигляд для зручнішого зберігання. Будь ласка, сходіть у наш комп'ютерний офіс на <next.coordinate.name>, щоб:\n\n> Переглянути свої фінансові звіти!\n\n> Отримати свою двоквартальну перевірку!\n\n> Запам'ятати комбінації від наших сховищ!\n\n> Оформити замовлення на необхідний головний убір!",
+    "path": "/papernote/returnVaultObject/1/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Сподіваюся, ти добре розбираєшся в комп'ютерах, тому що ти повинен знайти цей код від сховища! Ти повинен вирушити на <next.coordinate.name>.",
+    "path": "/papernote/returnVaultObject/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "Привіт, <bounty.name>,\n\nЯ забув код від сховища, тому вирушаю в укриття на <next.coordinate.name>, щоб запитати інших про нього.\nВибач за незручності!",
+    "path": "/papernote/returnVaultNpc/0/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, <next.coordinate.name> - це те місце, з якого ти повинен почати, партнере!",
+    "path": "/papernote/returnVaultNpc/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "ª Оголошення для банди ª\n\nТрапилося кілька випадків, коли лакеї забували код, щоб відкрити сховище.\nЯкщо це станеться з тобою, вирушай на <next.coordinate.name>, щоб отримати інформацію про код.\nЩо б ти не робив - не записуй його! Це жахлива прогалина в безпеці!\n\n~ <bounty.name>",
+    "path": "/papernote/returnVaultNpc/1/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Сподіваюся, ти готовий вибити інформацію з цих покидьків! Тобі краще відправити свій корабель на <next.coordinate.name>!",
+    "path": "/papernote/returnVaultNpc/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "Примітка для себе:\n\nКод від сховища на <next.coordinate.name> — <password>.\n\nНе залишай цю записку деінде знову!",
+    "path": "/papernote/vaultClue/0/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Завжди йди по паперовому сліду, напарнику! Схоже, твоя наступна зупинка у цій справі — <next.coordinate.name>.",
+    "path": "/papernote/vaultClue/0/message",
+    "op": "replace"
+  },
+  {
+    "value": "Секретно!\n\nКод від сховища на <next.coordinate.name> виглядає наступним чином:\n<password>\n\n\nЗ міркувань безпеки ця записка самозагориться через 5 метаклацань.\nЯкщо чорнило, що самозаймається, не активується після 5 метаклацань, помістіть записку в найближчий відкритий вогонь, доки вона не стане нечитабельною.",
+    "path": "/papernote/vaultClue/1/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Чому люди все ще використовують папір для нотаток? У нас є кораблі, здатні подорожувати швидше за світло, мені здається, ми вже не мали б використовувати папір. Схоже, твоя наступна ціль — <next.coordinate.name>.",
+    "path": "/papernote/vaultClue/1/message",
+    "op": "replace"
+  },
+  {
+    "value": "Любий щоденнику,\n\nСьогодні <bounty.name> сказав мені, що пароль від сховища — <password>!\nЦе така честь для мене. Я зроблю все можливе, щоб не розкрити цей секрет нашим ворогам.",
+    "path": "/papernote/vaultClue/2/parameters/noteText",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво, що змусило цих людей звернутися до злочинного життя? Схоже, твоя наступна зупинка у цій справі — <next.coordinate.name>, напарнику!",
+    "path": "/papernote/vaultClue/2/message",
+    "op": "replace"
+  }
+]

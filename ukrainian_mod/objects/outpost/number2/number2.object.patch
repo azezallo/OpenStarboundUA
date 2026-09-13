@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Два маркера."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Два"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Два."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Два."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssnakey два."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Два."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Номер два. Хе-хе."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Два."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Два."
+  }
+]

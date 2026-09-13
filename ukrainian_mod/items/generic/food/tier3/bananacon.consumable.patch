@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "З беконом, бананом і трохи чарівництва ви отримаєте банан."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бананакон"
+  }
+]

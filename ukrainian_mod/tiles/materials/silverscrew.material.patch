@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Срібний гвинт",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Величезний гвинт, зроблений зі срібла.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Збентежено. Для чого міг використовуватися цей великий гвинт?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Блиссскучий гвинт, зззроблений зі сссрібла.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Великий старий гвинт зі срібла.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це все, що залишилося від таємничого вмісту мішка для сміття."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Таємничий попіл"
+  }
+]

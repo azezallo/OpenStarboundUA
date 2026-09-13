@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "<Перемикач /'Або'/. Дозволяє мати кілька окремих входів.>"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ливарний або перемикач"
+  }
+]

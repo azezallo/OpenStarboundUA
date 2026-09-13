@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Сонячний",
+    "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Штормовий",
+    "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Планетарний",
+    "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ідеальний",
+    "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Душевний",
+    "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сердечний",
+    "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Гірський",
+    "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Грізний",
+    "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Туманний",
+    "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Сяючий",
+    "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Божествен.",
+    "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Небесний",
+    "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Океаніч.",
+    "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ефірний",
+    "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/2",
+    "op": "replace"
+  }
+]

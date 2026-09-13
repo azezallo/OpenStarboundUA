@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ковбойський капелюх для пінгвінів. Ей-гай."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ковбойський капелюх пінгвіна"
+  }
+]

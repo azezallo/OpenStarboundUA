@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Збоку є кнопка безпеки... вони взагалі справжні?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Наручники"
+  }
+]

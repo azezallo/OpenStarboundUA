@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На етикетці написано: «Охоронець кам’яного храму, оживлений стародавніми технологіями»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуетка Kluex Sentry"
+  }
+]

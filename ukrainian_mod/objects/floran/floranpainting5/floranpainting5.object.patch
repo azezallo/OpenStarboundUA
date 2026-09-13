@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідея Флорана про абстрактне мистецтво."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивне абстрактне мистецтво"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це схоже на абстрактне мистецтво."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мистецтво, абстрактного різновиду."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Спроба Флорана намалювати sssunsrie."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зарозумілий. Чудова абстрактна робота. Це персоніфіковане мистецтво."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже на один із тих абстрактних творів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гілотл деякий час експериментував з абстрактним мистецтвом. Ми рушили далі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже на один із тих абстрактних творів."
+  }
+]

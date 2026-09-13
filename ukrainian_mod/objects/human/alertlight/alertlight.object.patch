@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Миготливе світло означає, що виникла якась надзвичайна ситуація..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Світло сповіщення"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці сигнали тривоги були звичайними для корпусів Apex, сигналізуючи про неприйнятну поведінку."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Машина, вона кряче, як пташка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssкружляє світло. Як світлячок у банці."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Кольорове світло."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці речі кричать про небезпеку."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Незграбне танцююче світло."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Світло жадає уваги."
+  }
+]

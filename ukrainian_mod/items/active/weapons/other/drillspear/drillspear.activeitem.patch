@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пронизай небо чи хоч землю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дриль Спис"
+  }
+]

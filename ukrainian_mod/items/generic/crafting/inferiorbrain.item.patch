@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Відходи клітин мозку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нижній мозок"
+  }
+]

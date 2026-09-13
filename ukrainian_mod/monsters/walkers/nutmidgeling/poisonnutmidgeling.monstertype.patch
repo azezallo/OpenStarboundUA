@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Poison Nutmidgeling"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Він часто об’єднується з іншими горіхоплідками, знаходячи силу та безпеку в чисельності."
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Осссь вона, крамниця флорана!",
+    "path": "/npcname",
+    "op": "replace"
+  },
+  {
+    "value": "Осссь, тепер поторгуємо!",
+    "path": "/identity/name",
+    "op": "replace"
+  },
+  {
+    "value": "Можжжливо, речі флорана тобі знннадоблятьссся.",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Купа скарбів",
+    "path": "/scriptConfig/dialog/arrested/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Сяюча купа цінних скарбів.",
+    "path": "/scriptConfig/dialog/completeArrest/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Одержимість. Я не можу відірвати очей від цих скарбів.",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран любить блиссскуче золото!",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/0",
+    "op": "replace"
+  }
+]

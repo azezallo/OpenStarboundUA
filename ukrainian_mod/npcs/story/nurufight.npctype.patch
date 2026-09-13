@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Заінтригованість. Хоч це і блок, але гриб усе ще живий.",
+    "path": "/npcname",
+    "op": "replace"
+  },
+  {
+    "value": "Прекрасссні гриби.",
+    "path": "/scriptConfig/dialog/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Скидається, цей блок зроблений з грибів, легіню.",
+    "path": "/scriptConfig/dialog/leave/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "  Кістяний майстер",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "  Продаж речей з кісток...",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Хочешшш трохи кісссток?",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Заходь, купуй мої речі.",
+    "path": "/scriptConfig/dialog/attack/default/default/3",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Брудна, липуча слиз.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Липуча слиз",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Липкооо.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Корисна слиз.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

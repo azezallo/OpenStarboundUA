@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Це гаряча штука.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Магматична порода",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Обережність. Температура цієї магматичної породи продовжує залишатися небезпечно високою.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран не любить обпікаюче-гарячу магмову породу, сссспекотно.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Треба бути дуже обережним серед палаючих каменів, легіню.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

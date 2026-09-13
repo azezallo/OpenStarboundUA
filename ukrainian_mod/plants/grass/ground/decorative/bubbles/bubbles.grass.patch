@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Бульбашки.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Бульбашки",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Лопайтессся, бульбашки!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Бульбашки.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

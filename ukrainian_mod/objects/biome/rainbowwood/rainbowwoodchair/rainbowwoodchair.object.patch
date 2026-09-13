@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крісло з веселкового дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стілець Rainbow Wood"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стілець райдужного дерева, підходить для дитини."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Красиве райдужне крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стілець барвистий, як Флоран!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Цей стілець містить правильну кількість кольорів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Охайне на вигляд крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Крісло з веселкового дерева. Наповнений позитивними настроями, ідеально підходить для медитації."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Стілець із веселкового дерева? Здається, таке гарне місце для сидіння, як і будь-яке інше."
+  }
+]

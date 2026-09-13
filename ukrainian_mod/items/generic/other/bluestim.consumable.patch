@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Набір стимуляторів, наповнений синьою рідиною, прискорить ваш стрибок!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Blue Stim Pack"
+  }
+]

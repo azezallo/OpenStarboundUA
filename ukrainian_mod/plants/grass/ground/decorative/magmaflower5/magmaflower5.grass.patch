@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Квітка магми."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Магма квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гаряча пекуча квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Квітка магми."
+  }
+]

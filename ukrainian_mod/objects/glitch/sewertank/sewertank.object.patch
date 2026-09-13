@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Резервуар, наповнений невідомою речовиною. Ймовірно, дуже смертельна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Каналізаційний бак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Великий танк. Всередині щось є?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я впевнений, що чую стукіт зсередини."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран спантеличений великим випивкою."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зляканий. Теплові сигнатури вказують на те, що всередині цієї ємності є жива істота."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Б'юсь об заклад, що тут є жахлива істота. круто"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Всередині є поплавок, який стукає об стінку бака."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже, щось є всередині, але я точно не збираюся перевіряти."
+  }
+]

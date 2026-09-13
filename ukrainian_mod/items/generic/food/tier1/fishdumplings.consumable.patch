@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прості рибні пельмені, приготовані на пару і злегка приправлені."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вареники з риби"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Миска гарячої каші. Здоровий спосіб почати день."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Каші"
+  }
+]

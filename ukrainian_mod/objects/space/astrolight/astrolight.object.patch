@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стельовий ліхтар."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Астросвітло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей ліхтар не кричущий, але функціональний."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця електрична лампа випромінює слабке жовте світло."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sspace pod пропускає лише трохи світла."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Це джерело світла якимось чином самоокупається."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей підсвічник забезпечує достатньо світла, щоб пересуватися."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця лампа виглядає так, ніби вона повітряна, я думаю, що вона добре працюватиме під водою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця електрична лампа горить яскравіше багаття."
+  }
+]

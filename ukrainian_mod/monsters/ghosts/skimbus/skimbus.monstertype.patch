@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скимбус"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Його легке тіло рухається за напрямком вітру."
+  }
+]

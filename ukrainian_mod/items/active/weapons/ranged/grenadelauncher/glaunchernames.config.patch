@@ -1,0 +1,367 @@
+[
+  {
+    "value": "",
+    "path": "/nameGen/1/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "",
+    "path": "/nameGen/1/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "",
+    "path": "/nameGen/1/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "",
+    "path": "/nameGen/1/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "",
+    "path": "/nameGen/1/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "",
+    "path": "/nameGen/1/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "",
+    "path": "/nameGen/1/1/7",
+    "op": "replace"
+  },
+  {
+    "value": "",
+    "path": "/nameGen/1/1/8",
+    "op": "replace"
+  },
+  {
+    "value": "Зоряний",
+    "path": "/nameGen/1/2/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ударний",
+    "path": "/nameGen/1/2/2",
+    "op": "replace"
+  },
+  {
+    "value": "Псі",
+    "path": "/nameGen/1/2/3",
+    "op": "replace"
+  },
+  {
+    "value": "Поліцей.",
+    "path": "/nameGen/1/2/4",
+    "op": "replace"
+  },
+  {
+    "value": "Черепний",
+    "path": "/nameGen/1/2/5",
+    "op": "replace"
+  },
+  {
+    "value": "Морський",
+    "path": "/nameGen/1/2/6",
+    "op": "replace"
+  },
+  {
+    "value": "Силовий",
+    "path": "/nameGen/1/2/7",
+    "op": "replace"
+  },
+  {
+    "value": "Галактич.",
+    "path": "/nameGen/1/2/8",
+    "op": "replace"
+  },
+  {
+    "value": "Хвильовий",
+    "path": "/nameGen/1/2/9",
+    "op": "replace"
+  },
+  {
+    "value": "Місячний",
+    "path": "/nameGen/1/2/10",
+    "op": "replace"
+  },
+  {
+    "value": "Гострий",
+    "path": "/nameGen/1/2/11",
+    "op": "replace"
+  },
+  {
+    "value": "Фокусув.",
+    "path": "/nameGen/1/2/12",
+    "op": "replace"
+  },
+  {
+    "value": "Централ.",
+    "path": "/nameGen/1/2/13",
+    "op": "replace"
+  },
+  {
+    "value": "Місячний",
+    "path": "/nameGen/1/2/14",
+    "op": "replace"
+  },
+  {
+    "value": "Множин.",
+    "path": "/nameGen/1/2/15",
+    "op": "replace"
+  },
+  {
+    "value": "Піксельний",
+    "path": "/nameGen/1/2/16",
+    "op": "replace"
+  },
+  {
+    "value": "Земний",
+    "path": "/nameGen/1/2/17",
+    "op": "replace"
+  },
+  {
+    "value": "Сонячний",
+    "path": "/nameGen/1/2/18",
+    "op": "replace"
+  },
+  {
+    "value": "Штормовий",
+    "path": "/nameGen/1/2/19",
+    "op": "replace"
+  },
+  {
+    "value": "Планетний",
+    "path": "/nameGen/1/2/20",
+    "op": "replace"
+  },
+  {
+    "value": "Ідеальний",
+    "path": "/nameGen/1/2/21",
+    "op": "replace"
+  },
+  {
+    "value": "Душевний",
+    "path": "/nameGen/1/2/22",
+    "op": "replace"
+  },
+  {
+    "value": "Сердечний",
+    "path": "/nameGen/1/2/23",
+    "op": "replace"
+  },
+  {
+    "value": "Гірський",
+    "path": "/nameGen/1/2/24",
+    "op": "replace"
+  },
+  {
+    "value": "Грізний",
+    "path": "/nameGen/1/2/25",
+    "op": "replace"
+  },
+  {
+    "value": "Туманний",
+    "path": "/nameGen/1/2/26",
+    "op": "replace"
+  },
+  {
+    "value": "Сяючий",
+    "path": "/nameGen/1/2/27",
+    "op": "replace"
+  },
+  {
+    "value": "Божествен.",
+    "path": "/nameGen/1/2/28",
+    "op": "replace"
+  },
+  {
+    "value": "Небесний",
+    "path": "/nameGen/1/2/29",
+    "op": "replace"
+  },
+  {
+    "value": "Океаніч.",
+    "path": "/nameGen/1/2/30",
+    "op": "replace"
+  },
+  {
+    "value": "Ефірний",
+    "path": "/nameGen/1/2/31",
+    "op": "replace"
+  },
+  {
+    "value": "Реальний",
+    "path": "/nameGen/1/2/32",
+    "op": "replace"
+  },
+  {
+    "value": "Матеріал.",
+    "path": "/nameGen/1/2/33",
+    "op": "replace"
+  },
+  {
+    "value": "Світловий",
+    "path": "/nameGen/1/2/34",
+    "op": "replace"
+  },
+  {
+    "value": "Порожній",
+    "path": "/nameGen/1/2/35",
+    "op": "replace"
+  },
+  {
+    "value": "Розплавл.",
+    "path": "/nameGen/1/2/36",
+    "op": "replace"
+  },
+  {
+    "value": "Фазовий",
+    "path": "/nameGen/1/2/37",
+    "op": "replace"
+  },
+  {
+    "value": "Світанковий",
+    "path": "/nameGen/1/2/38",
+    "op": "replace"
+  },
+  {
+    "value": "Сутінковий",
+    "path": "/nameGen/1/2/39",
+    "op": "replace"
+  },
+  {
+    "value": "Потоковий",
+    "path": "/nameGen/1/2/40",
+    "op": "replace"
+  },
+  {
+    "value": "Вітряний",
+    "path": "/nameGen/1/2/41",
+    "op": "replace"
+  },
+  {
+    "value": "Атомний",
+    "path": "/nameGen/1/2/42",
+    "op": "replace"
+  },
+  {
+    "value": "Астральний",
+    "path": "/nameGen/1/2/43",
+    "op": "replace"
+  },
+  {
+    "value": "Кометний",
+    "path": "/nameGen/1/2/44",
+    "op": "replace"
+  },
+  {
+    "value": "Захисний",
+    "path": "/nameGen/1/2/45",
+    "op": "replace"
+  },
+  {
+    "value": "Виючий",
+    "path": "/nameGen/1/2/46",
+    "op": "replace"
+  },
+  {
+    "value": "Імпульсний",
+    "path": "/nameGen/1/2/47",
+    "op": "replace"
+  },
+  {
+    "value": " ствол",
+    "path": "/nameGen/1/3/1",
+    "op": "replace"
+  },
+  {
+    "value": " запускач",
+    "path": "/nameGen/1/3/2",
+    "op": "replace"
+  },
+  {
+    "value": " стопор",
+    "path": "/nameGen/1/3/3",
+    "op": "replace"
+  },
+  {
+    "value": " пітчер",
+    "path": "/nameGen/1/3/4",
+    "op": "replace"
+  },
+  {
+    "value": " тосер",
+    "path": "/nameGen/1/3/5",
+    "op": "replace"
+  },
+  {
+    "value": " метальник",
+    "path": "/nameGen/1/3/6",
+    "op": "replace"
+  },
+  {
+    "value": " шкідник",
+    "path": "/nameGen/1/3/7",
+    "op": "replace"
+  },
+  {
+    "value": " руйнівник",
+    "path": "/nameGen/1/3/8",
+    "op": "replace"
+  },
+  {
+    "value": " трощитель",
+    "path": "/nameGen/1/3/9",
+    "op": "replace"
+  },
+  {
+    "value": " грішник",
+    "path": "/nameGen/1/3/10",
+    "op": "replace"
+  },
+  {
+    "value": "Вони повернулися!",
+    "path": "/nameGen/1/3/11",
+    "op": "replace"
+  },
+  {
+    "value": "Вони знову напирають!",
+    "path": "/nameGen/1/3/12",
+    "op": "replace"
+  },
+  {
+    "value": "Он ще!",
+    "path": "/nameGen/1/3/13",
+    "op": "replace"
+  },
+  {
+    "value": "Щось підказує мені, що це не останні з них...",
+    "path": "/nameGen/1/3/14",
+    "op": "replace"
+  },
+  {
+    "value": "Думаю, поки що ми в безпеці.",
+    "path": "/nameGen/1/3/15",
+    "op": "replace"
+  },
+  {
+    "value": "Воу! Вони просто розпалися на частинки.",
+    "path": "/nameGen/1/3/16",
+    "op": "replace"
+  },
+  {
+    "value": "Який безлад...",
+    "path": "/nameGen/1/3/17",
+    "op": "replace"
+  },
+  {
+    "value": "Я не буду це відмивати...",
+    "path": "/nameGen/1/3/18",
+    "op": "replace"
+  }
+]

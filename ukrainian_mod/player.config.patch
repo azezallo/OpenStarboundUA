@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/blueprintUnlock",
+    "value": "^green;Навчився створювати: <ItemName>."
+  },
+  {
+    "op": "replace",
+    "path": "/blueprintAlreadyKnown",
+    "value": "Я вже знаю, як створити <ItemName>."
+  },
+  {
+    "op": "replace",
+    "path": "/collectableUnlock",
+    "value": "^green;<collectable>^white; додано до колекції ^blue;<collection>^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/companionsConfig/recruitDescription",
+    "value": "^cyan;> Назва: ^white;<name>\n^cyan;> Робота:^white; <role>\n^cyan;> Ранг: ^white; <rank>\n^cyan;> Статус: ^white; <status>"
+  }
+]

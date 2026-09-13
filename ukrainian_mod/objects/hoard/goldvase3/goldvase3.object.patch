@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тонка золотиста декоративна ваза."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Золота тонка ваза"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це була б проста ваза, якби вона теж не була зроблена із золота."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тонка золота ваза. Можливо, це має певне значення."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Золота ваза маленька, але блискуча."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Чи має ця золота ваза практичне застосування?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Проста золота ваза. Якщо золота ваза може бути простою, то це так."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця тонка золота ваза естетично приємна для ока."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тонка золота ваза."
+  }
+]

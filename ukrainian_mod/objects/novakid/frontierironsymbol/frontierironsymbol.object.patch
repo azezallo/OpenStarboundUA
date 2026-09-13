@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Декоративний залізний символ."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прикордонний залізний символ"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Символ із кованого заліза, який можна повісити на стіну."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, що це символізує?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран цікавиться, чи може підвішена річ стати ефективною зброєю."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Чи має це настінне оздоблення якийсь глибший сенс?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, цей символ щось означає чи просто виглядає красиво?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей кований символ начебто декоративний, але зроблений досить погано."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей старий символ є надійною ознакою того, що поруч є такі люди, як я."
+  }
+]

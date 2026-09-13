@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це турбіна. Знаєш, для науки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мала турбіна"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Турбіна. Для, е-е, турбінних речей."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це може здути пір’я прямо з мене."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран спокусився стрибнути в трубу. Можливо, Флоран буде."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підозрілий. Лопаті цієї турбіни забруднені слідами крові."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я вважаю, що вони тут, щоб USCM міг швидко перетворити будь-що на літаючу фортецю. Можливо, я це вигадав."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Турбіна. Такі речі також можна використовувати під водою для живлення машин."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Не знаю, для чого вони використовуються."
+  }
+]

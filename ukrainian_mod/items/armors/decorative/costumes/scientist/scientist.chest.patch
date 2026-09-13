@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Захищає монстра від власника."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пальто вченого"
+  }
+]

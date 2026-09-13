@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це велика афро-перука."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капітан Фро"
+  }
+]

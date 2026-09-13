@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Широкий край забезпечує захист від сонця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ковбойський капелюх"
+  }
+]

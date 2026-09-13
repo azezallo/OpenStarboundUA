@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Герметичний резервуар, наповнений розплавленою рідиною."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великий лавовий резервуар"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "З лавового резервуара виходять клуби диму."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей резервуар містить розплавлену лаву."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Резервуар зберігає лаву."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Перевантажений. Масштаби цього танка вражають."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей гігантський резервуар містить розплавлену рідину всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пари з цього резервуару майже токсичні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Великий старий танк викидає клуби диму."
+  }
+]

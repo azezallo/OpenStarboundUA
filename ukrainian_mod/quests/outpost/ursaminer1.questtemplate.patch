@@ -1,0 +1,37 @@
+[
+  {
+    "value": "^green;Загублений ведмедик",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Мій маленький Діппер загубив улюбленого ^orange;плюшевого ведмедика^white;. Я просто не можу відкрити магазин, поки він засмучений — допоможеш мені ^green;знайти нового плюшевого ведмедика^white; для нього?",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Маленький Діппер щасливий! Дякую, тепер я можу відкрити магазин.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Бернард",
+    "path": "/scriptConfig/portraits/questStarted/title",
+    "op": "replace"
+  },
+  {
+    "value": "Бернард",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "op": "replace"
+  },
+  {
+    "value": "Бернард",
+    "path": "/scriptConfig/portraits/questFailed/title",
+    "op": "replace"
+  },
+  {
+    "value": "Маленький Діппер уже отримав від когось свого ведмедика!",
+    "path": "/scriptConfig/failConditions/0/failureText",
+    "op": "replace"
+  }
+]

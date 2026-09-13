@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Звичайні інструменти майстерні, які використовуються для швидкого ремонту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Інструменти майстерні"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Вони виглядають як інструменти для швидкої та брудної роботи по металу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Інструменти для формування металу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Інструменти для щипків і sssmash."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Не вражений. Рудиментарні інструменти, такі як ці, мало корисні."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Прості інструменти своїми руками."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Знаряддя праці для багатьох майстрів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Деякі звичайні інструменти для рукоділля."
+  }
+]

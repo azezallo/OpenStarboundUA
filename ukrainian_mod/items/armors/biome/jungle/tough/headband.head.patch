@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцна пов'язка для сильних людей!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Міцна пов'язка на голову"
+  }
+]

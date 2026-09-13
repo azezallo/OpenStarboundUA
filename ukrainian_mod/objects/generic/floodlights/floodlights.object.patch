@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Якщо я довше дивитимусь на ці вогні, я, мабуть, осліпну."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прожектори"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Палаюче яскраві вогні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Таке світло може перетворити ніч на день!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Яскраве світло ранило Флоранові очі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Я можу чітко бачити, коли сяють ці вогні."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Прожектори, які виправдовують свою назву."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Hylotl використовує подібні вогні для освітлення під океаном."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці великі лампи яскравіші за літнє сонце."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Товсті металеві решітки оточують кожну камеру. Шанс на втечу виглядає досить мізерним."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тюремні грати"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Міцні металеві решітки. Чомусь вони досить гарні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці бруски виглядають досить міцно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Міцні штанги."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Надзвичайно міцний набір брусків."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Бари. На чиєму б боці ми не були, чи не завжди ми за ними? А тепер у мене голова болить."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Навіть у клітці розум може подорожувати вільно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Вам знадобляться хороші інструменти, щоб вирватися звідси."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Густий, схожий на коктейль напій з м’яса та сливи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кривавий Кіт"
+  }
+]

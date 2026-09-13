@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Книжкова шафа для зберігання народних казок і легенд..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічна книжкова шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гарно оформлена книжкова шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Запорошений старий дім для книг."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стара та запорошена книжкова шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. The Glitch не випустило багато книг. Цікаво, чи є такі тут."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, скільки років деяким із цих книг."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можливо, в цих старих книгах є якісь великі легенди."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця книжкова шафа виглядає дуже старою!"
+  }
+]

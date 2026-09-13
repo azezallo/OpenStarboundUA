@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Храмова платформа",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Платформи, побудовані з твердої храмової цегли.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Враження. Кам'яну цеглу було зібрано в цій платформі.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Платформа, виготовлена зі ссстарої цегли.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Стара кам'яна кладка цегли у вигляді файні платформи.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Запашний пучок з квітів і листя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Квітковий блок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "в захваті. Таке розташування квітів радує."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Ці квіти виглядають здоровими."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Кілька яскравих квітів."
+  }
+]

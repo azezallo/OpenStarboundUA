@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Боріться до слави з цією стильною маскою лучадора."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска Лучадора"
+  }
+]

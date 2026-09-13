@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей сік походить із чужорідної деревини, виглядає небезпечно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чужий деревний сік"
+  }
+]

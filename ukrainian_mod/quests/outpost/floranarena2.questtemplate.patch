@@ -1,0 +1,32 @@
+[
+  {
+    "value": "^green;Слава, що всередині",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Ще хххтось кинув тобі виклик у битві на арені! Це флоранссський приборкувач звірів на ім'я ^orange;Воло^white;. ^green;Приходь поговорити зі мною, коли будеш готовий вирушити^white;.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти переміг Воло! Це дуже весссело. Ось твій другий трофей!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Поговори з ^orange;Нуру^reset;, щоб вирушити на ^orange;арену^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "op": "replace"
+  },
+  {
+    "value": "Переможи в битві на арені",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "op": "replace"
+  },
+  {
+    "value": "Повернись до ^orange;Нуру^reset; на ^orange;Аванпост^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

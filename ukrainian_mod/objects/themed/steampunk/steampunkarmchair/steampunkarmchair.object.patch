@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вишукане на вигляд крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крісло стімпанк"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це такий стілець, який я уявляю Великій Мавпі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це крісло виглядає досить затишно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран вважає, що стілець смішно пахне."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Це крісло зроблено з думкою про комфорт."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я хочу лежати в цьому кріслі назавжди."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я б хвилювався, що якби сидів у цьому кріслі надто довго, я б не захотів його покинути."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тепер це такий стілець, на якому я міг би сидіти годинами."
+  }
+]

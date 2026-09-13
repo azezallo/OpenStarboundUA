@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Популярний стиль телевізора."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стильний телевізор"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Класний телевізор."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Телевізор, вони зазвичай зустрічаються в міських будинках."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Телебачення."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Сучасний телевізор."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "телевізор! Усі ці канали, і все ще нічого, що варто дивитися."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Телевізор міського типу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Один із тих телевізорів із великого міста."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Статуя Кемерона \"KyeTheShy\" Йорк. Любив пригоди, але заблукав занадто далеко... У космос."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуя Кемерона Йорка"
+  }
+]

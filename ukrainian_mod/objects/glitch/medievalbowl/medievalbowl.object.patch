@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чаша. Виглядає не дуже чисто."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічна чаша"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Проста, брудна миска."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, з цього їдять їжу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Миска занадто мала для апетиту Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Проста миска. Ймовірно, зроблений з глини."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Маленька миска, схожа на глину."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Що їдять з цієї миски, цікаво..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Проста миска для простої їжі."
+  }
+]

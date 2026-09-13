@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розширений мозок, ідеальний для трансплантації."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штучний мозок"
+  }
+]

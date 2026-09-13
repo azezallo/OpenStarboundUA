@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Настільна гра з картонним замком і ігровими фігурами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Настільна гра «Фентезі»."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Такі креативні настільні ігри є контрабандою за режиму Великої Мавпи."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Маленький замок для ігор."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Навіть Флоран із задоволенням час від часу грає в дурні ігри."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. У цій складній настільній грі використовуються 40-гранні кубики."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Нехай веселощі починаються!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У мене залишилися приємні спогади про такі ігри, коли я був молодшим."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я виграю цю гру, і тоді замок буде повністю мій!"
+  }
+]

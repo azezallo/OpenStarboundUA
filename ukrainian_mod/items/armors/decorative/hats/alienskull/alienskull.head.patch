@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Таємничий інопланетний череп, який ви можете носити. Жахливий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чужий Череп"
+  }
+]

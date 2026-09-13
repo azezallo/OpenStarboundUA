@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скриня з густої слизової речовини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скриня зі слизом"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я насторожено ставлюся до того, наскільки корисна напівпрозора скриня."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я бачу вміст грудей крізь слиз. Це акуратно!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Прозора скриня - це не дуже підступно."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Я бачу вміст цієї скрині крізь слизову оболонку."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якщо я придивлюся, я бачу прямо крізь слиз."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця скриня виглядає так, ніби її можна було б зробити із зеленого скла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Яка користь від скрині, в яку можна заглянути, не відкриваючи її?"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Неідентифікована пара скам'янілих ніг."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Невідомі ноги"
+  }
+]

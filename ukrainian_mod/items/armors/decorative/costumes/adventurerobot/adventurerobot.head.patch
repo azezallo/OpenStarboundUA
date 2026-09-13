@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей прототип маски натхненний Glitch.-НЕ ВИКОРИСТОВУЄТЬСЯ-"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска авантюриста"
+  }
+]

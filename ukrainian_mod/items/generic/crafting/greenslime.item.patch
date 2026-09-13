@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крапка зеленого слизу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Slime Blob"
+  }
+]

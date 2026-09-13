@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Інопланетне ліжко. Здається, жива."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чуже ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мені не вистачає нормального ліжка вдома."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Інопланетне ліжко. Це листя?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Грядка для рослин!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підозрілий. Це ліжко виділяє якесь... тепло тіла?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Він теплий і губчастий на дотик."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Своєрідний дизайн для ліжка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це кумедне ліжко, це точно."
+  }
+]

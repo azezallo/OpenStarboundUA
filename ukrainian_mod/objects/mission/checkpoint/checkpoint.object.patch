@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Якщо ви помрете, ви відродитеся в цьому місці."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Місія КПП"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це дозволить мені продовжувати... Якщо я зазнаю невдачі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, якщо я загину, то повернуся до цієї точки"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це дозволить Флорану повернутися сюди, якщо щось піде не так!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Продуманий. Чи можемо ми справді загинути, якщо завжди відроджуватись?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сучасні технології дивовижні, якщо я помру, я відроджуся прямо тут!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Досить цікаво, я зможу жити знову, якщо загину через це."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не дуже розумію це, але я повернуся сюди, якщо помру."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Механічна рука, яка розгортає наступальний турель безпілотника."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плазмовий дрон Mech Arm"
+  }
+]

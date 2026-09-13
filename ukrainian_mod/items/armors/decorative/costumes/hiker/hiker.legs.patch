@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцний матеріал робить їх ідеальними для пошуку гірських монстрів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани для туристів"
+  }
+]

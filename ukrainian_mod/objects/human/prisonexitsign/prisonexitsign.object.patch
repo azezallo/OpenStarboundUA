@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Якщо ви підете цим шляхом, ви точно вийдете з... чогось."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вихід знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Знак виходу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Знак, що вказує на вихід."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це вихід!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Цей знак вказує шлях до виходу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Бажане видовище для будь-якого в’язня. Я припускаю, якщо тільки випадково не побачиш це по дорозі в інше місце."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Шлях звідси."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Сюди до виходу."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бамбукова платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцні платформи зі стебел бамбука."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "З надією. Ця бамбукова платформа неймовірно міцна."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran grow sstrong bamboo for platformsss."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Bamboo hung up like a platform."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дерев'яне крісло високого класу, призначене для важливих осіб."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційне модне крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Пристойне крісло. непогано!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це крісло досить гарне, я не розумію, навіщо воно для важливих гостей."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чому це крісло таке шикарне?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Це крісло було ретельно вирізано."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гаразд, посидіти трохи."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такі дивовижні крісла призначені лише для самих царствених особистостей."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це непогане крісло, я визнаю."
+  }
+]

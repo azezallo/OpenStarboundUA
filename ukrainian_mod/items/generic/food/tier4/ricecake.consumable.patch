@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Проста закуска, сформована з рису, скріпленого морськими водоростями."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рисовий пиріг"
+  }
+]

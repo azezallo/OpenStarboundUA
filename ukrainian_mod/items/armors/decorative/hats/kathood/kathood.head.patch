@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий капюшон із загостреними вушками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капюшон з вушками"
+  }
+]

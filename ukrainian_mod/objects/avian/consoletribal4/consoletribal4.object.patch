@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика панель керування на основі пташиних кристалів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Велика різьблена консоль"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця панель керування здається старою, але я не розумію технології."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця панель може посилати кристалічні вібрації для активації інших пристроїв."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дивна технологія птахолюдини. Можливо, Флорану варто взяти собі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Ця технологія на основі кристалів не зрозуміла."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця консоль виглядає на основі кристалів, як вона взагалі працює?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Виглядає як пульт управління, дизайн дуже приємний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже на панель керування з яскравими лампочками."
+  }
+]

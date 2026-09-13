@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Не бруд, і не звичайна земля... це волога земля.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Волога земля",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Байдуже. Звичайна земля, змішана з водою.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Волога земля хороша для россслин. Флоран любить.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Просто волога земля, файна.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

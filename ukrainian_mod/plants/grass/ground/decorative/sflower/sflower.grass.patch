@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A beautiful flower."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "A beautiful flower."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гарненька."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Приваблива квітка."
+  }
+]

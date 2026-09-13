@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гладкий і аеродинамічний шолом, виготовлений з найкращих матеріалів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нео шолом"
+  }
+]

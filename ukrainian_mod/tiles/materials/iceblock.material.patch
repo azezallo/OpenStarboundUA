@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крижана брила"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Твердий лід, нарізаний на блоки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Ці розрізи для формування цього льоду дуже точні."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssmooth блоки льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Бунча лід, нарізаний на блоки."
+  }
+]

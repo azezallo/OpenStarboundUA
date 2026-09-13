@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "--TODO--"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нео Магнум-ZZZ"
+  }
+]

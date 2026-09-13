@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Випадково утворився з меча на дні океану під час вибуху прискорювача елементарних частинок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хокуцид"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Hokucide ^жовтий;^скидання;"
+  }
+]

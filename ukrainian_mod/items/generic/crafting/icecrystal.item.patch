@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Холодний кристал льоду, здається, він ніколи не розтане."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кристал льоду"
+  }
+]

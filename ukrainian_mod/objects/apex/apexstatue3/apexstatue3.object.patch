@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вітаємо Великий Банан! Священний плід!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуя великого бананового замку"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "На статуї є позначка. Виглядає так, ніби його можна втиснути."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Є щось дивне в цій статуї."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Підступна технологія."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Слідчий. У цій статуї заховано якийсь пристрій."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кнопка в цій статуї не дуже добре прихована."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Погана спроба підступу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це кнопка? Стриманий."
+  }
+]

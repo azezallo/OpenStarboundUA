@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Витончений корпус механізму в стилі Hylotl із тринокулярною системою розвідки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Kabuto Mech Body"
+  }
+]

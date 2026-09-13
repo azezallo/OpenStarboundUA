@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Картина гордого муші на фоні призахідного сонця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Картина Frontier Mooshi"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Муші на цій картині виглядає дуже гордим."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Який благородний звір!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче полювати на крихітну здобич."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Натхненний. Який величний звір!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мусі на цій картині дуже величний для сільськогосподарської тварини."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця картина передає елемент величі цього дикого звіра."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це дуже гарний муші."
+  }
+]

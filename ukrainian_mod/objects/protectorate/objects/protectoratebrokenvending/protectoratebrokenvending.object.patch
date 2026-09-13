@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зламаний автомат."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зламаний торговий автомат"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "У цьому автоматі колись продавали смачні напої."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я пам'ятаю, як купував напої в цьому автоматі... це були кращі дні."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пізніше Флоран оплакуватиме мертвий автомат."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. Я сподіваюся, що я живу краще, ніж цей бідний торговий автомат."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я міг би випити енергетичний напій, але цей апарат точно не працює."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Якщо я найближчим часом не втечу звідси, я можу розділити долю цього торгового автомата."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця машина справді зламана."
+  }
+]

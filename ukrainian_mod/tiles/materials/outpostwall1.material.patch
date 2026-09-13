@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Темний бетон, спеціально виготовлений для аванпостів.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Бетон аванпосту",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Обізнаність. Цей спеціально розроблений бетон швидко сохне.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану не подобаєтьссся холодний жорсссткий бетон.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Цей бетон, схоже, добряче міцний.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чисто вирізане крісло з заломлюючого скла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крісло Prism"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Незважаючи на те, що це крісло не дуже зручно, воно має вражаючу майстерність."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Як такому простому предмету меблів вдається бути таким привабливим?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран цікавиться, чи може гострий стілець бути гарною зброєю..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Кути на цьому стільці математично ідеальні."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дивний скляний блок не стане найзручнішим кріслом..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це крісло постійно вловлює світло, що сяє всередині нього."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хіба це не красиво..."
+  }
+]

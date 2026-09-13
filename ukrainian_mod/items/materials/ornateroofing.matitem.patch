@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Покрівля традиційного вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Багато прикрашений дах"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Вражений. Ця вишукана покрівля є структурно міцною."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Вишукана покрівля – це гарно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Це не те, до чого я звик, але все одно гарна покрівля."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Студентська гітара."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Червона гітара Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гарна червона гітара. Я не можу грати."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мій сусід по кімнаті досить добре грає на гітарі. Можливо, вони могли б мене навчити."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Видає гучні звуки. Флорану подобається!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заздрісні. Один із моїх сусідів по кімнаті дуже добре грає на гітарі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Звичайно, я можу грати. Але не зараз."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "музика Така експресивна мова."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я віддаю перевагу акустиці, але я можу зіграти на ній кілька простих мелодій."
+  }
+]

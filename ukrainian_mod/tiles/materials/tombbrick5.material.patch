@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Могильна цегла",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Старі цеглини, відполіровані до ідеалу.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Враження. У цих цеглин були ретельно згладжені краї.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану подобаютьссся гладкі та м'які цеглини.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ці старі цеглини файні та гладкі.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

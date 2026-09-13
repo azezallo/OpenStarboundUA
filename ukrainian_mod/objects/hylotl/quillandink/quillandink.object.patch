@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перо і чорнило."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Перо і чорнило"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Перо та чорнило для старовинного письма."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це пташине перо?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssticks покращують ручку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "в захваті. Інструмент для письма, який підходить королю глюків."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я б будь-коли взяв кулькову ручку замість пера."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гілотл займається каліграфією з самого раннього віку."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Перо якесь."
+  }
+]

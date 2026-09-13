@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Захищає піонера, коли він робить перші кроки в новий світ."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Піонерський нагрудний гардероб"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стілець, на якому зможе сісти кожен!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Громадська кафедра"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Просте крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Просто стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Крісло просте, незручне."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарне місце, як будь-яке, щоб сісти."
+  }
+]

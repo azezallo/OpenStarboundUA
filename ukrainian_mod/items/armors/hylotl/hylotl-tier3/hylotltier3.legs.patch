@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сильні та гнучкі, як гнучкі та гнучкі ноги їхнього власника."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Річкові легінси"
+  }
+]

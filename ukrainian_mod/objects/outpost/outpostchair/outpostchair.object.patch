@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стілець. Ви сідаєте в нього. так"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "М'який металевий стілець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стандартний стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Просте крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сссіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Стілець. Глюк іноді любить посидіти."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Пристойне крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Базовий стілець, він виконує свою функцію."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Функціональне крісло."
+  }
+]

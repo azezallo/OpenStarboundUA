@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перемикач /'OR'/. Дозволяє мати кілька окремих входів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "АБО Перемикач"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Перемикач /'OR'/. Дозволяє мати кілька окремих входів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Перемикач /'OR'/. Дозволяє мати кілька окремих входів."
+  }
+]

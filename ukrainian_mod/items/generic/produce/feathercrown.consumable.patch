@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пір'яна корона, її потрібно зірвати перед вживанням."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пір'яна корона"
+  }
+]

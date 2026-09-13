@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Печерне мистецтво із зображенням деяких тварин."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Печерне мистецтво тварин"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Грубий малюнок якоїсь тварини."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця незграбна картина може бути такою ж старою, як зірки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Картина старого Флоранссс."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Схоже, ця картина представляє органічних тварин."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чому всі наскальні малюнки виглядають однаково? Будь оригінальним!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця картина не така елегантна, як стародавнє мистецтво Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "На вигляд дуже стара картина."
+  }
+]

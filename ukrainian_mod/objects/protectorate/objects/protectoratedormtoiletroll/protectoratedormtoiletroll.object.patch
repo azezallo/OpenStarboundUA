@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тримач для туалетного паперу. Сподіваюся, не закінчиться!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тримач рулону туалетної паперу Protectorate"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тримач для туалетного паперу. Він нещодавно заповнений."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Туалетний рулон преміум якості! Це так м'яко."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Туалетний рулон майже порожній!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Симпатичний. Цей туалетний рулон має небажану роботу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Який жах усвідомити, що тримач для туалетних паперів порожній! На щастя, цього немає."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Тримач для туалетного паперу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тримач для туалетного паперу з великою кількістю рулону."
+  }
+]

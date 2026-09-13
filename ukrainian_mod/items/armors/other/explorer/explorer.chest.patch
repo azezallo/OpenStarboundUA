@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцний нагрудник ідеально підходить для дослідження."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нагрудник дослідника"
+  }
+]

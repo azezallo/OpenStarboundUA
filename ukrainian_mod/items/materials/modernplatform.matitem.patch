@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виготовлена ​​з сучасного матеріалу, ця платформа гладка на дотик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сучасна платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Задоволений. Ця гладка сучасна платформа приваблива та міцна."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Ssmooth сучасні platformsss."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Деякі химерні металеві платформи."
+  }
+]

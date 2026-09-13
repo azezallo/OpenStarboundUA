@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Electric Ignome"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Його електризована поверхня дивно приємна на дотик. Тільки тримайтеся подалі від іскор!"
+  }
+]

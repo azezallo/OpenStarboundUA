@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стоячий стіл. Добре для постави."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стоячий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стоячий стіл. виснажливий."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Стоячий стіл. Це нова ідея."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану мало користі від столів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Стіл, за яким ви стоїте, а не сидите?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Стоячий стіл, я чую, це гарна ідея."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стоячий стіл, хороший для активного розуму."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Стіл, за яким ти стоїш, не дає тобі осісти."
+  }
+]

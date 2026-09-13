@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крісло, що світиться."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Світиться крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це сяюче крісло було вирощено для функціональності. Ніякої схеми не видно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мені не подобається моторошне сяйво цього крісла."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Світильники для рослин – найкращі світильники. Ще краще як стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Це органічне крісло має біолюмінесцентні вузли."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Не ідеально, якщо ви любите сидіти в темряві."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Три вогні на вершині цього стільця майже схожі на витріщеного Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Світло, але без тепла. Лише наполовину краще, ніж багаття."
+  }
+]

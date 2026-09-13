@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Корінь, схожий на руку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "A root that looks like a hand."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Grabby root."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. A root that resembles a hand."
+  }
+]

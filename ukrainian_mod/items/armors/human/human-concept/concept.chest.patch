@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Проста куртка, на випадок, якщо трохи замерзне."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Повсякденний кардиган"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці штани трохи жорсткі, але чудово доповнюють образ робота."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани шукача пригод"
+  }
+]

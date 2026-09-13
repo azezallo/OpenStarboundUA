@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Він виглядає зайнятим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зварювальний пінгвін"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я не можу сказати, він будує чи розбирає той об’єкт."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пінгвін з паяльною лампою... Я почуваюся трохи невпевнено."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей пінгвін укусний."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Цікаво, що задумав цей пінгвін?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Б'юсь об заклад, що пінгвінові було важко піднятися по цій драбині."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я нервую, коли бачу, як пінгвін піднімається по драбині з паяльною лампою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей маленький пінгвін щось задумав."
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/0",
+    "value": "Вибач, друже, якщо капітан побачить, що я розмовляю замість того, щоб працювати, він матиме мою шию!"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/1",
+    "value": "Я тут трохи зайнятий. Якщо у вас є запитання, зверніться до дилера."
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/2",
+    "value": "Якщо вас зацікавила будь-яка з цих частин, зверніться до нашого дилера."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шахтарська шапка, на ній світло!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шахтарський шолом"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Магмарок. Це гарячі речі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Магмарок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Обережний. Температура цієї магматичної породи залишається небезпечно високою."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Гарячі магматичні породи."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Краще стежити за собою навколо цих палаючих магмарок."
+  }
+]

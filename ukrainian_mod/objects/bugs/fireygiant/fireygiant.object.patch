@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий, грізний жук. Може витримувати сильну спеку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вогняний велетень"
+  }
+]

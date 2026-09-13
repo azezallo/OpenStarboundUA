@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хрест шматок фону"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хрест шматок фону"
+  }
+]

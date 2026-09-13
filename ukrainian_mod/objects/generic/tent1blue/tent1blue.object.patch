@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Базовий намет. Стережіться космічних ведмедів!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Намет Blue Dome"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Простий намет. Досить добре."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тимчасовий будинок."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Маленький зелений хусс."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "роздратований. Немає багато місця."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "У дитинстві я любив кемпінг."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я не дуже пишаюся тим, що спати в наметі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Не надто просторо, але підійде."
+  }
+]

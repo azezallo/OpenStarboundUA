@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пучок шовкових волокон."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шовкове волокно"
+  }
+]

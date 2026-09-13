@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Модель невідомої планети."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічний глобус"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "глобус. Це не збігається з показаннями мого корабля цієї планети."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, він наносить на карту суші."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дуже маленька планета."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Глобус, зроблений бідним картографом."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Глобус світу, який зовсім не схожий на цей."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "На думку мого корабля, цей глобус абсолютно неточний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Свого роду карта. Хто знає, що це за планета!"
+  }
+]

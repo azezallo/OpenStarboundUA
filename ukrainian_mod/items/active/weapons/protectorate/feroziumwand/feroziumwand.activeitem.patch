@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це що, посох для мурах?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ферозієва паличка"
+  }
+]

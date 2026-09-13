@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "  Консоль покращ. техн."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "  Обирай свої техн."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblDescription/value",
+    "value": "Оберіть слот для зміни"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSlot/value",
+    "value": "Голова"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblTechSlotHead/value",
+    "value": "ТЕХН. ГОЛОВИ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblTechSlotBody/value",
+    "value": "ТЕХН. ТІЛА"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblTechSlotLeg/value",
+    "value": "ТЕХН. НІГ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblChipsLabel/value",
+    "value": "ПОТР. КАРТКИ ТЕХН."
+  },
+  {
+    "op": "replace",
+    "path": "/selectTechDescription",
+    "value": "Обери тех. для екіп. чи покращ."
+  },
+  {
+    "op": "replace",
+    "path": "/slotLabelText/Head",
+    "value": "ТЕХН. ГОЛОВИ"
+  },
+  {
+    "op": "replace",
+    "path": "/slotLabelText/Body",
+    "value": "ТЕХН. ТІЛА"
+  },
+  {
+    "op": "replace",
+    "path": "/slotLabelText/Legs",
+    "value": "ТЕХН. НІГ"
+  }
+]

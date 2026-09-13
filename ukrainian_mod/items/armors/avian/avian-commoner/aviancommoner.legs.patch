@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Проста спідниця забезпечує мобільність і комфорт."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сховати спідницю"
+  }
+]

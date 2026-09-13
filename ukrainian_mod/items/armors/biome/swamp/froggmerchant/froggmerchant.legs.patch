@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Носячи їх, ви будете схожі на торговця Frogg."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ніжки торговця Frogg"
+  }
+]

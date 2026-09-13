@@ -1,0 +1,132 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": " Дошка Нагород"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": " Найбільш Розшукувані в Галактиці"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblNameHeader/value",
+    "value": "Ім'я"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblStatusHeader/value",
+    "value": "Статус"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblMoneyHeader/value",
+    "value": "Пікселі"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblRankHeader/value",
+    "value": "Ранг"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblCreditsHeader/value",
+    "value": "Кредити"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblNameList/value",
+    "value": "Ім'я"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblStatusList/value",
+    "value": "Статус"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblMoneyList/value",
+    "value": "Пікселі"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblRankList/value",
+    "value": "Ранг"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblCreditsList/value",
+    "value": "Кредити"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblOtherAssignment/value",
+    "value": "Вас призначено до іншого Департаменту Миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/assignmentFormat",
+    "value": "Розслідуйте ^yellow;<gangName>^reset; біля ^cyan;<systemName>"
+  },
+  {
+    "op": "replace",
+    "path": "/missingAssignment",
+    "value": "Завдань миротворця не знайдено"
+  },
+  {
+    "op": "replace",
+    "path": "/newAssignmentText",
+    "value": " Нове завдання!"
+  },
+  {
+    "op": "replace",
+    "path": "/newRankText",
+    "value": " Підвищення рангу!"
+  },
+  {
+    "op": "replace",
+    "path": "/otherAssignment",
+    "value": "Вас призначено до іншого Департаменту Миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/noBoardAssignment",
+    "value": "На цій дошці немає поточних завдань. Очікується призначений Миротворець..."
+  },
+  {
+    "op": "replace",
+    "path": "/assignmentDifferentRank",
+    "value": "Ця дошка надає справи рангу %s. Ваш поточний ранг %s. Будь ласка, продовжуйте до вашої призначеної Станції Миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/finalAssignmentNotReady",
+    "value": "Обмежене завдання. Будь ласка, поверніться на призначену вам станцію миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/assignmentCompleted",
+    "value": "Ви вже завершили завдання цієї станції. Будь ласка, продовжуйте до вашої призначеної станції миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/otherAssignmentActive",
+    "value": "У вас є активні справи в іншому відділі. Будь ласка, розкрийте ваші поточні справи, перш ніж призначатися на іншу станцію."
+  },
+  {
+    "op": "replace",
+    "path": "/assignmentNotReady",
+    "value": "Ви ще не готові братися за справи цього рангу. Будь ласка, продовжуйте до вашої призначеної станції миротворців"
+  },
+  {
+    "op": "replace",
+    "path": "/posterTags/majorText/0",
+    "value": "ВИСОКА ЦІННІСТЬ"
+  },
+  {
+    "op": "replace",
+    "path": "/posterTags/capstoneText/0",
+    "value": "ЛІДЕР"
+  }
+]

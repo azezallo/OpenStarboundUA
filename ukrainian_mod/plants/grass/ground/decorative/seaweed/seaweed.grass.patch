@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Водорості.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Водорості",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Бур'ян, що сссмердить рибою. Флоран сссмердить.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Водорості.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

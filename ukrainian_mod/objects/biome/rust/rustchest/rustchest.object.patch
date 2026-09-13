@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Іржава скриня. Практично розвалюється."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іржава скриня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця скриня здається не дуже міцною."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Напевно, можна було просто почекати, поки ця скриня розвалиться."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран відкриває потворні шахи."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "сардонічний. Іржа тут, мабуть, є більшим стримуючим фактором для збою, ніж замок."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Іржава скриня. Можливо, пірати залишили його тут."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стара скриня, що розвалюється."
+  }
+]

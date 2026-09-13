@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це одна з тих автоматів для пиття, які люди використовують, щоб спілкуватися."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кулер для води"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Прохолодна, чиста вода. Освіжає!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я міг би випити."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Велика пляшка з водою прилипла до машини... Шкода."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Кулер для води. Він зберігає більшу кількість води прохолодною."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я така спрагла, що могла б коня напоїти. Якби кінь був з води."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Невелика ємність з водою. Бачити його в такій нестачі змушує мене тужити додому."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Диспенсер для води. Корисно, якщо ви відчуваєте спрагу."
+  }
+]

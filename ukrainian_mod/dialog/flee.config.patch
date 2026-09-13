@@ -1,0 +1,257 @@
+[
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/0",
+    "value": "О ні! Допоможіть мені!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/1",
+    "value": "Допоможіть!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/2",
+    "value": "Ой-ой."
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/3",
+    "value": "Я беззбройний! Допоможіть!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/4",
+    "value": "Мені потрібна допомога! Я не можу захистити себе!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/5",
+    "value": "А! Припини!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/6",
+    "value": "Що!? Що я зробив!?"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/apex/default/0",
+    "value": "Мені потрібна допомога!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/apex/default/1",
+    "value": "Стій!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/apex/default/2",
+    "value": "Мене атакують!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/apex/default/3",
+    "value": "Бийте на сполох! Вмикайте всі сирени!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/apex/default/4",
+    "value": "Хто-небудь, допоможіть мені!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/apex/default/5",
+    "value": "Бийте на сполох!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/avian/default/0",
+    "value": "Я беззбройний!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/avian/default/1",
+    "value": "Допоможіть!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/avian/default/2",
+    "value": "За мною женуться! Хто-небудь, допоможіть мені!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/avian/default/3",
+    "value": "Клянуся пір'ям, мене атакують!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/avian/default/4",
+    "value": "Хто-небудь, допоможіть мені!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/avian/default/5",
+    "value": "А! Допоможіть!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/glitch/default/0",
+    "value": "*Переляк.* Ааа! Допоможіть мені!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/glitch/default/1",
+    "value": "*Страх.* Не роби мені боляче!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/glitch/default/2",
+    "value": "*Здивування.* Чому це відбувається!?"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/glitch/default/3",
+    "value": "*Страх.* Відійди від мене! Допоможи!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/glitch/default/4",
+    "value": "*Жах.* Врятуйте мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/glitch/default/5",
+    "value": "*Шок.* Що відбувається!? Припиніть!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/floran/default/0",
+    "value": "Ау! Сссзупини це!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/floran/default/1",
+    "value": "Сссзупинись, не роби боляче Флорану!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/floran/default/2",
+    "value": "Флорану потрібен ссспис!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/floran/default/3",
+    "value": "Флоран не готовий до полювання!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/floran/default/4",
+    "value": "Флоран россскаже про тебе зеленопалому!"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/floran/default/5",
+    "value": "У Флорана немає сссписа! Флоран не може шштрикати!"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/0",
+    "value": "Фух, здається, я втік."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/1",
+    "value": "Слава богу, це закінчилося."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/2",
+    "value": "Це закінчилося?"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/3",
+    "value": "Тепер безпечно?"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/4",
+    "value": "Я зміг!"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/avian/default/0",
+    "value": "Це трохи розкуйовдило моє пір'я."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/avian/default/1",
+    "value": "Яке випробування."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/avian/default/2",
+    "value": "Ну, принаймні тепер я в безпеці."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/avian/default/3",
+    "value": "Це було близько."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/avian/default/4",
+    "value": "Я в порядку!"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/glitch/default/0",
+    "value": "*Полегшення.* Я втік!"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/glitch/default/1",
+    "value": "*Радість.* Я живий!"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/glitch/default/2",
+    "value": "*Втома.* Це було виснажливо."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/glitch/default/3",
+    "value": "*Надія.* Я в безпеці?"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/glitch/default/4",
+    "value": "*Зніяковілість.* Здається, з мене витекло трохи мастила."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/floran/default/0",
+    "value": "Флоран у бессспеці!"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/floran/default/1",
+    "value": "Флоран живе, щоб полювати іншого дня."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/floran/default/2",
+    "value": "Їм пощщщастило, що у Флорана немає зброї..."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/floran/default/3",
+    "value": "Флоран зараз же піде за сссписом."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/floran/default/4",
+    "value": "Флоран живессс!"
+  }
+]

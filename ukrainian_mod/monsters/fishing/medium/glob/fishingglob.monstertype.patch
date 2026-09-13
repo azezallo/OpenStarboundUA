@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Irradiated Globfish"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Його тіло не містить м'яса - воно повністю складається з органічного слизу."
+  }
+]

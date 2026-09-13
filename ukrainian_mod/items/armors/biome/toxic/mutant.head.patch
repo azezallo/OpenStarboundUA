@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Носіть це і виглядайте, як якийсь токсичний мутант!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Голова мутанта"
+  }
+]

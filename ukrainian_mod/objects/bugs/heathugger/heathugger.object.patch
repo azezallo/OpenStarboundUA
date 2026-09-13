@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Приваблений теплом, цей маленький хлопець потребує тепла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хітхугер"
+  }
+]

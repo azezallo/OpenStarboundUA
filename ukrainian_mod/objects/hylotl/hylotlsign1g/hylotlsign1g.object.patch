@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зелений знак лілії"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зелена неонова вивіска, яка рекламує меблі з лілії, натхненна дизайнерським рухом."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, цей знак рекламує... лілію."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "На яку лілію вказує цей знак?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Баззі sssign дратує Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. Знак із зображенням лілії! Гілотлі, здається, надзвичайно люблять лілії."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, на що вказує цей знак. Можливо, магазин лілій?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Просто побачивши цей знак, мені стає тепло на серці. Так багато спогадів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Конвалія, якщо я не помиляюся."
+  }
+]

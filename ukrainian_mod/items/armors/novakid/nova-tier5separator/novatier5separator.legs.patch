@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вільного крою та довговічності, для всіх ваших потреб."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани Вармінта"
+  }
+]

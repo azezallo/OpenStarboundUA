@@ -1,0 +1,92 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "Налаштування транспондера станції"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "^#b9b5b2;Налаштуйте та запустіть зонд розгортання вашої станції"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/connectingLabel/value",
+    "value": "Підключення до S.A.I.L..."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/configure/children/configureLabel/value",
+    "value": "Налаштування"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/configure/children/name/hint",
+    "value": "Введіть назву станції"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/configure/children/description/hint",
+    "value": "Введіть опис станції"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/configure/children/saveButton/caption",
+    "value": "ЗБЕРЕГТИ"
+  },
+  {
+    "op": "replace",
+    "path": "/connect/connectText",
+    "value": "^green;Підключення до S.A.I.L"
+  },
+  {
+    "op": "replace",
+    "path": "/connect/failText",
+    "value": "^red;Неможливо встановити широкосмугове підключення до S.A.I.L\nСпробуйте ще раз з вашого корабля"
+  },
+  {
+    "op": "replace",
+    "path": "/connect/successText",
+    "value": "^green;Широкосмугове з'єднання встановлено\nПередача системних даних"
+  },
+  {
+    "op": "replace",
+    "path": "/connectedText",
+    "value": "^green;Зв'язок встановлено"
+  },
+  {
+    "op": "replace",
+    "path": "/deployingText/dispatching",
+    "value": "^green;Запит на відправку зонда"
+  },
+  {
+    "op": "replace",
+    "path": "/deployingText/traveling",
+    "value": "^green;Зонд відправлено.\nЗонд наближається до цільової орбіти"
+  },
+  {
+    "op": "replace",
+    "path": "/deployingText/deploying",
+    "value": "^green;Зонд досяг цільової орбіти.\nРозгортання станції"
+  },
+  {
+    "op": "replace",
+    "path": "/deployingText/deployed",
+    "value": "^green;Станція розгорнута"
+  },
+  {
+    "op": "replace",
+    "path": "/deployingText/error",
+    "value": "Помилка розгортання зонда. \nЗв'язок втрачено..."
+  },
+  {
+    "op": "replace",
+    "path": "/nameLabel",
+    "value": "назва > "
+  },
+  {
+    "op": "replace",
+    "path": "/descriptionLabel",
+    "value": "опис > "
+  }
+]

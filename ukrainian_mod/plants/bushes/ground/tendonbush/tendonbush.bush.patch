@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гротескний шматок плоті."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гротескний шматок плоті."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Fleshhh."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вжахнувся. Гротескний шматок плоті."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Здається, у цьому кущі живуть маленькі жучки, що світяться."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кущ світлячка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гарне колесо світлячків і танок."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці крихітні істоти змушують мене довго парити."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран їсть світяться мушки з фруктами."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вражений. Ці світлячки літають у гіпнотичній схемі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Світлячки, їх чомусь приваблює цей кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Часом краса природи вражає."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Усі ці жучки горять, як маленькі свічки."
+  }
+]

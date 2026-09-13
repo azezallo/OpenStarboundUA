@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дешевий, але ефективний будівельний матеріал."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Асфальт"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Огидно. Показники показують, що естетична цінність асфальту становить менше 2%."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Липкий асфальт, смердючий, як смола."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Це суміш липкої олії та каменів."
+  }
+]

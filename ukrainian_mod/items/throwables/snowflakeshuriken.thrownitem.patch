@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сніжинка сюрікен"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сюрікен із крижаних сніжинок."
+  }
+]

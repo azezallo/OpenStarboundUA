@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Запускає сяючі промені чистої енергії!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Легкий лук"
+  }
+]

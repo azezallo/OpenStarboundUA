@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дивний тип інопланетної деревини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Alien Weird Wood"
+  }
+]

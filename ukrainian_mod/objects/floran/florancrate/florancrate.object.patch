@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ящик для зберігання з необробленої деревини та кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивний ящик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Простий ящик з дерева та кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дерево і кістка створюють простий ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран використовував запасні кістки та деревину для зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Яка ймовірність того, що цінний предмет буде таким непоказним ящиком?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кістяні кути дозволяють йому легко пересуватися по землі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мені страшно подумати про те, що Флоран зберігає в цьому ящику."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я майже не хочу знати, що всередині цього ящика. майже."
+  }
+]

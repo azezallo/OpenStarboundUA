@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже проста каструля, підвішена над вогнищем."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивна піч"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Примітивна піч"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Для справжнього сільського смаку"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Піч. З почорнілих від полум'я кісток висить горщик."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Сама піч, здається, зроблена з кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран готує їжу, насолоджується солодкими соками."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Виглядає така плита не особливо гігієнічно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Хто б міг сказати, що варилося в цьому горщику."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я б краще не їв їжу, приготовану на цій штуковині."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Все, що вам потрібно для приготування їжі."
+  }
+]

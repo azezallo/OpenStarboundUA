@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Оригінальний перевтілення. Все ще найкращий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Окуляри Граучо"
+  }
+]

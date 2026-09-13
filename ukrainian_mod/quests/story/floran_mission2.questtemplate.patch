@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Отримати артефакт флоранів",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Підказки, які ти зібрав, вказують на те, що ^orange;артефакт флоранів^reset; зберігається в ^orange;Церемоніальних Мисливських Печерах^reset;. Судячи з того, що я дізналася, тобі доведеться ^green;взяти участь у ритуальному полюванні, щоб здобути його^reset;. Я передала Б.Ш.І. потрібні тобі координати. Будь обережним, серденько.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Чудово, ти впорався на відмінно! Ми пройшли одну шосту частину шляху, серденько. Це не абищо. А тепер з нами ще й ^orange;Нуру^reset;, яка нам допоможе.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Я отримав координати ^orange;Церемоніальних Мисливських Печер^reset;. ^green;Використай інтерфейс місій^reset;, щоб отримати доступ до цієї локації.",
+    "path": "/scriptConfig/missionRadioMessage/text",
+    "op": "replace"
+  },
+  {
+    "value": "Знайди ^orange;артефакт^reset; у ^green;Мисливських Угіддях^reset;",
+    "path": "/scriptConfig/descriptions/artifact",
+    "op": "replace"
+  },
+  {
+    "value": "Повернись до ^orange;Естер^reset; на ^green;Ковчег^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

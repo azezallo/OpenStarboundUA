@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Спалах яскравості прикрашає ці високоякісні штани."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нео Низ"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Тонкий чагарник.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Тонкий чагарник",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Тонкий чагасссрник. Флоран може сссховатися.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Тонкий чагарник.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

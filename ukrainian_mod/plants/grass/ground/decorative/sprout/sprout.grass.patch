@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Маленький паросток.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Маленький паросток",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран бачить пароссссток.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Маленький паросток.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

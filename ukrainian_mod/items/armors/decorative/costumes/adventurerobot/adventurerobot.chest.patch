@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Violium робить цей прототип нагрудного щитка неймовірно міцним.-НЕ ВИКОРИСТОВУЄТЬСЯ-"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кираса авантюриста"
+  }
+]

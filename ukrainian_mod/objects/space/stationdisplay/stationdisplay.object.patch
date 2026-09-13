@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Настінний екран підсвічувався великою кількістю синього тексту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дисплей станції"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Екран, який відображає, як я вважаю, важливу інформацію."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Текст на цьому екрані холодно-блакитного кольору."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану наплювати на синій знак."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Цікаво, скільки тексту на цьому екрані насправді корисного?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кутовий екран із синім текстом, що нескінченно прокручується."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Холодні сині вогні нагадують мені брижі місячного світла на поверхні річки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Напевно є багато інформації про це. Я не впевнений, що зможу це все запам’ятати."
+  }
+]

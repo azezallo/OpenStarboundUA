@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Між нами є щось особливе."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великий щит"
+  }
+]

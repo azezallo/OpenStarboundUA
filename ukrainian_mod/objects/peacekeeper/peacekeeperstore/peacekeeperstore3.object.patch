@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Магазин товарів для миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Магазин «Миротворець»."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Магазин «Миротворець»."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Здайте ці кредити миру!"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Було б розумно ознайомитися з вмістом цього магазину товарів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Співвітчизник, який допомагає місцевій громаді! Таке захоплення."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче чогось нового."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нетерпіння. Цікаво, які товари є в цьому магазині?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я радий, що прокручувані неонові вивіски ніколи не виходили з моди."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Здається, цей помічник пропонує припаси."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця жінка здається дуже корисною!"
+  }
+]

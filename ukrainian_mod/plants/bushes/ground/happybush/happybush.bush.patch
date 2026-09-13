@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Приємний кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Приємний кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Бушшш!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Приємний кущ."
+  }
+]

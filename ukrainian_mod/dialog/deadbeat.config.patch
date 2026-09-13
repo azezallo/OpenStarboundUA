@@ -1,0 +1,147 @@
+[
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "value": "Виходь ГРАТИСЯ!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/1",
+    "value": "Ти зайшов не в ту частину всесвіту!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/2",
+    "value": "Це НАША територія!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/3",
+    "value": "Ти так легко не втечеш!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/4",
+    "value": "З поверненням до божевільні!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/5",
+    "value": "Дивіться, кого я знайшов!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/6",
+    "value": "Я тебе бачу! ЦЬОГО разу ти не втечеш!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/7",
+    "value": "Ти звідси не підеш!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Виходь ГРАТИСЯ!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/1",
+    "value": "Ти зайшов не в ту частину всесвіту!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/2",
+    "value": "Це НАША територія!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/3",
+    "value": "Ласкаво просимо до божевільні!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/4",
+    "value": "Ха ха ха ха ха!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/5",
+    "value": "Дивіться, кого я знайшов!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/6",
+    "value": "Я тебе бачу! Ти не втечеш!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/7",
+    "value": "Ти звідси не підеш!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "value": "Ще один трофей до колекції!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/1",
+    "value": "Не твій день!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/2",
+    "value": "Повертайся, щоб я міг вбити тебе знову!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/3",
+    "value": "Посередньо!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "value": "Втікай, підібгавши хвіст!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/1",
+    "value": "Куди вони поділися?!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/0",
+    "value": "Повертайся, боягузе!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/1",
+    "value": "Ану повертайся!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/0",
+    "value": "Йди сюди і бийся!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/1",
+    "value": "Вийди зі мною віч-на-віч, боягузе!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/0",
+    "value": "Розірвіть їх на шматки!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/1",
+    "value": "Покажіть їм, як ми поводимося з порушниками!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/2",
+    "value": "Бійка! Бійка!"
+  }
+]

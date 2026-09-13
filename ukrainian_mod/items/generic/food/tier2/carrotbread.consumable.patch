@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Буханець морквяного хліба. Скажімо чесно, це просто пиріг у формі хліба."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Морквяний хліб"
+  }
+]

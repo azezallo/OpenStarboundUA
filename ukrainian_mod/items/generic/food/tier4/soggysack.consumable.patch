@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нутрощі Dirturchin, наповнені коралковим кремом, щоб зробити страву, яка звучить жахливо та має чудовий смак."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мокрий мішок"
+  }
+]

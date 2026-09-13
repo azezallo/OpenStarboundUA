@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже міцний на вигляд ящик для інструментів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Червоний інструментарій"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Корисна червона коробка інструментів! Велика, важка і робить чудову дробючу зброю."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Дуже міцний ящик для інструментів."
+  }
+]

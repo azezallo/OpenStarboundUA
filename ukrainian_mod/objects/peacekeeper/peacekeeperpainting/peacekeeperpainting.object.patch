@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крута картина позачасового туманного пляжного заходу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Живопис миротворець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це приємний твір мистецтва."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мені, як птаху, завжди подобаються художні зображення сонця."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран бачить дерево. Флоран схвалює."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спокійно. Ця намальована сцена викликає відчуття позачасу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Рожеві заходи сонця і пальми"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Досить приємний градієнт кольорів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Досить вічна сцена, чи не так?"
+  }
+]

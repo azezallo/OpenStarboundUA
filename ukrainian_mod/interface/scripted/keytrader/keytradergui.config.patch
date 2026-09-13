@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": " Таємний Торговець"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": " Обмін речей на таємний ключ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblOfferedTradeLabel/value",
+    "value": "Поточна пропозиція:"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblKeyName/value",
+    "value": "Ключ Сховища"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/btnTrade/caption",
+    "value": "Обміняти"
+  }
+]

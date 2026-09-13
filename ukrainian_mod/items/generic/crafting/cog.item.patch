@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це гвинтик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мідний гвинтик"
+  }
+]

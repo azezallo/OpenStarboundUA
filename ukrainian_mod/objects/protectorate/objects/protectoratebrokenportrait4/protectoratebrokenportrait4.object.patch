@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Естер Брайт, колишній великий Захисник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Портрет великого захисника"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Естер Брайт, попередній великий Захисник."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Попередній великий Захисник на ім'я Естер Брайт."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "«Естер Брайт — колишній великий Захисник». Яка стара людина в окулярах!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. На меморіальній дошці написано «Естер Брайт — колишня велика захисниця»."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "На меморіальній дошці написано «Естер Брайт — колишня велика захисниця»."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Естер Брайт, попередній великий Захисник."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Естер Брайт, попередній великий Захисник."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Покрівельні плитки, вирізані з міді.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Мідна покрівля",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Здивування. Ці покрівельні плитки цілком зроблені з міді.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану подобаєтьссся сссвітляна мідна покрівля.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Купка файних мідних покрівельних плиток.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

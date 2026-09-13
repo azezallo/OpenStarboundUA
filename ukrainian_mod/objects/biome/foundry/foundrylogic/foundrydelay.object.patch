@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "<Схема, яка ретранслює сигнали після встановленої затримки.>"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ворота ливарної затримки"
+  }
+]

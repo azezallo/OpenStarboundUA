@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бомба"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чудовий спосіб підірвати речі. Будьте обережні, куди ви їх кидаєте!"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стілець з дерева та очерету."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Очеретяне крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Крісло, яке підходить для короля джунглів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це крісло виглядає як якийсь трон у джунглях."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це крісло стане прекрасним троном для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Очерет створює креативне рішення для сидіння."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це не дуже зручне крісло, але виглядає круто."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей стілець чудовий, концептуально, але трохи непрактичний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це стілець, виготовлений з дерева та очерету. Якось шикарно."
+  }
+]

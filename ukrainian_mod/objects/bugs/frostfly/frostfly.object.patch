@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Де мороз, там і морозці."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фростфлай"
+  }
+]

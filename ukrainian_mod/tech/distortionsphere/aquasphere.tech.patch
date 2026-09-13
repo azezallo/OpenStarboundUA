@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворіться на сферу та швидко рухайтеся по рідинах! ^green;[F]"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "value": "Аква Сфера"
+  }
+]

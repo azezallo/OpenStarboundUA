@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей кинджал легкий, але неймовірно міцний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Титановий кинджал"
+  }
+]

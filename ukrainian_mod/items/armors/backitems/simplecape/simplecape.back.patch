@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Базова накидка. Один суцільний колір – усе, що вам потрібно!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Проста накидка"
+  }
+]

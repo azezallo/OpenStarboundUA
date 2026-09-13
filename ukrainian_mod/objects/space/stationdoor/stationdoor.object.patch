@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Елегантні автоматизовані двері, виготовлені з тих самих матеріалів, що й на зовнішніх космічних станціях."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Двері станції"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Витончені металеві двері. Я ціную його гострий дизайн."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це досить якісні металеві двері!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Двері виглядають різко. Флоран розглядає двері як потенційну зброю."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нагадує. Кутовий дизайн цих дверей нагадує мені традиційні банери Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці двері, ймовірно, можуть отримати кілька ударів, м’яко кажучи."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Досить ефектно зроблені двері. Дивно, але я схвалюю це."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці ось двері, здається, можуть протриматися одну-дві бурі."
+  }
+]

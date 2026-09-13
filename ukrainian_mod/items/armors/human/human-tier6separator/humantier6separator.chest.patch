@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Боріться зі стихією величезного космосу в цій потужній куртці для солярію."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Технічна куртка Universalist"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Довжина мотузки. Корисно для лазіння та зв'язування речей!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мотузка"
+  }
+]

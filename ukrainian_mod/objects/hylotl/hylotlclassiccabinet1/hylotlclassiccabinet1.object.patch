@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дерев'яна шафа. Його двері сповнені гравірованого декору."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційна квадратна шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Хтось зіпсував цю шафу, чи вона мала виглядати так?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці прикраси виглядають гарно! У всякому разі, якщо ви жмуритеся."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану цікаво, хто прикрасив цей потворний кабінет."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. Цю шафу прикрашала дитина? Виявляється так."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Таке враження, ніби художник-аматор спробував це прикрасити. Як дивно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Глибина і сенс цих різьблень захоплюють дух."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Кумедна на вигляд шафа. Хто б вважав це гарним?"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Вийти"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "Телепорт на корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/message",
+    "value": "Прогрес місії буде втрачено. Телепортуватись?"
+  },
+  {
+    "op": "replace",
+    "path": "/okCaption",
+    "value": "Добре"
+  },
+  {
+    "op": "replace",
+    "path": "/cancelCaption",
+    "value": "Скас."
+  }
+]

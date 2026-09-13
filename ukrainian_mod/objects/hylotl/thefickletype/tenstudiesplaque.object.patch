@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця табличка, очевидно, описує якесь мистецтво Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дослідження форми Hylotl... Там написано «V: Десять досліджень жіночої статі»."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "На табличці є нудні слова. Хоча дуже блискучий."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Ця табличка має назви та дати, що відсилають до мистецтва."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Там читається щось про Hylotlgy."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "На цій табличці написано «Дослідження жіночої гілотлії»."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Десяте дослідження жіночої гілотгії"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Табличка"
+  }
+]

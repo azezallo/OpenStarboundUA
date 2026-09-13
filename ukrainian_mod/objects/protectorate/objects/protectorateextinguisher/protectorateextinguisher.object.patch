@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вогнегасник, коли станеться найгірше."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Земного Захисту Вогнегасник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Безпека перш за все."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Вогнегасник."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Вогонь вбивця! Флоран ненавидить вогонь."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розслаблений. Я радий, що тут є певні заходи безпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вогнегасник. Я сумніваюся, що ним коли-небудь користувалися."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це вогнегасник."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Для гасіння пожеж."
+  }
+]

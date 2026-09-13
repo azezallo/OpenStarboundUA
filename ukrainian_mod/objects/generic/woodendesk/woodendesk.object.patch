@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дорогий дерев'яний письмовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Масивний дерев'яний письмовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Стіл для роботи."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не сиди на столі!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спокійно. Місце для обробки даних."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гарний дерев'яний стіл. У мене не так багато паперів, які потрібно виконати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Парта, за якою можна виконувати письмові завдання."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "У мене немає часу сидіти за столом."
+  }
+]

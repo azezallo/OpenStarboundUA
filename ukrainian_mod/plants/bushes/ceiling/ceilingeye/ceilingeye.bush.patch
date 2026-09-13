@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A grotesque hanging eye."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "A grotesque hanging eye."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Шукаюче око!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Revulsion. A hanging eye."
+  }
+]

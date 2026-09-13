@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцні двері з титану."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Титанові двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці двері досить безпечні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дуже міцний для базових дверей."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран ховається за дверима. Вискочити. Ssstab!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Корисні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Міцні двері з титану."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Міцні двері з титану."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тепер це міцні на вигляд двері!"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бо хто хоче витрачати гроші на шикарний капелюшок?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Картонна шапка"
+  }
+]

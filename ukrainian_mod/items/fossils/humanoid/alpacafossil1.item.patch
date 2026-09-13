@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий череп альпаки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Череп Альпака"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Викопні альпаки"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Щільні тверді кістки давно померлої альпаки."
+  }
+]

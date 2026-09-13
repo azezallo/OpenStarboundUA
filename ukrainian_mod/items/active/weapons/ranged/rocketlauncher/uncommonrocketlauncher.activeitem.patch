@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Влада підривати речі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Незвичайна ракетниця"
+  }
+]

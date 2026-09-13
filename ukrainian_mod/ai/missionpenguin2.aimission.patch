@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "value": "Weapon Testing Site"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "value": "Revisit Weapon Testing Site"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "value": "The penguin scientist Dr. Akaggy requires your help testing a new weapon."
+  }
+]

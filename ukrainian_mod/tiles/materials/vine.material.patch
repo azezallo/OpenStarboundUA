@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Лоза",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Туго зв'язана лоза. Виглядає міцною.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Зачарування. Схоже, ці міцні лози сплелися разом під час росту.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Лоза виросссла міцною, як флоран.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Велика лоза.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

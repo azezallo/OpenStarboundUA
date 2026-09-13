@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Статуя жаби, яка мирно сидить."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуя жаби"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Статуя миролюбної жаби."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця істота виглядає задумливим і задумливим."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран би вдарив цього жабника."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Ця статуя зображує вид жаби, про який я не знаю."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якби таких хлопців було трохи більше, ми могли б поспівати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це грандіозна статуя жаби."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Як ця жаба так сидить? Здається, він би зламав собі ноги."
+  }
+]

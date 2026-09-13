@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Твердий природний пісковик.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Пісковик",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Уважність. Цей пісковик зроблений з дрібних порід.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Пісссщана порода.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Якась піщана порода, легіню.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

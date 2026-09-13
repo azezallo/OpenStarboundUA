@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця різьблена цегла незмірно стара."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Старовинна цегла"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Ці старовинні цеглини витримали руйнування часу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Старовинна різьблена цегла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Деякі могутні старовинні цеглини."
+  }
+]

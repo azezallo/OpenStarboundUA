@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старомодний космічний шолом!  Вау!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Космічний шолом"
+  }
+]

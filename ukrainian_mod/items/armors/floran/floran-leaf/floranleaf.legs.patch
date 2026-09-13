@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цензура аркушів робить те, що діти не повинні бачити!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Листові ніжки"
+  }
+]

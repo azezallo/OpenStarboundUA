@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Жовту пелюстку можна перетворити на барвник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жовта пелюстка"
+  }
+]

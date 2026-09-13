@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шикарний святковий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Королівський обідній стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, головною особливістю цього столу є приваблива скатертина."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хтось постелив ганчіркою цей шикарний стіл, щоб він був чистим."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це ліжко чи стіл? Це шикарно."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Жадібний. Минуло багато часу, як я був присутнім на бенкеті Glitch. Мало хто у всесвіті здатний на такі веселощі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Величезний обідній стіл. Ідеально підходить для застілля."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Схоже на стіл, за яким члени сім'ї збираються в товаристві. Скатертина натякає на банкет."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Чудовий столик для няньки!"
+  }
+]

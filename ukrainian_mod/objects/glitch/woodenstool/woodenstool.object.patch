@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Простий дерев'яний табурет."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Простий дерев'яний табурет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленький гарний дерев'яний табурет."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Табурет з дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Крісло для маленького металіста."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Не вражений. Табурет."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Добре підняти ноги."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Багато меблів Hylotl приблизно такої висоти."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Звичайний на вигляд табурет."
+  }
+]

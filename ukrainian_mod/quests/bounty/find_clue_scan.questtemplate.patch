@@ -1,0 +1,62 @@
+[
+  {
+    "value": "^orange;Нагорода за вбивство",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Знайти підказку до місцезнаходження цілі",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти знайшов підказку. Куди вона веде?",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Вирушай^reset; до ^green;%s^reset;",
+    "path": "/scriptConfig/objectives/findWorldStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Обшукай^reset; планету на наявність сигнатури цілі",
+    "path": "/scriptConfig/objectives/findClueScanStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Шукай^reset; підказки",
+    "path": "/scriptConfig/objectives/findClueScanStage/1",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nЯ знайшов зразок ДНК, який відстежив до <next.coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/prev/0",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nДеяка несподівана ДНК, яку я знайшов, наразі відстежується до <next.coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/prev/1",
+    "op": "replace"
+  },
+  {
+    "value": "^green;<coordinate.name>^reset;:\nЗавдяки своїм детективним навичкам я відстежив знайдений зразок ДНК до <next.coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/prev/2",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;<bounty.name>^reset; востаннє бачили на <coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Слід охолов! Без жодних подальших зачіпок <bounty.name> знову вислизнув крізь наші пальці. Хто знає, які жахливі злочини він скоїть, перш ніж ми отримаємо ще один шанс його знешкодити?",
+    "path": "/scriptConfig/generatedText/failureText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вичерпавши всі доступні зачіпки, ми змушені припинити полювання на <bounty.name>. Це темний день для справедливості.",
+    "path": "/scriptConfig/generatedText/failureText/default/1",
+    "op": "replace"
+  }
+]

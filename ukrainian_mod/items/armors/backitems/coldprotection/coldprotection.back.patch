@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це оновлення додає теплогенерацію до можливостей вашого EPP. Корисно на ^red;небезпечно холодних^reset; планетах."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Опалення EPP Upgrade"
+  }
+]

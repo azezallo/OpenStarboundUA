@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Capture Pod"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Киньте його в монстра, щоб насильно захопити його та перенести в новий дім."
+  }
+]

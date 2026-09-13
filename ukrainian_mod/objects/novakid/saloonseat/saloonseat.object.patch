@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Незручне на вигляд салонне крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Салонне крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дерев'яне крісло салонного типу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Жорстке салонне крісло з тонкою червоною подушкою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Подушка для крісла. Флоран може сссить."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "впевнений. Об'єктивно незручно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Виглядає досить незручно, але принаймні є подушка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Було докладено невеликих зусиль, щоб зробити це комфортним."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це не сідло, а сидіння сидіння."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "op": "replace",
+    "path": "/1/up/0",
+    "value": "Це жарт?"
+  },
+  {
+    "op": "replace",
+    "path": "/1/down/0",
+    "value": "Прощай, жорстокий світ"
+  },
+  {
+    "op": "replace",
+    "path": "/5/up/0",
+    "value": "Я помру, якщо не отримаю ще"
+  },
+  {
+    "op": "replace",
+    "path": "/5/down/0",
+    "value": "Я бачу світло.."
+  },
+  {
+    "op": "replace",
+    "path": "/10/up/0",
+    "value": "Більше, більше! Мені потрібно більше!"
+  },
+  {
+    "op": "replace",
+    "path": "/10/down/0",
+    "value": "Ледве стою."
+  },
+  {
+    "op": "replace",
+    "path": "/15/up/0",
+    "value": "Потрібно знайти більше їжі!"
+  },
+  {
+    "op": "replace",
+    "path": "/15/down/0",
+    "value": "Я не можу довго це терпіти!"
+  },
+  {
+    "op": "replace",
+    "path": "/25/up/0",
+    "value": "Мені потрібно більше!"
+  },
+  {
+    "op": "replace",
+    "path": "/25/down/0",
+    "value": "Дуже голодний..."
+  },
+  {
+    "op": "replace",
+    "path": "/50/up/0",
+    "value": "Я все ще голодний"
+  },
+  {
+    "op": "replace",
+    "path": "/50/down/0",
+    "value": "Стає дуже голодним"
+  },
+  {
+    "op": "replace",
+    "path": "/75/up/0",
+    "value": "Трохи краще"
+  },
+  {
+    "op": "replace",
+    "path": "/75/down/0",
+    "value": "Отримувати клопоти"
+  },
+  {
+    "op": "replace",
+    "path": "/99/up/0",
+    "value": "Ммм, я ситий!"
+  },
+  {
+    "op": "replace",
+    "path": "/99/down/0",
+    "value": "Ммм, я ситий!"
+  },
+  {
+    "op": "replace",
+    "path": "/100/up/0",
+    "value": "Ммм, я ситий!"
+  },
+  {
+    "op": "replace",
+    "path": "/100/down/0",
+    "value": "Ммм, я ситий!"
+  }
+]

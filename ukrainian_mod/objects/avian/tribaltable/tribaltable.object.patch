@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цікаво різьблений стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Різьблений стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Красиво оформлений обідній стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Після їжі зазвичай беруться за роботу ножі та виделки, додаючи нові гравюри на стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран найкращі часи провів за обіднім столом."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Оздоблення цього столу складне."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, що ціла родина допомагала прикрашати цей стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Господарі, здається, прикрашали цей стіл гуртом."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Обідній стіл ручної роботи."
+  }
+]

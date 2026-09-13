@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Коралкрип, рифпод і перловка створюють солоний, хрусткий салат."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сіль салат"
+  }
+]

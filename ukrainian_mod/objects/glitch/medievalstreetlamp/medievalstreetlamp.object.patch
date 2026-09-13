@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це старий вуличний ліхтар. Віддає трохи тепла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічний вуличний ліхтар"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Вуличний лікувальний ліхтар із дерева та заліза."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Світильник, підвішений на дерев'яному каркасі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Вогонь висить у клітці, подалі від Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Корисний вуличний ліхтар. Неосвітлених вулиць краще уникати вночі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Виглядає як дерев'яний вуличний ліхтар."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гілотлі найбільше люблять підвісні світильники."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Лампа для освітлення вулиці вночі."
+  }
+]

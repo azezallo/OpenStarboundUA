@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Радарна тарілка. Не плутати з салатом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Евакуаційна радарна тарілка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чудова радарна антена."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Гарне блюдо."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить ssssmash страви!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Радарна тарілка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це солодка страва."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Досить ефектна радарна антена."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я бачив більший посуд."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Захистіть всесвіт за допомогою цього захоплюючого механічного шасі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Hero Mech Body"
+  }
+]

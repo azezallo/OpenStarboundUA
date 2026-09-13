@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже великий транспортний контейнер."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Транспортний контейнер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це величезний ящик для перевезення великих вантажів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я б припустив, що він призначений для перевезення дуже великих об’єктів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Можливо, там їжа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Що тут зберігається?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це дійсно великий транспортний контейнер."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Досить великий контейнер для перевезення великої кількості вантажу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Великий контейнер для перевезення вантажів."
+  }
+]

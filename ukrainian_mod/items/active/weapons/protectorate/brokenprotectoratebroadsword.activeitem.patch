@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже гарний меч у дуже поганому стані."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зламаний палаш"
+  }
+]

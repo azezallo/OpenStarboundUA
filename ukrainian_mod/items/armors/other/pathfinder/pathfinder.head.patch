@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шолом слідопита створений для спілкування. На жаль, цей не працює."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом слідопитів"
+  }
+]

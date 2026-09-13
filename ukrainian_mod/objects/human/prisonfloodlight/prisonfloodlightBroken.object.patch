@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мерехтливе світло створює моторошний настрій."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленький зламаний прожектор"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Такі прожектори використовують Міннаук, щоб змусити людей говорити. Хоча цей здається досить пошкодженим."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Надокучливе, мерехтливе світло."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Мерехтливе світло змушує Флорана нервувати."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "роздратований. Хтось повинен полагодити це світло."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мерехтливе світло! Ще кілька таких, і ми зможемо відкрити нічний клуб!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пошкоджений прожектор. Сумніваюся, що найближчим часом його замінять."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мерехтливе джерело світла. дратує."
+  }
+]

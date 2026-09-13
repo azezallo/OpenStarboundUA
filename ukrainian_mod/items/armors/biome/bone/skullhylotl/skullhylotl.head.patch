@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Череп Гілотля. Сподіваюся, вони загинули смертю воїна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска черепа Хілотла"
+  }
+]

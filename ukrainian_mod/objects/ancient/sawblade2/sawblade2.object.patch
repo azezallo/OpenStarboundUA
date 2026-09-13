@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ого, це виглядає гостро!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Старовинна пастка для пили"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Виглядає різко."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Виглядає різко."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Страшно гострий. Флоран повинен уникати."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "хвилювався. Здається, він обертається зі швидкістю чотири тисячі обертів за хвилину."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ого, тут я мушу бути обережним."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я не хочу ставати суші."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це не виглядає дружньо."
+  }
+]

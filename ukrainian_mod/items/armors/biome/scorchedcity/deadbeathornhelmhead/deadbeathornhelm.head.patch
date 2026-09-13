@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Металевий шолом з рогом, що виступає спереду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом із рогу Мертвогубця"
+  }
+]

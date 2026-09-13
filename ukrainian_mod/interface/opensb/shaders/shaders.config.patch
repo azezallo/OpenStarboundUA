@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/title/value",
+    "value": "ШЕЙДЕРИ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/close/caption",
+    "value": "Назад"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/noShadersMessage/value",
+    "value": " Шейдери\nне встановлені"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/groups/children/list/schema/listTemplate/button/caption",
+    "value": "Без назви"
+  }
+]

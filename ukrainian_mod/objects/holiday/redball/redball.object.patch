@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Червона куля, прикрашена великою білою зіркою! Вони популярні як святкові прикраси."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Червона куля свято Орнамент"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Блискуча червона куля. Гарненька."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Велична червона куля."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран удар блискучий м'яч!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Щаслива. Чудова прикраса."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Треба бути обережним, щоб не розбити цю дрібничку."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У цьому блискучому м’ячі є щось гіпнотизуюче."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Красива червона куля, відмінно підходить для прикраси."
+  }
+]

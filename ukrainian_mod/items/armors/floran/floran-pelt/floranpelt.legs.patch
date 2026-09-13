@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця набедрена пов'язка пов'язана міцними лозами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шкіряні ноги"
+  }
+]

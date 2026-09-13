@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей телепорт повинен повернути вас до штабу Миротворця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Телепорт миротворця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей телепорт поверне мене назад до штабу Миротворця."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це перешле мене назад на станцію «Миротворець»."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це поверне мене до штабу миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Це телепорт, призначений для прямого переміщення до штабу миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Телепорт, призначений для переміщення в штаб-квартиру миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей телепорт перенесе мене назад на базу Миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей телепорт відведе мене прямо до миротворців."
+  }
+]

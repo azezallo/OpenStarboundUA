@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тло скляного проходу зліва"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тло скляного проходу зліва"
+  }
+]

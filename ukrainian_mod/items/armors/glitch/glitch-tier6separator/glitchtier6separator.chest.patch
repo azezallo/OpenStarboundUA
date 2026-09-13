@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Позолочений нагрудник, щоб прикрашати груди вправних у війні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кіраса Лорда"
+  }
+]

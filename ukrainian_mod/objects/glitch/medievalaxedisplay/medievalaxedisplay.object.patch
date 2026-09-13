@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці осі дисплея виглядають дуже гостро."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дисплей сокири"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Пара декоративних сокир. Вони виглядають досить гострими, щоб користуватися ними."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Брутального вигляду сокири. Вони дійсно виглядають дуже гостро."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сс-дурно! Сокира не на стіну."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Хвастливий. Гостра сокира для Глюка - витвір мистецтва."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дві короткі гострі сокири."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гілотлі також бачать художню цінність у своїй зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Яскраві експонати. Ніщо в порівнянні з вірним старим улюбленцем."
+  }
+]

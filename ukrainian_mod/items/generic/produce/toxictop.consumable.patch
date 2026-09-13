@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Фрукт токсичного вигляду. Чи може зовнішність оманлива?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Токсиктоп"
+  }
+]

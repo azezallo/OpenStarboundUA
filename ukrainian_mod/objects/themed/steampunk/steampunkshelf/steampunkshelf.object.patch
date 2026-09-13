@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Набір полиць, підвішених трубами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стімпанк полку"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Труби є надійним рішенням для безпечного зберігання на стіні.aa"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "У цій полиці з переробленого вигляду є справжня творча нотка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не любить книжок, але, здається, полиця в порядку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Труби встановлені для того, щоб підтримувати полиці."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це досить творче використання старих труб."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це досить неелегантний спосіб зберігання коробок, але я захоплююся зусиллями."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цікаво, чи той старий годинник зламався?"
+  }
+]

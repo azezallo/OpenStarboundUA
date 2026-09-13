@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нашийник, який надає вашому улюбленцю примарного вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примарний комір"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "value": "Примарний"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Запускає дистанційну міну, яка створює крихітну гравітаційну сингулярність."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Механічна рука Gravity Mine"
+  }
+]

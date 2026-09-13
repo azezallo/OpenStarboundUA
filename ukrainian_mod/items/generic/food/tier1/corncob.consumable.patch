@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Масляний качан кукурудзи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кукурудзяний качан"
+  }
+]

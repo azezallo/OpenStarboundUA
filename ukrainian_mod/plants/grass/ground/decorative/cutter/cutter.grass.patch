@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Гострокінцева рослина.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Гострокінцева рослина",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Госсстрий лісссовий цвіт.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Гострокінцева рослина.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

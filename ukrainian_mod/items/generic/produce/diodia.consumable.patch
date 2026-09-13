@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Діодія, на смак нагадує мідь."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Діодія"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Проста смугаста миска."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційна чаша"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Смугаста миска."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Основна смугаста чаша."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чаша."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Чаша."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це чаша."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гарна миска, розписана вручну."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Добре підходить для подачі гарячого супу."
+  }
+]

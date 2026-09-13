@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Відомий шеф-кухар Glitch спробував імітувати картопляне пюре. Йому це вдалося. ніби"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Змаш"
+  }
+]

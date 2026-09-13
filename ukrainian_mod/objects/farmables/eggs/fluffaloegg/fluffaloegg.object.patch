@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вилуплюється вразливе дитинча звичайного волоха - гарне джерело рослинної клітковини після повного розвитку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Яйце волоха"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Яйце волоха звичайного, зріла тварина виділяє рослинну клітковину."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пушице яйце - звичайна різновид."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "У цьому великому яйці живе великий звір – великий дружелюбний звір-пух!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Ностальгічний. Пухоносці – звичайний вибір худоби для фермерів Глітч."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Яйце волоха! Всередині симпатичний маленький пухонос."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Яйце волоха звичайного, привітної істоти."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це звичайне яйце волоха."
+  }
+]

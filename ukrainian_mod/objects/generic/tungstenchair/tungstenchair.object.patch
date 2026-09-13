@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Незручне на вигляд крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Металевий розкладний стілець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це крісло розкладається."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Крісло складається для економії місця. Інноваційний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Крісло холодне і незручне."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "несхвально. Це зроблено з неякісного металу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Один із тих жахливих складних стільців."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це виглядає страшенно незручно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це виглядає дуже незручно."
+  }
+]

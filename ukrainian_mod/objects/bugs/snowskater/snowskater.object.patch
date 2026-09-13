@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кінчики його ніг покриті снігом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сніговик"
+  }
+]

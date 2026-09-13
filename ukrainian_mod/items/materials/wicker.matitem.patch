@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плетені"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Грубо плетений плетений матеріал."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Проникливий. Ця лоза щільно сплетена і міцна."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Міцна лоза робить стіну."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Я схожий на лозу."
+  }
+]

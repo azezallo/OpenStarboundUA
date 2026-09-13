@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця банка бачила кращі дні. Виглядає розбитим..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фантастична храмова банка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тут носять різьблення. Здається, горщик готовий розбити."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця банка була б прикрашена зображеннями Kluex. Він може містити предмети, зроблені як пропозиція."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Банка вся зношена, готова до розбиття."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Матеріал крихкий і легко ламається."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Здається, ця річ може розвалитися від найменшого дотику. Цікаво, чи є щось всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Маркування на цій банці більше не видно. Однак він може містити щось корисне."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця тендітна баночка ідеально виглядає для стрільби."
+  }
+]

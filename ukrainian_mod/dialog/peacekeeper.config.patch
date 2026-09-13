@@ -1,0 +1,107 @@
+[
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "value": "Знову ти!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/0",
+    "value": "*Агресія.* Цього разу ти не втечеш."
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default/0",
+    "value": "Флоран зззупинить тебе цього разу!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Стій на місці, порушнику закону!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/0",
+    "value": "asdasd"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/0",
+    "value": "*Відповідальність.* Я відправлю тебе до космічної в'язниці!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "value": "Ти маєш право залишатися мертвим."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/0",
+    "value": "*Сум.* Вбивати було не обов'язково."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/0",
+    "value": "Ззлочинцям варто було зздатиссся..."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "value": "Ми знайдемо тебе!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/0",
+    "value": "*Терплячість.* Я просто почекаю тут, поки ти повернешся."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/0",
+    "value": "Флоран — хорошшшшшшшшший захисссссссссник, Флоран знайде здобич!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/0",
+    "value": "Ми знайдемо тебе!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/glitch/default/0",
+    "value": "*Терплячість.* Я просто почекаю тут, поки ти повернешся."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/floran/default/0",
+    "value": "Флоран — хорошшшшшшшшший захисссссссссник, Флоран знайде здобич!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/0",
+    "value": "Вони тікають!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/glitch/default/0",
+    "value": "*Роздратування.* Злочинець поза моєю досяжністю!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/floran/default/0",
+    "value": "Флоран недоссстатньо шшшшшшшшшвидкий!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/0",
+    "value": "Знищте кримінальне сміття!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/glitch/default/0",
+    "value": "*Підбадьорення.* Одягніть на них наручники!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/floran/default/0",
+    "value": "Сссссссссхопіть ззлочинців!"
+  }
+]

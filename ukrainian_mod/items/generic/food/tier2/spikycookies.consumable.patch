@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Як звичайне печиво, тільки гостріше."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Колюче печиво"
+  }
+]

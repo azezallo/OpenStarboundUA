@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Досить міцний, щоб витримати вимоги космічної подорожі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Корабельна платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Інформований. Такі платформи використовуються в будівництві космічних кораблів."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Міцна корабельна платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Ця платформа досить міцна, щоб захистити її від потертостей."
+  }
+]

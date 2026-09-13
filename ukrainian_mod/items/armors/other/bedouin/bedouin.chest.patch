@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Багатошаровий образ для тих, хто хоче сміливо протистояти невідомому."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плащ пустелі"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стіл, накритий на висоті колін."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційний низький стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленький столик. Виглядає не дуже міцно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей стіл накритий дуже низько, він незвичайний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стіл надто крихкий, щоб Флоран міг нарізати м’ясо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережно. Я не звик до такого низького столу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей стіл настільки низький, що мені навіть не потрібен був би стілець. Можливо, це ідея."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "З таким столом кожна трапеза стає радісним досвідом."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Найнижчий стіл, який я коли-небудь бачив."
+  }
+]

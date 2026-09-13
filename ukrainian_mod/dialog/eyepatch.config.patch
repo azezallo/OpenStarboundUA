@@ -1,0 +1,182 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "value": "Загрозливо. Всевидячі Лицарі не дозволяють нічому відвернути наш погляд."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/1",
+    "value": "Практично. Всевидячі Лицарі допомагають тим, хто допомагає нам."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/2",
+    "value": "Зловісно. Ми допомагаємо тим, хто дає нам домівки, поки вважаємо за потрібне..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/3",
+    "value": "Задумливо. Символ ока - це той, що дивиться вічно."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/4",
+    "value": "Страхітливо. Ніхто не сховається від погляду Всевидячих Лицарів!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/0",
+    "value": "Гнівно. Я БАЧУ, що тут є проблема!"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/1",
+    "value": "Розчаровано. Хіба ви не БАЧИТЕ проблему?"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/0",
+    "value": "Страхітливо. Нерозумно виявляти неповагу до Всевидячих Лицарів!"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/1",
+    "value": "Загрозливо. Ваша неповага не залишилася непоміченою..."
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/0",
+    "value": "Шанобливо. Я вам потрібен?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/1",
+    "value": "Терпляче. Вам потрібні Всевидячі Лицарі?"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/2",
+    "value": "Спостережливо. Я БАЧУ, ви вимагаєте моєї присутності."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/0",
+    "value": "Вдячно. Ви допомогли мені, а Всевидячі Лицарі завжди віддячують тим самим."
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/1",
+    "value": "Вдячно. Ось знак моєї подяки, за те, що надали мені дім."
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "value": "Агресивно. Я БАЧУ ТЕБЕ!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/1",
+    "value": "Спостережливо. Я помітив наближення ворога!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/2",
+    "value": "Страхітливо. Тобі не втекти від мого погляду!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/3",
+    "value": "Вороже. Спостерігай власну поразку від моїх рук!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/4",
+    "value": "Загрозливо. Я знову ПОБАЧИВ нашу ціль!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Агресивно. Я БАЧУ ТЕБЕ!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/1",
+    "value": "Спостережливо. Я помітив наближення ворога!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/2",
+    "value": "Залякуюче. Ти не зможеш втекти від мого погляду!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/3",
+    "value": "Вороже. Спостерігай за власною поразкою від моїх рук!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/4",
+    "value": "Загрозливо. Я ПОБАЧИВ нашу наступну ціль!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "value": "Задоволено. Прийнятна битва."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/1",
+    "value": "Втішено. Цей поєдинок втамував мою жагу до битви. Поки що."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/2",
+    "value": "Невдоволено. Я міг би закінчити це раніше."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "value": "Розчаровано. Я втратив нашого ворога... На даний момент."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/1",
+    "value": "Здивовано. Як вони уникли мого погляду?!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/0",
+    "value": "Здивовано. Як вони втекли від мого вічного погляду?!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/1",
+    "value": "Шоковано. Чи вони поза моїм полем зору?"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/0",
+    "value": "Розчаровано. Цей боягузливий ворог не зустрінеться зі мною зблизька!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/1",
+    "value": "Сердито. Наш ворог - боягуз, який не стикається зі мною прямо!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/0",
+    "value": "Задумливо. Можливо, просто спостерігати за битвою достатньо."
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/1",
+    "value": "Підтримуюче. Я ПОБАЧУ цю перемогу!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/2",
+    "value": "Підтримуюче. Я хочу стати свідком поразки нашого ворога!"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Знак, що вказує на стан насоса."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак насоса"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей знак буде вказувати на те, увімкнено чи вимкнено насос."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Спрощена електроніка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssign повідомляє Флорану, чи працює насос."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зміст. Цей знак малої потужності має два стани."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дуже корисний знак."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "М'який світиться знак."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Корисно для перевірки, чи працює насос."
+  }
+]

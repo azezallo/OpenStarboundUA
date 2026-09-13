@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей пістолет створює власні природні патрони. фу"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хрящовий пістолет"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Хрящовий пістолет ^yellow;^reset;"
+  }
+]

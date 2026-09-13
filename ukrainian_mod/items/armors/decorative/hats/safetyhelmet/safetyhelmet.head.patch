@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей яскравий захисний шолом забезпечує помірний захист."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Захисний шолом"
+  }
+]

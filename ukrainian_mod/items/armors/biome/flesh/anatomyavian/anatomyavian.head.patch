@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це повчально! Маска пташиної, мускулистої анатомії."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташина анатомічна маска"
+  }
+]

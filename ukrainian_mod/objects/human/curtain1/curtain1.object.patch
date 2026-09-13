@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Схоже, гарне місце, щоб сховатися."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штора"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Розкішні штори. Конфіденційність – це не те, до чого Apex звик."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Струючі штори. Як пір'я на вітрі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Штори шовковисто-м'які, але Флоран надає перевагу шкірі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Ностальгічний. Ці штори такі ж м’які, як простирадла Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Штори. Ці досить гарні."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гарно виготовлені штори. Вони створюють відчуття розкоші."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "М'яка шторка."
+  }
+]

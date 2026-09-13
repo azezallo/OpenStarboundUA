@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Схоже, місце, де можна зберігати чашку для яєць... Чи їдять птахи яйця?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Різьблена настінна шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Шафа, яка сидить на стіні. Економія місця!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Багато заземлених будинків дуже маленькі. Сховища часто розміщують на стінах."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блок зберігання на стіні."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Компактний пристрій для зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Навісна шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Що всередині, цікаво."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Настінний блок. Виглядає створено для кухні."
+  }
+]

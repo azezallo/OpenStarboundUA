@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Спеціалізовані штани Apex стандартного випуску."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани спеціаліста"
+  }
+]

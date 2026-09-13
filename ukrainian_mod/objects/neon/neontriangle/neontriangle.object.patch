@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей настінний орнамент світиться яскравим пурпуровим світлом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Неоновий трикутник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Трикутник зі скляної трубки, заповнений неоновою ниткою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей настінний світильник випромінює заспокійливе сяйво!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче використовувати стіну як метальну зброю."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Дизайн цієї настінної емблеми дуже мінімалістичний."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Завдяки цьому настінному світильнику в кімнаті буде відчуття прохолоди та готовність до вечірок."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Який яскравий колір."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я хочу сказати, що я особисто віддаю перевагу будь-якому неоновому та сяючому!"
+  }
+]

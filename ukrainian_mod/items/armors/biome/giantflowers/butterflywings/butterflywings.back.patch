@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нарешті я можу бути феєю!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крила метелика"
+  }
+]

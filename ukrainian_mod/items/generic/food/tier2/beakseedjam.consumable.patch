@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Солодкий і хрусткий. Якби тільки був безнасінний сорт."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Варення з насіння дзьоба"
+  }
+]

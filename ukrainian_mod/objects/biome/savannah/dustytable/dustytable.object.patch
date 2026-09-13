@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Запорошений дерев'яний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Курний дерев'яний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дуже грубий дерев'яний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це дуже ветхий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Запорошений дерев'яний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Деревина виглядає пошкодженою сонцем."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Скатертина виглядає так, ніби пошита з висушеної трави."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дуже простий і некрасивий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я все ще міг би поїсти тут, якщо б мені знадобилося."
+  }
+]

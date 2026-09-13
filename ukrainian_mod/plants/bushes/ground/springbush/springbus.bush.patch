@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Квітчастий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Квітчастий."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Квітисс."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. квіти"
+  }
+]

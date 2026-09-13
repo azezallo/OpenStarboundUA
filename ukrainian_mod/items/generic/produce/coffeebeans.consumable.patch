@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гіркі кавові зерна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кава в зернах"
+  }
+]

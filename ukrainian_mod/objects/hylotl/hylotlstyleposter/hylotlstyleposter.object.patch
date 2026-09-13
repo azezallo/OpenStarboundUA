@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Постер комедійного фільму"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Постер до непопулярного фільму Hylotl \"Claw of Dread\"."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це реклама магазину одягу?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я вже десь бачив цю емблему..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Постер для дурного фільму Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Це був жахливий фільм."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це реклама жахливого фільму Hylotl. Це був провал."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Забутній і не смішний, я не фанат цього фільму."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якийсь фільм про когтеподібного бандита, я забув назву."
+  }
+]

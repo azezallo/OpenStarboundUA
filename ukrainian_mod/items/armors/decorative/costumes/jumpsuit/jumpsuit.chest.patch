@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Будемо сподіватися, що хтось згадав про парашут."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Піджак"
+  }
+]

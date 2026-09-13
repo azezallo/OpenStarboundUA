@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Портрет колишнього великого Захисник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Портрет великого захисника"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Портрет першого великого Захисник. У нього суворі очі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Портрет першого великого Захисник. Він виглядає дуже пишається книгою, яку тримає в руках."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Старий м'ясистий чоловік. Мертвий зараз!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Ця людина була першим Великим захисником. Яке досягнення."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Перший Великий Захисник! Він виглядає саме так, як ви очікували."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Портрет першого великого Захисник. Така мудрість в його очах."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Малюнок першого великого захисника. Суворий хлопець."
+  }
+]

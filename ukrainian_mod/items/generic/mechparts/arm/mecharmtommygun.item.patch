@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ніхто не знає, звідки пістолет-кулемет отримав свою назву."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Tommy Gun Mech Arm"
+  }
+]

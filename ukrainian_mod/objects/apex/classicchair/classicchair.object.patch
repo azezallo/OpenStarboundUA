@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Обідній стілець підійде для тих, хто любить ікру."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичний стілець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Багата деревина і м'який оксамит. Така розкіш..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Оксамит м’який на дотик до мого пір’я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Криваво-червоний оксамит, улюблений колір Флоранс."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. У нашому домашньому замку були подібні стільці."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Тканина на цьому стільці здається дорогою."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такі багаті тканини..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це крісло мені трохи подобається."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стиль броні для ніг, який зазвичай носять сектанти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Броня для ніг культистів"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зелений неоновий знак"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Табличка, схожа на напис \"RIBBIT\"..."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Табличка з написом «ribbit». Це добре, я вважаю!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не наважуюсь навіть слідувати вказівкам цього знаку."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Баззі sssign дратує Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. Табличка, на якій просто написано \"ribbit\". Як корисно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я впевнений, що цей знак веде кудись чудове. Якби я тільки не був так зайнятий... Іншими речами..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Купаючись у неоновому сяйві цього знаку, я згадую старих і нових друзів. У горлі стає клубок."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Про що це говорить?"
+  }
+]

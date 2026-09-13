@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця машина запускає гру під назвою «Sleazy Burger Heroes»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Помаранчева аркадна машина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Sleazy Burger Heroes — гра про перевертання гамбургерів. Я люблю бургери!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Досягти хороших результатів у Sleazy Burger Heroes — це відточувати свої рефлекси."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гра про перевертання м'яса. Робить Флорана голодним."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розважали. Щось у нудному завданні перевертати гамбургери, щоб отримати вищий бал, викликає звикання. 7/10."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Sleazy Burger Heroes. Гра про перевертання гамбургерів! Це дивно переконливо."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Sleazy Burger Heroes — це хороша гра для зайняття та розваги маленьких дітей."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це гра під назвою Sleazy Burger Heroes. Навіщо робити вигляд, що перевертає бургери? чому"
+  }
+]

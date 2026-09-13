@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зручна туніка з дюрастелі для додаткової міцності."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кираса сови"
+  }
+]

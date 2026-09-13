@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Взяти хабар?",
+    "path": "/scriptConfig/behaviorConfig/bribeTitle",
+    "op": "replace"
+  },
+  {
+    "value": "Цей злочинець запропонував тобі хабар",
+    "path": "/scriptConfig/behaviorConfig/bribeSubtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо ти відпустиш цього злочинця, він запропонує тобі ^orange;свій капелюх^reset;. Ти хочеш взяти хабар?",
+    "path": "/scriptConfig/behaviorConfig/bribeHatMessage",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо ти відпустиш цього злочинця, він запропонує тобі ^orange;рідкісний скарб^reset;. Ти хочеш взяти хабар?",
+    "path": "/scriptConfig/behaviorConfig/bribeMessage",
+    "op": "replace"
+  },
+  {
+    "value": "Взяти",
+    "path": "/scriptConfig/behaviorConfig/bribeOk",
+    "op": "replace"
+  },
+  {
+    "value": "Відмовитись",
+    "path": "/scriptConfig/behaviorConfig/bribeCancel",
+    "op": "replace"
+  }
+]

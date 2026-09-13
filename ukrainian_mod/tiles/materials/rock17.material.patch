@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Бережжжи сссебе. Це ссстрашний світ.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Знннадоблятьссся кіссстки - флоран зззавжди тут...",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Йди ззза флораном, крамниця тут!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран - професссійний кіссстяний майссстер. Сссюди.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Сссюди, за флораном...",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Щільний, важкий хліб, наповнений насінням."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хліб із насіння дзьоба"
+  }
+]

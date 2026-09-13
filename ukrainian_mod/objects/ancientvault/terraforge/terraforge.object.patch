@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Масивна старовинна машина. Для чого це можна використовувати?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Terraforge"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця величезна стародавня машина дзижчить з таємничою енергією."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця старовинна машина все ще працює!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Старовинна машина виблискує енергією."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Ця машина старовинна, але все ще працює."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця стародавня машина, здається, живиться якоюсь таємничою енергією."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У конструкції цієї старовинної машини є елегантність... Очевидно, майстерність майстерності."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця машина виглядає старовинною і, здається, досі працює."
+  }
+]

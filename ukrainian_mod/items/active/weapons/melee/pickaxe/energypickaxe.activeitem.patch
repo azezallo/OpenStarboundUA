@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Інструмент для майнінгу, якого ви не бачили в інших ЗМІ."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Енергетична кирка"
+  }
+]

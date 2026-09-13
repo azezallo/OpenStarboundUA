@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Могильна цегла"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Запорошена і старовинна цегла."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. При найближчому розгляді видно, що ці цеглини досить старі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Dusssty old bricks."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто якісь старі запорошені цеглини."
+  }
+]

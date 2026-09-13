@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це репліка в рамці хіт-альбому Big Ape «Jungle Love»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рекорд великої мавпи"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це єдиний запис, яким може володіти Apex. Деякі кажуть, що він містить підсвідомі повідомлення."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дивний диск."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чорне блискуче коло."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Невідомий тип носія."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це... вініл? Стегно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "На диску є канавки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей диск має тонкий малюнок."
+  }
+]

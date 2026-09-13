@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "З цієї точки в’ється дим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "дим"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, звідкись поблизу йде дим."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей дим лізе мені в пір'я!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей дим заважає Флорану!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Цей дим повинен мати походження."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей дим повинен звідкись іти."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Диму, а вогню немає? Цілком головоломка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я бачу дим, хтось залишив чайник кипіти?"
+  }
+]

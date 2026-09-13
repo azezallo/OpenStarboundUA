@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Небезпечна бочка. Намагайтеся, щоб гардероб не вийшов з ладу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нестабільний ствол"
+  }
+]

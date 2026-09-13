@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пара костюмних штанів у смужку. Не хвилюйтеся, жало лише для показу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани Buzzy"
+  }
+]

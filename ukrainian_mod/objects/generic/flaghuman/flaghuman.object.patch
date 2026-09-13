@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прапор людини. Використовуйте ^green;[E]^white;, щоб створити закладку для місця телепортації."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прапор людини"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Людський прапор. Я можу використовувати це як точку шляху для телепортації."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей людський прапор можна додати в закладки як пункт призначення мого корабельного телепортатора."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Людський прапор доцільно телепортувати назад за допомогою телепорту!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. A small locator module attached to this human flag allows it to be bookmarked for teleportation."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей людський прапор можна зберегти як місце для мого телепорту. Тоді я можу повернутися до нього в будь-який момент."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей людський прапор може служити точкою шляху, дозволяючи мені повернутися до цієї точки за допомогою телепорту."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я можу додати цей людський прапор у закладки для швидкого телепортування."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пучок незвичайно великих листя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пучок листя"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Група великих листків."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Деякі листочки. Чи навмисно їх так влаштували?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить велике листя."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Ці листи здаються надзвичайно великими."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Пучок величезного листя."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я ніколи не бачив такого листя під водою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарний пучок листя."
+  }
+]

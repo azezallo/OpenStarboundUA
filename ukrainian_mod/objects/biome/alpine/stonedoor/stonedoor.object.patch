@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Двері з бруківки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кам'яні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Apex добре знайомі з секретними дверима."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Добре замасковані двері."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стіна входить, стіна виходить. Флорану подобається."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Майстерне використання природних матеріалів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці двері легко було б заховати в бруківці."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Найбільші секрети приховані на очах."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "На моєму шляху стоїть камінь."
+  }
+]

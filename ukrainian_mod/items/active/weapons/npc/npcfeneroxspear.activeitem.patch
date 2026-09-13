@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей спис ідеально підходить для ворогів, які знаходяться поза досяжністю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "NPC Фенерокс Спис"
+  }
+]

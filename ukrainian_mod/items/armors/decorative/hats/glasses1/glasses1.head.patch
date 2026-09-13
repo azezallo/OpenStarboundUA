@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Колись вони належали дуже прекрасній дамі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Окуляри Cateye"
+  }
+]

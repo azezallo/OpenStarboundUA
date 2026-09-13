@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Асра Нокс"
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/dialog/intro/default/default/0",
+    "value": "Га... Ви маріонетка Естер? Тож вона знову збирає підпільників."
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/dialog/intro/default/default/1",
+    "value": "Ви ж знаєте, що у вас на шляху, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/dialog/intro/default/default/2",
+    "value": "Мені вас шкода, певним чином. Смикати за твої мотузки ту висохлу діду..."
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/dialog/start/default/default/0",
+    "value": "Неважливо; час помирати!"
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/dialog/death/default/default/0",
+    "value": "Мабуть, я тебе недооцінив..."
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/dialog/death/default/default/1",
+    "value": "Тож цього разу ви виграли — «горе мені»."
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/dialog/death/default/default/2",
+    "value": "Але вже пізно зупиняти те, що відбувається, дайте знати Естер - надії немає."
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "value": "Скам'янілості",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Бурштин",
+    "path": "/collectables/amber/title",
+    "op": "replace"
+  },
+  {
+    "value": "Бурштин має більший каталог видів, ніж будь-який інший артефакт.",
+    "path": "/collectables/amber/description",
+    "op": "replace"
+  },
+  {
+    "value": "Амоніт",
+    "path": "/collectables/ammonite/title",
+    "op": "replace"
+  },
+  {
+    "value": "Амоніти широко визнані скам'янілостями з варіаціями, що з'являються на більшості населених планет.",
+    "path": "/collectables/ammonite/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'яніле яйце",
+    "path": "/collectables/egg/title",
+    "op": "replace"
+  },
+  {
+    "value": "Це яйце викопної істоти, завмерлої у часі, яка так і не стала дійсно живою.",
+    "path": "/collectables/egg/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'яніла папороть",
+    "path": "/collectables/fern/title",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'яніле листя папороті свідчить про органічне життя тисячоліття тому.",
+    "path": "/collectables/fern/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'яніла риба",
+    "path": "/collectables/fish/title",
+    "op": "replace"
+  },
+  {
+    "value": "Мало що змінилося в анатомії риб за останні тисячоліття.",
+    "path": "/collectables/fish/description",
+    "op": "replace"
+  },
+  {
+    "value": "Загадковий інопланетний череп",
+    "path": "/collectables/mysteriousalien/title",
+    "op": "replace"
+  },
+  {
+    "value": "Дивний і цікавий вид, що нині став історією.",
+    "path": "/collectables/mysteriousalien/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілий пінгвін",
+    "path": "/collectables/penguin/title",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілі рештки пінгвіна.",
+    "path": "/collectables/penguin/description",
+    "op": "replace"
+  },
+  {
+    "value": "Череп шаблезуба",
+    "path": "/collectables/sabertooth/title",
+    "op": "replace"
+  },
+  {
+    "value": "Рештки шаблезубих можна легко розпізнати за характерними подовженими іклами.",
+    "path": "/collectables/sabertooth/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілий відбиток сліду",
+    "path": "/collectables/track/title",
+    "op": "replace"
+  },
+  {
+    "value": "Розмір цього відбитка вказує, що його зробила зріла особина чоловічої статі.",
+    "path": "/collectables/track/description",
+    "op": "replace"
+  },
+  {
+    "value": "Трилобіт",
+    "path": "/collectables/trilobite/title",
+    "op": "replace"
+  },
+  {
+    "value": "Трилобіти є однією з найкраще збережених викопних груп завдяки їхньому екзоскелету.",
+    "path": "/collectables/trilobite/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілий апекс",
+    "path": "/collectables/apexSkeleton/title",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілі рештки апекса. Зверніть увагу на міцні зуби та яскраво виражені надбрівні дуги.",
+    "path": "/collectables/apexSkeleton/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілий авіан",
+    "path": "/collectables/avianSkeleton/title",
+    "op": "replace"
+  },
+  {
+    "value": "Особливо цікавим у цій скам'янілості є порожнисті кістки та короткий гнучкий дзьоб.",
+    "path": "/collectables/avianSkeleton/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілий флоран",
+    "path": "/collectables/floranSkeleton/title",
+    "op": "replace"
+  },
+  {
+    "value": "Флорани за природою рослини з деревними кістками — це надає їм деревоподібного вигляду.",
+    "path": "/collectables/floranSkeleton/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілий ґлітч",
+    "path": "/collectables/glitchSkeleton/title",
+    "op": "replace"
+  },
+  {
+    "value": "Викопний ґлітч. Внутрішня проводка навряд чи збереглася.",
+    "path": "/collectables/glitchSkeleton/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'яніла людина",
+    "path": "/collectables/humanSkeleton/title",
+    "op": "replace"
+  },
+  {
+    "value": "Викопна людина, панівний вид на Землі.",
+    "path": "/collectables/humanSkeleton/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілий гілотл",
+    "path": "/collectables/hylotlSkeleton/title",
+    "op": "replace"
+  },
+  {
+    "value": "На цьому скам'янілому скелеті гілотла можна спостерігати ранні сліди адаптації до підводного життя.",
+    "path": "/collectables/hylotlSkeleton/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'яніла альпака",
+    "path": "/collectables/alpacaSkeleton/title",
+    "op": "replace"
+  },
+  {
+    "value": "Щільні, міцні кістки давно померлої альпаки.",
+    "path": "/collectables/alpacaSkeleton/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілий авіоскал",
+    "path": "/collectables/avioscaleSkeleton/title",
+    "op": "replace"
+  },
+  {
+    "value": "Авіоскал має великі очниці та видатний дзьоб.",
+    "path": "/collectables/avioscaleSkeleton/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілий фроґ",
+    "path": "/collectables/froggSkeleton/title",
+    "op": "replace"
+  },
+  {
+    "value": "Відмінний екземпляр скам'янілого фроґа.",
+    "path": "/collectables/froggSkeleton/description",
+    "op": "replace"
+  },
+  {
+    "value": "Неопізнана скам'янілість",
+    "path": "/collectables/mysteriousSkeleton/title",
+    "op": "replace"
+  },
+  {
+    "value": "Істота, яка спантеличує багатьох учених. Вік і походження встановити не вдалося.",
+    "path": "/collectables/mysteriousSkeleton/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілий ексодум",
+    "path": "/collectables/ixodoom/title",
+    "op": "replace"
+  },
+  {
+    "value": "Ця товста зовнішня оболонка членистоногого допомагала йому виживати мільйони років.",
+    "path": "/collectables/ixodoom/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілий офідозавр",
+    "path": "/collectables/ophidaunt/title",
+    "op": "replace"
+  },
+  {
+    "value": "Далекий родич плювача, що віддає перевагу полюванню в океанах, а не на суші.",
+    "path": "/collectables/ophidaunt/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілий тиранозавр",
+    "path": "/collectables/trex/title",
+    "op": "replace"
+  },
+  {
+    "value": "Динозавр земного походження, що поширився по галактиці завдяки необережним ученим.",
+    "path": "/collectables/trex/description",
+    "op": "replace"
+  }
+]

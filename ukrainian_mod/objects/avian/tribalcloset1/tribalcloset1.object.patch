@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Здається, кристал на цій шафі розбитий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташиний шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кришталь стоїть над шафою, але для чого?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кришталь на цій шафі можна використовувати як замок. Однак він, здається, зламаний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Щось для Флорана в гардеробі?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Схоже, що кристал перестав функціонувати через невеликий перелом."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, чи існує пташина Нарнія..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Кришталь над цією шафою пошкоджений і не працює."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шафа з кристалом зверху. Кристал виглядає зламаним."
+  }
+]

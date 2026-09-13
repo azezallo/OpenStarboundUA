@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Милий маленький ведмедик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ведмедик Тедді"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чарівний приємний ведмідь."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Милий і приємний іграшковий ведмедик."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пухнаста іграшка дивиться на Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Цей ведмедик такий ніжний і пухнастий!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я просто хочу вічно обіймати цього ведмедя."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Е-е-е! Чудовий плюшевий ведмідь. я люблю це!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей маленький хлопець досить милий, я думаю."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Голограма технічної лабораторії"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Інтерфейс технічної лабораторії"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Голограма техкарти."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Голографічна технічна карта."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Велике плаваюче зображення величезної техкартки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вражений. Величезна техкарта, відтворена як голограма."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Величезна голограма техкартки. Я можу пройти через це!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Голографічне зображення техкартки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Величезна голограма якогось технічного чіпа."
+  }
+]

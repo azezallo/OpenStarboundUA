@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "З цією короною ти занадто крутий, щоб правити."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Морозна корона"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це спальний мішок. Це не найзручніше, але підійде."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зелений спальний мішок"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Rebel Apex проводить багато ночей у них."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Спати тут було б незручно на пір'ї."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не любить спати в мішку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "сарказм. О, як чудово."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Спальний мішок. Хороший захист від стихії в крайньому випадку."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чи працюють вони під водою?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це не дасть мені найкращого сну, але в крайньому випадку підійде."
+  }
+]

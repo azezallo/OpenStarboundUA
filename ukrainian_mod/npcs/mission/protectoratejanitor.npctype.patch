@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Frustrated. They have me sweeping the bridge every hour like I'm a machine or something."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "Impatient. Just one day away from retirement..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "Звільнився. Я вважаю, що краса цього дерева є певним виправданням для його догляду."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "value": "Pleasant. At least it's a nice day to be working outside."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/complain/default/default/0",
+    "value": "Втомлений. Кожен день потрібно змітати більше пелюсток."
+  }
+]

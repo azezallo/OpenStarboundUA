@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Довга промислова люмінесцентна лампа."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Високий станційний ліхтар"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей промисловий світильник досить великий."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це світло не дуже гарне, і світло, яке воно випромінює, холодне."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не любить холодного електричного світла."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інформований. Кожна з цих ламп має вбудоване компактне джерело живлення."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якісь великі люмінесцентні лампи, такі, як на кораблях і станціях."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Велика флуоресцентна лампа, мені цікаво, чи вона водонепроникна."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Велике електричне світло."
+  }
+]

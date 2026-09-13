@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стіл утворив невелике дерево, увінчане дерев’яною плитою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Малий примітивний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стіл, побудований з саджанця. Найпростіше з творінь."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, флорани будують меблі із залишків істот і рослин."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран зробив маленький столик з дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "скорботний. Основою цього столу є мертве саджанець."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Основа цього столу дуже нагадує маленьке дерево."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Схоже, флорани виліпили стіл з дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Геніальне використання дерева як столу."
+  }
+]

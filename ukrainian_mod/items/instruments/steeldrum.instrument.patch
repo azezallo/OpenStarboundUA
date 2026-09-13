@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сталевий барабан. Давайте трохи пошумімо."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сталевий барабан"
+  }
+]

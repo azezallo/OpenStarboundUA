@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеальна сукня для всіх літніх свят."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Літнє плаття"
+  }
+]

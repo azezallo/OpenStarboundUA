@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чарівників часто бачать у таких топах."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Верхній халат чарівника"
+  }
+]

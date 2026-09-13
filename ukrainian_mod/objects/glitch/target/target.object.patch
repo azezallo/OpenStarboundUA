@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Яблучко!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Цільова"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мішень для стрільби з лука."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Набір кілець, намальованих на дерев'яній дошці. Але з якою метою?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дивна картина металіста."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Glitch практикується стрільбою з лука з великою майстерністю."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я здивований, що стріла не застрягла в цій мішені."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можливо, якась гра?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це добре, але трохи застаріло. Я мав би це перевірити..."
+  }
+]

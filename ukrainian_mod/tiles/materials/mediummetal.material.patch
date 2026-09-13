@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Якщо ми спокутуємо гріхи, то займемо місце на небесах біля Клуекса. Шкода, що іншим народам таке не судилося.",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Таємничий блукаючий кристал.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Таємничий блукаючий кристал",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Плавучий блиссск.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Спантеличеність. Блукаючий кристал.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

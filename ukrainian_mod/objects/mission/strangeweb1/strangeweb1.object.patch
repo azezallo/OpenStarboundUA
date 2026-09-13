@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дивна органічна стрічка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дивна мережа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це виглядає органічно за походженням. Що могло створити цю речовину?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це виглядає липким. Я б не хотів, щоб воно потрапило мені в пір'я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пахне здобиччю!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Ця речовина, схожа на рідину, була створена чимось органічним."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця штука пахне гірше, ніж виглядає. Що зробило це?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можливо, більше неприємностей Флорана? Або щось більше..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Як гумка, що прилипла до чобота."
+  }
+]

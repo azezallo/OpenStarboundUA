@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей блискучий нагрудник виготовлений із чистого золота."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Золотий нагрудник"
+  }
+]

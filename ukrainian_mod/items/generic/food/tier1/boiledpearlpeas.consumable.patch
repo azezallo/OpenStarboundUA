@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Миска досить м'якого відвареного перловки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Варений перловий горошок"
+  }
+]

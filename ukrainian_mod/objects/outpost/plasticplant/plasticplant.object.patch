@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Фальшивий пластиковий завод. Не дерево."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пластмасовий завод"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця рослина несправжня!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Фальшива рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Рослина-самозванець Floran ssstab!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Не впевнений. Фальшива рослина краще чи гірше за справжню?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Нагадує зали очікування."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Огидний підроблений пластиковий завод."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Фальшива рослина - природа, без праці."
+  }
+]

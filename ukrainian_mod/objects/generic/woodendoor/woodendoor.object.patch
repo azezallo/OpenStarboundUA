@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сира дерев'яна двері. Не дуже безпечно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Базові дерев'яні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дерев'яні двері ручної роботи."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran також виготовляє подібні дерев'яні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Веселий. Здається, це двері ручної роботи."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Двері, які ви очікуєте побачити на котеджі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Скромні дерев'яні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Виглядає трохи просто, але підійде."
+  }
+]

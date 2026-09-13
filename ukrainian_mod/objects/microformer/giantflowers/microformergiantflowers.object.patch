@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює частину планети на гігантські квіти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Квітковий мікроформер"
+  }
+]

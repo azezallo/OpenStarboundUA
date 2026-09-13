@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На дотик ця сумка виглядає дивно м’якою. Цікаво, що всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Таємничий мішок для сміття"
+  }
+]

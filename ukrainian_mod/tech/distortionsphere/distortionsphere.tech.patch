@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворіться на сферу, яку можна розмістити в менших місцях! ^green;[F]"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "value": "Сфера викривлення"
+  }
+]

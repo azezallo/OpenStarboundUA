@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скриня, схожа на жука, з парою додаткових рук."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скриня личинки"
+  }
+]

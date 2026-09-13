@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця машина запускає гру під назвою «Mazebound64»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Mazebound64"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я не фанат Mazebound64. Я чув жахливі історії про тестування Міннаук... Від лабіринтів у мене аж мурашки."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Mazebound64 розроблено командою Avian. Пташиних відеоігор небагато... Можливо, мені варто зробити кілька."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран вважає Mazebound64 великим занудою. Навіть без м’яса в кінці."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Рішучий. Я втечу з цього пекельного лабіринту і переможу Mazebound64 раз і назавжди! 8/10."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Mazebound64 нагадує деякі з найперших відеоігор на Землі. Це дуже чарівно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Навігація тьмяно освітленими коридорами, лише за кілька кроків від свободи... Mazebound64 прекрасний у своїй простоті."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Mazebound64? Лабіринти - це велика трата часу."
+  }
+]

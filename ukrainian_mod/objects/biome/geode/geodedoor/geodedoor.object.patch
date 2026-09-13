@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Двері, вирізані з поперечного перерізу великої жеоди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Двері Geode"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці важкі двері вирізані із зеленої жеоди."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кристали жеода в цих дверях були згладжені."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Двері з блискучих каменів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безпечний. Ці важкі геодезичні двері могли легко відштовхнути небажаних відвідувачів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Завдяки кристалам жеоду в цих дверях вони яскраво мерехтять, коли їх відкривають."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "З цього чудового каменю зроблено двері."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці великі старі двері зроблені з полірованого каменю."
+  }
+]

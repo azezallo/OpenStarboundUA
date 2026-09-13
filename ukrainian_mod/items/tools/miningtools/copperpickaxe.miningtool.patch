@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей інструмент не прослужить довго, але я зможу копати з ним досить швидко."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мідна кирка"
+  }
+]

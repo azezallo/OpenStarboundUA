@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пучок скручування коренів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Деякі завивки коренів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Коріннясссс."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Вони схожі на коріння."
+  }
+]

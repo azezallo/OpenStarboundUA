@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Постер фільму Воїн"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Постер в рамці з фільму \"Вогняний хрестоносець\"."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це схоже на один із тих фільмів про «криваві пошуки помсти»."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Схоже на таку історію з сумним кінцем..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це фільм, який може сподобатися Флорану."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Цікаво, проти чого бореться хрестоносець своїм вогненним клинком?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це дуже нагадує старий фільм про самураїв, який я колись дивився..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Незважаючи на свою шаблонну назву, «Хрестоносець з вогняним клинком» — справді прекрасний фільм."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже на фільм про самотнього воїна... Я б подивилася це."
+  }
+]

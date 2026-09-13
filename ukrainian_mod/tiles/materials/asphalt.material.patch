@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Дешевий, але ефективний будівельний матеріал.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Асфальт",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Гидливо. Показання свідчать, що естетична цінність асфальту нижча за 2%.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Липкий асссфальт пахне як сссмола.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ця мішанина зі смоли та каміння.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

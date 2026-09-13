@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Базовий стіл з вольфраму."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вольфрамовий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей вольфрамовий стіл виконує свою функцію."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Твердий вольфрамовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Досить хороший стіл, щоб Флоран міг нарізати м’ясо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Добре зроблений вольфрамовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гарний вольфрамовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Що стосується базових вольфрамових столів, то цей непоганий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хороший вольфрамовий стіл."
+  }
+]

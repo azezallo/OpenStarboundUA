@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це неймовірно ідеальні штани."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ідеальні брюки"
+  }
+]

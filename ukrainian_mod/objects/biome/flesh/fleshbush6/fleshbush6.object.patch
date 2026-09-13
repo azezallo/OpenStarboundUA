@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "М'ясистий кущ. М'який."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кущ плоті"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гротескний кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Не те, що я хотів би в своєму саду."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану здавалося, що Флорану слід вдарити Буша."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Незручно. Цей кущ досить мерзенний."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це кущ чи поросль?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Іноді природа відштовхує навіть мене самого."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це просто жахливо."
+  }
+]

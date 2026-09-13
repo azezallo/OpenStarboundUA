@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На цьому екрані відображаються різні пропагандистські повідомлення від Big Ape."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Монітор мавпи"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран вважає, так звана «велика» мавпа не така вже й велика."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стривожений. Ці відеокліпи містять численні підсвідомі повідомлення."
+  }
+]

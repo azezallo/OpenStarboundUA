@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця люстра виготовлена ​​з кованого заліза. Виглядає дорого."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Hanging Guardian"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це неприємне видовище."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Таке відчуття... Неправильно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану це не подобається."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стривожений. Що це тут робить?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це, м’яко кажучи, викликає у мене відчуття передчуття."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця річ, прикута тут, є справді сумним видовищем."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Від чогось у мене в цьому мурашки."
+  }
+]

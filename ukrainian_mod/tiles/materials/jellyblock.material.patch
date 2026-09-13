@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Слизька желеподібна маса яскравого кольору."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Jelly Blob"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Uncomfortable. I dislike the way this jelly jiggles."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Джиґґлі желе."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Безлад про слизове желе."
+  }
+]

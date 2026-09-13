@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Відповідний славний пам'ятник, присвячений славному вождю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пам'ятник великій мавпі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Наш славний вождь..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Статуя, побудована, щоб викликати гордість? А може страх?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Така велика, смачна мавпа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Принижений. Чи правильний масштаб?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це велика статуя. Виглядає суворо."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Непотрібна демонстрація влади."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Велика статуя серйозного вигляду Apex."
+  }
+]

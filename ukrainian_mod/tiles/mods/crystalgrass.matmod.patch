@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Small crystals appear to be poking through the ground."
+  }
+]

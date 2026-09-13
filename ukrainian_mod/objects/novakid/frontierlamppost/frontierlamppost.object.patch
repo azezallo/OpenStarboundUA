@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ліхтарний стовп із кованого заліза з полум’ям, яке горить газом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прикордонний ліхтарний стовп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Міцний кований ліхтарний стовп."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Високий кований ліхтарний стовп."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче використовувати довгу лампу як палаючий спис!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Це дуже висока лампа."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ліхтарний стовп, щоб захистити вулиці вночі!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей ліхтарний стовп зроблений із кованого заліза — я впевнений, що він витримає багато."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Освіти шлях, ліхтарний стовп!"
+  }
+]

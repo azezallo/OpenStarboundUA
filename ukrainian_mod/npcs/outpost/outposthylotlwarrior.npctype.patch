@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Можливо, воїни народу хілотлів не такі славні, як інші, але за вмінням іншим не поступляться.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Можливо, воїни народу хілотлів не такі славні, як інші, але за вмінням іншим не поступляться.",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Багато хто з мого народу зневажає твій вид, але я думаю, що завзятий флоран гідний похвали.",
+    "path": "/scriptConfig/dialog/converse/hylotl/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти вшанував мене своїм візитом.",
+    "path": "/scriptConfig/dialog/converse/hylotl/hylotl/0",
+    "op": "replace"
+  }
+]

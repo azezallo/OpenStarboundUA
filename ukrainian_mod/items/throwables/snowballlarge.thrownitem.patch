@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великий сніжок"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий сніжок, все ще потрібного розміру для кидання."
+  }
+]

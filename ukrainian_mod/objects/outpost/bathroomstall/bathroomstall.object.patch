@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ванна кабінка. Не застрягайте!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ванна кабіна"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стандартна кабінка для ванної кімнати."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ванна кабінка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить ховатися в ssstalls і дивитися, як люди проходять крізь щілину!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Ванна кабінка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чудово підходить для того, щоб сховатися та грати в мобільні ігри."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Груба кабінка у ванній."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Коли тобі потрібно йти, тобі потрібно йти."
+  }
+]

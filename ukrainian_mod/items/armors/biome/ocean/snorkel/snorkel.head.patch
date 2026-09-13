@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Найчастіше використовується для мілкого плавання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "трубка"
+  }
+]

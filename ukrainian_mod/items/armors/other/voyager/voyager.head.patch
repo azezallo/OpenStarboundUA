@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Козирок робить цей шолом неймовірно витонченим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом Вояджера"
+  }
+]

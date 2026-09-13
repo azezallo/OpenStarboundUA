@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцні штани, які традиційно носять ремісники."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани майстра"
+  }
+]

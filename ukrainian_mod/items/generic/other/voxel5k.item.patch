@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "5000 пікселів, стиснутих у воксель. Розпакуйте його, щоб повернути ці пікселі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "5k Воксель"
+  }
+]

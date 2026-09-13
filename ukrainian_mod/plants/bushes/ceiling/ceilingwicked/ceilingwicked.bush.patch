@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Висячі корені."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Висячі корені."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Rootsss!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. Hanging roots."
+  }
+]

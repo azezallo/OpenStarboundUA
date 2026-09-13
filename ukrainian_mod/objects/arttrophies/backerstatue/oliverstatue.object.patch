@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Єдині літери, які я можу розрізнити, це \"xOliver137\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "xOliver137 Статуя"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Там набагато більше статуй солдатів, ніж цивільних."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Фікс-ідея подібна до залізного прута, поставленого в статуї. Він проколює і підтримує."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран вважає, що цей чоловік зробив щось важливе, якщо він статуя."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Цей наліт вицвілий. Я майже розрізняю літери \"xOliver137\"."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Єдині літери, які я можу розрізнити на цій табличці, це «xOliver137»."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Кажуть, що статуї великих людей зроблені з каменів, кинутих у них за життя."
+  }
+]

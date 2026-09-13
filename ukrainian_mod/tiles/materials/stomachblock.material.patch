@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Ця м'ясна маса виглядає як частина шлунка якоїсь істоти.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Шлункова тканина",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Дискомфортно. Ця слизиста маса виглядає і пахне огидно.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ссслизисте м'ясссо. Флоран з'їв би.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Якесь слизисте м'ясо, легінь.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

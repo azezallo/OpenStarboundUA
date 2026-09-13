@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Час вчитися..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Книги про Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Легке читання."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Курсова література. Я читав ці!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Книги зі словами і словами і словамисс."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Деякі книги про історію Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я прочитав ці останні терміни!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я люблю хорошу книгу та гарячий напій."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не дуже читаю, але читаю ці підручники."
+  }
+]

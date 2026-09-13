@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дивна лампа, зроблена з конструкції, схожої на вулик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вулик Лампа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цікаво, джерело світла в цій лампі біологічне чи електронне?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чи могли цю лампу запалити світяться комахи?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Вулик світиться, як вогонь. Флоран розгубився."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Що спричиняє світіння цієї лампи?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не впевнений, що бачу якісь дроти... Отже, що змушує світитися цю лампу?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Заспокійливе природне сяйво цього світла суперечить його гротескному дизайну."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не розумію, як світиться ця стара лампа..."
+  }
+]

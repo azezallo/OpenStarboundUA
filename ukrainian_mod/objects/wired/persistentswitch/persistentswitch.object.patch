@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Після спрацьовування цей перемикач залишатиметься у включеному стані."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Постійний перемикач"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Після спрацьовування цей перемикач залишатиметься у своєму sswitched ssstate."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Після спрацьовування цей перемикач залишатиметься у включеному стані."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "«Ідеальний зразок примусової руди»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Присіліть Зразок"
+  }
+]

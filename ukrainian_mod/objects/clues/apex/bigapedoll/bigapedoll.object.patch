@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дещо підозріла лялька Big Ape."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лялька велика мавпа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Добре зроблена лялька Великої Мавпи... Почекай, очі камери?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це досить гарна лялька, але я думаю, що очі - це насправді камери..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран підозрює ляльку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Я думаю, що ця лялька насправді є якимось шпигунським пристроєм."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Очі цієї ляльки постійно блимають... Я майже впевнений, що це насправді шпигунський пристрій."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Щось у цій ляльці мені незручно... Мені здається, у неї можуть бути камери замість очей."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Щось у цій ляльці мені не так комфортно."
+  }
+]

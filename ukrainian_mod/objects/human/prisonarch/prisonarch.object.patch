@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вишукана готична арка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Готична арка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Люди принаймні мають приємну архітектуру, на яку дивляться."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не можу вирішити, гарно це чи передчуття."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssspiky архітектура."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Архітектура людини та глюку, здається, мають певну подібність."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це чудово підійде до моїх моторошних навичок декорування інтер’єру."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це просто, але є чим захоплюватися в створенні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Красиво чи жахливо?"
+  }
+]

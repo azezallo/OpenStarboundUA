@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Черепний",
+    "path": "/npcname",
+    "op": "replace"
+  },
+  {
+    "value": "Морський",
+    "path": "/identity/name",
+    "op": "replace"
+  },
+  {
+    "value": "Силовий",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Галактич.",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хвильовий",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/0",
+    "op": "replace"
+  }
+]

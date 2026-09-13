@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кларнет. Намагайтеся не пищати."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кларнет"
+  }
+]

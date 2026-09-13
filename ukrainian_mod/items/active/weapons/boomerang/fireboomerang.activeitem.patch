@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розпечений бумеранг із розплавленим ядром."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розплавлений бумеранг"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Розплавлений бумеранг ^yellow;^reset;"
+  }
+]

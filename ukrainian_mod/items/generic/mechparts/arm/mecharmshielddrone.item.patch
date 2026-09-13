@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Запускає дрон, який проектує захисний енергетичний щит."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Щит Drone Mech Arm"
+  }
+]

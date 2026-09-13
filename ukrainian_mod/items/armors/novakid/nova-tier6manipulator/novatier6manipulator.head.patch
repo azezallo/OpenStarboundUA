@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Заводний капелюх. Щоб нагадати ворогам про невблаганний хід часу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Заводний капелюх"
+  }
+]

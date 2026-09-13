@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Неймовірно історично неточний шолом вікінга."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шлем вікінга"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Досконало сконструйоване тіло механізму для використання членами Земного Захисту Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Механічний корпус Protector's"
+  }
+]

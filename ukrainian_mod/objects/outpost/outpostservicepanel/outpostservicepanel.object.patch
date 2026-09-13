@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сервісна панель."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сервісна панель"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Сервісна панель."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Сервісна панель з попереджувальним знаком."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сервісна панель."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "З побоюванням. На цій сервісній панелі є страшне попередження."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей попереджувальний знак виглядає дещо серйозним."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Проста сервісна панель."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Просто якась сервісна панель."
+  }
+]

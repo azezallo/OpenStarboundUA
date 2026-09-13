@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Плетений кошик. Можливо, всередині є щось круте!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Високий плетений кошик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Плетений кошик. Легко ламається."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Плетений кошик. Можливо, всередині є смаколики."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сссмаш кошик!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заманили. Плетений кошик. Цікаво, що всередині?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дуже приємний плетений кошик."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У цьому кошику може бути щось."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це виглядає якось розбитим!"
+  }
+]

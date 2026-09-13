@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Корисно для тих, хто хоче приховати свою особистість."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Звичайний капюшон"
+  }
+]

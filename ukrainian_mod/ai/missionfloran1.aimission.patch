@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "value": "The Ceremonial Hunting Caverns"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "value": "Revisit The Ceremonial Hunting Caverns"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "value": "Esther's research concludes that this is the probable location of the Floran Artifact."
+  }
+]

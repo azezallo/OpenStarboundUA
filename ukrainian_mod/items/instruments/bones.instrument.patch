@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кістяний ксилофон. Видає вбивчий звук."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кистяний ксилофон Флорана"
+  }
+]

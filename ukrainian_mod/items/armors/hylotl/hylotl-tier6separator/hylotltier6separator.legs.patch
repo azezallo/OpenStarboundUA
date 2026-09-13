@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гриви, посилені чистим солярієм, такі ж сильні, як дух їхнього носія."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дисфотичний Грівз"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Терпке зелене яблуко, стигле для запікання або споживання з моїм обличчям!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зелене яблуко"
+  }
+]

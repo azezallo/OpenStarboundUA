@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шолом сміттяра поставляється з розширеним баченням."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом сміттяра"
+  }
+]

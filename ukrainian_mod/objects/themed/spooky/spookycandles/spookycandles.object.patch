@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Металевий каркас цього підсвічника скручується як пальці."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Моторошні свічки"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Свічки. Низькі технології та основний продукт у кожній культурі в історії."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хм, я вважаю, що це було б краще золото замість чорного."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не хоче стояти так близько..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Підсвічник у традиційному стилі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чорний підсвічник. Як дивно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це, напевно, не спрацює на дні моря..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Свічки - хороше джерело світла, якщо у вас немає газової лампи."
+  }
+]

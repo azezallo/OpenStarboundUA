@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старий, потертий і запорошений стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Запилений стілець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Старий і зношений, але, мабуть, працює достатньо ефективно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Стілець з трав'яною подушкою. Я міг би звикнути до цього!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран вважає, що стілець пошкоджено."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Ці меблі мають виглядати такими розпатланими?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це виглядає трохи зламано. Я не впевнений, чи варто сісти на нього..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Схоже, це крісло пережило багато."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Пил не такий вже й поганий."
+  }
+]

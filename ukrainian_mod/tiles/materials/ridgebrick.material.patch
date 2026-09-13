@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кам'яна цегла з висіченим ребром у верхній частині."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гребневий блок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Ці конькові будівельні блоки прості, але ефективні."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ridged stone blocksss."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці кам'яні блоки висічені надзвичайно красиво."
+  }
+]

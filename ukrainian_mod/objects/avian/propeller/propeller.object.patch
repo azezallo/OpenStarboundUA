@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прекрасно виготовлений пропелер."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пропелер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Величезний пропелер."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Можливо, це й не крила, але такі гвинти тримають дирижаблі в повітрі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssspinny машина змушує кораблі літати."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Ці гвинти повинні обертатися дуже швидко, щоб тримати корабель у повітрі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Пропелер дуже гучний."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гучно й огидно, але відповідає меті."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це один масивний пропелер. Гадаю, це для того, щоб дирижаблі працювали."
+  }
+]

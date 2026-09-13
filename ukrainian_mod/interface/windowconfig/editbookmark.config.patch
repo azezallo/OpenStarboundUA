@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/ok/caption",
+    "value": "Прийняти"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/remove/caption",
+    "value": "Видалити"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/close/caption",
+    "value": "Скас."
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblTitle/value",
+    "value": "Нова закладка"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/name/hint",
+    "value": "Назва закладки"
+  }
+]

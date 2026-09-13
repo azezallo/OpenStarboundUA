@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює частину планети на біолюмінесцентний сад."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мікроформер, що світиться"
+  }
+]

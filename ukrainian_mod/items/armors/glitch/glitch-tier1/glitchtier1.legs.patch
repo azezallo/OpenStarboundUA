@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Найбільше заліза в штанах лжеца знаходиться в пряжці ременя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Валетові штани"
+  }
+]

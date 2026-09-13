@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бідолаха, я назву його Фредді!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Цільовий манекен"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Манекен, наповнений соломою. Використовується для бойової підготовки."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Солом'яний чоловік. Він мене не лякає."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Metalman зробити ssstrawman."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Пригадування. Тренувальний манекен. На них лицарі вправляються у фехтуванні."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже на якийсь навчальний манекен. Мабуть, фехтування."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "A man filled with straw. Можливо, хтось вправляється в бою з цими."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я міг би вистрелити цим, але я думаю, що він призначений для стріл."
+  }
+]

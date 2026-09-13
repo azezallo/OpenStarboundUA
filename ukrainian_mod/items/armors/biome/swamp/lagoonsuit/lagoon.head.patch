@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця маска, безсумнівно, належала істоті, що мешкає в лагуні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска лагуни"
+  }
+]

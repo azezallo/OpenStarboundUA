@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Клавіатура."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Настінна клавіатура"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Клавіатура. Заважає людям носом довкола."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Клавіатура. Більшість пташиних мало користі від них."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран друкує грубі слова на клавіатурі. Нічого не відбувається..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Клавіатура, чи можу я зламати код?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Клавіатура! Чи можу я зламати код?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Клавіатура. При правильному використанні може бути ефективним блокуючим пристроєм."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця клавіатура щось робить?"
+  }
+]

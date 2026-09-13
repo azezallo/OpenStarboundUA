@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дрібний блискучий пісок. Ймовірно, можна зробити скло!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пісок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Цікаво. Цей пісок настільки дрібний, що здається гладким на дотик."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Запорошений пісок."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Якийсь могутній м'який пісок."
+  }
+]

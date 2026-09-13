@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пальто костопилки. Грізний, але елегантний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пальто Bonesaw"
+  }
+]

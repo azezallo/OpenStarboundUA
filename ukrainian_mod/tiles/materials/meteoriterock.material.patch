@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Надзвичайно міцна порода, яка зустрічається лише за межами атмосфери.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Метеоритна порода",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Сприйняття. Ця порода має позаземне походження.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флорану подобаєтьссся небесссна порода.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Оця космічна порода не така, як у нас на землі.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "I grew weary of watching my Apex brothers and sisters being tormented at the hands of the Miniknog, so I left."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "value": "I grew weary of watching my Apex brothers and sisters being tormented at the hands of the Miniknog, so I left."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/apex/0",
+    "value": "It makes me happy to see another Apex who has escaped the brutality of the Miniknog."
+  }
+]

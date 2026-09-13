@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Штормовий",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Планетарний",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ідеальний",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Душевний",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Сердечний",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

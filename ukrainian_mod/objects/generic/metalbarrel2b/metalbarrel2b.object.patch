@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бочка, наповнена радіоактивним матеріалом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Радіоактивний барель"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Металева бочка. Судячи з символу, краще його не відкривати."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Металевий контейнер. Я не можу в це потрапити. Що означає символ?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Круглий металевий куб. Без дверей. Цей металевий смак смішний."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Страшний. Етикетка на цій бочці свідчить про те, що вона містить радіоактивний матеріал."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Опломбована металева бочка з сумнівним вмістом."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Металевий контейнер. Він закритий. Цікаво, що всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Герметична металева бочка. Я не хочу його відкривати."
+  }
+]

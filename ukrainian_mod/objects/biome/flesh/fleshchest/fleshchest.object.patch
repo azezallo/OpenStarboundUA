@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "М'ясиста грудна клітка. Для зберігання речей."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скриня плоті"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Відразливий характер цієї скрині чудово відлякує злодіїв."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Навіть не впевнений, що хочу його відкрити."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran ssstab скриня відкрита."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Відбитий. Яка мерзенна скриня."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Валовий. Добре, давайте відкриємо його."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Нудотна грудна клітка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Навіть пахне сирим м’ясом. Нудить, кажу тобі."
+  }
+]

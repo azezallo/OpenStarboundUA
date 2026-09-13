@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скриня з квітів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гігантська скриня з квітами"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ви можете легко підняти цю скриню і піти з нею."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Скриня для квітів. Легко відкривається."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран міг адаптувати шахи так, щоб вони їли злодіїв."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Відкриваючи цю скриню, вивільняються невидимі хмари пилку. Довгострокові ефекти невідомі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мила кольорова скриня."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Красива, натуральна скриня."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Яскрава скриня, як ця, має бути повною радості."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це гнучкий синій дорожній конус. Чому б не носити його на голові?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капелюх чарівника"
+  }
+]

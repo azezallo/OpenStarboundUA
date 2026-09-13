@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створіть власного флоранського селянина!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Флоран Спаунер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Поява Флоранів може стати катастрофою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не впевнений, що хочу породити Флоранів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran sssmon cocon-kin! так!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Мені завжди подобається спілкуватися з рослинами."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Давайте приберемо сюди трохи Флоранів і почнемо вечірку!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Викликати деяких Флоран було б жахливою ідеєю."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Метальний блок"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блок, який можна кинути!"
+  }
+]

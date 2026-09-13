@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Одягнений титаном Глітч бореться з честю. І гостра шабля..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лицарський шолом"
+  }
+]

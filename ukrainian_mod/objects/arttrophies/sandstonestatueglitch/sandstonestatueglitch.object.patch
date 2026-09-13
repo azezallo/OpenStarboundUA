@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Глюк пісковика. Це не чуйно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Glitch Sandstone Statue"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Глюк. Усі ці хлопці виглядають мені однаково."
+  },
+  {
+    "op": "replace",
+    "path": "/genericDescription",
+    "value": "Статуя Глюка. Цікаво, чи це було важливо."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Людина-машина з ssstone. Флоран вважає, що людина-машина виглядає безглуздо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інформований. Ця статуя зображує першу модель Глітча до того, як самосвідомі люди почали змінювати себе."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я завжди хотів мати напарника з Glitch. Ця статуя є наступною найкращою річчю."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Глюк. Їх рукотворний вигляд назавжди буде шокувати."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хто б пішов і побудував металеву людину з піщанику?"
+  }
+]

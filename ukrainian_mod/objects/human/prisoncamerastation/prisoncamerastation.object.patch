@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Набір моніторів, що відображають канали з камер спостереження. Слідкуйте за паранормальною активністю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Станція відеоспостереження"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я впевнений, що бачив, як хтось зникає за рогом на одному з екранів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я відчуваю себе вуайєристом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sss так багато ssscreens. Всі вони однаково нецікаві."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інспектування. Я впевнений, що одна з цих камер увімкнена."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "На одному з цих екранів відображається стрічка, на якій я дивлюся на екрани."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Яка нав'язлива установка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шпигунська станція."
+  }
+]

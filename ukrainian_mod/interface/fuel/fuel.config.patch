@@ -1,0 +1,51 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "Люк палива FTL"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "Сховище палива Ерхію"
+  },
+  {
+    "op": "add",
+    "path": "/gui/bgShine2",
+    "value": {
+      "type": "image",
+      "file": "/interface/fuel/fuelUIbody2.png",
+      "position": [
+        0,
+        22
+      ],
+      "zlevel": 10
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gui/FuelLabel",
+    "value": {
+      "type": "label",
+      "position": [
+        85,
+        77
+      ],
+      "hAnchor": "mid",
+      "zlevel": 11,
+      "value": "Паливо: XXXXX/10000"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scripts",
+    "value": [
+      "/scripts/HatchUkr.lua"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/scriptDelta",
+    "value": 1
+  }
+]

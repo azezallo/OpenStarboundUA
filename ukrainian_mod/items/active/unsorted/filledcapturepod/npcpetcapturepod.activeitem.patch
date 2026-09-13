@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Киньте його вниз, щоб звільнити істоту, захоплену всередині!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Заповнений Capture Pod"
+  }
+]

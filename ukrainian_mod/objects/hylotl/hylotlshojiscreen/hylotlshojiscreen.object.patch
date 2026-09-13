@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ширма, за якою скромні люди можуть сховатися під час переодягання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційний екран седзі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Екран. Apex are not allowed such things."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей екран виглядає так, ніби він може впасти від найменшого подуву."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран міг би пробити дві дірки в ssscreen і зазирнути крізь!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. Ви практично можете бачити через цей екран. Безглуздо."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ви не можете сховатися за цією ширмою. Люди бачать твій силует."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Скромність, чесність, краса. На цьому екрані є все."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ширма з тонкого паперу. Я практично бачу наскрізь."
+  }
+]

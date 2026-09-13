@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Варіація піци з мідним відтінком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скибка Піодії"
+  }
+]

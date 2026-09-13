@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Снаунт"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Він відомий крадіжками з грядок."
+  }
+]

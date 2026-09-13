@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Оборчастий тадгуппі"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Its large tail can create rhythmic pulses that distract potential predators."
+  }
+]

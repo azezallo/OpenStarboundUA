@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Дзвіночок.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Дзвіночок",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Червона квітка.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Дзвіночок.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

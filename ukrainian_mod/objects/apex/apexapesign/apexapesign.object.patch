@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика мавпа все бачить!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Велика мавпа плакат"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Велика мавпа... навіть зараз я відчуваю, що на мене спостерігають."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "До пір'я! Звіздарі назвали б це блюзнірством."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Наскільки велика ця мавпа? Можливо, ми зможемо його знайти і влаштувати бенкет."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Я хотів би розглянути цю форму життя та дослідити її оптику."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не знаю, як Apex з цим мирився."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Перш ніж дивитися назовні, потрібно спочатку подивитися всередину."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Всі бачать? Деякі речі краще не бачити."
+  }
+]

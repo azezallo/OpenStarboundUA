@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Підкладка з дюрастелі робить цю куртку модною та міцною."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Революційна куртка"
+  }
+]

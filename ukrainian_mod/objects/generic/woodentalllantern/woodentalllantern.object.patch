@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий мерехтливий факел зігріває повітря навколо нього."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Високий дерев'яний факел"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Піднятий дерев'яний факел."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Високий мерехтливий факел."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Високий факел тримає вогонь."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спокійний. Високий смолоскип, полум'я мерехтить."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Смолоскип, що тріщить."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Піднятий факел забезпечує освітлення великої площі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Полум'я тріщить геть."
+  }
+]

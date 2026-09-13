@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Складний шолом вражаючого вигляду та надзвичайної міцності."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шлем легіонера"
+  }
+]

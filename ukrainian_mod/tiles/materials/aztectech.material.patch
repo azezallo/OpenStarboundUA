@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Технічний блок",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Просунутий авіанський синтетичний матеріал з друкованими позначками.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Цікавість. Ці блоки зроблені з невідомого штучного матеріалу.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Блоки, вкриті дивними писссьменами.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Міцні блоки, геть чисто вкриті карбами.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

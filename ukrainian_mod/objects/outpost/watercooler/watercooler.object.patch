@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кулер для води. Найкраще місце, щоб знайти найгарячіші плітки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кулер для води"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Відчуття бажання постояти й побалакати про Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кулер для води. Освіжає!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить пити освіжаючу воду!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безкорисливий. Кулер для води."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це змушує мене сумувати за офісним життям. Зачекайте, ні, не так."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Кулер для води - прилад суто практичний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ну це точно зручно!"
+  }
+]

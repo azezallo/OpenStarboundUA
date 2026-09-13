@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старий горщик, що розвалюється, з візерунками. Це виглядає розбитим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Старий горщик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Горщик з малюнком. Це не дуже привабливо. Я повинен розбити його."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей горщик дешевий і поширений. Я повинен розбити його."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Горщик розсипчастий, легкий ссс."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Жорстокий. Розбийте його, порохніть."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Горщик розсипається. Я міг би також прискорити процес."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Оздоблення погане, горщик розсипається."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Старий непотрібний горщик. Я впевнений, що ніхто б не пропустив, якби ми його розбили."
+  }
+]

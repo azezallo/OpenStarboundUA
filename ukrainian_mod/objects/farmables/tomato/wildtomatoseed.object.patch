@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Помідори - насичений, соковитий фрукт. Або овочевий. Один із двох."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння томатів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я люблю стиглі, соковиті помідори."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Насіння томатів може покращити багато страв."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Помідори криваво-червоні та пухкі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Пустотливий. З гнилих помідорів виходять гарні снаряди."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Помідори ідеально підходять для корисного салату... А ще краще — для піци."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Помідори допустимі, якщо не примітні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "З помідорів виходить смачна закуска, яка також чудово кинеться на негідників."
+  }
+]

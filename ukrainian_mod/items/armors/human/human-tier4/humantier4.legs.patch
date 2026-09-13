@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці штани Durasteel створені для водія ховербайка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани Outrider's"
+  }
+]

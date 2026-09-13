@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Високотехнологічне механічне тіло, розроблене для високопоставлених членів культу Окаса."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Occasus-2 Mech Body"
+  }
+]

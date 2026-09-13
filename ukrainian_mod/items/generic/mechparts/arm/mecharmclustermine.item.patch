@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Механічна рука, яка запускає групу маленьких дистанційних мін."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рука касетної міни"
+  }
+]

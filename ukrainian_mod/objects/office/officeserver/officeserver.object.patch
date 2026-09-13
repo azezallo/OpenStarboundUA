@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика комп'ютерна серверна стійка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Офісний сервер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей комп’ютер під’єднано до купи немаркованих проводів..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей комп’ютер більший за мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить усі ці компоненти разом."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Колись комп’ютери були достатньо великими, щоб вимагали виділених кімнат."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Величезна серверна стійка з купою старих комп’ютерів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У цьому немає взагалі нічого естетично привабливого."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мабуть, це найбільший комп’ютер, який я коли-небудь бачив."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Глибокі тіні тягнуться від цього мерехтливого факела."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підставка для факелів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ліхтарик забезпечує м'яке світло."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пташині храми освітлюються тільки природним світлом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Полум'я нервує Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Полегшено. Світло від цього факела тьмяно освітлює територію."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Старий на вигляд факел."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гілотлі не запалюють факелів. Під океаном повітря надто цінне, щоб витрачати його даремно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей факел має пристойне полум’я, але недостатньо велике для приготування їжі."
+  }
+]

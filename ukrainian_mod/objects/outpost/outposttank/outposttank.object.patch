@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Танк невідомого призначення."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великий металевий резервуар"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Таємничий танк."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, що в цьому танку."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не знає, що може бути в цьому резервуарі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Я не можу зрозуміти, що вміщує цей танк."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дивний танк."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Непривабливий танк."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Танк. Але я не можу зрозуміти, що там може бути."
+  }
+]

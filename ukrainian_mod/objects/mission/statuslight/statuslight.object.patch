@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Індикатор, який вказує на стан перемикача."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Індикатор стану"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Індикатор вказує на стан перемикача."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Коли індикатор горить синім, вимикач увімкнено."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Синє світло означає, що ssswitch увімкнено."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Проникливий. Синє світло вказує на активний перемикач."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Перемикач активний, коли індикатор горить синім."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Індикатор, який вказує на стан перемикача."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Під час натискання перемикача індикатор стає синім."
+  }
+]

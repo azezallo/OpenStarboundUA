@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Просто церемоніальний щит. У бійці це мало б чого."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Glitch Shield Display"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Привабливий щит. Чисто декоративний, однак."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Щит яскравого кольору."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Криваво-червоний щит!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Чисто декоративний щит. Один важкий удар розбив би його повністю."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Привабливий, але слабкий на вигляд щит."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гарний витвір майстерності, але зроблений повністю з декоративних матеріалів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей щит виглядає гарно, але точно не принесе користі."
+  }
+]

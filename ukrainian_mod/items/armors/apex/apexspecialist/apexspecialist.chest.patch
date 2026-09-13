@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стандартна спеціальна куртка Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Куртка спеціаліста"
+  }
+]

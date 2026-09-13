@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей хитрий головний убір залишає видимими лише очі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска повстанця"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Він ніколи не перестає дивитися. Хто б зробив таке?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Злий капелюх гриба"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Живий зайчик хоче відпочити на вашій голові!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капелюх зайчика"
+  }
+]

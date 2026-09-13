@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прототип механізму з відкритим верхом, розроблений корпорацією Letheia."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Venturer-00 Mech Body"
+  }
+]

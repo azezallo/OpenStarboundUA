@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий кінчик хвоста T. rex."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нижній хвіст T. rex"
+  }
+]

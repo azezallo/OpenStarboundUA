@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стіл із орнаментом із шипами, що нагадує три очі Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Таблиця Hylotl"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гілотлі напевно люблять створювати речі на свою подобу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей стіл накритий дорогоцінними каменями, які нагадують очі Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Як рибалка, щоб меблі виглядали так само, як вони."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Цей предмет меблів Hylotl дуже схожий на один із самих Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Hylotl, схоже, любить виготовляти меблі за власною подобою."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ми, Hylotl, надзвичайно пишаємося своєю естетикою, і тому насолоджуємося створенням мистецтва, яке нагадує нас."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені не подобається, як цей стіл дивиться на мене."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Величезна червона квітка. Красиво І лякаюче!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гігантська квітка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Величезна квітка. Це змушує мене почуватися розслабленим."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Велетенська квітка. Красива."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Квітка така велика, Флоран міг би танцювати на ній."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. ДНК цієї квітки мутувала з роками, звідси такий великий розмір."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Уявіть собі, що ви з’явилися біля чиїхось дверей із букетом із них!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Велика красива квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мабуть, це найбільша квітка, яку я коли-небудь бачив."
+  }
+]

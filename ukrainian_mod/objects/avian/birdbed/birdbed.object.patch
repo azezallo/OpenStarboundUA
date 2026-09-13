@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Суцільне кам’яне ліжко, увінчане гніздом із сіном."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вартове гніздо"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кам'яне ліжко, наповнене сіном. Це виглядає надзвичайно незручно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Гніздо охоронця. Вартові охороняють священну землю птахів. Вони дикі воїни, керовані благочестям."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Птахи мають сіно nessst. Флоран використовує схожу постільну білизну."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Ергономіка цього ліжка продумана погано."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кам'яне ліжко. Вони мало комфорту. На дотик камінь холодний."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Треба бути твердим, як камінь, щоб спати серед каміння. Ліжко воїна."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це сіно не робить ліжко зручнішим."
+  }
+]

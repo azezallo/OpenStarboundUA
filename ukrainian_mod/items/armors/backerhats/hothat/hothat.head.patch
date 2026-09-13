@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Циліндр, який горить! Це досить шикарно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гарячий циліндр"
+  }
+]

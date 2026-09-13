@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "гудок"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Клоун Мех Горн"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Статуя великої мавпи без голови."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Безголова статуя великої мавпи"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Наш безголовий славний вождь..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Статуя, побудована, щоб викликати гордість? Здається, його понівечили."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран віддає перевагу безголовій мавпі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Мабуть, довелося докласти певних зусиль, щоб зіпсувати цю статую."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця статуя виглядає так, ніби їй чогось не вистачає..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Непотрібна демонстрація влади. Хтось інший погоджується, що, схоже, зіпсував цю статую."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Велика статуя гігантської на вигляд безголової Вершини."
+  }
+]

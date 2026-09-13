@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "value": "The Dantalion"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "value": "Revisit The Dantalion"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "value": "Asra Nox has been located on her warship, the Dantalion."
+  }
+]

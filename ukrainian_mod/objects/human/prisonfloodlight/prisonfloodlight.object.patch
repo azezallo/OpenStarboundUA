@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Таке відчуття, ніби я на сцені!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Малий прожектор"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Такі прожектори використовують Міннаук, щоб змусити людей говорити. Прожектори, і того гірше..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дратівливе, сліпуче світло."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран відчуває себе в центрі уваги."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Непомітний. Проаналізувавши візерунки цього прожектора, можна було б легко його обійти."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я завжди хотіла бути в центрі уваги."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Яскравий, пронизливий прожектор."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Яскраве світло."
+  }
+]

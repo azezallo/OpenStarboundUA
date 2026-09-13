@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Риба, запечена з фруктами, схожими на рибу. Рибна страва!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гратен з морепродуктів"
+  }
+]

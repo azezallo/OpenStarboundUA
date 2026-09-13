@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Множинн.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Піксельний",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Земний",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Сонячний",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

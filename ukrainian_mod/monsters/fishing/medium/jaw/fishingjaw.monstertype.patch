@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Copper Bonejaw"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Він народжується з м’якою щелепою, яка кальцифікується та твердіє протягом життя."
+  }
+]

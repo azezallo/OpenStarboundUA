@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеально підходить, коли ви опинились на тропічному острові."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кокосове морозиво"
+  }
+]

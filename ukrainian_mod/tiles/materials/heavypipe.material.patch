@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Товста труба",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Товста труба, що використовується в каналізаційних системах.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Огидливо. Я не хотів би бачити помиї, які прокачували через ці труби.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Смердюча каналізаційна труба.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Старі замурзані труби.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

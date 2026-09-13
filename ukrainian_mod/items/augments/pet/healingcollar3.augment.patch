@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нашийник, який швидко відновлює здоров'я вашого вихованця з часом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зцілення III Комір"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "value": "Зцілення III"
+  }
+]

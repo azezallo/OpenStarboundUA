@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Уявіть, що ви немертвий упир із цією моторошною труною!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Готичне ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Міннаук вважав би ховати людей марнотратством..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Бути похованим у такій речі не заспокоїть Kluex."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це для того, щоб заховати ідеально смачне м’ясо?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Незручно. Ця труна викликає у мене погані відчуття."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Так, це абсолютно нормально, коли один із них лежить поруч."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гілотл, не зациклюйтеся на таких хворобливих образах."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Змушує мене почуватися, ніби я в похоронному бюро, чи щось таке."
+  }
+]

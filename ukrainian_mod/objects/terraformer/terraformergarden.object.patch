@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює клімат планети на зелені луги."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Lush Terraformer"
+  }
+]

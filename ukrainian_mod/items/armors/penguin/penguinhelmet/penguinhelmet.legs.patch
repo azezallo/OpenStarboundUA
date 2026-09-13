@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Військовий шолом, який переважно використовував екіпаж Грізного Крила."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом пінгвіна"
+  }
+]

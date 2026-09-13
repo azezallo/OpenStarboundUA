@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Брудне крісло. Комахи влітають і вилітають з дірок у тканині."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зруйноване крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Комахи влаштували свій дім у цьому кріслі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Крісло запеклося в бруді."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Повний стрибаючих комах."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Приголомшений. Цей стілець заражений."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вкритий брудом і повний жуків."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Огидно брудне старе крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це крісло повне жуків!"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційний паперовий ліхтар"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Паперовий стельовий світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Паперовий ліхтар здається не найкращою ідеєю для пожежної безпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, як часто вони загоряються."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Паперовий ліхтар небезпечний для Флорана. Вогонь!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. Паперовий ліхтарик. Це, безумовно, не відповідає здоров’ю та безпеці."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Боже, не бджоли! Зачекайте, це паперовий ліхтар. Ну це нудно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Паперовий ліхтар своїми руками. Згодом волога забирає їх, як і всіх нас."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Будь-хто знає, що поєднувати папір із гарячою лампочкою – не дуже гарна ідея."
+  }
+]

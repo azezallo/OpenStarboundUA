@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Модуль, який додає реплікатору додаткове обладнання для ближнього бою та броню."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Separator Addon^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Наскільки корисно, це додасть реплікатору додаткове обладнання для ближнього бою та броню."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я можу використати це, щоб додати додаткове обладнання та броню до реплікатора."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran ussse thisss, щоб додати більше речей до реплікатора."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Використання цього модуля додасть реплікатору додаткове обладнання для ближнього бою та броню."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Використання цього додає реплікатору додаткове обладнання для ближнього бою та броню!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей корисний модуль додасть реплікатору додаткове обладнання ближнього бою та броню."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей старий зручний модуль додасть реплікатору ще більше."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Rustick"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Якщо вони не встановлять зв’язок з іншим Рустиком, вони можуть стати досить самотніми."
+  }
+]

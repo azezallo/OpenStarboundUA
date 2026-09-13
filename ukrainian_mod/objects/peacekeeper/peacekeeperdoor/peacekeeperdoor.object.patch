@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Автоматичні двері, які зазвичай використовуються на станціях миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Двері миротворця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Автоматичні двері стилізовані під емблему Миротворця."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці двері прикрашені гордою емблемою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран бачить двері. Флоран хоче пройти через двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Я ціную те, що ці двері самі відчиняються, а не чекають, коли їх відчинять."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Знаєте, емблема «Миротворця» виглядає як щасливе обличчя..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я бачив більш елегантні двері, ніж ці."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці двері відчиняються самі! Дуже зручно..."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Замість шикарної люстри до саджанця прикріпили факели."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивна люстра"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, ніби молоде дерево підвісили догори ногами з прикріпленими факелами."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Люстра з невеликого дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран зробив підвісний світильник з невеликого дерева. Флоран прикріпіть факел кісткою, стежте, щоб не обпекти руки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. It appears to be a small tree hanging from the ceiling."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, флорани використали саджанець для виготовлення люстри."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це одне з небагатьох творінь Флорана, яке зроблено не з кістки. Почекай... Що це тримає факели?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже, кілька факелів прив’язано до дерева. Він має приємну сільську атмосферу."
+  }
+]

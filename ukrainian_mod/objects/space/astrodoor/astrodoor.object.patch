@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці двері створюють герметичність у закритому стані."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Astro Door"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Такі двері призначені для герметизації частин кораблів або станцій."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці двері створені, щоб вижити в суворості простору."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Космічні двері можуть відкриватися і закриватися."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Така конструкція дверей колись була популярна при будівництві кораблів і станцій."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці сучасні двері можуть створювати герметичність, щоб утримувати атмосферу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей сучасний тип дверей витончений і чутливий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці шикарні двері виглядають так, ніби вони витримали б будь-що."
+  }
+]

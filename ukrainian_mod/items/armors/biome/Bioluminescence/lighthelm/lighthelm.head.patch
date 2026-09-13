@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Робить вас схожим на ходячу лампочку. Але привіт, функція над модою!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Флуоресцентний шолом"
+  }
+]

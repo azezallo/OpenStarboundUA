@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Солодкий сік з винограду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Виноградний сік"
+  }
+]

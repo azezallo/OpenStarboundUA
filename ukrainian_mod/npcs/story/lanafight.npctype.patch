@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/npcname",
+    "value": "Lana"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/start/default/default/0",
+    "value": "Привіт, солдате. Давайте розберемося з цією ситуацією, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/leave/default/default/0",
+    "value": "Good work, soldier. I will see you back at the Ark."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "value": "Ціль у мене в прицілі!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "value": "Я вступаю в бій з ворогом!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "value": "Target sighted!"
+  }
+]

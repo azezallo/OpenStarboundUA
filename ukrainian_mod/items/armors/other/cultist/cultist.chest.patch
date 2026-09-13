@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуговка, яку часто носять сектанти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нагрудник культистів"
+  }
+]

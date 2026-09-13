@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Освіжаюча сальса з фруктів пустелі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сальса в пустелі"
+  }
+]

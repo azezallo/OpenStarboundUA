@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця блуза доповнена поясом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Блуза і пояс"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Лампа, підходить для виходу на вулицю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Основний ліхтарний стовп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Металевий ліхтарний стовп."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Корисний путівник у темряві."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Високий і блискучий світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Високий ліхтарний стовп виготовлений із міцного металу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Один ліхтарний стовп. Досить зрозуміло."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Як зірка ясна в небі сяє."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Електричний вуличний ліхтар."
+  }
+]

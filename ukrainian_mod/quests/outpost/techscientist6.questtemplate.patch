@@ -1,0 +1,42 @@
+[
+  {
+    "value": "^orange;Випробування сфери",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Технологія сфери викривлення^white; готова! ^green;Смуга перешкод^white; у твоєму повному розпорядженні. Якщо все правильно — а я впевнений, що все правильно, — то проблем із вузькими проходами в тебе не виникне. ^green;Тільки дай відмашку — і почнемо^white;.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Дивовижно! ^orange;Технологія сфери викривлення^white; показала себе саме так, як я і розраховував. Ось, як завжди, тримай один екземпляр у подарунок за допомогу мені та за сприяння світовій науці!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Елліотт",
+    "path": "/scriptConfig/portraits/questStarted/title",
+    "op": "replace"
+  },
+  {
+    "value": "Елліотт",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "op": "replace"
+  },
+  {
+    "value": "Поговори з ^orange;Елліоттом^reset; і йди на ^orange;смугу перешкод^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "op": "replace"
+  },
+  {
+    "value": "Пройди ^orange;тест сфери викривлення^reset;",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "op": "replace"
+  },
+  {
+    "value": "Повернися до ^orange;Елліотта^reset; на ^orange;Аванпост^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

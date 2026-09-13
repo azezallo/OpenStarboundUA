@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Лабораторія наукових робітників."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Магазин технічної лабораторії"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Товари Elliott's"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2; Продає станції для встановлення техніки."
+  }
+]

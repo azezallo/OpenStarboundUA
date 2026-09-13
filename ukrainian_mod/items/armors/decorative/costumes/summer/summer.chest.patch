@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Літо наближається! Будьте готові до цього з цим модним топом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Літній топ"
+  }
+]

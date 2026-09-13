@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Кликали мене?",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ти щось хотів дізнатися?",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Я тобі потрібен? Знадобилася моя порада?",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ось подарунок за всю твою допомогу!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

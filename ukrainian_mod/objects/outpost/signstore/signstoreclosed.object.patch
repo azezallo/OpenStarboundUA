@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це було б гарне місце для ларька."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Закритий вивісковий магазин"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "На дисплеї написано, що ларьок скоро відкриється."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, що воно буде, коли його відкриють."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не знає, що це буде, коли його відкриють."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Освітлений дисплей на цьому кіоску говорить, що він скоро відкриється!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це цікавий на вигляд ларьок. Цікаво, яке його призначення?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Боковина цієї стійла намальована знаком Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Який дивовижний стенд."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великі крила з гострих лез у формі пір’я."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лопаті крила"
+  }
+]

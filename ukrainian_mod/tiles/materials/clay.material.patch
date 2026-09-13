@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Важка, липка глина.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Глина",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Зацікавленість. Ця глина достатньо щільна, щоб використовувати її як будівельний матеріал.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран мацає гладку глину.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Я гадаю, що після сушки ця глина стане файною та твердою, легіню.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

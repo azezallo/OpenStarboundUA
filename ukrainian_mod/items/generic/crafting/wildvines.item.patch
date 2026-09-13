@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Частина дикої лози."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дикі лози"
+  }
+]

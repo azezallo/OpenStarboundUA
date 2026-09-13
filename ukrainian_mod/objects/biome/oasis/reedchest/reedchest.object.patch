@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Очерети виліплені в скриню."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Очеретяна скриня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я захоплююся креативністю тут."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Скриня для гнізда. Мені пір’я тремтить."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран знайомий із такими шахами."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Аналітичний. Міцність на розрив цих очеретів робить їх поганим матеріалом для виготовлення скрині."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Тут добре плетуть."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Очерет у великій кількості серед гілотлів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Щоб зробити скриню з очерету, потрібне химерне плетіння."
+  }
+]

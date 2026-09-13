@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Floran just here to buy ssseeds for Floran's farm."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "Floran isss making farm! Floran just here for sssome ssseeds."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "Floran isn't meat eater like other Floransss! Floran making farm inssstead."
+  }
+]

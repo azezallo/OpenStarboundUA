@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A globule of flesh."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Куля м'яса."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Flesssh!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Repulsion. A globule of flesh."
+  }
+]

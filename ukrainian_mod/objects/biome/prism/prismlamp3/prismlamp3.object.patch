@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Лампа з гладко різьбленого світиться кришталю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лампа Prism Cyan"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Блакитне світіння цієї лампи заспокоює."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ніжне блакитне сяйво нагадує мені блискуче літнє небо."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран цікавиться, чи можна кидати лампу в людей..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спокійно. Ця синя кришталева лампа розвіює мої страхи."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Є щось заспокійливе в цій сяючій блакитній кришталевій лампі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця синя лампа світиться, як живий океан. Я міг дивитися на це годинами."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Світло від цієї речі схоже на блакитне небо опівдні."
+  }
+]

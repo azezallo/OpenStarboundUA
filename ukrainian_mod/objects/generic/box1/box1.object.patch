@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Невеликий дерев'яний ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яний ящик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Простий дерев'яний ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Скринька з дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Коробка очищеної деревної м’якоті."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Цей дерев'яний ящик простий, але ефективний."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ящик з невеликих дерев'яних дощок."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дерев'яний ящик. Це функціонально, але не дуже красиво."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Простий на вигляд ящик з дерева."
+  }
+]

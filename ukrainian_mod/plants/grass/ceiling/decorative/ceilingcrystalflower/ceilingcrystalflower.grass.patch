@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Кришталева квітка.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Кришталева квітка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Сссвітляна квітка.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Кришталева квітка.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

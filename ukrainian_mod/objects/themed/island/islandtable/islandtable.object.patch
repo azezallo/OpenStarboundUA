@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На підставі цього столу висічено досить похмуре обличчя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Острівний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця таблиця занадто виразна. Мені більше подобається простіший декор."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей стіл виготовляється тільки з дерева. Я можу це оцінити."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Таблиця має сердите обличчя. Флоран був вражений."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стривожений. Цей тропічний стіл має дуже виразну грань біля основи."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Хтось вирізав це обличчя вручну. Як мило з їхнього боку."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей стіл досить агресивний. Чому б замість цього не мати спокійний стіл?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Чому люди повинні так потворно прикрашати гарний стіл?"
+  }
+]

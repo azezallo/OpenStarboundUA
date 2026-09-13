@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Замерзлий стілець. Незручно через деякий час."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крижане крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я боюся прилипнути до стільця, якщо сіду."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Від цього крісла моє пір’я мерзне."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Крісло змушує Флорана почуватися смішно. тремтіння."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "враховуючи. Ці стільці не підійдуть для вечірок на природі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Незвичайна ідея для крісла. Моя шкіра прилипає до нього."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мені здається, я бачу тут заморожену рибу. Бідна істота."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Як правило, я, ймовірно, повинен триматися подалі від меблів із льоду."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Один із цих кайданів виглядає підозріло..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Настінні кайдани"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Один із цих ланцюжків дивно коливається."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Один із цих ланцюжків виглядає підробкою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран підозрює ланцюжок хитрощів!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Скептичний. Один із цих ланцюгів зроблений не із заліза."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Один із цих ланцюжків на частку нижчий за інший."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Один із цих ланцюжків на частку вищий за інший."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Один із цих ланцюжків дивно виглядає."
+  }
+]

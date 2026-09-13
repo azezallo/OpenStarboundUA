@@ -1,0 +1,42 @@
+[
+  {
+    "value": "^green;Пінгвін Жахокрил",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Допоможеш мені, га? Бізнес тут іде не дуже добре відтоді, як усі мої постійні клієнти втекли від ^orange;Жахокрила^white; та його банди шахраїв! Чи міг би ти ^green;піти і перемогти Жахокрила^white; для мене? Підійди, коли будеш готовий, я відправлю тебе просто до нього!",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти розібрався з ним для мене? Дякую, тепер я знову в ділі! ^green;Підійди до мене, якщо тобі знадобиться ^orange;Дублон^green;, щоб найняти пінгвіна-найманця^white;.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Бармен",
+    "path": "/scriptConfig/portraits/questStarted/title",
+    "op": "replace"
+  },
+  {
+    "value": "Бармен",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "op": "replace"
+  },
+  {
+    "value": "Поговори з ^orange;Барменом^reset;, щоб вирушити до ^orange;Жахокрила^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "op": "replace"
+  },
+  {
+    "value": "Переможи ^orange;Жахокрила^reset;",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "op": "replace"
+  },
+  {
+    "value": "Повернися до ^orange;Бармена^reset; на ^orange;Аванпост^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

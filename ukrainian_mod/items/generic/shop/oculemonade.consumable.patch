@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "У спекотний день немає нічого кращого, ніж прохолодна освіжаюча банка Oculemonade."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Окулемонад"
+  }
+]

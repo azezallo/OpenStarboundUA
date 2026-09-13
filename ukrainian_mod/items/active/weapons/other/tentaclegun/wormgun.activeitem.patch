@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця рушниця містить звивисту масу мутованих чужорідних хробаків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Alien Worm Gun"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "value": "Лопнув щупальце"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Alien Worm Gun ^yellow;^reset;"
+  }
+]

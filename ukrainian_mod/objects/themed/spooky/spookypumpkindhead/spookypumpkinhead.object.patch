@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вікова традиція різьблення гарбуза продовжує жити."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Моторошна гарбузова голова"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це більше мило, ніж лякає."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, як легко було б зробити пташине гарбузове обличчя?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран схвалює страшне обличчя рослини."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стривожений. На мить я подумав, що це живе."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ой, маленьке гарбузове обличчя! Як мило."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Особисто я думаю, що це було б краще з третім оком."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якщо це було зроблено для того, щоб мене налякати, це спрацювало не дуже добре."
+  }
+]

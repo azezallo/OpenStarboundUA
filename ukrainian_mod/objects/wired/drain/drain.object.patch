@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Булькання булькання!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "дренаж"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це призначено для відведення води."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це відведе воду, добре для того, щоб моє пір’я залишалося сухим!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дренажі забирають воду."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Це з легкістю відводить воду."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це швидко відведе цю воду!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Корисний пристрій для відведення води. Для тих, кому це подобається."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це позбавить вас від набридливої ​​води!"
+  }
+]

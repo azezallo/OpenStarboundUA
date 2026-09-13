@@ -1,0 +1,137 @@
+[
+  {
+    "value": "Флоран відчуває сссспорідненість із цим россслинним блоком.",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, цей блок зроблений з рослин.",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Похила склян. панель",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я можу побачити своє відображення.",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Уважно. Я ясно бачу, хоча це прозоре скло.",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран красссовито виглядає у сссклі.",
+    "path": "/scriptConfig/dialog/merchant/start/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я ясно бачу крізь це скло.",
+    "path": "/scriptConfig/dialog/merchant/start/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Деревина, підготовлена для будівництва та крафту.",
+    "path": "/scriptConfig/dialog/merchant/start/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Дошки",
+    "path": "/scriptConfig/dialog/merchant/start/apex/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Трохи дощок з дерева.",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Колоди, розпиляні на дошки.",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. Хороші дошки з дерева.",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Порубані доссшки.",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Звичайні дошки, виготовлені з колод.",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Звичайні дошки.",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Найзвичайніші дошки.",
+    "path": "/scriptConfig/dialog/merchant/start/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Порушник! Геть зі священної землі!",
+    "path": "/scriptConfig/dialog/merchant/start/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стій, де стоїш!",
+    "path": "/scriptConfig/dialog/merchant/start/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ти образив Клуекса!",
+    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тобі тут не раді, чужинцю!",
+    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сьогодні Клуексу дістанеться ще одна душа!",
+    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Хай впаде на тебе гнів Клуекса!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Сила Клуекса направляє мою руку!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Порушник! Геть зі священної землі!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Стій, де стоїш!",
+    "path": "/scriptConfig/dialog/merchant/end/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти образив Клуекса!",
+    "path": "/scriptConfig/dialog/merchant/end/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тобі тут не раді, чужинцю!",
+    "path": "/scriptConfig/dialog/merchant/end/glitch/default/2",
+    "op": "replace"
+  }
+]

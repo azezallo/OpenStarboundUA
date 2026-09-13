@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Грубий, необроблений камінь.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Грубий камінь",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Уважність. Це звичайні грубі камені.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Тверді грубі каменіссс.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Просто купа каміння.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

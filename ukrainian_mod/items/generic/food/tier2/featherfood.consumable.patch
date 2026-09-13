@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Традиційна пташина обрядова їжа, яку їдять на урочистостях."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Корм для пір'я"
+  }
+]

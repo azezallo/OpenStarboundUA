@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "М'ясистий стіл. Ідеально підходить для м'ясоїдних."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стіл плоті"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Хто б вирішив тут поїсти?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Який непривабливий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran ssstab стіл випадково."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огидно. Тут справді хтось сідає їсти."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я відчуваю, що це вершина незвичайних речей, які я побачу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ой давай. справді?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Уявіть, що ви їсте стейк на цьому столі."
+  }
+]

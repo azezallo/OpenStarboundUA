@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Скелетна квітка.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скелетна квітка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Мертві квітиссс.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Скелетна квітка.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

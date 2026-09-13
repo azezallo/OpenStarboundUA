@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Засувка. Можна використовувати для збереження стану дроту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Засувка"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Засувка. Може використовуватися для збереження стану дроту."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Засувка. Можна використовувати для збереження стану дроту."
+  }
+]

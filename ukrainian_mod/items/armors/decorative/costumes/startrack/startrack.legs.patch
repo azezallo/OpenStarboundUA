@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "У цих брюках ви будете виглядати заповзятливо."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани космічної форми"
+  }
+]

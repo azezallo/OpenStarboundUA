@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розбийте цей геод, щоб відкрити його вміст. Геологія скелі!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жеод"
+  }
+]

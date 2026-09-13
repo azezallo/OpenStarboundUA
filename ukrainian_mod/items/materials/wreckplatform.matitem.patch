@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Іржаві риштування. Це не виглядає безпечним."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зруйнована платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "стривожений. Ці іржаві будівельні риштування здаються структурно неякісними."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Іржавий і небезпечний. Флорану подобається."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Здається, що ця іржава платформа готова розвалитися."
+  }
+]

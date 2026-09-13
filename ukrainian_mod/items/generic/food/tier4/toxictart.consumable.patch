@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Що ще ти збираєшся робити з цим варенням із токсикотопу?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Токсичний пиріг"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Платформа аванпосту",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Проста легка платформа, зазвичай застосовується в конструкції аванпостів.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Зачарування. Ці платформи легкі і їм віддають перевагу за їх портативність.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Просссто ще одна металева платформа.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Якась чудернацька металева платформа.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

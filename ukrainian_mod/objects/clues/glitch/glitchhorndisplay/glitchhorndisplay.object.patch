@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Урочистий ріг, який тримає тканий прапор."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Установлений роговий банер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Схоже, це використовується в якійсь церемонії."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це виглядає важливо."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче звучати на валторні!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гордий. Такі роги використовуються в особливих церемоніях."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей ріг виглядає важливо, навіщо б інакше його монтувати?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я не знаю, чому такий інструмент виставляється на показ."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Звичайно, це виглядає важливо, але скільки це коштує?"
+  }
+]

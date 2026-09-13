@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ящик з вантажем. Який вантаж? Хто знає."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Металевий вантажний ящик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Таємничий вантажний ящик."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, що тут."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Корабель Floran Floran у вантажному ящику. Вискочити. Сссюрприз!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Вантажний контейнер - всередині може бути будь-що."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ох, вантаж!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вантажний ящик сучасного дизайну."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ящик простого вигляду. Міг вмістити цінний вантаж..."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Росте болтбуль! Напрочуд м'який."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Boltbulb Seed"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "М'який, як банан, але з жахливим металевим смаком."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мешканці дуже полюбили цей дивний, металевий овоч."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssshyshy метал, не як плоть Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Сентиментальний. Цей овоч смакує як домашній."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "На жаль, їсти це все одно, що їсти шматки вантажівки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Бульба – один з небагатьох по-справжньому смачних овочів для справжніх гурманів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Металевий овоч? Я спробую все, що завгодно."
+  }
+]

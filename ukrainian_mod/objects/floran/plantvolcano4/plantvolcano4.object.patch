@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Високий вулканічний гейзер. Сочиться лава."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Високий вулканічний гейзер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей гейзер виглядає закритим, нема чого боятися."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей вулканічний гейзер світиться вогненною інтенсивністю."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не любить гарячі гейзери."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Впевнений. Ця вулканічна тріщина не становить загрози."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Виглядає безпечно, але я краще не наступаю на нього."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Подібні тріщини нерідко можна побачити глибоко під водою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Лава, що просочується з цієї тріщини, освітлює шлях."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цікавий матеріал з «Hard Light»."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Ця матерія зроблена з «Hard Light»."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Він відчуває себе електричним."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Панель багатокутників"
+  }
+]

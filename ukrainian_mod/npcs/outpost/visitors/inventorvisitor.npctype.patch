@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Нетерпіння. Я винахідник за професією, і я тут, щоб знайти деякі компоненти, які мені потрібні!",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Дружелюбність. Я винахідник! Тобі теж подобається створювати речі?",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Збудження. Мій останній винахід стане проривом!",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Задумливість. Всесвіт величезний, а потенціал створення нескінченний! У мене є багато речей для створення!",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  }
+]

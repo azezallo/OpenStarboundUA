@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Схоже, у вас нога мутанта. Якщо захочеш, звичайно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ноги мутанта"
+  }
+]

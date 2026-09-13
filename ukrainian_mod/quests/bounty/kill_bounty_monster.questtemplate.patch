@@ -1,0 +1,47 @@
+[
+  {
+    "value": "^orange;Ціль^reset;",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Ти вбив ціль",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Вирушай^reset; на %s",
+    "path": "/scriptConfig/objectives/findWorldStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Досліди^reset; планету на наявність сигнатури цілі",
+    "path": "/scriptConfig/objectives/killBountyStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Вбий^reset; ^green;<bounty.name>^reset;",
+    "path": "/scriptConfig/objectives/killBountyStage/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мої знахідки на <prev.coordinate.name> привели мене до думки, що <bounty.name> знаходиться на <coordinate.name>.",
+    "path": "/scriptConfig/generatedText/text/prev/0",
+    "op": "replace"
+  },
+  {
+    "value": "<bounty.name> востаннє бачили на <coordinate.name>.",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти розібрався з <bounty.name>? Відмінна робота, напарнику! Всесвіт став трохи безпечнішим.\n\nЗаходь на Станцію миротворців, щоб забрати свою нагороду!",
+    "path": "/scriptConfig/generatedText/complete/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти відпустив його?! Як це має зробити всесвіт безпечнішим місцем?",
+    "path": "/scriptConfig/generatedText/failure/default/0",
+    "op": "replace"
+  }
+]

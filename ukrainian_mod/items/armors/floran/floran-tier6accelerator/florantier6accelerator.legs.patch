@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тому що вам потрібна свобода рухів, коли ви біжите."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шорти Вартового"
+  }
+]

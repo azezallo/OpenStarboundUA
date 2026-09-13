@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цікаво, для чого всі ці кнопки..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Клавіатура консолі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Клавіатура Apex містить кожну з 26 клавіш алфавіту Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пристрій із багатьма кнопками, на кожній із символом прибульця."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssilly технології."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Лише 26 символів?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це не QWERTY.. але я впізнаю багато літер тут."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Напис Hylotl тече, як вода. Напис Apex тече, як камінь."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Клавіатура. Використовується для набору тексту."
+  }
+]

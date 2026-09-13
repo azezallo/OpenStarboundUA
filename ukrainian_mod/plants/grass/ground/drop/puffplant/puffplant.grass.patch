@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Дощовик.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Дощовик",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран любить хлюпати дощовиком.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Дощовик.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

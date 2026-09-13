@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Смачне філе вареної риби."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "варена риба"
+  }
+]

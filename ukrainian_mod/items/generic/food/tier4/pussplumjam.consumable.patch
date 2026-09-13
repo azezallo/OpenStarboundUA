@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Варення з сливи. Це напрочуд кремезний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Варення зі сливи"
+  }
+]

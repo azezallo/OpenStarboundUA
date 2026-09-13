@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика антикварна книжкова шафа, яка була пошкоджена."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пошкоджена велика книжкова шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Більшість книг зникло, а книжкова шафа пошкоджена."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "За цією книжковою шафою не дбайливо доглядали."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Брудна стара книжкова шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Розпатлана книжкова шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Що тут сталося?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця книжкова шафа не обслуговувалася відповідно до стандартів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хтось врятував мене від проблем."
+  }
+]

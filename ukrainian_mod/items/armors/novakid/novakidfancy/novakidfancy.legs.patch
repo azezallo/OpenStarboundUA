@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зручний і невимушений. Ідеально підходить для злиття з натовпом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани стрільця"
+  }
+]

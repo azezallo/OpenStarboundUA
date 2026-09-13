@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бобот"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ніхто не знає, звідки він узявся і хто його зробив."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Таємниче пончо для таємничих цілей."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пончо Бандита"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця куртка має титанові наплічники та вбудовану ударостійку підкладку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Куртка повстанця"
+  }
+]

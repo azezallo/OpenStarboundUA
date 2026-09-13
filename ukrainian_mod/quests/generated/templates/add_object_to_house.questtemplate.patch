@@ -1,0 +1,117 @@
+[
+  {
+    "value": "Ремонт будинку <questGiver>",
+    "path": "/scriptConfig/generatedText/title/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ремонт для <questGiver>",
+    "path": "/scriptConfig/generatedText/title/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран маєє новий предмет меблів на прикметі для дому. Даваай зробимо це!",
+    "path": "/scriptConfig/generatedText/goalText/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Дім Флорана надто сспокійний. Даваай зробимо його яскравішим!",
+    "path": "/scriptConfig/generatedText/goalText/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Спостережливо. Я вирішив, що мій дім потребує покращення - ти можеш допомогти?",
+    "path": "/scriptConfig/generatedText/goalText/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Сором'язливо. Моєму дому не завадив би новий декор... Можливо, ти міг би допомогти мені?",
+    "path": "/scriptConfig/generatedText/goalText/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Це місце все ще не відчувається як дім, тут чогось не вистачає. Чи міг би ти допомогти мені?",
+    "path": "/scriptConfig/generatedText/goalText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;У мене є план причепурити свій дім, але я не можу зробити це все сам. Ти можеш мені допомогти?",
+    "path": "/scriptConfig/generatedText/goalText/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нарешті Флоран маєє ^orange;<object> ^white;, який Флоран хотів! Він матиме гарний вигляд у домі Флорана, тому ^green;будь ласка, постав його дессь там.",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Цей ^orange;<object> ^white;це сааме те, що потрібно моєму домуу! ^green;Будь ласска, постав його десь тут.",
+    "path": "/scriptConfig/generatedText/text/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Збуджено. Нарешті, чи міг би ти ^green; розмістити ^orange;<object>^green; десь у моєму домі? ^white;Тобі слід ^green;звільнити трохи більше місця^white;, якщо потрібно.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Нетерпляче. Ми майже закінчили! Усе, що тобі потрібно зробити зараз, це ^green;розмістити ^orange;<object>^green; у моєму домі^white; десь!",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Гаразд, я думаю, цей ^orange;<object>^white; - це саме те, що потрібно! ^green;Чи міг би ти знайти трохи місця в моєму домі, щоб розмістити його?",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Гаразд, я думаю, цей ^orange;<object>^white; - це саме те, що потрібно! ^green;Чи міг би ти знайти трохи місця в моєму домі, щоб розмістити його?",
+    "path": "/scriptConfig/generatedText/text/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран дуже щасссливий. Новий <object> флорана виглядає там добре.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Цей <object> дійсно робить мій дім блискучим! Дякую за допомогу!",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Надзвичайно радісно. Цей <object> дійсно доповнює атмосферу, чи не так? Дякую за допомогу!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. Думаю, додавання <object> — це саме те, що було потрібно моєму дому. Дякую за допомогу!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ось і все! Там він виглядає ідеально! Дуже дякую за всю твою допомогу!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Набагато краще! Виглядає саме так, як я і уявляв<questGiver.pronoun.obj1end>. Дуже дякую, не соромся заходити в будь-який час, щоб помилуватися своєю роботою!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мені не вдалося допомогти <questGiver> зробити деякі покращення вдома. Впевнений, <questGiver.pronoun.subject> впорається без моєї допомоги.",
+    "path": "/scriptConfig/generatedText/failureText/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мені не вдалося покращити декор у домі <questGiver>. Ймовірно, це все одно виглядало б погано.",
+    "path": "/scriptConfig/generatedText/failureText/1",
+    "op": "replace"
+  },
+  {
+    "value": "Додай <object> у дім <questGiver>",
+    "path": "/scriptConfig/objectives/0/text",
+    "op": "replace"
+  }
+]

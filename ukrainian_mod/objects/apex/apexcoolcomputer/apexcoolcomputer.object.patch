@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей крутий комп’ютер видає багато звуків «біп-буп-бу-біп»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класний комп'ютер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це дійсно потужний комп'ютер. Цивільні жителі Apex не мають доступу до комп’ютерів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей екран комп’ютера має так багато кольорів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран sssteal технологія sssvive."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Яка приголомшлива машина."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це дуже схоже на ту обчислювальну потужність, якою раніше володіло людство."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Базовий комп'ютер."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це екран комп’ютера."
+  }
+]

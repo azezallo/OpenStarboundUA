@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Банани та морква, подрібнені в мисці, стануть улюбленим перекусом Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Lucky Dip"
+  }
+]

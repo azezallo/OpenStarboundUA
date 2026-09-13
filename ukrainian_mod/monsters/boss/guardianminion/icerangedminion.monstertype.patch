@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Minion"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Його рух визначається рівнями температури в атмосфері."
+  }
+]

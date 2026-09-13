@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Молковий коктейль Reefpod! Діти люблять це."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рифшейк"
+  }
+]

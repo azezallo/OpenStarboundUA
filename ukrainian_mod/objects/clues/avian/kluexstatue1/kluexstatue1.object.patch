@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Статуя на честь історії бога птахів Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крилата статуя Kluex"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "На цій статуї є написи про історію Kluex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Основа цієї статуї має письмову історію про Клуекс і нас, Авіан."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sstatue має написи та ssstuff."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Натхненний. Основа статуї детально описує величну історію цього крилатого пташиного божества."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Основа цієї статуї, здається, детально описує історію бога птахів Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Надпис на основі цієї статуї описує історію бога птахів Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця «стара» статуя містить багато корисної інформації."
+  }
+]

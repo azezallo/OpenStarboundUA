@@ -1,0 +1,42 @@
+[
+  {
+    "value": "До бою!",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Погроза. Не варто тобі зв'язуватися з нами!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Азарт. Мої руки вже сверблять побитися!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Агресія. Ти знайшов щось смішне в мені?",
+    "path": "/scriptConfig/dialog/attack/glitch/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Хвилювання. Нарешті битва!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Безстрашність. Я бився з ворогами й страшнішими, ти ніщо для мене!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Зверхність. Ти не виглядаєш тим, кого варто боятися.",
+    "path": "/scriptConfig/dialog/attack/glitch/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Гнів. Ти зв'язався не з тим лицарем!",
+    "path": "/scriptConfig/dialog/attack/glitch/default/6",
+    "op": "replace"
+  }
+]

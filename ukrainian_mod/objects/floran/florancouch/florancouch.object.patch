@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кушетка зі шкіри та великих кісток."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивний диван"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кушетка, побудована з кісток і шкіри."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці кістки такі ж м’які, як і гострі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран з великим убивством робить кістяний диван. Інший Флоран сидить на дивані. Захоплюйтеся вбивством Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огидно. На шкірі є плями крові."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей диван виглядає так, ніби він належав би особливо кровожерливому Флорану."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Уявити Флорана, що сидить на кістках живої істоти, сповнює мене огидою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я просто не розумію, як хтось може розслабитися на такому гострому дивані."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Легкий металевий шолом із захисним козирком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мертвий Шлем"
+  }
+]

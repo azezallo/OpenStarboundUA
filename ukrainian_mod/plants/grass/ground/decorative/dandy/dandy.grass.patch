@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Я не був упевнений, що в мене вийде.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ух! Кімната тепер смердить просто жахливо.",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Одним кошмаром стало менше...",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ти бачив, куди воно поділося?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Цеглини, зроблені з відшліфованого пісковика.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Цеглина з пісковика",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Усвідомлено. Ці цеглини зроблені з міцного пісковика.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Міцні цеглини з пісссковика.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ці цеглини зроблені з пісковика.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

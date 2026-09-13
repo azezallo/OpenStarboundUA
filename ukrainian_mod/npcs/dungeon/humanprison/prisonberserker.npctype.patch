@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Порушник!",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Не тікай від мене!",
+    "path": "/scriptConfig/dialog/attack/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тобі краще тікати!",
+    "path": "/scriptConfig/dialog/attack/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Думаєш, ти підеш звідси цілим? Помиляєшся!",
+    "path": "/scriptConfig/dialog/attack/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ха-ха-ха! Ти зробив велику помилку, що прийшов сюди!",
+    "path": "/scriptConfig/dialog/attack/human/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Йди-но сюди!",
+    "path": "/scriptConfig/dialog/attack/human/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Тобі нікуди тікати!",
+    "path": "/scriptConfig/dialog/attack/human/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Тобі не варто було сюди приходити!",
+    "path": "/scriptConfig/dialog/attack/human/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Гей!",
+    "path": "/scriptConfig/dialog/attack/human/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Ти ким себе уявив?!",
+    "path": "/scriptConfig/dialog/attack/human/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "Зараз ти отримаєш!",
+    "path": "/scriptConfig/dialog/attack/human/default/9",
+    "op": "replace"
+  },
+  {
+    "value": "Ти мені що, підморгнув чи що?!",
+    "path": "/scriptConfig/dialog/attack/human/default/10",
+    "op": "replace"
+  },
+  {
+    "value": "Я тебе на порох зітру!",
+    "path": "/scriptConfig/dialog/attack/human/default/11",
+    "op": "replace"
+  },
+  {
+    "value": "Люблю бити всіляких незнайомців до напівсмерті!",
+    "path": "/scriptConfig/dialog/attack/human/default/12",
+    "op": "replace"
+  },
+  {
+    "value": "Біжи, якщо хочеш, так навіть веселіше!",
+    "path": "/scriptConfig/dialog/attack/human/default/13",
+    "op": "replace"
+  },
+  {
+    "value": "О-хо-хо! Це буде весело!",
+    "path": "/scriptConfig/dialog/attack/human/default/14",
+    "op": "replace"
+  }
+]

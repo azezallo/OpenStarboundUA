@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Декоративна ваза. Виглядає досить розбитим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленька смугаста ваза"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, я щось чую всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Птахи часто зберігають дрібнички в горщиках. Можливо, інші роблять те саме."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssmash його і вирві його нутрощі!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Деструктивний. Я вірю, що всередині щось може бути."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я завжди хотів розбити одну з них."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Шкода руйнувати таку дорогоцінність."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Горщики для мене просто горщики, старі чи нові."
+  }
+]

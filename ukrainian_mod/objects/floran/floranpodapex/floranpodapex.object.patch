@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Схоже, Apex і Agarans не сумісні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Захоплений Apex Pod"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Що за... який жах спіткав цей Апекс?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Який трагічний кінець."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не хоче говорити про це."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивування. Цей Апекс живий і здоровий і, здається, заповз сюди за власним бажанням."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені здається, він... ще живий."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Яке дивне місце, де ховається Апекс."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей Апекс ще живий?"
+  }
+]

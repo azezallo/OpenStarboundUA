@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Брила льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Брила льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Холодний лід!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Брила льоду."
+  }
+]

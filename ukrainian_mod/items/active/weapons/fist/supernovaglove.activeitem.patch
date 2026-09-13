@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рукавиці, просякнуті силою наднової."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Супернова рукавиця"
+  }
+]

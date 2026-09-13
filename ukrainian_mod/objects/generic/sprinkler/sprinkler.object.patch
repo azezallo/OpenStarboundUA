@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Автоматизоване рішення для поливу ґрунту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Спринклер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дощувач. Досить хитрий спосіб поливу посівів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це машина, яка автоматично поливає посіви."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Поливає посіви.."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Не вражений. Це рішення для автоматизованого поливу ґрунту. Мені подобається поливати рослини вручну."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це дощувач для поливу посівів! Бігаючи крізь спринклери, я відчуваю ностальгію."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Використовується для поливу посівів. Просто, але досить розумно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Поливати посіви стало просто."
+  }
+]

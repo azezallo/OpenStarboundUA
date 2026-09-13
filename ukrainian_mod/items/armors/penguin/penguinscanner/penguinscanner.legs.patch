@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сканер інтерфейсу для Penguins."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сканер пінгвінів"
+  }
+]

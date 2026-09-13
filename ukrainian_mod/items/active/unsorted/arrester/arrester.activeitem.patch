@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Використовується для арешту та виведення з ладу авторизованих цілей нагороди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Довга рука"
+  }
+]

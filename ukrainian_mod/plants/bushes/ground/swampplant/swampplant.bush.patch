@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Болотна рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Болотна рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sswampy."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Болотна рослина."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Купа скарбів",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Сяюча купа коштовних скарбів.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Одержимість. Я не можу відірвати очей від цих скарбів.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран любить блиссскуче золото!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Золото! Я насилу стримую свій кураж, файний легіню!",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Трохи ситніша їжа, ніж просто варена перловка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Перловий бульйон"
+  }
+]

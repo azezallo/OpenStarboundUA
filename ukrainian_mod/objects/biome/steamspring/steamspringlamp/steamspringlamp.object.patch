@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дивна лампа з дерева та латуні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лампа Steamspring"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця лампа дуже унікальної форми."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Який світильник цікавої форми!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Лампа смішно виглядає - це таємно зброя?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Дивно зібране джерело світла."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Хто зробив цю лампу? Це якось дивно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Форма цієї лампи надає їй дивного шарму."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ось дивна на вигляд лампа, якщо я коли-небудь її бачив."
+  }
+]

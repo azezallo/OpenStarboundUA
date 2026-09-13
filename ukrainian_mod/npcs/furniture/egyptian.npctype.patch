@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "I'm sure you are thankful that you've been graced with my presence."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "Коли я нарешті піднімуся з цієї смертної форми, будь ласка, поховайте мене з багатьма дорогими речами."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "If you want to know the secret behind my boundless confidence, it is that I am secretly an immortal deity made flesh."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "value": "Ви тут, щоб поклонятися мені? Можливо, ти маєш намір обмахувати мене і годувати виноградом?"
+  }
+]

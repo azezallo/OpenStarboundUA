@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вихлопний отвір системи штучної атмосфери."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Astro Vent"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Вихлопна труба."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, це якийсь випускний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Труба надто мала, щоб Флоран міг сховатися всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Такі витяжні отвори зазвичай є на кораблях і космічних станціях."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже на витяжний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я вважаю, що це якийсь отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Засуньте трохи зброї в отвір, і з нього, напевно, вийде пристойна гармата."
+  }
+]

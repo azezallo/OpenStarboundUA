@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нагрудник, створений для пригод!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нагрудник першовідкривача"
+  }
+]

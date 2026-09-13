@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Статуя Флорана. Не заколе вас... мабуть."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуя Флорана з пісковика"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Милий Флоран. Залякує."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Незважаючи на кам'яний вигляд, цей Флоран виглядає доступніше, ніж звичайний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Greenfinger. Ssspecial Флоран. Смішно смішно."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гіпотетичний. Я вважаю, що ця статуя зображує великого лідера Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чарівний Флоран. Це те, що я ніколи не думав, що скажу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Порожній камінь статуї доречно зображує холодні мертві очі Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Вирізати це листя, мабуть, було важкою роботою."
+  }
+]

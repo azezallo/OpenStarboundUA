@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пропонує покращення рідкісної зброї."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Поважна зброя Біггі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, це якийсь пункт чорного ринку торгівлі зброєю."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Так багато мечів. Більшість із них більші за купця!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран бачить багато зброї. Флоран схвильований."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Як цей мініатюрний власник крамниці взагалі піднімає свій товар?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це виглядає як цілком респектабельний заклад!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Продавець цього глухого закладу має ексцентричний смак у головних уборах."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "У цьому місці, здається, є багато важких інструментів. Це може стати в нагоді."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Поважна зброя Біггі"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;O щодня пропонує нові покращення зброї!"
+  }
+]

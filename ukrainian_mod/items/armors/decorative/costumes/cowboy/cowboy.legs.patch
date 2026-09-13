@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виготовлений зі справжньої шкіри буйвола."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ковбойські штани"
+  }
+]

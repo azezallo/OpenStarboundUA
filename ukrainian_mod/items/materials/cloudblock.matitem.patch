@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хмара, досить щільна, щоб по ній ходити."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хмара"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "вражений. Щільність цієї хмари могла витримати мою вагу."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Хмаринка така пухнаста!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Ця хмара зроблена з якогось важкого пуху."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гладка варильна поверхня."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Різьблений лічильник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Шафа і варильна поверхня."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кулінарія — це заняття, яке приземлені люди дуже люблять."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чи є тут якась їжа?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. І шафа, і варильна поверхня."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це місце на кухні."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Поверхня ідеально підходить для приготування їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Місце для приготування їжі та випічки."
+  }
+]

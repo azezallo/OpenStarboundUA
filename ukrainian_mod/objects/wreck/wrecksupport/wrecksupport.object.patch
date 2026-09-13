@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Іржава металева опора."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зруйнована підтримка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я не впевнений, яку підтримку це все ще забезпечує."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я сподіваюся, що це нічого не стримує."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Метал зараз не дуже міцний."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "нервовий. Ця опора не здається структурно надійною."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це не схоже на те, що воно може витримати велику вагу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Як несуча конструкція, це не виконує свою роботу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я б не розраховував на цю підтримку."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перловий горох, акуратно загорнутий у пучок бородавника."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Посилки Pearlpea"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Важкий стіл із дерева та золота."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Єгипетський стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Поверхня цього столу виглядає дуже надійно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця таблиця явно призначена для важливої ​​мети."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей стіл виглядає важким."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Схоже, що метал на цьому столі не виконує функціональної мети."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, цей стіл не дуже гарний, його просто вкрили тонким шаром."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей стіл ретельно прикрашений."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарний великий стіл, достатньо місця для карткової гри."
+  }
+]

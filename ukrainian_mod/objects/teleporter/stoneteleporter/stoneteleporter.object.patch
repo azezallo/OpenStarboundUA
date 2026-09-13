@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Персональний телепорт, підключається до закладок. \n^red;Знищується при поломці."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кам'яний телепорт"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Персональний телепорт. Функціональне, але веселе обладнання."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мені подобається шум мого пір’я, коли я телепортуюся!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Персональний телепорт - це шикарно!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заманили. Персональний телепорт із індивідуальним дизайном."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Персональний телепорт! Тепер це подорож у стилі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Персональний телепорт, має індивідуальний дизайн."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "З огляду на телепорти, це справді виглядає красиво!"
+  }
+]

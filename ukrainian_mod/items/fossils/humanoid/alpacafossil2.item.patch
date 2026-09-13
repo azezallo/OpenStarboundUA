@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'яніле тулуб альпаки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тулуб Альпака"
+  }
+]

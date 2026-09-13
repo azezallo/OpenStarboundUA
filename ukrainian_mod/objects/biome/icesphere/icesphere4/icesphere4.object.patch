@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крижана сфера. Розбийте його, поки він не розтанув!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крижана сфера"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ідеально кругла куля льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Порожниста крижана куля. Як кришталева куля."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран сссмаш кругла вода."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Крижана сфера."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це як застигла бульбашка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Сфера, застигла в часі."
+  }
+]

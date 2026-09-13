@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Сльота",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "З розплавленого льоду виходить густа сльота.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Обізнаність. Така сльота отримана з розплавленого льоду.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Холодна сссльота.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Купа холодної сльоти, легінь.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Водянистий рисовий пудинг, заправлений компотом зі сливи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пудінг Pussplu"
+  }
+]

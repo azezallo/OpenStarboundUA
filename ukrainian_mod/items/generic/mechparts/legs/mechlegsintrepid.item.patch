@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Надпотужні ніжки механізму, які збалансовують швидкість і потужність двигуна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Intrepid Mech Legs"
+  }
+]

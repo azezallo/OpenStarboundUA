@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мініатюрна ракетна установка, розроблена провідними вченими Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Міннаук Лаунчер"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "value": "Ракетний стек"
+  }
+]

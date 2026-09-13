@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Люмінесцентна маска - освітлюй ніч!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сяюча маска"
+  }
+]

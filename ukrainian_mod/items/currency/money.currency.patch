@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пікселі — універсальна валюта. Їх також можна використовувати для 3D-друку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пікселі"
+  }
+]

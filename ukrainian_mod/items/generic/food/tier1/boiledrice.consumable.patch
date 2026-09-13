@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Легкий і пухнастий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Відварений рис"
+  }
+]

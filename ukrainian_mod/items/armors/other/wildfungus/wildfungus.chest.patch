@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці ганчірки зроблять вас схожим на веселого хлопця!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дикі гриби ганчірки"
+  }
+]

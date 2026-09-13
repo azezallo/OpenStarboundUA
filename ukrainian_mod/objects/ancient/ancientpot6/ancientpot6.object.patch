@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей старовинний горщик має дивовижну форму, враховуючи, скільки йому років."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленький старовинний горщик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Що б не було всередині цього старовинного горщика, давно забуто."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Не думаю, що цей горщик має обрядовий характер. Цікаво, що може бути всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Старовинні горщики потребують розбиття."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вражений. Цей старовинний горщик зумів пережити руйнування часу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей горщик виглядає старовинним! Можливо, щось ще є всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цікаво, які давні скарби могли бути в цьому старому горщику."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Майже шкода розбити такий старий горщик..."
+  }
+]

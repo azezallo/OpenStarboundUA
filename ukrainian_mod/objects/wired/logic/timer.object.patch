@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вихід таймера вмикається та вимикається кожні 0,5 секунди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Таймер (0,5 с)"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Вихід таймера по черзі вмикається та вимикається кожні 0,5 секунди."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Вихід таймера вмикається та вимикається кожні 0,5 секунди."
+  }
+]

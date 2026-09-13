@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Яскравий знак, який попереджає про небезпечно високі температури."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ливарний знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Знак, що вказує на тепло або вогонь."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "ой ой! Краще я прислухаюся до цього знаку або постраждаю від опаленого пір'я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран завжди остерігався вогню."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Попереджувальний знак про пожежу поблизу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Остерігайтеся небезпеки тепла."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Символ полум'я на цьому знаку означає екстремальні температури."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Попереду небезпека спеки."
+  }
+]

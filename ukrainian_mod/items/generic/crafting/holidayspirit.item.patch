@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Суть курортного сезону в чистому вигляді!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Святковий дух"
+  }
+]

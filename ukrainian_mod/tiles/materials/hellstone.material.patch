@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Фуу, виглядає як купа плоті!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Купа плоті",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Тривога. Виглядає як пульсуюча плоть.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ссстудениста ссслизька плоть.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ця плоть виглядає досить бридко.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

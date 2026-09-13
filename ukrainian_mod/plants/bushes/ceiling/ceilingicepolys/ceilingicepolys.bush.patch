@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Висячі осколки льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Висячі осколки льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Крижані осколки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. Hanging ice shards."
+  }
+]

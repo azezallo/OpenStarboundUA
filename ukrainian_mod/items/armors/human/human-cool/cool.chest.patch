@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Носіння цієї куртки зі штучної шкіри наповнить вас впевненістю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стильна куртка"
+  }
+]

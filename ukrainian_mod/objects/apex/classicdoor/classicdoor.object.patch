@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Класичні дерев’яні двері в стилі банана з позолоченою ручкою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ручка виконана з цільного золота, а деревина має аромат банана."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Такі двері відкриті небагатьом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Аромат жовтих фруктів Apex походить від деревини."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "роздратований. Датчики видають унікальний запах від цих дверей."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці двері... пахнуть бананами?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Запашна деревина, поширена практика в ремеслі Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця ручка виглядає дуже блискучою."
+  }
+]

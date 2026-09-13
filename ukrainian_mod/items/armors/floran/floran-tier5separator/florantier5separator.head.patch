@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шолом, створений для носіння в тіні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом збирача"
+  }
+]

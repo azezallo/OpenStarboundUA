@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Арктичний копьезуб"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Він підтримує твердий крижаний панцир навколо свого тіла для захисту."
+  }
+]

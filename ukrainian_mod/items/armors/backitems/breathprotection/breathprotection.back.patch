@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виробляє придатне для дихання повітря. Корисно в місцях, де ^red;відсутня атмосфера^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дихальний ЕПП"
+  }
+]

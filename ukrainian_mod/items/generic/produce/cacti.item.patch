@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Колючі, сукулентні кактуси."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кактус"
+  }
+]

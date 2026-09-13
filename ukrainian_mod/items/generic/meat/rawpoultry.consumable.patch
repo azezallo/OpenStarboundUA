@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сире м'ясо птиці. Може, спочатку приготуєш..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сире м'ясо птиці"
+  }
+]

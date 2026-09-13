@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Статуя хробака. Але де гачок?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуя кам'яного хробака"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Звивистий черв'як. Так було б, якби не статуя."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Статуя смачного на вигляд хробака."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить їсти черв'яків."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Шокований. Статуя малоплямистого мозкового хробака."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Черв'як такий великий, що ним можна зловити кита."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вітаю, мій друже кам'яний черв'як."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Що це за біса?"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий гейзер, вкритий рослинами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великий зарослий гейзер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей великий гейзер виглядає небезпечним, але здається неактивним."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей гейзер не виглядає активним, але ви ніколи не можете бути впевнені."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Рослини черпають енергію з цього великого гейзера."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Якби цей гейзер вибухнув, чи міг би він завдати мені шкоди?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це виглядає як міні-вулкан, вкритий виноградною лозою."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я тримаюся подалі від цього, просто щоб бути в безпеці."
+  },
+  {
+    "op": "replace",
+    "path": "/novaDescription",
+    "value": "Цей великий гейзер не виглядає надто небезпечним."
+  }
+]

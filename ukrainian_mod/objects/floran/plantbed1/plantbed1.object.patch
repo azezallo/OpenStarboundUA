@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тюремне ліжко Floran. Розстелюється по землі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рослина Bedroll"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тюремна постіль. Краще, ніж спати в бруді."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тюремне ліжко з рослин."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоранські в'язні мають базові ліжка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огидно. Це ліжко зроблене з рослин і заражене комахами."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, що це ліжко не забезпечує особливої ​​підтримки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Здається, ці рослини вплетені в ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Виглядає як килимок для сну, виготовлений із рослин."
+  }
+]

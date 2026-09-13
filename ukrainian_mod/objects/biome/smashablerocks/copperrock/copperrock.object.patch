@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потріскана скеля, повна міді."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мідна скеля"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, у цій крихкій породі є мідь."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якщо я розіб'ю цю скелю, я зможу зібрати в ній мідну руду."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучий камінь. Ssssmash це!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Ця порода містить мідь і вкрита тріщинами."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Камінь, повний міді! Можливо, я зможу його зламати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Швидкий удар по цій скелі звільнить мідь усередині."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гірська порода, багата міддю. Я повинен його зламати."
+  }
+]

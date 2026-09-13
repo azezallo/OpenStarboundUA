@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ситне густе рагу з бородавників і овочів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рагу з бородавників"
+  }
+]

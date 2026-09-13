@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Коли ви носите ці круті штани, ви відчуваєте, що все можливо."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стильний низ"
+  }
+]

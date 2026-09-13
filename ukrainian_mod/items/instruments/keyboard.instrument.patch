@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Модель Glitch M. З пружинним механізмом, що прогинається, більш цивілізованого віку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Модель М"
+  }
+]

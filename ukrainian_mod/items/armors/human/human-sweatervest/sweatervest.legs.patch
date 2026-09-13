@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Помірно зручний, відносно легкий у носінні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шорти"
+  }
+]

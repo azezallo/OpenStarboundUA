@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Підбитий утеплювачем, щоб ноги не мерзли."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани снігової піхоти"
+  }
+]

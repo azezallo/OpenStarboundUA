@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Солодке, тушковане яблуко під ковдрою золотої крихти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Яблучний Крамбл"
+  }
+]

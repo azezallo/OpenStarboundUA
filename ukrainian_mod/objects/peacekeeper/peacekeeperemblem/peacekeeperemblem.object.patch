@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Настінна табличка золота з тисненням емблеми Миротворця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Емблема миротворця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця емблема дуже добре відполірована."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця полірована емблема знаки, як сонце!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Занадто блискучий для Флорана. Флоран не довіряє."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Хтось зберіг цю емблему дуже добре відполірованою."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Яка гігантська емблема. Виглядає дуже офіційно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Який елегантно виготовлений щит."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця емблема дуже добре відполірована."
+  }
+]

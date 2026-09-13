@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий амоніт."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Амоніт"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Амоніт"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Амоніти — це загальновизнані скам’янілі рештки, з варіаціями, що з’являються на більшості планет, що забезпечують життя."
+  }
+]

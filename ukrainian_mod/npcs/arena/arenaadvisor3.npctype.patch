@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/identity/name",
+    "value": "Atticus"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Templar Inferno and his pets draw strength from fire. Keep them away from traps."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "Burn spray can be effective at preventing you from catching fire, but it will not nullify damage from direct contact."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "Використовуйте платформи, щоб обережно уникати пасток і дистанціюватися від клинка Inferno."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "value": "Your best chance is to take out Inferno quickly, otherwise more and more of his pets will come join the fray."
+  }
+]

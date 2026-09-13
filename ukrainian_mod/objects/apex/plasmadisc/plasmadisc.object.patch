@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Електрично заряджене поле плазми. Реагує на звук."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плазмовий диск"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Більше обладнання Apex. Експерименти чи тортури, хто знає?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це електрика? Птахи використовують кристалічний резонанс для живлення нашої технології."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискавка в клітці. Ніякої загрози Флорансу."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "тривожний. Цей пристрій використовує багато мільйонів вольт."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Одна з тих дивних плазмових дисків."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такий пристрій, ймовірно, має зловісну мету."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не можу на це довго дивитися."
+  }
+]

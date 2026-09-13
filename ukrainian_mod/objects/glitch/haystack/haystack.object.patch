@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Охайний тюк сіна, готовий до штабелювання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стог сіна"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тюк сіна. Для чого це, цікаво?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Сіно, сформоване в куб."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран міг зробити велику каструлю з блоків сіна."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Сіно сформоване в тюки для зручного зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я вважаю, що це так звані тюки сіна."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Висушена поверхнева рослина, сформована в куб."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тюк сіна."
+  }
+]

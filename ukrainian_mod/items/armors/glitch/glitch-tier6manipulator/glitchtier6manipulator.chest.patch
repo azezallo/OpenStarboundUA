@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нагрудний знак, створений для охорони пильного солдата."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кираса тамплієра"
+  }
+]

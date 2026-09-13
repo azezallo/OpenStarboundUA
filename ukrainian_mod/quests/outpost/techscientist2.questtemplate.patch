@@ -1,0 +1,42 @@
+[
+  {
+    "value": "^orange;Особистий ривок",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Моя ^orange;технологія ривків^white; має бути належним чином протестована, перш ніж я зможу запустити її в масове виробництво. Можливо, ти допоможеш мені ^green;її випробувати на ^orange;смузі перешкод^white;? ^green;Якщо ти готовий, то тільки скажи^white;, і я відразу відправлю тебе на місце.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Технологія ривків^white; відпрацювала без жодного збою! Чудово! Ось, візьми її на знак моєї вдячності. У мене також є й інші прототипи, які потребують тестування, тому завітай до мене ще якось.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Елліотт",
+    "path": "/scriptConfig/portraits/questStarted/title",
+    "op": "replace"
+  },
+  {
+    "value": "Елліотт",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "op": "replace"
+  },
+  {
+    "value": "Поговори з ^orange;Елліоттом^reset; і йди на ^orange;смугу перешкод^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "op": "replace"
+  },
+  {
+    "value": "Пройди ^orange;тест ривка^reset;",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "op": "replace"
+  },
+  {
+    "value": "Повернись до ^orange;Елліотта^reset; на ^orange;Аванпост^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

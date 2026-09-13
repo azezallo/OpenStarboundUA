@@ -1,0 +1,167 @@
+[
+  {
+    "value": "Золото! Я ледве стримую своє хвилювання, файний легіню!",
+    "path": "/npcname",
+    "op": "replace"
+  },
+  {
+    "value": "Похмуро. Так я зіпсую всю свою нову зброю.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Грубість. Від вас, молодих, самі лише неприємності!",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Втома. Що, знову...",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Роздратування. Ти не виставиш мене на посміховисько!",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Непривітність. Хіба тебе не вчили не злити коваля?",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Похмурість. Так я зіпсую всю свою нову зброю.",
+    "path": "/scriptConfig/dialog/converse/default/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Покірність. Гей, ще більше порушень.",
+    "path": "/scriptConfig/dialog/converse/default/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Азарт. Чудовий шанс протестувати мою зброю!",
+    "path": "/scriptConfig/dialog/converse/default/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Роздратування. Схоже, тобі треба дати урок.",
+    "path": "/scriptConfig/dialog/converse/default/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "Я щойно вийшов із в'язниці! Хоча, я дуже любив її.",
+    "path": "/scriptConfig/dialog/converse/default/default/9",
+    "op": "replace"
+  },
+  {
+    "value": "Не хвилюйся, я не небезпечний! Я був у в'язниці за фінансове шахрайство...",
+    "path": "/scriptConfig/dialog/converse/default/default/10",
+    "op": "replace"
+  },
+  {
+    "value": "Чи повинен я виглядати як невдаха в цьому комбінезоні?",
+    "path": "/scriptConfig/dialog/converse/default/default/11",
+    "op": "replace"
+  },
+  {
+    "value": "Не подумай, що я небезпечний через цей комбінезон! Я ношу його, тому що він зручний.",
+    "path": "/scriptConfig/dialog/converse/default/default/12",
+    "op": "replace"
+  },
+  {
+    "value": "Я не з в'язниці, цей комбінезон просто для комфорту... Чесне слово.",
+    "path": "/scriptConfig/dialog/converse/default/default/13",
+    "op": "replace"
+  },
+  {
+    "value": "Якби я приєднався до Земного Захисту, можливо, я б не опинився у в'язниці.",
+    "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я чув про те, що сталося із Землею. Я радий, що в той час я був у в'язниці в іншому місці.",
+    "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Чи повинен я виглядати як невдаха в цьому комбінезоні?",
+    "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Не хвилюйся, я не небезпечний! Я був у в'язниці за фінансове шахрайство...",
+    "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я не з в'язниці, цей комбінезон просто для комфорту... Чесне слово.",
+    "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Зоряний",
+    "path": "/scriptConfig/dialog/floranmissionstart/end/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ударний",
+    "path": "/scriptConfig/dialog/floranmissionswitch/hello/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Псі",
+    "path": "/scriptConfig/dialog/floranmissionswitch/stuck/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Поліцей.",
+    "path": "/scriptConfig/dialog/floranmissionswitch/goodbye/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Черепний",
+    "path": "/scriptConfig/dialog/boss/shellbroken/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Морський",
+    "path": "/scriptConfig/dialog/boss/fleshy/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Силовий",
+    "path": "/scriptConfig/dialog/boss/finish/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Галактич.",
+    "path": "/scriptConfig/dialog/endscene/follow/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хвильовий",
+    "path": "/scriptConfig/dialog/endscene/smalltalk/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Місячний",
+    "path": "/scriptConfig/dialog/endscene/end/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Гострий",
+    "path": "/scriptConfig/dialog/endscene/end/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Фокусув.",
+    "path": "/scriptConfig/dialog/startboss/intro/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Централ.",
+    "path": "/scriptConfig/dialog/startboss/start/default/default/0",
+    "op": "replace"
+  }
+]

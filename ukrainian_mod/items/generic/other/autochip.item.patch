@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Важлива частина ремонту автомобіля."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Авточіп"
+  }
+]

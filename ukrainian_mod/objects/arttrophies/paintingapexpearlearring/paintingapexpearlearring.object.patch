@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Портрет Апекса з сережкою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Витончений малюнок мавп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Шедевр, але цей Апекс, здається, одягнений у людський одяг."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей Апекс, здається, дивиться через плече."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Апекс дивиться через плече, здивовано!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Здається, стиль цієї картини не відповідає її віку."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця картина здається знайомою, але мене чомусь непокоїть."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гарна техніка, але я не знаю про тему."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарна картина, але це одна дивна жінка."
+  }
+]

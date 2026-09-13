@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця машина запускає гру під назвою «Zombie Banana Mansion»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жовта аркадна машина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Zombie Banana Mansion — класична гра Apex! Це лякало мене, коли я був молодим."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Банановий особняк зомбі - ви повинні перестріляти всіх зомбі, щоб зберегти запаси бананів у своєму особняку. Цікава концепція."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Навіщо зберігати неприємні банани? Просто їжте зомбі!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Порушений. Чи існують істоти в Zombie Banana Mansion в реальності?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Банановий особняк зомбі. Залиште справу Apex, щоб зробити збереження бананів своїм найвищим пріоритетом."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я розумію прагнення захистити свій дім, але я вважаю Zombie Banana Mansion надмірно жорстоким."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Банановий особняк зомбі? По правді кажучи, я мав достатньо ігор про зомбі."
+  }
+]

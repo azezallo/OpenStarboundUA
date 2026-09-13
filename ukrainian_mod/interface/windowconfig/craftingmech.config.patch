@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": "  Крафт деталей меха"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "value": "  Нові деталі для меха!"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "value": "Кувати"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnStopCraft/caption",
+    "value": "Зупинити"
+  }
+]

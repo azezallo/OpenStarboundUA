@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скриня з яскравими сяючими позначками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Hi-Tech скриня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Скриня в стилі хай-тек. Схоже, у ньому може бути щось цінне."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Скриня, яка виглядає так, ніби зберігає щось цінне."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Спеціальна блискуча скриня."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Необов'язковий. Ця скриня невідомого походження."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Хто зробив це? Що в ній?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У самій скрині вбудована дивовижна технологія."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ой, впевнений, що цінні технології повні."
+  }
+]

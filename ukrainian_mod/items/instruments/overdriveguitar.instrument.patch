@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "гітара. Для тих, хто любить спотворення."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гітара овердрайв"
+  }
+]

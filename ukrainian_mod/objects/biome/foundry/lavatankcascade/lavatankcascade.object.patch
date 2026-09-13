@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей резервуар обертає розплавлену рідину всередині, щоб вона не застоювалася."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Каскадний лавовий резервуар"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей резервуар обробляє енергію з розплавленої рідини всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Палаюча рідина каскадом витікає з цієї ємності."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Огидна палаюча лава."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Обслуговувати машину такого розміру важко."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей потік лави більший за мене."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця лава майже спокійна, краще переконайтеся, що на мене ніхто не бризне."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Великий резервуар виливає цілу місиво лави."
+  }
+]

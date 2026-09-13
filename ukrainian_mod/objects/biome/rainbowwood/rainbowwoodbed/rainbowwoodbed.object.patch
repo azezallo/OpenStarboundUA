@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ліжко з райдужного дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліжко Rainbow Wood"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Таке ліжко підходить тільки для дитячої кімнати."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ліжко з веселкою! Створений, щоб надихати на щасливі мрії."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ліжко яскраве і барвисте."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Це ліжко має дитячу привабливість."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я думаю, прокидатися під веселкою було б весело."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Наша внутрішня дитина прагне спливти на поверхню, коли справа доходить до веселки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Сон під веселкою обов’язково принесе вам удачу."
+  }
+]

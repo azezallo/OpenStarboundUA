@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кришка до великої дерев'яної бочки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кришка бочки"
+  }
+]

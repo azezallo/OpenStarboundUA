@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старе, потерте і запорошене ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Dusty Bed"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Старий і зношений, але, мабуть, працює достатньо ефективно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ліжко з трав'яним простирадлом. Я міг би звикнути до цього!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран, мабуть, міг би спати в цьому чудовому стані."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Ці меблі мають виглядати такими розпатланими?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це виглядає старим і сухим. Я б нервував, поставивши його біля відкритого вогню."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мені незручно спати в таких жахливих умовах."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Трохи пилу нікому не зашкодить."
+  }
+]

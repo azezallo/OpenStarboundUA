@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нота, вирізана з рожевої музичної жеоди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Джеод Г"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Камінь, який дзвенить, коли я наближаюся до нього."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Сяючий камінь. Дзвонить"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Камінь світиться, шумить. Флоран слухай."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Звукові хвилі, що випромінюються геологічною формацією."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дзвінкий камінь. Досить круто."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Сяючий камінь, що випромінює звук."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Великий рожевий камінь, що дзвенить, як церковний дзвін. Добре, це голова."
+  }
+]

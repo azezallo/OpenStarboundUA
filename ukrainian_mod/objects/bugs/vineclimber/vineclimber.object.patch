@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Її ніжки схожі на переплітаються ліани."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Виноградник"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нестабільна кристалічна речовина, яку видобувають із супутників і використовують як паливо для FTL."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Паливо Crystal Erchius"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Конструкція цього ліжка заснована на старому космічному човнику Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліжко космічного човника"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я б не почувався в безпеці, подорожуючи на такому космічному кораблі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Маленький шматочок історії людства."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Люди звикли літати в них."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гордий. Який довгий шлях пройшло людство."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Приємно озиратися назад і згадувати своє коріння. Крім того, ліжка для космічних човників — це верх прохолоди."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Hylotl також має власні реліквії ранніх космічних подорожей. Ми просто не робимо з них ліжка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ну подивіться сюди. Старий шедевр."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A rusty door. Схоже, це повинно вести до моторошного підвалу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іржаві двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Зловісні, іржаві двері."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Такі двері ніколи не ведуть до визначного місця."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "На цей раз Флорану нема чого сказати."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огидно. Іржаві двері."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Іржаві двері."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці двері погано доглядали."
+  }
+]

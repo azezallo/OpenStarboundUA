@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Грубий, неочищений вапняк.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Вапняк",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Сприйняття. Цей вапняк має консистенцію крейди.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Пильна вапнякова порода, сссмачно.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже на крейдяний вапняк, легінь.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

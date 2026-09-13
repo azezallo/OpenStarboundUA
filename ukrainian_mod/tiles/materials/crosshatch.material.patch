@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Віконна решітка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Звичайна решітка, зроблена з дерева.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Натхнення. Ця решітка може функціонувати як вікно або паркан.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран любить сссплетіння дерева.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Тонкі дерев'яні смужки, сплетені докупи, файно зроблені.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

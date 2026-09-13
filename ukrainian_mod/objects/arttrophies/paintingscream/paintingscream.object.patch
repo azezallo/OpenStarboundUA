@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Наслідуюча картина фігури, що кричить."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Картина, що кричить"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тихий крик... Мої люди можуть розповісти."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ось як почуваєшся не знати про Kluex."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран бачить це обличчя у всіх, на кого ми полюємо!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "тривожний. Ця постать викликає тривожний жах."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, на що дивиться кричуща фігура?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця картина значно покращилася б, якщо бути спокійнішою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ого, цей хлопець виглядає так, ніби він втрачає це. Йому потрібно розслабитися."
+  }
+]

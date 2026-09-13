@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "паперовий літак"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Паперовий літачок! Чи полетить?"
+  }
+]

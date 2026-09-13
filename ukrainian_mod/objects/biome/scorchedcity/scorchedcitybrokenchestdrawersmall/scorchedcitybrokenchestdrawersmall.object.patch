@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Комод, мінус шухляда."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленькі зламані ящики"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це колись був комод, залишилася тільки полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей комод зламався."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Зламаний шах з ящиками."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Сумно. Розбитий комод."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Комод, мінус шухляда."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Комод, більшість ящиків зараз відсутні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це точно зламано, у нього навіть немає шухляди."
+  }
+]

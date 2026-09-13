@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця шкура служить мисливським трофеєм Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мала чорна шкурка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленька шкурка, можливо, прикраса чи трофей."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Нагадування про якесь полювання, я б припустив."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран показує інший мисливський трофей Флорана. Заслужити повагу."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Enticed. The fur is soft. Флоранці повинні ретельно очистити свої завоювання."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Бідна тварина."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Жорстокість Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шкура дрібних тварин."
+  }
+]

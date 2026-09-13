@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Подивіться на агаранця з цим капелюшком воскового гриба!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Агарський капелюх восковий"
+  }
+]

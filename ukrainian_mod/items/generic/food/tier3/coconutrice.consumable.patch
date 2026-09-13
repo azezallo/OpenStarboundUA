@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ви не можете побачити кокос, але він є!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "кокосовий рис"
+  }
+]

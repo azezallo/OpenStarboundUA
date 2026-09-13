@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Згідно з легендою, цей палаючий клинок був викований занепалими ангелами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лютість вогняної бурі"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Лють вогняної бурі ^yellow;^reset;"
+  }
+]

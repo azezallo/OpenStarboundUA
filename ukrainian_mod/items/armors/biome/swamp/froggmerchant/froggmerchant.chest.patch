@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Слизовий нагрудник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Frogg Chest"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Величезне кам'яне щупальце"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Величезна статуя щупальця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це велике... щупальце? Здебільшого поховано."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тут стирчить щупальце."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Що це таке?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Виходить велике кам'яне щупальце."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Величезне щупальце! Це з чимось пов'язано?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "З'являється гігантське кам'яне щупальце!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Велике старе щупальце."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Техномотлох",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Даремний брухт, здебільшого залишки застарілих технологій.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Зацікавленість. Різні технології в цій купі сміття.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Технологічне сссміття.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Купа старої техніки, файно спресованої в цеглини.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Картопля! Відваріть їх, розімніть, вставте в рагу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння картоплі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Картопля абсолютно нічим не примітна."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Картопляне пюре стане затишною стравою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Тверда, хрустка картопля, щойно очищена від бруду."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Захоплення. З такої простої речі люди створюють безліч страв."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ааа, картопля. Є щось, що ти не можеш зробити?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Звичайний, нудний коренеплід."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ідеально підходить для смаження на багатті в холодну ніч."
+  }
+]

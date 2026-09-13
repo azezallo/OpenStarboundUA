@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "перловка! Мені доведеться сильно вкусити."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "перловий горошок"
+  }
+]

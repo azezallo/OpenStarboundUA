@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сухий кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сухий кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Мертвий кущ."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Сухий кущ."
+  }
+]

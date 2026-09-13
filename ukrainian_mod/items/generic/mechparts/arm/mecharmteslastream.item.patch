@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Класична конструкція зброї, яка перевантажує ворогів нищівним електричним зарядом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Tesla Stream Mech Arm"
+  }
+]

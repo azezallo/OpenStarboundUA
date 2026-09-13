@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/destinations/0/name",
+    "value": "Донизу"
+  },
+  {
+    "op": "replace",
+    "path": "/destinations/0/planetName",
+    "value": "поточний світ"
+  },
+  {
+    "op": "replace",
+    "path": "/destinations/1/name",
+    "value": "Висадка меха"
+  },
+  {
+    "op": "replace",
+    "path": "/destinations/1/planetName",
+    "value": "поточний світ"
+  }
+]

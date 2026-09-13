@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Досить детальний нарис анатомії Глітча."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Глітська людина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, це глюк анатомії."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Так збираються глюки?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Глюк інструкція. Виглядає важко."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Аналітичний. Глюкова медицина ще дуже примітивна. Значна частина цієї анатомічної схеми є неправильною."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це схоже на анатомічну схему."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Здається, Глітч досліджує їхню анатомію. Можливо, Glitch medicine піде на користь."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Подивіться на всі ці руки та ноги. Здається, це ускладнить пересування."
+  }
+]

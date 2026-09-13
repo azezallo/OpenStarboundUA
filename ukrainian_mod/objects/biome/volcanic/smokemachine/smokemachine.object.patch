@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Димова машина."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Димова машина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дим-машини ідеально підходять для відволікання."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Машина для виробництва диму, але навіщо?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssmoke машина."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Ця машина виробляє дим."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Така собі дим-машина, ідеальна для дискотек!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Димова машина, як... Атмосферно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якась димова машина."
+  }
+]

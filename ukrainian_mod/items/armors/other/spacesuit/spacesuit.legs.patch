@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Деякі старомодні штани скафандра!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани скафандра"
+  }
+]

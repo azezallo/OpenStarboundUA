@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Грибна грядка. Гарантовано подарує вам дивні сни."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліжко для грибів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це ліжко забавне та пружне."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це ліжко гойдається на своїй ніжці. Мені нудить."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Клумба Флоран, випадати."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "виявлення. Ця грибна грядка виділяє легкі галюциногенні спори."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Підходить тільки для однієї людини, тому що на цій грядці немає грибів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це ліжко м'яко гойдається, ніби людина на човні. Заспокійливий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Не впевнений, що ця грядка з грибами настільки стабільна..."
+  }
+]

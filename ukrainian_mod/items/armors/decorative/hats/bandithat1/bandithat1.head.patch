@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бандитська бандана."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бандана бандита"
+  }
+]

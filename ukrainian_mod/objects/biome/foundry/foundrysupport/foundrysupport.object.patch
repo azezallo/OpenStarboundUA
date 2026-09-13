@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Металева балка, зазвичай використовується для підтримки стель."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підтримка ливарного виробництва"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Міцна опора стелі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Підходить для підтримки великих вантажів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssstong металева опора."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безкорисливий. Балка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Здоровенна балка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Міцний металевий опорний кронштейн."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Прогін для підтримки стелі."
+  }
+]

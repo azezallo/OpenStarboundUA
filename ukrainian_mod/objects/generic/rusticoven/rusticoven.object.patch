@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тихо потріскуючи, запах диму гікорі чудовий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сільська піч"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "Приготування їжі на дровах."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Сільська піч"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Приготування їжі на дровах"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чудова маленька духовка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Приземлені люблять готувати в таких маленьких духовках."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Кам'яна піч добре готує м'ясо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інформативний. Цеглини відбивають тепло, готуються швидко і рівномірно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чарівна духовка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Так багато чарівності."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ну якщо це не наймиліша маленька духовка, яку я коли-небудь бачив!"
+  }
+]

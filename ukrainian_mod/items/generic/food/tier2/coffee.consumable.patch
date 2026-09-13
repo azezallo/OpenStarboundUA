@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Свіжозварена кава."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "кава"
+  }
+]

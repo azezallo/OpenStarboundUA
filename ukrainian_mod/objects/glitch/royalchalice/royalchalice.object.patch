@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Королівська чаша, для наповнення королівського рота королівськими напоями."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Царська чаша"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Золота чаша. На дні є крапля рідини."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Важка золота чаша."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран робить чашу з кістки, щоб додати смаку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заздрісні. Масивна золота чаша. Роялті обідають у розкоші."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Блискуча золота чаша. Ймовірно, це дуже дорого коштує."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Непотрібна екстравагантність."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Золото для того, щоб витрачати, а не для того, щоб його випивати."
+  }
+]

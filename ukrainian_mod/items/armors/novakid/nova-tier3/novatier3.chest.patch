@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Темна куртка з запорошеним пончо."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скриня поза законом"
+  }
+]

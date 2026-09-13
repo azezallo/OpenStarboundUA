@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Невеликий порожній ларьок. Виглядає сумно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Невеликий порожній ринок"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Порожній ларьок."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей кіоск порожній. Приземлені можуть виявити, що товари важко знайти."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Порожній стійло."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Цей кіоск порожній."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Порожні кіоски - це завжди якось сумно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цій стійлі потрібен інвентар."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Порожній ларьок. Тут нічого купити."
+  }
+]

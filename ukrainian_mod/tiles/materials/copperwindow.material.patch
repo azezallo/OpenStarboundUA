@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Потоковий",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Вітряний",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Атомний",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Астральний",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Кометний",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

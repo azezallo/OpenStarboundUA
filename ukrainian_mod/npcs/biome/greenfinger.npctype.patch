@@ -1,0 +1,122 @@
+[
+  {
+    "value": "Привіт, флоран - зеленоперст цього племені. Не вини їх за те, що вони надто зззахоплені, просссто флорани такі, які єсссть!",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вітання. Флоран <selfname> - зеленоперст. Роль флорана - направляти флоранів цього племені.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лассскаво просимо до нашого племені. Флоран <selfname> - зеленоперст, і флорани будуть ставитиссся до тебе з повагою, поки ти робиш те ж сссаме.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Привіт, апексе, флоран - зеленоперст цього племені. Не вини їх за те, що вони надто зззахоплені, просссто флорани такі, які єсссть!",
+    "path": "/scriptConfig/dialog/converse/default/apex/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вітання, апексе. Флоран <selfname> - зеленоперст. Роль флорана - направляти флоранів цього племені.",
+    "path": "/scriptConfig/dialog/converse/default/apex/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лассскаво просимо до нашого племені, апексе. Флоран <selfname> - зеленоперст, і флорани будуть ставитиссся до тебе з повагою, поки ти робиш те ж сссаме.",
+    "path": "/scriptConfig/dialog/converse/default/apex/2",
+    "op": "replace"
+  },
+  {
+    "value": "Привіт, авіано, флоран - зеленоперст цього племені. Не вини їх за те, що вони надто зззахоплені, просссто флорани такі, які єсссть!",
+    "path": "/scriptConfig/dialog/converse/default/avian/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вітання, авіано. Флоран <selfname> - зеленоперст. Роль флорана - направляти флоранів цього племені.",
+    "path": "/scriptConfig/dialog/converse/default/avian/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лассскаво просимо до нашого племені, авіано. Флоран <selfname> - зеленоперст, і флорани будуть ставитиссся до тебе з повагою, поки ти робиш те ж сссаме.",
+    "path": "/scriptConfig/dialog/converse/default/avian/2",
+    "op": "replace"
+  },
+  {
+    "value": "Брат флоран! Флоран - зеленоперст цього племені. Сссхоже, що ти досссить далеко від сссвого племені, друже.",
+    "path": "/scriptConfig/dialog/converse/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Лассскаво просимо! Флоран <selfname> - зеленоперст. Будь-якому флорану тут раді, звичайно ж, поки ти поважаєш нассс.",
+    "path": "/scriptConfig/dialog/converse/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лассскаво просимо до нашого племені, брате флоране. Флоран <selfname> - зеленоперст, і флорани будуть ставитиссся до тебе з повагою, поки ти робиш те ж сссаме.",
+    "path": "/scriptConfig/dialog/converse/default/floran/2",
+    "op": "replace"
+  },
+  {
+    "value": "Привіт, глітчу, флоран - зеленоперст цього племені. Не вини їх за те, що вони надто зззахоплені, просссто флорани такі, які єсссть!",
+    "path": "/scriptConfig/dialog/converse/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вітання, глітчу. Флоран <selfname> - зеленоперст. Роль флорана - направляти флоранів цього племені.",
+    "path": "/scriptConfig/dialog/converse/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лассскаво просимо до нашого племені, глітчу. Флоран <selfname> - зеленоперст, і флорани будуть ставитиссся до тебе з повагою, поки ти робиш те ж сссаме.",
+    "path": "/scriptConfig/dialog/converse/default/glitch/2",
+    "op": "replace"
+  },
+  {
+    "value": "Привіт, людино, флоран - зеленоперст цього племені. Не вини їх за те, що вони надто зззахоплені, просссто флорани такі, які єсссть!",
+    "path": "/scriptConfig/dialog/converse/default/human/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вітання, людино. Флоран <selfname> - зеленоперст. Роль флорана - направляти флоранів цього племені.",
+    "path": "/scriptConfig/dialog/converse/default/human/1",
+    "op": "replace"
+  },
+  {
+    "value": "Лассскаво просимо до нашого племені, людино. Флоран <selfname> - зеленоперст, і флорани будуть ставитиссся до тебе з повагою, поки ти робиш те ж сссаме.",
+    "path": "/scriptConfig/dialog/converse/default/human/2",
+    "op": "replace"
+  },
+  {
+    "value": "Привіт, гілотле, флоран - зеленоперст цього племені. Флоран розуміє, що твій народ боїтьссся нашого, але тут ти в безззпеці.",
+    "path": "/scriptConfig/dialog/converse/default/hylotl/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вітання, гілотле. Флоран <selfname> - зеленоперст. Роль флорана - направляти флоранів цього племені.",
+    "path": "/scriptConfig/dialog/converse/default/hylotl/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ну що, готовий іти?",
+    "path": "/scriptConfig/dialog/converse/default/hylotl/2",
+    "op": "replace"
+  },
+  {
+    "value": "Віконна решітка",
+    "path": "/scriptConfig/dialog/converse/default/novakid/0",
+    "op": "replace"
+  },
+  {
+    "value": "Звичайна решітка, зроблена з дерева.",
+    "path": "/scriptConfig/dialog/converse/default/novakid/1",
+    "op": "replace"
+  },
+  {
+    "value": "Натхненно. Ця решітка може функціонувати як вікно або паркан.",
+    "path": "/scriptConfig/dialog/converse/default/novakid/2",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Оригінальний і найкращий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прості окуляри"
+  }
+]

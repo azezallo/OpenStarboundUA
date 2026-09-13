@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вареники на пару. Дуже просто!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пельмені"
+  }
+]

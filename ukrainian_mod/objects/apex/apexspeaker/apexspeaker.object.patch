@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Домофони часто використовуються для трансляції повідомлень... або їх отримання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Оголошення Домофон"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Подібні домофони є звичайним місцем під Miniknog."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "З цього пристрою лунає глухий низький звук."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Привіт...? Флоран, певен, хтось слухає..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "нервовий. Звідкись він отримує тихий сигнал."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Домофонна система. Цікаво, чи відповість хтось, якщо я про це розповім."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "В домофон ніби вбудована камера."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Пристрій для трансляції наказів, а не музики. сором."
+  }
+]

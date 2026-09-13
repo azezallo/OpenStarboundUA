@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пелюшка амура. Пахне коханням!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пелюшка Амура"
+  }
+]

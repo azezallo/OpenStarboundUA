@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Солодка жовта кукурудза."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння кукурудзи"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кукурудза. Ще одна їжа, схожа на банан, але не є такою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Викльовування качана кукурудзи стане чудовою закускою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Тверда жовта кукурудза, зваріть, і вона вибухне."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Скептичний. Стверджується, що якщо Глюк з'їсть кукурудзу, вона вискочить у нас."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Постійне постачання цукрової кукурудзи – це чудова річ."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Звичайна несмачна закуска, яка не має жодних переваг."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Кукурудзу можна їсти в різних формах."
+  }
+]

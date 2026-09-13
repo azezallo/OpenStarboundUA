@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Настільна лампа з стручка рослини, що світиться."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Органічна настільна лампа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця настільна лампа насправді є світловипромінювальною рослиною."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей світильник є лише підставкою для розміщення цієї рослини, що світиться."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Настільна лампа Floran живиться рослинами."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "спантеличений. Ця настільна лампа не має видимого джерела живлення."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "З цієї рослини виходить досить ефектна лампа."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Як чудово.  Ця лампа є просто підставкою для стручка рослини, що світиться."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця маленька сяюча рослина створює гарне світло."
+  }
+]

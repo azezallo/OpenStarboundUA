@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Філе сирої риби... слизове."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "сира риба"
+  }
+]

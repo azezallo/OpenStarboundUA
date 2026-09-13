@@ -1,0 +1,392 @@
+[
+  {
+    "value": "А",
+    "path": "/nameGen/1/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Б",
+    "path": "/nameGen/1/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "В",
+    "path": "/nameGen/1/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "Г",
+    "path": "/nameGen/1/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "Д",
+    "path": "/nameGen/1/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "Е",
+    "path": "/nameGen/1/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "Ж",
+    "path": "/nameGen/1/1/7",
+    "op": "replace"
+  },
+  {
+    "value": "З",
+    "path": "/nameGen/1/1/8",
+    "op": "replace"
+  },
+  {
+    "value": "І",
+    "path": "/nameGen/1/1/9",
+    "op": "replace"
+  },
+  {
+    "value": "К",
+    "path": "/nameGen/1/1/10",
+    "op": "replace"
+  },
+  {
+    "value": "Л",
+    "path": "/nameGen/1/1/11",
+    "op": "replace"
+  },
+  {
+    "value": "М",
+    "path": "/nameGen/1/1/12",
+    "op": "replace"
+  },
+  {
+    "value": "Н",
+    "path": "/nameGen/1/1/13",
+    "op": "replace"
+  },
+  {
+    "value": "О",
+    "path": "/nameGen/1/1/14",
+    "op": "replace"
+  },
+  {
+    "value": "П",
+    "path": "/nameGen/1/1/15",
+    "op": "replace"
+  },
+  {
+    "value": "Р",
+    "path": "/nameGen/1/1/16",
+    "op": "replace"
+  },
+  {
+    "value": "С",
+    "path": "/nameGen/1/1/17",
+    "op": "replace"
+  },
+  {
+    "value": "Т",
+    "path": "/nameGen/1/1/18",
+    "op": "replace"
+  },
+  {
+    "value": "У",
+    "path": "/nameGen/1/1/19",
+    "op": "replace"
+  },
+  {
+    "value": "Ф",
+    "path": "/nameGen/1/1/20",
+    "op": "replace"
+  },
+  {
+    "value": "Х",
+    "path": "/nameGen/1/1/21",
+    "op": "replace"
+  },
+  {
+    "value": "Ц",
+    "path": "/nameGen/1/1/22",
+    "op": "replace"
+  },
+  {
+    "value": "Ч",
+    "path": "/nameGen/1/1/23",
+    "op": "replace"
+  },
+  {
+    "value": "Ш",
+    "path": "/nameGen/1/1/24",
+    "op": "replace"
+  },
+  {
+    "value": "Е",
+    "path": "/nameGen/1/1/25",
+    "op": "replace"
+  },
+  {
+    "value": "Я",
+    "path": "/nameGen/1/1/26",
+    "op": "replace"
+  },
+  {
+    "value": "А",
+    "path": "/nameGen/1/2/1",
+    "op": "replace"
+  },
+  {
+    "value": "Б",
+    "path": "/nameGen/1/2/2",
+    "op": "replace"
+  },
+  {
+    "value": "В",
+    "path": "/nameGen/1/2/3",
+    "op": "replace"
+  },
+  {
+    "value": "Г",
+    "path": "/nameGen/1/2/4",
+    "op": "replace"
+  },
+  {
+    "value": "Д",
+    "path": "/nameGen/1/2/5",
+    "op": "replace"
+  },
+  {
+    "value": "Е",
+    "path": "/nameGen/1/2/6",
+    "op": "replace"
+  },
+  {
+    "value": "Ж",
+    "path": "/nameGen/1/2/7",
+    "op": "replace"
+  },
+  {
+    "value": "З",
+    "path": "/nameGen/1/2/8",
+    "op": "replace"
+  },
+  {
+    "value": "І",
+    "path": "/nameGen/1/2/9",
+    "op": "replace"
+  },
+  {
+    "value": "К",
+    "path": "/nameGen/1/2/10",
+    "op": "replace"
+  },
+  {
+    "value": "Л",
+    "path": "/nameGen/1/2/11",
+    "op": "replace"
+  },
+  {
+    "value": "М",
+    "path": "/nameGen/1/2/12",
+    "op": "replace"
+  },
+  {
+    "value": "Н",
+    "path": "/nameGen/1/2/13",
+    "op": "replace"
+  },
+  {
+    "value": "О",
+    "path": "/nameGen/1/2/14",
+    "op": "replace"
+  },
+  {
+    "value": "П",
+    "path": "/nameGen/1/2/15",
+    "op": "replace"
+  },
+  {
+    "value": "Р",
+    "path": "/nameGen/1/2/16",
+    "op": "replace"
+  },
+  {
+    "value": "С",
+    "path": "/nameGen/1/2/17",
+    "op": "replace"
+  },
+  {
+    "value": "Т",
+    "path": "/nameGen/1/2/18",
+    "op": "replace"
+  },
+  {
+    "value": "У",
+    "path": "/nameGen/1/2/19",
+    "op": "replace"
+  },
+  {
+    "value": "Ф",
+    "path": "/nameGen/1/2/20",
+    "op": "replace"
+  },
+  {
+    "value": "Х",
+    "path": "/nameGen/1/2/21",
+    "op": "replace"
+  },
+  {
+    "value": "Ц",
+    "path": "/nameGen/1/2/22",
+    "op": "replace"
+  },
+  {
+    "value": "Ч",
+    "path": "/nameGen/1/2/23",
+    "op": "replace"
+  },
+  {
+    "value": "Ш",
+    "path": "/nameGen/1/2/24",
+    "op": "replace"
+  },
+  {
+    "value": "Е",
+    "path": "/nameGen/1/2/25",
+    "op": "replace"
+  },
+  {
+    "value": "Я",
+    "path": "/nameGen/1/2/26",
+    "op": "replace"
+  },
+  {
+    "value": "А",
+    "path": "/nameGen/1/3/1",
+    "op": "replace"
+  },
+  {
+    "value": "Б",
+    "path": "/nameGen/1/3/2",
+    "op": "replace"
+  },
+  {
+    "value": "В",
+    "path": "/nameGen/1/3/3",
+    "op": "replace"
+  },
+  {
+    "value": "Г",
+    "path": "/nameGen/1/3/4",
+    "op": "replace"
+  },
+  {
+    "value": "Д",
+    "path": "/nameGen/1/3/5",
+    "op": "replace"
+  },
+  {
+    "value": "Е",
+    "path": "/nameGen/1/3/6",
+    "op": "replace"
+  },
+  {
+    "value": "Ж",
+    "path": "/nameGen/1/3/7",
+    "op": "replace"
+  },
+  {
+    "value": "З",
+    "path": "/nameGen/1/3/8",
+    "op": "replace"
+  },
+  {
+    "value": "І",
+    "path": "/nameGen/1/3/9",
+    "op": "replace"
+  },
+  {
+    "value": "К",
+    "path": "/nameGen/1/3/10",
+    "op": "replace"
+  },
+  {
+    "value": "Л",
+    "path": "/nameGen/1/3/11",
+    "op": "replace"
+  },
+  {
+    "value": "М",
+    "path": "/nameGen/1/3/12",
+    "op": "replace"
+  },
+  {
+    "value": "Н",
+    "path": "/nameGen/1/3/13",
+    "op": "replace"
+  },
+  {
+    "value": "О",
+    "path": "/nameGen/1/3/14",
+    "op": "replace"
+  },
+  {
+    "value": "П",
+    "path": "/nameGen/1/3/15",
+    "op": "replace"
+  },
+  {
+    "value": "Р",
+    "path": "/nameGen/1/3/16",
+    "op": "replace"
+  },
+  {
+    "value": "С",
+    "path": "/nameGen/1/3/17",
+    "op": "replace"
+  },
+  {
+    "value": "Т",
+    "path": "/nameGen/1/3/18",
+    "op": "replace"
+  },
+  {
+    "value": "У",
+    "path": "/nameGen/1/3/19",
+    "op": "replace"
+  },
+  {
+    "value": "Ф",
+    "path": "/nameGen/1/3/20",
+    "op": "replace"
+  },
+  {
+    "value": "Х",
+    "path": "/nameGen/1/3/21",
+    "op": "replace"
+  },
+  {
+    "value": "Ц",
+    "path": "/nameGen/1/3/22",
+    "op": "replace"
+  },
+  {
+    "value": "Ч",
+    "path": "/nameGen/1/3/23",
+    "op": "replace"
+  },
+  {
+    "value": "Ш",
+    "path": "/nameGen/1/3/24",
+    "op": "replace"
+  },
+  {
+    "value": "Е",
+    "path": "/nameGen/1/3/25",
+    "op": "replace"
+  },
+  {
+    "value": "Я",
+    "path": "/nameGen/1/3/26",
+    "op": "replace"
+  }
+]

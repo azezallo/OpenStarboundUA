@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мозок у банці, мріяти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мозок в банку"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це головний мозок..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей мозок такий великий."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Соковитий маринований мозок."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "ревнивий. Справжній мозок.."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це... мозок?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Глупота, вірити, що розум можна замкнути в банку."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мозок у банці? Мені це неприємно."
+  }
+]

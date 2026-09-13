@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рання модель персонального комп’ютера з Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "офісний комп'ютер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Важко повірити, що цей старий комп’ютер досі працює."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Схоже на ранню модель земного комп’ютера."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ця стара машина якось все ще працює."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Ранні комп'ютерні процесори вимагали надзвичайно великих корпусів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Важко повірити, що колись люди проводили години, починаючи з таких машин."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дизайн дуже простий, але це справжній історичний артефакт."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цікаво, чи є якісь карткові ігри на цій старій машині?"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцне дерев'яне ліжко з простирадлами з муші."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліжко Frontier"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я впевнений, що ці простирадла зігріють вас під час сну."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Спати в шкіряних простирадлах? Я б віддав перевагу солом’яному ліжку."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ліжко з мисливських трофеїв? Флоран вражений, гарна ідея."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Чи справді ці простирадла зроблені зі шкіри тварин?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я... Цікаво, чи це справжня тваринна шкура?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можу сказати, що над виготовленням цього ліжка було вкладено небагато думок."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тепер це ліжко, на якому я дійсно можу заплющити очі."
+  }
+]

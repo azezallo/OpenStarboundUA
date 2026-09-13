@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Міцна металева балка.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Балка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Враження. Ця посилена металева балка неймовірно міцна.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Холодні металевіссс балки.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Файний міцний шмат металу.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

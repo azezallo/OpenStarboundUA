@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Журавель. Використовується для підйому або розгойдування з."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Великий механічний кран"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Потужний на вигляд кран."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Журавель, і не орнітологічного сорту."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran ssswing з металевої руки!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Скільки глюків це може призвести?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Як ви думаєте, цей кран був побудований за допомогою більшого крана?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Сирий кран. Я думаю, що це має своє використання, хоча."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Сильний на вигляд кран."
+  }
+]

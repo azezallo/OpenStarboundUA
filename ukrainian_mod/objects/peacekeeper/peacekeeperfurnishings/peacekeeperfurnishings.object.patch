@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вишукане умеблювання в стилі Peacekeeper."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Меблі Peacekeeper"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, ця жаба продає меблі Peacekeeper."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Гадаю, я міг би купити собі меблі Peacekeeper!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран дивується, чому жаба не говорить."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Цей джентльмен-амфібія начистив свій шолом до блиску!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гадаю, «Frögg Furnishing» — мережа магазинів?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей цікавий чоловік, здається, продає меблі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це виглядає як чудова можливість трохи прикрасити!"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Меблі Peacekeeper"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Прикрашай, як миротворець!"
+  }
+]

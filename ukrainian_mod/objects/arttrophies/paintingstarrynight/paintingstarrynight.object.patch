@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прекрасна картина нічного неба."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Абстрактний живопис"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чи Apex ще здатний на таку красу?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це ефір? Вічне небо."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран дуже хоче знову побачити небо джунглів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Чудо. Такий вислів натякає на Глюк, ми є створіннями розуму."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Який гарний твір. Штрихи роблять кольори живими."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такий артистизм. Творець такого твору мав би шанувати Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ого, ці вихори фарби викликають у мене запаморочення."
+  }
+]

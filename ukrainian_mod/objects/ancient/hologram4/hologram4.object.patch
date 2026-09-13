@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стародавнє голографічне зображення міфологічної сцени."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стародавня голограма"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Шість рас, кожна з яких має по одному важливому предмету."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тут показано шість рас, кожна з яких тримає якийсь важливий предмет."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран найкраща гонка! Ssstab всім решті!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Зображення шести розумних рас Всесвіту."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гей, подивись, той угорі — людина! Ідіть до нас!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цікаво, яка важливість цих шести рас?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шість гонок, щось тримаєш. Чому мого роду тут немає?"
+  }
+]

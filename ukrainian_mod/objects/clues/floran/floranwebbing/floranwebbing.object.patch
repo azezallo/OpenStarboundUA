@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця стійка для трофеїв вкрита брудною павутиною."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Веб-стійка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тьфу... це якась паскудна павутина."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це якась брудна мережа. Краще б я його не чіпав!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це павутиння робить хороший трофей. Хоча це жахливо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Наляканий. Просто величезне липке павутиння, боятися нічого."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Здається, це якась павутина. Брутально!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мерзенна мережа, створена якоюсь дивною істотою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Безлад із неприємним виглядом."
+  }
+]

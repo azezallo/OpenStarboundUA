@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'яніла риба."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Викопні риби"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Викопні риби"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "За тисячоліття мало що змінилося в анатомії риб."
+  }
+]

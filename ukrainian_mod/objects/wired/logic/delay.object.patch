@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Схема, яка ретранслює сигнали після встановленої затримки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ворота затримки"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Схема, яка ретранслює сигнали після заданої затримки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Схема, яка ретранслює сигнали після встановленої затримки."
+  }
+]

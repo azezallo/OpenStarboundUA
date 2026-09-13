@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Місячний",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Гострий",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Фокусуюч.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Централ.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Місячний",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

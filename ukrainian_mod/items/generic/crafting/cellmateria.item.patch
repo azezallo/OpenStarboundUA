@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Cell Materia, я чув, що ви можете використовувати це для створення речей."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Клітинний матеріал"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блок з рослинної маси."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Заводський блок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Зачарований. Цей блок повністю побудований з рослинного матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Флоран відчуває спорідненість з цим рослинним блоком."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Я схожий на блок, зроблений із рослин."
+  }
+]

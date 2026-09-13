@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Плюшева Нумі, талісман з однойменного дитячого мультфільму Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нумі Плюши"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Плюшева Hylotl. Це мило, але я думаю, що я пройду."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не знаю, чи хочу я плюшевий Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Плюшевий рибалка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спокусився. Це дуже мило..."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це плюшева героїня дитячого мультфільму Нумі. Пройду, думаю."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це мила плюшева іграшка, але мені, правда, набридло бачити Нумі всюди."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Занадто милий на мій смак."
+  }
+]

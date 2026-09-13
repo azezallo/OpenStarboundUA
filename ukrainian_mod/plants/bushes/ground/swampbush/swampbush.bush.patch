@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A swampy bush."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "A swampy bush."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sswampy."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Заболочений чагарник."
+  }
+]

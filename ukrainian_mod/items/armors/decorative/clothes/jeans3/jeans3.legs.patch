@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великі широкі джинси. Адекватна заміна намету в кризу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мішкуваті джинси"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стара запорошена дерев'яна платформа. Схоже, він розвалюється."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Платформа Руїни"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "стривожений. Ця стара дерев'яна платформа є конструктивно неякісною."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Гниє і небезпечно. Флоран схвалює."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Краще дивись сам, ця стара платформа, здається, розвалюється."
+  }
+]

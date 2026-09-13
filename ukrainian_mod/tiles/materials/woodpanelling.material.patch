@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Ця дерев'яна обшивка була модною в далеку епоху.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Дерев'яна обшивка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Збентеження. Схоже, це декоративні дерев'яні панелі.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Дивні дерев'яні панелі для художнього оформлення.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Дерев'яні панелі для всіляких химерних місць, легіню.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

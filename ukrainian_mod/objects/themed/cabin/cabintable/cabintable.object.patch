@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Класичний дерев'яний стіл, підходить для будь-якої обстановки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кабіна стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Для цього знадобилося лише чотири дерев’яні деталі. Вражає."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я міг би вирізати тут своє ім’я, але це було б грубо."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран віддав би перевагу цьому, вкритому колючками."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Насправді це досить гарний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Виглядає як стіл для пікніка. Хтось приніс закуски?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мабуть, я бачив гірші дизайни столів..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я був би не проти зіграти в карти за цим столом."
+  }
+]

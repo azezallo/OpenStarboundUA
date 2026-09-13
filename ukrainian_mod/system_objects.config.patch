@@ -1,0 +1,192 @@
+[
+  {
+    "op": "replace",
+    "path": "/spacestation_electronics/parameters/displayName",
+    "value": "Станція електроніки"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_electronics/parameters/description",
+    "value": "Ця станція використовує переваги мікрогравітації для виробництва різноманітних делікатних електронних компонентів."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_food/parameters/displayName",
+    "value": "Пункт роздачі їжі"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_food/parameters/description",
+    "value": "Навіть у величезному космосі люди все одно повинні їсти. Ця станція виробляє та розповсюджує продукти харчування на різноманітні інопланетні смаки."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_medical/parameters/displayName",
+    "value": "Медична дослідна станція"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_medical/parameters/description",
+    "value": "Дослідники цієї станції вивчають вплив мікрогравітації на фізіологію, щоб розробити нові ліки."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_weapons/parameters/displayName",
+    "value": "Станція торгівлі зброєю"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_weapons/parameters/description",
+    "value": "Від секретних державних програм до божевільних дослідників пінгвінів, космос повний людей, які створюють нову захоплюючу зброю."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper1/parameters/displayName",
+    "value": "Станція Миротворець"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper1/parameters/description",
+    "value": "Занедбаний астероїд, спішно переобладнаний у центр для миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper2/parameters/displayName",
+    "value": "Станція Миротворець"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper2/parameters/description",
+    "value": "Трохи занедбаний офіс, який зараз використовується як центр для миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper3/parameters/displayName",
+    "value": "Станція Миротворець"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper3/parameters/description",
+    "value": "Невеликий, але затишний центр для миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper4/parameters/displayName",
+    "value": "Станція Миротворець"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper4/parameters/description",
+    "value": "Велика космічна станція матиме багато об’єктів, які будуть використовуватися як центр для миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper5/parameters/displayName",
+    "value": "Станція Миротворець"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper5/parameters/description",
+    "value": "Витончена неонова космічна станція, яка використовується як центр для миротворців."
+  },
+  {
+    "op": "replace",
+    "path": "/playerstation/parameters/displayName",
+    "value": "Персональна космічна станція"
+  },
+  {
+    "op": "replace",
+    "path": "/playerstation/parameters/description",
+    "value": "Цю персональну космічну станцію розгорнув інший авантюрист. У них, напевно, є хороші речі для красти."
+  },
+  {
+    "op": "replace",
+    "path": "/pirateship/parameters/displayName",
+    "value": "Ворожий корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/pirateship/parameters/description",
+    "value": "Хто б не керував цим кораблем, ми не повинні наближатися, не підготувавшись до бою."
+  },
+  {
+    "op": "replace",
+    "path": "/cultistship/parameters/displayName",
+    "value": "Ворожий корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/cultistship/parameters/description",
+    "value": "Хто б не керував цим кораблем, ми не повинні наближатися, не підготувавшись до бою."
+  },
+  {
+    "op": "replace",
+    "path": "/researchship/parameters/displayName",
+    "value": "Дружній корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/researchship/parameters/description",
+    "value": "Це судно підтверджує наші повідомлення, і його капітан люб’язно запрошує нас відвідати."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantindustrialship/parameters/displayName",
+    "value": "Дружній корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantindustrialship/parameters/description",
+    "value": "Це судно підтверджує наші повідомлення, і його капітан люб’язно запрошує нас відвідати."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantastroship/parameters/displayName",
+    "value": "Дружній корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantastroship/parameters/description",
+    "value": "Це судно підтверджує наші повідомлення, і його капітан люб’язно запрошує нас відвідати."
+  },
+  {
+    "op": "replace",
+    "path": "/penguinship/parameters/displayName",
+    "value": "Дружній корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/penguinship/parameters/description",
+    "value": "Це судно підтверджує наші повідомлення, і його капітан люб’язно запрошує нас відвідати."
+  },
+  {
+    "op": "replace",
+    "path": "/anomaly/parameters/displayName",
+    "value": "???"
+  },
+  {
+    "op": "replace",
+    "path": "/anomaly/parameters/description",
+    "value": "Небесні перешкоди перешкоджають детальному скануванню, але тут є аномальні показники енергії, які вимагають дослідження."
+  },
+  {
+    "op": "replace",
+    "path": "/bountyanomaly/parameters/displayName",
+    "value": "Кримінальна схованка"
+  },
+  {
+    "op": "replace",
+    "path": "/bountyanomaly/parameters/description",
+    "value": "Саме тут ховаються злочинці."
+  },
+  {
+    "op": "replace",
+    "path": "/bountyship/parameters/displayName",
+    "value": "Підозрілий корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/bountyship/parameters/description",
+    "value": "Хто б не керував цим кораблем, ми не повинні наближатися, не підготувавшись до бою."
+  }
+]

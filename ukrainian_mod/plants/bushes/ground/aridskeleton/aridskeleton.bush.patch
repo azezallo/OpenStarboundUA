@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Страшні кістки!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Кістки."
+  }
+]

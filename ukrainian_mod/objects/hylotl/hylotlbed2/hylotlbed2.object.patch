@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Легенда свідчить, що якщо ви проведете ніч у цьому ліжку, то втратите свідомість."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зручне традиційне ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це ліжко просте, але не базове."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Просте ліжко, виглядає зручно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Плоска ліжко. Нудно."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. Це ліжко здається занадто простим, але його матеріали високої якості."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це ліжко виглядає так, ніби воно має традиційний стиль, який не потребує змін."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вишукане традиційне ліжко. Багато видів могли б навчитися цьому."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Бачив гірші ліжка, ніж це. Теж краще видно."
+  }
+]

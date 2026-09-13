@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Величезна ягода, яку можна носити. Не плутати з беретом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ягідний капелюх"
+  }
+]

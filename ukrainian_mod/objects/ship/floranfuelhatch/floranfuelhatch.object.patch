@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Приймає Liquid Erchius як паливо для занурення корабля FTL."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Паливний люк FTL"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Паливний люк приводу FTL. Перетворює паливо на свободу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Паливний люк FTL. Давайте завантажимо його та понесемо до зірок!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Паливний люк для приводу FTL. Давайте наповнимо його!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Цей люк живить привід FTL, щоб я міг відвідувати планети за межами цієї системи."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Паливний люк судна. Маючи пальне для приводу FTL, я можу досліджувати за межами цієї системи."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Скромний паливний люк FTL. Паливо є джерелом життєвої сили дослідження."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Сюди йде паливо FTL!"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/save/caption",
+    "value": "Зберегти"
+  },
+  {
+    "op": "replace",
+    "path": "/serverSelectArea/children/serverList/schema/listTemplate/address/value",
+    "value": "Адреса сервера"
+  },
+  {
+    "op": "replace",
+    "path": "/serverSelectArea/children/serverList/schema/listTemplate/account/value",
+    "value": "Ім'я акаунта"
+  }
+]

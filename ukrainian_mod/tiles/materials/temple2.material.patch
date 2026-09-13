@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Temple Bricks"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці цеглини виглядають старовинними. Складні слова видряпані на поверхні, але я не можу їх розібрати."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Вік цих цеглин неможливо точно визначити."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить стару цеглу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Вважаю, що ці цеглини існують вже давно."
+  }
+]

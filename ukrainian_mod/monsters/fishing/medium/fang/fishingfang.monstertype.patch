@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Muckfang"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця повільна амфібія може годинами наближатися до жертви, перш ніж паралізувати її отруйними іклами."
+  }
+]

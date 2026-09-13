@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Смачне поєднання кокоса та шоколаду у формі пончиків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "шоколадний горіх"
+  }
+]

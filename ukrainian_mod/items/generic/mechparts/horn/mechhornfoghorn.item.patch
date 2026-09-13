@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гудок, який традиційно використовувався для попередження інших про небезпеку поблизу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Foghorn Mech Horn"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Могутнє тіло механізму в стилі Глітч, виготовлене з товстих шарів пластинчастої скрипки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Arthuria Mech Body"
+  }
+]

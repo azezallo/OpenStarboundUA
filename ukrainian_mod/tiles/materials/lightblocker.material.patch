@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "I can see my reflection... it's hideous!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Склоблок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. скло."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран гарно виглядає в окулярах."
+  }
+]

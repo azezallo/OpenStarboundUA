@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це мисливське покривало на груди зберігає тепло та сухість."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дика скриня"
+  }
+]

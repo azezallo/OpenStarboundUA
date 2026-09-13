@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це оновлення додає генерацію прохолодного повітря до можливостей вашого EPP. Корисно на ^red;небезпечно гарячих^reset; планетах."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Охолодження EPP Upgrade"
+  }
+]

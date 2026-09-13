@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Що краще ліжка? Два ліжка!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кабіна двоярусне ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Верхнє ліжко призначене для пошуку ворогів, що наближаються? я не розумію"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Двоярусні ліжка такі корисні для спільного простору!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану не подобається спати так далеко від землі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "хвилювався. Сподіваюся, що він не розвалиться під час використання."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Двох’ярусне ліжко – прекрасний винахід. Я радий, що він витримав перевірку часом."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Винахідливість цих меблів руйнується грубою постільною білизною."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ну, я б волів спати на верхній койці, ближче до зірок."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця шахова дошка має фігури на замовлення."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тематичний шаховий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Шахи - це стратегічна гра, освоїти яку вдається небагатьом."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хтось приклав багато уваги до створення цього ігрового набору."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Багато частин, які Флоран може розкидати!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. Я сумую за часом, проведеним за грою в шахи. Ці частини добре виготовлені"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вони виглядають так, ніби виготовлені на замовлення."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Хтось намагався відтворити конкретні речі за допомогою цих частин."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я так і не зрозумів цю гру."
+  }
+]

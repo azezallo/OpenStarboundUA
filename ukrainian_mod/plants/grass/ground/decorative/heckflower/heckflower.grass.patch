@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мерзенна, м'ясиста квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Heck Flower"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смачна квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огида. Квітка з плоті."
+  }
+]

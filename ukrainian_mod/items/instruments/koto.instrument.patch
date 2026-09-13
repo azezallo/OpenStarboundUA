@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кото. За цей східний звук."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кото"
+  }
+]

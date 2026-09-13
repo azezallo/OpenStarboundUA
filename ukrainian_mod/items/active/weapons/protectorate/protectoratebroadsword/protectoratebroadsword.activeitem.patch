@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потужна експериментальна зброя, розроблена Земного Захисту Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Палаш захисника"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "value": "Розширення можливостей"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вчений технічної лабораторії."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вчений технічної лабораторії"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/0",
+    "value": "Вибачте, але я зараз дуже зайнятий."
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/1",
+    "value": "Ми в авангарді розвитку технологій."
+  }
+]

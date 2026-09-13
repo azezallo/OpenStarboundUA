@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Торговий автомат, який, здається, готує та видає лише пончики."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Торговий автомат Peacekeeper"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці кондитерські вироби дуже шкідливі. Я, мабуть, не мав забагато."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пончики? Як мило!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не любить ніяких ласощів без м'яса."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Такі скарби всередині!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Пончики! Найулюбленіша їжа людства. Тут їх напевно багато!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці нездорові ласощі не варті того, щоб ними забруднювати моє тіло. Ну... Може, тільки один."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Знаєте, я навіть не впевнений, чи це шкідливо для здоров’я таких, як я."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Продавець пончиків"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Запасіться випічкою!"
+  }
+]

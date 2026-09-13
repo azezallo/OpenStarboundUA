@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Використовується для отримання корисних продуктів з різними ефектами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Кухонна стійка^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця таблиця містить все, що може знадобитися для приготування практично будь-якої страви."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тут можна приготувати практично будь-яку пташину страву. І багато непташиних страв також, якщо на те пішло!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран готує їжу голими руками. Але стіл теж корисний."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Натхненний. Давайте створювати їжу!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кухарський стіл. Ціла купа різних знарядь для приготування їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Приготування їжі – це мистецтво, а це пензлик."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я міг би влаштувати бурю з цього приводу."
+  }
+]

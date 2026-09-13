@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ви можете носити це на своїх очах! Це допомагає тобі краще бачити? ні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Козирок"
+  }
+]

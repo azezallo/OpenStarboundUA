@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Холодний, твердий, бетонний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бетонний блок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Знайомство. Бетон є широко використовуваним будівельним матеріалом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не любить холодного бетону."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Бетон робить могутній міцний блок."
+  }
+]

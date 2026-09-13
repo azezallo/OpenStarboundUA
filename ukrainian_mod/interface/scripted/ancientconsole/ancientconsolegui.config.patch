@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "Конс. Древніх Воріт"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "Активується Фрагментами ядра"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/costDescription/value",
+    "value": "ПОТР. ФРАГМЕНТИ"
+  }
+]

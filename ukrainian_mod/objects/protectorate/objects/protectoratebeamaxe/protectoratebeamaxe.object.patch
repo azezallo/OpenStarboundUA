@@ -1,0 +1,87 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей маніпулятор матерії був призначений для мене... І він мені може знадобитися, щоб вибратися звідси живим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маніпулятор матерії"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мені потрібно взяти цей Маніпулятор матерії та знайти спосіб втекти."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я маю підняти цього Маніпулятора матерії та втекти!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану краще підібрати Маніпулятор матерії та поспішити до безпеки!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підкреслив. Мені варто взяти цей маніпулятор матерії та піти звідси."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені варто взяти цей маніпулятор матерії... Він мені може знадобитися, щоб вибратися звідси живим."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей маніпулятор матерії може бути єдиною моєю допомогою, щоб вибратися звідси живим."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Немає часу думати про це. Мені потрібно підняти Маніпулятор матерії та втекти за ним."
+  },
+  {
+    "op": "replace",
+    "path": "/pickedUpParameters/description",
+    "value": "Мені потрібно звідси піти."
+  },
+  {
+    "op": "replace",
+    "path": "/pickedUpParameters/apexDescription",
+    "value": "я повинен піти."
+  },
+  {
+    "op": "replace",
+    "path": "/pickedUpParameters/avianDescription",
+    "value": "я мушу йти"
+  },
+  {
+    "op": "replace",
+    "path": "/pickedUpParameters/floranDescription",
+    "value": "Флорану треба йти."
+  },
+  {
+    "op": "replace",
+    "path": "/pickedUpParameters/glitchDescription",
+    "value": "тривожний. Мені потрібно піти."
+  },
+  {
+    "op": "replace",
+    "path": "/pickedUpParameters/humanDescription",
+    "value": "Я краще переїду."
+  },
+  {
+    "op": "replace",
+    "path": "/pickedUpParameters/hylotlDescription",
+    "value": "Мені не варто тут затримуватися."
+  },
+  {
+    "op": "replace",
+    "path": "/pickedUpParameters/novakidDescription",
+    "value": "Я краще піду."
+  }
+]

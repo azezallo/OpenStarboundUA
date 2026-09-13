@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На лезі є напис: «Дай п'ять за те, що виражаєте себе!»"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Asuterosaberu DX"
+  }
+]

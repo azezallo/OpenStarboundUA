@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зручне ліжко, яке підтримується каркасом із труб."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліжко Steamspring"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "У цьому ліжку в якості рами використовуються латунні труби, які перероблені. Винахідливий вибір."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Латунні труби на цьому шикарному ліжку виблискують на сонці."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран розгубився. Чому це ліжко з труби?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Труби на цьому ліжку роблять його зручнішим?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я відчуваю, що старі латунні труби – не найкраща основа для міцного ліжка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я вважаю, що це ліжко зроблено так, щоб виглядати старомодним. Я не дуже вражений."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я міг би лежати під зірками на такому ліжку."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перемикач <A /'Not'/. Інвертує вхідний сигнал схеми.>"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ливарне виробництво не перемикач"
+  }
+]

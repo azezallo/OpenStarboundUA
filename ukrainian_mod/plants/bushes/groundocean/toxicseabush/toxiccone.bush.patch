@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Toxic Cone bush."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Токсичний кущ шишки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssslimy weeds."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. Sea bush."
+  }
+]

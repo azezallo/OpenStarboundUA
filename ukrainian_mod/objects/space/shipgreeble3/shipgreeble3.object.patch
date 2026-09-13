@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дивний шматок корабля. Здається, це може служити меті, але хто насправді знає?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Корабель Greeble 3"
+  }
+]

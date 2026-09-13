@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Обмотай голову гарячою смолою! Що може піти не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дігтярна маска"
+  }
+]

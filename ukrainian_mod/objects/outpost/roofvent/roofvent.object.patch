@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вентиляційний отвір на даху"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Вентиляційний отвір на даху."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Вітерець із цього отвору тріпає моє пір’я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Вентиляційний отвір - для провітрювання, або для укриття."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Здається, цей вентиляційний отвір у хорошому стані."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вентиляційний отвір для даху, впевнений, кілька людей намагалися проникнути всередину."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Простий вентиляційний отвір на даху."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Вентиляційний отвір для даху, цікаво, чи можу я поміститися всередину?"
+  }
+]

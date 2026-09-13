@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/npcname",
+    "value": "Koichi"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "This place is fascinating. I have so much research to do!"
+  }
+]

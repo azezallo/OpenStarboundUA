@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Випромінює імпульси для аналізу складу мінералів поблизу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Детектор руди"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Що краще гігантського кулемета? Два гігантські кулемети."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Подвійна гвинтівка Mech Arm"
+  }
+]

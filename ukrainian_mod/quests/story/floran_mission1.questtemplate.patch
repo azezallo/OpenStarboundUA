@@ -1,0 +1,207 @@
+[
+  {
+    "value": "Знайти підказки про Артефакт Флоранів",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Тепер, коли ти знайомий зі скануванням, ^green;нам потрібно почати пошуки цих ^orange;артефактів^white;, серденько. Так, спершу Флоранів... Їхні колонії міститимуть важливі ^orange;підказки^reset; щодо його місцезнаходження. Нині Флорани живуть скрізь, але все ще віддають перевагу густій ^orange;лісовій^white; рослинності на планетах навколо ^orange;лагідних зірок^white;. Хай щастить, серденько, і дякую.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зробив це! Це була остання підказка, яка нам була потрібна. Тепер я точно знаю, де знаходиться артефакт Флоранів.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Скануйте об'єкти^reset;, щоб знайти ^orange;підказки Флоранів^reset;",
+    "path": "/scriptConfig/descriptions/findClues",
+    "op": "replace"
+  },
+  {
+    "value": "Поверніться до ^orange;Естер^reset; на ^orange;Ковчег^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/championspeardisplay/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Традиційна культура Флоранів надає великого значення їхньому полюванню та мисливцям... Я впевнена, що це матиме вплив на місцезнаходження їхнього артефакту.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/championspeardisplay/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/floranhunterpainting/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це зображення показує мисливця Флоранів, його вбрання здається майже церемоніальним.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/floranhunterpainting/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/ixolingpike/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Істота, якій належали ці останки, не є місцевою для цієї місцевості – я перегляну свої таксономічні записи та побачу, чи зможу виявити її походження та значення.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/ixolingpike/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/floranspinneret/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Цей прядильний орган незвично великий – яка істота могла підтримувати такий орган? Очевидно, це цінний трофей. Цікаво...",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/floranspinneret/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/floranwebbing/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ця липка павутина має незвичний відтінок і текстуру. Вид, що її виробив, мабуть, унікальний за своїми характеристиками і, ймовірно, обмежений у своєму середовищі.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/floranwebbing/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Хмм, як цікаво... Мені потрібно це зіставити.",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Хм, цікаво...",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Флорани не приділяють багато уваги історії, але вони дуже цінують традиції. Це допомагає скласти уявлення про їхню культуру.",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Підказка невеликого значення, але тим не менш актуальна!",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Насильство панує в культурі Флоранів – іноді безладне, іноді організоване за своєю природою.",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це підтверджує те, про що я припускала!",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Цікава знахідка! Продовжуй, ти чудово справляєшся!",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво, що вони так цінують цей предмет і виставляють його таким чином.",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Як дивно! Але несподівана інформація може бути навіть ціннішою, ніж очікувана...",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Кожна підказка наближає нас!",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/startWithProgress/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ти вже знайшов кілька речей, що дають підказки щодо місцезнаходження артефакту. Я розпочну їх аналіз, поки ти шукатимеш ще!",
+    "path": "/scriptConfig/radioMessages/startWithProgress/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ти справжній колекціонер старожитностей Флоранів! Здається, ти вже знайшов достатньо підказок, щоб я змогла визначити місцезнаходження Артефакту!",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/complete/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Чудово – я вважаю, що тепер знаю, де може бути Артефакт! ^#71f2f6;Зустрінемося знову на Ковчежі, коли будеш готовий^white;, серденько.",
+    "path": "/scriptConfig/radioMessages/complete/text",
+    "op": "replace"
+  }
+]

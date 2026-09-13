@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пучок з натурального бавовняного волокна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бавовняне волокно"
+  }
+]

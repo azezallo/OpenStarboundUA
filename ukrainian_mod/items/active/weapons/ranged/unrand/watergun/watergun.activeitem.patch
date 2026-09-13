@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Насос створює тиск у цьому пластиковому пістолеті."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сквирт-пістолет"
+  }
+]

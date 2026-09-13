@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Піднята платформа. Не застрягайте під ним."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рампована платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця дерев'яна платформа виглядає міцно сконструйованою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Широкий майданчик, цікаво яка мета."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Велика платформа Floran, на якій можна стояти."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Хоча матеріали базові, ця платформа зроблена дуже добре."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця платформа піднята як якась сцена."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Піднята дерев'яна платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Виглядає майже як етап t'me."
+  }
+]

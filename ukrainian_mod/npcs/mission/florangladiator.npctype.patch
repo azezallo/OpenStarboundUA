@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "value": "Intruder!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/0",
+    "value": "RIP AND TEAR!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/1",
+    "value": "RIP AND TEAR!"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хтось хоче яєчню-монстр?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Яйце щупальця-монстра"
+  }
+]

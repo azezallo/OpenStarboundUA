@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стелаж заповнений старовинними пташиними списами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташина стійка для копій"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гострі списи. Здається, у них є колекція."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Спис є зброєю, яку вибирає пташиний охоронець."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Птахиники збирають гострі палички."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Тут є три списи."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Набір пташиних списів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Списи корисні для бою під хвилями."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я сам віддаю перевагу зброї, але у цих людей, мабуть, не було особливого вибору."
+  }
+]

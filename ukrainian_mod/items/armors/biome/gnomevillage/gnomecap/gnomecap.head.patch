@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гномська шапка. Це найбільший доступний розмір."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кепка гнома"
+  }
+]

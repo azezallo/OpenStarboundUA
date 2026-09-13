@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Руйнувати органи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Праві органи"
+  }
+]

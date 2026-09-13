@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/output/parameters/shortdescription",
+    "value": "Дрон миротворець"
+  },
+  {
+    "op": "replace",
+    "path": "/output/parameters/description",
+    "value": "Автоматичний дрон, що розгортається, який стріляє вибуховими снарядами."
+  },
+  {
+    "op": "replace",
+    "path": "/output/parameters/tooltipFields/subtitle",
+    "value": "Peacekeeper Drone"
+  }
+]

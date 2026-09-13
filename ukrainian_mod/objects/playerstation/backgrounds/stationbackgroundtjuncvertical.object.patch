@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "T Junction вертикальний шматок фону"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "T Junction вертикальний шматок фону"
+  }
+]

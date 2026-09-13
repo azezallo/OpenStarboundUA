@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Карта невідомого світу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічна карта"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стара карта. Сканування мого корабля свідчить про те, що воно зовсім не точне."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Неточна стара карта. Це нікуди не веде."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стара карта! Ходімо на полювання!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Ця карта взагалі не дуже точна."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Датчики мого корабля свідчать, що ця карта неправильна."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Hylotl зосереджується на картографуванні океанів, а не суші."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Карта. Ось, сподіваюся, це приведе до скарбів!"
+  }
+]

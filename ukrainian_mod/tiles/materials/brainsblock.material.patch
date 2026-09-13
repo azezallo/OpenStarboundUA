@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Пульсірующее мозговое вещество... Інтересно, думает лі оно?",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Мозгі",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Встревоженно. Есть лі мозговая актівность в етом матеріале?",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран хочет заколоть ссстуденістий мозг.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Довольно мясістие мозгі.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

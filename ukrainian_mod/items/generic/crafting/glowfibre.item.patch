@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цибулинні біолюмінесцентні рослинні волокна. Вони світяться багатьма кольорами!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Glow Fiber"
+  }
+]

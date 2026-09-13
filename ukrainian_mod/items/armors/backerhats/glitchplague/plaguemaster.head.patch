@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маска старого чумного майстра. Це справді моторошно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска чумного майстра"
+  }
+]

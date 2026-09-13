@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шикарний королівський стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Королівський стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Можливо, цей стіл містить щось визначне."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Стіл, з якого король керує своїм королівством."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучий стіл для важливого металіста."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостерігайте. Письмовий стіл. Зазвичай укомплектований королівським пажем."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Він виглядає як письмовий стіл, але на його поверхні немає жодної плями чорнила."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Золото - зайве доповнення до цього столу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не дуже впевнений, що цей стіл насправді використовується для роботи короля."
+  }
+]

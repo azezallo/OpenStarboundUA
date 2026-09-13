@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Котушка з більшою шпулею для довшої волосіні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Котушка високої ємності"
+  },
+  {
+    "op": "replace",
+    "path": "/reelName",
+    "value": "Котушка високої ємності"
+  }
+]

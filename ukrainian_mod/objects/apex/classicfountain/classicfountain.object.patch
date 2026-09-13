@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ошатний фонтан – здається, що велика частина води витрачається даремно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Водний фонтан"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Вода з цього фонтану на смак... чистіша за воду, що подається в будинки Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Благослови моє пір'я, нарешті, купання!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить воду, вода є джерелом росту та життя."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Сканування показує, що ця вода абсолютно чиста."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Звідки вся вода? Це не схоже на пам'ять."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вода тут не збирається і не використовується повторно, таке марнотратство жахливе."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарне місце, щоб зупинитися, щоб почарувати та випити."
+  }
+]

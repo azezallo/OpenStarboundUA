@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тонкі звисаючі портьєри. Досить класно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класична тонка драпірування"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Багаті, важкі штори."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "М'який на дотик."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Apex робить штору з важкого оксамиту, Floran виготовляє штору з ssskin."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "в захваті. Небагато предметів так приємно пестити."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці штори належать до особняка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці штори майже прилипають до шкіри Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці штори виглядають так, ніби вони просто виставляються напоказ."
+  }
+]

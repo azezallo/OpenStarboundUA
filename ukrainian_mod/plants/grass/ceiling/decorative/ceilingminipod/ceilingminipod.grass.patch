@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рослиноподібний стручок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "A plant-like pod."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Plant pod."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Така рослина, як стручок."
+  }
+]

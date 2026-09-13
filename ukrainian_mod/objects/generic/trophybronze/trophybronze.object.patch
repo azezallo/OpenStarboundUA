@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На табличці написано «Все золото не блищить. Нагороджені за героїчну перемогу»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Трофей воїна"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей трофей невеликий, але гарний знак."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. На цей маленький трофей приємно дивитися."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Маленький трофей, зароблений, зробивши щось вражаюче."
+  }
+]

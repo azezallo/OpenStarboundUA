@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Табличка із зображенням медпункту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Медпункт знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей знак позначає медичний пункт."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей знак позначає медичний пункт."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей знак позначає медичний пункт."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інформований. Зображення цього символу позначає медичний пункт."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Знак, який позначає медичний пункт."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Такі знаки зазвичай означають, що неподалік є медичний пункт."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Вважайте, що цей знак означає, що тут має бути медична станція."
+  }
+]

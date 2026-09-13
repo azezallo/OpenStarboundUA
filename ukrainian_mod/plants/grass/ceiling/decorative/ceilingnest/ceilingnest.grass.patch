@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Здається, це маленьке гніздо."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Здається, це маленьке гніздо."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Будинок для істот!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Гніздо крихітної істоти."
+  }
+]

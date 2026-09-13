@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці облягаючі штани зі шнурівкою Ferozium практичні ТА стильні."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рифові штани"
+  }
+]

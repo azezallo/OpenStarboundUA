@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стародавня руна, яка є символом життя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Руна життя"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це стара руна для самого життя."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Вважається, що ця руна символізує суть життя."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Старий символ, він означає життя."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Оптимістичний. Стара руна, яка символізує чесноту життя."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це стара руна, яка, очевидно, означає життя."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стародавнє маркування, яке представляє все життя в одному символі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Руна, яка символізує все життя, велике завдання для однієї маленької руни."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Intrigued. Have you found any staves or wands recently? They are powerful weapons in the right hands!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "Excited. I'm researching the different kinds of staves and wands. Have you seen any lately?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "Nervous. These robes are elegant, but they are indeed difficult to walk in."
+  }
+]

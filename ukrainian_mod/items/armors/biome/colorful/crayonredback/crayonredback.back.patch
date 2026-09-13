@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A red crayon. Одягайтеся, щоб додати кольору вашому вбранню."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Червоний олівець"
+  }
+]

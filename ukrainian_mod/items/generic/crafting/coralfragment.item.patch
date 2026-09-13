@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Випромінює приємне тепло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ембер Корал Фрагмент"
+  }
+]

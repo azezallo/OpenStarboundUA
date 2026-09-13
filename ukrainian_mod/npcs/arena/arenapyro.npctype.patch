@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Тамплієр",
+    "path": "/identity/name",
+    "op": "replace"
+  },
+  {
+    "value": "Гори!",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Схилися перед полум'ям!",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти будеш поглинений вогнем!",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зіткнешся з гнівом палаючого тамплієра!",
+    "path": "/scriptConfig/dialog/attack/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ще разок, узри мій гнів!",
+    "path": "/scriptConfig/dialog/reattack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вогонь дає життя, і він же його забирає!",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Сильний той, хто володіє силою вогню!",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Поглинений вогнем!",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ти нікуди не дінешся від мого вогню!",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тут ніде сховатися!",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Вперед!",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти не врятуєшся від мого полум'я!",
+    "path": "/scriptConfig/dialog/cantReach/default/default/0",
+    "op": "replace"
+  }
+]

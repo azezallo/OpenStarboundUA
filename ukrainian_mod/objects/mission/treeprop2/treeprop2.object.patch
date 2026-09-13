@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарне дерево."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Опора дерева"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стійка для тортур у в'язниці. Це без натяжки сказати, що це буде боляче."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стійка для допитів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Big Ape використовує подібні пристрої під час допиту ув'язнених."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Стійка для розтяжки. Тортури такі варварські."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран тягнеться на цій стійці, поки вони не заговорять."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "несхвально. Флоран досі практикує катування своїх в'язнів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я завжди мріяв бути трохи вищим."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я бачив стільки жорстокості Флорана, що це мене не шокує."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я б не хотів опинитись у зв’язку з цією жахливою справою."
+  }
+]

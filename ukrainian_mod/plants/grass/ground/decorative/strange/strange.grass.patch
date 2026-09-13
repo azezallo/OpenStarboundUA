@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Химерна рослина.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Химерна рослина",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Дддивна рррослина. Флоран пппов'язаний із ними.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Відраза. Потворна рослина.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

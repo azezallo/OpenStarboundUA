@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Висячі пустельні камені.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Висячі пустельні камені",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Пісссщані камені.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Утвердно. Висячі пустельні камені.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Гарно розфарбована цегляна кладка.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

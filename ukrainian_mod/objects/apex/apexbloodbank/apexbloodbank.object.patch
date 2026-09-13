@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Флакони, повні різних груп крові. Сподіваюся, вони не витягли ВСЮ свою кров."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Банк крові"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Банк крові. Багато Apex ніколи б не побачили знову після надання його вмісту."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Звіздарі вірять, що кров містить магію."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Торговий автомат!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. З якою метою використовується ця кров?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Деякі з цих флаконів позначені. Усі вони позначені як «не пройшли»."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гілот вірить, що кров повинна залишатися всередині тіла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не можу сказати, що колись раніше бачив стільки крові."
+  }
+]

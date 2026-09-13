@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чим довше ти його носиш, тим розумнішим почуваєшся!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мислення Cap"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Кам'яна цегла з невеликим виступом.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Цегла з виступом",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Захоплення. Цей камінь має невеликий вирізаний уступ.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Різьблена кам'яна цегла.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Якась стара цегла, певно ще мій дід таку робив.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

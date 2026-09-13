@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стандартне полотнище Авіан банер."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Малий пташиний банер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленькі банери з простими візерунками."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці банери зроблені пташиними дітьми, коли вони вступають у доросле життя."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран виготовляє банери зі шкіри та хутра."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "в захваті. Цей банер, здається, є першою спробою вишивання одягу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці банери милі... вони виглядають так, ніби їх зробили діти."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці банери – справа рук дітей? Я схвалюю."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені здається, що цей банер зробила дитина."
+  }
+]

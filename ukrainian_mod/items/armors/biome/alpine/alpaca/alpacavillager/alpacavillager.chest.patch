@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей торс зроблений зі справжньої альпаки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Справжній торс альпаки прибульця"
+  }
+]

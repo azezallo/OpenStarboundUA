@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Новакид",
+    "path": "/charCreationTooltip/title",
+    "op": "replace"
+  },
+  {
+    "value": "Новакиди — містична раса, або ж \"міжзоряні газові люди\". У них немає ані певного місця проживання, ані історії. Вони летючі істоти, не зворушені минулим. Ніхто не знає, з чого вони зроблені та звідки вони.",
+    "path": "/charCreationTooltip/description",
+    "op": "replace"
+  },
+  {
+    "value": "Колір сяйва",
+    "path": "/charGenTextLabels/0",
+    "op": "replace"
+  },
+  {
+    "value": "Волосся",
+    "path": "/charGenTextLabels/1",
+    "op": "replace"
+  },
+  {
+    "value": "Одяг",
+    "path": "/charGenTextLabels/2",
+    "op": "replace"
+  },
+  {
+    "value": "Штани",
+    "path": "/charGenTextLabels/3",
+    "op": "replace"
+  },
+  {
+    "value": "",
+    "path": "/charGenTextLabels/4",
+    "op": "replace"
+  },
+  {
+    "value": "Тавро",
+    "path": "/charGenTextLabels/5",
+    "op": "replace"
+  },
+  {
+    "value": "Колір одягу",
+    "path": "/charGenTextLabels/6",
+    "op": "replace"
+  },
+  {
+    "value": "Колір штанів",
+    "path": "/charGenTextLabels/7",
+    "op": "replace"
+  },
+  {
+    "value": "НОВАКИД",
+    "path": "/charGenTextLabels/8",
+    "op": "replace"
+  },
+  {
+    "value": "Особистість",
+    "path": "/charGenTextLabels/9",
+    "op": "replace"
+  }
+]

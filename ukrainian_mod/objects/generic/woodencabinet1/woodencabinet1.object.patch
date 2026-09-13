@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцна дерев'яна шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Подвійна дерев'яна шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Невеликий дерев'яний склад."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Невеликий обсяг пам'яті."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Зберігання. Не багато."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Не вражений. Тут не так багато місця для зберігання."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мила пара шаф."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Невелике, але корисне сховище."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Здається досить безпечним, що стосується розблокованого сховища."
+  }
+]

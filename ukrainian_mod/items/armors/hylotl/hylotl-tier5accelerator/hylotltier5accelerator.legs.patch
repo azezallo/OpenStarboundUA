@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Легкі, міцні гетри, які заохочують воїна бути швидким."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Морські легінси"
+  }
+]

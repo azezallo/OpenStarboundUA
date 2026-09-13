@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Військовий рюкзак медика."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Медичний рюкзак"
+  }
+]

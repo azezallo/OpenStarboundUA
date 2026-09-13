@@ -1,0 +1,202 @@
+[
+  {
+    "op": "replace",
+    "path": "/parts/core/displayName",
+    "value": "Ядро"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/core/description",
+    "value": "Квадратна кімната зі слотами розширення в 4 напрямках."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/corehuge/displayName",
+    "value": "Велике ядро"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/corehuge/description",
+    "value": "Величезна порожня кімната зі слотами розширення в 4 напрямках."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cross/displayName",
+    "value": "Cross Junction"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cross/description",
+    "value": "Кімната у формі хреста зі слотами розширення в 4 напрямках."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/crosswayNESW/displayName",
+    "value": "Перехресний кут N-E & S-W"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/crosswayNESW/description",
+    "value": "Кімната з двох не з’єднаних між собою тунелів із слотами для розширення в 4 напрямках."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/crosswayNWSE/displayName",
+    "value": "Поперечний кут N-W & S-E"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/crosswayNWSE/description",
+    "value": "Кімната з двох не з’єднаних між собою тунелів із слотами для розширення в 4 напрямках."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passage/displayName",
+    "value": "Горизонтальний коридор"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passage/description",
+    "value": "Коридор із слотами розширення з обох кінців."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passageglass/displayName",
+    "value": "Довгий горизонтальний коридор"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passageglass/description",
+    "value": "Довгий горизонтальний скляний коридор, крізь який проходить поруччя. Він має слоти розширення на обох кінцях."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaft/displayName",
+    "value": "Вертикальний вал"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaft/description",
+    "value": "Вертикальний вал із розширювальним отвором на обох кінцях."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaftglass/displayName",
+    "value": "Довгий вертикальний стрижень"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaftglass/description",
+    "value": "Довгий вертикальний скляний вал із рейкою, що проходить через нього. Він має слоти розширення на обох кінцях."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerNE/displayName",
+    "value": "Кут N-E"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerNE/description",
+    "value": "Прохід у формі кута з розширювальними отворами на північ і схід."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerNW/displayName",
+    "value": "Кут N-W"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerNW/description",
+    "value": "Прохід кутової форми з розширювальними отворами на захід і північ."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerSW/displayName",
+    "value": "Кут Пд-Зх"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerSW/description",
+    "value": "Прохід кутової форми з розширювальними отворами на захід і південь."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerSE/displayName",
+    "value": "Кут S-E"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerSE/description",
+    "value": "Прохід у формі кута з розширювальними отворами на південь і схід."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNWE/displayName",
+    "value": "T Перехрестя N-W-E"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNWE/description",
+    "value": "Кімната у формі Т-образного перехрестя зі слотами розширення в 3 напрямках."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNSE/displayName",
+    "value": "T Перехрестя N-S-E"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNSE/description",
+    "value": "Кімната у формі Т-образного перехрестя зі слотами розширення в 3 напрямках."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNSW/displayName",
+    "value": "T Перехрестя N-S-W"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNSW/description",
+    "value": "Кімната у формі Т-образного перехрестя зі слотами розширення в 3 напрямках."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncSWE/displayName",
+    "value": "T Перехрестя S-W-E"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncSWE/description",
+    "value": "Кімната у формі Т-образного перехрестя зі слотами розширення в 3 напрямках."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechassembly/displayName",
+    "value": "Складальна кімната механіка"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechassembly/description",
+    "value": "Коридор із станцією збирання мехів і станцією виготовлення мехів. Він має слоти розширення на обох кінцях."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechbayL/displayName",
+    "value": "Мех Бей Вест"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechbayL/description",
+    "value": "Вхід на станцію, орієнтований на захід, підходить для посадки мехів."
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechbayR/displayName",
+    "value": "Мех Бей Схід"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechbayR/description",
+    "value": "Вхід на станцію, що виходить на схід, підходить для посадки мехів."
+  }
+]

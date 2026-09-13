@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Тремтячий шмат плоті.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Тремтячий шмат плоті",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Плотсссь.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Відраза. Висячий шмат м'яса.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

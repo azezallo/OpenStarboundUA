@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Відштовхує предмети з сильною пружною силою"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Jump Pad"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Відштовхуйте предмети сильною пружною силою"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Відштовхує предмети з сильною пружною силою"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зручне крісло Durasteel."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крісло Durasteel"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Досить зручне крісло. Я задоволений цим."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дуже пристойне місце для сидіння."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран сидить на стільці і думає про полювання."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розслаблений. Це крісло надзвичайно зручно для Глітча."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Досить м'яке крісло. Нагадує мені перебування вдома."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Майже розкіш, до якої звик Hylotl. Тут можна отримати задоволення."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це своєрідне крісло змушує мене підняти ноги!"
+  }
+]

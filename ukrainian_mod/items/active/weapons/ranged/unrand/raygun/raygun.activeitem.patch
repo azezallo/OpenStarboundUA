@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дивна зброя, яка стріляє коливальними енергетичними кулями."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Променева рушниця"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Променева зброя ^yellow;^reset;"
+  }
+]

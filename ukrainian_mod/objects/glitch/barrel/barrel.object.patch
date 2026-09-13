@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бочка. Всередині може бути що завгодно!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленька бочка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дерев'яна бочка. Щось всередині?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Округла дерев'яна ємність, скріплена залізом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран може покласти речі всередину та покатати їх."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Бочка, хороше місце для дешевих речей."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Бочка. Добре підходить для зберігання їжі та матеріалів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Бочка для зберігання товарів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Звичайна бочка."
+  }
+]

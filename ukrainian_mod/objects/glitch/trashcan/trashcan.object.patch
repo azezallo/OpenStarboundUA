@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Відро для сміття. Який вантаж сміття."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Відро для сміття"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Відро для сміття."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Контейнер лише для речей, які можна викинути."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гаааарбаг день!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Товариш Глюк... або смітник."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Відро для сміття. Вони корисні в усьому всесвіті."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Контейнер для утилізації сміття."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тут немає нічого корисного, просто відро для сміття."
+  }
+]

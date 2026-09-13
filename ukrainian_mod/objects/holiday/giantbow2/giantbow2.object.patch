@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Декоративний червоний бант."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Блискучий червоний бант"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це декоративний бант."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Декоративна блискуча стрічка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Червоний, як м'ясо. Святкові кольори роблять Флорана голодним."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Примхливий. Декоративна стрічка навіює думки про подарунок."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це гарна блискуча стрічка, золото справді відтінює червоне."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це досить гарна стрічка. Можливо, з оксамиту та золота?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Старий великий червоно-золотий бант."
+  }
+]

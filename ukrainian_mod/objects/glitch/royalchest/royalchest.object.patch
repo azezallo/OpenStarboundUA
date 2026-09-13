@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сама ця скриня є скарбом, не кажучи вже про її вміст."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Королівська скриня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Сама скриня, ймовірно, дуже цінна."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Вишукана скриня з дерева та золота."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче виглядати всередині блискучих шахів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Хоча королівські покої добре охороняються, здається, знать вживає всіх заходів обережності зі своїми цінностями."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Скриня, оздоблена золотом."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Золото не робить скриню надійнішою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Покладення золота на скриню ніби перешкоджає меті безпеки."
+  }
+]

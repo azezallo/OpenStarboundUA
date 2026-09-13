@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Племінний зелений прапор якоїсь далекої флоранської нації."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Флоран Банер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, це якийсь банер фракції Флора."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хоча цей банер добре зроблений, я вважаю, що його зробив Флоран."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран може розпізнати майстерність Флорана, коли Флоран це побачить!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Цікаво, з якого королівства цей прапор?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво звідки цей банер? У мене таке відчуття, що це зробив Флоран."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це зробив Флоран? Це виглядає грубо і не надихає."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Здається, це представляє якусь націю."
+  }
+]

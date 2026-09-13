@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Похила склян. панель",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Я можу побачити своє відображення.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Уважність. Я ясно бачу, хоча це прозоре скло.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран красссненько виглядає у сссклі.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Я ясно бачу крізь це скло.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

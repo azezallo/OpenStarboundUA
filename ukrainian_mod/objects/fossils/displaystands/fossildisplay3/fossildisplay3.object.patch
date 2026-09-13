@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виставковий стенд для середніх копалин"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "Покажіть скам'янілості"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середній викопний дисплей"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стенд для демонстрації. Використовується для копалин."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Стенд для демонстрації копалин. Проте не має повної скам’янілості."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дисплей Fossil хороший."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Тут буде показано скам'янілість."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Трохи сумно без повної скам’янілості."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мені було б цікавіше, якби тут була виставлена ​​ціла скам’янілість."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Виглядає добре. Виглядайте набагато краще з повною копалиною..."
+  }
+]

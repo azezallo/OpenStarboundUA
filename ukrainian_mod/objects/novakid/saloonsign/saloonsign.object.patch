@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розписна дерев'яна вивіска для салонів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Салон знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "На цій старій намальованій вивісці написано \"Saloon\". Це пояснюється само собою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "\"Салон\"? Звучить гарно!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "У Флорана немає часу читати ссс."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Цей знак виглядає дуже привабливим - я підозрюю, що він призначений для залучення клієнтів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Салон, а? Мене чекає барна бійка чи просто гра в карти?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Грубий знак, прикрашений дешевою облупленою фарбою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тепер це саме той гарний заклад, який я шукаю."
+  }
+]

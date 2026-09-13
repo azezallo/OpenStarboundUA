@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'яніле жало іксодумів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іксодум Жало"
+  }
+]

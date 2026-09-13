@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Снігова куля з пінгвіном всередині. Птах виглядає злим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пінгвін Сніжна куля"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чарівний пінгвін у сніговій кулі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ах, пінгвін. Я співчуваю тобі, мій нелітаючий родиче."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить склянки із закускою."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "сигналізація. Зсередини цієї снігової кулі виходять слабкі ознаки життя."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ого, милий маленький пінгвін. Я хочу його обійняти."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Крихітний пінгвін потрапив у скляну в'язницю. Варварський."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Пінгвіни, звичайно, милі, але мене не обманюють. Вони негідники, усі вони!"
+  }
+]

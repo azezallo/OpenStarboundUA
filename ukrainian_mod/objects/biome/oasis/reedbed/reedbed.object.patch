@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ліжко з дерева та очерету."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліжко з очерету"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я звичайно бачила більш функціональні ліжка, але ця підійде для відпочинку.."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я вважаю, що відпочинок тут створений для того, щоб я відчував себе в густих джунглях."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Через сон тут Флоран мріє про полювання."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Це ліжко з дерева та очерету. Виглядає досить зручно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це ліжко на тему джунглів. Або... він справді зроблений з дерева та очерету?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Відпочиваючи тут, можна мріяти про пригоди в джунглях."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не знаю, що я маю отримати від того, що буду спати в ліжку з очерету."
+  }
+]

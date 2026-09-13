@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Щоб розстріляти тих, хто нічого не римує з помаранчевим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Помаранчевий Paintgun"
+  }
+]

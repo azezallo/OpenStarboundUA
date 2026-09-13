@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гострий присмак доповнює пікантні м’ясні смаки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Смак"
+  }
+]

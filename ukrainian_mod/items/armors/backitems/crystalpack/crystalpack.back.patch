@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блискучий кристал, який можна носити на спині. Дуже стильно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кришталевий рюкзак"
+  }
+]

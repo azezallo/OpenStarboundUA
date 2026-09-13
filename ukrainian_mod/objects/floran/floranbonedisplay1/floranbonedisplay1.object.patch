@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Результат успішного полювання Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кістковий трофей"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гігантська кістка виставлена ​​як трофей."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Від якої величезної істоти походить ця кістка?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран демонструє кістки лише істот, убитих Флораном."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Страшний. Судячи з розміру цієї кістки, істота, з якої вона походить, імовірно, більша за цілий замок Глітча."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це одна величезна кістка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Яку істоту вбив Флоран, щоб отримати цей... Трофей?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мабуть, знадобилася серйозна майстерність, щоб знищити цього хлопця."
+  }
+]

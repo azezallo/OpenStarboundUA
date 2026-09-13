@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Серійний номер: 0451"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ex Machina"
+  }
+]

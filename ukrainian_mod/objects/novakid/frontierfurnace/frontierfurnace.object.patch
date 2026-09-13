@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Прикордонна піч"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Старовинна плавка."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стара мідна та латунна піч."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прикордонна піч"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Досить архаїчна мідна піч."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я відчуваю, що якщо я підійду занадто близько до цього, це обпалить мені пір’я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Річ виглядає гаряче. Флоран злегка хвилювався."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Цікаво, чи справді всі ці труби служать меті?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця стара металева піч насправді досить гаряча на дотик."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця стара піч дуже енергоефективна. Я можу придумати кілька способів покращити його, якщо захочу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей запах палаючого вугілля... Немає нічого подібного."
+  }
+]

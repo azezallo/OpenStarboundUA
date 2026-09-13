@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика клубна колонка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Спікер клубу"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця музика змушує мене танцювати!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Що це за жахливий шум?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ця музика змушує Флорана ворушитися!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Негативний. Ця музика неприємна."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Просто типова клубна музика, не схожа на ту, яку я чув у клубах на Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це дійсно популярна клубна пісня."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Нічого подібного раніше не чув. Не впевнений, що це моя мелодія."
+  }
+]

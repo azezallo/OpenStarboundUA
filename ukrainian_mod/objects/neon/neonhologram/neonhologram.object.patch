@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пурпурова голограма пальми."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Неонова голограма"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це вражаюче відтворене дерево... Але, на жаль, голограми можуть бути лише одноколірними."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дерево, що висить у повітрі, освіта світла, застигла в просторі! Як чудово."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран бачить дерево, але не відчуває його запаху. Підозріло."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Це дерево зроблене зі світла, але воно має таке відчуття присутності..."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Голографічні дерева! Кому потрібна відпочинок на пляжі?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Штучні зображення природи не зрівняються зі справжніми."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це дуже гарний винахід!"
+  }
+]

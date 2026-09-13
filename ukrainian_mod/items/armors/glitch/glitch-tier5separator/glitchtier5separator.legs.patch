@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Наголенники, які захищають і ваші ноги, і вашу цнотливість."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Наголенники Паладина"
+  }
+]

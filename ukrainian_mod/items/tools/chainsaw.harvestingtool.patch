@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чудово підходить для рубання дерев. Намагайтеся уникати різанини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бензопила"
+  }
+]

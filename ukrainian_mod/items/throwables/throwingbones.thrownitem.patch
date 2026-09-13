@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кидання кісток"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кидати ворогів кістками примітивно, але ефективно."
+  }
+]

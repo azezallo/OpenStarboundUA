@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Руду для прутків дюрастілу в основному знаходять на планетах, що обертаються навколо радіоактивних зірок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Durasteel Bar"
+  }
+]

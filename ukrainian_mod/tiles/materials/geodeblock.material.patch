@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мерехтливі кристали природного жеоду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кристали жеода"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вражений. Ці природні кристали, здається, виросли з жеод."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssshiny geode crysstalss."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Some shiny lookin' rock crystals."
+  }
+]

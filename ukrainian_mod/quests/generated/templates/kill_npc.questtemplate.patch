@@ -1,0 +1,537 @@
+[
+  {
+    "value": "Убивця",
+    "path": "/scriptConfig/generatedText/fluff/0/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хитрун",
+    "path": "/scriptConfig/generatedText/fluff/0/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Спритник",
+    "path": "/scriptConfig/generatedText/fluff/0/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "Срібний",
+    "path": "/scriptConfig/generatedText/fluff/0/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "Снайпер",
+    "path": "/scriptConfig/generatedText/fluff/0/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "У яблучко",
+    "path": "/scriptConfig/generatedText/fluff/0/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "Тихий",
+    "path": "/scriptConfig/generatedText/fluff/0/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "Лихо",
+    "path": "/scriptConfig/generatedText/fluff/0/1/7",
+    "op": "replace"
+  },
+  {
+    "value": "Підлий",
+    "path": "/scriptConfig/generatedText/fluff/0/1/8",
+    "op": "replace"
+  },
+  {
+    "value": "Лукавий",
+    "path": "/scriptConfig/generatedText/fluff/0/1/9",
+    "op": "replace"
+  },
+  {
+    "value": "Швидкість світла",
+    "path": "/scriptConfig/generatedText/fluff/0/1/10",
+    "op": "replace"
+  },
+  {
+    "value": "Тіньовий",
+    "path": "/scriptConfig/generatedText/fluff/0/1/11",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> викрав вантажний корабель <company>",
+    "path": "/scriptConfig/generatedText/fluff/1/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> пограбував партію зброї <company>",
+    "path": "/scriptConfig/generatedText/fluff/1/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> вбив <individual>",
+    "path": "/scriptConfig/generatedText/fluff/1/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> пограбував <individual> під дулом пістолета",
+    "path": "/scriptConfig/generatedText/fluff/1/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> фліртував з <individual>",
+    "path": "/scriptConfig/generatedText/fluff/1/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> випустив усіх тварин із зоопарку",
+    "path": "/scriptConfig/generatedText/fluff/1/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> викрав запаси <valuable> цілої планети",
+    "path": "/scriptConfig/generatedText/fluff/1/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> пограбував <individual>, забравши <valuable>",
+    "path": "/scriptConfig/generatedText/fluff/1/1/7",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> був замішаний у нелегальному пінгвінячому реслінгу",
+    "path": "/scriptConfig/generatedText/fluff/1/1/8",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> здійснив зухвале пограбування та викрав схованку з <valuable>",
+    "path": "/scriptConfig/generatedText/fluff/1/1/9",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> провалив пограбування <individual>",
+    "path": "/scriptConfig/generatedText/fluff/1/1/10",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> намагався вкрасти цілий океан",
+    "path": "/scriptConfig/generatedText/fluff/1/1/11",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> викрав усі меблі з міста",
+    "path": "/scriptConfig/generatedText/fluff/1/1/12",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> постійно копав нори в будинках людей, поки ті спали",
+    "path": "/scriptConfig/generatedText/fluff/1/1/13",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> затопив ціле місто лавою",
+    "path": "/scriptConfig/generatedText/fluff/1/1/14",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> ніяк не припиняв красти черепицю з дахів міста",
+    "path": "/scriptConfig/generatedText/fluff/1/1/15",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> був спійманий на спробі нелегальної контрабанди <valuable>",
+    "path": "/scriptConfig/generatedText/fluff/1/1/16",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> провалив зухвале пограбування",
+    "path": "/scriptConfig/generatedText/fluff/1/1/17",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.capitalSubject> був зраджений членом своєї банди",
+    "path": "/scriptConfig/generatedText/fluff/1/1/18",
+    "op": "replace"
+  },
+  {
+    "value": "його банда відвернулася від нього після низки поганих лідерських рішень",
+    "path": "/scriptConfig/generatedText/fluff/1/1/19",
+    "op": "replace"
+  },
+  {
+    "value": "компанії Manaticon",
+    "path": "/scriptConfig/generatedText/fluff/2/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "компанії Rotik",
+    "path": "/scriptConfig/generatedText/fluff/2/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "компанії Callox",
+    "path": "/scriptConfig/generatedText/fluff/2/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "корпорації Graxus",
+    "path": "/scriptConfig/generatedText/fluff/2/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "корпорації Xia-Li",
+    "path": "/scriptConfig/generatedText/fluff/2/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "компанії Shade Co.",
+    "path": "/scriptConfig/generatedText/fluff/2/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "компанії Necrolix",
+    "path": "/scriptConfig/generatedText/fluff/2/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "компанії Teklacki",
+    "path": "/scriptConfig/generatedText/fluff/2/1/7",
+    "op": "replace"
+  },
+  {
+    "value": "Земного Захисту",
+    "path": "/scriptConfig/generatedText/fluff/2/1/8",
+    "op": "replace"
+  },
+  {
+    "value": "Міннаук",
+    "path": "/scriptConfig/generatedText/fluff/2/1/9",
+    "op": "replace"
+  },
+  {
+    "value": "короля ґлітчів",
+    "path": "/scriptConfig/generatedText/fluff/3/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "принцесу ґлітчів",
+    "path": "/scriptConfig/generatedText/fluff/3/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "принца ґлітчів",
+    "path": "/scriptConfig/generatedText/fluff/3/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "відомого поета гайлотлів",
+    "path": "/scriptConfig/generatedText/fluff/3/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "ватажка бандитів",
+    "path": "/scriptConfig/generatedText/fluff/3/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "бандита зі зв'язками",
+    "path": "/scriptConfig/generatedText/fluff/3/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "групу відомих мандрівників",
+    "path": "/scriptConfig/generatedText/fluff/3/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "могутнього звіздаря авіанів",
+    "path": "/scriptConfig/generatedText/fluff/3/1/7",
+    "op": "replace"
+  },
+  {
+    "value": "впливового банкіра",
+    "path": "/scriptConfig/generatedText/fluff/3/1/8",
+    "op": "replace"
+  },
+  {
+    "value": "флоранського зеленопалого",
+    "path": "/scriptConfig/generatedText/fluff/3/1/9",
+    "op": "replace"
+  },
+  {
+    "value": "генерала Міннаук",
+    "path": "/scriptConfig/generatedText/fluff/3/1/10",
+    "op": "replace"
+  },
+  {
+    "value": "золота",
+    "path": "/scriptConfig/generatedText/fluff/4/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "срібла",
+    "path": "/scriptConfig/generatedText/fluff/4/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "зброї",
+    "path": "/scriptConfig/generatedText/fluff/4/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "діамантів",
+    "path": "/scriptConfig/generatedText/fluff/4/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "курей",
+    "path": "/scriptConfig/generatedText/fluff/4/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "ліквідувати <enemy.pronoun.reflexive>",
+    "path": "/scriptConfig/generatedText/fluff/5/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "розібратися з <enemy.pronoun.copulativePast>",
+    "path": "/scriptConfig/generatedText/fluff/5/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "розібратися з <enemy.pronoun.copulativePast>",
+    "path": "/scriptConfig/generatedText/fluff/5/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "дати <enemy.pronoun.object> урок",
+    "path": "/scriptConfig/generatedText/fluff/5/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "проблема",
+    "path": "/scriptConfig/generatedText/fluff/6/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "неприємності",
+    "path": "/scriptConfig/generatedText/fluff/6/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую за допомогу!",
+    "path": "/scriptConfig/generatedText/fluff/7/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Чудово! Нам тут проблеми не потрібні.",
+    "path": "/scriptConfig/generatedText/fluff/7/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кому взагалі потрібна охорона, коли ти тут? Дякую за допомогу!",
+    "path": "/scriptConfig/generatedText/fluff/7/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я такий радий<questGiver.pronoun.obj1end>, що ти зміг допомогти нам із цим!",
+    "path": "/scriptConfig/generatedText/fluff/7/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран думає, що в н<enemy.pronoun.reflexive> у кишенях завалялося щось зайве!",
+    "path": "/scriptConfig/generatedText/fluff/8/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.pronoun.subject>, напевно, тільки й чекає, щоб вставляти флорану палиці в колеса.",
+    "path": "/scriptConfig/generatedText/fluff/8/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "треба зарізати <enemy.pronoun.reflexive> раніше, ніж <enemy.pronoun.subject> щось таке викине.",
+    "path": "/scriptConfig/generatedText/fluff/8/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "з <enemy.pronoun.copulativePast> має бути весело битися!",
+    "path": "/scriptConfig/generatedText/fluff/8/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "треба б зарізати <enemy.pronoun.reflexive> раніше, ніж <enemy.pronoun.subject> заріже мене.",
+    "path": "/scriptConfig/generatedText/fluff/8/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "полювати на н<enemy.pronoun.reflexive> має бути весело!",
+    "path": "/scriptConfig/generatedText/fluff/8/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "відкрити на н<enemy.pronoun.reflexive> полювання",
+    "path": "/scriptConfig/generatedText/fluff/9/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "зарізати <enemy.pronoun.reflexive>",
+    "path": "/scriptConfig/generatedText/fluff/9/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "розібратися з <enemy.pronoun.copulativePast>",
+    "path": "/scriptConfig/generatedText/fluff/9/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран вражений! Флоран думав, що ти не впораєшссся!",
+    "path": "/scriptConfig/generatedText/fluff/10/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран був упевнений, що ти найкращий мисливець у цих місцях!",
+    "path": "/scriptConfig/generatedText/fluff/10/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран знає, до кого звернутися, якщо треба буде когось ще порізати!",
+    "path": "/scriptConfig/generatedText/fluff/10/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "Правосуддя: <enemy>",
+    "path": "/scriptConfig/generatedText/title/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "<adjective> <enemy.name>: виклик",
+    "path": "/scriptConfig/generatedText/title/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Бандит втік на нашу планету!",
+    "path": "/scriptConfig/generatedText/goalText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Я виявив<questGiver.pronoun.obj1end>, що неподалік ховається небезпечний злочинець...",
+    "path": "/scriptConfig/generatedText/goalText/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран чув про те, що поруч засів бандит!",
+    "path": "/scriptConfig/generatedText/goalText/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран може розповісти дещо цікаве...",
+    "path": "/scriptConfig/generatedText/goalText/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Злякано. Бандит втік на нашу планету!",
+    "path": "/scriptConfig/generatedText/goalText/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Схвильовано. Я виявив<questGiver.pronoun.obj1end>, що неподалік ховається небезпечний злочинець...",
+    "path": "/scriptConfig/generatedText/goalText/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Бандит ^orange;\"<adjective> <enemy.name>\"^white; засів<enemy.pronoun.obj1end> ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Можеш сходити і <request>^white;? <crime>.",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Бандит ^orange;\"<adjective> <enemy.name>\"^white;? <crime>. ^green;Можеш сходити ^orange;<spawnPoint>^green;<spawnPoint.direction> і <request>^white;?",
+    "path": "/scriptConfig/generatedText/text/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран чув, що ^orange;\"<adjective> <enemy.name>\"^white; прибув<enemy.pronoun.obj1end> ^orange;<spawnPoint>^white;<spawnPoint.direction>. Флоран не знає, що <enemy.pronoun.subject> зробив<enemy.pronoun.obj1end>, але <crimefloran> ^green;Ти можеш піти і <requestfloran>^white;?",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран нещодавно прийшов ^orange;<spawnPoint>^green;<spawnPoint.direction>, і флоран там бачив відомого бандита на ім'я ^orange;\"<adjective> <enemy.name>\"^white;. Флоран не пам'ятає, чим він<enemy.pronoun.obj1end> відом<enemy.pronoun.obj4end>, але <crimefloran> ^green;Ти можеш піти і <requestfloran>^white;?",
+    "path": "/scriptConfig/generatedText/text/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. Ходять чутки, що ^orange;\"<adjective> <enemy.name>\"^white; засів<enemy.pronoun.obj1end> ^orange;<spawnPoint>^white;<spawnPoint.direction>. <crime>. ^green;Можеш сходити і <request>^white;?",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. Ти чув про бандита на ім'я ^orange;\"<adjective> <enemy.name>\"^white;? <crime>. ^green;Можеш сходити ^orange;<spawnPoint>^green;<spawnPoint.direction> і <request>^white;?",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Можна бути впевненим, що <enemy.name> більше нічого не зробить? <appreciation>",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.name> переможен<enemy.pronoun.obj1end>? <appreciation>",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "<enemy.name> зарізан<enemy.pronoun.obj1end>? <appreciationfloran>",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Злочинець став жертвою? <appreciationfloran>",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "З полегшенням. Можна бути впевненим, що <enemy.name> більше нічого не зробить? <appreciation>",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. <enemy.name> переможен<enemy.pronoun.obj1end>? <appreciation>",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я не зміг допомогти. Можливо, <questGiver> знайде ще когось, щоб впоратися з бандитом.",
+    "path": "/scriptConfig/generatedText/failureText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Йди до <spawnPoint>",
+    "path": "/scriptConfig/objectives/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "\"<adjective> <enemy.name>\" має померти",
+    "path": "/scriptConfig/objectives/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Повернись до жителя <questGiver>",
+    "path": "/scriptConfig/objectives/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Не забудь сходити за здобиччю <treasureLocation><treasureLocation.direction>",
+    "path": "/scriptConfig/treasureNote/0",
+    "op": "replace"
+  },
+  {
+    "value": "Треба сходити за скарбами <treasureLocation><treasureLocation.direction>",
+    "path": "/scriptConfig/treasureNote/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я переніс<enemy.pronoun.obj3end> скарби <treasureLocation><treasureLocation.direction>",
+    "path": "/scriptConfig/treasureNote/2",
+    "op": "replace"
+  }
+]

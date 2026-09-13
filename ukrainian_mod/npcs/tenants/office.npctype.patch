@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "value": "I'm working long hours to help finish an overdue project - luckily I can work from home!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "value": "I work in finance - can't you tell by the bags under my eyes and my freshly-ironed shirt?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "value": "I believe you have my stapler?"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Легкий жилет, прикрашений логотипом Земного Захисту Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жилет Земного Захисту"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створіть пофарбований в зелений ховербайк із збережених нанітів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зелений контролер Hoverbike"
+  }
+]

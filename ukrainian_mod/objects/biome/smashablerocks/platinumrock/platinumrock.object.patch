@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тріснутий камінь, повний платини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Платиновий рок"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, у цій крихкій породі є платина."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якщо я розіб'ю цю скелю, я зможу зібрати в ній платинову руду."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучий камінь. Ssssmash це!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Ця порода містить платину і вкрита тріщинами."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Камінь, повний платини! Можливо, я зможу його зламати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Швидкий удар по цій скелі звільнить платину всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Скеля, багата платиною. Я повинен його зламати."
+  }
+]

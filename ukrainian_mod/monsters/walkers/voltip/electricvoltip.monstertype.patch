@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Електричний напруга"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Результат наукового експерименту пішов не так."
+  }
+]

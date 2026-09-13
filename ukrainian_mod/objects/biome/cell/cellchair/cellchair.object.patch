@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Яскраве, сучасне крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Cell Chair"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Крісло з великих клітин... Досить кричуще."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Виглядає трохи незручно..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран віддає перевагу чомусь більш сссмілістичному."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Не вражений. Яскравий, базовий і з клітинок."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Стілець, складений із наукової нісенітниці."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Який показний, цьому кріслу бракує елегантності."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якби я мав вибір між сидіти на цьому чи сидіти на землі, я б вибрав землю."
+  }
+]

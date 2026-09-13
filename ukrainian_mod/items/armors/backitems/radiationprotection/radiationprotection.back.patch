@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це оновлення додає нейтралізацію радіації до можливостей вашого EPP. Використовуйте його на планетах із TAG0GAвисоким рівнем радіації^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Випромінювання EPP Upgrade"
+  }
+]

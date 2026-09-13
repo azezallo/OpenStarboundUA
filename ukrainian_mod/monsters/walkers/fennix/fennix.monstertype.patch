@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фенікс"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Іноді, гоняючись за власним хвостом, він може випадково підпалити себе."
+  }
+]

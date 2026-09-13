@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Синя полиця, яка використовується для демонстрації предметів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Синя настінна полиця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це настінна полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Проста настінна полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Нудна полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нудно. Настінна полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це настінна полиця."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Синя настінна полиця для демонстрації цікавинок."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Синя настінна полиця."
+  }
+]

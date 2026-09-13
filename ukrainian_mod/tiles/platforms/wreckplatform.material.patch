@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Зламана платформа",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Іржаве будівельне риштування, виглядає небезпечно.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Тривога. Це іржаве риштування структурно нестійке.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Іржаві й небезпечні. Флорану це подобаєтьссся.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ці іржаві платформи ось-ось на частини розпадуться, не дуже файні.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

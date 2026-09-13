@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потужний приціл допомагає цій рушниці легко вражати віддалені цілі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вінтажна гвинтівка з прицілом"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Старовинний приціл ^yellow;^reset;"
+  }
+]

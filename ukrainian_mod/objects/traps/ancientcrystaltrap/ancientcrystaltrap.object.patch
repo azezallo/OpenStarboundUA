@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кришталева пастка, призначена для стримування загарбників."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стародавня кришталева пастка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей кристал утворює смертоносний світловий промінь."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я б не хотів потрапити в його промінь."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Кришталевий промінь болить Флоран."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Роздратований. Кристал, який випромінює смертоносні промені світла! Тепер я все побачив."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей промінь виглядає так, ніби він зашкодить."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Якщо я запам’ятаю схему променя кристала, я зможу діяти відповідно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Божевільний кристал, що стріляє прямо в мене!"
+  }
+]

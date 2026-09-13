@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гарний кам'яний фонтан із квітковим центральним елементом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Квітковий фонтан"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гарний фонтан. Звук заспокійливий."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Велика пташина ванна."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Вода приносить життя Флорану."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розслаблений. Вода мене заспокоює."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Фонтан! Можливо, я повинен додати в це піксель."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Іноді я сумую за океаном."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Спокійне бачення. Змушує мене почуватися неспокійним."
+  }
+]

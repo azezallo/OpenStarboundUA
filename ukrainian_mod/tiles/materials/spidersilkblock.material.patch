@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Флоран любить сссплетіння дерева.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Тонкі дерев'яні смужки, сплетені разом.",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Блок, зроблений з рослинного волокна.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Рослинний блок",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Зачаровано. Цей блок повністю зроблений з рослинного волокна.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

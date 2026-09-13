@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'яніла папороть."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Копалина папороті"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Копалина папороті"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Скам'янілі листя папороті є свідченням органічного життя тисячоліть тому."
+  }
+]

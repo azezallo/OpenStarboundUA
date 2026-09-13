@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Платформа під тиском"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцна герметична платформа для середовищ із потенційним тиском!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Ці потужні платформи посилені, щоб протистояти змінам тиску."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Міцні металеві платформи холодні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Some sorta shiny lookin' platform."
+  }
+]

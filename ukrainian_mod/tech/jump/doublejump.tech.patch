@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Додатковий стрибок, який можна використовувати в повітрі!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "value": "Стрибок пульсу"
+  }
+]

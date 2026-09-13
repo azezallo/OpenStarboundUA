@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Декоративно розташовані кістки пінгвіна на щуку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кістки пінгвіна Щука"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей пінгвін, мабуть, помер від гризлі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Жоден птах не повинен закінчити так, навіть пінгвін."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран поклав пташині кістки на шип."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огидно. Ця прикраса гротескна."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці кістки на шипі, здається, від пінгвіна."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Кістки, представлені у типовому флоранському стилі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Моторошні кістки пінгвіна сидять на щуці."
+  }
+]

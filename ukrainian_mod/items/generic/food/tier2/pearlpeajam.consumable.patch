@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Широко відомий як «перлове варення». Має гарну каблучку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Перлове варення"
+  }
+]

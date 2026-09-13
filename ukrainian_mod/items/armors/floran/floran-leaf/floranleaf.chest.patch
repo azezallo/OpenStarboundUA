@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця сорочка вкрита великими жорсткими листами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скриня листя"
+  }
+]

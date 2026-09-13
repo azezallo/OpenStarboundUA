@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нашийник, завдяки якому ваш улюбленець стане надмірно пружним."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Надувний комір"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "value": "Стрибкий"
+  }
+]

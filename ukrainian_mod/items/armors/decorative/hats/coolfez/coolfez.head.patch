@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Фески... акуратні!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крутий Фес"
+  }
+]

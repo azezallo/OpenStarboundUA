@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мені б хотілося, щоб я приділяв увагу на уроках астрогеографії."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Монітор планети"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "На екрані відображаються показники планети."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Яка це планета?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Багато нудних листів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Самовдоволений. Мої внутрішні датчики роблять інформацію на цьому екрані застарілою."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Здається, це ця планета... Є купа показань."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Детальна інформація про географію планети."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Екран показує мені інформацію про планету, на якій ми знаходимося."
+  }
+]

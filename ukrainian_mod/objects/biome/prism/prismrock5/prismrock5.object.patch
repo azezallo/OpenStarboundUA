@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Призма з високим ступенем заломлення."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Призма Кристал"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Проходячи через цю призму, світло заломлюється."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей кристал заломлює світло в красиві візерунки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Кольори вириваються з цієї скелі. Флорану стає цікаво."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Я вважаю, що ці призматичні камені дуже заворожують."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці скелі відповідають за вражаюче світлове шоу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Призми - справжнє диво світу природи."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені подобається гарне світлове шоу!"
+  }
+]

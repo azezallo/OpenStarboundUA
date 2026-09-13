@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеально підходить для додавання синтетичного відчуття вашому виступу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "квадратна хвиля"
+  }
+]

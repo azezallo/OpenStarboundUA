@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тісно розташовані товсті металеві прути."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Металеві прути"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Засмучений. Подібні металеві прути можна знайти в підземеллях Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Міцний металевий пруток."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Кілька міцних на вигляд металевих прутів."
+  }
+]

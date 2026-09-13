@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Венеціанська маска і капелюх. котра година КАРНАВАЛ!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Венеціанська маска"
+  }
+]

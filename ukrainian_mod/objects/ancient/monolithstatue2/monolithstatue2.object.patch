@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Загадкова антична статуя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Монолітна статуя"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, ця статуя існує, щоб передати повідомлення з давніх часів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Грандіозне зображення істоти. Можливо, фальшивий бог давнини?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран спокусився намалювати дурне обличчя на статуї!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Чи існує ця статуя, щоб передати повідомлення?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені подобаються мої стародавні руїни з гігантськими стародавніми статуями!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Грубий, але виразний дизайн. Статуя Гілотла постаріла б краще."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Стара статуя, як привид минулого, викликає спогади про давно минуле."
+  }
+]

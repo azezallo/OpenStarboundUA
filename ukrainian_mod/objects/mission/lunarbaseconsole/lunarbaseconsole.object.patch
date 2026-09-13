@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Витончена консоль керування."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Місячна базова консоль"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це консоль управління з великим сенсорним екраном."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Панель керування з кнопками, які я можу натиснути, якщо захочу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пульт управління має кнопки ss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережно. Щось може статися, якщо я буду взаємодіяти з цією панеллю керування."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це пульт управління. Хто це контролює?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей електронний пристрій використовується для дистанційного керування речами."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Пульт управління. Що станеться, якщо я натисну кнопки?"
+  }
+]

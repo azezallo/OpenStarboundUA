@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Bolt O's, бо коли ти прокидаєшся таким голодним, тобі байдуже, що ти кладеш до рота!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Болти O"
+  }
+]

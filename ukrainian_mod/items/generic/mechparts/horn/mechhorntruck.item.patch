@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Для сердитого сигналу, коли хтось не хоче рухатися з дороги."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вантажівка Mech Horn"
+  }
+]

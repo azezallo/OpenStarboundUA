@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це примусова зірка! Деякі з найскладніших речей у галактиці!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Присильте Зірку"
+  }
+]

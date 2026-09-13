@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей телепорт повинен повернути вас до Форпосту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Телепорт застави"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Прямий зв'язок з Форпостом. акуратно!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Телепорт, щоб повернути мене на Форпост."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей телепорт відведе Флорана до Застави."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заспокоєний. Це безпечно телепортує мене на Заставу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Зручне посилання на Форпост."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пряме посилання на Outpost, справді корисний пристрій."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якщо я ввійду сюди, я опинюся на Заставі."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Машина, яка використовується для переміщення великої кількості видобутого матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гірничий конвеєр"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Конвеєрна стрічка для переміщення важких вантажів на короткі відстані."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Конвеєрна стрічка, наразі не рухається."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану набридли огорожі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Байдуже. Конвеєрна стрічка, здається, не працює."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Коротка конвеєрна стрічка для переміщення важких вантажів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Нецікавий людський конструкт."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Пристрій для перенесення важких речей з одного місця на інше."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Обладнання технічної лабораторії."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "технічна лабораторія"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця технологія досить вражаюча."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Вся ця кімната підключена разом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Що все це робить?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Яка складна електронна установка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця установка крута! Цікаво, що ця штука робить..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Неприборканий гобелен із дротів і технологій."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені це здається дуже складним. Я хочу торкнутися його!"
+  }
+]

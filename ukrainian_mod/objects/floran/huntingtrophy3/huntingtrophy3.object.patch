@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Череп, встановлений як трофей на схрещених дерев’яних дошках."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хрестоподібний череп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Грубо виготовлена ​​настінна табличка з черепом."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця голова кріпиться до стіни за допомогою невеликих дощок."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран часто вішає на стіну трофеї вбивств."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Порушений. Повісити череп таким чином трохи незвично."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей бідний хлопець ніколи не міг уявити, що він так закінчить."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чому хтось хоче мати цей череп на виставці?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей трофей із черепа мені не подобається."
+  }
+]

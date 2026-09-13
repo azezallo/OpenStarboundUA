@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Науково доведено, що картопля стає на 500% смачнішою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Картопляне пюре"
+  }
+]

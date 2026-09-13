@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Полиця з дерева та кістки, яка використовується для зберігання речей і сувенірів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивна полиця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Проста полиця з дерева та кістки."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Сама полиця, швидше за все, трофей. Прикрашати його не потрібно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран робить полицю для трофеїв, але трофеї завеликі для полиці. Sso Floran використовує полицю як трофей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Кістки схожі на реберні кістки якоїсь величезної істоти."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця полиця порожня. Чи може Флорану бракувати речей для полювання?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Принаймні полиця порожня."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Виготовлена ​​з кістки та дерева, полиця є своєрідним трофеєм."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "З цим капелюхом ви станете справжнім грибком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капелюшок гриба"
+  }
+]

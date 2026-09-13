@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Капітан Нобл",
+    "path": "/scriptConfig/dialog/converse/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мені не до вподоби такий стиль, легіню.",
+    "path": "/scriptConfig/dialog/converse/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Азра Нокс",
+    "path": "/scriptConfig/dialog/converse/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Не змушуй мене чекати, \"захиснику\".",
+    "path": "/scriptConfig/dialog/converse/floran/default/3",
+    "op": "replace"
+  }
+]

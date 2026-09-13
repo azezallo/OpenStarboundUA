@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гавайська скриня, зроблена з двох шматочків кокоса."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гавайська скриня"
+  }
+]

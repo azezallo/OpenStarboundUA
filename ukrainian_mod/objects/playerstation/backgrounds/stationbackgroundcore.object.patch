@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Основний шматок фону"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Основний шматок фону"
+  }
+]

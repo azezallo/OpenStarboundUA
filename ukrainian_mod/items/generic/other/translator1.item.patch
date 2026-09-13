@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Половина старовинного колеса для перекладу рун."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліве колесо перекладу"
+  }
+]

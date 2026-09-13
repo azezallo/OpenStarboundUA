@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Портрет колишнього великого Захисник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Портрет великого захисника"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей Великий Захисник був першою нелюдою, яка виконала цю роль."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей Гілотль став Великим Захисником, незважаючи на те, що він не людина. Як мило!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Fisssh perssson виглядає як у пастці картини. Флоран не може їх витягти."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Напевно, тоді було важко бути Великим захисником Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Перший нелюдський великий захисник. Я впевнений, що вони були дуже мудрими."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Як надихає! Єдиний Гілотл, який наразі став Великим Захисник."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це перший портрет, який не є людиною. Це щось."
+  }
+]

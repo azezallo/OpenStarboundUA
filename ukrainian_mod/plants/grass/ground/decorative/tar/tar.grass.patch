@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Gross, sticky tar."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Липкий дьоготь."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssticky."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. Useful tar."
+  }
+]

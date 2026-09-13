@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Впала стрічка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зруйнована стрічка Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стрічка. Воно впало."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця червона стрічка впала."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Червона стрічка огорожі зламана..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Сумно. На підлозі розкидані зламані речі..."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця стрічка впала."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Як сумно. Ця стрічка, напевно, впала під час турбулентності."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця мотузка більше не стоїть."
+  }
+]

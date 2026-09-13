@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Ці планети геть чужі за своєю природою! У нас немає жодного способу, щоб класифікувати їх!",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Так багато зразків тканин для вивчення!",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Цей костюм насправді не надто допомагає проти суворої радіоактивності, я просто почуваюся безпечніше з ним на собі!",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "У цій області багато ворожих істот. Захопливо!",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ця планета геть небезпечна для людей на кшталт мене. Я люблю це!",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво, які нові ліки ми могли б створити з використанням зразків із цієї планети?",
+    "path": "/scriptConfig/dialog/converse/default/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Мої колеги-вчені і я - налаштовані досліджувати всі чужорідні планети у всесвіті!",
+    "path": "/scriptConfig/dialog/converse/default/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво, а якщо радіоактивність стимулювала нестійке зростання на цій планеті?",
+    "path": "/scriptConfig/dialog/converse/default/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Я зайнятий деякими дослідженнями. Не брудни мої зразки!",
+    "path": "/scriptConfig/dialog/converse/default/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "\"Проводьмо дослідження на небезпечній чужорідній планеті.\" - казали вони! \"Що може піти не так?\" - казали вони!",
+    "path": "/scriptConfig/dialog/converse/default/default/9",
+    "op": "replace"
+  },
+  {
+    "value": "Навчання - це чудово, і не дозволяй нікому казати протилежне!",
+    "path": "/scriptConfig/dialog/converse/default/default/10",
+    "op": "replace"
+  },
+  {
+    "value": "Вони могли б дійсно зробити ці костюми трохи приязнішими, хіба не так?",
+    "path": "/scriptConfig/dialog/converse/default/default/11",
+    "op": "replace"
+  },
+  {
+    "value": "Ти бачиш моє обличчя через цей костюм?",
+    "path": "/scriptConfig/dialog/converse/default/default/12",
+    "op": "replace"
+  },
+  {
+    "value": "Не торкайся до мене - я весь у нерозпізнаних мікроорганізмах!",
+    "path": "/scriptConfig/dialog/converse/default/default/13",
+    "op": "replace"
+  },
+  {
+    "value": "Під цим жовтим костюмом б'ється серце через любов до відкриттів!",
+    "path": "/scriptConfig/dialog/converse/default/default/14",
+    "op": "replace"
+  },
+  {
+    "value": "Навіть якщо вся культура була якимось чином втрачена, люди все одно, зрештою, знову відкриють для себе науку.",
+    "path": "/scriptConfig/dialog/converse/default/default/15",
+    "op": "replace"
+  }
+]

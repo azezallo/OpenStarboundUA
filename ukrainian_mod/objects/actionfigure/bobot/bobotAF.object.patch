@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На етикетці написано: «Ніхто не знає, звідки це взялося і хто це зробив»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фігурка бобота"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Традиційний капюшон ката."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска ката"
+  }
+]

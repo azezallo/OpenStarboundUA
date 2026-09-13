@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий торс T. rex."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тулуб T. rex"
+  }
+]

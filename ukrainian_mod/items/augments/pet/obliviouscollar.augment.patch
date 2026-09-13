@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нашийник, який заспокоїть вашого вихованця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Забутий нашийник"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "value": "Не помічаючи"
+  }
+]

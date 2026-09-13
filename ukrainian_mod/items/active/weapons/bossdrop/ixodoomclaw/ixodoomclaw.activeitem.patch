@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Відрубана нога могутнього Іксодуму. Це потужна зброя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іксодомовий кіготь"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Кіготь Ixodoom ^yellow;^reset;"
+  }
+]

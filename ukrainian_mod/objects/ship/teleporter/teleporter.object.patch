@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вірний телепортер, що б ми без тебе робили?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "телепорт"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Корабельний телепорт. Телепортація схожа на катання на американських гірках зі швидкістю світла."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Телепорт! Телепортація схожа на політ."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Корабельний телепорт. Флоран збентежений під час телепортації."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Самовдоволений. Телепорт. Я можу перейти в режим сну під час процесу телепортації."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Телепорт! Телепортація - це такий поспіх."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Телепорт. Телепортація схожа на занурення в океан з вершини гори."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Корабельний телепорт. Давайте покрутимо її!"
+  }
+]

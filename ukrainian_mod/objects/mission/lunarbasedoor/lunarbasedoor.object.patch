@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці двері герметичні та виготовлені з неймовірно міцних матеріалів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Місячна база Blastdoor"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці двері надійні і герметичні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Двері, які відкриваються під цікавим кутом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ці двері виглядають важкими. Флоран не хоче, щоб його псссшили."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Здається, цей дверний отвір нахилений."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Виглядають як надійні двері, щоб не допустити речі. Або в."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей дверний отвір похилий. Можливо, щоб нагадати нам дивитися на речі з різних сторін."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це як звичайний дверний отвір. Але діагональ."
+  }
+]

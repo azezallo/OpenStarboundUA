@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ноги механізму мають додатковий реактивний підсилювач для збалансованої роботи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ніжки Twinjet Mech"
+  }
+]

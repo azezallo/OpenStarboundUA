@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Схоже, у когось був випадок понеділків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленьке розбите дзеркало"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Розбите дзеркало. Треба бути обережним, щоб не порізатися."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не буду скоро тут чистити пір’я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гострі осколки дзеркал дозволяють добре метати кинджали."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Тут щонайменше чотириста шість осколків скла."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, комусь сім років не щастить. І хоч раз не я!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Таку поломку можна було зробити лише в гніві."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я бачу своє спотворене відображення в кількох уламках дзеркала."
+  }
+]

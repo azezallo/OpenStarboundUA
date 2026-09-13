@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A weird protrusion."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дивний виступ."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Creepy ssshape."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Незвичайний виступ."
+  }
+]

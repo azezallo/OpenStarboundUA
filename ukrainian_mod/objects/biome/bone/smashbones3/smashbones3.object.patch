@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Купа кісток, найкраща для розбивання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кісткова купа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці кістки просто просять, щоб їх розтрощили."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Прах до праху, прах до праху."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран sssmash bone. День зроблений."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Дропкік, швидше за все, перетворить цю купу кісток на пил."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якщо вони вже мертві, розтрощити ці кістки не зашкодить."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Лощити кістки неприємно. Я боюся, що можу випадково вдарити його, коли проходжу повз. Неминучий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Сухі, запорошені кістки, просто благають про гарний удар."
+  }
+]

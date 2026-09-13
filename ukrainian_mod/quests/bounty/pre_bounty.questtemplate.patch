@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Цей заголовок не буде відображатися.",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Цей текст не буде відображатися.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Цей текст завершення не буде відображатися.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Нам потрібно, щоб ти знайшов та затримав ^orange;<bounty.name>^reset;. Ми отримали наводку, що інформація може бути <coordinate.preposition> <coordinate.name>, тож тобі варто почати своє розслідування там.\n\n- НАГОРОДИ -\nЗахоплення: ^yellow;<rewards.money>^reset; пікселів, +<rewards.rank> рангу",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "op": "replace"
+  }
+]

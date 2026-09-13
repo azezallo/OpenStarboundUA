@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Модуль EPP, який підвищує швидкість руху."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Збільшення швидкості"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "value": "швидкість"
+  }
+]

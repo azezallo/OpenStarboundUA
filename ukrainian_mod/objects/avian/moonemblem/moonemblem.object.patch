@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця емблема вшановує перший політ Авіан до зірок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Емблема пташиного місяця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Птах і півмісяць."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це честь нашої першої подорожі в космос. Птахи вірять, що в потойбічному світі вони вільно літатимуть серед зірок на величезних оперених крилах."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Птахи також люблять місячне світло?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Емблема. Можливо, зображує якусь історичну пташину подію."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це Птахи серед зірок?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ми всі мріємо про таку свободу. Розправити крила і злетіти."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Емблема із зображенням місяця. Я сам пережив чимало приємних часів під місяцем."
+  }
+]

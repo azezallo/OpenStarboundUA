@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Цегла темної гробниці"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Темні і холодні на дотик, ці цеглини ніби висмоктують тепло з кімнати."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Не вражений. Ці великі цеглини неоднакові за розміром."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Велика кам'яна цегла тверда і холодна."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Міцний на вигляд камінь. На дотик відчуває сильний холод."
+  }
+]

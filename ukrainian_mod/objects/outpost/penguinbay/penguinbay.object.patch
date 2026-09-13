@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тут продають підроблені ліцензії на судно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бухта пінгвінів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Підозрілі птахи та їхні товари на чорному ринку."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Пінгвіни змушують мене нервувати."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Хрусткі хрусткі пінгвіни з продуктами для продажу!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Ці крихітні пінгвіни - контрабандисти."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я відчуваю себе ніби в гангстерському фільмі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Неотесані, злочинні птахи."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Буйні птахи продають хитре спорядження. Просто моє місце."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Бухта пінгвінів"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "100% законні ліцензії на судно"
+  }
+]

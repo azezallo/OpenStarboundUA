@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прототип кузова з відкритим верхом, розроблений для пілотів Floran."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Голем-00 Механічний корпус"
+  }
+]

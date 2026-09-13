@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Двері, придатні для космічного корабля."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Двері корабля Hylotl"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці двері використовуються на всіх наших кораблях. Цей не грає добре."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Двері. Він не відкривається."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Двері не відкриваються!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Двері. Здається, зараз він вимкнений."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Класні двері. Шкода, що зараз не відкривається."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Базові корабельні двері. На даний момент він не відкривається."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Двері зламані, не скоро відчиняються."
+  }
+]

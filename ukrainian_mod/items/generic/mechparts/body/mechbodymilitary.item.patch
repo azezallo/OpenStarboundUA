@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Корпус механізму, виготовлений нині розформованою організацією USCM."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Механічний корпус USCM"
+  }
+]

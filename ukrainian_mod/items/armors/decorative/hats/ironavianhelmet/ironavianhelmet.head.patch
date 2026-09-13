@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Аеродинамічний шолом - для космічного мандрівника, який поспішає."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Аерошлем"
+  }
+]

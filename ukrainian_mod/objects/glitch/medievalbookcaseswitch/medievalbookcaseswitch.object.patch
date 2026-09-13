@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Одна з цих книжок виглядає недоречно... Цікаво..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічний перемикач для книжкової шафи"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Деякі з цих книг виглядають не зовсім правильно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Запорошений старий дім для книг. Деякі з них не виглядають справжніми..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Старі та запорошені книги. Ці одиниці виглядають дивно."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підозрілий. Деякі книги розміщені дивно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, скільки років деяким із цих книг. Ці не такі, як інші..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У цій книжковій шафі точно є щось дивне."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "У мене є передчуття, що з цими книгами щось не так!"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виглядає так, ніби він міг вислизнути зі своєї оболонки миттєво."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шеллкріп"
+  }
+]

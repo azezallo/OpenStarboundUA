@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дбайливо оброблена деревина, що зберігає свіжозрубаний вигляд."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Оброблена деревина"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Незважаючи на те, що ця деревина виглядає свіжорубаною, вона ретельно оброблена."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Просто трохи базової деревини."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це виглядає як свіжий, але це дерево було чимось оброблено."
+  }
+]

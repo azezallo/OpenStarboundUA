@@ -1,0 +1,1857 @@
+[
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/default/default/0",
+    "value": "Будь ласка, віднесіть цю відповідь назад до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/human/default/0",
+    "value": "Будь ласка, віднесіть цю відповідь назад до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/apex/default/0",
+    "value": "Будь ласка, віднесіть цю відповідь назад до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/avian/default/0",
+    "value": "Будь ласка, віднесіть цю відповідь назад до <questGiver> для мене."
+  },
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/floran/default/0",
+    "value": "Віднессси цю відповідь до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/glitch/default/0",
+    "value": "*Вдячність.* Будь ласка, віднесіть цю відповідь назад до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/hylotl/default/0",
+    "value": "Чи не були б ви такі ласкаві віднести цю відповідь до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/default/default/0",
+    "value": "Не роби мені боляче цим <item>! Скажи <questGiver>, що я зроблю що завгодно!"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/human/default/0",
+    "value": "Не направляй на мене <item>! Скажи <questGiver>, що я зроблю що завгодно!"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/apex/default/0",
+    "value": "Не робіть мені боляче цим <item>! Скажіть <questGiver>, що я підкорюся! Великий Мавп захистить мене."
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/avian/default/0",
+    "value": "Не робіть мені боляче цим <item>! Скажіть <questGiver>, я зроблю що завгодно! Заради Клуекса!"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/floran/default/0",
+    "value": "Не роби Флорану боляче за допомогою <item>! Скажи <questGiver>, Флоран буде ссслухатися!"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/glitch/default/0",
+    "value": "*Тривога.* Не робіть мені боляче цим <item> - Скажіть <questGiver>, що я зроблю що завгодно!"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/hylotl/default/0",
+    "value": "Не завдавайте мені болю цим <item>! Скажіть <questGiver>, що я зроблю все!"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/default/default/0",
+    "value": "Чому я маю робити те, що хоче <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/human/default/0",
+    "value": "Чому я маю робити те, що хоче <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/human/default/1",
+    "value": "Ти мене не лякаєш, як і <questGiver>!"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/apex/default/0",
+    "value": "Чи <questGiver> послав вас, щоб залякати мене? Міннаук не спить."
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/apex/default/1",
+    "value": "Чи <questGiver> послав вас, щоб залякати мене? Міннаук не спить."
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/avian/default/0",
+    "value": "Чому я маю робити те, що хоче <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/avian/default/1",
+    "value": "Я не боюся <questGiver>! Клуекс зі мною!"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/floran/default/0",
+    "value": "Флоран не боїтьсся <questGiver>!"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/floran/default/1",
+    "value": "Флоран не боїтьсся тебе, чи <questGiver>!"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/glitch/default/0",
+    "value": "*Безстрашність.* Чому я маю робити те, що хоче <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/glitch/default/1",
+    "value": "*Спантеличеність.* Ви намагаєтеся залякати мене від імені <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/hylotl/default/0",
+    "value": "<questGiver> не може мене стурбувати, як і ви."
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/hylotl/default/1",
+    "value": "З якої речі я повинен робити те, що бажає <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/default/default/0",
+    "value": "Це хабар? А, байдуже... Будь ласка, передай мою подяку <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/human/default/0",
+    "value": "Це хабар? А, байдуже... Будь ласка, передай мою подяку <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/human/default/1",
+    "value": "Це підкуп? Ну що ж! Будь ласка, передай мою подяку <questGiver>!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/human/default/2",
+    "value": "Отримувати хабарі - це досить круто! Будь ласка, передай мою подяку <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/apex/default/0",
+    "value": "Я майже впевнений, що це хабар, але передайте мою подяку <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/apex/default/1",
+    "value": "Це подарунок від <questGiver>? Чи скоріше хабар?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/avian/default/0",
+    "value": "Можливо, <questGiver> намагається мене підкупити, але я все одно вдячний!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/avian/default/1",
+    "value": "Можливо, <questGiver> намагається завоювати мою прихильність, але це все одно приємний жест!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/floran/default/0",
+    "value": "Флоран не проти хабарів. Ссскажи дякую <questGiver>!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/floran/default/1",
+    "value": "Флоран любить хабарі! Ссскажи дякую <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/glitch/default/0",
+    "value": "*Задоволення.* Хабар! Передайте мою подяку <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/glitch/default/1",
+    "value": "*Враження.* Подякуйте <questGiver> за цей дарунок від мого імені!"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/hylotl/default/0",
+    "value": "Моя відданість похитнулася! Передайте мою подяку <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/hylotl/default/1",
+    "value": "Подарунки - це могутня форма переконання! Передайте мою подяку <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/default/default/0",
+    "value": "Цікаво, що <questGiver> хоче від мене..."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/human/default/0",
+    "value": "Цікаво, що <questGiver> хоче від мене..."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/apex/default/0",
+    "value": "Цікаво, що <questGiver> хоче від мене..."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/avian/default/0",
+    "value": "Цікаво, що <questGiver> хоче від мене..."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/floran/default/0",
+    "value": "Флоран думає, що <questGiver> хочессс..."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/glitch/default/0",
+    "value": "*Цікавість.* Цікаво, що <questGiver> хоче від мене?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/glitch/default/1",
+    "value": "*Стурбованість.* Цікаво, чому <questGiver> хотів дати мені хабар?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/hylotl/default/0",
+    "value": "Цікаво, чого може бажати від мене <questGiver>..."
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/default/default/0",
+    "value": "Цей дарунок гарно б виглядав у моєму домі. Можеш поставити його туди для мене?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/human/default/0",
+    "value": "Цей дарунок гарно б виглядав у моєму домі. Можеш поставити його туди для мене?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/human/default/1",
+    "value": "Який гарний дарунок! Можеш покласти його в моєму домі, щоб я міг ним хвалитися?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/apex/default/0",
+    "value": "Це щедрий дарунок - можливо, його варто виставити в моєму домі?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/apex/default/1",
+    "value": "Цей дарунок гарно виглядатиме в моєму домі. Чи не могли б ви поставити його туди?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/avian/default/0",
+    "value": "Який чудовий дарунок! Чи могли б ви покласти його в моєму домі, щоб я міг постійно ним милуватися?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/avian/default/1",
+    "value": "Який гарний дарунок! Чи могли б ви покласти його десь у моєму домі?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/floran/default/0",
+    "value": "Флорану подобаєтьссся дарунок! Можеш покласссти його в домі Флорана?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/floran/default/1",
+    "value": "Дарунок ідеальний для Флорана! Можеш покласссти його в домі Флорана?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/glitch/default/0",
+    "value": "*Захват.* Який чудовий дарунок! Можливо, ви б могли покласти його в моєму домі?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/glitch/default/1",
+    "value": "*Вдячність.* Цей дарунок такий гарний, я маю ним похвалитися. Могли б ви покласти його в моєму домі?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/hylotl/default/0",
+    "value": "Як люб'язно з вашого боку доставити цей дарунок! Чи не могли б ви розмістити його в моїй оселі?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/hylotl/default/1",
+    "value": "Цей дарунок вишуканий. Чи не могли б ви розмістити його десь у моїй оселі?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/novakid/default/0",
+    "value": "Йо, цей дарунок просто файний! Можеш покласти його в моїй хаті, леґіню?"
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/novakid/default/1",
+    "value": "Який файний жест! Можеш покласти це в моїй хаті?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/default/default/0",
+    "value": "О, вау! Будь ласка, подякуй <questGiver> від мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/human/default/0",
+    "value": "О, вау! Будь ласка, подякуй <questGiver> від мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/human/default/1",
+    "value": "Як мило! Будь ласка, подякуй <questGiver> від мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/apex/default/0",
+    "value": "Як мило з боку <questGiver>. Будь ласка, подякуйте їм від мене."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/apex/default/1",
+    "value": "Будь ласка, скажіть <questGiver>, як цей подарунок ощасливив мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/avian/default/0",
+    "value": "Будь ласка, подякуйте <questGiver> за цей чудовий дарунок!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/avian/default/1",
+    "value": "Який добрий жест. Будь ласка, подякуйте <questGiver> від мого імені."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/floran/default/0",
+    "value": "Флорану подобаєтьссся дарунок! Ссскажи <questGiver> від Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/floran/default/1",
+    "value": "Подарунок для Флорана! Передай подяку Флорана <questGiver>!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/glitch/default/0",
+    "value": "*Вдячність.* Будь ласка, подякуйте <questGiver> від мого імені!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/glitch/default/1",
+    "value": "*Щастя.* Скажіть <questGiver>, що я ціную їхній дарунок!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/hylotl/default/0",
+    "value": "У <questGiver> добра душа! Будь ласка, передайте їм це від мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/hylotl/default/1",
+    "value": "Дарунок! <questGiver> заслуговує на мою подяку за такий жест."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/novakid/default/0",
+    "value": "<questGiver> – файний ґазда! Передай їм мою подяку при нагоді, леґіню!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/novakid/default/1",
+    "value": "Цей дарунок просто файний! Можеш подякувати <questGiver> від мене?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/default/default/0",
+    "value": "<questGiver> - чудовий друг."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/human/default/0",
+    "value": "<questGiver> - досить милий!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/human/default/1",
+    "value": "<questGiver> - хороший друг."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/apex/default/0",
+    "value": "<questGiver> - явно хтось, кому я можу довіряти. На відміну від Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/apex/default/1",
+    "value": "<questGiver> - мій хороший друг."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/avian/default/0",
+    "value": "<questGiver> - чудовий друг."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/avian/default/1",
+    "value": "<questGiver> - чудовий друг."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/floran/default/0",
+    "value": "Флорану подобаєтьссся <questGiver>!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/floran/default/1",
+    "value": "Флоран вирішивссс, що <questGiver> хороший друг."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/glitch/default/0",
+    "value": "*Задоволення.* <questGiver> - хороший друг."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/glitch/default/1",
+    "value": "*Радість.* <questGiver> - добра людина."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/hylotl/default/0",
+    "value": "<questGiver> заслужив мою справжню дружбу."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/hylotl/default/1",
+    "value": "<questGiver> має мою довіру."
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/novakid/default/0",
+    "value": "<questGiver> – файний ґазда! Вони заслужили мою повагу, це точно!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/novakid/default/1",
+    "value": "Цей дарунок просто файний! <questGiver> точно має мою довіру!"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/default/default/0",
+    "value": "Цей дарунок гарно б виглядав у моєму домі. Можеш поставити його туди для мене?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/human/default/0",
+    "value": "Цей дарунок гарно б виглядав у моїй хаті. Можеш поставити його туди для мене?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/human/default/1",
+    "value": "Який гарний дарунок! Можеш покласти його в моєму домі, щоб я міг ним хвалитися?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/apex/default/0",
+    "value": "Це щедрий дарунок - можливо, його варто виставити в моєму домі?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/apex/default/1",
+    "value": "Цей дарунок гарно виглядатиме в моєму домі. Чи не могли б ви поставити його туди?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/avian/default/0",
+    "value": "Який чудовий дарунок! Чи могли б ви покласти його в моєму домі, щоб я міг постійно ним милуватися?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/avian/default/1",
+    "value": "Який гарний дарунок! Чи могли б ви покласти його десь у моєму домі?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/floran/default/0",
+    "value": "Флорану подобаєтьссся дарунок! Можеш покласссти його в домі Флорана?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/floran/default/1",
+    "value": "Дарунок ідеальний для Флорана! Можеш покласссти його в домі Флорана?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/glitch/default/0",
+    "value": "*Захват.* Який чудовий дарунок! Можливо, ви б могли покласти його в моєму домі?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/glitch/default/1",
+    "value": "*Вдячність.* Цей дарунок такий гарний, я маю ним похвалитися. Могли б ви покласти його в моєму домі?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/hylotl/default/0",
+    "value": "Як люб'язно з вашого боку доставити цей дарунок! Чи не могли б ви розмістити його в моїй оселі?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/hylotl/default/1",
+    "value": "Цей дарунок вишуканий. Чи не могли б ви розмістити його десь у моїй оселі?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/novakid/default/0",
+    "value": "Йо, цей дарунок просто файний! Можеш покласти його в моїй хаті, леґіню?"
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/novakid/default/1",
+    "value": "Йо, який файний дарунок! Чи не міг би ти покласти його в моїй хаті, леґінь?"
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/default/default/0",
+    "value": "Запевняю, ця <item> була отримана законно!"
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/human/default/0",
+    "value": "Запевняю, ця <item> була отримана законно!"
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/human/default/1",
+    "value": "Гаразд, забирай <item> - вона мені все одно не потрібна!"
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/apex/default/0",
+    "value": "Гаразд, забирай <item> - тільки не втягуй мене в неприємності!"
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/apex/default/1",
+    "value": "Ця <item> була отримана законно - клянусь Великим Мавпом!"
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/avian/default/0",
+    "value": "Я мав дозвіл позичити цю <item>, вона не вкрадена! Присягаюся Клуексом!"
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/floran/default/0",
+    "value": "Ти можешш забрати цю <item> назад, тільки не втягуй Флорана у неприємносссті!"
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/glitch/default/0",
+    "value": "*Нервування.* Я й гадки не маю, як ця <item> тут опинилася!"
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/glitch/default/1",
+    "value": "*Стурбованість.* Ця <item> не була вкрадена, це лише так виглядає!"
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/hylotl/default/0",
+    "value": "Я не крав цю <item>, я просто її позичив."
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/hylotl/default/1",
+    "value": "Ця <item> була отримана чесно, обіцяю вам! Хайлотли не брешуть."
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/novakid/default/0",
+    "value": "Йо, аби ти знав, я й гадки не маю, звідки ця <item> взялася!"
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/novakid/default/1",
+    "value": "Я виграв цю <item> у карти, вона моя! Чесно, як ґазда кажу!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/default/default/0",
+    "value": "Добре, добре, я сплачу штраф. Тільки не засуджуй мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/human/default/0",
+    "value": "Добре, добре, я сплачу штраф. Тільки не засуджуй мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/human/default/1",
+    "value": "Ти мене спіймав! Гратиму чесно."
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/apex/default/0",
+    "value": "Добре, я заплачу. Тільки не доповідай про це Міннаук!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/apex/default/1",
+    "value": "Ти мене спіймав - я сплачу штраф. Тільки не накликай на мене біду."
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/avian/default/0",
+    "value": "Не треба мене турбувати, я вирішив заплатити!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/floran/default/0",
+    "value": "Флорана спіймали, тттому Флоран сссплатить штраф."
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/floran/default/1",
+    "value": "Ти ссспіймав Флорана! Флоран вражений, ось штраф."
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/glitch/default/0",
+    "value": "*Поразка.* Здається, мені слід сплатити штраф, я не хочу нових неприємностей!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/glitch/default/1",
+    "value": "*Роздратування.* Я сплачу штраф - який сенс сперечатися?"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/hylotl/default/0",
+    "value": "Я сплачу штраф! Немає потреби порушувати спокій і надалі."
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/hylotl/default/1",
+    "value": "Зберігайте спокій! Я сплачу штраф!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/novakid/default/0",
+    "value": "Не буду я поганцем, сплачу ваш штраф."
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/novakid/default/1",
+    "value": "Йо-йо, сплачу! Ти загнав мене в кут, леґінь!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/default/default/0",
+    "value": "Тримай! Одна <item>, спеціально для <questGiver>!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/human/default/0",
+    "value": "Тримай! Одна <item>, спеціально для <questGiver>!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/human/default/1",
+    "value": "Ось <item>, яка тобі потрібна!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/apex/default/0",
+    "value": "Ось <item>, яка тобі потрібна. Сподіваюсь, це те, що треба."
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/apex/default/1",
+    "value": "Ось <item>, яка потрібна <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/avian/default/0",
+    "value": "Ось <item>! Сподіваюсь, вона добре послужить <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/avian/default/1",
+    "value": "Ця <item> - те, що потрібно <questGiver>, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/floran/default/0",
+    "value": "Осссь <item>, передай її <questGiver> від Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/floran/default/1",
+    "value": "Осссь <item> для <questGiver>!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/glitch/default/0",
+    "value": "*Радість.* Сподіваюсь, <questGiver> сподобається їхня нова <item>!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/glitch/default/1",
+    "value": "*Дружелюбність.* Будь ласка, віднеси цю <item> до <questGiver> - сподіваюсь, їм сподобається!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/hylotl/default/0",
+    "value": "Ось <item> - сподіваюсь, вона принесе <questGiver> щастя."
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/hylotl/default/1",
+    "value": "Сподіваюсь, ця <item> принесе вам і <questGiver> спокій."
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/novakid/default/0",
+    "value": "Ось стара добра <item> - файно для <questGiver>!"
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/novakid/default/1",
+    "value": "Ось <item>. Звіяй до <questGiver>, якщо маєш час."
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/default/default/0",
+    "value": "Ось та, яку я зробив раніше!"
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/human/default/0",
+    "value": "Ось <item>, яку ти просив мене зробити!"
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/human/default/1",
+    "value": "Ось та, яку я зробив раніше!"
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/apex/default/0",
+    "value": "Тобі потрібно, щоб я щось зробив? Одна <item>, зараз буде."
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/apex/default/1",
+    "value": "Ось <item>, яку ти просив зробити для тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/avian/default/0",
+    "value": "Ось <item>, яку ти просив мене зробити!"
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/avian/default/1",
+    "value": "<item>? Ось, я вже зробив одну. Не соромся, бери."
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/floran/default/0",
+    "value": "Флоран зробив цю <item> для тебе, як і просссили!"
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/floran/default/1",
+    "value": "Осссь <item>, яку ти хотів, щоб Флоран зробив!"
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/glitch/default/0",
+    "value": "*Щедрість.* Тобі пощастило - я зробив цю <item> раніше. Бери."
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/glitch/default/1",
+    "value": "*Ефективність.* Я вже зробив <item> - будь ласка, забирай."
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/hylotl/default/0",
+    "value": "Я зробив <item>, яка вам потрібна - змайстрована зі справжньою майстерністю Хайлотлів."
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/hylotl/default/1",
+    "value": "<item>? Я можу змайструвати її для вас. Ось, тримайте."
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/novakid/default/0",
+    "value": "Ви всі хотіли цю <item>, що я змайстрував? На, бери!"
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/novakid/default/1",
+    "value": "А тобі файно пощастило! Я змайстрував цю <item> раніше, бери сміливо."
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/default/default/0",
+    "value": "Гаразд, <questGiver> може позичити мою <item>."
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/human/default/0",
+    "value": "Гаразд, <questGiver> може позичити мою <item>. Ти ж її колись повернеш?"
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/human/default/1",
+    "value": "Звісно, я можу позичити <questGiver> свою <item>. "
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/apex/default/0",
+    "value": "Ось <item>, яку <questGiver> хоче позичити. Підозрюю, що Великий Мавп не дозволить їй повернутись."
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/apex/default/1",
+    "value": "<questGiver> може позичити мою <item>, сподіваюсь лише, що отримаю її назад..."
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/avian/default/0",
+    "value": "Я не проти, щоб <questGiver> позичив мою <item>, якщо він її врешті-решт поверне!"
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/avian/default/1",
+    "value": "<questGiver> може позичити мою <item>! За умови, що поверне її, коли закінчить."
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/floran/default/0",
+    "value": "Флоран може позичити <questGiver> <item>, якщо Флоран отримає її назад сссскоро."
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/floran/default/1",
+    "value": "Осссь <item> для <questGiver>, Флоран не проти її позичити."
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/glitch/default/0",
+    "value": "*Розсудливість.* Ось моя <item> - тільки скажи <questGiver>, щоб повернули її скоро."
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/glitch/default/1",
+    "value": "*Дружелюбність.* <questGiver> може позичити мою <item>, якщо вона їм потрібна!"
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/hylotl/default/0",
+    "value": "Я з радістю позичу <questGiver> свою <item>."
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/hylotl/default/1",
+    "value": "<questGiver> може позичити мою <item>, якщо у ній є потреба!"
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/novakid/default/0",
+    "value": "Йо, я можу позичити <questGiver> свою стару <item>."
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/novakid/default/1",
+    "value": "<questGiver> може позичити мою <item>, якщо це не надовго, файно?"
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/default/default/0",
+    "value": "О-ось, бери мою <item>. Тільки н-не роби мені боляче!"
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/human/default/0",
+    "value": "О-ось, бери мою <item>. Тільки не р-роби мені боляче!"
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/human/default/1",
+    "value": "<questGiver> може забрати мою <item>, тільки не роби мені боляче!"
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/apex/default/0",
+    "value": "Вимагання для мене не новина. Забирай мою <item>..."
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/apex/default/1",
+    "value": "Просто забирай <item> - я ціную свою безпеку. Слава Великому Мавпу."
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/avian/default/0",
+    "value": "Не треба бути таким грізним! Просто забирай мою <item>!"
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/avian/default/1",
+    "value": "Припини мене мучити і просто забирай <item>!"
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/floran/default/0",
+    "value": "Флоран не хоче битиссся зараз! Забирай <item>."
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/floran/default/1",
+    "value": "Гаразд! Флоран допоможе <questGiver>! Забирай <item> Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/glitch/default/0",
+    "value": "*Скам'яніння.* Я не хочу постраждати! Забирай мою <item>, якщо тобі це потрібно!"
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/glitch/default/1",
+    "value": "*Жах.* Просто забирай мою <item>! <questGiver> може її взяти!"
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/hylotl/default/0",
+    "value": "Забирай мою <item> і залиш мене в спокої, благаю тебе!"
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/hylotl/default/1",
+    "value": "Припини мене тероризувати! Забирай мою <item>, якщо вона тобі потрібна!"
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/novakid/default/0",
+    "value": "Не треба робити з цього велику сцену! Просто бери мою <item>, якщо вона тобі так потрібна!"
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/novakid/default/1",
+    "value": "Це що, пограбування?! Йо, я не хочу битися, просто бери мою <item>."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/default/default/0",
+    "value": "О, у тебе є необхідні речі? Зачекай секунду..."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/human/default/0",
+    "value": "О, у тебе є необхідні речі? Зачекай секунду..."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/human/default/1",
+    "value": "Ти приніс матеріали? Чудово, зачекай тоді хвилину... "
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/apex/default/0",
+    "value": "Ти роздобув матеріали? Зачекай хвилину, мені просто потрібно це зробити..."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/apex/default/1",
+    "value": "Дякую, що приніс матеріали - дай мені хвилинку, і я це зроблю..."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/avian/default/0",
+    "value": "Ти приніс речі? Чудово, зачекай хвилину... Хай благословить тебе Клуекс."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/avian/default/1",
+    "value": "Ти приніс матеріали? Дозволь мені це змайструвати, дай мені хвилинку..."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/floran/default/0",
+    "value": "Ти приніссс Флорану матеріали! Флоран зараз змайссструє, зачекай..."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/floran/default/1",
+    "value": "Дякую за речі! Флоран зараз змайссструє, треба лише мить..."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/glitch/default/0",
+    "value": "*Нетерплячість.* Ти приніс мені матеріали! Зачекай хвилинку..."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/glitch/default/1",
+    "value": "*Задоволення.* Ти приніс потрібні нам речі! Дай мені мить, щоб змайструвати це..."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/hylotl/default/0",
+    "value": "Дякую, що принесли речі, мені знадобиться зовсім небагато часу, щоб змайструвати те, що потрібно <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/hylotl/default/1",
+    "value": "Дуже дякую за речі, я з нетерпінням хочу почати майструвати. Дайте мені хвилинку..."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/novakid/default/0",
+    "value": "Ти приніс припаси? Файно! Тепер зачекай хвильку, поки я це зберу..."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/novakid/default/1",
+    "value": "У тебе матеріали, у мене вміння ґазди. Зачекай хвильку, я змайструю це..."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/default/default/0",
+    "value": "Ось! Віднеси цей пакунок до <questGiver> для мене."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/human/default/0",
+    "value": "Ось! Можеш віднести цей пакунок до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/human/default/1",
+    "value": "І... Готово! Віднеси цей пакунок до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/apex/default/0",
+    "value": "Дякую за очікування. Ось, віднеси це до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/apex/default/1",
+    "value": "Я закінчив! Дякую за очікування. Тепер, будь ласка, віднеси цей пакунок до <questGiver>..."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/avian/default/0",
+    "value": "Дякую за очікування! Чи можеш ти доставити пакунок для <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/avian/default/1",
+    "value": "Ось він! Будь ласка, віднеси цей пакунок до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/floran/default/0",
+    "value": "Готово! Будь лассска, віднесси пакунок до <questGiver> для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/floran/default/1",
+    "value": "Осссь річ! Віднесси її до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/glitch/default/0",
+    "value": "*Задоволення.* Я закінчив майструвати. Чи можеш ти доставити це <questGiver> для мене?"
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/glitch/default/1",
+    "value": "*Вдоволення.* Я закінчив! Тепер, будь ласка, віднеси цей пакунок до <questGiver> для мене."
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/hylotl/default/0",
+    "value": "Вишукана робота, якщо дозволите зауважити! Не могли б ви віднести цей пакунок до <questGiver> для мене?"
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/hylotl/default/1",
+    "value": "Чудово! Хіба ви не захоплюєтесь моєю майстерністю? Тепер, чи не могли б ви віднести пакунок до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/novakid/default/0",
+    "value": "Файна робота, як на мене! Чи не міг би ти віднести цей пакунок до <questGiver>, леґінь?"
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/novakid/default/1",
+    "value": "Яку ж файну річ я змайстрував! Будь добрим, віднеси це до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/default/default/0",
+    "value": "О, у тебе є необхідні речі? Зачекай секунду..."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/human/default/0",
+    "value": "О, у тебе є необхідні речі? Зачекай секунду..."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/human/default/1",
+    "value": "Ти приніс матеріали? Чудово, зачекай тоді хвилину... "
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/apex/default/0",
+    "value": "Ти роздобув матеріали? Добре. Зачекай хвилину, мені просто потрібно це зробити..."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/apex/default/1",
+    "value": "Дякую, що приніс матеріали - дай мені хвилинку, і я це зроблю..."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/avian/default/0",
+    "value": "Ти приніс речі? Чудово, зачекай хвилину... Хай благословить тебе Клуекс."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/avian/default/1",
+    "value": "Ти приніс матеріали? Дозволь мені це змайструвати, дай мені хвилинку..."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/floran/default/0",
+    "value": "Ти приніссс Флорану матеріали! Флоран зараз змайссструє, зачекай..."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/floran/default/1",
+    "value": "Дякую за речі! Флоран зараз змайссструє, треба лише мить..."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/glitch/default/0",
+    "value": "*Нетерплячість.* Ти приніс мені матеріали! Зачекай хвилинку..."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/glitch/default/1",
+    "value": "*Задоволення.* Ти приніс потрібні нам речі! Дай мені мить, щоб змайструвати це..."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/hylotl/default/0",
+    "value": "Дякую, що принесли речі, мені знадобиться зовсім небагато часу, щоб змайструвати те, що потрібно <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/hylotl/default/1",
+    "value": "Дуже дякую за речі, я з нетерпінням хочу почати майструвати. Дайте мені хвилинку..."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/novakid/default/0",
+    "value": "Ти приніс припаси? Файно! Тепер зачекай хвильку, поки я це зберу..."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/novakid/default/1",
+    "value": "У тебе матеріали, у мене вміння ґазди. Зачекай хвильку, я змайструю це..."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/default/default/0",
+    "value": "Ось! Віднеси цей пакунок до <questGiver> для мене."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/human/default/0",
+    "value": "Ось! Можеш віднести цей пакунок до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/human/default/1",
+    "value": "І... Готово! Віднеси цей пакунок до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/apex/default/0",
+    "value": "Дякую за очікування. Ось, віднеси це до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/apex/default/1",
+    "value": "Я закінчив! Дякую за очікування. Тепер, будь ласка, віднеси цей пакунок до <questGiver>..."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/avian/default/0",
+    "value": "Дякую за очікування! Чи можеш ти доставити пакунок для <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/avian/default/1",
+    "value": "Ось він! Будь ласка, віднеси цей пакунок до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/floran/default/0",
+    "value": "Готово! Будь лассска, віднесси пакунок до <questGiver> для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/floran/default/1",
+    "value": "Осссь річ! Віднесси її до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/glitch/default/0",
+    "value": "*Задоволення.* Я закінчив майструвати. Чи можеш ти доставити це <questGiver> для мене?"
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/glitch/default/1",
+    "value": "*Вдоволення.* Я закінчив! Тепер, будь ласка, віднеси цей пакунок до <questGiver> для мене."
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/hylotl/default/0",
+    "value": "Вишукана робота, якщо дозволите зауважити! Не могли б ви віднести цей пакунок до <questGiver> для мене?"
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/hylotl/default/1",
+    "value": "Чудово! Хіба ви не захоплюєтесь моєю майстерністю? Тепер, чи не могли б ви віднести пакунок до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/novakid/default/0",
+    "value": "Файна робота, як на мене! Чи не міг би ти віднести цей пакунок до <questGiver>, леґінь?"
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/novakid/default/1",
+    "value": "Яку ж файну річ я змайстрував! Будь добрим, віднеси це до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/default/default/0",
+    "value": "Дякую за товари, ось пакунок для <questGiver>. Передавай мої вітання!"
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/human/default/0",
+    "value": "Дякую за товари, ось пакунок для <questGiver>. Передавай мої вітання!"
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/apex/default/0",
+    "value": "Ти тут від імені <questGiver>? Ось пакунок. Дякую за ці товари, хай береже нас Великий Мавп."
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/avian/default/0",
+    "value": "Дякую за доставку. Ось замовлення <questGiver>! Хай благословить тебе Клуекс!"
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/floran/default/0",
+    "value": "Дякуємо за речііі. Осссь пакунок <questGiver>, не загуби його! Флоран вдячний."
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/glitch/default/0",
+    "value": "*Обережність.* Це здається правильними речами... Добре. Давай торгувати. Віднеси цей пакунок до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/hylotl/default/0",
+    "value": "Я радий, що ми змогли здійснити цю транзакцію - моя подяка за товари. Будь ласка, віднесіть цей пакунок до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/novakid/default/0",
+    "value": "Ти тут, щоб забрати пакунок <questGiver>? Тримай, леґінь, файно дякую за припаси, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/default/default/0",
+    "value": "Ти врятував мене! Ти мій герой!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/default/default/1",
+    "value": "Все закінчилося? Моє життя промайнуло перед очима!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/human/default/0",
+    "value": "Не вбивай мене, я можу стільки всього дати... Зачекай, ти мене рятуєш? Дякую!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/human/default/1",
+    "value": "Я ще живий? Ти врятував мені життя! Дякую!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/apex/default/0",
+    "value": "Я не знаю, як я постійно потрапляю в такі ситуації... Клятий Міннаук."
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/apex/default/1",
+    "value": "Дякую! Я не знаю, де б я був зараз, якби ти не прийшов. Хай береже тебе Великий Мавп."
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/avian/default/0",
+    "value": "Дякую, я так злякався! Моє серце б'ється як скажене! Слава Клуексу!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/avian/default/1",
+    "value": "Ти врятував мене! Дуже тобі дякую!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/floran/default/0",
+    "value": "Ти врятував Флорана! Флоран відчуває полегшшшення!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/floran/default/1",
+    "value": "Флоран міг би виграти бій, якби у Флорана був ссспис, але Флоран всссе одно цінує допомогу."
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/glitch/default/0",
+    "value": "*Вдячність.* Ти врятував мене! Мій герой!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/glitch/default/1",
+    "value": "*Полегшення.* Слава богу, ти мене врятував!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/hylotl/default/0",
+    "value": "Ви врятували мене! Я безмежно вдячний!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/hylotl/default/1",
+    "value": "Це.. Це закінчилося? О, слава богу! Дякую, дякую, дякую!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/novakid/default/0",
+    "value": "Я думав, що це кінець для мене, йо!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/kidnappersDead/novakid/default/1",
+    "value": "А я вже думав, що моє життя промайнуло перед очима! Думав, що мені гаплик, леґіню!"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/default/default/0",
+    "value": "Мені все ще страшно. Можеш відвести мене додому до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/human/default/0",
+    "value": "Ем. Мені все ще досить страшно. Можеш відвести мене додому до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/human/default/1",
+    "value": "Я все ще дуже вражений - можеш відвести мене додому до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/human/default/2",
+    "value": "Можеш відвести мене додому до <questGiver>? Просто про всяк випадок..."
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/apex/default/0",
+    "value": "Я дуже вражений - Будь ласка, ти не міг би відвести мене назад до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/apex/default/1",
+    "value": "Це було найжахливіше. Можеш відвести мене назад до <questGiver> подалі від Міннауку?"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/avian/default/0",
+    "value": "Я зараз не почуваюся в безпеці наодинці. Можеш відвести мене додому до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/avian/default/1",
+    "value": "Це дійсно скуйовдило моє пір'я... Можеш відвести мене назад до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/floran/default/0",
+    "value": "Флоран не хоче бути сссам. Можеш відвести Флорана додому до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/floran/default/1",
+    "value": "Можеш відвести Флорана додому до <questGiver>? Флоран не почуваєтьсся в безпеці."
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/glitch/default/0",
+    "value": "*Жах.* Ем, не міг би ти відвести мене назад до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/glitch/default/1",
+    "value": "*Стурбованість.* Можливо, ти міг би супроводити мене назад до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/hylotl/default/0",
+    "value": "Не залишайте мене! Відведіть мене додому до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/hylotl/default/1",
+    "value": "Можете відвести мене назад до <questGiver>? Я зараз не відчуваю в собі впевненості..."
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/novakid/default/0",
+    "value": "Можеш супроводити мене назад до <questGiver>? Я зараз не дуже файно почуваюся, йо..."
+  },
+  {
+    "op": "replace",
+    "path": "/kidnapping/followHome/novakid/default/1",
+    "value": "Я все ще не знаю, чи зможу дістатися назад сам. Можеш відвести мене назад до <questGiver>, ґаздо?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/default/default/0",
+    "value": "Я так заблукав. Можеш відвести мене назад до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/default/default/1",
+    "value": "Я... зараз дуже заблукав. Чи міг би ти відвести мене до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/default/default/2",
+    "value": "Я не мав наміру так заблукати! Чи міг би ти супроводити мене до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/human/default/0",
+    "value": "Я так заблукав. Можеш відвести мене назад до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/human/default/1",
+    "value": "Я зараз неймовірно заблукав. Не заперечуєш відвести мене до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/apex/default/0",
+    "value": "Я не маю уявлення, де я. Будь ласка, відведи мене назад до <questGiver>. Хай збереже мене Великий Мавп."
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/apex/default/1",
+    "value": "Я так заблукав. Можеш відвести мене назад до <questGiver> подалі від очей Міннауку?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/avian/default/0",
+    "value": "Я завжди думав, що маю досить гарне відчуття напрямку... Здається, ні. Не заперечуєш відвести мене до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/avian/default/1",
+    "value": "Як я так заблукав? Ну, я радий, що ти знайшов мене. Відведеш мене назад до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/floran/default/0",
+    "value": "Флоран заблукаввв. Чи міг би ти допомогти Флорану знайти <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/floran/default/1",
+    "value": "Флоран якимосссь чином заблукав... Будь лассска, відведи Флорана назад до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/glitch/default/0",
+    "value": "*Збентеження.* Здається, я заблукав. Допоможи мені - відведи мене назад до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/glitch/default/1",
+    "value": "*Плутанина.* Здається, я міг заблукати. Ем, можеш відвести мене назад до <questGiver>?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/hylotl/default/0",
+    "value": "О, чи не могли б ви відвести мене назад до <questGiver>? Я безнадійно заблукав."
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/hylotl/default/1",
+    "value": "Я роздумував, поки блукав, і тому заблукав... Будь ласка, відведіть мене назад до <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/novakid/default/0",
+    "value": "Йо, привіт! Можеш скласти мені компанію по дорозі назад до <questGiver>? Я забув дорогу."
+  },
+  {
+    "op": "replace",
+    "path": "/escort/found/novakid/default/1",
+    "value": "Моя голова була в хмарах, і я забув, яким шляхом сюди прийшов. Можеш відвести мене назад до <questGiver>, леґіню?"
+  },
+  {
+    "op": "replace",
+    "path": "/barter/trade/default/default/0",
+    "value": "Дякую за товари, ось <receivedItems> від <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/barter/trade/human/default/0",
+    "value": "Дякую за товари, ось <receivedItems> від <questGiver>. Передавай мої вітання!"
+  },
+  {
+    "op": "replace",
+    "path": "/barter/trade/apex/default/0",
+    "value": "Ти тут від імені <questGiver>? Ось їх <receivedItems>. Дякую за ці товари, слава Великому Мавпу."
+  },
+  {
+    "op": "replace",
+    "path": "/barter/trade/avian/default/0",
+    "value": "Дякую за доставку цього. Ось <receivedItems> від <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/barter/trade/floran/default/0",
+    "value": "Дякуююю за речі, осссь <receivedItems> від <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/barter/trade/glitch/default/0",
+    "value": "*Дружелюбність.* Дякую за товари, ось <receivedItems> від <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/barter/trade/hylotl/default/0",
+    "value": "Я радий, що ми змогли здійснити цю транзакцію - моя подяка за товари. Ось <receivedItems> від <questGiver>."
+  },
+  {
+    "op": "replace",
+    "path": "/barter/trade/novakid/default/0",
+    "value": "Файно дякую за товари - Ось <receivedItems> від <questGiver>, йо."
+  },
+  {
+    "op": "replace",
+    "path": "/escort_trade/collectDelivery/default/default/0",
+    "value": "У тебе є доставка для мене?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort_trade/collectDelivery/default/default/1",
+    "value": "Гей, у тебе є доставка?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort_trade/collectDelivery/floran/default/0",
+    "value": "У тебе є доставка для Флорана?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort_trade/collectDelivery/glitch/default/0",
+    "value": "*Зацікавленість.* У тебе є доставка для мене?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort_trade/collectDelivery/novakid/default/0",
+    "value": "Йо! Я так розумію, у тебе є доставка для мене, ґаздо?"
+  },
+  {
+    "op": "replace",
+    "path": "/escort_trade/provideDelivery/default/default/0",
+    "value": "Ось твої товари. Насолоджуйся!"
+  },
+  {
+    "op": "replace",
+    "path": "/escort_trade/provideDelivery/human/default/0",
+    "value": "Ось твої товари. Насолоджуйся!"
+  },
+  {
+    "op": "replace",
+    "path": "/escort_trade/provideDelivery/apex/default/0",
+    "value": "Це твоє."
+  },
+  {
+    "op": "replace",
+    "path": "/escort_trade/provideDelivery/avian/default/0",
+    "value": "Ось твої товари. Насолоджуйся!"
+  },
+  {
+    "op": "replace",
+    "path": "/escort_trade/provideDelivery/floran/default/0",
+    "value": "Осссь твої речі. Насолоджуйся!"
+  },
+  {
+    "op": "replace",
+    "path": "/escort_trade/provideDelivery/glitch/default/0",
+    "value": "*Радість.* Ось твої товари! Насолоджуйся!"
+  },
+  {
+    "op": "replace",
+    "path": "/escort_trade/provideDelivery/hylotl/default/0",
+    "value": "Ось ваші товари, для вашого задоволення."
+  },
+  {
+    "op": "replace",
+    "path": "/escort_trade/provideDelivery/novakid/default/0",
+    "value": "Ось твої товари, леґіню."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/default/default/0",
+    "value": "Привіт! <questGiver> найняв мене, щоб допомогти тобі битися з <enemy>."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/human/default/0",
+    "value": "Привіт! <questGiver> найняв мене, щоб допомогти тобі битися з <enemy>."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/human/default/1",
+    "value": "Гей, привіт! <questGiver> мій друг, і хотів, щоб я допоміг тобі битися з <enemy>."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/apex/default/0",
+    "value": "Вітаю. <questGiver> найняв мене, щоб допомогти тобі битися з <enemy>. В ім'я Великого Мавпа."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/apex/default/1",
+    "value": "Вітаю. <questGiver> найняв мене, щоб допомогти тобі битися з <enemy>."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/avian/default/0",
+    "value": "Привіт! <questGiver> найняв мене, щоб допомогти тобі битися з <enemy>."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/avian/default/1",
+    "value": "Привіт! <questGiver> найняв мене, щоб допомогти тобі битися з <enemy>."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/floran/default/0",
+    "value": "<questGiver> найняв Флорана, щоб допомогти тобі зарізатти <enemy>."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/floran/default/1",
+    "value": "Флоран друг <questGiver>, тут, щоб допомогти тобі битися з <enemy>."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/glitch/default/0",
+    "value": "*Дружелюбність.* <questGiver> найняв мене, щоб допомогти тобі в битві з <enemy>!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/glitch/default/1",
+    "value": "*Дружність.* Мене найняв <questGiver>, щоб допомогти тобі у твоєму завданні."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/hylotl/default/0",
+    "value": "Вітання. <questGiver> найняв мене, щоб допомогти вам проти <enemy>."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/hylotl/default/1",
+    "value": "Вітаю вас - ми будемо битися пліч-о-пліч, оскільки <questGiver> попросив мене допомогти вам у вашому завданні."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/novakid/default/0",
+    "value": "Йо! <questGiver> попросив мене зустріти тебе тут, щоб допомогти битися з <enemy>."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npcs/assistantIntro/novakid/default/1",
+    "value": "Йо! Мій старий друг <questGiver> попросив мене прийти і допомогти тобі битися з <enemy>."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/surrender/default/default/0",
+    "value": "Я здаюся! Сховай свою зброю!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/surrender/default/default/1",
+    "value": "Я знаю, коли мене переможено! Сховай свою зброю, будь ласка!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/surrender/default/default/2",
+    "value": "Добре, добре, я здаюся! Будь ласка, сховай свою зброю!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/surrender/floran/default/0",
+    "value": "Флоран ззздається! Сххховай зброю!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/surrender/floran/default/1",
+    "value": "Флоран визнаєєє поразку! Сххховай зброю!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/surrender/glitch/default/0",
+    "value": "*Розсудливість.* Я здаюся, сховай свою зброю."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/surrender/glitch/default/1",
+    "value": "*Страх.* Я здаюся! Будь ласка, сховай свою зброю."
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/default/default/0",
+    "value": "Ти дурень!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/default/default/1",
+    "value": "Моя павутина брехні заманила тебе в пастку!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/default/default/2",
+    "value": "Ха-ха, я обдурив тебе!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/default/default/3",
+    "value": "Я тебе перехитрив!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/apex/default/0",
+    "value": "Ти дурень!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/apex/default/1",
+    "value": "Ти дурень!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/avian/default/0",
+    "value": "Ха-ха, тебе обдурили!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/floran/default/0",
+    "value": "Флоран обдуриввв тебе!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/floran/default/1",
+    "value": "Флоран обдурив тебе!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/floran/default/2",
+    "value": "Чому ти зробив те, що просссив Флоран?"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/glitch/default/0",
+    "value": "*Бешкетність.* Ти дурень!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/glitch/default/1",
+    "value": "*Здивування.* Ти справді на це попався?"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/glitch/default/2",
+    "value": "*Шок.* Ти справді на це попався?"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/hylotl/default/0",
+    "value": "Це помилка довіряти своєму ворогові!"
+  },
+  {
+    "op": "replace",
+    "path": "/kill_npc/betray/hylotl/default/1",
+    "value": "Ви занадто швидко довіряєте своєму ворогові!"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це свого роду електричний бар'єр. Виглядає небезпечно..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Електричний бар'єр"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей струм утворює щит, який запобігає проходженню речей."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Двері з електрики? Чудово."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Двері нудьгують, Флорану не подобаються електричні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безтурботний. Струм тут повністю заземлений, небезпеки немає."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це ворота, зроблені з електрики. Хто робить такі двері?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гілотлі дуже обережні з електричним струмом."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Велика шумна іскра електричної енергії."
+  }
+]

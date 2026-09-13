@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Магмова квітка.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Магмова квітка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Гаряча, палаюча квсссітка. Флоран бачить.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Магмова квітка.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

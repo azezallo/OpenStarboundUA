@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Слід порохівця схожий на зоряний пил."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пиловик"
+  }
+]

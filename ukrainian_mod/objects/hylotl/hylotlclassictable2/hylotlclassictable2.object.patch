@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Делікатний дерев'яний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Невеликий традиційний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленький столик. Виглядає не дуже міцно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Крихкі ніжки цього столу виглядають так, ніби вони можуть ламатися в будь-який момент."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Старий стіл надто крихкий, щоб Флоран міг використовувати його для рубання м’яса."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Критичний. Один стрімкий удар ногою, і цей стіл розвалиться."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей стіл досить легко хитається."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "З таким столом кожна трапеза стає радісним досвідом."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Проста таблиця. Не виглядай мені міцним."
+  }
+]

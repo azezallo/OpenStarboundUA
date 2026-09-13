@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий шаблезубий череп."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шаблезубий череп"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "value": "Шаблезубий череп"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "value": "Шаблезубий — широко відома скам’янілість, яку легко впізнати за подовженими іклами."
+  }
+]

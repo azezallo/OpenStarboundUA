@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крижаний органічний хімікат. Можна використовувати для крафта."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кріонічний екстракт"
+  }
+]

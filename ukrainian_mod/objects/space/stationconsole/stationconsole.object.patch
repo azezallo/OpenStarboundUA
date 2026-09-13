@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Невеликий термінал з компактним дисплеєм."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пульт станції"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей компактний термінал має невеликий дисплей."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цьому терміналу не потрібна купа кнопок, лише базове."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче натискати кнопки на цій консолі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Ця консоль ніби спеціально розроблена, кнопок небагато."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Невелика стояча консоль із прикріпленим екраном."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця маленька консоль має лише ті кнопки, які їй потрібні, я впевнений, що вона має чітке призначення."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ось кілька маленьких кнопок на цій консолі."
+  }
+]

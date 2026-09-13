@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Яскравий захисний шолом з масивними окулярами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ливарна каска"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вау, м'ясистий матеріал!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Купа плоті"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "стривожений. Це схоже на пульсуючу плоть."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Сссм'яка, слизька плоть."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Ця плоть виглядає досить огидно."
+  }
+]

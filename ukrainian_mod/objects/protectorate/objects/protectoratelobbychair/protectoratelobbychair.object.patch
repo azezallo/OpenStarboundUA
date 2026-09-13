@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Красиве крісло для крутих студентів Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Голова лобі Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Крісло з крутим дизайном."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це крісло у формі яйця!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Одного разу Флоран тут заснув."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Це стілець у формі яйця."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кожен виглядає круто, сидячи в цьому кріслі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Крісло у формі яйця. Ви відчуваєте себе в безпеці, коли сидите в ньому."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарне крісло. Це теж зручно."
+  }
+]

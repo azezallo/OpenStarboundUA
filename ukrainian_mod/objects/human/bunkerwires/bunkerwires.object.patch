@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це просто електрична пожежа, яка чекає свого."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Провід"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Провід."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Безладні дроти."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смикати дроти небезпечно. Флоран дізнався про це деякий час тому."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Сканування показує дев’яносто вісім відсотків ймовірності електричної несправності."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кабельні стяжки нині дефіцит."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Безладна купа проводів. Небезпечно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Провід. Вони живитимуть щось тут."
+  }
+]

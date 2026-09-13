@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/maxDamageTitleLabel/value",
+    "value": "Баз. макс. шкода:"
+  },
+  {
+    "op": "replace",
+    "path": "/energyPerShotTitleLabel/value",
+    "value": "Енергія/постріл:"
+  },
+  {
+    "op": "replace",
+    "path": "/descriptionLabel/value",
+    "value": "Збирає м'ясо та інше з монстрів."
+  }
+]

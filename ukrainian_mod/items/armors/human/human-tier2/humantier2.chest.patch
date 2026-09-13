@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей нагрудник для сміттярів пропонує надійний рівень захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кираса Сміттяра"
+  }
+]

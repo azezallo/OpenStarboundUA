@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Витончена металева стінова панель."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Настінна панель"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Вражений. Ці знімні панелі гладкі та міцні."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Металева панель робить стіну гладкою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Панель з металу."
+  }
+]

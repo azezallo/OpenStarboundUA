@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Апекс",
+    "path": "/charCreationTooltip/title",
+    "op": "replace"
+  },
+  {
+    "value": "Раса високоінтелектуальних приматів. Протягом тисячоліть апекси були близькі до людей за зовнішнім виглядом, поки науковий прорив не дозволив їм обміняти це на інтелектуальні знання.",
+    "path": "/charCreationTooltip/description",
+    "op": "replace"
+  },
+  {
+    "value": "Колір хутра",
+    "path": "/charGenTextLabels/0",
+    "op": "replace"
+  },
+  {
+    "value": "Волосся",
+    "path": "/charGenTextLabels/1",
+    "op": "replace"
+  },
+  {
+    "value": "Одяг",
+    "path": "/charGenTextLabels/2",
+    "op": "replace"
+  },
+  {
+    "value": "Штани",
+    "path": "/charGenTextLabels/3",
+    "op": "replace"
+  },
+  {
+    "value": "Колір шкіри",
+    "path": "/charGenTextLabels/4",
+    "op": "replace"
+  },
+  {
+    "value": "Борода",
+    "path": "/charGenTextLabels/5",
+    "op": "replace"
+  },
+  {
+    "value": "Колір одягу",
+    "path": "/charGenTextLabels/6",
+    "op": "replace"
+  },
+  {
+    "value": "Колір штанів",
+    "path": "/charGenTextLabels/7",
+    "op": "replace"
+  },
+  {
+    "value": "АПЕКС",
+    "path": "/charGenTextLabels/8",
+    "op": "replace"
+  },
+  {
+    "value": "Особистість",
+    "path": "/charGenTextLabels/9",
+    "op": "replace"
+  }
+]

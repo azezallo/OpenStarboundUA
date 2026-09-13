@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює частину планети на липку ділянку сяючих грибів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Glowshroom Microformer"
+  }
+]

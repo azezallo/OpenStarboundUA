@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Монітор. Але хто стежить за монітором?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Настінний монітор"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Монітор. Я не можу прочитати, що тут написано."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якийсь монітор, але я не можу розібрати, що там написано."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дурний монітор, тільки лінійка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. Здається, це несправно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, чи це має на меті щось показати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Здається, зламався, як це дивно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не можу розрізнити нічого, крім мерехтливих ліній."
+  }
+]

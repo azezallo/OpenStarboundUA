@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прості драпіровки на ноги ченця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Спідниця монах"
+  }
+]

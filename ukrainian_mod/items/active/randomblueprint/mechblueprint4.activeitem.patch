@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "План вдосконаленої механічної частини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Advanced Mech Blueprint"
+  }
+]

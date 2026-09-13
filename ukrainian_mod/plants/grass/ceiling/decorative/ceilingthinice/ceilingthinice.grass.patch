@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Розплавл.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Фазовий",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Світанковий",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Сутінковий",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

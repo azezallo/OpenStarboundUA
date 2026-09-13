@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пістолет із запальним норовом. Ось Дракони."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пістолет Dragonhead"
+  }
+]

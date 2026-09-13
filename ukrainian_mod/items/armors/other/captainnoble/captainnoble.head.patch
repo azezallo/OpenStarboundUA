@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Для капітана Ноубла - не для того, щоб носити себе!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Капітан Нобл Голова"
+  }
+]

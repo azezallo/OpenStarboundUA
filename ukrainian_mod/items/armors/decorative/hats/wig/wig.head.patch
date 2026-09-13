@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стримана перука, яка ідеально підходить для повсякденних випадків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дуже тонка перука"
+  }
+]

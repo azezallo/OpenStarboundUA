@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Укріплений комбінований платок/шийка, зручний і стильний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Горобець"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Конструкційна опорна балка з міді."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мідна опора"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мідна опорна балка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Металева опора конструкції."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Опорна балка з міді."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Ця мідна балка насправді не підтримує жодної конструктивної ваги."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це мідна опорна балка."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Надійна мідна опора."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Велика стара мідна балка."
+  }
+]

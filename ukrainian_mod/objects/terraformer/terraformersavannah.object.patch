@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює клімат планети на посушливі луки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тераформер прерій"
+  }
+]

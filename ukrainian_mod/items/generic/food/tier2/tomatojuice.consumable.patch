@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ситний томатний сік."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Томатний сік"
+  }
+]

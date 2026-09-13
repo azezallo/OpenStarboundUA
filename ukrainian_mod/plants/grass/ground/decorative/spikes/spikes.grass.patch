@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Природні шипи.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Природні шипи",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран бачить шипи, небезпечно.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Природні шипи.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

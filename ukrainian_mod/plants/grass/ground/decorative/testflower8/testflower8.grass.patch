@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A hideous, soulless flower. I can feel my blood running cold."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Огидна квітка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran not accept flower existsss. No no no."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "[Помилка]. Неможливо обробити заяву. Скидання пам'яті."
+  }
+]

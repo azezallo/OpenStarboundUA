@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розкрита картонна коробка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Відкрита картонна коробка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Картонна коробка, яку залишили відкритою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Картонна коробка середнього розміру."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Картон для зберігання речей всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Ця картонна коробка легка, але досить велика, щоб вмістити багато речей."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Картонна коробка. Здається, його відкрили."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Основна картонна коробка. Це некрасиво, але добре для того, щоб усе було організовано."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Легка коробка для зберігання будь-чого."
+  }
+]

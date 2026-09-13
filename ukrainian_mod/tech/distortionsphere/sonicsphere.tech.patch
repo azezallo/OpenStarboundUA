@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виконайте ривок сфери, утримуючи ^green;[F] ^white;, щоб трансформуватися!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "value": "Sonic Sphere"
+  }
+]

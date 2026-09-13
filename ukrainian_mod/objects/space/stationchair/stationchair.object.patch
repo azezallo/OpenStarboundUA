@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вигнуте металеве крісло формального вигляду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Голова станції"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Просте крісло, повністю виготовлене з металевих сплавів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Блискуче сріблясте крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "У Флорана немає часу сидіння."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Цей стілець виявляється значно міцнішим за більшість стільців у Всесвіті."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Свого часу я бачив багато стільців, але це... не мій улюблений."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Крісло, прикрашене кольоровими стрічками, які добре поєднуються один з одним."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Так, це добре крісло."
+  }
+]

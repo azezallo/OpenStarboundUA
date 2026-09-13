@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Корпус механізму на основі Lilodon. Його гавкіт не гірший за укус."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Lilotron Mech Body"
+  }
+]

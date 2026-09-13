@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Куля дьогтю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Куля дьогтю."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Клипкий дьоготь."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Куля дьогтю."
+  }
+]

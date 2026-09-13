@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий хребет іксодумів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іксодомовий хребет"
+  }
+]

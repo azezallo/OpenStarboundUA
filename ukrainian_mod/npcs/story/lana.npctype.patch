@@ -1,0 +1,57 @@
+[
+  {
+    "value": "Лана",
+    "path": "/npcname",
+    "op": "replace"
+  },
+  {
+    "value": "Гей, солдате! Швидше, нам треба, щоб ти спустився в тунель!",
+    "path": "/scriptConfig/dialog/lana/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ох. Зачекай. Ти не один із нас. Раз вже ти вирішив приєднатися, то ти нам допоможеш!",
+    "path": "/scriptConfig/dialog/lana/start/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мене звати ^orange;Лана Блейк^white;. Якщо хочеш потрапити до фортеці Міннаук так само, як і я - тоді спускайся вниз.",
+    "path": "/scriptConfig/dialog/lana/start/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Використай цей хід, щоб послабити захист. Я тобі довіряю.",
+    "path": "/scriptConfig/dialog/lana/start/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ти зробив це! Добре... Я поранена... Ти маєш завершити те, що ми почали. Вимкни захист.",
+    "path": "/scriptConfig/dialog/lana/mid/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Молодець, солдате! Це все твоя заслуга. Завдяки тобі ця фортеця впала і...",
+    "path": "/scriptConfig/dialog/lana/end/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "... Що це? Ця яскрава річ мене відволікає...",
+    "path": "/scriptConfig/dialog/lana/end/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ох, це те, за чим ти прийшов? ... Забирай.",
+    "path": "/scriptConfig/dialog/lana/end/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Мені здається, ти заслужив деяку вдячність. У мене є навички, які можуть бути тобі корисні.",
+    "path": "/scriptConfig/dialog/lana/end/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Зустрінемося на іншому боці!",
+    "path": "/scriptConfig/dialog/lana/teleporter/default/default/0",
+    "op": "replace"
+  }
+]

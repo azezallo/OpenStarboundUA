@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Асортимент гострих речей."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ринок зброї"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця зброя груба."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мало хто з ув'язнених є воїнами. Ця зброя зроблена погано."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Груба зброя птахолюдей. Ssslap як гілка."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Ця зброя потребує заточування."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Зброя в цьому кіоску виглядає так, ніби вона годиться лише для одного помаху."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Судячи з цього кіоску, ці бідолашні ледь захищаються."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця зброя просто погана."
+  }
+]

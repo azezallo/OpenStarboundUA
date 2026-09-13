@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прототип механізму з відкритим верхом, розроблений для пілотів Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Dominion-00 Mech Body"
+  }
+]

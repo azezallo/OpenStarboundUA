@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кістка дракона, вона гаряча на дотик. Тепло ніколи не вмирає."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кістка дракона"
+  }
+]

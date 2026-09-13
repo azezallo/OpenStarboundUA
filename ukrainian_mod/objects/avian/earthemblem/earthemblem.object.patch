@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця емблема символізує сильний і стійкий елемент землі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташиний герб землі"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Пташиний символ, що означає землю."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Емблема Землі, поширений символ у гробницях."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Виглядає як наконечник списа, але ця емблема означає землю."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Здається, це емблема землі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Деякі трикутники. Це означає земля."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Символічне зображення стихії землі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я вважаю, що це пташина емблема землі."
+  }
+]

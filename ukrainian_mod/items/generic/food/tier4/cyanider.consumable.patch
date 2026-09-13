@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Глінтвейн з окулемону та сливи. Смачного!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ціанідр"
+  }
+]

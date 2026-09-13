@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "У цього жука крила замерзли."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Icetip"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Відкриття Ковчега",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Я маю тобі дещо розповісти, серденько, і дещо ^orange;показати^reset;. ^green;Настав час попросити в тебе більше, ніж будь-коли раніше^reset;... Я вірю, що ти готовий до цього завдання, а ти?",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Навіть після всього, я впевнена, що на тебе чекає ще багато пригод. Принаймні візьми це, серденько.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Пройди крізь ^orange;Ковчег^reset; та ^green;знищ ^orange;Руїну^reset;",
+    "path": "/scriptConfig/descriptions/destroyRuin",
+    "op": "replace"
+  },
+  {
+    "value": "Знайди шлях назад на ^orange;аванпост^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

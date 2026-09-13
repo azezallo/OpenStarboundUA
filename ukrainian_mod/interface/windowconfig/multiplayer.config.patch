@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/connect/caption",
+    "value": "На сервер"
+  },
+  {
+    "op": "replace",
+    "path": "/address/hint",
+    "value": "адреса сервера"
+  },
+  {
+    "op": "replace",
+    "path": "/port/hint",
+    "value": "порт"
+  },
+  {
+    "op": "replace",
+    "path": "/account/hint",
+    "value": "акаунт сервера"
+  },
+  {
+    "op": "replace",
+    "path": "/password/hint",
+    "value": "пароль сервера"
+  }
+]

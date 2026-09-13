@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Броня для ніг, покрита листям, яка є одним цілим із лісом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани кочівника"
+  }
+]

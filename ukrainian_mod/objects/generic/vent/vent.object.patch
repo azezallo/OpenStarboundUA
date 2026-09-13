@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей вентиляційний отвір дзвенить, коли повітря просвистує."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вентиляційний отвір"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Ідентифікувати. вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Невеликий вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вентиляція."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Вентиляційний отвір."
+  }
+]

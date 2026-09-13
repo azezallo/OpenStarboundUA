@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Твердий камінь, наповнений дрібними кристалами жеода."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жеодний камінь"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Спостережливий. Усередині цього каменю є крихітні кристали жеоду."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Флорану подобаються крихітні кристалики в жеодному камені."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Цей камінь наповнений крихітними кристалами жеоду."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Можливо, воїни народу хілотл не такі славетні, як інші, але за вмінням іншим не поступляться.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Багато хто з мого народу зневажає твій вид, але я думаю, що завзятий флоран гідний похвали.",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ти вшанував мене своїм візитом.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Персей",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Цефея",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

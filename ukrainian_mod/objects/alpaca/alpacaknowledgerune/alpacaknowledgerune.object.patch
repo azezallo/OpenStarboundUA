@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стародавня руна, яка є символом знання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Руна знань"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Досить складна стара руна, що означає знання."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Руна, що означає знання - не дивно, що вона виглядає такою складною."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Складна руна символізує складну концепцію знання."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Руна означає знання."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якщо ця руна означає знання, чого я можу з неї навчитися?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей маленький, але складний дизайн охоплює незбагненну концепцію самого знання."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Вигадлива руна, вона означає щось пов’язане зі знаннями."
+  }
+]

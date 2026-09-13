@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "«Ідеальний зразок вольфрамової руди»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зразок вольфраму"
+  }
+]

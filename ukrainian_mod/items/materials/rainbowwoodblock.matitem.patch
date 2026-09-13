@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Просто казково."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яні дошки веселки"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "в захваті. Ці барвисті дошки яскраві та веселі."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Флоран любить барвисті райдужні дошки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Дошки, зроблені з якогось могутнього барвистого дерева."
+  }
+]

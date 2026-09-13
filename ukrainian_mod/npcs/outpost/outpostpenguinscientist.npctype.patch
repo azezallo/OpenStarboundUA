@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Welcome to Dr. Akaggy's Mech Workshop! I can assure you that this is a legitimate business."
+  }
+]

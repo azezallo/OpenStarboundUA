@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Металевий знак із символом біологічної небезпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак біологічної небезпеки"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Універсальний символ біологічної небезпеки. Краще будьте обережні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чи воно призначене бути сонцем? Можливо, ні."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sсимвол щось означає! Флоран не знає!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Я вважаю, що я повинен знати, що означає цей символ?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це давній символ, що означає «Обережно! Погана річ!'"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей потворний символ є свого роду попередженням."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей знак рекламує якийсь новий бренд Novakid?"
+  }
+]

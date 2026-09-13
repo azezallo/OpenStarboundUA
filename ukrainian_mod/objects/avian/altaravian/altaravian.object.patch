@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На цьому вівтарі сидить різьблена голова птаха."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вівтар з пташиною головою"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Золотий пташиний вівтар, прикрашений символами, яких я не впізнаю."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Зараз ці символи можуть прочитати лише звіздарі. Секрети їх перекладу закриті. Червоні очі - попередження."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучий птахолюдина. Де твоє тіло?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зляканий. Це різьблення по птахам виглядає дуже реалістично."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сподіваюся, ці символи не говорять про щось важливе."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Червоні очі нагадують мені моїх братів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця статуя чимось схожа на Птаха."
+  }
+]

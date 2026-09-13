@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Попереджувальний знак, але про що він попереджає?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Попереджувальний знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Простий попереджувальний знак."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей знак намагається мені щось сказати, але що це може бути?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучий sssign."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Я не можу розібрати, про що мене попереджає цей знак."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Знак, але про що він мене попереджає?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Якийсь попереджувальний знак."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я ніколи не звертав особливої ​​уваги на знаки. Я теж не збираюся починати!"
+  }
+]

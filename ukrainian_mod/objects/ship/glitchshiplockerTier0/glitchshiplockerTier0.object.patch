@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зберігайте деякі речі, чому б і ні?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Корабельний корабель"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Блок зберігання помилок. Здається, він несправний."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Корабельна камера зберігання. На жаль, він здається зламаним."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Глюк зберігає смаколики тут. Коли він працює."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. Здається, ця шафка зламана."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гарне місце для зберігання цінностей, коли воно справді працює."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "На думку спадає старе прислів’я Гілотла, проте це нічого не означає, коли шафку зламано."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шафка для зберігання речей. Шкода, що ця зруйнована."
+  }
+]

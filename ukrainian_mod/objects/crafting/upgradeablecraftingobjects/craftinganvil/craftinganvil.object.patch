@@ -1,0 +1,227 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ковадло використовується для виробництва обладунків і зброї з тканини і руд."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;анвіло^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ковадло. Apex не використовував їх для металоконструкцій протягом тривалого часу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Велика залізна плита з плоскою поверхнею."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дуже важкий, корисний у пастці."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гордий. На цих ковадлах Глітч виготовляє всі види зброї. На цих ковадлах майструють навіть ковадла."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ковадло. Люди не використовували їх з початку нашої історії."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ймовірно, використовувався в металообробці."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ковадло. Мені вони не чужі."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "value": "Ковадло використовується для виробництва обладунків і зброї з тканини і руд."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "value": "^orange;анвіло^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "value": "Ковадло. Apex не використовував їх для металоконструкцій протягом тривалого часу."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "value": "Велика залізна плита з плоскою поверхнею."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "value": "Дуже важкий, корисний у пастці."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "value": "Гордий. На цих ковадлах Глітч виготовляє всі види зброї. На цих ковадлах майструють навіть ковадла."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "value": "Ковадло. Люди не використовували їх з самого початку своєї історії."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "value": "Ймовірно, використовувався в металообробці."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "value": "Ковадло. Мені вони не чужі."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Ковадло"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Броня та зброя"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "value": "Кузня використовується для виготовлення броні та зброї з тканини та руд."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "value": "^orange;Fforge^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "value": "Кузня. Тут я можу використовувати титан та інші матеріали."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "value": "Кузня для створення техніки з металу."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "value": "Флоран створив сильну зброю на станції sssstation."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "value": "Нетерпіння. Тут я можу зробити обладнання з титану та інше."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "value": "Ця кузня дозволить мені створювати обладнання з металу!"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "value": "Реміснича станція, призначена для створення обладнання з металу."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "value": "Ця кузня стане в нагоді для створення обладнання з металу."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Кузня"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Броня та зброя"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "value": "Реплікатор використовується для виготовлення броні та зброї з тканини та руди."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "value": "^orange;Replicator^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+    "value": "Реплікатор. З цим я можу створити високоякісне обладнання."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+    "value": "Звідси я можу перетворювати руди на якісне обладнання."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+    "value": "Флоран робить тут сильну зброю."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+    "value": "Нейтральний. З цим я можу робити обладнання та багато іншого."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+    "value": "Я можу створити надміцне обладнання з цього реплікатора."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+    "value": "Цей реплікатор дозволяє мені створювати високоякісне обладнання з якісних матеріалів."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+    "value": "Я можу створити чудове обладнання за допомогою цього реплікатора."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Реплікатор"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Броня та зброя"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/addonConfig/usesAddons/0/addonData/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Таблиця прискорювача"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/addonConfig/usesAddons/1/addonData/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Сепараторна таблиця"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/addonConfig/usesAddons/2/addonData/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Стіл маніпулятора"
+  }
+]

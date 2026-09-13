@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Слизький шолом, який робить вас схожим на Moontant."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Mutant Miner's Helmet"
+  }
+]

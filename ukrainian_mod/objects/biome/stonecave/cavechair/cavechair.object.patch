@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крісло камінь."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рок-крісло"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "На ньому не зручно сидіти."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Схоже, що його взяли прямо з природи."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран принаймні поклав би трохи моху зверху."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Споглядальний. Де межа між каменем і стільцем?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені дупа болить від того, що я дивлюся на це."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Просте крісло з каменю."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я думаю, що це для сидіння."
+  }
+]

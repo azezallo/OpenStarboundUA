@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шафка. Зберігайте деякі речі, чому б і ні?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Корабельний ящик"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цікаво, чи є в цій шафці якісь секрети?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чи може бути в цій шафці щось цінне?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран шукає цінні речі в шафці Новакіда."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Цікаво, якісь цікаві предмети всередині?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Корабельна шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можливо, в цій шафці є щось корисне."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Безпечне місце для зберігання моєї здобичі."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий проблисковий ліхтар і ревуча сирена гарантовано привернуть багато уваги."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "сигналізація"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Вони використовуються як засіб стримування, але також і як захист."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей миготливий вогник сповістить усіх про проступки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це сповістить усіх охоронців."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стривожений. Це насторожить багатьох, я повинен бути обережним."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якби це був фільм, впевнений, він би вийшов, коли я пішов."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Будильник. Використовується для сповіщення охоронців про хуліганів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця сигналізація точно ускладнить втечу здобичі."
+  }
+]

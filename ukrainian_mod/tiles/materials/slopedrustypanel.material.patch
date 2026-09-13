@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Міцна металева панель, яка проіржавіла з часом.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Енергійно. Я впевнений, що цю металеву панель можна відновити.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран хоче зззробити списсс з іржавого металу.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Стара металева панель, вкрита іржею, легінь.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Іржава панель",
+    "path": "/shortdescription",
+    "op": "replace"
+  }
+]

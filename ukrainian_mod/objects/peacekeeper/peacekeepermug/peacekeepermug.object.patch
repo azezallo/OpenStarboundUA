@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Свіжа чашка кави. Здається, вічно гаряче."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кружка Миротворець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Споживання кофеїну корисно, щоб залишатися кмітливим під час виконання завдання."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця чашка продовжує парити. Він колись охолоне?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гаряча кава — ефективна імпровізаційна зброя проти плотських людей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. На цій кухлі є напис: «Детектив №1 Всесвіту»."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "На цій чашці написано: «Детектив №1 у Всесвіті»."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це виглядає надто гарячим, щоб пити. Я краще це залишу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ніщо так, як чашка свіжої кави, щоб підбадьорити вас зранку."
+  }
+]

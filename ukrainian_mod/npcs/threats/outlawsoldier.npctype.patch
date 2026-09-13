@@ -1,0 +1,32 @@
+[
+  {
+    "value": "До бою!",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я в цій справі вже багато років, у тебе немає шансів!",
+    "path": "/scriptConfig/dialog/attack/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Забирайся або пошкодуєш!",
+    "path": "/scriptConfig/dialog/attack/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Мої навички кращі за твої!",
+    "path": "/scriptConfig/dialog/attack/human/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Тобі не пощастило, я професіонал!",
+    "path": "/scriptConfig/dialog/attack/human/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Хочеш постріляти? Ну давай!",
+    "path": "/scriptConfig/dialog/attack/human/default/4",
+    "op": "replace"
+  }
+]

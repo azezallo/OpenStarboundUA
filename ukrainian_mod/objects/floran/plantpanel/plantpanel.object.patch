@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Багато спокусливих кнопок, які, мабуть, варто залишити в спокої."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленька дерев'яна консоль"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цікаво, що ця кнопка робить..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чи станеться щось, якщо я натисну цю кнопку?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не може протистояти гудзикам."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. До чого призведе натискання цих кнопок?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Натиснути всі ці кнопки! Що може піти не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Перш ніж натискати кнопки на цій панелі, я повинен переконатися, що я готовий до всього."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тут є кнопки, цікаво, що станеться, якщо я натисну їх усі."
+  }
+]

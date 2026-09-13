@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Можуть носити лише ті, хто достатньо гідний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Піксельні штани героя"
+  }
+]

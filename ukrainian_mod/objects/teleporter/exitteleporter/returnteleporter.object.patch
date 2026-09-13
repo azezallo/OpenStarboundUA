@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей телепорт поверне вас туди, звідки ви прийшли."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Телепорт повернення"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це дозволить мені легко вибратися."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я можу вийти, використовуючи це!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Телепорт дозволяє Флорану вибратися."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Полегшено. Цей телепорт дозволить мені повернутися."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я зможу скористатися цим, коли буду готовий повернутися."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Корисний спосіб швидко повернутися."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Зручний спосіб вибратися та вирушити до наступної пригоди!"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кришталеве ліжко, коли ви хочете мріяти бути багатим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кришталеве ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кришталеве ліжко, привабливе, але міцне, м’яко кажучи."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Приголомшливе, блискуче ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран любить гостре хрустальне ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Не вражений. Ці кристали насправді досить поширені і коштують дуже мало."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Б’юся об заклад, це ліжко — найцінніше у всесвіті!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це русло нагадує природні коралові утворення під водою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ложе з холодного кришталю."
+  }
+]

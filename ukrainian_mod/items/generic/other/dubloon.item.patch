@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Контрактний жетон, прийнятий Найманцями Пінгвінів у барі Beakeasy."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дублон"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Давайте пограємо в танці-танці!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Dance-Dance Machine"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я не впевнений, що коли-небудь буду хорошим у Dance-Dance. Стрілки рухаються так швидко!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Танець-танець не дуже дружній до кігтів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дурні танцювальні танцювальні стрілки рухаються надто швидко!! Розчаруй Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Це проста гра, якщо ви навчитеся розпізнавати закономірності. 9/10."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені б хотілося сказати розробникам Dance-Dance, що їх гра досягла зірок."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Опанувати мистецтво Dance-Dance справді може виявитися дуже складним завданням."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "ага! Давайте танцюємо!"
+  }
+]

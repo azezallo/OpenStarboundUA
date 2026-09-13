@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A slimy root."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Слизовий корінь."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssslimy root."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Statement. A slimy root."
+  }
+]

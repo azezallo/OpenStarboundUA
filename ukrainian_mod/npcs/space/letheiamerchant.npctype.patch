@@ -1,0 +1,27 @@
+[
+  {
+    "value": "  Торговец Лезеи",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "  Продажа фурнитуры!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Ласкаво просимо до філії корпорації Лезея!",
+    "path": "/scriptConfig/dialog/merchant/tout/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ласкаво просимо до філії корпорації Лезея, чим можу допомогти?",
+    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Пам'ятай: \"Нащо жити без Лезеї?\"",
+    "path": "/scriptConfig/dialog/merchant/end/hylotl/default/0",
+    "op": "replace"
+  }
+]

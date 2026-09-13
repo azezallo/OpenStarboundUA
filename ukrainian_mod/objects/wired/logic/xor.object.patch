@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перемикач /'XOR'/. Потрібно, щоб один вхід був увімкненим і одним вимкненим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Перемикач XOR"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Перемикач /'XOR'/. Потрібно, щоб один вхід був увімкненим, а інший – вимкненим."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостереження. Перемикач /'XOR'/. Потрібно, щоб один вхід був увімкненим і одним вимкненим."
+  }
+]

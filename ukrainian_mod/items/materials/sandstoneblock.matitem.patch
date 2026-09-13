@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цегла з гладкого пісковику."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Цегла з пісковика"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Проникливий. Ці цеглини виготовляються з міцного пісковику."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Міцна цегла з пісковика."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Деякі цеглини зроблені з пісковика."
+  }
+]

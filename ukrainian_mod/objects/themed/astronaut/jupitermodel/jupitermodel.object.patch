@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Детальна модель найбільшої планети Сонячної системи, Юпітера."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Модель Юпітера"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Смішно думати, що колись люди вважали Юпітер «великою» планетою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Юпітер досить великий порівняно із Землею."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "На Юпітері досить багато хмар."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вражений. За сучасними мірками Юпітер відносно невелика планета."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця велика стара газова планета все ще міцна."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Юпітер, який колись багатьма вважався гігантом."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я бачив більші."
+  }
+]

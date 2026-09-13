@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює клімат планети на зарослі джунглі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тераформер джунглів"
+  }
+]

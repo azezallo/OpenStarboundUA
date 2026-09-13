@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Станція роботодавця"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Використовуйте маяки працевлаштування, щоб викликати допомогу"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Станція, яка використовується для отримання маяків працевлаштування, які викликають усілякі помічники."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Eemployer's Station^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цікаво, чи можна замовити свободівця."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Така технологія викликає суперечки на Avos."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смачна їжа?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Така справедлива система. Ні панів і пань, ні нікчемних селян."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це кінцева еволюція онлайн-реклами."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Допомога іншій істоті приносить внутрішній мир."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Грубо намальований череп. Виглядає бадьоро."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Графіті"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Виглядає як людський череп."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Череп. Це попередження?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану подобається цей малюнок. Великий артист."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Грубо намальований людський череп."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ще один яскравий твір вуличного мистецтва."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Художник був явно бездарний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Череп. Або це попередження... або тут є пірати!"
+  }
+]

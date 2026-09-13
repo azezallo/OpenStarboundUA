@@ -1,0 +1,582 @@
+[
+  {
+    "value": "пішов на прогулянку, щоб <personal>",
+    "path": "/scriptConfig/generatedText/fluff/0/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "взяв екскурсію, щоб <personal>",
+    "path": "/scriptConfig/generatedText/fluff/0/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "здійснив коротку поїздку, щоб <personal>",
+    "path": "/scriptConfig/generatedText/fluff/0/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "пішов на пробіжку, щоб <personal>",
+    "path": "/scriptConfig/generatedText/fluff/0/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "розширити свої емоційні горизонти",
+    "path": "/scriptConfig/generatedText/fluff/1/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "дослідити місцевість",
+    "path": "/scriptConfig/generatedText/fluff/1/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "подумати про життя та інше",
+    "path": "/scriptConfig/generatedText/fluff/1/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "втекти від своїх проблем",
+    "path": "/scriptConfig/generatedText/fluff/1/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "спалити кілька калорій",
+    "path": "/scriptConfig/generatedText/fluff/1/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "спробувати пригадати дивний сон, який мені снився",
+    "path": "/scriptConfig/generatedText/fluff/1/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "спробувати розв'язати складну математичну задачу в умі",
+    "path": "/scriptConfig/generatedText/fluff/1/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "пережити недавнє розставання",
+    "path": "/scriptConfig/generatedText/fluff/1/1/7",
+    "op": "replace"
+  },
+  {
+    "value": "розім'яти ноги",
+    "path": "/scriptConfig/generatedText/fluff/1/1/8",
+    "op": "replace"
+  },
+  {
+    "value": "раніше",
+    "path": "/scriptConfig/generatedText/fluff/2/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "не так давно",
+    "path": "/scriptConfig/generatedText/fluff/2/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "раніше цього тижня",
+    "path": "/scriptConfig/generatedText/fluff/2/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "минулої ночі",
+    "path": "/scriptConfig/generatedText/fluff/2/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "вчора",
+    "path": "/scriptConfig/generatedText/fluff/2/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "влаштували мені засідку і <crime2>",
+    "path": "/scriptConfig/generatedText/fluff/3/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "з'явилися нізвідки і <crime2>",
+    "path": "/scriptConfig/generatedText/fluff/3/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "з'явилися і <crime2>",
+    "path": "/scriptConfig/generatedText/fluff/3/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "забрали мої <crime3>",
+    "path": "/scriptConfig/generatedText/fluff/4/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "вкрали мої <crime3>",
+    "path": "/scriptConfig/generatedText/fluff/4/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "змусили мене віддати мої <crime3>",
+    "path": "/scriptConfig/generatedText/fluff/4/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "забрали мої <crime3> без мого відома",
+    "path": "/scriptConfig/generatedText/fluff/4/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "вкрали мої <crime3> під дулом пістолета",
+    "path": "/scriptConfig/generatedText/fluff/4/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "допитували мене",
+    "path": "/scriptConfig/generatedText/fluff/4/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "змусили мене танцювати під дулом пістолета, сміючись",
+    "path": "/scriptConfig/generatedText/fluff/4/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "шкарпетки",
+    "path": "/scriptConfig/generatedText/fluff/5/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "рюкзак",
+    "path": "/scriptConfig/generatedText/fluff/5/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "гроші",
+    "path": "/scriptConfig/generatedText/fluff/5/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "дрібні гроші",
+    "path": "/scriptConfig/generatedText/fluff/5/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "гаманець",
+    "path": "/scriptConfig/generatedText/fluff/5/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "заощадження",
+    "path": "/scriptConfig/generatedText/fluff/5/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "обід",
+    "path": "/scriptConfig/generatedText/fluff/5/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "принижений",
+    "path": "/scriptConfig/generatedText/fluff/6/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "досить збентежений",
+    "path": "/scriptConfig/generatedText/fluff/6/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "досить засмучений",
+    "path": "/scriptConfig/generatedText/fluff/6/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "потребую <justice2>",
+    "path": "/scriptConfig/generatedText/fluff/7/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "вимагаю <justice2>",
+    "path": "/scriptConfig/generatedText/fluff/7/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "хочу <justice2>",
+    "path": "/scriptConfig/generatedText/fluff/7/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "правосуддя",
+    "path": "/scriptConfig/generatedText/fluff/8/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "крові",
+    "path": "/scriptConfig/generatedText/fluff/8/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "відплати",
+    "path": "/scriptConfig/generatedText/fluff/8/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "помсти",
+    "path": "/scriptConfig/generatedText/fluff/8/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "змусити їх заплатити",
+    "path": "/scriptConfig/generatedText/fluff/9/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "розібратися з ними",
+    "path": "/scriptConfig/generatedText/fluff/9/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "позбутися їх",
+    "path": "/scriptConfig/generatedText/fluff/9/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я вражений! Дуже тобі дякую!",
+    "path": "/scriptConfig/generatedText/fluff/10/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Тепер я почуваюся набагато безпечніше, дякую! Візьми цей подарунок за всю твою допомогу.",
+    "path": "/scriptConfig/generatedText/fluff/10/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти допоміг зробити цю планету хоч трохи безпечнішою!",
+    "path": "/scriptConfig/generatedText/fluff/10/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую! Я впевнений, що вони не задумували нічого доброго.",
+    "path": "/scriptConfig/generatedText/fluff/10/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую! Сподіваюся, цього подарунка вистачить, щоб віддячити тобі.",
+    "path": "/scriptConfig/generatedText/fluff/10/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую! Тепер я точно буду менше нервувати тут.",
+    "path": "/scriptConfig/generatedText/fluff/10/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "підслухав",
+    "path": "/scriptConfig/generatedText/fluff/11/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "шпигував за",
+    "path": "/scriptConfig/generatedText/fluff/11/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я можу помилятися",
+    "path": "/scriptConfig/generatedText/fluff/12/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я не впевнений",
+    "path": "/scriptConfig/generatedText/fluff/12/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я не можу бути впевненим",
+    "path": "/scriptConfig/generatedText/fluff/12/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "обговорювали",
+    "path": "/scriptConfig/generatedText/fluff/13/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "говорили про",
+    "path": "/scriptConfig/generatedText/fluff/13/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "зброю",
+    "path": "/scriptConfig/generatedText/fluff/14/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "науку",
+    "path": "/scriptConfig/generatedText/fluff/14/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "секретні плани",
+    "path": "/scriptConfig/generatedText/fluff/14/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "свої почуття",
+    "path": "/scriptConfig/generatedText/fluff/14/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "майбутні злочини, які вони спланували",
+    "path": "/scriptConfig/generatedText/fluff/14/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "якусь огидну змову",
+    "path": "/scriptConfig/generatedText/fluff/14/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "майбутні ділові можливості",
+    "path": "/scriptConfig/generatedText/fluff/14/1/6",
+    "op": "replace"
+  },
+  {
+    "value": "історичну літературу",
+    "path": "/scriptConfig/generatedText/fluff/14/1/7",
+    "op": "replace"
+  },
+  {
+    "value": "свої кулінарні прийоми",
+    "path": "/scriptConfig/generatedText/fluff/14/1/8",
+    "op": "replace"
+  },
+  {
+    "value": "розслідувати",
+    "path": "/scriptConfig/generatedText/fluff/15/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "перевірити це",
+    "path": "/scriptConfig/generatedText/fluff/15/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "розібратися в цьому",
+    "path": "/scriptConfig/generatedText/fluff/15/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "шукав їжу",
+    "path": "/scriptConfig/generatedText/fluff/16/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "шукав схованки",
+    "path": "/scriptConfig/generatedText/fluff/16/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "намагався бути непомітним",
+    "path": "/scriptConfig/generatedText/fluff/16/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "йшов на прогулянку",
+    "path": "/scriptConfig/generatedText/fluff/16/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "роздумував про різні речі",
+    "path": "/scriptConfig/generatedText/fluff/16/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "вийшов на прогулянку",
+    "path": "/scriptConfig/generatedText/fluff/16/1/5",
+    "op": "replace"
+  },
+  {
+    "value": "думає, що вони не задумують нічого доброго",
+    "path": "/scriptConfig/generatedText/fluff/17/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "підозрілий",
+    "path": "/scriptConfig/generatedText/fluff/17/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "нервує через них",
+    "path": "/scriptConfig/generatedText/fluff/17/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "думає, що нам загрожує небезпека",
+    "path": "/scriptConfig/generatedText/fluff/17/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "не довіряє їм",
+    "path": "/scriptConfig/generatedText/fluff/17/1/4",
+    "op": "replace"
+  },
+  {
+    "value": "не має мисливської зброї",
+    "path": "/scriptConfig/generatedText/fluff/18/1/0",
+    "op": "replace"
+  },
+  {
+    "value": "думає, що ти впораєшся з цим краще",
+    "path": "/scriptConfig/generatedText/fluff/18/1/1",
+    "op": "replace"
+  },
+  {
+    "value": "занадто нервує",
+    "path": "/scriptConfig/generatedText/fluff/18/1/2",
+    "op": "replace"
+  },
+  {
+    "value": "не готовий до битви",
+    "path": "/scriptConfig/generatedText/fluff/18/1/3",
+    "op": "replace"
+  },
+  {
+    "value": "Деякі <enemy>, з якими треба розібратися",
+    "path": "/scriptConfig/generatedText/title/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Деякі <enemy>, яких варто перевірити",
+    "path": "/scriptConfig/generatedText/title/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Я зіткнувся з <enemy> <earlier>.",
+    "path": "/scriptConfig/generatedText/goalText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Я чув деяких <enemy> <earlier>.",
+    "path": "/scriptConfig/generatedText/goalText/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран зіткнувся з деякими <enemy> <earlier>.",
+    "path": "/scriptConfig/generatedText/goalText/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран чув деяких <enemy> <earlier>.",
+    "path": "/scriptConfig/generatedText/goalText/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Стурбовано. Я зіткнувся з <enemy> <earlier>.",
+    "path": "/scriptConfig/generatedText/goalText/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Напружено. Я чув деяких <enemy> <earlier>.",
+    "path": "/scriptConfig/generatedText/goalText/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я <activity> <earlier>, коли ^orange;<enemy>^white; <crime1>. Я відчуваю <reaction> і <justice1>. Це сталося біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Не міг би ти <request>^white;?",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я <overheard> деяких ^orange;<enemy>^white;, які були біля ^orange;<spawnPoint>^white; <earlier>. <doubt>, але я думаю, що вони <discussing> <discussion>. ^green;Можеш піти і <investigate>^white;?",
+    "path": "/scriptConfig/generatedText/text/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран бачив ^orange;<enemy>^white;, поки Флоран <earlier> <floranmotivation>. Вони були біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Флоран <floransuspicious> - ^green;можеш перевірити^white;?",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Якісь ^orange;<enemy>^white; гналися за Флораном, поки Флоран <earlier> <floranmotivation>! Флоран <floransuspicious>, але Флоран <floranexcuse>. Це сталося біля ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;можеш <request> для Флорана^white;?",
+    "path": "/scriptConfig/generatedText/text/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Засмучено. Я <activity> <earlier>, коли ^orange;<enemy>^white; <crime1>. Я відчуваю <reaction> і <justice1>. Це сталося біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Можеш <request>^white;?",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Стурбовано. Я <overheard> деяких ^orange;<enemy>^white;, які були біля ^orange;<spawnPoint>^white; <earlier>. <doubt>, але я думаю, що вони <discussing> <discussion>. ^green;Можеш піти і <investigate>^white;?",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти розібрався з <enemy>? <appreciation>",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти з'ясував, що задумували <enemy>? <appreciation>",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти розібрався з <enemy>? Флоран вдячний за допомогу!",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти розібрався з <enemy>? Дякую! Хоча Флоран міг би зробити це і сам, якби мав зброю...",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вдячно. Ти розібрався з <enemy>? <appreciation>",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "З полегшенням. Ти з'ясував, що задумували <enemy>? <appreciation>",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ой, я не дуже допоміг <questGiver>.",
+    "path": "/scriptConfig/generatedText/failureText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Здається, я не зміг допомогти <questGiver>.",
+    "path": "/scriptConfig/generatedText/failureText/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Знайди <spawnPoint>",
+    "path": "/scriptConfig/objectives/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Убий <enemy>",
+    "path": "/scriptConfig/objectives/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Повернися до <questGiver>",
+    "path": "/scriptConfig/objectives/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Нотатка для себе: не забудь про здобич, залишену в <treasureLocation><treasureLocation.direction>",
+    "path": "/scriptConfig/treasureNote/0",
+    "op": "replace"
+  },
+  {
+    "value": "Босе, я сховав скарб в <treasureLocation><treasureLocation.direction>",
+    "path": "/scriptConfig/treasureNote/1",
+    "op": "replace"
+  },
+  {
+    "value": "Передача здобичі відбудеться в <treasureLocation><treasureLocation.direction>",
+    "path": "/scriptConfig/treasureNote/2",
+    "op": "replace"
+  }
+]

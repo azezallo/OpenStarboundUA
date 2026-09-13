@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створіть свого власного пташиного селянина!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташиний спаунер"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я міг би породити кількох пташиних друзів."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Можливо, я зможу використати це, щоб викликати товариша Приземленого."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран приведи птахів до Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розмірковуючи. Що подумає про це Kluex?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чудово, я міг би викликати цілу пташину армію."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я вважаю, що викликати Авіана було б нормально."
+  }
+]

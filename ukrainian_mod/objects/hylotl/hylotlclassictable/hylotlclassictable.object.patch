@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стіл в традиційному стилі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Хороший стіл для проведення досліджень."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей стіл виглядає так, ніби ним майже не користувалися."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стіл без кісток допомагає Флорану зосередитися."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Невдоволений. Такого столу у фортеці неможливо уявити."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "У мого дідуся був такий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Прекрасний баланс декоративного та практичного."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Дивний стіл."
+  }
+]

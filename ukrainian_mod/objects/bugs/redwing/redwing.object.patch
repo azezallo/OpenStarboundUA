@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Не плутати з сумнозвісним Дредкрилом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Червонокрилий"
+  }
+]

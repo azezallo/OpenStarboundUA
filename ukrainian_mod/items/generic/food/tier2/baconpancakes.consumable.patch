@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "млинець. Бекон. млинець. Бекон. млинець. Вершкове масло. Їсти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Млинці з беконом"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Затхле повітря видає трохи більше, ніж скрип від цього старого вентилятора."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зруйнований вентилятор"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Старий іржавий вентилятор. Ледве крутиться."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Свист повітря все ще прослизає."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Лопаті вентилятора перестали обертатися."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Похмурий. Колись це б постачало свіже повітря."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Леза поржавіли."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Зламаний і старий вентилятор більше не забезпечує циркуляцію повітря."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це все заіржавіло, ні до чого не годиться."
+  }
+]

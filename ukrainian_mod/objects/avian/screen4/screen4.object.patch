@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гліфи зловтішно пульсують... що вони означають?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Екран гліфів"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гліфи. Я не можу їх прочитати."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тільки ті, хто спостерігає за зірками, можуть по-справжньому їх прочитати. Я впізнаю символ жертви."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дурні картинки. Флоран не може впізнати."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Я не можу їх перекласти."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гліфи. Мій перекладач не може їх прочитати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стародавні символи. Мій перекладач не може їх розшифрувати."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці символи мені чужі. Немає сенсу намагатися їх інтерпретувати."
+  }
+]

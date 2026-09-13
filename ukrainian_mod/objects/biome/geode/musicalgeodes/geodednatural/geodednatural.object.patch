@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зелена жеода, що світиться."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Geode D (природний)"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Камінь, який дзвенить, коли я наближаюся до нього."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Сяючий камінь. Дзвонить"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Камінь світиться, шумить. Флоран слухай."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Ця геологічна формація випромінює звукові хвилі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дзвінкий камінь. Досить круто."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Сяючий камінь, що випромінює звук."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Велика зелена скеля, що дзвенить, як церковний дзвін. Добре, це голова."
+  }
+]

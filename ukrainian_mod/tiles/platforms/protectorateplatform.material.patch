@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Protectorate Platform"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Проста на вигляд платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Impressed. These platforms can easily support my weight."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Shiny metal platformsss."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Some fancy lookin' platforms made outta metal."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Віолієві руди. Можна використовувати для плавки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Руда віоліум"
+  }
+]

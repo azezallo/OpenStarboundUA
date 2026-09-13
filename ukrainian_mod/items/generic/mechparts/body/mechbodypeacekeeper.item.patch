@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Класичний корпус Меха, який історично використовувався агентами Миротворців Землі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peacekeeper Mech Body"
+  }
+]

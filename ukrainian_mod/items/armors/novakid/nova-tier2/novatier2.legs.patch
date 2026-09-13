@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Влаштуйте ідеальну втечу в цих бандитських хлопцях."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бандитські хлопці"
+  }
+]

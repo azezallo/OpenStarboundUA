@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маска, щоб приховати особу власника."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска маскування"
+  }
+]

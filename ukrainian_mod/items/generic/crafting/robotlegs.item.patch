@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ноги робота для мобільності!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ноги робота"
+  }
+]

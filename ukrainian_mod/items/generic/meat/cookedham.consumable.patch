@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кільце смаженої іноземної шинки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Варена шинка"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Знищи всі продукти!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "мікрохвильовка"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "мікрохвильовка"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Зручність приготування"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Прилад для швидкого приготування їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Трохи схоже на піч, але швидше."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Машина для розігріву закусок. Флоран використовував один раніше."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Незручно. Мікрохвилі можуть дещо пошкодити схему Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Одного разу я спекла салат у мікрохвильовці. Насправді це було не так уже й погано!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Спосіб приготування для тих, кому не важлива якість їх приготування."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Не знаю, що ця машина робить... Але пахне, ніби там щось померло."
+  }
+]

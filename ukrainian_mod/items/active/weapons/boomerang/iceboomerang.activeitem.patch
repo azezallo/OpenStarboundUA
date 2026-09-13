@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крижано-холодний бумеранг із замороженим ядром."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Заморожений бумеранг"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Заморожений бумеранг ^yellow;^reset;"
+  }
+]

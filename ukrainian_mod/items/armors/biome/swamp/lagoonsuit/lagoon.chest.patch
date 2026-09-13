@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей болотистий нагрудник вкритий лускою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лагуна Chestpiece"
+  }
+]

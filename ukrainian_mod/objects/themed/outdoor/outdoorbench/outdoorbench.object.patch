@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Лавка, ідеальна для виходу на вулицю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Відкрита лавка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Проста металева лавка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Лавка з трьома місцями. Виглядає холодно."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Річ, на якій можна посидіти."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Це просто лавка."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Проста лавка. Виглядає міцно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Місце відпочинку, коли втомлюються ноги."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я міг би хвилинку відпочити на цій лавці."
+  }
+]

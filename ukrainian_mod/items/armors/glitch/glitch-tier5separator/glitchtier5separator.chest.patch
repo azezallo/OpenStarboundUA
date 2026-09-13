@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ковані з віолі; міцний обладунок для захисту міцного серця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кираса Паладина"
+  }
+]

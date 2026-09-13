@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зручна сушарка для рук. Руки геть."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сушарка для рук у ванній"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Сушарка для рук. Цікаво, чи працює це на щільному волоссі Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це обов’язково скуйовдить пір’я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран сухі руки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Сушарка для рук - корисна для запобігання іржі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це трохи просто."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Hylotl не потрібно сушити руки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Пристрій для сушіння мокрих рук."
+  }
+]

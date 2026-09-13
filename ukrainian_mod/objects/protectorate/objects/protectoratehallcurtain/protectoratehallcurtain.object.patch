@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сценічна завіса від Академії Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Завіса сцени Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чудова завіса. Розкішний."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ого, ця завіса схожа на пухнасті хмари."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssoft штори. Флоран любить sssstroking."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Цей матеріал, м’яко кажучи, ексклюзивний."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці штори такі ніжні! Я міг спати прямо тут, притулившись до них."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пишна штора з найтоншого шовку."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці штори виглядають шикарно. Цікаво, з чого вони зроблені."
+  }
+]

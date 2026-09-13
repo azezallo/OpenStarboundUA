@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Декоративні пір'я для прикраси вашого крупу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Племінні пір'я"
+  }
+]

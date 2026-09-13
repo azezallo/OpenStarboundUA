@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Іржава військова гвинтівка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "NPC Deadbeat Assault Rifle"
+  }
+]

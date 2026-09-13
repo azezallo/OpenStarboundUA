@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дивна суміш клітинок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Будова клітини"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дивний дисплей."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дисплей. Це нагадує мені кристали сили."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssособливо виглядають речіss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Аналіз. Ця клітинна структура виглядає як модифікований Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Reminds me of physics class. Або це була біологія?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Коли наука зустрічається з мистецтвом."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гігантські клітини? Хто це тут залишив?"
+  }
+]

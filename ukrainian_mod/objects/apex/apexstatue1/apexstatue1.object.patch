@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це бюст Великої Мавпи, Славетного Лідера Вершини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бюст великої мавпи"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Велика мавпа... Його зображення всюди, але я ніколи його не бачив."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дешевий кам'яний бюст. Виглядає машинним виробництвом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дурне кам'яне обличчя."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Ображений. Мої датчики підказують наявність пристрою всередині."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Велика мавпа. Цікаво, чи це масштабно?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Сама Мавпа, якщо це справді він."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Він, мабуть, уявляв себе цією Великою мавпою."
+  }
+]

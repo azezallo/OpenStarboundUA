@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Окуляри, незабаром використовуватимуться в косплеї в стилі стімпанк."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пілотські окуляри"
+  }
+]

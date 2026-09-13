@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "гриб. Фермер, який садить їх, веселий хлопець."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння гриба"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гриб."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Крихітна поганка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран hatsss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Полегшено. Здається, що цей грибок не є їдким для Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "гриб. Ідеально підходить для омлету або кишу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Маленький їстівний гриб."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Маленький гриб."
+  }
+]

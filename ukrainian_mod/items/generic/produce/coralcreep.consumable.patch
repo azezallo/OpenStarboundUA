@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Плід коралкрипа стає червоним при варінні, як омар."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Коралкріп"
+  }
+]

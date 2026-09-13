@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Валовий. Немає жодного способу, щоб це все ще було їстівним."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гнила їжа"
+  }
+]

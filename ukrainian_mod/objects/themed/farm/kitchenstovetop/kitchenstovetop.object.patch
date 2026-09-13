@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцна кухонна шафа з плитою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кухонна плита"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Кухонна плита"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Затишна, домашня кухня"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця варильна поверхня не зовсім стандартна, але мені подобається."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Скромна, але добре зроблена плита."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Плита для маленького будинку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Добре впорядкована зона приготування їжі для кухні в сільському стилі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чудова маленька плита для затишного будинку."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей чайник співає втішну ноту, запрошуючи мене додому."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарний асортимент для затишного дому."
+  }
+]

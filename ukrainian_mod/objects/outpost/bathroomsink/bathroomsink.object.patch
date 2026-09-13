@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Раковина для ванної кімнати. Мийте руки!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Раковина для ванної кімнати"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Базова раковина."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Раковина."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Бризкий ссссінк."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Раковина."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Раковина. Може, мені варто помити руки..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Занадто малий, щоб у ньому плавати."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Звичайна стара раковина."
+  }
+]

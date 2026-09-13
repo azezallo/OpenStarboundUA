@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Chiropterror"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Його внутрішній азотний реактор постійно перевантажується, через що він тягне за собою вибухові болти."
+  }
+]

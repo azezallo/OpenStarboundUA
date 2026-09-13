@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnAccept/caption",
+    "value": "Прийняти"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnDecline/caption",
+    "value": "Відм."
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblRewards/value",
+    "value": "ПРИЗ:"
+  }
+]

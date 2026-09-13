@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це повчально! Маска людської, м'язової анатомії."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска анатомії людини"
+  }
+]

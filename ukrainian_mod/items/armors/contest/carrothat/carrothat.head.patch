@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Постійно в полі зору, постійно поза досяжністю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мотиватор"
+  }
+]

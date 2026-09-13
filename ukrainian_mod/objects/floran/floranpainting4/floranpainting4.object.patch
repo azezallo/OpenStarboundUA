@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Здається, це картина із зображенням падаючого листя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивний листяний живопис"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Картина листя."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це символ чи картина?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран робить зображення листя. Ліф майже такий самий, як Флоран."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гордий. Предметом цієї картини, очевидно, є лист."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Флоранська картина листя. Має сенс, я думаю."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Флорани прагнуть творити мистецтво?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Малюнок листя, підхопленого вітром."
+  }
+]

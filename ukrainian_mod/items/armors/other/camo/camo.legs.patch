@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Наколінники на цих брюках неймовірно товсті."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Камуфляжні штани"
+  }
+]

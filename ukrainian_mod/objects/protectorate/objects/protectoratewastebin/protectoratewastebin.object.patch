@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Просте відро для сміття для учнів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Земного Захисту Смітник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я спустошив це тільки вчора! Сьогодні на черзі хтось інший."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хтось знову викинув їжу в смітник? Смердить."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Бак повний сміття."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Невдоволений. Хто продовжує викидати речі у смітник, коли він явно повний?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Хтось повинен спорожнити цей смітник... Я зроблю це пізніше!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Переповнений смітник. Живу зі свинями."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей кошик потрібно спорожнити."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розбитий кам'яний стовп."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розбитий кам'яний стовп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Зламаний стовп."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Зламаний стовп."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Розбитий ssstone."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Цей стовп пошкоджено."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей стовп справді цікавий."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Залишки високого кам'яного стовпа."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Зламаний стовп."
+  }
+]

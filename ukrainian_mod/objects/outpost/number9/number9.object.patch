@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маркер дев'ять."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дев'ять"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дев'ять."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дев'ять."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Номер дев'ять."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Дев'ять."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Дев'ять."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дев'ять."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Дев'ятка."
+  }
+]

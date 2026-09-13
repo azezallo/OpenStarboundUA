@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/titleLabel/value",
+    "value": "ЗАПРОШЕННЯ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/inviteLabel/value",
+    "value": "Хочете приєднатися до їхньої групи?"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/inviterName/text",
+    "value": "Червоний Лідер"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/ok/caption",
+    "value": "Прийняти"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/close/caption",
+    "value": "Відм."
+  }
+]

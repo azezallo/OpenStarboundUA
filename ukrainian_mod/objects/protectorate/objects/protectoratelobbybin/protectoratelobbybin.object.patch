@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кошик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Земного Захисту Бін"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Відро для сміття."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кошик."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Біда!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Просто стандартний бак."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кошик. Захоплююче! ні"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Навколо цього баку розкидане сміття."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це урна."
+  }
+]

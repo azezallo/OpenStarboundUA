@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ще одна жертва цього липкого принта в горошок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стандартна кушетка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ще один потворний предмет меблів, нав’язаний невинним."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це крісло покриває огидний шматок тканини."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пахне старим."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Приголомшений. Багато принципів дизайну проігноровано."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це крісло висмоктує життя з кімнати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дуже непривабливий предмет меблів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я думаю, це для того, щоб сидіти, а не для того, щоб на нього дивитися."
+  }
+]

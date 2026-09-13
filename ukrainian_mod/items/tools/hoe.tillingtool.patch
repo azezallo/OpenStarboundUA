@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця мотика дозволяє обробляти ґрунт. Потім оброблений ґрунт можна використовувати для вирощування всіх видів культур!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Hoe^white;"
+  }
+]

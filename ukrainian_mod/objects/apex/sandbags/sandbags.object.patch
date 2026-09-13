@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Купа мішків з піском."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мішки з піском"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ці мішки з піском прості та ефективні."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якісь важкі мішки, ймовірно, наповнені піском."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Великі сумки ssandy виглядають важко."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Пісок усередині формує ці великі мішки у вражаючий бар’єр."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Кілька великих мішків з піском, вони роблять гарну барикаду."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Купа мішків з піском. Пісок... Такий універсальний матеріал."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці старі мішки з піском навалені."
+  }
+]

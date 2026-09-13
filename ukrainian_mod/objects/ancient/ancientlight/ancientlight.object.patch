@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Настінний світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Старовинний настінний світильник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Що забезпечувало це світло протягом багатьох років?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я б очікував, що такий великий настінний світильник випромінює більше світла."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Велике потворне старе світло."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безкорисливий. Великий і непривабливий світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Імовірно, це світло горить тисячоліттями."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У цьому світлі немає нічого примітного."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це світло випромінює тепле сяйво."
+  }
+]

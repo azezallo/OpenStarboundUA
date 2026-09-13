@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Лавка з дерева та кістки. Здається... запрошує?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивна лавка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, що дрібні кістки скріплюють деревину разом."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ліс схожий на те, що я коли-небудь бачив. Виглядає так, наче воно ще живе."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран робить будь-що з дерева та кістки. Флоран мастер живого дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "скептично. У конструкції цієї лавки є логіка, яка, як можна було б припустити, виходить за межі Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Деревина міцна. Наче й досі росте."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я відчуваю життя в цій лавці."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця лавка здається таким же хорошим місцем, як і будь-яке інше, щоб припаркувати свій кайстер."
+  }
+]

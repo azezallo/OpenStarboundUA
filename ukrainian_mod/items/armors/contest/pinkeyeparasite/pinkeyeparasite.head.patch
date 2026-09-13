@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей надокучливий паразит викликає у вас рожеві очі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рожевоокий паразит"
+  }
+]

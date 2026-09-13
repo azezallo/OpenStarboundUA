@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Легкий метал",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Легка металева плита, що чудово підходить для лабораторій.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Схвалення. Такі плитки легко стерилізувати.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Гладкі металевіссс плитки.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, ці плитки зроблені з металу.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

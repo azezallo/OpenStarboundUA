@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Якісь стильні шпалери, ідеальний завершальний штрих."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичні шпалери"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Збентежений. Глюки ніколи не розуміли поняття клеєних шпалер."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Дивний папір покриває стіни."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Шпалери. Ідеально підходить для класифікації місця."
+  }
+]

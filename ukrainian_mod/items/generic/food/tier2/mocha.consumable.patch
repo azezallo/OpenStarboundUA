@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "М'яка суміш кави та гарячого шоколаду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мочачіно"
+  }
+]

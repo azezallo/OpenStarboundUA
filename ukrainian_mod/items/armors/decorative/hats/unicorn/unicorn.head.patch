@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Воно приходить з нового часу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Голова єдинорога"
+  }
+]

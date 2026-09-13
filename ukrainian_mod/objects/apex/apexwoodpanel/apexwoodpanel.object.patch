@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це просто стінова панель."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стандартна панель для стін"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дерев'яна панель. Вони з’являються у багатьох корпусах Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Що це приховує?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Безглузда прикраса."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Не вражений. Безглузда дерев'яна панель."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Б’юся об заклад, за одним із них можна сховати мікрофон."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це чисто декоративно чи з якоюсь метою?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця деревина тендітна, як чоботи з магазину за копійки."
+  }
+]

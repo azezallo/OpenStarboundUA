@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Прозорий шолом з матового скла. Непрактично, але стильно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Призматичний шолом"
+  }
+]

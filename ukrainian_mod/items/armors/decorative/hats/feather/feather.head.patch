@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пов'язка на голову з великими штучними пір'ям зверху."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пов'язка з пір'я"
+  }
+]

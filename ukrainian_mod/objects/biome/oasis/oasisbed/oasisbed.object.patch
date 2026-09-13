@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шезлонг із парасолькою ідеально підходить для сонячної погоди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шезлонг"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ах, місце, щоб подрімати на сонці. Це може бути добре."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Схоже, гарне місце, щоб подрімати."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Навіщо блокувати ssun великою квіткою? Дурний."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Я міг би відпочити тут у дощовий день, не боячись заіржавіти."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ох, я хотів би тут відпочити з книгою та холодним напоєм."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чудове місце, щоб відпочити та почитати книгу під сонячними променями - абсолютно спокійно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це тут, якщо ви захочете подрімати надворі під дощем? Я не розумію."
+  }
+]

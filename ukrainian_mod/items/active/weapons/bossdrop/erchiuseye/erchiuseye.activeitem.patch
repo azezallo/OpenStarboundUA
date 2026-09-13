@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Око жаху Ерхіуса! Зосередьтеся на своїх ворогах."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Око Ерхіуса"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Erchius Eye ^yellow;^reset;"
+  }
+]

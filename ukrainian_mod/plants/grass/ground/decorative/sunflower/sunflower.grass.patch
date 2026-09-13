@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Прекрасний соняшник.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Прекрасний соняшник",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Сссимпатичний соняшшшник.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Симпатичний соняшник.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Платформа з міді."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мідна платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "зацікавлений. Схоже, ця платформа зроблена з міді."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Платформи з міді."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Я вважаю, мабуть, було важко робити цю платформу з міді."
+  }
+]

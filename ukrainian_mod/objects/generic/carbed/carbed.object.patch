@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ліжко у формі автомобіля для молодих душею."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліжко автомобіля"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Зручне ліжко, схоже на старовинний земний транспортний засіб."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ліжко, створене таким чином, щоб виглядати як якийсь людський транспортний засіб."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не впевнений, що це... Ліжко чи машина?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Це ліжко виглядає механічним дизайном, але аналіз показує, що воно виготовлене з дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ліжко у формі машини! Я хотів одну з них з дитинства."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дитяче, декоративне ліжко. Він барвисто пофарбований."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це ліжко має блискучу фарбу. Не працюють фари та гудок."
+  }
+]

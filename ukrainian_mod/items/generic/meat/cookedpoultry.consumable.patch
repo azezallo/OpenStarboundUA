@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеально запечена птиця. Яке гарне видовище."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Варена птиця"
+  }
+]

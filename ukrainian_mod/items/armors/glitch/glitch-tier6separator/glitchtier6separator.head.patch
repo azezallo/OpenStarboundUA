@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Рогатий демонічний шолом, пророчий загибелі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Doom Lord's Helm"
+  }
+]

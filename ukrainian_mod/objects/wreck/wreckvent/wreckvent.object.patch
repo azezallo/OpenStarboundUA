@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Затхле повітря свистить через цей старий вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зруйнований вентиляційний отвір"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Запорошений старий вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Старий іржавий вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Crusssty старий вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безкорисливий. Вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Старий вентиляційний отвір. Воно все поіржавіло."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Затхлий старий вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей старий отвір бачив кращі дні."
+  }
+]

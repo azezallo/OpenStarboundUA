@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "На щастя, я звик до цих холодів!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "There must be something you need on this planet, otherwise you wouldn't come here!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "Якщо ви не готові, ця погода вас заморозить!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "value": "Якщо ви любите сніг, ви в правильному місці."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "value": "Тут досить холодно, га? Я сам не проти."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/5",
+    "value": "На вулиці досить холодно, але іноді стає ще холодніше!"
+  }
+]

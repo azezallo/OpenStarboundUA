@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Silkpig"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Їх дивна, шовковиста текстура та верескливі шлюбні крики роблять їх дуже затребуваними як домашніх тварин."
+  }
+]

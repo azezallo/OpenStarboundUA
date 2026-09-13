@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Клинок, викуваний з твердої дюрастелі. Небагато металів є міцнішими."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Палаш Durasteel"
+  }
+]

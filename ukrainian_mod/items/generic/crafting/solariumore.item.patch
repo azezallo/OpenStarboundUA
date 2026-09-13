@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це солярій. Він теплий на дотик."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Солярій Руда"
+  }
+]

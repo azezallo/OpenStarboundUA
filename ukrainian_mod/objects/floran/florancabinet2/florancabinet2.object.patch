@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кабінет, прикрашений величезними гострими іклами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Малий примітивний кабінет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Що знаходиться всередині шафи Floran? Я боюся дізнатися."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це або великі зуби, або гострі кістки на цій шафі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран прикрашає меблі іклами. Чим гостріше, тим краще."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Наляканий. Ікла на цій шафі гострі як бритва."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця шафа має ікла."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ікла якогось бідного створіння прикрашають цю шафу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Floran точно любить загострені меблі."
+  }
+]

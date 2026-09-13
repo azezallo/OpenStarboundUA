@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Добре підходить для проведення невеликих обідів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Привабливий дерев'яний стіл. Звичайний Apex не міг би собі цього дозволити за все життя."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хороший вибір дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чудова майстерність. Apex має досвід роботи з деревом."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Добре зроблено, з вишуканим вибором матеріалів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Такий стіл, на який не варто ставити лікті."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Гарна робота, хоч і бракує скромності."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей стіл має ідеальну висоту, щоб відкинутися назад і відпочити ногам."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця важка залізна порткулія відкривається вгору."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Порткуліс"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, ці залізні двері відкриваються вгору."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Такі двері часто використовуються, щоб відлякати тих, хто їх осквернить."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Двері важкі, гострі металеві шипи роблять двері."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Самовдоволений. Глюки створюють свої порткуллі в набагато більших масштабах."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я б не хотів застрягти під цим, коли він закривається."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Тверде залізо. Функція над формою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це досить міцні на вигляд залізні прути."
+  }
+]

@@ -1,0 +1,1767 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "value": "Нехай світло Клуекса веде тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/0",
+    "value": "Нехай світло Клуекса направляє тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/0",
+    "value": "Мені було так шкода чути про твій світ, людино. Я молитимуся Клуексу, щоб він дав тобі сили."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/1",
+    "value": "Думаю, знищення Землі було волею Клуекса..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/2",
+    "value": "Хіба у людей не багато богів?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/3",
+    "value": "Я впевнений, що людина могла б навернутися до віри в Клуекса, якби захотіла. Тобі варто поговорити зі Звіздарем."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/4",
+    "value": "На жаль, Клуекс не вітає тих, хто без пір'я."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/5",
+    "value": "Чи були на Землі храми Клуекса?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/6",
+    "value": "Не впевнений, як би Клуекс поставився до Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/7",
+    "value": "Два сезони тому ми принесли в жертву Клуексу кількох людей."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/8",
+    "value": "Зовсім без пір'я? Нехай Клуекс змилується над тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/9",
+    "value": "Ти здаєшся сильним для людини; Клуекс цінує сильних."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/10",
+    "value": "Чи могла б людина Вознестися?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/11",
+    "value": "Підозрюю, що людські воїни не зовсім зрівняються з воїнами Авіанів. Але ж на нашому боці Клуекс."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/12",
+    "value": "Доброго дня, безперий."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/13",
+    "value": "Не бійся Звіздарів, людино; вони можуть бути суворими, але вони дбають про наші найкращі інтереси."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/14",
+    "value": "Чи зустрічав ти когось із Приземлених, людино? Бідні загублені душі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/15",
+    "value": "Нехай Клуекс буде з тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/16",
+    "value": "Дружній незнайомець! Дякувати Клуексу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/17",
+    "value": "Нехай Клуекс благословить тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/18",
+    "value": "Привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/19",
+    "value": "Ласкаво просимо до нашого села."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/20",
+    "value": "Ти вже зустрічав Звіздаря?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/21",
+    "value": "Бажаю тобі благословенного дня."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/22",
+    "value": "Радий зустрічі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/23",
+    "value": "Нехай твоє життя буде сповнене світла."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/24",
+    "value": "Благословляю тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/25",
+    "value": "Нехай ти Вознесешся."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/26",
+    "value": "Привіт тобі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/27",
+    "value": "Як справи?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/28",
+    "value": "Ласкаво просимо, відвідувачу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/29",
+    "value": "Нехай Клуекс веде тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/30",
+    "value": "Нехай ти знайдеш світло Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/31",
+    "value": "Священними землями Авоса, приємно з тобою познайомитися!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/32",
+    "value": "Не хвилюйся, зараз не час для жертвопринесень."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/33",
+    "value": "Крилами Клуекса! Відвідувач!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/34",
+    "value": "Нехай Клуекс візьме тебе під своє крило."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/35",
+    "value": "Нехай Клуекс зробить тебе сильним."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/36",
+    "value": "Нехай Клуекс направляє твою руку в бою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/37",
+    "value": "Нехай могутній Клуекс захистить тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/38",
+    "value": "Приємно познайомитися, мандрівнику."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/39",
+    "value": "Нехай Клуекс направляє твої подорожі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/40",
+    "value": "Нехай Клуекс принесе тобі силу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/41",
+    "value": "Нехай ти Вознесешся поруч із Клуексом."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/42",
+    "value": "Нехай ти ходиш у світлі Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/43",
+    "value": "Привіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/44",
+    "value": "Радий зустрічі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/45",
+    "value": "Приємно познайомитися!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/46",
+    "value": "Привіт, мандрівнику."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/47",
+    "value": "Сподіваюся, у тебе гарний день!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/48",
+    "value": "О, привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/49",
+    "value": "Доброго дня."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/0",
+    "value": "О... Ем, тож, ти віриш у Клуекса?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/1",
+    "value": "Можливо, тобі варто поговорити зі Звіздарем, він може допомогти тобі стати на правильний шлях."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/2",
+    "value": "Сподіваюся, ти все ще знаходиш час для своєї віри серед усіх своїх пригод."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/3",
+    "value": "Ти ж поклоняєшся Клуексу, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/4",
+    "value": "Тобі ж не запаморочила голову пропаганда Приземлених, правда?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/5",
+    "value": "Чому б не піднятися на Небесну вежу і не відчути вітер у своєму пір'ї?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/6",
+    "value": "Ти приєднався до Земного Захисту? Наскільки це сприяє поклонінню Клуексу?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/7",
+    "value": "Скільки часу пройшло відтоді, як ти був свідком священного жертвопринесення?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/8",
+    "value": "Чи користуєшся ти нагодою поширювати світло Клуекса під час своїх подорожей?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/9",
+    "value": "Ти виглядаєш сильним! Можливо, одного дня ти станеш Вознесеним!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/10",
+    "value": "Ти якийсь воїн? Молодець!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/11",
+    "value": "Я хвилююся за Приземлених."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/12",
+    "value": "Чи носиш ти з собою копію Авоскрипту?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/13",
+    "value": "Я сподіваюся стати Вознесеним наступного циклу! Але я сподіваюся на це кожного циклу..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/14",
+    "value": "Ти здаєшся сильним воїном, твоя родина, мабуть, пишається."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/15",
+    "value": "Нехай Клуекс буде з тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/16",
+    "value": "Дружній незнайомець! Дякувати Клуексу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/17",
+    "value": "Нехай Клуекс благословить тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/18",
+    "value": "Привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/19",
+    "value": "Ласкаво просимо до нашого села."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/20",
+    "value": "Ти вже зустрічав Звіздаря?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/21",
+    "value": "Бажаю тобі благословенного дня."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/22",
+    "value": "Радий зустрічі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/23",
+    "value": "Нехай твоє життя буде сповнене світла."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/24",
+    "value": "Благословляю тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/25",
+    "value": "Нехай ти Вознесешся."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/26",
+    "value": "Привіт тобі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/27",
+    "value": "Як справи?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/28",
+    "value": "Ласкаво просимо, відвідувачу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/29",
+    "value": "Нехай Клуекс веде тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/30",
+    "value": "Нехай ти знайдеш світло Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/31",
+    "value": "Священними землями Авоса, приємно з тобою познайомитися!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/32",
+    "value": "Не хвилюйся, зараз не час для жертвопринесень."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/33",
+    "value": "Крилами Клуекса! Відвідувач!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/34",
+    "value": "Нехай Клуекс візьме тебе під своє крило."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/35",
+    "value": "Нехай Клуекс зробить тебе сильним."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/36",
+    "value": "Нехай Клуекс направляє твою руку в бою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/37",
+    "value": "Нехай могутній Клуекс захистить тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/38",
+    "value": "Приємно познайомитися, мандрівнику."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/39",
+    "value": "Нехай Клуекс направляє твої подорожі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/40",
+    "value": "Нехай Клуекс принесе тобі силу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/41",
+    "value": "Нехай ти Вознесешся поруч із Клуексом."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/42",
+    "value": "Нехай ти ходиш у світлі Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/43",
+    "value": "Привіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/44",
+    "value": "Радий зустрічі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/45",
+    "value": "Приємно познайомитися!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/46",
+    "value": "Привіт, мандрівнику."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/47",
+    "value": "Сподіваюся, у тебе гарний день!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/48",
+    "value": "О, привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/49",
+    "value": "Доброго дня."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/0",
+    "value": "Ти поклоняєшся Клуексу, листяний?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/1",
+    "value": "Я не можу не поважати силу флоранів."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/2",
+    "value": "Я б із задоволенням якось пополював з тобою. Думаю, Клуекс схвалив би це заняття."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/3",
+    "value": "Флорани — створіння землі, а ми, авіани, — повітря."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/4",
+    "value": "Гадаю, Приземлені говорять про нас погано. Що ж, я з радістю скажу про них те ж саме!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/5",
+    "value": "Клуекс — бог битв, але також життя, смерті, пір року та врожаю. Він — Всевишній Бог."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/6",
+    "value": "Я не впевнений, чи ми коли-небудь приносили тут в жертву флоранів. Ваша раса взагалі кровоточить?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/7",
+    "value": "Хай Клуекс благословить твоє полювання."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/8",
+    "value": "Я не боюся тебе, флоране, адже Клуекс на моєму боці."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/9",
+    "value": "Якби ти стрибнув із Небесної вежі, ти б просто злетів униз, як листок?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/10",
+    "value": "Якби Клуекс міг прийняти будь-яку іншу расу, окрім нашої, підозрюю, це були б флорани. Але він не може."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/11",
+    "value": "Доброго дня тобі, флоране. Хай Клуекс спрямовує твоє лезо."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/12",
+    "value": "Благословляю тебе, красунчику."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/13",
+    "value": "Зеленопалі схожі на Звіздарів?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/14",
+    "value": "Листя гарне, але я віддаю перевагу пір'ю, яке дав мені Клуекс."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/15",
+    "value": "Хай Клуекс буде з тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/16",
+    "value": "Дружній незнайомець! Дяка Клуексу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/17",
+    "value": "Хай Клуекс благословить тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/18",
+    "value": "Вітаю."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/19",
+    "value": "Ласкаво просимо до нашого села."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/20",
+    "value": "Ти вже зустрічав Звіздаря?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/21",
+    "value": "Бажаю тобі благословенного дня."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/22",
+    "value": "Радий зустрічі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/23",
+    "value": "Хай твоє життя буде сповнене світлом."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/24",
+    "value": "Благословляю тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/25",
+    "value": "Хай ти Зійдеш."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/26",
+    "value": "Привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/27",
+    "value": "Як справи?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/28",
+    "value": "Вітаємо, гостю."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/29",
+    "value": "Хай Клуекс веде тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/30",
+    "value": "Хай знайдеш ти світло Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/31",
+    "value": "Клянуся священними землями Авосу, радий зустрічі!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/32",
+    "value": "Не хвилюйся, зараз не час для жертвопринесень."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/33",
+    "value": "Клянуся крилами Клуекса! Гість!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/34",
+    "value": "Хай Клуекс візьме тебе під своє крило."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/35",
+    "value": "Хай Клуекс зробить тебе сильним."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/36",
+    "value": "Хай Клуекс спрямовує твою руку в бою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/37",
+    "value": "Хай могутній Клуекс захищає тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/38",
+    "value": "Приємно познайомитися, мандрівнику."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/39",
+    "value": "Хай Клуекс веде тебе у мандрах."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/40",
+    "value": "Хай Клуекс принесе тобі силу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/41",
+    "value": "Хай ти Зійдеш до Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/42",
+    "value": "Хай ти йдеш у світлі Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/43",
+    "value": "Привіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/44",
+    "value": "Приємно познайомитися."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/45",
+    "value": "Радий нашому знайомству!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/46",
+    "value": "Вітаю, мандрівнику."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/47",
+    "value": "Сподіваюся, у тебе гарний день!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/48",
+    "value": "О, привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran/49",
+    "value": "Доброго дня."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/0",
+    "value": "Я чув жахливі речі про Міннаук, хай Клуекс покарає їх."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/1",
+    "value": "Ти поклоняєшся Клуексу, пухнастику?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/2",
+    "value": "Апекси — сильні бійці, це викликає повагу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/3",
+    "value": "Не думаю, що наш бог такий же тиранічний, як ваш лідер. Великий Мавп звучить жахливо!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/4",
+    "value": "Вам варто просто поважати Великого Мавпа; він сильний, і він ваш лідер. Він як Клуекс."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/5",
+    "value": "Привіт, мавполюдино! Ти вже піднімався на Небесну вежу?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/6",
+    "value": "Знаєш, банани створив Клуекс."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/7",
+    "value": "Хіба немає повстанців апексів, що борються з Міннауком? Чому ти не стаєш до бою?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/8",
+    "value": "Ніколи нікому не кажи, але іноді я думаю, що, можливо, Клуекс не такий уже й великий."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/9",
+    "value": "Я люблю Клуекса, мавполюдино!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/10",
+    "value": "Ти коли-небудь читав Авоскрипт? Думаю, це було б повчально навіть для апекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/11",
+    "value": "Апекси безбожні?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/12",
+    "value": "Думаю, наука — це релігія апексів."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/13",
+    "value": "Якщо тобі цікаво дізнатися про Клуекса, знайди Звіздаря, вони наші лідери."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/14",
+    "value": "Апекси коли-небудь приносять своїх людей в жертву?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/15",
+    "value": "Гадаю, Приземлені говорять про нас погано. Що ж, я з радістю скажу про них те ж саме!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/16",
+    "value": "Хай Клуекс буде з тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/17",
+    "value": "Дружній незнайомець! Дяка Клуексу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/18",
+    "value": "Хай Клуекс благословить тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/19",
+    "value": "Вітаю."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/20",
+    "value": "Ласкаво просимо до нашого села."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/21",
+    "value": "Ти вже зустрічав Звіздаря?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/22",
+    "value": "Бажаю тобі благословенного дня."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/23",
+    "value": "Радий зустрічі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/24",
+    "value": "Хай твоє життя буде сповнене світлом."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/25",
+    "value": "Благословляю тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/26",
+    "value": "Хай ти Зійдеш."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/27",
+    "value": "Привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/28",
+    "value": "Як справи?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/29",
+    "value": "Вітаємо, гостю."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/30",
+    "value": "Хай Клуекс веде тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/31",
+    "value": "Хай знайдеш ти світло Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/32",
+    "value": "Клянуся священними землями Авосу, радий зустрічі!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/33",
+    "value": "Не хвилюйся, зараз не час для жертвопринесень."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/34",
+    "value": "Клянуся крилами Клуекса! Гість!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/35",
+    "value": "Хай Клуекс візьме тебе під своє крило."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/36",
+    "value": "Хай Клуекс зробить тебе сильним."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/37",
+    "value": "Хай Клуекс спрямовує твою руку в бою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/38",
+    "value": "Хай могутній Клуекс захищає тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/39",
+    "value": "Приємно познайомитися, мандрівнику."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/40",
+    "value": "Хай Клуекс веде тебе у мандрах."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/41",
+    "value": "Хай Клуекс принесе тобі силу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/42",
+    "value": "Хай ти Зійдеш до Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/43",
+    "value": "Хай ти йдеш у світлі Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/44",
+    "value": "Привіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/45",
+    "value": "Приємно познайомитися."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/46",
+    "value": "Радий нашому знайомству!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/47",
+    "value": "Вітаю, мандрівнику."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/48",
+    "value": "Сподіваюся, у тебе гарний день!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/49",
+    "value": "О, привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex/50",
+    "value": "Доброго дня."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/0",
+    "value": "Звіздарі проповідують, що авіани — найвища раса, але ти не здаєшся таким уже й низьким."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/1",
+    "value": "Хайлотли можуть не схвалювати битви, але кожна битва, яку ведуть авіани, присвячена Клуексу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/2",
+    "value": "Ти поклоняєшся Клуексу, водяний?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/3",
+    "value": "Не думаю, що Клуекс схвалив би пацифізм вашої раси."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/4",
+    "value": "Хайлотли — створіння води, а ми, авіани, — повітря."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/5",
+    "value": "Ваш народ описують як духовний, і все ж у вас немає богів... Це мене бентежить."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/6",
+    "value": "Тобі варто прочитать Авоскрипт!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/7",
+    "value": "Не думаю, що будівлі хайлотлів можуть зрівнятися з нашими храмами та Небесними вежами."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/8",
+    "value": "Доброго дня тобі, безперий."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/9",
+    "value": "Я прочитав лише одну книгу: Авоскрипт. Але я читав її БАГАТО разів."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/10",
+    "value": "Благословляю тебе, хай ти знайдеш силу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/11",
+    "value": "Ти вже наважився піднятися на Небесну вежу?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/12",
+    "value": "Цей 'пацифізм' — цікава концепція."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/13",
+    "value": "Гадаю, хайлотли не дуже полюбляють жертвопринесення..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/14",
+    "value": "Ти знаєш, скільки віршів в Авоскрипті? Тому що їх дуже багато."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/15",
+    "value": "Хай Клуекс буде з тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/16",
+    "value": "Дружній незнайомець! Дяка Клуексу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/17",
+    "value": "Хай Клуекс благословить тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/18",
+    "value": "Вітаю."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/19",
+    "value": "Ласкаво просимо до нашого села."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/20",
+    "value": "Ти вже зустрічав Звіздаря?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/21",
+    "value": "Бажаю тобі благословенного дня."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/22",
+    "value": "Радий зустрічі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/23",
+    "value": "Хай твоє життя буде сповнене світлом."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/24",
+    "value": "Благословляю тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/25",
+    "value": "Хай ти Зійдеш."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/26",
+    "value": "Привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/27",
+    "value": "Як справи?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/28",
+    "value": "Вітаємо, гостю."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/29",
+    "value": "Хай Клуекс веде тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/30",
+    "value": "Хай знайдеш ти світло Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/31",
+    "value": "Клянуся священними землями Авосу, радий зустрічі!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/32",
+    "value": "Не хвилюйся, зараз не час для жертвопринесень."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/33",
+    "value": "Клянуся крилами Клуекса! Гість!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/34",
+    "value": "Хай Клуекс візьме тебе під своє крило."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/35",
+    "value": "Хай Клуекс зробить тебе сильним."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/36",
+    "value": "Хай Клуекс спрямовує твою руку в бою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/37",
+    "value": "Хай могутній Клуекс захищає тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/38",
+    "value": "Приємно познайомитися, мандрівнику."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/39",
+    "value": "Хай Клуекс веде тебе у мандрах."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/40",
+    "value": "Хай Клуекс принесе тобі силу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/41",
+    "value": "Хай ти Зійдеш до Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/42",
+    "value": "Хай ти йдеш у світлі Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/43",
+    "value": "Привіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/44",
+    "value": "Приємно познайомитися."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/45",
+    "value": "Радий нашому знайомству!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/46",
+    "value": "Вітаю, мандрівнику."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/47",
+    "value": "Сподіваюся, у тебе гарний день!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/48",
+    "value": "О, привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl/49",
+    "value": "Добрий день."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/0",
+    "value": "О, гм, привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/1",
+    "value": "У тебе є душа?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/2",
+    "value": "З тебе не вийшло б гарної жертви, ми б тільки заляпали весь вівтар мастилом."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/3",
+    "value": "Ти поклоняєшся Клуексу, металевий?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/4",
+    "value": "Чи є у Ґлітчів якісь боги?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/5",
+    "value": "Чи міг би Ґлітч прийняти віру в Клуекса? Треба спитати Звіздаря."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/6",
+    "value": "Якби Ґлітч стрибнув з Небесної вежі, він би просто впав."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/7",
+    "value": "Ти сильний! Підозрюю, ти хороший воїн."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/8",
+    "value": "Ти вже зустрічав Звіздаря? Не впевнений, що вони б про тебе подумали."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/9",
+    "value": "Можливо, якби ти поклонявся Клуексу, він би дав тобі душу?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/10",
+    "value": "Авоскрипт не згадує роботів..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/11",
+    "value": "Мені трохи не по собі від тебе - той, хто тебе винайшов, намагався грати в бога."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/12",
+    "value": "Цікаво, чи зміг би ти навернутися до віри в Клуекса?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/13",
+    "value": "Ти, напевно, міг би зробити собі металеві крила..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/14",
+    "value": "Хай Клуекс освітить твій шлях, металевий."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/15",
+    "value": "Хай Клуекс буде з тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/16",
+    "value": "Дружній незнайомець! Хвала Клуексу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/17",
+    "value": "Хай Клуекс благословить тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/18",
+    "value": "Привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/19",
+    "value": "Ласкаво просимо до нашого села."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/20",
+    "value": "Ти вже зустрічав Звіздаря?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/21",
+    "value": "Бажаю тобі благословенного дня."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/22",
+    "value": "Радий зустрічі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/23",
+    "value": "Нехай твоє життя буде сповнене світлом."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/24",
+    "value": "Благословляю."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/25",
+    "value": "Нехай ти Вознесешся."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/26",
+    "value": "Привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/27",
+    "value": "Як справи?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/28",
+    "value": "Ласкаво просимо, гостю."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/29",
+    "value": "Хай Клуекс веде тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/30",
+    "value": "Нехай ти знайдеш світло Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/31",
+    "value": "Клянуся священними землями Авоса, радий зустрічі!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/32",
+    "value": "Не хвилюйся, зараз не час для жертвопринесень."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/33",
+    "value": "Крила Клуекса! Гість!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/34",
+    "value": "Хай Клуекс візьме тебе під своє крило."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/35",
+    "value": "Хай Клуекс зробить тебе сильним."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/36",
+    "value": "Хай Клуекс керує твоєю рукою в бою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/37",
+    "value": "Хай могутній Клуекс захищає тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/38",
+    "value": "Радий зустрічі, мандрівнику"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/39",
+    "value": "Хай Клуекс направляє тебе в подорожах."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/40",
+    "value": "Хай Клуекс дарує тобі силу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/41",
+    "value": "Нехай ти Вознесешся до Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/42",
+    "value": "Нехай ти ходиш у світлі Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/43",
+    "value": "Привіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/44",
+    "value": "Радий зустрічі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/45",
+    "value": "Приємно познайомитися!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/46",
+    "value": "Привіт, мандрівнику."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/47",
+    "value": "Сподіваюся, у тебе гарний день!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/48",
+    "value": "О, привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch/49",
+    "value": "Добрий день."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/0",
+    "value": "Небесне створіння?!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/1",
+    "value": "Світло Клуекса!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/2",
+    "value": "Це Клуекс тебе послав?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/3",
+    "value": "Ти сяєш, як Аволіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/4",
+    "value": "Ти, мабуть, творіння Клуекса!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/5",
+    "value": "Звіздарі повинні почути про тебе!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/6",
+    "value": "Ти такий прекрасний!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/7",
+    "value": "Воїн, викуваний зі світла, посланий Клуексом!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/8",
+    "value": "Ти ж Новакіда, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/9",
+    "value": "З таким сяйвом ти, мабуть, народжений небесами!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/10",
+    "value": "Сяюча людина, послана Клуексом!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/11",
+    "value": "Поглянь на своє небесне сяйво!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/12",
+    "value": "Ти точно творіння Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/13",
+    "value": "Дякувати Клуексу, прекрасне небесне створіння!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/14",
+    "value": "Маю за честь зустріти тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/15",
+    "value": "Хай Клуекс буде з тобою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/16",
+    "value": "Дружній незнайомець! Хвала Клуексу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/17",
+    "value": "Хай Клуекс благословить тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/18",
+    "value": "Привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/19",
+    "value": "Ласкаво просимо до нашого села."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/20",
+    "value": "Ти вже зустрічав Звіздаря?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/21",
+    "value": "Бажаю тобі благословенного дня."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/22",
+    "value": "Радий зустрічі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/23",
+    "value": "Нехай твоє життя буде сповнене світлом."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/24",
+    "value": "Благословляю."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/25",
+    "value": "Нехай ти Вознесешся."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/26",
+    "value": "Привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/27",
+    "value": "Як справи?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/28",
+    "value": "Ласкаво просимо, гостю."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/29",
+    "value": "Хай Клуекс веде тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/30",
+    "value": "Нехай ти знайдеш світло Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/31",
+    "value": "Клянуся священними землями Авоса, радий зустрічі!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/32",
+    "value": "Не хвилюйся, зараз не час для жертвопринесень."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/33",
+    "value": "Крила Клуекса! Гість!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/34",
+    "value": "Хай Клуекс візьме тебе під своє крило."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/35",
+    "value": "Хай Клуекс зробить тебе сильним."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/36",
+    "value": "Хай Клуекс керує твоєю рукою в бою."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/37",
+    "value": "Хай могутній Клуекс захищає тебе."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/38",
+    "value": "Радий зустрічі, мандрівнику"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/39",
+    "value": "Хай Клуекс направляє тебе в подорожах."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/40",
+    "value": "Хай Клуекс дарує тобі силу."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/41",
+    "value": "Нехай ти Вознесешся до Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/42",
+    "value": "Нехай ти ходиш у світлі Клуекса."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/43",
+    "value": "Привіт!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/44",
+    "value": "Радий зустрічі."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/45",
+    "value": "Приємно познайомитися!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/46",
+    "value": "Привіт, мандрівнику."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/47",
+    "value": "Сподіваюся, у тебе гарний день!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/48",
+    "value": "О, привіт."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/novakid/49",
+    "value": "Добрий день."
+  }
+]

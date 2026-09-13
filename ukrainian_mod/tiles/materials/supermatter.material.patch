@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Кристал, що використовується для заправки НСД. Він ще не до кінця вивчений.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Кристал ерхію",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Заінтриговано. Кристали ерхію містять у собі загадкову силу.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Великі сссяючі криссстали. Флоран дивиться.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Великий і старий кристал ерхію, файний.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

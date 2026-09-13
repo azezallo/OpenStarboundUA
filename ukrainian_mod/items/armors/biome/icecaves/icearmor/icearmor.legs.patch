@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Холодні штани з льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани Ice Armor"
+  }
+]

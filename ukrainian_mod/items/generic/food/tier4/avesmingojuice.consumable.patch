@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сік, який може мати будь-який смак!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сік Авесмінго"
+  }
+]

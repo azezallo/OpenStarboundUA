@@ -1,0 +1,137 @@
+[
+  {
+    "value": "Дружній друг",
+    "path": "/parameters/friend/example/name",
+    "op": "replace"
+  },
+  {
+    "value": "<questGiver> хоче виділятися",
+    "path": "/scriptConfig/generatedText/title/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "<questGiver> — <adjective> лицар",
+    "path": "/scriptConfig/generatedText/title/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран хоче, щоб усі бачили, який Флоран великий мисливець! Чи не міг би ти допомогти Флорану виглядати більш <adjective>?",
+    "path": "/scriptConfig/generatedText/goalText/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Флоран хоче виглядати <adjective>, щоб виділятися серед інших мисливців! У Флорана є план...",
+    "path": "/scriptConfig/generatedText/goalText/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Владно. Я видатний лицар, і всі повинні одразу про це знати! Ось що нам потрібно зробити...",
+    "path": "/scriptConfig/generatedText/goalText/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Задумливо. Такий лицар, як я, має виглядати <adjective>! Я знаю, як цього досягти...",
+    "path": "/scriptConfig/generatedText/goalText/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Охоронця повинні впізнавати! Можеш мені допомогти? Я хочу виглядати більш <adjective>.",
+    "path": "/scriptConfig/generatedText/goalText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "^cyan;Охоронець має виділятися! Допоможеш мені виглядати <adjective>?",
+    "path": "/scriptConfig/generatedText/goalText/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Залишилося лише ^green;віднести ^orange;[<clothingIngredients>]^white; майстру. ^orange;<friend>^white; може зробити щось, що підійде Флорану. Поспішай!",
+    "path": "/scriptConfig/generatedText/text/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран хоче, щоб ти ^green;відніс ^orange;[<clothingIngredients>]^white; і повернувся з новим спорядженням. У ^orange;<friend>^white; є все для цього!",
+    "path": "/scriptConfig/generatedText/text/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Впевнено. Залишилося лише ^green;віднести ^orange;[<clothingIngredients>]^white; потрібній людині. ^orange;<friend>^white; безперечно зможе викувати це нове спорядження.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Захоплено. ^orange;<friend>^white; може розпочати роботу, тож ^green;віднеси ^orange;[<clothingIngredients>]^white; для виготовлення мого нового спорядження.",
+    "path": "/scriptConfig/generatedText/text/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Далі тобі треба піти до професіонала. Якщо ти ^green;віднесеш ^orange;[<clothingIngredients>]^white; до ^orange;<friend>^white;, він без проблем зможе це зробити.",
+    "path": "/scriptConfig/generatedText/text/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Нарешті, тобі просто потрібно ^green;віднести ^orange;[<clothingIngredients>]^white; професіоналу. ^orange;<friend>^white; — найкращий кравець в окрузі і зможе зробити це миттєво!",
+    "path": "/scriptConfig/generatedText/text/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Тепер, коли Флоран виглядає <adjective>, Флоран стане легендарним мисливцем! Дякую за допомогу.",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран тепер виглядає <adjective>? Дякую за допомогу!",
+    "path": "/scriptConfig/generatedText/completionText/default/floran/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вражено. Я дійсно здаюся набагато більш <adjective>? Дякую за допомогу.",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволено. Тепер, коли я виглядаю <adjective>, мої вороги двічі подумають, перш ніж зв'язуватися зі мною!",
+    "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
+    "op": "replace"
+  },
+  {
+    "value": "Що скажеш? Чи достатньо <adjective> я виглядаю?",
+    "path": "/scriptConfig/generatedText/completionText/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую! Ніхто не буде зі мною зв'язуватися, коли я виглядаю так <adjective>!",
+    "path": "/scriptConfig/generatedText/completionText/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я не зміг допомогти <questGiver> отримати нове спорядження. Але мені все одно подобається <questGiver.pronoun.object>.",
+    "path": "/scriptConfig/generatedText/failureText/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Мені не вдалося допомогти. <questGiver> не отримає нового вигляду. Втім, старий теж нічого.",
+    "path": "/scriptConfig/generatedText/failureText/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Пакунок",
+    "path": "/scriptConfig/parcelName/0",
+    "op": "replace"
+  },
+  {
+    "value": "Він адресований <questGiver>. Мені не варто його відкривати.",
+    "path": "/scriptConfig/parcelDescription/0",
+    "op": "replace"
+  },
+  {
+    "value": "Віднеси [<clothingIngredients>] кравцю <friend>",
+    "path": "/scriptConfig/objectives/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Повернися до <questGiver> з пакунком",
+    "path": "/scriptConfig/objectives/1/text",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Підлий труп."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Підлий труп."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Нехай тіла вдаряться об підлогу!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Неврегульований. Труп, що тане."
+  }
+]

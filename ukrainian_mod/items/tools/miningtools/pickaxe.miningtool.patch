@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кирки - це ж минуле тисячоліття!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "кирка"
+  }
+]

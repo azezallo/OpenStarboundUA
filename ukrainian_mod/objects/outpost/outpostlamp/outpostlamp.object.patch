@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Настінний світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Світлодіодний настінний світильник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Функціональний настінний світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це настінний світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Яскраве світло!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Цей настінний світильник є ефективним."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Досить стандартний настінний світильник."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Настінний світильник. Це функціонально, але неприємно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це світло добре, але воно не таке яскраве, як я!"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Потужний дворучний меч."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рідкісний Палаш"
+  }
+]

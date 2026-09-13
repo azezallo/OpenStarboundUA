@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Блакитна палочка Glowstick"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створює синє біолюмінесцентне світіння при киданні!"
+  }
+]

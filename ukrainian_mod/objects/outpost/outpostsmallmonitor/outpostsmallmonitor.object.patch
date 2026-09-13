@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленький монітор. Але що він відображає?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленький навісний монітор"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я не можу це прочитати."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "На цьому екрані неможливо розібрати текст."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не знає, що говорить цей екран."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розчарований. Я не можу розібрати, що написано на цьому моніторі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей монітор не має найкращої якості зображення."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Відображену тут інформацію важко розібрати."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Важко зрозуміти, що тут написано. Сподіваюся, це не щось важливе."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Картина білявки, що стоїть у молюску."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Красива мавпа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чомусь я відчуваю, що це не оригінальна версія цієї картини."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чому цей Apex на мушлі молюска. Що це?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран знервований малюванням..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вжахнувся. Мені не потрібно було це бачити."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ну це жахливо."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це було майже красиво, але жахливо не вдається."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ого, я міг би цього не побачити."
+  }
+]

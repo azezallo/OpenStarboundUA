@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця машина запускає «Screaming Fashion Agent»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пурпурна аркадна машина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця гра називається Screaming Fashion Agent. Те, що я тут бачив... я ніколи не забуду."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це таємнича гра під назвою Screaming Fashion Agent. Чому вони кричать? Це таємниця?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гра називається Sscreaming Fashion Agent. Флорану подобається ця гра."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Непросто. Ця гра називається Screaming Fashion Agent, і вона мене дуже бентежить. 6/10."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чи модні агенти зазвичай такі жахливі, як агент у Screaming Fashion Agent? Що взагалі таке модний агент?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "До мене дійшли чутки, що Screaming Fashion Agent — це художній переказ справжньої кримінальної історії."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей модний агент напевно багато кричить. Чи маю я з’ясувати чому?"
+  }
+]

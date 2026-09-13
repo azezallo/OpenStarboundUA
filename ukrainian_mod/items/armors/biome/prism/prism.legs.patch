@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Залишайтеся здоровими в цих зручних термоштанях."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Брюки Призма"
+  }
+]

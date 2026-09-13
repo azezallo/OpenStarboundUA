@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця кепка мало захищає, але окуляри виглядають круто."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска Deadbeat Horn"
+  }
+]

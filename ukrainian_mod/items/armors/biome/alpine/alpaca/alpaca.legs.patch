@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виглядає як альпака, навіть має додаткову пару ніг."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Інопланетні ноги альпаки"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плакат"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Плакат маніпулятора матерією."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Досить драматичний постер Маніпулятора матерії."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Маніпулятор матерії є призом випускника Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Плакат найважливішого інструменту Protectors!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Натхненний. Цей плакат викликає у мене бажання подорожувати всесвітом."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "На цьому плакаті зображено Маніпулятор матерії, цінний багатофункціональний інструмент Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Маніпулятор матерії, інструмент із багатьма можливостями. Як надихає."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Такі люди, як я, могли б скористатися таким інструментом, як Маніпулятор матерії."
+  }
+]

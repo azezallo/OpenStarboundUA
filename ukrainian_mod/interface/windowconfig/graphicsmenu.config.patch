@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/title/value",
+    "value": "ГРАФІКА"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/accept/caption",
+    "value": "Заст."
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/cancel/caption",
+    "value": "Назад"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/fullscreenLabel/value",
+    "value": "ПОВНЕКРАН"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/borderlessLabel/value",
+    "value": "ВІКНО БЕЗ РАМОК"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/monochromeLabel/value",
+    "value": "МОНО СВІТЛО"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/interactiveHighlightLabel/value",
+    "value": "ПІДСВІТКА ЦІЛІ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/speechBubbleLabel/value",
+    "value": "ДІАЛОГИ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/textureLimitLabel/value",
+    "value": "ЛІМІТ ТЕКСТУР"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/multiTextureLabel/value",
+    "value": "МУЛЬТИТЕКСТУРИ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/resLabel/value",
+    "value": "РОЗДІЛЬНА ЗДАТНІСТЬ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/zoomLabel/value",
+    "value": "МАСШТАБ"
+  }
+]

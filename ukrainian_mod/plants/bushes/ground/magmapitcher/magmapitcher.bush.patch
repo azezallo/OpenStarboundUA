@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Конуси, наповнені магмою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Конуси, наповнені магмою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пекуча рідина."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Конуси магми."
+  }
+]

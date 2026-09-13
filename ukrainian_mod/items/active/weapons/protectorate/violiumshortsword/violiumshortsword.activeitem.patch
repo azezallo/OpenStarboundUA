@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця рукоятка скрипки містить проектор для леза злої енергії."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Віоліум Короткий меч"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці штани наповнені темною енергією."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Темні штани"
+  }
+]

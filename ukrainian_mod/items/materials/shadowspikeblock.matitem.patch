@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шипчастий блок, утворений із тіньового матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Shadow Spike Block"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "зацікавлений. Цей блок зроблений з невідомого матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Темні блоки чорні, як ніч."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Ці блоки темніші за безмісячну ніч."
+  }
+]

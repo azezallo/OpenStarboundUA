@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кістки давно померлої істоти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кістки давно померлої істоти."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Мертва босса."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Кістки давно померлої істоти."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Естер Брайт",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Я думаю, це воно, золотце. Сподіваюся, ти готовий...",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "У бій!",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Дайвери-суперники! Взяти їх!",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

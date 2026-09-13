@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий гладкий люк із вбудованим рейковим з’єднувачем для використання з ліфтами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Привокзальний люк"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гладкий металевий люк. Я ціную його гострий дизайн."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це досить якісно зроблений металевий люк!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Люк виглядає різким. Флоран розглядає люк як потенційну зброю."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нагадує. Кутовий дизайн цього люка нагадує мені традиційні банери Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей люк міг би, м’яко кажучи, витримати кілька ударів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Досить ефектно зроблений люк. Дивно, але я схвалюю це."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей люк виглядає так, ніби він протримається протягом шторму чи двох."
+  }
+]

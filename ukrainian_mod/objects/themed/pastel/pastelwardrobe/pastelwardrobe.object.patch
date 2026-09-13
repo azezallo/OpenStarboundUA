@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чудовий гардероб пастельних тонів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пастельний гардероб"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гарно оформлена шафа."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей гардероб прикрашений намальованими сердечками та великою зіркою у верхній частині."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче сховатися в речі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Цей гардероб виглядає як праця любові."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це дуже чарівний гардероб. Подумайте про все, що може бути всередині!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця гардеробна була створена високою майстерністю."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені подобається маленька зіркова прикраса у верхній частині цього гардеробу."
+  }
+]

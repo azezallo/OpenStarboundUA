@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рекс"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця собака шалено віддана своєму господареві. Він любить обійми та потирання живота!"
+  }
+]

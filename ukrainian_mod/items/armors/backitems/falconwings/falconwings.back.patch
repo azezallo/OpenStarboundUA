@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Такі крила носять Звіздарі найвищого рангу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крила пророка Звіздаря"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кущ гарних сяючих квітів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Світиться квітковий кущ"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гарні сяючі квіти."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці сяючі квіти прекрасні!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран носив сяючі квіти... але потім Флорана побачили."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Ці квіти напрочуд добре пристосовані до цього суворого середовища."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені хотілося б кілька таких квіткових кущів у моєму саду, але вони виглядають надто делікатними для пересадки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці квіти слабко світяться. Здається, вони покинули цю засніжену пустку."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хіба це не гарна рослина?"
+  }
+]

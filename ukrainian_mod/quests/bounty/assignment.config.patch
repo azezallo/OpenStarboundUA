@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Ранг I: Багатообіцяючий мисливець",
+    "path": "/bountyRanks/0/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ранг II: Цілеспрямований шукач",
+    "path": "/bountyRanks/1/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ранг III: Надійний заступник",
+    "path": "/bountyRanks/2/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ранг IV: Досвідчений детектив",
+    "path": "/bountyRanks/3/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ранг V: Перевірений миротворець",
+    "path": "/bountyRanks/4/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ранг V: Перевірений миротворець",
+    "path": "/finalAssignment/description",
+    "op": "replace"
+  },
+  {
+    "value": "Жахливий культ Окказус",
+    "path": "/finalAssignment/gang/name",
+    "op": "replace"
+  },
+  {
+    "value": "Ранг I: Багатообіцяючий мисливець",
+    "path": "/tutorialAssignment/description",
+    "op": "replace"
+  },
+  {
+    "value": "Буйні порушники спокою",
+    "path": "/tutorialAssignment/gang/name",
+    "op": "replace"
+  },
+  {
+    "value": "Азра Нокс",
+    "path": "/bountyTypes/occasusCommander/questConfig/target/name",
+    "op": "replace"
+  },
+  {
+    "value": "Азра Нокс",
+    "path": "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Капітан Ігнобл",
+    "path": "/bountyTypes/tutorialCapstone/questConfig/target/name",
+    "op": "replace"
+  }
+]

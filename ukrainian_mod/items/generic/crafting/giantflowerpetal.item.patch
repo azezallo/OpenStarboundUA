@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гігантська пелюстка квітки. М'який!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гігантська пелюстка квітки"
+  }
+]

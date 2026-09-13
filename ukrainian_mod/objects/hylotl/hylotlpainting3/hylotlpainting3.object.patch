@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Традиційний розпис мостів"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це картина мосту над тихою водою."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей міст не виглядає конструктивно міцним, але він гарний."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Яка гарна сцена! Я хотів би відвідати це місце, якби воно було справжнім."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче сховатися під мостом, щоб налякати людей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Міст на цій картині здається досить безпечним для переходу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Яка гарна картина. Якби цей міст був справжнім, я б переходив його знову і знову."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Приглушені мазки цієї картини підкреслюють спокій сцени."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цікаво, чи міг би вагон переїхати маленький міст, як ця красуня."
+  }
+]

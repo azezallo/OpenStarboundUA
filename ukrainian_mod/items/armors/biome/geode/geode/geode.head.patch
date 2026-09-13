@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маска з дорогоцінних каменів geode. Це змушує ваші очі сяяти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска геода"
+  }
+]

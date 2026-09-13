@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Душ. Ідеально підходить для чистого відпочинку. Якби вода справді була чистою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іржавий душ"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Зараз я міг би прийняти душ."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якби тільки я мав час для гарячого душу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "З душу б’є іржава вода."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Незручно. Душ і глюк не змішуються."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я б прийняв душ, але мій спів міг би насторожити ворогів."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дотик води був би зараз благословенням."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ах, душ."
+  }
+]

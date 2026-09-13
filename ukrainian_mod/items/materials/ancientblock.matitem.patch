@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці цеглини точно витримали випробування часом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Старовинний квартал"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "вражений. Очевидно, ці блоки дуже старі."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Стародавні блоки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Ці блоки старіші від бруду."
+  }
+]

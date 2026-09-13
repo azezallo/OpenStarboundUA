@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Найкраща зброя для глибоководних мисливців."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гарпунна рушниця"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Квадрат з м'якого блискучого шовку"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шовк"
+  }
+]

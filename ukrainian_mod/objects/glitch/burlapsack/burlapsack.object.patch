@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Звичайний мішок з мішковини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мішок з мішковини"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "мішок."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "мішок."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Подряпаний волоконний мішок."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Здається, тут повно борошна."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мішок з мішковини."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Тканий мішок."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Повний мішок чогось."
+  }
+]

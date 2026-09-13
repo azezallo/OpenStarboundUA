@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зручне крісло дум."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крісло Doom"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Надзвичайно зручне крісло, навіть якщо воно виглядає трохи моторошно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чудове місце для сидіння, якщо можна не звертати уваги на шипи."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран сидить на стільці, гладить колоски і думає про полювання."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Розслаблений. Це крісло надзвичайно зручно для Глітча."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Обеззброююче м'яке крісло. Нагадує мені бути вдома, з доданими шипами."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Майже така розкіш, до якої Hylotl звик, якщо не чуттєвість дизайну."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це крісло, безперечно, зручне для чогось такого гострого."
+  }
+]

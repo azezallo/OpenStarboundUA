@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже відомий портрет загадкової дами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичний малюнок мавп"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Класичний портрет. Так красиво."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Вау, вона, звичайно, щось добре."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче вкрасти картину та продати її на чорному ринку."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Ця підробка майстерна."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вона виглядає знайомою, але чомусь... ні."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чому хтось хоче увічнити жахливий фасад цієї істоти?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це одна дивна жінка."
+  }
+]

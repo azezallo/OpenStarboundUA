@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Weathered roof tiles. Їхня форма викликає у мене почуття незручності."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Спостережливий. These roof tiles are sloped to allow for easy rain run off."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Покрівельна плитка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Ця черепиця ідеально підходить для виготовлення даху."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Черепиця"
+  }
+]

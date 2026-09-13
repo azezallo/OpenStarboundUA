@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дзига чотиригранна. На кожній стороні є цікаві символи."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дрейдель"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Забавна дзига."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця обертова іграшка дуже весела."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Шукаюча іграшка!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Радісний. Дзига."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Круто, дрейдель, в космос!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця груба дзига чомусь наповнює мене радістю."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цікаво, чи схожі ці символи на мій бренд?"
+  }
+]

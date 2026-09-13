@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вогняна квітка в горщику."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вогняна Квітка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Пелюстки цієї квітки схожі на язики полум'я."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Рух цієї квітки на вітерці схожий на вогонь."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Потворна квітка виглядає як полум'я."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вражений. За кольором і формою ця квітка дуже нагадує вогонь."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Красива ніжна квітка, яку силу вона має?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Квіти на поверхні такі яскраві."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Чудова квітка, що росте в горщику."
+  }
+]

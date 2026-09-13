@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Витончено оброблене вишукане дерево.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Вишукана деревина",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Вражено. Ця деревина безперечно була оброблена майстром ремісничої справи.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран любить ссспеціально оброблену деревисссину.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Схоже, це дерево було чимось оброблено.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

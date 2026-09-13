@@ -1,0 +1,47 @@
+[
+  {
+    "value": "Давай дізнаємося, що це за скам'янілість! Поклади її та розбий!",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Скам'янілий кокон",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "-Виготовляється-",
+    "path": "/apexDescription",
+    "op": "replace"
+  },
+  {
+    "value": "-Виготовляється-",
+    "path": "/avianDescription",
+    "op": "replace"
+  },
+  {
+    "value": "-Виготовляється-",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "-Виготовляється-",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "-Виготовляється-",
+    "path": "/humanDescription",
+    "op": "replace"
+  },
+  {
+    "value": "-Виготовляється-",
+    "path": "/hylotlDescription",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_rus_item.lua",
+    "path": "/builder",
+    "op": "add"
+  }
+]

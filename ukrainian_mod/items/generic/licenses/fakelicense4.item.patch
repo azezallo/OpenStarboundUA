@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дозволяє постійно оновлювати свій корабель до більшого крейсера типу Eagle."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Фальшива ліцензія Eagle"
+  }
+]

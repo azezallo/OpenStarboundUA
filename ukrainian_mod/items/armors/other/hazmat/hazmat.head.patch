@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця маска може відфільтрувати навіть мікроскопічні небезпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска Hazmat"
+  }
+]

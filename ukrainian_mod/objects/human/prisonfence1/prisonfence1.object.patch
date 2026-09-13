@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це сітка-рабиця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Висока рабиця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Огорожа рабиця."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Паркан. Жорстоке знущання над приземленими."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран впевнений, що Флоран міг би перескочити цей паркан! Але Флоран не намагатиметься."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Огорожа рабиця."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Міцна рабиця."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Якби цей паркан був під океаном, я міг би просто переплисти через нього. Знову ж таки, чому б це було?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Металева огорожа."
+  }
+]

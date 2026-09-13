@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Ароматний набір листя та квітів.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Квітковий блок",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Захоплення. Цей набір квітів прекрасний.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран вважає, що ці квіти виглядають ссссмачно.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Кілька яскравих на вигляд квітів, файні такі.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

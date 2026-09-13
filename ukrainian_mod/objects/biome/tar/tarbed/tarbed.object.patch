@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Проста постіль з дьогтю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліжко з дьогтю"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дивний вибір матеріалу для постільної білизни, але він принаймні теплий і нетоксичний."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ліжко, яке більше підходить для непернатих істот."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssludge постіль тепла."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Гордий. Моє власне просте ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ой, вибачте, я спізнився, сьогодні вранці я буквально не міг встати з ліжка. Він зроблений з дьогтю."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можна легко піддатися липкості цього ліжка і відпочивати тут надто довго."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я не бачу, чому ліжко з дьогтю є хорошою ідеєю в будь-якій книзі."
+  }
+]

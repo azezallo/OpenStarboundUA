@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Набір шафок, ідеальний для зберігання речей."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Місячні базові шафки"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Складені шафки. Чудовий спосіб заощадити місце."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Місце, де можна зберігати свої речі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Шафки призначені для зберігання речей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Металевий комплект із шести шафок."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Шафки для впорядкування ваших речей."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це змушує мене згадати мої студентські дні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Шість незамкнених шафок."
+  }
+]

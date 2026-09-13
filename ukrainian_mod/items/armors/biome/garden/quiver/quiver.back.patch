@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сагайдак у комплекті зі стрілами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сагайдак"
+  }
+]

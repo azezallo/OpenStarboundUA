@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старий котел. Зсередини лунає крапельниця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зруйнований котел"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Старий іржавий водонагрівач."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей котел витримав свої кращі якості."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Старий іржавий бак котла."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Меланхолія. Цей котел протікає, коли іржа зношується."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Вода, що залишилася всередині цього котла, жахливо пахне."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Старий бак бойлера, повний смердючої води."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Нікчемний іржавий котел."
+  }
+]

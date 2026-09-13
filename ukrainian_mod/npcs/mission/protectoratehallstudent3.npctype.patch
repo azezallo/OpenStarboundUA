@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Nervous. Do I look ok? I polished my head this morning."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "Regretful. Maybe I should have oiled my joints this morning."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "Збентежений. Сподіваюся, ніхто не помітить плями від кави на моїй формі..."
+  }
+]

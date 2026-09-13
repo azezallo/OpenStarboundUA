@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Батіг з колючої лози. Отримати тріщини!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Виноградний батіг"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Виноградний батіг ^yellow;^reset;"
+  }
+]

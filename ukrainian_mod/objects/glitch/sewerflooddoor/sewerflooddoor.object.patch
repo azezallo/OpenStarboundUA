@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Недорого виготовлені протизапливні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Каналізаційні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Двері проти повені. Це здається неефективним."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не думаю, що ці протиповітряні двері збережуть моє пір’я сухим."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ці двері не здаються стабільними"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Продуманий. Конструкція цих дверей не здається адекватною."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці заливні двері виглядають трохи марно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Який сенс у таких тендітних протизапливних дверях?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже, ця штука не може щось зупинити!"
+  }
+]

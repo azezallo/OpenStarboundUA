@@ -1,0 +1,92 @@
+[
+  {
+    "value": "^#60b8ea;[ВІДСТЕЖЕННЯ СИГНАТУРИ ЗАВЕРШЕНО: ^yellow;ЗАВАНТАЖЕННЯ КООРДИНАТ^#60b8ea;]",
+    "path": "/scanclue1/tutorial/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#60b8ea;[ВІДСТЕЖЕННЯ СИГНАТУРИ ЗАВЕРШЕНО: ^yellow;ЗАВАНТАЖЕННЯ КООРДИНАТ^#60b8ea;]",
+    "path": "/scanclue1/planetClue/description",
+    "op": "replace"
+  },
+  {
+    "value": "Твій ^orange;Маніпулятор Матерії^white; отримав слід одного з посіпак <bounty.name>! Наразі вони на <next.coordinate.name>!",
+    "path": "/scanclue1/planetClue/message",
+    "op": "replace"
+  },
+  {
+    "value": "^#60b8ea;[ЗРАЗОК ДНК ПІДТВЕРДЖЕНО: ^yellow;ЗАВАНТАЖЕННЯ КООРДИНАТ^#60b8ea;]",
+    "path": "/scanclue1/planetBounty/description",
+    "op": "replace"
+  },
+  {
+    "value": "Твій ^orange;Маніпулятор Матерії^white; зафіксувався на <bounty.name>! Слід їхньої сигнатури веде на планету в <next.coordinate.systemName>. Вирушай до <next.coordinate.name>!",
+    "path": "/scanclue1/planetBounty/message",
+    "op": "replace"
+  },
+  {
+    "value": "^#60b8ea;[ЗРАЗОК ДНК ПІДТВЕРДЖЕНО: ^yellow;ЗАВАНТАЖЕННЯ КООРДИНАТ^#60b8ea;]",
+    "path": "/scanclue1/spaceClue/description",
+    "op": "replace"
+  },
+  {
+    "value": "Твій ^orange;Маніпулятор Матерії^white; отримав слід одного з поплічників <bounty.name>! Схоже, вони зараз на станції в <next.coordinate.systemName>!",
+    "path": "/scanclue1/spaceClue/message",
+    "op": "replace"
+  },
+  {
+    "value": "^#60b8ea;[ВІДСТЕЖЕННЯ СИГНАТУРИ ЗАВЕРШЕНО: ^yellow;ЗАВАНТАЖЕННЯ КООРДИНАТ^#60b8ea;]",
+    "path": "/scanclue1/spaceBounty/description",
+    "op": "replace"
+  },
+  {
+    "value": "Твій ^orange;Маніпулятор Матерії^white; відстежив сигнатуру <bounty.name>! Здається, вона веде до віддаленої станції в <next.coordinate.systemName>!",
+    "path": "/scanclue1/spaceBounty/message",
+    "op": "replace"
+  },
+  {
+    "value": "^#60b8ea;[ВІДСТЕЖЕННЯ СИГНАТУРИ ЗАВЕРШЕНО: ^yellow;ЗАВАНТАЖЕННЯ КООРДИНАТ^#60b8ea;]",
+    "path": "/scanclue2/tutorial/description",
+    "op": "replace"
+  },
+  {
+    "value": "^#60b8ea;[ВІДСТЕЖЕННЯ СИГНАТУРИ ЗАВЕРШЕНО: ^yellow;ЗАВАНТАЖЕННЯ КООРДИНАТ^#60b8ea;]",
+    "path": "/scanclue2/planetClue/description",
+    "op": "replace"
+  },
+  {
+    "value": "Твій ^orange;Маніпулятор Матерії^white; отримав слід одного з посіпак <bounty.name>! Наразі вони на <next.coordinate.name>!",
+    "path": "/scanclue2/planetClue/message",
+    "op": "replace"
+  },
+  {
+    "value": "^#60b8ea;[ЗРАЗОК ДНК ПІДТВЕРДЖЕНО: ^yellow;ЗАВАНТАЖЕННЯ КООРДИНАТ^#60b8ea;]",
+    "path": "/scanclue2/planetBounty/description",
+    "op": "replace"
+  },
+  {
+    "value": "Твій ^orange;Маніпулятор Матерії^white; зафіксувався на <bounty.name>! Слід їхньої сигнатури веде на планету в <next.coordinate.systemName>. Вирушай до <next.coordinate.name>!",
+    "path": "/scanclue2/planetBounty/message",
+    "op": "replace"
+  },
+  {
+    "value": "^#60b8ea;[ЗРАЗОК ДНК ПІДТВЕРДЖЕНО: ^yellow;ЗАВАНТАЖЕННЯ КООРДИНАТ^#60b8ea;]",
+    "path": "/scanclue2/spaceClue/description",
+    "op": "replace"
+  },
+  {
+    "value": "Твій ^orange;Маніпулятор Матерії^white; отримав слід одного з поплічників <bounty.name>! Схоже, вони зараз на станції в <next.coordinate.systemName>!",
+    "path": "/scanclue2/spaceClue/message",
+    "op": "replace"
+  },
+  {
+    "value": "^#60b8ea;[ВІДСТЕЖЕННЯ СИГНАТУРИ ЗАВЕРШЕНО: ^yellow;ЗАВАНТАЖЕННЯ КООРДИНАТ^#60b8ea;]",
+    "path": "/scanclue2/spaceBounty/description",
+    "op": "replace"
+  },
+  {
+    "value": "Твій ^orange;Маніпулятор Матерії^white; відстежив сигнатуру <bounty.name>! Здається, вона веде до віддаленої станції в <next.coordinate.systemName>!",
+    "path": "/scanclue2/spaceBounty/message",
+    "op": "replace"
+  }
+]

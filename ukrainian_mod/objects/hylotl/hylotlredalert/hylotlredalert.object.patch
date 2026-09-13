@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Яскраво-синій будильник"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Блакитна тривога"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей індикатор блимає, а сигнал тривоги лунає, коли виникає надзвичайна ситуація."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мигалка та сирена, які сигналізують про надзвичайну ситуацію."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Кричуща синя сирена звучить голосно."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "нервовий. Сирена, яка сповіщає про надзвичайну ситуацію."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чи відрізняється синє попередження від червоного?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Світло, яке сигналізує про надзвичайну ситуацію."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Попереджувальна лампочка, коли наближається небезпека."
+  }
+]

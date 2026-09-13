@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Dirturchins є вогнистими та несмачними."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння Діртурхіна"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Скоріше дешевий звичайний бур’ян, ніж овоч."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Коли немає нічого смачнішого, підійдуть dirturchins."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Dirturchin виглядає як крихітний круглий кактус."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Безкорисливий. Нудна, звичайна рослина."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Статистично доведено, що дев'яносто три відсотки людей мають фобію дитинства."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Навіщо хтось це їсть, я не розумію."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Брудники такі ж нудні, як і бруд, з якого вони виростають."
+  }
+]

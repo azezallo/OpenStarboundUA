@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зламаний реєстр."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зламаний реєстр"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Колись використовувався для розрахунку транзакцій, зараз він не працює."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це колись використовувалося для продажу речей. Зараз він зламаний."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це колись було корисно, тепер зламано."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Меланхолік. Завжди сумно бачити, як колись корисні предмети виходять з ужитку."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Зламаний реєстр, я вважаю, це не має значення, якщо нічого купити."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Реєстр прийшов в занепад. Як сумно."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей тут реєстр, не залишається навіть жодного пікселя."
+  }
+]

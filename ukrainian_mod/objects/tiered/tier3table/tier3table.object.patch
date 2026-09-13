@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стильний титановий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Титановий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей титановий стіл дуже гладкий."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Надзвичайно міцний титановий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Досить хороший стіл, щоб Флоран міг нарізати м’ясо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Дуже якісно виготовлений титановий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Класний титановий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Зазвичай це не мій стіл, але цей справді вражає."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хороший титановий стіл."
+  }
+]

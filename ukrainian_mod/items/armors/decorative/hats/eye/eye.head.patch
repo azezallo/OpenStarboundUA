@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шолом із великим очним яблуком у центрі. Практично!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Всевидячий шолом"
+  }
+]

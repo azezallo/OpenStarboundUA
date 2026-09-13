@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Торт з шоколаду! І інші інгредієнти для торта."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шоколадний торт"
+  }
+]

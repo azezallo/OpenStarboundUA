@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Руїни щупальце."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Boss Tentacle"
+  }
+]

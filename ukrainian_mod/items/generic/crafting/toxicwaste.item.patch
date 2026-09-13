@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей токсичний мул не повинен викидатися даремно!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Токсичні відходи"
+  }
+]

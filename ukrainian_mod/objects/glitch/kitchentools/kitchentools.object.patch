@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Інструменти для створення чистої, непідробної смакоти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кухонні інструменти"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Кухонний посуд. Цікаво, які страви використовували для приготування."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Набір інструментів, які виглядають так, ніби вони створені для приготування їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Гострий ніж для нарізки м'яса."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Ці інструменти призначені для приготування їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, як швидко я міг нарізати цим овочі?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Hylotl використовують катану, щоб подрібнити їжу. Жартую."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Посуд для приготування їжі."
+  }
+]

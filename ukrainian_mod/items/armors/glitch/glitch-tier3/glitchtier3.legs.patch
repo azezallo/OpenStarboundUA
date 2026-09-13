@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ребра лицаря захищають стегна воїна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лицарські китиці"
+  }
+]

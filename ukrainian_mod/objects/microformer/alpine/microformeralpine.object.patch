@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює частину планети на скелясту височину."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гірський мікроформер"
+  }
+]

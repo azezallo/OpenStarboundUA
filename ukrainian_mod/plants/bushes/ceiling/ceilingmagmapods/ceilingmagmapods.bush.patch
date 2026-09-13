@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Висяча магматична скеля."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Висяча магматична скеля."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Горяче каміння."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Висяча магматична скеля."
+  }
+]

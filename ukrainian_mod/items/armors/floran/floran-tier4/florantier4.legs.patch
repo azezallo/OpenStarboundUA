@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Спідниця зі шкіри, обшита ниткою Durasteel."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мисливська спідниця"
+  }
+]

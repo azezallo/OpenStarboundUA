@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ах, Сину Людський, ти змушуєш мене голодувати!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Цікава картина"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це досить абстрактно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Що це за істота?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран такий розгублений."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Чи є прихований сенс цього яблука?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Як дуже абстрактно. Смачно, але абстрактно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ааа... Я розумію. Ця картина змушує задуматися."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Він носить красивий капелюшок замість яблука."
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Оригінальна металева плита ідеально підходить для приготування їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Салонна пічка"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Салонна пічка"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Приготування їжі на дровах"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Іноді найпростіші способи отримання тепла є найкращими."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цікаво, чи підходить цей відкритий вогонь для смаження горіхів?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран стурбований гарячим вогнем..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "мирний. Вогонь простий, але заспокійливий."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Стара грубка! У когось є зефір?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це не найефективніший спосіб отримання тепла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Немає речей, які мені подобаються більше, ніж сидіти біля старого вогнища."
+  }
+]

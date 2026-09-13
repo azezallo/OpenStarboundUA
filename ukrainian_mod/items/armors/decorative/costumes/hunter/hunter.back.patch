@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий декоративний ніж з ремінцем для носіння на спині."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мисливський ніж"
+  }
+]

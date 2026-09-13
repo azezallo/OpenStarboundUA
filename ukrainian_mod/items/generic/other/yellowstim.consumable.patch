@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Пакетик з жовтою рідиною змусить вас сяяти!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жовтий стимулятор"
+  }
+]

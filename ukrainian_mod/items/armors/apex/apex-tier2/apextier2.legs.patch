@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Броня для ніг з вольфрамовим покриттям, яка не сковує рухів власника."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани повстанця"
+  }
+]

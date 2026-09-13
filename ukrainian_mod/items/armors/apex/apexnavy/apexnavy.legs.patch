@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Стандартні темно-сині штани Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Темно-сині штани"
+  }
+]

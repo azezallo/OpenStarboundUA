@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Банк закритих шафок Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Замкнені шафки Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Банк шафок. Вони замкнені."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Студентські шафки. Вони замкнені."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Шафки для зберігання ваших речей. Вони замкнені."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нецікаво. Замкнені шафки."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці шафки замкнені."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це студентські шафки. Мій десь в іншому місці."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це не моя шафка. Мій десь в іншому місці."
+  }
+]

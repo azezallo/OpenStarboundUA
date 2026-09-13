@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Будьте захищені з цими модними броньованими штанами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани маскування"
+  }
+]

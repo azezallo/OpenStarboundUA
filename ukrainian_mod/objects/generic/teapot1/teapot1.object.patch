@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеальний чайник для чаювання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чайник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чайник."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Велика чашка з носиком."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дивна скульптура істоти з довгим хоботом."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостерігайте. Це рідкісний відтінок рожевого."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гарний чайник. Втішний."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пристрій для сервірування."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Отже, ви кладете листя в каструлю з водою і... випиваєте?"
+  }
+]

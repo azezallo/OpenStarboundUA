@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Холодний металевий стіл, створений для виживання в турбулентних поїздках."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Промисловий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей стіл виглядає дуже міцним - я почувався б у безпеці, сховавшись під ним під час землетрусу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Про цей холодний, безособовий стіл годі й говорити."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Стіл виглядає важким."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Не вражений. Цей стіл можна трохи прикрасити."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якщо ви не можете вирішити, як прикрасити предмет меблів, найкращим рішенням буде не наносити на нього попереджувальні смуги."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "The shape of this table is so rigid. Де елегантність?!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ковалю треба цілий день стукати, щоб зробити такий плоский стіл!"
+  }
+]

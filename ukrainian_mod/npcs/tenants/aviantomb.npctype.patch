@@ -1,0 +1,52 @@
+[
+  {
+    "value": "Я прийшов, щоб нести слово Клуекса! Слухай мене - і знайдеш крила!",
+    "path": "/dialog/converse/avian/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Усім хорошим у твоєму житті тебе обдарував Клуекс. У всьому поганому ти сам винен.",
+    "path": "/dialog/converse/avian/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ти знав, що кожне сонце є оком Клуекса? Він бачить усе!",
+    "path": "/dialog/converse/avian/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо ми хочемо літати, то повинні жити у світлі Клуекса!",
+    "path": "/dialog/converse/avian/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Ми, авіани, парили в небесах за межами смертного світу. І, можливо, злетимо знову!",
+    "path": "/dialog/converse/avian/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Ти виглядаєш як послідовник Клуекса! Хай знайдеш ти крила знову.",
+    "path": "/dialog/converse/avian/avian/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти теж мрієш про той день, коли нам повернуть крила? Хай піднесемося ми в нашу колиску.",
+    "path": "/dialog/converse/avian/avian/1",
+    "op": "replace"
+  },
+  {
+    "value": "Усім хорошим у твоєму житті тебе обдарував Клуекс. У всьому поганому ти сам винен.",
+    "path": "/dialog/converse/avian/avian/2",
+    "op": "replace"
+  },
+  {
+    "value": "Ти знав, що кожне сонце є оком Клуекса? Він бачить усе!",
+    "path": "/dialog/converse/avian/avian/3",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо ми хочемо літати, то повинні жити у світлі Клуекса!",
+    "path": "/dialog/converse/avian/avian/4",
+    "op": "replace"
+  }
+]

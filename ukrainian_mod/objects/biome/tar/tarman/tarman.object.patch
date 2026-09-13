@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Як сніговик, але липкий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Тарман"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Досить невдале на вигляд творіння. Мені шкода смоляра."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не знав, що дьоготь можна використовувати так творчо."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Тарман липкий. Флоран уникає липких речей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Навіщо робити гудрон схожим на сніговика, коли він може виглядати як глюк?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Хто зробить людину з цієї липкої штуки?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей гудрон вдало нагадує свого снігового родича. Дійсно вражаюче."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тому, хто побудував цю жахливу річ, у житті потрібен сніг."
+  }
+]

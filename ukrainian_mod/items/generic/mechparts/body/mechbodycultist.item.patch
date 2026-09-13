@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Грубо сконструйований механічний корпус, розроблений членами культу Окаса."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Occasus Mech Body"
+  }
+]

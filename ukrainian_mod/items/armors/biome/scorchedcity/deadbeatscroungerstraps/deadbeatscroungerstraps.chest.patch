@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шкіряні ремінці, які часто носять пустирі"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ремені Deadbeat Scrounger"
+  }
+]

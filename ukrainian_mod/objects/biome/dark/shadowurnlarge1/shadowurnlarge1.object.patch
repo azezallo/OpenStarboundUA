@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика темна ваза. Виглядає досить розбитим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Велика тіньова урна"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, я щось чую всередині..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця урна виглядає проклятою..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssmash його і вирві його темні нутрощі!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Деструктивний. Я вірю, що всередині може бути щось ще темніше."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я майже боюся розбити цю моторошну урну."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Кажуть, що розбиття будь-якої урни приносить нещастя. Мені страшно подумати, яка доля приходить, якщо це порушити."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Такі урни краще залишити в спокої."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На табличці написано: «Стільниковий блок»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стільниковий блок знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Табличка з написом «Стільниковий блок»."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це вказує на клітинний блок."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Нудний sssign."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. «Клітинний блок»."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Завжди хотіла побувати в блоку! Почекай, ні, я думаю про зоопарк."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Знак для людей, які не здатні дивитися на навколишнє."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "На табличці написано «Cell Block»."
+  }
+]

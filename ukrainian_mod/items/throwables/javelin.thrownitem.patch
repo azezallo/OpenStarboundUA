@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Метання списа"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гострий метальний спис, придатний для полювання."
+  }
+]

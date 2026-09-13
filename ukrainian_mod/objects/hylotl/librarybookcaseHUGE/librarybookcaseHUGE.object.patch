@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Величезна книжкова шафа, наповнена книгами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Величезна вишукана книжкова шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Початковий власник цього, мабуть, задокументував абсолютно все."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Про що можуть бути всі ці книги?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Полиці добре підходять для лазіння."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "вражений. У цій книжковій шафі рівно 25 068 книг."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не впізнаю жодної з цих назв."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Які дива можна знайти серед цих фоліантів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Книжок безліч!"
+  }
+]

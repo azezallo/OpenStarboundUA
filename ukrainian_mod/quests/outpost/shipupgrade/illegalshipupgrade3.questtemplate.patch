@@ -1,0 +1,32 @@
+[
+  {
+    "value": "^green;Покращення корабля до класу \"Сокіл\"",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Ця корабельна ліцензія безперечно законна. ^green;Відвідай Пінгвіна Піта^reset; з ^orange;6 Модулями оновлення^reset;, щоб покращити свій корабель.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Одне покращення корабля вже на підході!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Пінгвін Піт",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "op": "replace"
+  },
+  {
+    "value": "Достав ^orange;Модулі оновлення^reset; ^orange;Пінгвіну Піту^reset; на ^orange;Аванпості^reset;.",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Знайди [^orange;<itemName>^reset;]: ^green;<current> / <required>^reset;",
+    "path": "/scriptConfig/conditions/0/description",
+    "op": "replace"
+  }
+]

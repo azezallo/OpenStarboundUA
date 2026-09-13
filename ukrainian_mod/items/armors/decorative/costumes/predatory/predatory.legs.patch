@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Штани для тих, хто завжди готовий до полювання."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хижі штани"
+  }
+]

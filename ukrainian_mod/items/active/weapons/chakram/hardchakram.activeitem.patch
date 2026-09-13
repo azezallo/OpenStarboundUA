@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Міцний, важкий і жорстоко ефективний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жорсткий чакрам"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Твердий чакрам ^yellow;^reset;"
+  }
+]

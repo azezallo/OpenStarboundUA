@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Антена. Зазвичай вони використовуються для посилення сигналів зв’язку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "антена"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Антена."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Антена для посилення сигналу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран міг би використати це для ssstab."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "роздратований. Ця антена псує мої датчики."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Там хтось є? Почекай, я не хочу знати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Антена."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Пристрій для прийому сигналів."
+  }
+]

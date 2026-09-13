@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Космостачі"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дратівлива біомеханічна форма життя. Чим більші в них вуса, тим вони старші."
+  }
+]

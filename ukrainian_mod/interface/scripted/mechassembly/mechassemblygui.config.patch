@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "  Станція збірки меха"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "  ^#b9b5b2;Налаштування вашого меха!"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSlot_body/value",
+    "value": "Корпус"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSlot_leftArm/value",
+    "value": "Л Рука"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSlot_legs/value",
+    "value": "Ноги"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSlot_booster/value",
+    "value": "Бустер"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSlot_rightArm/value",
+    "value": "П Рука"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSlot_horn/value",
+    "value": "Гудок"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblPrimaryColor/value",
+    "value": "Колір 1"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSecondaryColor/value",
+    "value": "Колір 2"
+  },
+  {
+    "op": "replace",
+    "path": "/disabledText",
+    "value": "^red;Немає доступу"
+  },
+  {
+    "op": "replace",
+    "path": "/incompleteText",
+    "value": "^red;Конфігурація незавершена"
+  },
+  {
+    "op": "replace",
+    "path": "/completeText",
+    "value": "^cyan;Готово!"
+  },
+  {
+    "op": "replace",
+    "path": "/energyFormat",
+    "value": "Енерг.: %d МДж"
+  },
+  {
+    "op": "replace",
+    "path": "/drainFormat",
+    "value": "Викор.: %.02f МДж/с"
+  }
+]

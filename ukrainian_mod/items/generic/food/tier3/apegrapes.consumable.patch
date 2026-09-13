@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Корисна суміш бананів і винограду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мавпячий виноград"
+  }
+]

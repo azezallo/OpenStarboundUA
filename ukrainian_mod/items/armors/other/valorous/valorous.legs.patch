@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Броня для ніг Hylotl, поржавіла через багато років невикористання, але все ще чудово виготовлена."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Доблесні гріви"
+  }
+]

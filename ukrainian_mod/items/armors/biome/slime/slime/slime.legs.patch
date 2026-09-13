@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Носити їх відчуваєш, ніби блукаєш у калюжі желе."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Слаймові штани"
+  }
+]

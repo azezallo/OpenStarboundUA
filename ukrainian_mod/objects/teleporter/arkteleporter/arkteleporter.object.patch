@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей телепорт повинен повернути вас до Ковчега."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Телепорт Ковчег"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Схоже, це може бути пов’язано з Ковчегом."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Схоже, цей телепорт може забезпечити швидкий шлях до Ковчега."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це може привести Флорана прямо до руїн."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Аналітичний. Я вважаю, що цей телепорт пов’язаний із руїнами Ковчега."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Судячи з вигляду цього телепорту, я б припустив, що він підключається прямо до Ковчега."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я вважаю, що цей телепорт може привести до руїн Ковчега."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Зручний спосіб повернутися до Ковчега та почати наступну пригоду!"
+  }
+]

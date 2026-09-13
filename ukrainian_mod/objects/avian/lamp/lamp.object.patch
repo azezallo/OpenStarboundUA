@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Всередині відчувається нудотно-солодкий аромат."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Золота лампа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Запах від цієї лампи старий і нудотно-солодкий."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Колись використовувався для наповнення храму запахом фруктів. Тепер він просто пахне фруктовим."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssmellss відразливий."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огидно. Сморід старих гнилих фруктів усередині все ще досить очевидний."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "лампа! Пахне, наче всередині гнилі фрукти."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Запах цієї лампи ображає всі мої почуття."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Чудова золота лампа. Шкода, що смердить."
+  }
+]

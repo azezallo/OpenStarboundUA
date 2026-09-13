@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Звичайно, єдине, що страшніше скелета, це літаючий!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скелетні крила"
+  }
+]

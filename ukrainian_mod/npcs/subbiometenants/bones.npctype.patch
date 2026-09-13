@@ -1,0 +1,82 @@
+[
+  {
+    "value": "  Кістяний майстер",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "  Продаж речей з кісток...",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Хочеш трохи кісссток?",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Заходь, купуй речі флорана.",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Кіссстки відженуть твоїх ворогів!",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "У флорана є кіссстки на продаж!",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Повертайссся, флоран чекатиме. Ти обов'язково повернешссся!",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Повертайссся, якщо захочеш продати флорану пару кісссток!",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Бережи сссебе. Це ссстрашний світ.",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Знадоблятьссся кіссстки - флоран зззавжди тут...",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Йди за флораном, крамниця тууут!",
+    "path": "/scriptConfig/dialog/merchant/follow/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран - професссійний кіссстяний майссстер. Сссюди.",
+    "path": "/scriptConfig/dialog/merchant/follow/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Сссюди, за флораном...",
+    "path": "/scriptConfig/dialog/merchant/follow/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Осссь вона, крамниця флорана!",
+    "path": "/scriptConfig/dialog/merchant/welcome/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Осссь, тепер поторгуємо!",
+    "path": "/scriptConfig/dialog/merchant/welcome/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Можливо, речі флорана тобі знадоблятьссся.",
+    "path": "/scriptConfig/dialog/merchant/welcome/floran/default/2",
+    "op": "replace"
+  }
+]

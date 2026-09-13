@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Боріться з пристрастю, честю та модними кросівками aegisalt."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани авангарду"
+  }
+]

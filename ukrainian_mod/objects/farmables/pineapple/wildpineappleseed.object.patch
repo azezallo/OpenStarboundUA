@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ананас, спочатку розріжте його."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння ананаса"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ананаси солодкі і соковиті. Освіжаюче частування."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Листя виглядає як пір’я, але воно далеко не таке м’яке."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ананаси схожі на голову Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Самовдоволений. Відомо, що Глітчі використовують ананаси для стрільби."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ананаси. Ідеально підходить для десертів або піци!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Нудотно солодкий. Ніхто ніколи не знайде ананаси під водою."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хто б міг подумати, що щось таке колюче буде таким солодким усередині?"
+  }
+]

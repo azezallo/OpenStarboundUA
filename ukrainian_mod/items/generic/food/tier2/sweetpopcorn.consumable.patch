@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Свіжоспечена кукурудза з солодким маслянистим нальотом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Солодкий попкорн"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленька темна ваза. Виглядає досить розбитим."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленька темна ваза"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здається, я щось чую всередині..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці урни виглядають проклятими..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sssmash його і вирві його темні нутрощі!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Деструктивний. Я думаю, що всередині може бути щось темне."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я майже боюся розбити цю моторошну урну."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Кажуть, якщо ви розбиваєте урну, вам не пощастить. Мені б не хотілося подумати, що ти отримаєш, зламавши це."
+  }
+]

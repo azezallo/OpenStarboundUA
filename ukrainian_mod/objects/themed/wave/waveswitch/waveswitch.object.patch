@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хвильовий пульт. Він має міцну вигнуту конструкцію."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хвильова консоль"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця консоль пропонує великий ступінь контролю."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Корисна консоль."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Кнопки Floran. Нехай речі відбуваються!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Одна консоль може керувати багатьма різними механізмами одночасно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Пульт управління. З ним просто треба пограти."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Пульт управління."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я хочу натиснути всі кнопки!"
+  }
+]

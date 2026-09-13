@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Барвистий квадратний настінний годинник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пастельні настінні годинники"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Настінний годинник бузкового кольору."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Досить унікальний на вигляд настінний годинник."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не має часу перевіряти час."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Це дуже дивна форма годинника."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я люблю, щоб мої годинники були квадратними та яскравих кольорів!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Годинник досить веселої форми."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Час спливає."
+  }
+]

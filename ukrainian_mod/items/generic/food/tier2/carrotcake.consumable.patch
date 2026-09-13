@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це дуже смачний морквяний пиріг! На смак краще, ніж звучить."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Морквяний торт"
+  }
+]

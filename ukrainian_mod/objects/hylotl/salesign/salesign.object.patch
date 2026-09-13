@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Продаж знак"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Банер з рекламою продажу. Всі люблять розпродажі!"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ой, здається, у них тут розпродаж..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "У цьому магазині розпродаж."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дешеві речі? Флорану подобається."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Цікаво, чи є у них вигідні пропозиції?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, у цьому магазині розпродаж."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Здається, у цьому магазині розпродаж."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Там розпродаж!"
+  }
+]

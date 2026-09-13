@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це подряпано!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лицарський шолом"
+  }
+]

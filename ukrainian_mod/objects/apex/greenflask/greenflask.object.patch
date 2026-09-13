@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Колба, повна зеленої слизу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зелена колба"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Якась жахлива суміш Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Значна частина суміші застигає. Нагадує яєчний жовток."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смердюча зелена слиз."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Підозрілий. Невідома суміш."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Напевно, краще залишити цей колодязь у спокої."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можна відчути запах токсичності."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені не потрібно далі досліджувати, щоб знати, що це погана новина."
+  }
+]

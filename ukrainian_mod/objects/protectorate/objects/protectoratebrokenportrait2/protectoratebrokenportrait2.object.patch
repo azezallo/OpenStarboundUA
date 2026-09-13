@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Портрет колишнього великого Захисник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Портрет великого захисника"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Перший Apex Grand Protector. Яка приваблива фігура..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Apex Grand Protector. Виглядають серйозно..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей мертвий Захисник, мабуть, повільніше за мене!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заляканий. Цей Великий Захисник мав суворий погляд."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей Великий Захисник виглядав досить серйозно."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей великий захисник має серйозний вигляд."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей Великий Захисник кидає на мене серйозний погляд."
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На меморіальній дошці написано: «Нагороджується тим, хто зміг пройти крізь вогонь бою незгорілим»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Трофей чемпіона"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Цей блискучий трофей виготовлений із золота."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "в захваті. Розмір і оздоблення цього трофею вражають."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Прекрасний трофей. Вони не просто так віддають."
+  }
+]

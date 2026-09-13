@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Майлс",
+    "path": "/identity/name",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран поважає тільки сссильних.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Усі флорани повинні полюватиссс і шукатиссс ссславу. Ти тут за цим?",
+    "path": "/scriptConfig/dialog/converse/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Інший флоран. Ти повинен зрозуміти азарт полювання.",
+    "path": "/scriptConfig/dialog/converse/floran/floran/0",
+    "op": "replace"
+  }
+]

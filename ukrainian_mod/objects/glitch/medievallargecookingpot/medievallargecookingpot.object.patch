@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця каструля позбавляє від запаху сотні ситних страв."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Середньовічний горщик для приготування їжі"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Середньовічний горщик для приготування їжі"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "ням, ням"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Величезний каструля. Смачно пахне."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Велика каструля над вогнем. Напевно для приготування їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смачна каструля. Флоран хотів би м’ясного супу."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Сентиментальний. Цей горщик пахне багатьма моїми улюбленими стравами."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Велетенський казан. Сподіваюся, що поруч немає відьом."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Наповнені запахами, які небагато гілотлів відчували."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Величезний казан. Що готує?"
+  }
+]

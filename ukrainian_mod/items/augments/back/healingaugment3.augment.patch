@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Модуль EPP, який швидко відновлює ваше здоров'я з часом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зцілення III Augment"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "value": "Зцілення III"
+  }
+]

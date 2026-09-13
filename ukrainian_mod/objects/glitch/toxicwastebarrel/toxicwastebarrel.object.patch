@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Бочка з токсичними відходами. Не проливай!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бочка з токсичними відходами"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Бочка, наповнена відходами."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Смердюча бочка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пахне, як вода для ванн Floran."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стривожений. Ця суміш може бути небезпечною."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Якщо я впаду в цю бочку, чи отримаю я надздібності?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Багато з цих бочок скидають в океан інші, необережні види."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це розливається скрізь! Пахне неприємно, як мул."
+  }
+]

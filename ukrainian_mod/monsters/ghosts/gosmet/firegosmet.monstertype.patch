@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пожежний Госмет"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "These creatures have ethereal bodies that they mould into armour when threatened."
+  }
+]

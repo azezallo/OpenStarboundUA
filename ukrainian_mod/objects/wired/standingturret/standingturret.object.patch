@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Турель для вашого захисту! Можна розмістити лише один раз."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Оборонна турель"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "Автоматична оборона бази"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Завжди пильний."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "У монстрів немає шансів, якщо тільки вони не вміють літати."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ефективний проти живих істот."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обережний. Не повинен порушувати пильність мого брата."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Автоматизована система безпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Схоже на якусь турель."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже, ця штука точно може завдати шкоди!"
+  }
+]

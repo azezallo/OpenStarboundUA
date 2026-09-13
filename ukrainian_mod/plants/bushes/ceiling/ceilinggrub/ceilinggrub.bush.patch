@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Якась мерзенна личинка.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Якась мерзенна личинка",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Звивиссситий черв'як.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердно. Невідома форма личинки.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

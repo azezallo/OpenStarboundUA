@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленькі кам'яні плити ідеально підходять для дрібних деталей."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дрібна кам'яна цегла"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Здається, ці цеглини були вирізані з одного каменю."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ці кам'яні цеглини невеликі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Деякі цеглини, вирізані зі скелі."
+  }
+]

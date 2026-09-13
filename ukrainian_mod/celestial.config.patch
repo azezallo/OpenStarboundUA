@@ -1,0 +1,167 @@
+[
+  {
+    "op": "replace",
+    "path": "/systemTypes/White/variationParameters/0/description",
+    "value": "Маленька біла зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/White/variationParameters/1/description",
+    "value": "Середня біла зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/White/variationParameters/2/description",
+    "value": "Велика біла зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/Orange/variationParameters/0/description",
+    "value": "Маленька помаранчева зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/Orange/variationParameters/1/description",
+    "value": "Середня помаранчева зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/Orange/variationParameters/2/description",
+    "value": "Велика помаранчева зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/Yellow/variationParameters/0/description",
+    "value": "Маленька жовта зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/Yellow/variationParameters/1/description",
+    "value": "Середня жовта зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/Yellow/variationParameters/2/description",
+    "value": "Велика жовта зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/Blue/variationParameters/0/description",
+    "value": "Маленька синя зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/Blue/variationParameters/1/description",
+    "value": "Середня блакитна зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/Blue/variationParameters/2/description",
+    "value": "Велика синя зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/Red/variationParameters/0/description",
+    "value": "Мала Червона Зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/Red/variationParameters/1/description",
+    "value": "Середня Червона Зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/Red/variationParameters/2/description",
+    "value": "Велика червона зірка"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/Tier1/baseParameters/description",
+    "value": "Планета рівня 1"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/Tier2/baseParameters/description",
+    "value": "Планета рівня 2"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/Tier3/baseParameters/description",
+    "value": "Планета рівня 3"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/Tier4/baseParameters/description",
+    "value": "Планета рівня 4"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/Tier5/baseParameters/description",
+    "value": "Планета 5 рівня"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/Tier6/baseParameters/description",
+    "value": "Планета 6 рівня"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/Moon/baseParameters/description",
+    "value": "Планета Місяць"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/Barren/baseParameters/description",
+    "value": "Безплідна планета"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/AsteroidField/baseParameters/description",
+    "value": "Астероїдне поле"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/AncientGateway/baseParameters/description",
+    "value": "Стародавні ворота"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/GasGiant/baseParameters/description",
+    "value": "Планета газових гігантів"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/Tier1/baseParameters/description",
+    "value": "Місяць рівня 1"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/Tier2/baseParameters/description",
+    "value": "Місяць рівня 2"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/Tier3/baseParameters/description",
+    "value": "Місяць рівня 3"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/Tier4/baseParameters/description",
+    "value": "Місяць 4 рівня"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/Tier5/baseParameters/description",
+    "value": "Місяць 5 рівня"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/Tier6/baseParameters/description",
+    "value": "Місяць 6 рівня"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/Moon/baseParameters/description",
+    "value": "Болотний стандартний місяць"
+  }
+]

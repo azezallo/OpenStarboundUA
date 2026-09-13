@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": " Консоль Станції"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": " Керуй системами станції"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblGravity/value",
+    "value": "ГРАВІТАЦ."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblHideExpansionSlots/value",
+    "value": "СХОВАТИ СЛОТИ РОЗШ."
+  }
+]

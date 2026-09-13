@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Непоказна дерев'яна платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яна платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Нейтральний. Дерев'яна платформа."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Платформи."
+  }
+]

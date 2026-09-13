@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Настінна тюремна койка Floran."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Двоярусна стіна для рослин"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це базове ліжко можна повісити на стіну."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Тюремне ліжко, підвішене виноградною лозою."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це тюремне ліжко трималося міцною лозою."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Конструкція цього ліжка дозволяє підвішувати його до стіни."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це ліжко виглядає дуже незручно, принаймні висить над землею."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це ліжко Floran виглядає так, ніби йому місце у тюремній камері."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тюремна койка з рослин."
+  }
+]

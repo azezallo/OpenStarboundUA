@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Прості храмові блоки"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На камені видряпані старі та погано оброблені брили, грубі малюнки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Не вражений. Ці різьблення виконані досить грубо."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Старі різьблення в кам'яній цеглі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Хтось пішов і вирізав купу малюнків у цих цеглах."
+  }
+]

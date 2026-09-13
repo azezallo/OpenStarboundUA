@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ціла брила чистого золота."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Золотий блок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "в захваті. Блок, повністю виготовлений із чистого золота."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Блискучі золоті блоки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "ага! Блискучі блоки з чистого золота!"
+  }
+]

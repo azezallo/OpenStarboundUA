@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "На табличці написано «НЕБЕЗПЕКА». Почекай, звідки ці люди знають моє по батькові?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Горизонтальний знак небезпеки"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це говорить про небезпеку, але немає вказівок на те, що небезпечно..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Поруч щось небезпечне."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран сміється перед обличчям небезпеки. Ха-ха!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Хоробрий. Цей знак більше виклик, ніж попередження."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Небезпека поруч, чи небезпечний сам знак? Краї виглядають досить гострими..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Чітке, хоч і кричуще, попередження."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Єдина небезпека тут — я."
+  }
+]

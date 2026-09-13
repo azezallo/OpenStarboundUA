@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Насіння трави"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Киньте їх на вологий оброблений ґрунт, щоб виростити траву."
+  }
+]

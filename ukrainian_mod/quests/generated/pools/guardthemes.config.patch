@@ -1,0 +1,27 @@
+[
+  {
+    "value": "людської",
+    "path": "/0/1/0/name",
+    "op": "replace"
+  },
+  {
+    "value": "флоранської",
+    "path": "/0/1/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "апексівської",
+    "path": "/0/1/2/name",
+    "op": "replace"
+  },
+  {
+    "value": "ґлітчівської",
+    "path": "/0/1/3/name",
+    "op": "replace"
+  },
+  {
+    "value": "авіанської",
+    "path": "/0/1/4/name",
+    "op": "replace"
+  }
+]

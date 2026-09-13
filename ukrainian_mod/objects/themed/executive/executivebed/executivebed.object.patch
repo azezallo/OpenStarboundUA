@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Представницьке ліжко. Для сну вашого життя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Представницьке ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Найзручніше ліжко у всесвіті."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Коли ви ляжете тут, вам не захочеться вставати."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран лягай у ліжко, на мить забудь про удари ножем."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Блаженний. Дійсно, немає кращого ліжка, ніж це."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Найбільше задоволення я отримав у ліжку, відколи я їв сир перед сном."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я втратив дар мови від подиву, наскільки це зручне ліжко."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це, мабуть, найкраще ліжко, на якому я спав."
+  }
+]

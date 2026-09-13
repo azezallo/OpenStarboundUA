@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Мінімалістичне ліжко із заломлюючого скла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Призма ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я вражений гладкістю цього вишуканого матеріалу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Веселка вогнів усередині чудова."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран розгубився. Чи світло в пастці всередині?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зафіксований. Мій погляд зупинився на танцюючих вогнях у цьому ліжку."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Звичайно, це виглядає круто, але наскільки це зручно?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це скло настільки прозоре, воно схоже на тиху водойму."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Як дивитися в чисте небо після дощу."
+  }
+]

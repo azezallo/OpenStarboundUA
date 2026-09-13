@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей простий дерев'яний ліфт працює за допомогою блоків."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Короткий дерев'яний ліфт"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я не почуваюся в безпеці на цьому дерев’яному ліфті."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Дерев'яний ліфт, найгладший ліфт, який є."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран відчував себе в безпеці, використовуючи дерев'яну машину."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стурбований. Чи відповідає стандартам безпеки дерев'яний ліфт?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Похиттий, дерев'яний ліфт."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Плавний рух деревини та шківів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хиткий дерев'яний ліфт."
+  }
+]

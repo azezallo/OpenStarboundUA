@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скам'янілий торс Фрогга."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Торс жаби"
+  }
+]

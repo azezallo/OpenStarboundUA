@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цікаво, як швидко це приготує бургер."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пошкоджуючий бустер Flame"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Бустер. Відомо, що вони несправні та вибухають."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Бустер, крила корабля."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Страшна пожежа."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Проаналізуйте. Температура занадто висока для вимірювання."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця штука харчується паливом."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Привід."
+  }
+]

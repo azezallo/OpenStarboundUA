@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Випускає стріли, просочені морозом, що калічить."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Заморожений Лук"
+  }
+]

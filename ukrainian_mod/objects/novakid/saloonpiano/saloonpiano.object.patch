@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це піаніно, яке підходить для салону!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Салонне піаніно"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Всі Apex повинні навчитися грати. Однак можна виконувати лише дозволену музику. У кожному піаніно захований мікрофон."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Кнопки видають приємні звуки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран створює музику зі шкіри та кісток, майстер барабанів. Не дурна звукова машина."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Самовдоволений. Математичні принципи цієї машини тривіально прості."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Піаніно... Я вмію грати на паличках!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ах, музика... Вона має силу освітлити навіть найтемніші години."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Фортепіано, яке підходить для старого хонкі-тонка."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нешкідливий пончик з джемом токсиктоп."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пончик з токсичним варенням"
+  }
+]

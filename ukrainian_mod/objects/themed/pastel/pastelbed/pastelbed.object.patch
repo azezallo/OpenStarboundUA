@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чарівне ліжко пастельних тонів."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пастель ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Як нудотно солодко."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це дуже яскраві кольори для ліжка!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ліжко hasss квіти на. Флорану це добре."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Це ліжко має багато деталей, наприклад серце на узголів’ї та простирадла з квітковим принтом."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Яке чарівне ліжко!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це ліжко зроблено з дуже гарним вибором кольорів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені це ліжко виглядає трохи шикарно..."
+  }
+]

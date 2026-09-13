@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Жилет і рукавички, для спекотних і небезпечних робіт."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ливарний нагрудник"
+  }
+]

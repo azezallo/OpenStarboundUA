@@ -1,0 +1,117 @@
+[
+  {
+    "value": "  Торговец-натуралист",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "  Продажа растений и семян!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Я несу природу до світла! Поширюю любов!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Будь екологічним! Поширюй красу!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Вітаю, друже! Чи цікаво тобі поширювати красу природи крізь увесь всесвіт?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран поширює природу, продає россслини.",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Хочеш чассстинку природи? Флоран продає насссіння і россслини.",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран хоче пікссселі, і може дати насссіння.",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Побачимося наступного разу!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Приходь знову.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Твої пікселі завжди в ціні.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Приємно мати з тобою справу!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Дякую, що зазирнув до мого магазину.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Чудово, що побував тут!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Давай поторгуємося знову.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Сподіваюся, наші угоди приносять тобі радість.",
+    "path": "/scriptConfig/dialog/merchant/end/hylotl/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Сподіваюся, ти знайшов те, що шукав.",
+    "path": "/scriptConfig/dialog/merchant/end/hylotl/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Нехай твій шлях буде вільним.",
+    "path": "/scriptConfig/dialog/merchant/end/hylotl/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Будь сильним серцем і духом.",
+    "path": "/scriptConfig/dialog/merchant/end/hylotl/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран буде радий продати тобі ще що-небудь!",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Повертайся за новими покупками!",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран любить продавати.",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран задоволений сссугодою.",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/3",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленькі червоподібні форми звиваються під поверхнею цього скляного каменю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жахливий камінь"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "вражений. Здається, черв'яки в цьому камені допомагають підтримувати його твердість."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Хвилястий черв'яковий камінь!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Усередині цього каменя є маленькі ворушливі черв'ячки."
+  }
+]

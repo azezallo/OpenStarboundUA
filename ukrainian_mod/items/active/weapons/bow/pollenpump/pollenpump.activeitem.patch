@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ідеальна боротьба зі шкідниками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пилковий насос"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Насос для пилку ^yellow;^reset;"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Акордеон. Запрацюйте цими руками!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Акордеон"
+  }
+]

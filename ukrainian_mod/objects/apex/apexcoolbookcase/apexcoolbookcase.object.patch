@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Він повинен бути заповнений науковими журналами та лабораторними звітами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крута книжкова шафа"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Книжкова шафа Apex, цікаво, чи тут щось є..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Небагато птахів мого гнізда вміють читати."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран розповідає історії біля багаття."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Можливо, є чого повчитися у Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Книжкова шафа. У мого перекладача немає роботи."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "На дні океанів Hylotl є багато великих бібліотек."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Здається, він містить переважно наукову літературу."
+  }
+]

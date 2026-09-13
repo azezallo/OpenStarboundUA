@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маска для обличчя із захисними окулярами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маска Deadbeat Nerd"
+  }
+]

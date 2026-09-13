@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Метання дротика"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Метальний дротик, цілься в яблучко."
+  }
+]

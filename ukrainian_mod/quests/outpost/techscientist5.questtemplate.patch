@@ -1,0 +1,32 @@
+[
+  {
+    "value": "^orange;Збір компонентів",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Технологія^white;, над якою я зараз працюю, дійсно фантастична! Вона дозволяє користувачеві стискатися у невелику сферичну форму, ідеальну для переміщення в тісних просторах. Мені потрібні деякі останні компоненти, щоб завершити її. ^green;Чи міг би ти принести мені ^orange;10 Золотих злитків^white;?",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Чудово! Тепер залишається лише протестувати ^orange;технологію сфери спотворення^white;, і в мене якраз є для неї смуга.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Елліотт",
+    "path": "/scriptConfig/portraits/questStarted/title",
+    "op": "replace"
+  },
+  {
+    "value": "Елліотт",
+    "path": "/scriptConfig/portraits/questComplete/title",
+    "op": "replace"
+  },
+  {
+    "value": "Поговори з ^orange;Елліоттом^reset; на ^orange;Аванпості^reset;",
+    "path": "/scriptConfig/turnInDescription",
+    "op": "replace"
+  }
+]

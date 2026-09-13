@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Спресована земля",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Спресована земля у вигляді невеликих цеглин.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Задоволення. Ці цеглини - просто спресована у форму земля.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Цеглини, зззроблені зі спресссованої землі.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "М'які на вигляд цеглини, зроблені з землі, такі як у нас роблять.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

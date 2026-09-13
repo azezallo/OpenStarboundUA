@@ -1,0 +1,82 @@
+[
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "^#b9b5b2;Ваш інвентар та спорядження ^green;[I]"
+  },
+  {
+    "op": "replace",
+    "path": "/defaultPetNameLabel",
+    "value": "^#b9b5b2;СТАТИ ПЕТА"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/head/data/tooltipText",
+    "value": "Голова"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/chest/data/tooltipText",
+    "value": "Броня грудей"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/legs/data/tooltipText",
+    "value": "Броня ніг"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/back/data/tooltipText",
+    "value": "Броня спини"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/headCosmetic/data/tooltipText",
+    "value": "Косм. голови"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/chestCosmetic/data/tooltipText",
+    "value": "Косм. тіла"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/legsCosmetic/data/tooltipText",
+    "value": "Косм. ніг"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/backCosmetic/data/tooltipText",
+    "value": "Косм. спини"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/trash/data/tooltipText",
+    "value": "Сміття"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelappearance/value",
+    "value": "СЛОТИ БРОНІ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelstats/value",
+    "value": "СТАТИ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/companionName/value",
+    "value": "СТАТИ ПЕТА"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labeltech/value",
+    "value": "АКТИВНІ ТЕХ."
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelinventory/value",
+    "value": "ІНВЕНТАР"
+  }
+]

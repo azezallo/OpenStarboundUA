@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Виноградна лоза, яка ніби випромінює приємне сяйво."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лампа з виноградною лозою"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Висока виноградна лоза з висячими сяючими плодами."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Лампочки цієї ліани освітлять будь-яку кімнату."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран насолоджується природним освітленням цієї виноградної лози."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зміст. Приємне світіння створюють біолюмінесцентні лампочки винограду."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Найкрасивіша натуральна лампа, яку я коли-небудь бачив."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Мати природне джерело світла в приміщенні – справжнє благословення."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хороша лампа, щоб побачити."
+  }
+]

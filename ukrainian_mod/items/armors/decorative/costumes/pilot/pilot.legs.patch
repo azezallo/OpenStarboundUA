@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці штани змусять власника захотіти вигукнути: \"Top Ho Squiffy!\""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Штани пілота"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Червоний іграшковий блок"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Великий іграшковий блок, який можна складати."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Ці іграшкові блоки складаються та замикаються разом."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану подобається іграшковий блок, який можна складати."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці барвисті блоки призначені для гри."
+  }
+]

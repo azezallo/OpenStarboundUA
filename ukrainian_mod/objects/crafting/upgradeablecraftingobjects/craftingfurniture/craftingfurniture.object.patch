@@ -1,0 +1,157 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Можна використовувати для виробництва матеріалів і предметів, необхідних для будівництва поселення."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Дерев'яний верстак^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стіл, який підходить для основних столярних робіт."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Можливість продемонструвати свої столярні здібності."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran ussse стіл, щоб зробити гарний будинок."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Натхненний. Модуль крафта активований."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "З цим я міг би зробити добре мебльований дім."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Все, що вам потрібно, щоб перетворити дім на будинок."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "З цим столом я міг би зробити чудові меблі."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "value": "Дерев'яний верстак використовується для виготовлення матеріалів і предметів, необхідних для будівництва поселення."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "value": "^orange;Дерев'яний верстак^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "value": "Стіл, який підходить для основних столярних робіт."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "value": "Можливість продемонструвати свої столярні здібності."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "value": "Floran ussse стіл, щоб зробити гарний будинок."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "value": "Натхненний. Модуль крафта активований."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "value": "З цим я міг би зробити добре мебльований дім."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "value": "Все, що вам потрібно, щоб перетворити дім на будинок."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "value": "З цим столом я міг би зробити чудові меблі."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Дерев'яний верстак"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "TAG0GAТМеблі та блоки"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "value": "Промисловий верстак використовується для виробництва матеріалів і предметів, необхідних для будівництва поселення."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "value": "^orange;Промисловий верстак^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "value": "Стіл, який підходить для основних столярних робіт."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "value": "Можливість продемонструвати свої столярні здібності."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "value": "Floran ussse стіл, щоб зробити гарний будинок."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "value": "Натхненний. Модуль крафта активований."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "value": "З цим я міг би зробити добре мебльований дім."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "value": "Все, що вам потрібно, щоб перетворити дім на будинок."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "value": "З цим столом я міг би зробити чудові меблі."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Промисловий верстак"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Об'єкти та блоки"
+  }
+]

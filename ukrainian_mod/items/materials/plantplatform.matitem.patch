@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Платформа покрита мохом і листям. Краще будьте обережні, щоб не посковзнутися!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Моховиста платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Обережний. Ця покрита мохом платформа слизька і слизька."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Флоран ковзає по слизовій моховій платформі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Цей мох робить цю платформу дуже слизькою."
+  }
+]

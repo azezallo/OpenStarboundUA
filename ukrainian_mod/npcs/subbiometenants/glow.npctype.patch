@@ -1,0 +1,107 @@
+[
+  {
+    "value": "  Сяючий торговець",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "op": "replace"
+  },
+  {
+    "value": "  Продаж будь-яких світильників!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Освіти нічне небо! Тримайся подалі від темряви з моїми товарами!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Якщо і є світло в кінці тунелю, то я той, хто його продає!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Темряви не бійся - світися!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Це ще що? Потрібні світильники для прикраси? Ти прийшов прямо за адресою!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Потрібне приємне світло для дому? Звісно, потрібне!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Я продаю світло - не забувай про це!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Не дай темряві проникнути в твої мрії!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Потрібно більше світла в домі? Чому б не купити пару світильників?",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Думаєш, чи є що-небудь прекрасніше за світло? Я думаю, ні!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "Ласкаво просимо в мій магазин! Тут ти можеш купити симпатичні світильники!",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Відмінно. Тепер не хотів би ти подивитися, які світильники у мене є в продажу?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Ми прийшли - хочеш купити трохи світла?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Приходь до мене в будь-який час, якщо знадобиться світло!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Не бійся темряви! Приходь знову, якщо буде потрібно більше світла!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Повертайся за новими покупками!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Приємно було мати з тобою справу!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Згадай мене, якщо знадобиться освітлення!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "Не забувай, що ти завжди можеш повернутися, якщо тобі знадобиться освітлення!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Приємно було мати з тобою справу, ще побачимося!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/6",
+    "op": "replace"
+  }
+]

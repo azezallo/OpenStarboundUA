@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Згорнутий тюк сіна."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рулон сіна"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Щільно згорнуте сіно."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Птахи так сіно не скочують."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це сіно могло покотитися!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Щаслива. Сіно все закатано і готове до продажу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Великий великий рулон сіна."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Надводна рослина, висушена і згорнута в пучок."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це спокуса підштовхнути цей рулон сіна..."
+  }
+]

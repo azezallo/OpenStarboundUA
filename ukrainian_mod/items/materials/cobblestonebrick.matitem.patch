@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бруківка"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дрібні цеглинки з бруківки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Спостережливий. Ця цегла зроблена з бруківки."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Гладка бруківка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Цегла з бруківки."
+  }
+]

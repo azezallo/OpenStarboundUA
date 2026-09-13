@@ -1,0 +1,32 @@
+[
+  {
+    "value": "^green;Наближається претендент",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Гей, чемпіоне! Один хлопець запросив мене на ^orange;турнір гладіаторської арени^white;, але я думаю, що замісссть мене варто піти тобі. Якщо відчуваєш у сссобі сссили, ^green;поговори зі мною, і я зможу відправити тебе на перший раунд^white;!",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти вижив! Знала, що тобі це вдасссться. Гарна робота, чемпіоне!",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "Поговори з ^orange;Нуру^reset;, щоб вирушити на ^orange;арену^reset;",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "op": "replace"
+  },
+  {
+    "value": "Переможи в битві на арені",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "op": "replace"
+  },
+  {
+    "value": "Повернись до ^orange;Нуру^reset; на ^orange;Аванпост^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  }
+]

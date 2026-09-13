@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чашка для кави зі скла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скляна чашка для кави"
+  }
+]

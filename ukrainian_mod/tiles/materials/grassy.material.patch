@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блок дернової покрівлі з ростом трави."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерновий блок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Здається, на цій дерновій покрівлі є жива трава."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану подобається покрівля з трав’яного дерну."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Покрівля з трав’яного дерну, дещо приємне в її простоті."
+  }
+]

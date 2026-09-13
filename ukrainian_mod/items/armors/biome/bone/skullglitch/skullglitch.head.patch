@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Череп глюка. Ну, не зовсім череп, але постаралися."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Глюкова маска черепа"
+  }
+]

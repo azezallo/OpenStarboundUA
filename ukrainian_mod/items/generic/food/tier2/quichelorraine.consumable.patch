@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Класичний киш з беконом. Ідеально підходить для пікніків!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кіш Лотарингія"
+  }
+]

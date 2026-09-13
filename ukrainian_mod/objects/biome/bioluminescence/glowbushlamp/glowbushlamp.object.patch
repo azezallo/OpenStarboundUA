@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кущ, який випромінює приємне сяйво."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лампа Glow Bush"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Милий світиться кущ. Найкраще працює вночі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Чудовий спосіб освітлити кімнату."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не прихильник рослин у горщиках."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Студійний. Світіння створюється природною біолюмінесценцією квітки."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "На природне світло приємно дивитися."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей чудовий природний світильник захоплює дух."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Чи дійсно рослина в горщику вважається лампою?"
+  }
+]

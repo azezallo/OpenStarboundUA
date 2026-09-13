@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Коли вашим гранатам потрібна певна відстань."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Звичайний гранатомет"
+  }
+]

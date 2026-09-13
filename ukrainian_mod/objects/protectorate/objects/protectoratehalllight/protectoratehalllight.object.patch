@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Зал Spotlight"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Світло, призначене для привернення уваги до певної області."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це маленький прожектор."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це маленький прожектор."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssspotlight."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Прожектор."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Абсолютно звичайний прожектор."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Звичайний прожектор."
+  }
+]

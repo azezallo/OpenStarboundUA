@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця спідниця оманливо міцна і надзвичайно гнучка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шаманська спідниця"
+  }
+]

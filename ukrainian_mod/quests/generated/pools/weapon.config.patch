@@ -1,0 +1,67 @@
+[
+  {
+    "value": "Пістолет-кулемет",
+    "path": "/0/1/0/name",
+    "op": "replace"
+  },
+  {
+    "value": "Штурмова гвинтівка",
+    "path": "/0/1/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Дробовик",
+    "path": "/0/1/2/name",
+    "op": "replace"
+  },
+  {
+    "value": "Пістолет",
+    "path": "/0/1/3/name",
+    "op": "replace"
+  },
+  {
+    "value": "Ракетниця",
+    "path": "/0/1/4/name",
+    "op": "replace"
+  },
+  {
+    "value": "Гранатомет",
+    "path": "/0/1/5/name",
+    "op": "replace"
+  },
+  {
+    "value": "Снайперська гвинтівка",
+    "path": "/0/1/6/name",
+    "op": "replace"
+  },
+  {
+    "value": "Широкий меч",
+    "path": "/0/1/7/name",
+    "op": "replace"
+  },
+  {
+    "value": "Молот",
+    "path": "/0/1/8/name",
+    "op": "replace"
+  },
+  {
+    "value": "Сокира",
+    "path": "/0/1/9/name",
+    "op": "replace"
+  },
+  {
+    "value": "Короткий меч",
+    "path": "/0/1/10/name",
+    "op": "replace"
+  },
+  {
+    "value": "Спис",
+    "path": "/0/1/11/name",
+    "op": "replace"
+  },
+  {
+    "value": "Кинджал",
+    "path": "/0/1/12/name",
+    "op": "replace"
+  }
+]

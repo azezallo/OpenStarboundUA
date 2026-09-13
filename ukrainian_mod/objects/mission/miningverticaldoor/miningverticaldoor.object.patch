@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дверний отвір вертикального люка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гірничий люк"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Вертикальні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Грубо сконструйований люк."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Люк відкритий... Люк закритий."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Цей люк призначений для вертикального доступу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Люка для горизонтального руху просто недостатньо."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Іржавий люк, зроблений з урахуванням функціональності."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Люк в підлозі. Я можу через нього перелізти."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Будь напоготові, солдате!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/0",
+    "value": "Вороги Міннаук!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/1",
+    "value": "Слава Великому Мавпу! Знищити агітатора!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/2",
+    "value": "Помічено ворога! Знищити!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/3",
+    "value": "За нашого славного лідера!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/4",
+    "value": "Помічено ворога! Вогонь на ураження!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/5",
+    "value": "Вороги в полі зору!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default/6",
+    "value": "Вбий дисидента, отримай підвищення!"
+  }
+]

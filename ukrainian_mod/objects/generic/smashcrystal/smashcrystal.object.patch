@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Розбитий кристал. Настав час розібратися."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розбитий кристал"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я повинен розбити цей кристал!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Розбити цей кристал буде задоволенням."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сссмаши блискучий!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "схвильований. Якщо розбити цей кристал, ви отримаєте велике багатство."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Час влаштувати кришталевий безлад."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Сині кристали. Гарненька. Сподіваюся, я їх не розіб'ю!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я щойно отримав найсильніше бажання розбити цей кристал."
+  }
+]

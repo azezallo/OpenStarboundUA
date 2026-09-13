@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Можна використовувати один раз для розкопок скам’янілості, але з обмеженим успіхом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Базовий пензель Fossil"
+  }
+]

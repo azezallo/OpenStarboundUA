@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Знак вказує на щось пов’язане з медициною поблизу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак медичної бухти"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Apex мають одні з найкращих медичних технологій у всій галактиці, але також мають найнижчу очікувану тривалість життя."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хіба не всі раси також мають священиків-цілителів?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Чи можна їсти вмираючі смаколики?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Можливість дізнатися про органічну фізіологію."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже на табличку лікарні."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Можливо, поблизу є місце зцілення."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Тут зберігається медичне обладнання."
+  }
+]

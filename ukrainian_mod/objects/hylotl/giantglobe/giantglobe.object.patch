@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика бронзова статуя рідної планети Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуя глобуса"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Мабуть, це модель рідної планети Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Можливо, модель рідної планети Гілотла?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Тупа планета риболюдей."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Це рідна планета Гілотла?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Виглядає як велика статуя рідної планети Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ах, дім, милий дім."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Планета, яку я не впізнаю."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Станція безпеки від Академії Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Станція безпеки Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Широкі заходи безпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця машина сканує багаж."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Машина сканує пакети та заглядає всередину."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Незручно. Металошукачі можуть стати для нас кошмаром."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Станція охорони. У мене немає на це часу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Машина для вторгнення в приватне життя."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Сканер сумки. Я збираюся пропустити це сьогодні."
+  }
+]

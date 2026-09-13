@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Використовуйте цю натискну пластину з розумом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стародавня натискна плита"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цікаво, з якими механічними чудесами може з’єднатися ця натискна пластина."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Подібні плитки під тиском часто зустрічаються в гробницях птахів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Обережно. Найменший крок може викликати цю пластину."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Ця плитка може бути використана для запуску будь-якої кількості речей."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Наступивши на цю стару плитку, можна спровокувати пастку!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я бачив такі плитки, які використовували в стародавніх пастках."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця плитка виглядає так, ніби її можна щось підлаштувати."
+  }
+]

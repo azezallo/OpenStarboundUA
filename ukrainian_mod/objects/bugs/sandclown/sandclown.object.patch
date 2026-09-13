@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хто б жив у пустелі? Цей клоун."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Піщаний клоун"
+  }
+]

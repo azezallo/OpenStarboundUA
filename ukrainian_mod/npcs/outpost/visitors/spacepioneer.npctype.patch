@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Космічні подорожі - це оптимізм! Запам'ятай це.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Дослідження невідомих частин космосу дуже важливе для піонерів на кшталт мене.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Я шукаю підхощу заміну Землі. Поки ще не було жодної ідеальної. Але це поки!",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я першопроходець космічних подорожей. Я досліджую нові захопливі світи.",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Я волію думати про себе, як про піонера космосу. Не те, щоб я багато подорожував, але...",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "op": "replace"
+  }
+]

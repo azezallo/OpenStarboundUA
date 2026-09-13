@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шкура великої снігової тварини."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Велика сніжна шкіра"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Красиве хутро з малюнком. Б'юсь об заклад, що ця істота була видовищем."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хутро якогось чорно-білого смугастого звіра."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Хутро рідкісних візерунків і кольорів. Цінний для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зляканий. Забарвлення припускає, що ця тварина походить з холодного середовища. Ніщо, здається, не може приборкати кровожадність Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Нагадує мені білого тигра. Вони вимерли кілька століть тому."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Полювати на таке красиве створіння. Це варварство."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це гарна візерункова шкіра."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ці двері навряд чи підходять для захисту від негоди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивні двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тонкі дерев'яні двері. Він гойдається на вітрі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Марні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не замкнув двері. Флоран не ссс краде в інших Флоран."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Збентежений. Ці двері не повинні існувати, вони абсолютно марні."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я не впевнений, що це дуже ефективні двері."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Двері з потворного, необробленого дерева."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Не багато вказівок на ці двері."
+  }
+]

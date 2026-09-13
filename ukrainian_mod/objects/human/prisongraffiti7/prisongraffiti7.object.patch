@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Слова «геть» написані кров'ю. Можна сказати, що письменник був серйозний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Графіті"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це графіті ніби написане кров'ю."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Очевидно, що художник мав хист до драматичного."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Фарба смачно пахне."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Незручно. Кров, використана тут, походить від Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ні, ти виходь!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цьому художнику графіті потрібно взяти тайм-аут."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Написано кров'ю. Це був свій?"
+  }
+]

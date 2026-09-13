@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Традиційна солом'яна покрівля."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Солома"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "в захваті. Ця солома нагадує мені простіші часи."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Покрівля з сухої соломи."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Багатошаровий покрівельний шматок із соломи."
+  }
+]

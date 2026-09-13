@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кидання валуна"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Корисно для бою або просто для показу."
+  }
+]

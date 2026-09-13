@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Не зовсім бруд, не зовсім бруд... це мокрий бруд."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мокрий бруд"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Не вражений. Це просто бруд, просочений водою."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Вологий бруд корисний для рослин."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Просто мокрий на вигляд бруд."
+  }
+]

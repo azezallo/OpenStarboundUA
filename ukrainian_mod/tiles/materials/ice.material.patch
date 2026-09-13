@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Лід",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Твердий лід, холодний на дотик.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Уважність. Здається, цей лід природного походження.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Холодний цілісссний лід.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Купа льоду, файно для напоїв.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

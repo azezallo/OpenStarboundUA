@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": " Ковадло покращ. зброї"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": " Покращуйте свою зброю тут!"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/essenceCostDescription/value",
+    "value": "ПОТР. ЕСЕНЦІЯ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/btnUpgrade/caption",
+    "value": "Покращ."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/cancel/caption",
+    "value": "Скас."
+  },
+  {
+    "op": "replace",
+    "path": "/gui/emptyLabel/value",
+    "value": "Ви не маєте зброї, яку можна покращити!"
+  }
+]

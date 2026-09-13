@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вуглинки танцюють від багаття, зігріваючи повітря. Тепло можна використовувати для приготування їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^orange;Catch1GAT"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Здорове багаття. Я міг би з ним приготувати їжу."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Вогнище. Це корисно для простого приготування їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран ненавидить вогонь, але любить готувати. Приготування веде до їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інформований. Розігрів м'яса на вогні є основним способом приготування їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Мені завжди подобалося спостерігати за танцем полум’я біля багаття."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Багаття, мені подобається простота їжі, приготованої на вогні."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Підсмажене багаття для приготування їжі. Що тобі ще треба?"
+  }
+]

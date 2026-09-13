@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/joinMessage",
+    "value": "^green;<username>^reset; (Discord) хоче доєднатись.\n\nПрийняти?"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": "Запит входу"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "value": "Запит входу (Discord)"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/yes/caption",
+    "value": "Так"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/no/caption",
+    "value": "Ні"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/ignore/caption",
+    "value": "Ігнор."
+  }
+]

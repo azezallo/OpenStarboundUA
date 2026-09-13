@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Грізний, листяний одяг на грудях. Полювання розпочато!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хижа скриня"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Електрична бас-гітара. Встановіть якийсь ритм."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Електрична бас-гітара"
+  }
+]

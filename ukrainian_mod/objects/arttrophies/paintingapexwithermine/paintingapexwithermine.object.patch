@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тиха картина Apex з домашнім улюбленцем."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розпис домашніх тварин"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Apex точно люблять своїх ласок. У них набагато більше характеру, ніж у котів!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця фігура поклоняється цій тварині? Або вони просто володіють ним?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Пухнаста закуска! Флоран хоче вирвати його з картини!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Для цієї картини ця тварина певний час трималася нерухомо."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це горностай чи горностай?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця фігура єдина з природою або, принаймні, з цією твариною."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це кумедна тварина, яку можна потримати для малювання."
+  }
+]

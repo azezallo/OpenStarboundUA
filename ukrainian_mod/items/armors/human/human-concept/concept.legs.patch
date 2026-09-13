@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вони довші за звичайні шорти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Повсякденні шорти"
+  }
+]

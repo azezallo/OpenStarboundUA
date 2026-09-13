@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Знак бібліотеки. Сюди до бібліотеки!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Знак бібліотеки"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця будівля має бути бібліотекою."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "книга? Це може бути бібліотека."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Місце для читання книжок."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Знак бібліотеки."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Знак бібліотеки."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ах, знайомий знак бібліотеки."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Книги. Можливо, це бібліотека."
+  }
+]

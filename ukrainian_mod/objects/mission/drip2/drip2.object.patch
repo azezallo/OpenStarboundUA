@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "З цього місця капає кислота."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Джерело кислотної краплі"
+  }
+]

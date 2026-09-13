@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Яскраво-жовтий жучок, його крила пахнуть маслом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Масляна бджола"
+  }
+]

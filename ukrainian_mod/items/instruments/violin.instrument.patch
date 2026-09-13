@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Скрипка. Поки що не вклоняйся."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скрипка"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Лавка, знайдена в Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лава Земного Захисту"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Гарна практична лавка."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це лавка для сидіння. На жаль, я зараз не маю на це часу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Лава виглядає зручною для сидіння. Якби тільки Флоран встиг зробити sso."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Це лавка з металу."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це лавка, на якій поміщається кілька людей. Принаймні три!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Широка лава."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Якби я мав час відпочити ногам, я б зробив це на цій ось лавці. Але я ні."
+  }
+]

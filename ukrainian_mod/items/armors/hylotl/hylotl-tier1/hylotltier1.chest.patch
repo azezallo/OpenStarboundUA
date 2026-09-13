@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей нагрудний щиток виготовляється за допомогою стародавньої техніки Гілотл, яка плете залізо, як солому."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Puddle Chestguard"
+  }
+]

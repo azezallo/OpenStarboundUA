@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Механічна рука, оснащена важкою гарматою Гатлінга."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гатлінг Gun Mech Arm"
+  }
+]

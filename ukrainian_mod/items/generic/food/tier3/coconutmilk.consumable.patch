@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Найкраща причина розкрити кокос. Смак приголомшливий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кокосовий напій"
+  }
+]

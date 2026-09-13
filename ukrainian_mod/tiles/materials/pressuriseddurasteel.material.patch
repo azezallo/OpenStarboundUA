@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Ця панель зроблена для приміщень, схильних до перепадів тиску.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Герметич. дюрасталь",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Зацікавленість. Ця дюрасталева панель розроблена для роботи в середовищі з підвищеним тиском.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Міцна дюрасссталева панель.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Блискуча дюрасталева панель, файна робота.",
+    "path": "/novakidDescription",
+    "op": "replace"
+  }
+]

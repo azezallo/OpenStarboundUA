@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Генетично вдосконалений банан."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Банан"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вогняний Лумот"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Полум'я горить лише тоді, коли Люмот махає крилами."
+  }
+]

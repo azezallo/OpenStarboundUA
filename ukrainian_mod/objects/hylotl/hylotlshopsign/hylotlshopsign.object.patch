@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Веселий вітальний знак, призначений для магазинів, що належать Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дружній Hylotl знак"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це веселе обличчя Hylotl вітає мене в магазині. Як я можу протистояти?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це обличчя виглядає досить привітним."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дурне обличчя риболюдини."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Можливо, мені варто подивитися, що пропонує цей магазин."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це веселе обличчя Гілотла спокушає мене в цей магазин."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Знак позначає хороше обслуговування клієнтів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Вивіска магазину. Можливо, мені варто подивитися, що вони продають."
+  }
+]

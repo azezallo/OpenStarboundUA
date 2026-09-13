@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Велика миска змішаних овочів. Поживний!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "садовий салат"
+  }
+]

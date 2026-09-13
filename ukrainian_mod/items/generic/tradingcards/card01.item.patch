@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Знак вдячності від галактичного пекаря."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Колекційна картка №01"
+  }
+]

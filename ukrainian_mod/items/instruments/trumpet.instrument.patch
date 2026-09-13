@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A trumpet. Намагайтеся не сурмити у власний ріг."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "труба"
+  }
+]

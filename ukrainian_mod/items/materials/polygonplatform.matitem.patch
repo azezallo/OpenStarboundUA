@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гладка платформа з \"Hard Light\"."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Багатокутна платформа"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "зацікавлений. Платформа з \"Hard Light\"."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Ця платформа повна енергії."
+  }
+]

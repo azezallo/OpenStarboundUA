@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Важкий кам’яний лук, майже занадто жорсткий, щоб натягнути його."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рок Лук"
+  }
+]

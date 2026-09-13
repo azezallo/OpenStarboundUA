@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Двері з веселим віночком."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Величезні квіткові двері"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Дерев'яні двері, прикрашені вітальним вінком."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Той, хто поклав тут цей вінок, хотів, щоб люди відчували себе гостинними."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран використовує вінок як знак для секретного мисливського клубу."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Двері з віночком."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Які веселі двері."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці двері створені, щоб бути гостинними."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарні двері для гостинної оселі. Як гарна усмішка на привітному обличчі."
+  }
+]

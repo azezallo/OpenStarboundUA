@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Спонукати... штовхати... підніматися!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Велика червона кнопка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Стоячи на цьому, можна щось активувати."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Велика червона кнопка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Потрібна кнопка!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "опір. Відчуває непереборне бажання натиснути кнопку."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Як я можу не штовхати це?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я розумію бажання натиснути кнопку, коли вона відкривається. Але ви повинні практикувати самоконтроль, керувати своїми бажаннями."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Я просто маю натиснути цю кнопку!"
+  }
+]

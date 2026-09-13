@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створіть свого власного селянина Hylotl!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Hylotl Spawner"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Нерест Hylotls. Е... може пізніше."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Мені доведеться стежити, щоб не використовувати це занадто часто."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран викликає риболюдину прямо в меч!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нещирий. Зустріч Hylotl була б просто чудовою."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Гадаю, один Хайлотл не завадить..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Яка радість! Нарешті я можу знову оточити себе культурою."
+  }
+]

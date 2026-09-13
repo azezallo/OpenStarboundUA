@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Телевізор! Я не думаю, що це працювало протягом тривалого часу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Старий телевізор"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Телевізор. Я чекаю побачити обличчя Великої мавпи."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Монітор, для перегляду старих передач."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Buzzy рухомі картинки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Телебачення – справді найцінніший товар людства."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Немає нічого кращого, ніж відпочити на дивані за суботнім ранковим переглядом мультиків."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Хоча технологія вражає, багато телешоу позбавлені художніх достоїнств."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Старий добрий телевізор. Мені подобається спостерігати за розкриттям суворої таємниці."
+  }
+]

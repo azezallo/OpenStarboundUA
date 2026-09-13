@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дивна суміш клітинок."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Будова клітини"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Наскільки незвично, це мутація? З чого починалися ці клітини?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці клітини тривожно великі."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це рослини чи м’ясо?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Зачарований. Я не можу зрозуміти походження цих структур."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Нагадує мені урок фізики. Або це була біологія?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Дивний, але новий об’єкт. Не особливо привабливий, але цікавий."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гігантські клітини? Хто це тут залишив?"
+  }
+]

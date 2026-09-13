@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Папір розірваний, а слова розмазані."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Розірвана записка USCM"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я впевнений, що все це було дуже важливо."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я не можу повністю розібрати слова."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не може прочитати це пошкоджене повідомлення. Шкода!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Схоже, це була пасивно-агресивна нота, спрямована на крадіжку молока."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Очевидно, це було надзвичайно важливе повідомлення від USCM. Зараз неможливо читати."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Схоже, на цей папір була розлита рідина."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Повідомлення втрачено назавжди. Це не могло бути важливим."
+  }
+]

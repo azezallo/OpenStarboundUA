@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Липкий смоляний стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дегтярний стілець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Виглядає як звичайний стілець, але я йому чомусь не вірю."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Сидячи на цьому стільці, ви напевно втратите кілька пір’їнок."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флорану краще сидіти на підлозі, ніж на липкому стільці."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Незадоволений. Незручне сидіння не заспокоює."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Досить незадовільне сидіння."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Будь-яке крісло, яке не хоче, щоб ви залишали його, лише стримує вас."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей стілець має одну липку поверхню. Це просто неправильно."
+  }
+]

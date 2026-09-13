@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Брудний вигляд бруду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Бруд"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Байдуже. Це основний грунт."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Брудний бруд!"
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Брудний вигляд."
+  }
+]

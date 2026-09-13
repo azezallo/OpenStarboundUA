@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перила, скріплені кістками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крива кістка Перила"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Конфігурація кісток робить це поруччя досить міцним."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Як хворобливо. Жоден птах не буде використовувати кістки таким чином."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Міцна кістка для перил безпеки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Зміцнити перила кісткою непросто."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Це поруччя складається з гігантських кісток. Досить міцний"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Неприємно бачити, як кістки використовують таким чином."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Кілька кісток пов’язані, використовувалися як поручні."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Високотехнологічний механічний корпус у стилі Apex, що працює від вентильованого реактора холодного синтезу."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Dominion Mech Body"
+  }
+]

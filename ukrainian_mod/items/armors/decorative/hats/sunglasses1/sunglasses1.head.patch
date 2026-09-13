@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вони модно захистять мої очі від яскравого сонця."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сонцезахисні окуляри"
+  }
+]

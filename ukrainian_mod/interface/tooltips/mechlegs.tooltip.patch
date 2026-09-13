@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/speedStatLabel/value",
+    "value": "Швидк. руху"
+  },
+  {
+    "op": "replace",
+    "path": "/jumpStatLabel/value",
+    "value": "Сила стрибка"
+  }
+]

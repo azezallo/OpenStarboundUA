@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це Сілт. Це дуже замулено."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пухкий мул"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Незручно. Важко утримати мул від просочування моїх компонентів."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Мул. Так запорошено."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Велика купа пилового мулу."
+  }
+]

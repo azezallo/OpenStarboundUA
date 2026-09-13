@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже елегантні механічні прискорювачі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Елегантні механічні прискорювачі"
+  }
+]

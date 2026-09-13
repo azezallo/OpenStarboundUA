@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ця емблема символізує вільний і текучий елемент повітря."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Пташина повітряна емблема"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Пташиний символ повітря."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це авіаційна емблема, як я міг це забути."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Swishy liness означає повітряну стихію."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Обізнаний. Я вважаю, що цей символ є повітряною емблемою птахів."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я припускаю, що цей символ означає повітря або вітер."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Досить грубе зображення стихії повітря."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже на розсипану пташину різьбу вітру."
+  }
+]

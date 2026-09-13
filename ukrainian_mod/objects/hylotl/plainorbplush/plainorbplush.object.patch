@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чарівний плюш Normal Virorb."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Virorb Plushie"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Чи підірватиме це моє здоров'я, якщо я наклею його на голову?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Незважаючи на те, що вони небезпечні в дикій природі, вони дуже милі в плюшевому вигляді."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Надокучливі істоти."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Засмучений. Чи цей плюш виснажить моє здоров'я, якщо я одягну його собі на голову?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я ніколи не помічав, які милі Virorbs насправді!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Для небезпечних створінь вони дуже милі."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Мені здається, ця річ дуже мила."
+  }
+]

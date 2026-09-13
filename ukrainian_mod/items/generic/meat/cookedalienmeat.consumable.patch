@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Плитка смачно приготованого чужорідного м’яса."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Приготований стейк"
+  }
+]

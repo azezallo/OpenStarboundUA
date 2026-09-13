@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Boastful. We Glitch are used to fixing machinery far more complex than the stuff you see here."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "value": "Boastful. We Glitch are used to fixing machinery far more complex than the stuff you see here."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/glitch/0",
+    "value": "Friendly. How are you at fixing things up?"
+  }
+]

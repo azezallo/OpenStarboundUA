@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": " Торг. товарами"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": " Торгуй товарами для прибутку"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/btnBuy/caption",
+    "value": "КУПИТИ"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/btnSell/caption",
+    "value": "ПРОДАТИ"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Блок із упакованої рослинної маси."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Рослинна речовина"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "зацікавлений. Рослинні речовини якимось чином спресовані в цей блок."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Флоран любить рослини."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Рослини і листя бунчі перетерти разом."
+  }
+]

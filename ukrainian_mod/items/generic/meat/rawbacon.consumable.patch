@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сирі смужки бекону. Я повинен спочатку їх приготувати, так?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сирий бекон"
+  }
+]

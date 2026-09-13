@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це лазерний діод."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Лазерний діод"
+  }
+]

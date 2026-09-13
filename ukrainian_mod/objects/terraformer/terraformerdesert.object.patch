@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Перетворює клімат планети на піщану пустелю."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Піщаний терраформер"
+  }
+]

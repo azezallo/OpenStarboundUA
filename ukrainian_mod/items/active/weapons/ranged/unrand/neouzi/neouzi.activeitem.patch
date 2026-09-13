@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Класичний узі, тепер з лазерними патронами. звичайно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нео Узі"
+  }
+]

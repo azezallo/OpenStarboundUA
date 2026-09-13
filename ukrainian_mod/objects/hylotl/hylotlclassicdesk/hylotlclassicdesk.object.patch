@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Письмовий стіл в класичному стилі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Класичний стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Письмовий стіл із великою кількістю речей. приємно!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Здається, що такий стіл зберігає багато секретів у своїх ящиках."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Великий дерев'яний столик."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нейтральний. Це старий письмовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Старий, затхлий письмовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Це чудовий приклад письмового столу."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Письмовий стіл. Мені не подобається проводити на них багато часу."
+  }
+]

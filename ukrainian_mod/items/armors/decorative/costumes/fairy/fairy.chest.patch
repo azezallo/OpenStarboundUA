@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Танцювальний топ забезпечує на 300% менше тремтіння."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Танцювальний топ"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жовтий Glowstick"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Створює жовте біолюмінесцентне світіння при киданні!"
+  }
+]

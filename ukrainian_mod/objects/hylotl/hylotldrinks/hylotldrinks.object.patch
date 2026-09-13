@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Синій торговий автомат"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Торговий автомат, наповнений популярними напоями."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тут повно всіляких безалкогольних напоїв."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Напої тут трохи солодкі, як на мій смак..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не любить занадто солодкі напої."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Я був би не проти спробувати деякі з цих іноземних напоїв."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Автомат з продажу безалкогольних напоїв. Цікаво, яка на смак Риф-Кола?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Особисто я дуже прихильний до Reef-Cola."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ніколи не був великим прихильником газованих напоїв."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Торговий автомат"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Смачні закуски"
+  }
+]

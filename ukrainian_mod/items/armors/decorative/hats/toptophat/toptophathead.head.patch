@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Більш джентльменський, чи не так?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Верхній циліндр"
+  }
+]

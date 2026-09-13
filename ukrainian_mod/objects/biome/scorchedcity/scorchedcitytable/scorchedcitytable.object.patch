@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Округлий дерев'яний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Круглий стіл"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Базовий круглий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Круглий стіл, він чудово простий."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Простий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Окружність цього столу ідеально кругла."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Округлий дерев'яний стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Простий по дизайну стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарний дерев'яний стіл."
+  }
+]

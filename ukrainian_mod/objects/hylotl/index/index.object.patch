@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Традиційний покажчик, заповнений картками."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Картотека"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Яка кропітка робота по утриманню цієї речі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Деяким людям напевно дуже подобаються книжки."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Дуже багато крихітних шматочків паперу. для чого?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Glitch не потрібно нічого індексувати на крихітних картках."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Моє серце з тим, хто зберігає цю скам’янілість."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Славетний пам'ятник організації."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Для чого ця штука?"
+  }
+]

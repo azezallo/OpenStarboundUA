@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Випускає рій керованих міні-ракет."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ракетна стійка Mech Arm"
+  }
+]

@@ -1,0 +1,447 @@
+[
+  {
+    "op": "replace",
+    "path": "/sourceNames/0",
+    "value": "Albina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/1",
+    "value": "Alexandra"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/2",
+    "value": "Alina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/3",
+    "value": "Alisa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/4",
+    "value": "Alla"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/5",
+    "value": "Alyona"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/6",
+    "value": "Anastasiya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/7",
+    "value": "Anfisa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/8",
+    "value": "Anna"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/9",
+    "value": "Antonina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/10",
+    "value": "Anzhelika"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/11",
+    "value": "Darya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/12",
+    "value": "Diana"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/13",
+    "value": "Dina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/14",
+    "value": "Dominika"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/15",
+    "value": "Ekaterina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/16",
+    "value": "Elena"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/17",
+    "value": "Elizaveta"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/18",
+    "value": "Elvira"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/19",
+    "value": "Emilia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/20",
+    "value": "Emma"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/21",
+    "value": "Eva"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/22",
+    "value": "Evgeniya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/23",
+    "value": "Faina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/24",
+    "value": "Fedosia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/25",
+    "value": "Florentina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/26",
+    "value": "Galina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/27",
+    "value": "Inessa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/28",
+    "value": "Inga"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/29",
+    "value": "Inna"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/30",
+    "value": "Irina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/31",
+    "value": "Iskra"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/32",
+    "value": "Izabella"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/33",
+    "value": "Izolda"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/34",
+    "value": "Kapitolina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/35",
+    "value": "Klara"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/36",
+    "value": "Klavdiya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/37",
+    "value": "Klementina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/38",
+    "value": "Kristina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/39",
+    "value": "Kseniya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/40",
+    "value": "Lada"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/41",
+    "value": "Larisa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/42",
+    "value": "Lidiya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/43",
+    "value": "Liliya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/44",
+    "value": "Lubov"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/45",
+    "value": "Lucya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/46",
+    "value": "Ludmila"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/47",
+    "value": "Malvina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/48",
+    "value": "Margarita"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/49",
+    "value": "Marina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/50",
+    "value": "Mariya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/51",
+    "value": "Marta"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/52",
+    "value": "Maya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/53",
+    "value": "Nadezhda"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/54",
+    "value": "Natalya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/55",
+    "value": "Nelly"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/56",
+    "value": "Nika"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/57",
+    "value": "Nina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/58",
+    "value": "Nonna"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/59",
+    "value": "Oksana"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/60",
+    "value": "Olesya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/61",
+    "value": "Olga"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/62",
+    "value": "Polina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/63",
+    "value": "Rada"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/64",
+    "value": "Raisa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/65",
+    "value": "Regina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/66",
+    "value": "Renata"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/67",
+    "value": "Rozalina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/68",
+    "value": "Sofia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/69",
+    "value": "Svetlana"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/70",
+    "value": "Taisia"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/71",
+    "value": "Tamara"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/72",
+    "value": "Tatyana"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/73",
+    "value": "Ulyana"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/74",
+    "value": "Valentina"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/75",
+    "value": "Valeriya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/76",
+    "value": "Varvara"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/77",
+    "value": "Vasilisa"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/78",
+    "value": "Vera"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/79",
+    "value": "Veronika"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/80",
+    "value": "Viktoriya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/81",
+    "value": "Vladlena"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/82",
+    "value": "Yana"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/83",
+    "value": "Yaroslava"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/84",
+    "value": "Yuliya"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/85",
+    "value": "Zhanna"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/86",
+    "value": "Zinaida"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/87",
+    "value": "Zlata"
+  },
+  {
+    "op": "replace",
+    "path": "/sourceNames/88",
+    "value": "Zoya"
+  }
+]

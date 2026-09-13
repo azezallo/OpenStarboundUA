@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Факел стоячий. Освітлює гігантського звіра, який збирається вас з’їсти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Міцна підставка для факела"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Ця конструкція підставки для факела гарантує, що навколо неї нічого не спалить."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця підставка ніби піднімається вгору. мені подобається"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Смолоскип Floran зберігає вогонь."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Ця підставка для факела демонструє високий рівень майстерності."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Добре побудована підставка для факелів Floran."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я впевнений, що ця підставка для смолоскипа елегантна за стандартами Floran."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Могутньо гарна підставка для факелів."
+  }
+]

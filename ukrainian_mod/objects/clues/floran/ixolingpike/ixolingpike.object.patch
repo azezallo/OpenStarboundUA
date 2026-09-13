@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Маленька комаха, насаджена на мисливську щуку."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Іксолінг Щука"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це схоже на скелет комахи на загостреній щуці."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це схоже на скелет комахи на щуці. У комах взагалі є скелети?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран дивується, як важко було полювати на цього жука."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Цікаво. Це схоже на залишки якоїсь істоти на щуці."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Хтось посадив істоту на стовп і залишив її на виду. Цікаво, скільки цьому років?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Останки цієї істоти на щуці схожі на якийсь варварський прояв мисливської майстерності."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Від цих кісток на палиці мене мурашки мурашки, безсумнівно."
+  }
+]

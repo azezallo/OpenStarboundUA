@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це статуетка дворянина Гліча."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Статуетка Глюк"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Я не впевнений, чому хтось це робить."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Маленька чарівна фігурка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це іграшка?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Ідеальне втілення шляхетного вбрання Glitch."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Чарівна статуетка в комплекті з маленькою оксамитовою зеленою накидкою!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Трохи грубий у майстерності, але по-своєму чарівний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця маленька статуетка справді виглядає шикарно."
+  }
+]

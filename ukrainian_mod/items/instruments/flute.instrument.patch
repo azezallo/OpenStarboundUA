@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Флейта. Але чи це магія?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Флейта"
+  }
+]

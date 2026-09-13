@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Флоран зробив цей моторошний костюм!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "У цьому костюмі я зможу налякати здобич, перш ніж завдати удару!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "Ви не хочете знати, скільки пікселів Флоран нещодавно витратив на чорну фарбу!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "value": "Мій костюм такий страшний!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "value": "Ви можете сказати, що я Флоран під цим?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/5",
+    "value": "Страшне вбрання змушує людей поважати Флорана!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/6",
+    "value": "Цей одяг налякає вас у темряві?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/7",
+    "value": "Мій дім може бути ссс-моторошним, але Флоран насправді дуже доброзичливий!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/8",
+    "value": "Що ви думаєте про страшний одяг Флорана?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/9",
+    "value": "Флоран витратив купу пікселів на чорну фарбу!"
+  }
+]

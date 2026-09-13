@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кістка якоїсь невідомої істоти."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Кістка."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран, швидше за все, вб'є це."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Давно мертва кістка."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Аварійний маяк. Хто знає, хто це може почути?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Аварійний маяк"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Аварійний маяк. Я сподіваюся, що людина, яка це залишила, в порядку."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Аварійний маяк. Хтось має бути в біді."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран допомагає, а також полює. Sssometimes."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Цей маяк лиха передає на кількох частотах."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей маяк надсилає сигнал лиха."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Комусь потрібна допомога. Захист слабких — справа варта того."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Здається, це маяк лиха. Цікаво, хто це активував."
+  }
+]

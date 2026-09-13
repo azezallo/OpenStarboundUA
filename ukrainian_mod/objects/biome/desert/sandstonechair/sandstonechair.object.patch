@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крісло з пісковика. Розсипчастий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Стілець з пісковика"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Грубий, піщаний стілець."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це крісло грубе проти пір'я."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран звивається, стілець розсипається."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Оцінка. Якби двоє людей сиділи на цьому стільці разом, піщаник міг би розвалитися."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Сиди тут, і пісок буде всюди!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Стілець з грубого пісковику. Шорсткий до шкіри."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Сидіти на цьому занадто довго, і ваша спина заціпеніє."
+  }
+]

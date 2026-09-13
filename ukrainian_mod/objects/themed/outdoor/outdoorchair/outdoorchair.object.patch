@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крісло, створене для стійкості до негоди."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Відкритий стілець"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Міцний стілець. Схоже, його створили, щоб прослужити"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Крісло вуличне, цікаво, наскільки воно зручно?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Зовнішнє крісло."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Втішили. Крісло, створене для стійкості до негоди."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Відкритий стілець. Коли хочеться посидіти надворі."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Він не позбавлений стилю, але принаймні функціональний."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Старе хороше крісло."
+  }
+]

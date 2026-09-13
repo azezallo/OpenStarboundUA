@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Високий комір приховує ваше обличчя, коли ви здійснюєте підлі вчинки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Заводний жакет"
+  }
+]

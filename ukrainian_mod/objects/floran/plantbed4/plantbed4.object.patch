@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Ліжко в'язня Флорана, покрите ковдрою."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Накрита грядка для рослин"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Тюремний килимок. Принаймні є ковдра."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Підлоговий килимок із рослин."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоранські в'язні мають базові килимки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Здивований. Цей базовий килимок може виконувати роль ліжка?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Принаймні на цьому килимку є тепла ковдра."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Твердий на вигляд килимок із рослин."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже на килимок для сну, розкладений на землі."
+  }
+]

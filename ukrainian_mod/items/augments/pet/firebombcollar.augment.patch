@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нашийник, який змушує вашого вихованця вибухати, коли він зазнає поразки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нашийник Fire Bomb"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "value": "Запалювальна бомба"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Яскравий ліхтарний стовп, який найчастіше можна побачити на станціях Peacekeeper."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ліхтарний стовп миротворця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Добре зроблений ліхтарний стовп, можливо, виготовлений із армованої дюрастелі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Досить гарний світильник!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран бачив багато високих вогнів. Це також один."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вражений. Незважаючи на перший вигляд, металевий зовнішній вигляд цього ліхтарного стовпа надзвичайно міцний."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Наростаюча урбанізація не є повною без одного-двох ліхтарних стовпів!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Досить потворний ліхтарний стовп."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей ліхтарний стовп дуже високий, чи не так?"
+  }
+]

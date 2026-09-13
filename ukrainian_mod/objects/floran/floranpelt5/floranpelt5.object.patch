@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шкура маленького снігового звіра."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Мала сніжна шкірка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це хутро виглядає так, ніби воно належало дитинчаті."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Хутро молодого і красивого звіра."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Шкура молодого снігового звіра є особливою для Флорана."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "стривожений. Шкура молодого звіра, на якого вполював Флоран."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Шкура тварини з малюнком. Здається, тварина була зовсім молодою."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця шкірка Флорана виглядає як немовля. Тим більше насторожує."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Гарна тварина. Або це було."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Приваблива смугаста набедрена пов'язка, посилена вольфрамом."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Горобець Набедреник"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Листяна рослина.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Листяна рослина",
+    "path": "/shortdescription",
+    "op": "replace"
+  },
+  {
+    "value": "Флоран ховаєтьссся в цьому.",
+    "path": "/floranDescription",
+    "op": "replace"
+  },
+  {
+    "value": "Ствердження. Листяна рослина.",
+    "path": "/glitchDescription",
+    "op": "replace"
+  }
+]

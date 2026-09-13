@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Я краще переконаюся, що ця маска зволожена."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Квіткова маска"
+  }
+]

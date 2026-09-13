@@ -1,0 +1,207 @@
+[
+  {
+    "value": "Знайди підказки про місцезнаходження артефакту гілотлів",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Тепер ми повинні розпочати пошук ^orange;артефакту гілотлів^reset;. Шукай навколо ^orange;помірних зірок^reset;, ^green;та полюй на ^orange;підказки^white; на планетах з величезними просторами ^orange;океану^reset;, де гілотли живуть як над, так і під хвилями. ^green;Повертайся сюди, коли твої пошуки будуть завершені^reset;; і бережи себе.",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Це була остання підказка, необхідна нам для пошуку артефакту гілотлів. Чудова робота, любе.",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Скануй об'єкти^reset;, щоб знайти ^orange;підказки гілотлів^reset;",
+    "path": "/scriptConfig/descriptions/findClues",
+    "op": "replace"
+  },
+  {
+    "value": "Повернися до ^orange;Естер^reset; на ^orange;Ковчег^reset;",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це зображення створене вручну і вочевидь зображує будівлю культурного значення...",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/librarycodex/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Гілотли захищають і зберігають знання, як найцінніший скарб... Книги є їхнім найціннішим товаром, чи міг би їхній артефакт зберігатися серед сховища томів?",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/librarycodex/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/librarymodel/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ця бібліотека змодельована з вишуканими деталями - палац знань! Можливо, їхній артефакт знаходиться в подібному місці.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/librarymodel/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Цей акваріум має модель острова нагорі! Як цікаво.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ця музична скринька грає стародавню мелодію... Це пам'ятний об'єкт, я досліджу, яке його походження.",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Хммм, як цікаво... Мені потрібно перевірити це з іншими даними.",
+    "path": "/scriptConfig/radioMessages/genericProgress/0/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво. Це безумовно вплине на мої дослідження.",
+    "path": "/scriptConfig/radioMessages/genericProgress/1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Я не можу не поважати те, наскільки традиційна культура гілотлів цінує знання.",
+    "path": "/scriptConfig/radioMessages/genericProgress/2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Хм, цікаво...",
+    "path": "/scriptConfig/radioMessages/genericProgress/3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це чудово, все, що ти знаходиш, сприяє формуванню теорії.",
+    "path": "/scriptConfig/radioMessages/genericProgress/4/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ця підказка натякає на приховану інформацію.",
+    "path": "/scriptConfig/radioMessages/genericProgress/5/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це підтверджує те, про що я припускала!",
+    "path": "/scriptConfig/radioMessages/genericProgress/6/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Як дивно! Але несподівана інформація може бути ще більш цінною, ніж очікувана...",
+    "path": "/scriptConfig/radioMessages/genericProgress/7/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Навіть найменший доказ може допомогти розкрити найвеличніші таємниці всесвіту.",
+    "path": "/scriptConfig/radioMessages/genericProgress/8/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Це все корисно, любе. Продовжуй шукати!",
+    "path": "/scriptConfig/radioMessages/genericProgress/9/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/startWithProgress/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Здається, ти вже знайшов деякі предмети, які дають підказки щодо місцезнаходження артефакту. Я почну їх аналіз, поки ти шукатимеш інші!",
+    "path": "/scriptConfig/radioMessages/startWithProgress/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Боже мій! Ти вже маєш достатньо підказок, щоб я могла знайти артефакт! Чудова робота!",
+    "path": "/scriptConfig/radioMessages/startAlreadyComplete/text",
+    "op": "replace"
+  },
+  {
+    "value": "Естер",
+    "path": "/scriptConfig/radioMessages/complete/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Цікаво - я ніколи не чула про Велику Бібліотеку Пагоди. Зараз мені більше не потрібна інформація - ^#71f2f6;повертайся до Ковчега, коли будеш готовий^white;, любе.",
+    "path": "/scriptConfig/radioMessages/complete/text",
+    "op": "replace"
+  }
+]

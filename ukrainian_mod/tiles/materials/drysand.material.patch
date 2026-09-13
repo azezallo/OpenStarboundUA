@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Твердий, потрісканий пісок, що розсипається під ногами."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сухий пісок"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Цей пісок сухий і твердий."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Твердий сухий піщаний пісок."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Сухий на вигляд набитий пісок."
+  }
+]

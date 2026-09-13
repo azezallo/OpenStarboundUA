@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крилата урна, яка, ймовірно, переносить мертвих у потойбічне життя."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Крилата урна"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Урна з крилами."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ці урни дарували пташиним, покаліченим у бою. Урна повинна переносити мертвих в ефір."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Горщик з крилами. Горщик не літає."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Спостережливий. Крила повинні мати якесь релігійне значення."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я думаю, що це крилата урна. Повний попелу."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Куди несуть мертвих крила, цікаво?"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Крилата урна. Куди воно полетить?"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Красива клумба. Стережіться бджіл!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Квітник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Доглянута клумба. Одне з небагатьох задоволень Apex."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "У повітрі витає нудотно-солодкий запах."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран одного разу сховався в квітах, а потім вискочив на sssurprise poptop! Poptop незадоволений."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Захоплення. Надзвичайно добре окультурена клумба."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Клумба. Найкраще залишити тим, у кого зелені пальці."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Досить дитяча спроба виставити квіти."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Клумба. Максимум химерності."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей музичний автомат звучить чудово! Шкода, що здається лише одна доріжка."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "музичний автомат"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Весела музична скринька. Але там лише одна група."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей музичний автомат може оживити навіть найтемніших духів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Шумна коробка. Флоран не бачить сенсу!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Groovy. Музика впливає на мої контури таким чином, що я не можу не танцювати."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ой, у них є мій улюблений альбом! Космос став ще веселішим."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Людській музиці не вистачає тонального відтінку її відповідника Hylotl."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ці мелодії незнайомі, але непогані, мушу визнати."
+  }
+]

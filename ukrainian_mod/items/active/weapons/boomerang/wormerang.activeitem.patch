@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Жахливий гігантський хробак, кинь його в когось!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гігантський черв'як"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "value": "Гігантський черв'як ^yellow;^reset;"
+  }
+]

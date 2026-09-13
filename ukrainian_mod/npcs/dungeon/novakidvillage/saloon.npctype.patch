@@ -1,0 +1,52 @@
+[
+  {
+    "value": "Виглядаєш як стріляний горобець - певно, багато бачив, легіню.",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "У твоїх очах блищить жага до пригод, партнере.",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Завжди пий з річки вище за течією, ніж п'є череда. Так казав старий.",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Партнере, ти виглядаєш так, ніби виніс свою частку негод.",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "op": "replace"
+  },
+  {
+    "value": "Присядь, партнере. Життя не призначене для вічної гонитви.",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "op": "replace"
+  },
+  {
+    "value": "У тебе з пам'яттю все гаразд? Бо я геть не можу згадати, звідки я родом.",
+    "path": "/scriptConfig/dialog/converse/default/default/5",
+    "op": "replace"
+  },
+  {
+    "value": "Не женися за сонцем, партнере. Завтра воно знову з'явиться на обрії.",
+    "path": "/scriptConfig/dialog/converse/default/default/6",
+    "op": "replace"
+  },
+  {
+    "value": "Тільки тому, що проблеми стукають у твої двері, це зовсім не означає, що ти мусиш їх впускати.",
+    "path": "/scriptConfig/dialog/converse/default/default/7",
+    "op": "replace"
+  },
+  {
+    "value": "Я досить легко йду на контакт, адже я не з тих покидьків, про яких ти чув, файний легіню.",
+    "path": "/scriptConfig/dialog/converse/default/default/8",
+    "op": "replace"
+  },
+  {
+    "value": "Має значення не те, звідки я прийшов, а те, куди я прямую. Те ж саме стосується й інших.",
+    "path": "/scriptConfig/dialog/converse/default/default/9",
+    "op": "replace"
+  }
+]

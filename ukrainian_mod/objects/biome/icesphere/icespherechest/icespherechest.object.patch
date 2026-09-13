@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Заморожена сферична скриня. Ідеально підходить для скарбів або виготовлення кубиків льоду."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Скриня з крижаною сферою"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Округла, застигла грудна клітка. Заглянемо всередину."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Гладка, холодна, приваблива скриня."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран відкриває тремтячі шахи."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Аналіз. Лід має особливі властивості, тобто він не розтане найближчим часом."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ця скриня виглядає як іглу. Можливо, всередині білий ведмідь."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Округла, застигла грудна клітка. Чудово."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця крижана скриня зберігала мою здобич гарною та свіжою."
+  }
+]

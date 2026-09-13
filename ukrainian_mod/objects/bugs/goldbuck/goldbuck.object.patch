@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Жук із блискучими золотими крильцями, дуже гарний!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Голдбак"
+  }
+]

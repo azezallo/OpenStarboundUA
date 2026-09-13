@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/destinations/0/name",
+    "value": "Назад на Аванпост"
+  },
+  {
+    "op": "replace",
+    "path": "/destinations/0/planetName",
+    "value": "Назад до Телешопу"
+  }
+]

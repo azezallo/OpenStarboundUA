@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Чужий фрукт, дуже соковитий."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Інопланетний фрукт"
+  }
+]

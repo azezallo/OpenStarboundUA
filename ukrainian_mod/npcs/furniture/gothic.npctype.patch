@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Млява. Я відчуваю слабкість і втому."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "Похмурий. Цей всесвіт — павутина, зіткана з прихованої темряви."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "Заінтригований. Ти вважаєш мене дивним, що ношу маску?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "value": "Загрозливий. Якщо ви не боїтеся тіні, ви просто не знаєте, що там ховається."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "value": "стурбований. У цьому всесвіті є речі набагато страшніші, ніж я."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/5",
+    "value": "Хворобливий. Якщо ви думаєте, що я моторошний, вам слід побачити інші речі, які ховаються в темряві."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/6",
+    "value": "Потай. Намагайтеся не привертати зайвої уваги. Там є сили, від яких варто ховатися."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/7",
+    "value": "Worried. Long into the darkness have I peered, wondering..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/8",
+    "value": "Scared. If you stare into the abyss, that single brazen eye will stare back."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/9",
+    "value": "Меланхолія. Можливо, це милосердя, що ми по-справжньому не усвідомлюємо жахів ночі."
+  }
+]

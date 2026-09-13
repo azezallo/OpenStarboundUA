@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Старий дерев'яний різьблений глобус."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Глобус стімпанк"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Глобус ручної роботи. Цікаво, чи це точно для якої б планети це не було?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "У цьому різьбленому вручну глобусі демонструється справжня відданість."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран хоче скотити дерев'яну планету з пагорба та розтрощити ворогів."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заінтригований. Цікаво, чи точна картографія цієї земної кулі?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, яку планету зображує цей полірований дерев’яний глобус?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "У різьбленні цієї земної кулі є справжня майстерність."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Хтось справді не поспішав, щоб вирізати цей шматок."
+  }
+]

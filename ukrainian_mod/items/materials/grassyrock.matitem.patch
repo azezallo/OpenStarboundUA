@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Грубий, трав'янистий камінь."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Трав'яниста скеля"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "value": "Спостережливий. В ущелинах цієї скелі росте трава."
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "value": "Grassssy rocksss."
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "value": "Деякі скелі з ростом трави."
+  }
+]

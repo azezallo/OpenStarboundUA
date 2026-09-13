@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Хрусткий кораловий чагарник."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ember Coral"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Корал із золотистим відблиском."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Яскравий і чудовий шматочок корала."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Крісспі."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Жадібний. Золотий кораловий чагарник."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цікаво, чи гарячий цей корал, щоб так світитися."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Один із багатьох красивих видів коралів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "У них є золото, океани."
+  }
+]

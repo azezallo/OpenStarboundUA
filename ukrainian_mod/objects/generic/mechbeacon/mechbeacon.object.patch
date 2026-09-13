@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цей навідний маяк позначає положення посадкової зони."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Посадковий маяк"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Це позначає положення посадкового відсіку меха."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Цей маркер позначає простір, створений для входу механізмів."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Маяк показує, де механізми можуть увійти в простір."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Інформований. Цей тип маяка корисний для відстеження місць, де можуть пристикуватися механічні машини."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Маркер, який вказує пілотам, де посадити свої скафандри."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цей маяк призначений для позначення вхідних відсіків для мехів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Цей маркер тут, щоб позначити, де можна посадити свого механізму."
+  }
+]

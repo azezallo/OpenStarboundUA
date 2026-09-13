@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вентиляційний отвір на даху від Академії Земного Захисту."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Вентиляційний отвір на даху Protectorate"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Якась вентиляція."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Це вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Це вентиляція."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Нецікаво. Стандартна система вентиляції."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Я думаю, що це віддушина. Але кого це хвилює?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Вентиляційний отвір."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже на вентиляційний отвір."
+  }
+]

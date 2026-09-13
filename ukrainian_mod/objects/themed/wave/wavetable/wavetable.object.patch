@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Дуже витривалий хвильовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Хвильова таблиця"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей хвильовий столик дуже гладкий."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Надзвичайно міцний хвильовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Досить хороший стіл, щоб Флоран міг нарізати м’ясо."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Схвалення. Дуже добре зроблений хвильовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Класний хвильовий стіл."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Зазвичай це не мій стіл, але цей справді вражає."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Старий добрий синій стіл."
+  }
+]

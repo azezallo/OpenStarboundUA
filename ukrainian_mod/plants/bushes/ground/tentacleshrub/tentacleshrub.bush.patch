@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Гротескне щупальце."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Гротескне щупальце."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Рибна рука."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вжахнувся. Гротескне щупальце."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Капелюх-кухоль, наповнений чимось таємничим!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Чашка капелюх"
+  }
+]

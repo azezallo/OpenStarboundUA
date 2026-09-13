@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нагрудний знак, витканий з обробленої шкіри."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шкіряний нагрудник"
+  }
+]

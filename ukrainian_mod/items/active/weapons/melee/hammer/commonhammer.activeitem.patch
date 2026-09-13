@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Повільно, важко і ефективно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Звичайний молот"
+  }
+]

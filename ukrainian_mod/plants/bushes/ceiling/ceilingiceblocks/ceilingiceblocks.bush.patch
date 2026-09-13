@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Висячі крижані брили."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Висячі крижані брили."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Крижані блоки."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Заява. Висячі крижані брили."
+  }
+]

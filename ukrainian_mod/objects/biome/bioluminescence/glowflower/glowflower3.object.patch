@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сяючий стручок квітки."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Сяючий квітковий стручок"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Сяючий стручок квітки."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Є щось тривожне в цих сяючих квіткових стручках."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Сяючі стручки містять солодкий нектар."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "нервовий. Цей квітковий стручок має зловісне сяйво."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Ці сяючі стручкові квіти надто моторошні. Не моя річ."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я бачив такі стручки, що світяться, на дні океану. Їхнє світло дивне й ефірне."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Схоже на інопланетне яйце!"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Крижані двері. Не тримайте ручку занадто довго."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ice Door"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Двері з льоду. Я бачу в ньому своє відображення."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Стоячи біля цих дверей надто довго, я тремчу."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран не бачить дверей, біжить прямо до них."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Аналіз. Лід шаруватий, тому ці двері важко зламати."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Замерзлі двері. Холодний на дотик."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ці крижані двері дуже добре створені."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Чия це була ідея створити «плавкі меблі»?  Б'юсь об заклад, що це теж дуже дорого."
+  }
+]

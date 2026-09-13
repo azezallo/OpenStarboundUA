@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Сучасна рушниця, виготовлена ​​для різних злочинних організацій."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нео дробовик"
+  }
+]

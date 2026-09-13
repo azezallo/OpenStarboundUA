@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Цього ніхто не захоче. Він дуже радіоактивний."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Плутонієвий стрижень"
+  }
+]

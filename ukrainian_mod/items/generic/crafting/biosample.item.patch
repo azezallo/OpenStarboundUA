@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зразок нових біологічних сполук і генетичної інформації."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Біо зразок"
+  }
+]

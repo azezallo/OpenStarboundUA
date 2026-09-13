@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Торговий автомат, тут є якісні закуски."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Автомат станції"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей торговий автомат виглядає корисним, він міг би забезпечити деякі необхідні запаси їжі."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Схоже, що в цій машині є деякі запаси, і вона справна."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssspace закуски!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "зацікавлений. Цей торговий автомат здається в робочому стані, можливо, у нього є запаси."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Яке щастя, що тут є цей торговий автомат, я відчуваю себе трохи голодним."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Торговий автомат, подібний до тих, що знаходяться в містах Гілотла."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Ця машина схожа на робота-крамаря! Я даю йому гроші, і припаси виходять."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Торговий автомат"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Смачні закуски"
+  }
+]

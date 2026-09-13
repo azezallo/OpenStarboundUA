@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зігрійтеся з цим святковим пальто."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Святкове пальто"
+  }
+]

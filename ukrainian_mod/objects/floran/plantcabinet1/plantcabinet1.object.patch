@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Невелика шафа зі стільницею."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Маленький кабінет"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Маленька шафа дизайну Floran."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Ця маленька шафа має стільницю."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран поклав речі всередину і поклав речі зверху."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Невдоволений. Місце для зберігання в цій шафі дуже обмежене."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Схоже, розміром з тумбочку."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Типовий маленький шафа Floran."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "У ньому достатньо всього лише кілька речей."
+  }
+]

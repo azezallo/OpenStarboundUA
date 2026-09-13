@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Зловісний шолом, що огортає обличчя таємницею."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шолом темного лицаря"
+  }
+]

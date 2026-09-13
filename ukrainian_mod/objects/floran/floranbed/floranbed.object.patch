@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Кістяний каркас викликає занепокоєння, але ця хутряна ковдра виглядає дуже зручно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Примітивне ліжко"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "A bed of bone and fur. З моїм власним хутром це викликає у мене дискомфорт."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Я сподіваюся, що ліжко тепле, якщо нічого іншого."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран спить серед кісток і хутра. Запах полювання спонукає Флорана бачити добрі сни."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Огидно. Як би виглядав такий твір, зроблений із залишків глюка?"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Запах крові тримається на простирадлах."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Така неповага, звести живу істоту до предмета меблів."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Це ліжко погано смердить."
+  }
+]

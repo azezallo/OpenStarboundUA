@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Night Clawnacle"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Шкіра на його грибоподібному тілі змінює колір, коли йому загрожує небезпека."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "value": "тестова риба з ногами",
+    "path": "/0/1/0/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Ґліп",
+    "path": "/0/1/1/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Волтіп",
+    "path": "/0/1/2/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Снаунт",
+    "path": "/0/1/3/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Лілодон",
+    "path": "/0/1/4/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Міасмоп",
+    "path": "/0/1/5/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Пебліт",
+    "path": "/0/1/6/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Поптоп",
+    "path": "/0/1/7/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Булбоп",
+    "path": "/0/1/8/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Феннікс",
+    "path": "/0/1/9/1/name",
+    "op": "replace"
+  }
+]

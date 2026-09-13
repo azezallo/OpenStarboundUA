@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Корисно, коли планета ставиться до вас холодно."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Снігова піхотна скриня"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тривожний дзвіночок. Можна сподіватися, що про це ніколи не доведеться дзвонити."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Будильник"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Цей дизайн простий, але ефективний для сповіщень."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Якщо для цього є причина, цей дзвінок можна подзвонити, щоб попередити інших."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран може подзвонити, зробити великий шум!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Це можна використовувати в екстрених випадках, щоб сповістити оточуючих."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Цей дзвіночок досить простий, але він працює!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Я б обережно довіряв можливостям цього тривожного дзвінка."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Іноді простий дизайн є найкращим, цей дзвінок буде працювати чудово."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Космічні подорожі все ще хвилюють мене, навіть донині."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "value": "Ви повинні бути так само готові, як і я, досліджувати невідоме!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "value": "Ви часто подорожуєте в далекі світи?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "value": "Ви виглядаєте як починаючий шукач космічних пригод!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "value": "Це бажання стрибнути в невідоме ніколи не полишає такого астронавта, як я..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/5",
+    "value": "Ви нещодавно подорожували в глибини космосу?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/6",
+    "value": "Ви схожі на людину, яка не боїться досліджувати невідоме! Я це поважаю."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/7",
+    "value": "Я поважаю кожного, хто хоче досліджувати космос!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/8",
+    "value": "Можливо, одного дня я знайду справжню заміну Землі..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/9",
+    "value": "Що спонукає вас подорожувати в космос?"
+  }
+]

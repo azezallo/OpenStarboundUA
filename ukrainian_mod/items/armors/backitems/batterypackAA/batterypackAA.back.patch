@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Щоб ви завжди виглядали бадьорими!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Акумулятор AA"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тонко виготовлені ніжки механізму забезпечують максимально швидкий рух по землі."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ноги Hermes Mech"
+  }
+]

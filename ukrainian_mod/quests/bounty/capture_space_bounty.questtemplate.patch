@@ -1,0 +1,57 @@
+[
+  {
+    "value": "^orange;Вбити ціль",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Вбити ціль на місці",
+    "path": "/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ти вбив ціль",
+    "path": "/completionText",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Вирушай^reset; на ^green;%s^reset;",
+    "path": "/scriptConfig/objectives/findSpaceBountyStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Наблизься^reset; до ^green;Кримінального сховища^reset;",
+    "path": "/scriptConfig/objectives/findSpaceBountyStage/1",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Висадись^reset; у ^green;Кримінальному сховищі^reset;",
+    "path": "/scriptConfig/objectives/findSpaceBountyStage/2",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Шукай^reset; у космосі ^green;сховище^reset;",
+    "path": "/scriptConfig/objectives/killBountyStage/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Затримай^reset; ^green;<bounty.name>^reset;",
+    "path": "/scriptConfig/objectives/killBountyStage/1",
+    "op": "replace"
+  },
+  {
+    "value": "<bounty.name> востаннє бачили <coordinate.preposition> <coordinate.name>.",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Гарна робота з виходом у космос і захопленням <bounty.name>! Ти справжній галактичний герой.\n\nЗаходь на станцію миротворців за своєю нагородою!",
+    "path": "/scriptConfig/generatedText/complete/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ти відпустив його?! Мушу сказати, цього разу ти не впорався зі своїми обов'язками миротворця, напарнику!",
+    "path": "/scriptConfig/generatedText/failureText/default/0",
+    "op": "replace"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Це повчально! Маска верхівки, м'язова анатомія."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Анатомічна маска Apex"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Нейлонова гітара. Воно ніжно плаче."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Нейлонова гітара"
+  }
+]

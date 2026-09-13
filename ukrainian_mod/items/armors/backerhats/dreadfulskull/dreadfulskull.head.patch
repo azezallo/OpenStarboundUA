@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Жахливий череп, який щільно прилягає до вашого власного."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Жахливий череп"
+  }
+]

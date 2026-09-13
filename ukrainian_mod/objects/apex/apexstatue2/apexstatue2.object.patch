@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Вітаємо Великий Банан!"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Велика бананова статуя"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Банан, гідний великої мавпи..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Невже Апекс так обожнює свою їжу?"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Такий великий банан."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Потішили. Великий банан."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Великий банан для великої мавпи?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Ця статуя повинна мати якесь соціальне значення."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Вони люблять фрукти, га?"
+  }
+]

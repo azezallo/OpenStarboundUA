@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Тумба дерев'яна з встановленою раковиною."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Дерев'яна мийка"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Раковина підходить для кухні або ванної кімнати."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Водяний басейн."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Поверніть ручку, вода вийде!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Вдячний. Гаряча та холодна вода, як вам зручно."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Домашня раковина."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Цікаво, чи прісна вода."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Кухонна мийка."
+  }
+]

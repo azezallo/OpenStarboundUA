@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Позначки на цьому шоломі читають «Вибір убитих»."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Шлем Валькірії"
+  }
+]

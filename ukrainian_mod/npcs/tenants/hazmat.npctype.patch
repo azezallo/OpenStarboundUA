@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Цей костюм захищає мене від місцевого забруднення. Тобі, можливо, не варто мене торкатися.",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Я бачив вид хвороб, що досліджує Міннаук. Мерзенна річ.",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Всесвіт повен смертельних бактерій! Мені безпечніше в цьому костюмі.",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "op": "replace"
+  },
+  {
+    "value": "Я проводжу дослідження чужорідних бактерій. Я звик бути в різних місцях.",
+    "path": "/scriptConfig/dialog/converse/human/default/0",
+    "op": "replace"
+  },
+  {
+    "value": "Повернувшись на Землю, ми б вилікували більшість захворювань. Сподіваюся, що дані не були загублені...",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "op": "replace"
+  },
+  {
+    "value": "Бактерії скрізь! Мене турбує інфекція.",
+    "path": "/scriptConfig/dialog/converse/human/default/2",
+    "op": "replace"
+  }
+]

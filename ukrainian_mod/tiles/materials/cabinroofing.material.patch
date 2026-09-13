@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Просте покриття для кабіни."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Покрівля кабіни"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Задоволений. Цей дах кабіни має сільський шарм."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Флоран піднімає дах кабіни."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Дах кабіни, який добре тримати сухим під дощем."
+  }
+]
