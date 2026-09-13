@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Розтяжка Лассера."
+    "value": "Лазерний трипвейр"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вражений. Розтяжка з лазером."
+    "value": "Вражений. Тріпвейр з лазером."
   },
   {
     "op": "replace",

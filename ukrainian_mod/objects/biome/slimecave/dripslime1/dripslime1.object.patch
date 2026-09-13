@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Я б краще не мав слизу на своєму пір’ї."
+    "value": "Я б краще не мав слизу на своєму пір'ї."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран не фанат ssslime."
+    "value": "Флорани не фанат ссслиз."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Здається, слиз потрапляє скрізь, якщо ви це дозволите."
+    "value": "Здається, слиз потрапляє скрізь, якщо ти це дозволиш."
   }
 ]

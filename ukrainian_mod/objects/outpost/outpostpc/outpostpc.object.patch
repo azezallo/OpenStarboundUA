@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "комп'ютер. Напевно, непоганий."
+    "value": "Комп'ютер. Напевно, непоганий."
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "комп'ютер."
+    "value": "Комп'ютер."
   },
   {
     "op": "replace",
@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флорану від цього мало користі."
+    "value": "Флорану від цссього мало корисссті."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заздрісні. Потужний комп'ютер."
+    "value": "Заздрість. Потужний комп'ютер."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Солодка установка."
+    "value": "Класний комп'ютер."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Б’юся об заклад, ця штука може знайти будь-що!"
+    "value": "Закладаюся, ця штука годна знайти будь-шо!"
   }
 ]

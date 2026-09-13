@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Scorcheye"
+    "value": "Палаючий Око"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "This creature's feathery tendrils extend from its hard shell to filter bits of food from the magma as it swims."
+    "value": "Ця істота має пір'ясті щупальця, що виходять з її твердого панциря і фільтрують частинки їжі з магми під час плавання."
   }
 ]

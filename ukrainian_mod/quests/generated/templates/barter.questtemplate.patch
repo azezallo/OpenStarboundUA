@@ -1,51 +1,51 @@
 [
   {
-    "value": "Якась особа",
+    "value": "Перехожий",
     "path": "/parameters/target/example/name",
     "op": "replace"
   },
   {
-    "value": "темна, моторошна печера",
+    "value": "темну страшну печеру",
     "path": "/parameters/spawnPoint/example/name",
     "op": "replace"
   },
   {
-    "value": "Мандрівний торговець ^orange;<target>^white; нещодавно прибув ^orange;<spawnPoint>^white;<spawnPoint.direction>. <target.pronoun.capitalSubject> погодиться забезпечити нас [<receivedItems>] в обмін на [^orange;<givenItems>^white;]. ^green;Чи міг би ти віднести товари торговцю <target>^white;?",
+    "value": "Далі, мандрівний торговець ^orange;<target>^white; нещодавно прибув до ^orange;<spawnPoint>^white;<spawnPoint.direction>. <target.pronoun.capitalSubject> погодився забезпечити нас <receivedItems> в обмін на ^orange;<givenItems>^white;. ^green;Чи міг би ти віднести товари до <target>^white;?",
     "path": "/scriptConfig/generatedText/text/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Флорану потрібно торгувати з мммандрівним торговцем ^orange;<target>^white; - флоран дасть йому [^orange;<givenItems>^white;] в обмін на [^orange;<receivedItems>^white;]. Торговець щщщойно прибув ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Можеш поторгуватися з ним для флорана^white;?",
+    "value": "Далі Флорану потрібно здійссснити обмін із мандрівним торговцем ^orange;<target>^white; — Флоран віддасть йому ^orange;<givenItems>^white;, щоб отримати ^orange;<receivedItems>^white;. Торговець прибув поблизу ^orange;<spawnPoint>^white;<spawnPoint.direction> деякий час тому. ^green;Чи не міг би ти піти й обміняти це для Флорана^white;?",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Чесно. Наступний мандрівний торговець <target> зовсім нещодавно прибув<target.pronoun.obj1end> ^orange;<spawnPoint>^white;<spawnPoint.direction>. <target.pronoun.capitalSubject> погодиться забезпечити нам [^orange;<receivedItems>^white;] в обмін на [^orange;<givenItems>^white;]. Чи не міг би ти ^green;віднести товари до торговця ^orange;<target>^white;?",
+    "value": "Жвавість. Далі, мандрівний торговець <target> щойно прибув до ^orange;<spawnPoint>^white;<spawnPoint.direction>. <target.pronoun.capitalSubject> погодився надати нам ^orange;<receivedItems>^white; в обмін на ^orange;<givenItems>^white;. Чи міг би ти ^green;віднести товари до ^orange;<target>^white;?",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Дякую! [<receivedItems>] стануть у пригоді в наступній частині мого плану...",
+    "value": "Дякую! <receivedItems> стануть у пригоді в наступній частині мого плану...",
     "path": "/scriptConfig/generatedText/completionText/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Дякую! [<receivedItems>] стануть у пригоді в наступній частині мого плану...",
+    "value": "Дякую! <receivedItems> ссстануть у пригоді для нассступної частини плану Флорана...",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Вдячно. Дякую! [<receivedItems>] стануть у пригоді в наступній частині мого плану...",
+    "value": "Вдячність. Дякую! <receivedItems> стануть у пригоді в наступній частині мого плану...",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Віднеси [<givenItems>] до торговця <target>",
+    "value": "Віддай <givenItems> торговцю <target>",
     "path": "/scriptConfig/objectives/0/text",
     "op": "replace"
   },
   {
-    "value": "Повернись до жителя <questGiver> з [<receivedItems>]",
+    "value": "Повернися до <questGiver> з <receivedItems>",
     "path": "/scriptConfig/objectives/1/text",
     "op": "replace"
   }

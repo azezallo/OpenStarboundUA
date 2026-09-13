@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Частина дикої лози."
+    "value": "Частина диких лоз"
   },
   {
     "op": "replace",

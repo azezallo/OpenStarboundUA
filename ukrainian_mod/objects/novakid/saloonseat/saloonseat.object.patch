@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Незручне на вигляд салонне крісло."
+    "value": "Незручне салонне крісло."
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Дерев'яне крісло салонного типу."
+    "value": "Дерев'яне салонне крісло."
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Подушка для крісла. Флоран може сссить."
+    "value": "Крісло має подушку. Флоран може сссит."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "впевнений. Об'єктивно незручно."
+    "value": "Суб’єктивно. Об'єктивно незручно."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це не сідло, а сидіння сидіння."
+    "value": "Це не сідло, а саме сидіння."
   }
 ]

@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Стук-тук. Флоран заходить."
+    "value": "Стук-тук. Флорани заходять."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Продуманий. Я не вірю, що глюк може жити тут."
+    "value": "Турбота. Я не вірю, що глітч може жити тут."
   },
   {
     "op": "replace",

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Гарна зелена жеода."
+    "value": "Гарна зелена геода."
   },
   {
     "op": "replace",
@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Жеоди - це захоплюючі скельні утворення!"
+    "value": "Геоди – це захоплюючі скельні утворення!"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Мерехтлива жеода. Гарненька!"
+    "value": "Мерехтлива геода. Гарненька!"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Задоволений. Ах, чудова жеода!"
+    "value": "Задоволений. Ах, чудова геода!"
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Жеоди зберігають чудові таємниці всередині."
+    "value": "Геоди зберігають чудові таємниці всередині."
   },
   {
     "op": "replace",

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Автоматичний молочний коктейль! ммм"
+    "value": "Молочний коктейль Automato! Ммм."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Автоматичне струшування"
+    "value": "Шейк Automato"
   }
 ]

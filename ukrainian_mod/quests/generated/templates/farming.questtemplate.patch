@@ -1,121 +1,121 @@
 [
   {
-    "value": "Для початку ^green;посади це насіння^white;. Поливай його і дивись, як воно росте. Коли врожай дозріє, ^green;принеси флорану ^orange;[<cropList>].",
+    "value": "Для початку ^green;посссади це насіння^white;. Поливай його і дивись, як росссте. Коли врожай дозріє, ^green;принеси Флорану ^orange;<cropList>^white;.",
     "path": "/scriptConfig/generatedText/text/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Перше, що тобі варто зробити, - це ^green;посадити це насіння^white;. Як тільки виросте врожай, ^green;принеси флорану ^orange;[<cropList>]^white;. Не забувай поливати його!",
+    "value": "Перше, що тобі треба зробити — це ^green;посссадити це насіння^white;. Як тільки виросте врожай, ^green;принеси Флорану стиглий ^orange;<cropList>^white;. Не забувай поливати!",
     "path": "/scriptConfig/generatedText/text/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Дружелюбно. Почнемо з того, що ^green;мені потрібен ^orange;[<cropList>]^white;. Навіть новачок повинен вміти садити ^orange;насіння^white; і чекати.",
+    "value": "Привітність. Для початку, ^green;мені потрібен свіжий ^orange;<cropList>^white;. Навіть новачок зможе виростити його з цього ^orange;насіння^white;, маючи трохи терпіння.",
     "path": "/scriptConfig/generatedText/text/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Скептично. Я купив<questGiver.pronoun.obj1end> це ^orange;насіння^white; у торговця, і не зміг<questGiver.pronoun.obj3end> нічого з нього виростити. ^green;Можливо, ти зможеш виростити ^orange;[<cropList>]^white;.",
+    "value": "Скептицизм. Я купив<questGiver.pronoun.obj1end> це ^orange;насіння^white; у торговця і не зміг<questGiver.pronoun.obj1end> нічого виростити з нього. ^green;Можливо, ти зможеш виростити ^orange;<cropList>^white; для мене.",
     "path": "/scriptConfig/generatedText/text/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Спершу тобі потрібно ^green;посадити ^white;[^orange;<seedList>^white;]. Поливай їх, а коли вони виростуть, ^green;збери і принеси мені ^orange;[<cropList>]^green;.",
+    "value": "Спершу тобі потрібно ^green;посадити ^orange;<seedList>^white;. Регулярно поливай їх, а коли дозріють, ^green;збери ^orange;<cropList>^green; і принеси щедрий урожай мені^white;.",
     "path": "/scriptConfig/generatedText/text/first/default/0",
     "op": "replace"
   },
   {
-    "value": "По-перше, мені потрібно [^orange;<cropList>^white;]. У тебе ж є город? Тримай [^orange;<seedList>^white;]^green; на посадку^white;, коли виросте врожай, ^green;принесеш його мені?",
+    "value": "Спершу мені потрібен <cropList>, але зараз не сезон. Ти ж знаєшся на садівництві? Ось ^orange;<seedList>^white;, щоб посадити, а коли ^green;збереш урожай ^orange;<cropList>^green;, чи принесеш його мені^white;?",
     "path": "/scriptConfig/generatedText/text/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Тепер флорану потрібен ^orange;[<cropList>]. ^green;Посади і поливай ^orange;[<seedList>]. ^white;Врожай виросте, коли буде великим і хруссстким! ^green;Принеси врожай флорану.",
+    "value": "Тепер Флорану потрібен ^orange;<cropList>^white;. ^green;Посссади та поливай ^orange;<seedList>^white;. Врожай дозріє і буде готовий, коли ссстане великим та соковитим! ^green;Принеси врожай Флорану^white;.",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Далі флорану потрібно, щоб ти ^green;виростив ^orange;[<cropList>]^green; з цього сссім'я.",
+    "value": "Тепер Флорану потрібно, щоб ти ^green;вироссстив ^orange;<cropList>^green; з цього насіння^white;.",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Сором'язливо. Сподіваюся, я не надто сильно тебе напружую, але ^green;чи не міг би ти посадити ^orange;[<seedList>]^white;. І, можливо, коли врожай виросте, ^green;ти доставиш його мені^white;?",
+    "value": "Сором'язливість. Сподіваюся, це не надто обтяжливо, але ^green;чи міг би ти посадити ^orange;<seedList>^white;? А потім, коли рослини виростуть, ^green;принести свіжий урожай мені^white;?",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Схвильовано. Наступна частина мого плану включає ^orange;[<cropList>]^white;. Я не найбільший садівник, але я впевнений<questGiver.pronoun.obj1end>, що ти зможеш його виростити. ^green;Візьми це ^orange;насіння^green; і вирости мені врожай.",
+    "value": "Захоплення. Наступна частина мого плану потребує ^orange;<cropList>^white;. З мене не найкращий садівник, але я впевнен<questGiver.pronoun.obj1end>, що ти впораєшся. ^green;Візьми це ^orange;насіння^green; і вирости мені врожай^white;.",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Зараз тобі потрібно ^green;посадити ^white;[^orange;<seedList>^white;]. Доглядай за ними доти, доки вони не дозріють. І не забудь ^green;зібрати ^orange;[<cropList>]^white;.",
+    "value": "Тепер тобі потрібно ^green;посадити ^orange;<seedList>^white;. Доглядай за ними, доки не дозріють, а тоді ^green;збери ^orange;<cropList>^green; для мене^white;.",
     "path": "/scriptConfig/generatedText/text/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Потім нам потрібні деякі продукти. У мене є [^orange;<seedList>^white;], але мені ніде їх виростити. Можеш ^green;виростити і принести мені ^orange;[<cropList>]^white;?",
+    "value": "Далі нам потрібен урожай. У мене є ^orange;<seedList>^white;, але немає де саджати. Чи міг би ти ^green;виростити їх і принести мені ^orange;<cropList>^white;?",
     "path": "/scriptConfig/generatedText/text/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Поживно і смачно! Дякую тобі!",
+    "value": "Соковито і сссмачно! Дякую тобі!",
     "path": "/scriptConfig/generatedText/completionText/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Ссспасибі! Флоран вважає, що виростити [<cropList>] досить важко в цих краях. Ти виконав чудову роботу!",
+    "value": "Дякуюссс! Флорану важко вирощувати <cropList> тут — чудова робота!",
     "path": "/scriptConfig/generatedText/completionText/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Цей урожай виявився навіть кращим за той, який зміг<questGiver.pronoun.obj3end> би виростити я. У тебе справжній талант.",
+    "value": "Задоволення. Цей урожай вдався кращим, ніж я міг<questGiver.pronoun.obj1end> би виростити власноруч. У тебе справжній талант до фермерства.",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Спантеличено. Я ніколи не дізнаюся, як ти зміг виростити такий хороший урожай, але це й не важливо. Прийми мою вдячність.",
+    "value": "Спантеличення. Я ніколи не збагну, як тобі вдалося так успішно виростити це насіння, але це не має значення. Прийми мою подяку.",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Ах, стигле і прекрасне! У тебе до цього талант.",
+    "value": "О, яке стигле й чудове! У тебе справжній хист до цього.",
     "path": "/scriptConfig/generatedText/completionText/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Вау, та ти можеш зайнятися садівництвом! Усе виросло і зроблено чудово!",
+    "value": "Ого, та в тебе майбутнє у фермерстві! Свіжозібраний <cropList>! Це просто чудово спрацює.",
     "path": "/scriptConfig/generatedText/completionText/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Тааак, саме те, що потрібно флорану! Ти найкращий!",
+    "value": "Тааак, сссаме те, що потрібно Флорану! Ти найкращщщий!",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Ссспасибі! Флоран не може зрозуміти, чому інші хочуть його з'їсти.",
+    "value": "Дякуюссс! Флоран не розуміє, навіщо комусссь їсти це, але зараз Флорану воно потрібне.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Бадьоро. Це небувалий урожай! Дякую!",
+    "value": "Бадьорість. Це небачений урожай! Дякую!",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Щасливо. Чудова робота: мої плани втілюються в життя.",
+    "value": "Радість. Чудова робота, мій план чудово здійснюється.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Дякую. Вони трохи малі, але зате органічні!",
+    "value": "Дякую. Вони видаються замалими, але що поробиш, коли це органіка!",
     "path": "/scriptConfig/generatedText/completionText/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Як і просив<questGiver.pronoun.obj1end>, урожай [<cropList>]. Гарна робота! Настав час його скуштувати!",
+    "value": "<cropList> точнісінько як замовляли. Гарна робота! Час знайти цьому врожаю гідне застосування!",
     "path": "/scriptConfig/generatedText/completionText/default/default/1",
     "op": "replace"
   }

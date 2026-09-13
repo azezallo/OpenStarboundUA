@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Виготовлена ​​з сучасного матеріалу, ця платформа гладка на дотик."
+    "value": "Виготовлена з сучасного матеріалу, ця платформа гладка на дотик."
   },
   {
     "op": "replace",
@@ -17,11 +17,11 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Ssmooth сучасні platformsss."
+    "value": "Сучасні платформи"
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Деякі химерні металеві платформи."
+    "value": "Деякі стильні металеві платформи"
   }
 ]

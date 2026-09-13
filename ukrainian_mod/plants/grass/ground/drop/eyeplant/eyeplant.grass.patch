@@ -1,16 +1,16 @@
 [
   {
-    "value": "Велика баньката квітка.",
+    "value": "Груба очкова квітка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Велика баньката квітка",
+    "value": "Груба очкова квітка.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Флоран вдивляєтьссся в безодню.",
+    "value": "Флоран вдивляється в безодню.",
     "path": "/floranDescription",
     "op": "replace"
   },

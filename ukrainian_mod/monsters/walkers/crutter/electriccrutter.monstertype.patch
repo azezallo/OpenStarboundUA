@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Electric Crutter"
+    "value": "Електричний краттер"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Its electricity is deadly even in small doses."
+    "value": "Його електрика смертельна навіть у малих дозах."
   }
 ]

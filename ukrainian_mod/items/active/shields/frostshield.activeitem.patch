@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Зупиняє напади застуди."
+    "value": "Блокує холодні атаки"
   },
   {
     "op": "replace",

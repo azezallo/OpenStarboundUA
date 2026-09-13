@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Флоран вважає, що речей Floran має бути більше."
+    "value": "Флоран вважає, що речей Флоранів має бути більше."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/0",
-    "value": "У музеї має бути більше флоранських речей, ти згоден?"
+    "value": "У музеї має бути більше речей Флоранів, ти згоден?"
   }
 ]

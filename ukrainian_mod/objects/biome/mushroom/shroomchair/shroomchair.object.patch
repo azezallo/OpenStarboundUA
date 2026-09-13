@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стілець-гриб. А може, мухомор."
+    "value": "Крісло-гриб. Або мухомор."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Крісло Floran sssquish."
+    "value": "Флоран сссшквічить стілець."
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Б’юся об заклад, хто тут сидить, веселий хлопець."
+    "value": "Б’юся в заклад, що хтось тут сидить – веселий хлопець."
   },
   {
     "op": "replace",

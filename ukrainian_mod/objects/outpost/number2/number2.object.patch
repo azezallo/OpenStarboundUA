@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Два маркера."
+    "value": "Маркер «Два»."
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssnakey два."
+    "value": "Сссхожа на змійку двійка."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Два."
+    "value": "Нейтралітет. Два."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Два."
+    "value": "Двійка, файно."
   }
 ]

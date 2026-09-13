@@ -1,21 +1,21 @@
 [
   {
-    "value": "Множинн.",
+    "value": "Бур'яни",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Піксельний",
+    "value": "Бур'яни",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Земний",
+    "value": "Бур'яни",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Сонячний",
+    "value": "Заява. Бур'яни",
     "path": "/glitchDescription",
     "op": "replace"
   }

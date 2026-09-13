@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Дзвіночок",
+    "value": "Дзвіночок.",
     "path": "/shortdescription",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Ствердження. Дзвіночок.",
+    "value": "Утвердження. Дзвіночок.",
     "path": "/glitchDescription",
     "op": "replace"
   }

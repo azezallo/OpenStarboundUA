@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Куртка високої видимості - ну, хіба що ти стаєш рожевою..."
+    "value": "Куртка високої видимості – але ти стаєш рожевою..."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Куртка Mutant High-Vis"
+    "value": "Високовидимий мутантський жакет"
   }
 ]

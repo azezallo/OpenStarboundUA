@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Руда Durasteel. Можна використовувати для плавки."
+    "value": "Руда дюрасталя. Можна використовувати для плавки."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Руда Durasteel"
+    "value": "Руда Дюрасталь"
   }
 ]

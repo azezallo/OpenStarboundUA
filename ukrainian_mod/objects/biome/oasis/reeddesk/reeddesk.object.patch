@@ -2,22 +2,22 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Письмовий стіл з дерева та очерету."
+    "value": "Стіл з дерева та очерету."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Очеретяний стіл"
+    "value": "Тростинний стіл"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Простий письмовий стіл з очеретяними вставками."
+    "value": "Простий стіл з вставками з тростини."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Простий письмовий стіл з дерева та очерету."
+    "value": "Простий стіл з дерева та тростини"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Це дерев'яний письмовий стіл з ящиками з очерету."
+    "value": "Це дерев'яний стіл з ящиками з очерету."
   },
   {
     "op": "replace",

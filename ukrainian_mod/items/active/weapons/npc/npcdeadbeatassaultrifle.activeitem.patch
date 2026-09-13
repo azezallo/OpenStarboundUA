@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Іржава військова гвинтівка."
+    "value": "Ржавий військовий тип гвинтівки"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "NPC Deadbeat Assault Rifle"
+    "value": "NPC Бездоганний штурмовий карабін"
   }
 ]

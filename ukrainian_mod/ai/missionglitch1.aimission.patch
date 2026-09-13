@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/speciesText/default/buttonText",
-    "value": "Крепость Барона"
+    "value": "Форт Барона"
   },
   {
     "op": "replace",
     "path": "/speciesText/default/repeatButtonText",
-    "value": "Revisit The Baron's Keep"
+    "value": "Знову відвідайте Форт Барона"
   },
   {
     "op": "replace",
     "path": "/speciesText/default/selectSpeech/text",
-    "value": "Схоже, що артефакт Glitch належить власнику маленького каменю Keep на самотній планеті."
+    "value": "Схоже, що артефакт Глітчі належить власнику маленького кам'яного форту на самотній планеті."
   }
 ]

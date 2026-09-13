@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ноги цього жука рухаються так швидко, що їх важко порахувати."
+    "value": "Лапки цього жука рухаються так швидко, що їх важко порахувати."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Scuttleploom"
+    "value": "Прудконіг"
   }
 ]

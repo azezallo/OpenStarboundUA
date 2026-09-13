@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Fire Gleap"
+    "value": "Вогняний гліп"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It's made from a springy substance."
+    "value": "Він складається з пружної речовини."
   }
 ]

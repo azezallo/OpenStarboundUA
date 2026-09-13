@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Носити їх відчуваєш, ніби блукаєш у калюжі желе."
+    "value": "Носити їх — це як ходити в калюжі желе."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Слаймові штани"
+    "value": "Слизові штани"
   }
 ]

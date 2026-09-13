@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Метання дротика"
+    "value": "Дротик для метання"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Метальний дротик, цілься в яблучко."
+    "value": "Дротик для метання, ціліться в яблучок."
   }
 ]

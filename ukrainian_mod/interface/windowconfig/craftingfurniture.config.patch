@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": "  Дерев. верстак"
+    "value": "Дерев. верстак"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": "  Об'єкти та блоки"
+    "value": "Об'єкти та блоки"
   },
   {
     "op": "replace",

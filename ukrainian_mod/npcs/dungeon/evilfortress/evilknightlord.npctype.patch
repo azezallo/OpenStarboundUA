@@ -1,21 +1,21 @@
 [
   {
-    "value": "До бою!",
+    "value": "Атака!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Погрозливо. Це моя фортеця! Ти поплатишся за те, що посмів з'явитися сюди!",
+    "value": "Погрозливий. Це моя фортеця! Ти заплатиш за те, що посмілився прийти сюди!",
     "path": "/scriptConfig/dialog/attack/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Гордо. Ти ніщо в порівнянні зі мною, навіть мої лицарі бояться мене!",
+    "value": "Гордий. Ти не рівний мені, навіть мої власні лицарі бояться мене!",
     "path": "/scriptConfig/dialog/attack/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Розгнівано. Ти думаєш, що можеш просто прийти сюди й забрати все, що забажаєш?!",
+    "value": "Злий. Чи думаєш ти, що можеш просто прийти сюди й забрати все, що захочеш!?",
     "path": "/scriptConfig/dialog/attack/glitch/default/2",
     "op": "replace"
   }

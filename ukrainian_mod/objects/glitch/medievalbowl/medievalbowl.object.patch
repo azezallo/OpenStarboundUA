@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Чаша. Виглядає не дуже чисто."
+    "value": "Миска. Виглядає не дуже чисто."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Середньовічна чаша"
+    "value": "Середньовічна миска"
   },
   {
     "op": "replace",
@@ -17,31 +17,31 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Здається, з цього їдять їжу."
+    "value": "Здається, з цього їдять."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Миска занадто мала для апетиту Флорана."
+    "value": "Миссска занадто мала для апетиту Флорана."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Проста миска. Ймовірно, зроблений з глини."
+    "value": "Байдужість. Проста миска. Ймовірно, зроблена з глини."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Маленька миска, схожа на глину."
+    "value": "Маленька миска, схоже, з глини."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Що їдять з цієї миски, цікаво..."
+    "value": "Цікаво, що їдять із цієї миски..."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Проста миска для простої їжі."
+    "value": "Проста миска для простого ядла."
   }
 ]

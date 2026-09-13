@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "радіо."
+    "value": "Радіо."
   },
   {
     "op": "replace",
@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Радіоприставка для новин і музики."
+    "value": "Радіоссскринька для новин і пісссень."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Це радіо гуртожитку."
+    "value": "Нейтральність. Це радіо гуртожитку."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Ах, моє радіо! Це добре для фонового шуму."
+    "value": "Ах, моє радіо! Добре підходить для фонового шуму."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Просто радіо."
+    "value": "Просто собі радіо."
   }
 ]

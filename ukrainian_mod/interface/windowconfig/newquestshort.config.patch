@@ -12,6 +12,6 @@
   {
     "op": "replace",
     "path": "/paneLayout/lblRewards/value",
-    "value": "ПРИЗ:"
+    "value": "НАГОРОДИ:"
   }
 ]

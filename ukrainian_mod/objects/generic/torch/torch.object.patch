@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Цей факел тихенько мерехтить."
+    "value": "Цей смолоскип тихо мерехтить."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Факел"
+    "value": "Смолоскип"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Відмінний інструмент для виживання."
+    "value": "Чудове знаряддя для виживання."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Факели необхідні."
+    "value": "Смолоскипи просто необхідні."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Смолоскип лякає Флорана, але Флоран повинен володіти факелом."
+    "value": "Ссмолоскип лякає Флорана, але Флоран муссить опанувати ссмолоскип."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Сентиментальний. Факели незамінні."
+    "value": "Сентиментальність. Смолоскипи незамінні."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Факел, щоб освітлювати шлях."
+    "value": "Смолоскип, щоб освітлювати шлях."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Скромний факел, безцінний у дикій природі."
+    "value": "Скромний смолоскип, безцінний у дикій природі."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Факел. Не можу жити без них!"
+    "value": "Смолоскип. Без них у глушині ніяк!"
   }
 ]

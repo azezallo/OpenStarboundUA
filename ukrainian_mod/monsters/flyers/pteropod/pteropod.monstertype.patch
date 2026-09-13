@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Pteropod"
+    "value": "Птеропод"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It brews a toxic paste in its pod made from fermented fruit."
+    "value": "Він готує отруйну пасту в своїй оболонці з ферментованих фруктів."
   }
 ]

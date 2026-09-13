@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Кнопка, придатна для ливарного виробництва."
+    "value": "Кнопка, придатна для використання в ливарні."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ливарна кнопка"
+    "value": "Кнопка литейниці"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Кнопка машини."
+    "value": "Машинна кнопка."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Зношена та вивітрена машина."
+    "value": "Зношена та вивітрена кнопка машини."
   },
   {
     "op": "replace",

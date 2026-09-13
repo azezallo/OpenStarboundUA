@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/gui/windowtitle/title",
-    "value": "  Планетарний тераформер"
+    "value": "Планетарний тераформер"
   },
   {
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
-    "value": "  ^#b9b5b2;Змінюйте цілі планети за допомогою Есенції!"
+    "value": "^#b9b5b2;Змінюйте цілі планети за допомогою Есенції!"
   },
   {
     "op": "replace",

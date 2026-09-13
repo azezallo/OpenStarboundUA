@@ -2,22 +2,22 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ти хочеш спраги?"
+    "value": "Ти спраглий?"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Диспенсер для води Protectorate"
+    "value": "Диспенсер води Земного Захисту"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Диспенсер для води."
+    "value": "Диспенсер води."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Диспенсер для води. Освіжає!"
+    "value": "Диспенсер води. Освіжає!"
   },
   {
     "op": "replace",

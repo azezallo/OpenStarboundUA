@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Довге коріння"
+    "value": "Довгі корені"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Крізь стелю пробивається коріння."
+    "value": "Коріння пробиваються крізь стелю."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Коріння росте багато років. Як Флоран."
+    "value": "Коріння ростуть багато років. Як Флорани."
   },
   {
     "op": "replace",

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A mysterious flower."
+    "value": "Загадкова квітка."
   },
   {
     "op": "replace",

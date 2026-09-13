@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Гострий шип, зроблений з льоду."
+    "value": "Гострий шип, зроблений із льоду."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Лід виглядає гострим як бритва."
+    "value": "Лід виглядає гострим, як бритва."
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Обережний. Гострий лід міг пробити снаряд Glitch."
+    "value": "Обережність. Гострий лід міг пробити глітчий шар."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Я буду граціозно уникати цього."
+    "value": "Я буду граціозно уникати їх."
   },
   {
     "op": "replace",

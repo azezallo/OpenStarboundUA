@@ -2,22 +2,22 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Двері з веселкового дерева."
+    "value": "Двері з райдужного дерева."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Дерев'яні двері Rainbow"
+    "value": "Двері з райдужного дерева"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Це двері з веселкового дерева."
+    "value": "Це двері з райдужного дерева."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Дверний отвір із веселкою, надрукованою на ньому. Я сумніваюся, що це веде до одного."
+    "value": "Двер'яний отвір із надрукованим раїдужним малюнком. Я сумніваюся, що він веде до однієї."
   },
   {
     "op": "replace",
@@ -32,16 +32,16 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Райдужні двері."
+    "value": "Райдужна двері"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Які гарні двері."
+    "value": "Щаслива двері"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ці двері напевно гостинні."
+    "value": "Ця двері напевно гостинна."
   }
 ]

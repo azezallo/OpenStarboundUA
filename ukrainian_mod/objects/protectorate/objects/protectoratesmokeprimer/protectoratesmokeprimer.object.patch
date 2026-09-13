@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "З цієї точки в’ється дим."
+    "value": "З цієї точки клубочиться дим."
   },
   {
     "op": "replace",
@@ -22,26 +22,26 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Цей дим заважає Флорану!"
+    "value": "Цей дим ссстоїть на заваді Флорану!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Збентежений. Цей дим повинен мати походження."
+    "value": "Збентеження. У цього диму має бути джерело."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Цей дим повинен звідкись іти."
+    "value": "Цей дим має звідкись іти."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Диму, а вогню немає? Цілком головоломка."
+    "value": "Дим без вогню? Справжня загадка."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Я бачу дим, хтось залишив чайник кипіти?"
+    "value": "Бачу дим, чи то хтось лишив чайник кипіти?"
   }
 ]

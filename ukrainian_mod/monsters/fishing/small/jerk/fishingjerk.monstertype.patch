@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Jerkfish"
+    "value": "Джеркфіш"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "This fish has a natural impolite demeanour."
+    "value": "У цій рибі природно неввічливе ставлення."
   }
 ]

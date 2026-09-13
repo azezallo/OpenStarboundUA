@@ -7,17 +7,17 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Durasteel Light"
+    "value": "Світильник з дюрастілу"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Добре зроблене джерело світла."
+    "value": "Якісно зроблене джерело світла."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Цей корисний ліхтар освітить навіть найтемнішу кімнату."
+    "value": "Цей корисний ліхтар освітить навіть найтемнішу кімнату"
   },
   {
     "op": "replace",

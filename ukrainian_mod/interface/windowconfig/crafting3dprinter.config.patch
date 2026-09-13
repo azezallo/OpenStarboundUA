@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": " 3D-принтер"
+    "value": "Піксельний принтер"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": " ^#b9b5b2;Друк відсканованого"
+    "value": "^#b9b5b2;Друк відсканованого"
   },
   {
     "op": "replace",

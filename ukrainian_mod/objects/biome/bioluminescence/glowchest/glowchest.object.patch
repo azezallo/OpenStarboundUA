@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Світиться Скриня"
+    "value": "Світляча скриня"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран Грінфінгер може виростити такі шахи з ґрунту."
+    "value": "Флоран Грінфінгер може виростити такі чессст, як цей, з ґрунту."
   },
   {
     "op": "replace",

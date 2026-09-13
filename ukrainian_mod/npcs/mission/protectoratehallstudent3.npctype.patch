@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Nervous. Do I look ok? I polished my head this morning."
+    "value": "Нервозність. Чи виглядаю я нормально? Я сьогодні вранці помив голову."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "Regretful. Maybe I should have oiled my joints this morning."
+    "value": "Жаль. Можливо, мені слід було змащувати свої суглоби рано."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
-    "value": "Збентежений. Сподіваюся, ніхто не помітить плями від кави на моїй формі..."
+    "value": "Збентеженість. Сподіваюся, ніхто не помітить плями від кави на моїй формі..."
   }
 ]

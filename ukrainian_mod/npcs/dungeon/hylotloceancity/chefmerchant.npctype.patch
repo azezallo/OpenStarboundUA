@@ -1,31 +1,31 @@
 [
   {
-    "value": "  Шеф",
+    "value": "Шеф",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
     "op": "replace"
   },
   {
-    "value": "  Продаж чудової їжі!",
+    "value": "Продаю смачну їжу!",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
     "op": "replace"
   },
   {
-    "value": "Голодний? У мене тут безліч свіжих продуктів!",
+    "value": "Голодуєш? У мене тут безліч свіжих продуктів!",
     "path": "/scriptConfig/dialog/merchant/start/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Заходь, якщо хочеш поїсти.",
+    "value": "Якщо шукаєш їжу, бери її тут.",
     "path": "/scriptConfig/dialog/merchant/start/apex/default/0",
     "op": "replace"
   },
   {
-    "value": "Звідки я беру свої продукти? Це секрет.",
+    "value": "Мої поставки походять з безпечних джерел.",
     "path": "/scriptConfig/dialog/merchant/start/apex/default/1",
     "op": "replace"
   },
   {
-    "value": "Моя продукція чудова, кращої за неї ти не знайдеш.",
+    "value": "Моя продукція смачна, її краще не знайдеш.",
     "path": "/scriptConfig/dialog/merchant/start/apex/default/2",
     "op": "replace"
   },
@@ -40,142 +40,142 @@
     "op": "replace"
   },
   {
-    "value": "Впевнений, тобі сподобається моя їжа.",
+    "value": "Я впевнений, що тобі сподобається моя їжа.",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/0",
     "op": "replace"
   },
   {
-    "value": "Бажаєш що-небудь?",
+    "value": "Що я можу для тебе запропонувати?",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/1",
     "op": "replace"
   },
   {
-    "value": "Ось, спробуй мою продукцію. Я впевнений, тобі сподобається.",
+    "value": "Спробуй мою продукцію. Я впевнений, що тобі сподобається.",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/2",
     "op": "replace"
   },
   {
-    "value": "Що, якщо я запропоную тобі парочку відмінних товарів?",
+    "value": "Чи не зацікавлять тебе якісь чудові товари?",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/3",
     "op": "replace"
   },
   {
-    "value": "Свіжі продукти для готування!",
+    "value": "Свежі продукти для всіх твоїх кулінарних потреб!",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/4",
     "op": "replace"
   },
   {
-    "value": "У флорана єсссть, що поїсссти!",
+    "value": "Флоран сссмачно продає їжу!",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Їжа флорана нннайкраща, купуй усссе, що хочеш!",
+    "value": "Їжа флорана найкраща! Купуй усе!",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Зеленоперссст каже, що флоран - \"завада на кухні\", але зате чудовий торговець.",
+    "value": "Зеленоперссст каже, що Флоран – «завада на кухні», але він чудовий торговець.",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Мисссливець сссхуд, дозволь флорану нагодувати тебе.",
+    "value": "Ви виглядаєте як бідний мисливець, тому Флорани продають вам вечерю.",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/3",
     "op": "replace"
   },
   {
-    "value": "Флоран до твоїх поссслуг.",
+    "value": "Флоран у ваших поссслугах.",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/4",
     "op": "replace"
   },
   {
-    "value": "Люб'язно. Тут усе, що потрібно на кухні.",
+    "value": "Дружелюбно. Тут усе, що потрібно в кухні.",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Впевнено. Мої продукти найкращої якості!",
+    "value": "Впевнений. Моя продукція найвищої якості!",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Дружелюбно. Якщо хочеш поїсти, то ти звернувся за адресою.",
+    "value": "Дружелюбно. Якщо ви голодні, то звернулися до правильної людини.",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Добродушно. Найкращі продукти в окрузі! Тобі щось потрібно?",
+    "value": "Доброзичливий. Найкращі продукти в окрузі! Що я можу вам запропонувати?",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Гордо. Ґлітчі вирощують найкращі продукти.",
+    "value": "Гордість. Ґлітчі вирощують найкращі продукти.",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/4",
     "op": "replace"
   },
   {
-    "value": "Щось цікавить?",
+    "value": "Що вас цікавить?",
     "path": "/scriptConfig/dialog/merchant/start/human/default/0",
     "op": "replace"
   },
   {
-    "value": "Можу тобі що-небудь запропонувати? Подивися на мій асортимент.",
+    "value": "Що я можу вам запропонувати? Подивіться на мій асортимент.",
     "path": "/scriptConfig/dialog/merchant/start/human/default/1",
     "op": "replace"
   },
   {
-    "value": "Потрібні свіжі продукти? Ти звернувся за адресою!",
+    "value": "Потрібні свіжі продукти? Не шукайте далі!",
     "path": "/scriptConfig/dialog/merchant/start/human/default/2",
     "op": "replace"
   },
   {
-    "value": "Ти не знайдеш їжу краще за цю! Принаймні, поблизу.",
+    "value": "Ти не знайдеш кращої їжі! Тут ж ніде.",
     "path": "/scriptConfig/dialog/merchant/start/human/default/3",
     "op": "replace"
   },
   {
-    "value": "Ця їжа просто чудова.",
+    "value": "Ця їжа справді смачна.",
     "path": "/scriptConfig/dialog/merchant/start/human/default/4",
     "op": "replace"
   },
   {
-    "value": "Моя продукція просто чудова.",
+    "value": "Моя продукція просто смакота.",
     "path": "/scriptConfig/dialog/merchant/start/hylotl/default/0",
     "op": "replace"
   },
   {
-    "value": "Мої продукти не просто апетитні - вони чудові!",
+    "value": "Мої продукти не лише апетитні, а й втілення насолоди!",
     "path": "/scriptConfig/dialog/merchant/start/hylotl/default/1",
     "op": "replace"
   },
   {
-    "value": "Сумніваюся, що ти знайдеш їжу смачнішу за цю.",
+    "value": "Я сумніваюся, що ти знайдеш їжу смачнішою за те, що я маю тут.",
     "path": "/scriptConfig/dialog/merchant/start/hylotl/default/2",
     "op": "replace"
   },
   {
-    "value": "Все таке смачне тому, що вирощене з любов'ю. Ну, ще добрива.",
+    "value": "Все, що я продаю, вирощено з любов'ю і компостом.",
     "path": "/scriptConfig/dialog/merchant/start/hylotl/default/3",
     "op": "replace"
   },
   {
-    "value": "Заходь, спробуй цю амброзію!",
+    "value": "Заходь, спробуй мої амброзіальні страви!",
     "path": "/scriptConfig/dialog/merchant/start/hylotl/default/4",
     "op": "replace"
   },
   {
-    "value": "Хочеш поїсти?",
+    "value": "Хочеш наповнити живіт?",
     "path": "/scriptConfig/dialog/merchant/start/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Я продаю найкращу їжу в цій сонячній системі!",
+    "value": "Я подаю найкращу їжу в цьому боці сонячної системи!",
     "path": "/scriptConfig/dialog/merchant/start/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "У мене якісні страви!",
+    "value": "Мої страви на висоті!",
     "path": "/scriptConfig/dialog/merchant/start/novakid/default/2",
     "op": "replace"
   },
@@ -185,22 +185,22 @@
     "op": "replace"
   },
   {
-    "value": "Повертайся в будь-який час!",
+    "value": "Повернись у будь‑який час!",
     "path": "/scriptConfig/dialog/merchant/end/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Якщо раптом зголоднієш - відразу повертайся.",
+    "value": "Якщо захочеш, повернись коли голодний.",
     "path": "/scriptConfig/dialog/merchant/end/apex/default/0",
     "op": "replace"
   },
   {
-    "value": "Почувайся як удома.",
+    "value": "Не залишайся чужим.",
     "path": "/scriptConfig/dialog/merchant/end/apex/default/1",
     "op": "replace"
   },
   {
-    "value": "Кожен день свіжі продукти!",
+    "value": "Свіжі продукти щодня!",
     "path": "/scriptConfig/dialog/merchant/end/apex/default/2",
     "op": "replace"
   },
@@ -210,42 +210,42 @@
     "op": "replace"
   },
   {
-    "value": "Завжди до твоїх послуг. Насолоджуйся їжею!",
+    "value": "Завжди раді вітати. Насолоджуйся їжею!",
     "path": "/scriptConfig/dialog/merchant/end/avian/default/1",
     "op": "replace"
   },
   {
-    "value": "Ти ж повернешся, чи не так?",
+    "value": "Повернись ще, чи не так?",
     "path": "/scriptConfig/dialog/merchant/end/avian/default/2",
     "op": "replace"
   },
   {
-    "value": "Заходь ще, якщщщо захочеш!",
+    "value": "Заходь ще, коли захочеш!",
     "path": "/scriptConfig/dialog/merchant/end/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран буде радий побачити тебе зззнову!",
+    "value": "Флоран знову побачить тебе!",
     "path": "/scriptConfig/dialog/merchant/end/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Флорану не терпитьссся поторгуватиссся знову!",
+    "value": "Флоран не може дочекатися, щоб ще раз торгуватися їжею!",
     "path": "/scriptConfig/dialog/merchant/end/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Щасливо. Повертайся в будь-який час.",
+    "value": "Радість. Повернись у будь‑який час.",
     "path": "/scriptConfig/dialog/merchant/end/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Підбадьорливо. Йди і повертайся голодним.",
+    "value": "Підбадьорення. Йди вперед і стань голодним.",
     "path": "/scriptConfig/dialog/merchant/end/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Впевнений, тобі це сподобається.",
+    "value": "Задоволення. Я впевнений, що тобі сподобається.",
     "path": "/scriptConfig/dialog/merchant/end/glitch/default/2",
     "op": "replace"
   },
@@ -255,7 +255,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знаєш куди йти, якщо зголоднієш!",
+    "value": "Повернись, коли будеш голодний!",
     "path": "/scriptConfig/dialog/merchant/end/human/default/1",
     "op": "replace"
   },
@@ -265,7 +265,7 @@
     "op": "replace"
   },
   {
-    "value": "З нетерпінням чекатиму тебе знову.",
+    "value": "З нетерпінням чекатиму твоєї майбутньої покупки.",
     "path": "/scriptConfig/dialog/merchant/end/hylotl/default/0",
     "op": "replace"
   },
@@ -280,7 +280,7 @@
     "op": "replace"
   },
   {
-    "value": "З нетерпінням чекатиму тебе знову.",
+    "value": "З нетерпінням чекатиму твоєї майбутньої покупки.",
     "path": "/scriptConfig/dialog/merchant/end/novakid/default/0",
     "op": "replace"
   },

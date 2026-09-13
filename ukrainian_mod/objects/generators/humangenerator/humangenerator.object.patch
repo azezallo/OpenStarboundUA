@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Генератор щитів"
+    "value": "Генератор щита"
   },
   {
     "op": "replace",
@@ -27,12 +27,12 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Втішили. Генератор щита."
+    "value": "Утешено. Генератор щита."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Це вбереже мене!"
+    "value": "Це захистить мене!"
   },
   {
     "op": "replace",

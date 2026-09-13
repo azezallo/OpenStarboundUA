@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": "  ПІЧ"
+    "value": "ПІЧ"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": "  Плавте!"
+    "value": "Плавте!"
   },
   {
     "op": "replace",

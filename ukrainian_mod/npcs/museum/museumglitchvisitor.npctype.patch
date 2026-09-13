@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Curious. How long do you suppose this collection took to put together?"
+    "value": "Цікаво. Як ви думаєте, скільки часу знадобилося для збирання цієї колекції?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "Surprised. The cultural differences between our races are quite striking."
+    "value": "Здивований. Культурні відмінності між нашими расами досить різкі."
   },
   {
     "op": "replace",
@@ -17,6 +17,6 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/default/1",
-    "value": "Здивований. Культурні відмінності між нашими расами досить разючі."
+    "value": "Здивований. Культурні відмінності між нашими расами досить різкі."
   }
 ]

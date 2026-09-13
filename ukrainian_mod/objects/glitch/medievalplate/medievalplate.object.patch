@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Тарілка. Тут припадає пил."
+    "value": "Тарілка. Вона припадає тут пилом."
   },
   {
     "op": "replace",
@@ -17,31 +17,31 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Блюдо, на якому подається їжа."
+    "value": "Посудина, на якій подають їжу."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Тарілка потребує їжі. Флоран голодний."
+    "value": "Тарілка потребує сссмачної їжі. Флоран голоднийссс."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Принижений. Проста глиняна тарілка."
+    "value": "Смирення. Проста глиняна тарілка."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Дуже проста гончарна тарілка."
+    "value": "Дуже проста глиняна тарілка."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Округла глиняна пластина."
+    "value": "Округла глиняна тарілка."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Маленька глиняна тарілка."
+    "value": "Маленька глиняна таріль, файно."
   }
 ]

@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Двері з дерева та очерету."
+    "value": "Двер'я з дерева та папороті."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Очеретяні двері"
+    "value": "Двері з ріпи"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Двері з дерева та очерету."
+    "value": "Двер'я з дерева та очерету."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Двері з дерева та очерету."
+    "value": "Двер'я з дерева та очерету."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Очеретяні двері."
+    "value": "Тростинна двер'я"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спостережливий. Двері з дерева та очерету."
+    "value": "Спостережливий. Двер'я з дерева та очерету."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Двері з дерева та очерету."
+    "value": "Двер'я з дерева та очерету."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Двері з дерева та очерету."
+    "value": "Двер'я з дерева та очерету."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Двері з дерева та очерету."
+    "value": "Двер'я з дерева та очерету."
   }
 ]

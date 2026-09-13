@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Двері з бруківки."
+    "value": "Двер'я з бруківки."
   },
   {
     "op": "replace",
@@ -12,17 +12,17 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Apex добре знайомі з секретними дверима."
+    "value": "Апекси дуже знайомі з секретними дверями."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Добре замасковані двері."
+    "value": "Добре замаскована двер'я."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Стіна входить, стіна виходить. Флорану подобається."
+    "value": "Стіна входить, стіна виходить. Флоран сссмачит."
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Ці двері легко було б заховати в бруківці."
+    "value": "Цю дверу легко було б сховати у кімнаті з бруківки."
   },
   {
     "op": "replace",

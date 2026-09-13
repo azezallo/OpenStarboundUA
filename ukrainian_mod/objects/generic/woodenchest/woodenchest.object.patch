@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Основна дерев'яна скриня."
+    "value": "Проста дерев'яна скриня."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Chessst! Флоран повинен шукати!"
+    "value": "Чесст! Флорані мусить ссшукати!"
   },
   {
     "op": "replace",

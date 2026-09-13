@@ -1,36 +1,36 @@
 [
   {
-    "value": "Заінтригованість. Хоч це і блок, але гриб усе ще живий.",
+    "value": "Нуру",
     "path": "/npcname",
     "op": "replace"
   },
   {
-    "value": "Прекрасссні гриби.",
+    "value": "Ці охоронці у шатинах хочуть битви. Покажемо їм поганий час!",
     "path": "/scriptConfig/dialog/start/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Скидається, цей блок зроблений з грибів, легіню.",
+    "value": "Я йду, до побачення!",
     "path": "/scriptConfig/dialog/leave/default/default/0",
     "op": "replace"
   },
   {
-    "value": "  Кістяний майстер",
+    "value": "Я сссвожу тебе!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "  Продаж речей з кісток...",
+    "value": "Це саме мій тип вечірки!",
     "path": "/scriptConfig/dialog/attack/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Хочешшш трохи кісссток?",
+    "value": "Ти не можеш сподіватися перемогти мисливця, як я!",
     "path": "/scriptConfig/dialog/attack/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Заходь, купуй мої речі.",
+    "value": "Спробуй мій коп'як!",
     "path": "/scriptConfig/dialog/attack/default/default/3",
     "op": "replace"
   }

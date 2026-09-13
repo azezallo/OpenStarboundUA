@@ -17,27 +17,27 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Це пташине перо?"
+    "value": "Чи це авіанське перо?"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssticks покращують ручку."
+    "value": "Sssticks роблять ручки кращими."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "в захваті. Інструмент для письма, який підходить королю глюків."
+    "value": "Радість. Інструмент для письма, що підходить королю глітчів."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Я б будь-коли взяв кулькову ручку замість пера."
+    "value": "Я б будь‑коли вибрав кулькову ручку замість пера."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Гілотл займається каліграфією з самого раннього віку."
+    "value": "Хайлотлі практикують каліграфію з самого раннього віку."
   },
   {
     "op": "replace",

@@ -42,7 +42,7 @@
   {
     "op": "replace",
     "path": "/merchantEnd/default/default/2",
-    "value": "Твоїм пікселям тут завжди раді."
+    "value": "Твої пікселі тут завжди цінуються."
   },
   {
     "op": "replace",
@@ -57,12 +57,12 @@
   {
     "op": "replace",
     "path": "/merchantEnd/default/default/5",
-    "value": "Давай ще якось попрацюємо разом."
+    "value": "Давай вести бізнес знову."
   },
   {
     "op": "replace",
     "path": "/merchantEnd/human/default/0",
-    "value": "Побачимося наступного разу!"
+    "value": "Побачимось наступного разу!"
   },
   {
     "op": "replace",
@@ -72,7 +72,7 @@
   {
     "op": "replace",
     "path": "/merchantEnd/human/default/2",
-    "value": "Твоїм пікселям тут завжди раді."
+    "value": "Твої пікселі тут завжди цінуються."
   },
   {
     "op": "replace",
@@ -87,7 +87,7 @@
   {
     "op": "replace",
     "path": "/merchantEnd/human/default/5",
-    "value": "Давай ще якось попрацюємо разом."
+    "value": "Давай вести бізнес знову."
   },
   {
     "op": "replace",
@@ -222,7 +222,7 @@
   {
     "op": "replace",
     "path": "/encourage/default/default/0",
-    "value": "Візьми їх!"
+    "value": "Взяти їх!"
   },
   {
     "op": "replace",
@@ -232,12 +232,12 @@
   {
     "op": "replace",
     "path": "/encourage/default/default/2",
-    "value": "Штрикни їх разок за мене!"
+    "value": "Пирни їх хоч раз за мене!"
   },
   {
     "op": "replace",
     "path": "/encourage/default/default/3",
-    "value": "Не дайте їм втекти!"
+    "value": "Не дай їм втекти!"
   },
   {
     "op": "replace",
@@ -277,7 +277,7 @@
   {
     "op": "replace",
     "path": "/tagCriteria/human/default/2",
-    "value": "Як я можу продавати речі, коли мій магазин змінюється?"
+    "value": "Як я можу продавати речі, коли мій магазин змінюють?"
   },
   {
     "op": "replace",

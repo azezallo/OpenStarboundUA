@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Вивіска, що рекламує місце для відпочинку."
+    "value": "Вивіска, що рекламує нічліг."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Inn Знак"
+    "value": "Вивіска корчми"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Вивіска на корчму."
+    "value": "Вивіска корчми."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Там написано \"корчма\"."
+    "value": "Там написано «Корчма»."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssign для корчми."
+    "value": "Вивіссска корчми."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Втішили. Знак, який вказує на корчму."
+    "value": "Полегшення. Знак, що вказує на корчму."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Схоже на знак готелю."
+    "value": "Схоже на вивіску корчми."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Це табличка на корчму."
+    "value": "Це вивіска корчми."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Мабуть, корчма."
+    "value": "Певне, корчма."
   }
 ]

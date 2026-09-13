@@ -7,27 +7,27 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/attack/default/default/1",
-    "value": "Я житиму або помру, намагаючись!"
+    "value": "Я буду жити або померти, спробуючи!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/join/default/default/0",
-    "value": "You saved me! I thought I was done for when that thing captured me. You're my hero!"
+    "value": "Ти врятував мене! Я думав, що все кончилося, коли ця штука захопила мене. Ти мій герой!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/join/default/default/1",
-    "value": "Ти знищив монстра! Я опинився в пастці всередині нього, він би мутував мене, як і решта..."
+    "value": "Ти знищив монстра! Я був затриманий всередині нього, він міг би мутувати мене як і інших..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/join/default/default/2",
-    "value": "Ця річ захопила мене. Я був би вже мутантом, якби ти його не знищив! дякую!"
+    "value": "Ця річ захопила мене. Я був би вже мутантом, якби ти не знищив її! Дякую!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/join/default/default/3",
-    "value": "Я вижив?! Ти мене врятував! дякую!"
+    "value": "Я вижив?! Ти мене врятував! Дякую!"
   },
   {
     "op": "replace",
@@ -52,7 +52,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/wait/default/default/3",
-    "value": "Попереду є скриня, ви повинні взяти речі в неї."
+    "value": "Попереду є скриня, ви повинні взяти речі у неї."
   },
   {
     "op": "replace",

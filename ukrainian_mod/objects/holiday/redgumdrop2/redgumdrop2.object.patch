@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Велика червона жуйка. смачно"
+    "value": "Велика червона жуйка. ссмачно"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Солодощі! так!"
+    "value": "Солодощі! Так!"
   },
   {
     "op": "replace",

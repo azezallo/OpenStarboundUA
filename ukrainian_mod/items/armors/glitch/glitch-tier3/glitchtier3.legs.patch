@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ребра лицаря захищають стегна воїна."
+    "value": "Тасети лицаря захищають стегна воїна."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Лицарські китиці"
+    "value": "Лицарські тасети"
   }
 ]

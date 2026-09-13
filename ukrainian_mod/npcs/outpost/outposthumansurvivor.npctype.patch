@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "I only just barely escaped from Earth as it was torn apart. I'm lucky to be here."
+    "value": "Я лише щойно втік із Землі, коли вона розпадалася. Мені пощастило бути тут."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/0",
-    "value": "I only just barely escaped from Earth as it was torn apart. I'm lucky to be here."
+    "value": "Я лише щойно втік із Землі, коли вона розпадалася. Мені пощастило бути тут."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/human/0",
-    "value": "All of humanity, scattered across the universe... What do we do?"
+    "value": "Усе людство розкидано по всесвіту... Що ми робимо?"
   }
 ]

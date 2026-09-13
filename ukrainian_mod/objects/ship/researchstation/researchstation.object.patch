@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "value": "Дослідна станція"
+    "value": "Дослідницька станція"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран може створювати ssспеціалізовані речіss."
+    "value": "Флорани можуть створювати ssспеціалізовані речіss."
   },
   {
     "op": "replace",

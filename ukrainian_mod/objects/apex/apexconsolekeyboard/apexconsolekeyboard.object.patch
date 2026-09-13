@@ -12,17 +12,17 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Клавіатура Apex містить кожну з 26 клавіш алфавіту Apex."
+    "value": "Клавіатура Апекси містить кожну з 26 клавіш алфавіту Апекси."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Пристрій із багатьма кнопками, на кожній із символом прибульця."
+    "value": "Пристрій із багатьма кнопками, на кожному з них символ прибульця."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssilly технології."
+    "value": "Сссмішна технологія."
   },
   {
     "op": "replace",
@@ -32,12 +32,12 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Це не QWERTY.. але я впізнаю багато літер тут."
+    "value": "Це не QWERTY, але я розпізнаю багато літер тут."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Напис Hylotl тече, як вода. Напис Apex тече, як камінь."
+    "value": "Письмо Хайлотлів тече, як вода. Письмо Апекси тече, як камінь."
   },
   {
     "op": "replace",

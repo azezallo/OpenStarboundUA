@@ -7,17 +7,17 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Руна руїн"
+    "value": "Руна Руїни"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "It's an ancient rune that means ruin. Цікаво, що спіраль означає таке."
+    "value": "Це стародавня руна, що означає руїну. Цікаво, що спіраль означає таке."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "An ancient rune similar to some of our own. Це означає руїну."
+    "value": "Стародавня руна, схожа на деякі з наших. Ця означає руїну."
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "уважний. Стара руна, що означає руїну і занепад."
+    "value": "Уважний. Стара руна, що означає руїну й занепад."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це стародавня руна, яка означає руїну."
+    "value": "Це стародавня руна, що означає руїну."
   }
 ]

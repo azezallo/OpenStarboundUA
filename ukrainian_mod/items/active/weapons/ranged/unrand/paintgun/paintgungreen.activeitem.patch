@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Цей пістолет змусить інших позеленіти від заздрості."
+    "value": "Цей пейнтган змусить інших позеленіти від заздрості."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Зелений рушник"
+    "value": "Зелений Paintgun"
   }
 ]

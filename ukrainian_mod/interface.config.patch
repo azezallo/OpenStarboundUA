@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/cursorTooltip/craftingText",
-    "value": "Крафт"
+    "value": "Крафтинг"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/cursorTooltip/beamUpText",
-    "value": "Beam Up"
+    "value": "Піднятися"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/cursorTooltip/deployText",
-    "value": "Розгорнути мех"
+    "value": "Розгорнути Мех"
   },
   {
     "op": "replace",
@@ -62,7 +62,7 @@
   {
     "op": "replace",
     "path": "/largeCharPlate/noPlayerText",
-    "value": "СТВОРИТИ ХАРАКТЕР"
+    "value": "СТВОРИТИ ПЕРСОНАЖ"
   },
   {
     "op": "replace",
@@ -102,7 +102,7 @@
   {
     "op": "replace",
     "path": "/escapeDialog/lblcopyright/value",
-    "value": "Chucklefish Games 2016 - Зроблено в Лондоні, Великобританія"
+    "value": "Chucklefish Games 2016 - Зроблено в Лондоні, Великобританії"
   },
   {
     "op": "replace",

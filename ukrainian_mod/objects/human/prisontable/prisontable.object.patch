@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Звичайний столик кафетерію."
+    "value": "Звичайний стіл для їдальні."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Стіл кафетерію"
+    "value": "Стіл для їдальні"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "стіл."
+    "value": "Стіл."
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Нудний стіл."
+    "value": "Нудний ссстіл."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Звичайний стіл."
+    "value": "Нейтральність. Звичайний стіл."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Стіл, без класу чи майстерності."
+    "value": "Стіл без жодного натяку на вишуканість чи майстерність."
   },
   {
     "op": "replace",

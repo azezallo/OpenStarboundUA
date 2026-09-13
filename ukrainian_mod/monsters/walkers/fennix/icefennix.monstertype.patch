@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ice Fennix"
+    "value": "Крижаний феннікс"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Sometimes when chasing its own tail it can accidentally freeze itself."
+    "value": "Іноді, ганяючись за власним хвостом, воно може випадково заморозити себе."
   }
 ]

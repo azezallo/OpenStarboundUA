@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Яскраві світлі смуги."
+    "value": "Яскраві промені світла"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Світлі смуги"
+    "value": "Смуги світла"
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран любить sssunlight!"
+    "value": "Флоран любить сссвітло!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спостережливий. Світло освітлює руїни настільки, щоб їх було видно."
+    "value": "Спостережливий. Світло освітлює руїни достатньо, щоб їх було видно."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Світло пронизує темряву, як сонячні промені в океані."
+    "value": "Світло проникає в темряву, як сонячні промені над океаном."
   },
   {
     "op": "replace",

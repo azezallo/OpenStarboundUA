@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Танк невідомого призначення."
+    "value": "Резервуар невідомого призначення."
   },
   {
     "op": "replace",
@@ -12,36 +12,36 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Таємничий танк."
+    "value": "Таємничий резервуар."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Цікаво, що в цьому танку."
+    "value": "Цікаво, що в цьому резервуарі."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран не знає, що може бути в цьому резервуарі."
+    "value": "Флоран не знає, що можже бути в цьому резервуаріссс."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Збентежений. Я не можу зрозуміти, що вміщує цей танк."
+    "value": "Збентеження. Я не можу зрозуміти, що міститься в цьому резервуарі."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Дивний танк."
+    "value": "Дивний резервуар."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Непривабливий танк."
+    "value": "Непривабливий резервуар."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Танк. Але я не можу зрозуміти, що там може бути."
+    "value": "Якийсь бак. Але годі второпати, шо там може бути."
   }
 ]

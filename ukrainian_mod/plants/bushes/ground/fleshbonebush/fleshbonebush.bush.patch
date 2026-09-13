@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Жахливі кістки."
+    "value": "Жахливі кістки"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Horrifying bones."
+    "value": "Жахливі кістки"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Meat and bonesss."
+    "value": "М'ясо та кістки"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Revulsion. Horrifying bones."
+    "value": "Відраза. Жахливі кістки"
   }
 ]

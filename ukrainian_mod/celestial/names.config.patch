@@ -30,17 +30,17 @@
     "op": "replace"
   },
   {
-    "value": "Водолій",
+    "value": "Водолей",
     "path": "/systemNames/6/1",
     "op": "replace"
   },
   {
-    "value": "Візничий",
+    "value": "Кінь",
     "path": "/systemNames/7/1",
     "op": "replace"
   },
   {
-    "value": "Південь",
+    "value": "Південний",
     "path": "/systemNames/8/1",
     "op": "replace"
   },
@@ -65,7 +65,7 @@
     "op": "replace"
   },
   {
-    "value": "Кит",
+    "value": "Сеті",
     "path": "/systemNames/13/1",
     "op": "replace"
   },
@@ -130,7 +130,7 @@
     "op": "replace"
   },
   {
-    "value": "Пегас",
+    "value": "Пегасі",
     "path": "/systemNames/26/1",
     "op": "replace"
   },
@@ -265,7 +265,7 @@
     "op": "replace"
   },
   {
-    "value": "Альціона",
+    "value": "Алкіона",
     "path": "/systemNames/53/1",
     "op": "replace"
   },
@@ -440,7 +440,7 @@
     "op": "replace"
   },
   {
-    "value": "Альтаіс",
+    "value": "Алтайс",
     "path": "/systemNames/88/1",
     "op": "replace"
   },
@@ -460,7 +460,7 @@
     "op": "replace"
   },
   {
-    "value": "Ель Талімейн",
+    "value": "Ал Талімейн",
     "path": "/systemNames/92/1",
     "op": "replace"
   },
@@ -475,7 +475,7 @@
     "op": "replace"
   },
   {
-    "value": "Аустраліс",
+    "value": "Південний",
     "path": "/systemNames/95/1",
     "op": "replace"
   },
@@ -625,7 +625,7 @@
     "op": "replace"
   },
   {
-    "value": "Целено",
+    "value": "Келено",
     "path": "/systemNames/125/1",
     "op": "replace"
   },
@@ -905,7 +905,7 @@
     "op": "replace"
   },
   {
-    "value": "Майя",
+    "value": "Мая",
     "path": "/systemNames/181/1",
     "op": "replace"
   },
@@ -980,7 +980,7 @@
     "op": "replace"
   },
   {
-    "value": "Мероп",
+    "value": "Меропа",
     "path": "/systemNames/196/1",
     "op": "replace"
   },
@@ -1115,12 +1115,12 @@
     "op": "replace"
   },
   {
-    "value": "Пікок",
+    "value": "Павич",
     "path": "/systemNames/223/1",
     "op": "replace"
   },
   {
-    "value": "Персей",
+    "value": "Персидський",
     "path": "/systemNames/224/1",
     "op": "replace"
   },
@@ -1160,7 +1160,7 @@
     "op": "replace"
   },
   {
-    "value": "Поларіс",
+    "value": "Поляріс",
     "path": "/systemNames/232/1",
     "op": "replace"
   },
@@ -1530,7 +1530,7 @@
     "op": "replace"
   },
   {
-    "value": "Тай",
+    "value": "Тій",
     "path": "/systemNames/306/1",
     "op": "replace"
   },
@@ -1540,12 +1540,12 @@
     "op": "replace"
   },
   {
-    "value": "Раз",
+    "value": "Рейз",
     "path": "/systemNames/308/1",
     "op": "replace"
   },
   {
-    "value": "Прекрасний Грідлі",
+    "value": "Великий ґрідл",
     "path": "/systemNames/309/1",
     "op": "replace"
   },
@@ -1560,7 +1560,7 @@
     "op": "replace"
   },
   {
-    "value": "Курен",
+    "value": "Кайрен",
     "path": "/systemNames/312/1",
     "op": "replace"
   },
@@ -1705,7 +1705,7 @@
     "op": "replace"
   },
   {
-    "value": "Дуанія",
+    "value": "Дуаниa",
     "path": "/systemNames/341/1",
     "op": "replace"
   },
@@ -1770,7 +1770,7 @@
     "op": "replace"
   },
   {
-    "value": "Епсілон",
+    "value": "Епсилон",
     "path": "/systemNames/354/1",
     "op": "replace"
   },
@@ -1800,12 +1800,12 @@
     "op": "replace"
   },
   {
-    "value": "Леєла",
+    "value": "Ліла",
     "path": "/systemNames/360/1",
     "op": "replace"
   },
   {
-    "value": "Калліоп",
+    "value": "Калліопа",
     "path": "/systemNames/361/1",
     "op": "replace"
   },
@@ -1820,27 +1820,27 @@
     "op": "replace"
   },
   {
-    "value": "Еутерп",
+    "value": "Евтерпа",
     "path": "/systemNames/364/1",
     "op": "replace"
   },
   {
-    "value": "Мельпомен",
+    "value": "Мельпомена",
     "path": "/systemNames/365/1",
     "op": "replace"
   },
   {
-    "value": "Поліхімнія",
+    "value": "Полігімнія",
     "path": "/systemNames/366/1",
     "op": "replace"
   },
   {
-    "value": "Терпсіхор",
+    "value": "Терпсіхора",
     "path": "/systemNames/367/1",
     "op": "replace"
   },
   {
-    "value": "Талія ",
+    "value": "Талія",
     "path": "/systemNames/368/1",
     "op": "replace"
   },
@@ -1985,12 +1985,12 @@
     "op": "replace"
   },
   {
-    "value": "Бель",
+    "value": "Бе'ел",
     "path": "/systemNames/397/1",
     "op": "replace"
   },
   {
-    "value": "Біблброкс",
+    "value": "Беблброкс",
     "path": "/systemNames/398/1",
     "op": "replace"
   },
@@ -2125,7 +2125,7 @@
     "op": "replace"
   },
   {
-    "value": "Ікарус",
+    "value": "Ікар",
     "path": "/systemNames/425/1",
     "op": "replace"
   },
@@ -2225,7 +2225,7 @@
     "op": "replace"
   },
   {
-    "value": "Моірай",
+    "value": "Мойри",
     "path": "/systemNames/445/1",
     "op": "replace"
   },
@@ -2240,12 +2240,12 @@
     "op": "replace"
   },
   {
-    "value": "Апат",
+    "value": "Апате",
     "path": "/systemNames/448/1",
     "op": "replace"
   },
   {
-    "value": "Оізіс",
+    "value": "Ойзіс",
     "path": "/systemNames/449/1",
     "op": "replace"
   },
@@ -2265,7 +2265,7 @@
     "op": "replace"
   },
   {
-    "value": "Гайя",
+    "value": "Гея",
     "path": "/systemNames/453/1",
     "op": "replace"
   },
@@ -2275,12 +2275,12 @@
     "op": "replace"
   },
   {
-    "value": "Гера",
+    "value": "Герас",
     "path": "/systemNames/455/1",
     "op": "replace"
   },
   {
-    "value": "Гера",
+    "value": "Герас",
     "path": "/systemNames/456/1",
     "op": "replace"
   },
@@ -2560,7 +2560,7 @@
     "op": "replace"
   },
   {
-    "value": "Максімус",
+    "value": "Максимус",
     "path": "/systemNames/512/1",
     "op": "replace"
   },
@@ -2665,7 +2665,7 @@
     "op": "replace"
   },
   {
-    "value": "Гас Мемвар",
+    "value": "Гат Мемвар",
     "path": "/systemNames/533/1",
     "op": "replace"
   },
@@ -2835,7 +2835,7 @@
     "op": "replace"
   },
   {
-    "value": "Аліса",
+    "value": "Еліс",
     "path": "/systemNames/567/1",
     "op": "replace"
   },
@@ -2955,17 +2955,17 @@
     "op": "replace"
   },
   {
-    "value": "Басін",
+    "value": "Басейн",
     "path": "/systemSuffixNames/4/1",
     "op": "replace"
   },
   {
-    "value": "Стрім",
+    "value": "Потік",
     "path": "/systemSuffixNames/5/1",
     "op": "replace"
   },
   {
-    "value": "Крест",
+    "value": "Гребінь",
     "path": "/systemSuffixNames/6/1",
     "op": "replace"
   },
@@ -2975,7 +2975,7 @@
     "op": "replace"
   },
   {
-    "value": "Рім",
+    "value": "Край",
     "path": "/systemSuffixNames/8/1",
     "op": "replace"
   },
@@ -2990,47 +2990,47 @@
     "op": "replace"
   },
   {
-    "value": "Нест",
+    "value": "Гніздо",
     "path": "/systemSuffixNames/11/1",
     "op": "replace"
   },
   {
-    "value": "Фронтір",
+    "value": "Погранична зона",
     "path": "/systemSuffixNames/12/1",
     "op": "replace"
   },
   {
-    "value": "Васт",
+    "value": "Відходи",
     "path": "/systemSuffixNames/13/1",
     "op": "replace"
   },
   {
-    "value": "Експанс",
+    "value": "Простір",
     "path": "/systemSuffixNames/14/1",
     "op": "replace"
   },
   {
-    "value": "Вейл",
+    "value": "Покривало",
     "path": "/systemSuffixNames/15/1",
     "op": "replace"
   },
   {
-    "value": "Крадл",
+    "value": "Колиска",
     "path": "/systemSuffixNames/16/1",
     "op": "replace"
   },
   {
-    "value": "Трешолд",
+    "value": "Порог",
     "path": "/systemSuffixNames/17/1",
     "op": "replace"
   },
   {
-    "value": "Вейк",
+    "value": "Пробудження",
     "path": "/systemSuffixNames/18/1",
     "op": "replace"
   },
   {
-    "value": "Ріфт",
+    "value": "Рифт",
     "path": "/systemSuffixNames/19/1",
     "op": "replace"
   },
@@ -3045,22 +3045,22 @@
     "op": "replace"
   },
   {
-    "value": "Рідж",
+    "value": "Хребет",
     "path": "/systemSuffixNames/22/1",
     "op": "replace"
   },
   {
-    "value": "Рест",
+    "value": "Відпочинок",
     "path": "/systemSuffixNames/23/1",
     "op": "replace"
   },
   {
-    "value": "Екліпс",
+    "value": "Затміння",
     "path": "/systemSuffixNames/24/1",
     "op": "replace"
   },
   {
-    "value": "Тайд",
+    "value": "Прилив",
     "path": "/systemSuffixNames/25/1",
     "op": "replace"
   },
@@ -3070,17 +3070,17 @@
     "op": "replace"
   },
   {
-    "value": "Ордер",
+    "value": "Порядок",
     "path": "/systemSuffixNames/27/1",
     "op": "replace"
   },
   {
-    "value": "Масс",
+    "value": "Маса",
     "path": "/systemSuffixNames/28/1",
     "op": "replace"
   },
   {
-    "value": "Сварм",
+    "value": "Рой",
     "path": "/systemSuffixNames/29/1",
     "op": "replace"
   },
@@ -3100,47 +3100,47 @@
     "op": "replace"
   },
   {
-    "value": "Мастер",
+    "value": "Збір",
     "path": "/systemSuffixNames/33/1",
     "op": "replace"
   },
   {
-    "value": "Траверс",
+    "value": "Перехід",
     "path": "/systemSuffixNames/34/1",
     "op": "replace"
   },
   {
-    "value": "Странд",
+    "value": "Пляж",
     "path": "/systemSuffixNames/35/1",
     "op": "replace"
   },
   {
-    "value": "Грасп",
+    "value": "Захоплення",
     "path": "/systemSuffixNames/36/1",
     "op": "replace"
   },
   {
-    "value": "Морасс",
+    "value": "Болото",
     "path": "/systemSuffixNames/37/1",
     "op": "replace"
   },
   {
-    "value": "Пресіпіс",
+    "value": "Обрив",
     "path": "/systemSuffixNames/38/1",
     "op": "replace"
   },
   {
-    "value": "Мар",
+    "value": "Болотина",
     "path": "/systemSuffixNames/39/1",
     "op": "replace"
   },
   {
-    "value": "Стенд",
+    "value": "Стояти",
     "path": "/systemSuffixNames/40/1",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "[ID: 121143] ^white;- ^yellow;А^white;",
     "path": "/systemSuffixNames/41/1",
     "op": "replace"
   },

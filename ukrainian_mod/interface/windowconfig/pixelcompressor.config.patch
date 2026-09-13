@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": "  Пікс. компресор"
+    "value": "Пікс. компресор"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": "  ^#b9b5b2;Стискайте пікселі для зберігання"
+    "value": "^#b9b5b2;Стискайте пікселі для зберігання"
   },
   {
     "op": "replace",

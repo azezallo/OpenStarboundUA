@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Крила цього клопа райдужні, як лід."
+    "value": "Крила цього жука переливаються, наче лід."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "черепаха"
+    "value": "Осколкокрил"
   }
 ]

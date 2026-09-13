@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Товстий диск затверділого гриба."
+    "value": "Товстий диск затверділого грибка"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Гриб щитівка"
+    "value": "Грибний щит"
   }
 ]

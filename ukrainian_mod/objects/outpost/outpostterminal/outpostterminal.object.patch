@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Термінал. Корисно, мабуть."
+    "value": "Термінал. Мабуть, корисний."
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Гудок терміналу."
+    "value": "Термінал пікаєссс."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Безкорисливий. Термінал."
+    "value": "Байдужість. Термінал."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Просто термінал, напевно, з’єднується з чимось."
+    "value": "Просто термінал, певно кудись сі підключає."
   }
 ]

@@ -7,11 +7,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Персонал Тесли"
+    "value": "Посох Теслі"
   },
   {
     "op": "replace",
     "path": "/altAbility/name",
-    "value": "Кульова блискавка"
+    "value": "Куля-блискавка"
   }
 ]

@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Густа і липка грязь."
+    "value": "Густа і липка грязь"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Mud"
+    "value": "Мул"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floran likess muddy messsss."
+    "value": "Флорани люблять каламутну кашу."
   },
   {
     "op": "replace",

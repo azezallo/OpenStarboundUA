@@ -1,6 +1,6 @@
 [
   {
-    "value": "Фуу, виглядає як купа плоті!",
+    "value": "Фу, м’яса-матеріал!",
     "path": "/description",
     "op": "replace"
   },
@@ -10,17 +10,17 @@
     "op": "replace"
   },
   {
-    "value": "Тривога. Виглядає як пульсуюча плоть.",
+    "value": "Стривожений. Це схоже на пульсуючу плоть.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Ссстудениста ссслизька плоть.",
+    "value": "Сссм'яка, слизька плоть.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ця плоть виглядає досить бридко.",
+    "value": "Ця плоть виглядає досить огидно.",
     "path": "/novakidDescription",
     "op": "replace"
   }

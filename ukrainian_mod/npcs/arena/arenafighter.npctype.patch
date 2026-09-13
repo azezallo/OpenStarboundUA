@@ -1,6 +1,6 @@
 [
   {
-    "value": "Приготуйся бути розчавленим!",
+    "value": "Підготуйся до розчавлення!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
@@ -10,22 +10,22 @@
     "op": "replace"
   },
   {
-    "value": "Повернися і прийми виклик!",
+    "value": "Повернися і прийми виклик.",
     "path": "/scriptConfig/dialog/killedTarget/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Тобі не сховатися від мене!",
+    "value": "Ти не можеш сховатися від мене!",
     "path": "/scriptConfig/dialog/lostTarget/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Тобі не втекти!",
+    "value": "Втеча неможлива!",
     "path": "/scriptConfig/dialog/outOfSight/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Вони не зрівняються з нашою об'єднаною міццю!",
+    "value": "Вони не рівні нашій спільній міць!",
     "path": "/scriptConfig/dialog/cheerOn/default/default/0",
     "op": "replace"
   },

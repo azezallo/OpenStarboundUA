@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Тяга Floran. Нехай речі відбуваються!"
+    "value": "Флоран тягне важіль. Нехай речі сссбуватимуться!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вражений. A simple lever can control so many different mechanisms."
+    "value": "Вражений. Простий важіль може керувати багатьма різними механізмами."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Важіль. Треба просто потягнути."
+    "value": "Важіль. Просто треба його потягти."
   },
   {
     "op": "replace",

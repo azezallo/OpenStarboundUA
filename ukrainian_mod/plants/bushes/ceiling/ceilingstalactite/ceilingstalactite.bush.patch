@@ -1,21 +1,21 @@
 [
   {
-    "value": "Сталактит, стережись.",
+    "value": "Сталактит, обережно!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Сталактит",
+    "value": "Кам'яний сталактит.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Кам'яні шипи.",
+    "value": "Кам’яні шипи.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердно. Кам'яні шипи.",
+    "value": "Висловлення. Кам'яні шипи.",
     "path": "/glitchDescription",
     "op": "replace"
   }

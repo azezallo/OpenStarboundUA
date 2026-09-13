@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Rock Bed"
+    "value": "Кам'яне ліжко"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ліжко з каміння."
+    "value": "Ліжко з каменю."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Вважається, що сон на твердій поверхні корисний для спини."
+    "value": "Вважається, що сон на жорсткій поверхні корисний для спини."
   },
   {
     "op": "replace",

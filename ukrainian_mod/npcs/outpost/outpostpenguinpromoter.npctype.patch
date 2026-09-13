@@ -2,6 +2,6 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Got a ship? You should check out the Penguin Bay out back! We often have useful stuff for travellers such as yourself."
+    "value": "Маєш корабель? Поглянь на Пінгвінську бухту позаду! У нас часто є корисні речі для мандрівників, як ти."
   }
 ]

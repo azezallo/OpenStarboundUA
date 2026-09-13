@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Екранна панель Shoji"
+    "value": "Панель екрана Shoji"
   },
   {
     "op": "replace",
@@ -22,6 +22,6 @@
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Вишукана панель екрану."
+    "value": "Вишуканий вигляд екрана."
   }
 ]

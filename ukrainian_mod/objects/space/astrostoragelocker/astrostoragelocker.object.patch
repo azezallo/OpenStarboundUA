@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Astro Storage Locker"
+    "value": "Астро-склад"
   },
   {
     "op": "replace",
@@ -27,21 +27,21 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Цікаво. Lockers like this often have large capacities."
+    "value": "Цікаво. Такі шафи часто мають великий обсяг."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Настінна шафка для зберігання."
+    "value": "Настінна шафа для зберігання."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Проста на вигляд шафка для зберігання."
+    "value": "Проста на вигляд шафа для зберігання."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ви могли б сховати цілу купу чогось у такій шафці."
+    "value": "Можеш сховати у такій шафці купу чогось."
   }
 ]

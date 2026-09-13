@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "I can see my reflection... it's hideous!"
+    "value": "Я бачу своє відображення... воно жахливе!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Склоблок"
+    "value": "Блок скла"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. скло."
+    "value": "Заява. Скло."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран гарно виглядає в окулярах."
+    "value": "Флорани виглядають красиво у склі."
   }
 ]

@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": " Торговий автомат"
+    "value": "Торговий автомат"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": " ^#b9b5b2;Смачні закуски"
+    "value": "^#b9b5b2;Смачні закуски"
   },
   {
     "op": "replace",

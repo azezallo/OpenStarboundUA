@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Poison Bulbop"
+    "value": "Отруйний бульбоп"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It looks like a large and chunky leek. It bleeds when you cut it, though."
+    "value": "Він схожий на велику кремезну цибулю-порей. Проте він стікає кров'ю, якщо його порізати."
   }
 ]

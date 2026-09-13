@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Руйнувати дерму"
+    "value": "Дерма Руїни"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "М’ясиста маса з товстою, жорсткою на вигляд шкіркою."
+    "value": "М’ясиста маса з товстою, жорсткою на вигляд шкірою."
   },
   {
     "op": "replace",

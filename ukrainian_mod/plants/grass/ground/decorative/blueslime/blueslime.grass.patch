@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A slimy root."
+    "value": "Слизовий корінь."
   },
   {
     "op": "replace",
@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssslimy root."
+    "value": "Ссслизний корінь."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. A slimy root."
+    "value": "Заява. Слизовий корінь."
   }
 ]

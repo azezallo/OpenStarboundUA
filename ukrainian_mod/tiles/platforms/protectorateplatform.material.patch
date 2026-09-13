@@ -2,26 +2,26 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Protectorate Platform"
+    "value": "Платформа Земного Захисту"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Проста на вигляд платформа."
+    "value": "Проста за виглядом платформа"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Impressed. These platforms can easily support my weight."
+    "value": "Вражений. Ці платформи легко витримують мою вагу"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Shiny metal platformsss."
+    "value": "Блискучі металеві платформи"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Some fancy lookin' platforms made outta metal."
+    "value": "Кілька химерних платформ, виготовлених із металу"
   }
 ]

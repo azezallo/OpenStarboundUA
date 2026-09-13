@@ -152,7 +152,7 @@
   {
     "op": "replace",
     "path": "/otherDeed/default/default/0",
-    "value": "Тут не повинно бути іншого контракту колонії!"
+    "value": "Тут не повинен бути інший договір колониї!"
   },
   {
     "op": "replace",
@@ -162,7 +162,7 @@
   {
     "op": "replace",
     "path": "/severe/default/default/1",
-    "value": "Це не підходящий дім для Альпаки!"
+    "value": "Це не правильний будинок для альпаки!"
   },
   {
     "op": "replace",
@@ -212,12 +212,12 @@
   {
     "op": "replace",
     "path": "/reattack/default/default/1",
-    "value": "Ти повернувся? Отримуй!"
+    "value": "Ти повернувся? Візьми!"
   },
   {
     "op": "replace",
     "path": "/attack/default/default/0",
-    "value": "Отримуй!"
+    "value": "Візьми!"
   },
   {
     "op": "replace",

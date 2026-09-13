@@ -2,52 +2,52 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Минуло стільки часу, коли я їв домашню їжу... або дім."
+    "value": "Так давно я не куштував домашньої їжі... та й дому не мав."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Базова духовка"
+    "value": "Проста піч"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "value": "Базова духовка"
+    "value": "Проста піч"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "ням, ням"
+    "value": "Ням, ням"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Піч. Від одних думок про приготування їжі бурчить у животі."
+    "value": "Піч. Від одних думок про куховарення в мене в животі бурчить."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Піч, для приготування смачних страв."
+    "value": "Піч для приготування смачних страв."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Приготоване м'ясо смачніше навіть сирого!"
+    "value": "Приготоване м'ясссо навіть сссмачніше за сссире!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Полегшено. Звичайна піч. Час влаштовувати банкет."
+    "value": "Полегшення. Звичайна піч. Час влаштувати бенкет."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Ця духовка ледь пахне смаженою куркою. Принаймні, я думаю, що це курка. Справді, може бути що завгодно."
+    "value": "З цієї печі ледь чути смажену курку. Принаймні, здається, що курку. Насправді це може бути що завгодно."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Піч. Ідеально, якщо ви хочете гарячої їжі."
+    "value": "Піч. Чудово підходить, якщо хочеться гарячої їжі."
   },
   {
     "op": "replace",

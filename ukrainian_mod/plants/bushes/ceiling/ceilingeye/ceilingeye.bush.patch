@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A grotesque hanging eye."
+    "value": "Гротескне висяче око"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "A grotesque hanging eye."
+    "value": "Гротескне висяче око"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Шукаюче око!"
+    "value": "Ссскачаюче око!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Revulsion. A hanging eye."
+    "value": "Відраза. Висяче око."
   }
 ]

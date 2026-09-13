@@ -12,36 +12,36 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Маленький гарний дерев'яний табурет."
+    "value": "Гарний маленький дерев'яний табурет."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Табурет з дерева."
+    "value": "Табурет із дерева."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Крісло для маленького металіста."
+    "value": "Ссстільчик для маленького металевого чоловіка."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Не вражений. Табурет."
+    "value": "Байдужість. Табурет."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Добре підняти ноги."
+    "value": "Добре підійде, щоб покласти ноги."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Багато меблів Hylotl приблизно такої висоти."
+    "value": "Більшість меблів хайлотлів приблизно такої висоти."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Звичайний на вигляд табурет."
+    "value": "Простісінький на вигляд ослінчик."
   }
 ]

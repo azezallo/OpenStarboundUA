@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Salt Rampskull"
+    "value": "Сільна Рампскул"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It polishes the diagonal crest on its head against rocks and coral reefs."
+    "value": "Воно полірує діагональний гребінь на голові, тертя його об каміння і коралові рифи."
   }
 ]

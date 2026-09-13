@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скриня з гілок і коріння."
+    "value": "Скриня з гілок і коріння"
   },
   {
     "op": "replace",
@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Я б не довіряв безпеці такої скрині."
+    "value": "Я б не довіряв безпеці такої скрині"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Скриня з природних ресурсів. Захоплення."
+    "value": "Скриня з природних ресурсів. Вражаюче"
   },
   {
     "op": "replace",

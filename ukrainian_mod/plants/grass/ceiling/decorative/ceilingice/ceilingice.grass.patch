@@ -5,17 +5,17 @@
     "op": "replace"
   },
   {
-    "value": "Бурулька",
+    "value": "Бурулька.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Госсстрий лід.",
+    "value": "Гострий лід",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Бурулька.",
+    "value": "Заява. Бурулька.",
     "path": "/glitchDescription",
     "op": "replace"
   }

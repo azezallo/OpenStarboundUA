@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Маркер для підлоги."
+    "value": "Маркер поверху."
   },
   {
     "op": "replace",
@@ -12,36 +12,36 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Підлоговий знак."
+    "value": "Знак поверху."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Поверховий знак."
+    "value": "Знак поверху."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Знак підлоги."
+    "value": "Табличссска поверху."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Кмітливість. Підлоговий знак."
+    "value": "Кмітливість. Знак поверху."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Поверховий знак."
+    "value": "Знак поверху."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Поверховий знак."
+    "value": "Знак поверху."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це знак підлоги! Вупі!"
+    "value": "Та се ж знак поверху! Йой, файно є, легіню!"
   }
 ]

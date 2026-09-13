@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Цей знак буде вказувати на те, увімкнено чи вимкнено насос."
+    "value": "Цей знак покаже, чи включений або вимкнений насос."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Спрощена електроніка."
+    "value": "Спрощена електроніка"
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "М'який світиться знак."
+    "value": "М’який світлячий знак."
   },
   {
     "op": "replace",

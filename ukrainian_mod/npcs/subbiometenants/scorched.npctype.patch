@@ -1,11 +1,11 @@
 [
   {
-    "value": "  Бідний торговець",
+    "value": "Невиправданий торговець",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
     "op": "replace"
   },
   {
-    "value": "  Продаж небезпечних пасток!",
+    "value": "Продає смертельні пастки!",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Тобі потрібно... захистити... свою власність? Ні слова більше...",
+    "value": "Тобі треба... захистити... свою власність? Більше не шукай...",
     "path": "/scriptConfig/dialog/merchant/start/default/default/1",
     "op": "replace"
   },
@@ -25,7 +25,7 @@
     "op": "replace"
   },
   {
-    "value": "Ми тут...",
+    "value": "Ось ми...",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
     "op": "replace"
   },
@@ -35,12 +35,12 @@
     "op": "replace"
   },
   {
-    "value": "І ось, ми тут.",
+    "value": "І ось ми.",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Приходь у будь-який час, якщо тобі буде потрібний... захист...",
+    "value": "Приходь у будь‑який час, якщо тобі буде потрібний… захист...",
     "path": "/scriptConfig/dialog/merchant/end/default/default/0",
     "op": "replace"
   },
@@ -50,22 +50,22 @@
     "op": "replace"
   },
   {
-    "value": "Сподіваюся, ти оцінив мої... товари.",
+    "value": "Сподіваюся, що ти оцінить мої… товари.",
     "path": "/scriptConfig/dialog/merchant/end/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Ось, тримай трохи за захист моєї... скажімо так... безпеки.",
+    "value": "Ось щось для забезпечення мого… скажімо так… безпеки.",
     "path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Ось, тримай на знак моєї вдячності...",
+    "value": "Ось щось, щоб показати мою вдячність…",
     "path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Я жив і в гірших місцях. Ось невеликий знак моєї... вдячності.",
+    "value": "Я жив у гірших місцях. Ось невеликий знак моєї… вдячності.",
     "path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/2",
     "op": "replace"
   }

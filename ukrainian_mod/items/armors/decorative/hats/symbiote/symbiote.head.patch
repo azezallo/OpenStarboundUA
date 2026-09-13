@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Безкоштовне видалення."
+    "value": "Видалник вільної волі"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Симбіот"
+    "value": "Симбіонт"
   }
 ]

@@ -1,26 +1,26 @@
 [
   {
-    "value": "До бою!",
+    "value": "Атака!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти не стикався з таким, як я!",
+    "value": "Ти ніколи не зустрічав бандита, якого я!",
     "path": "/scriptConfig/dialog/attack/human/default/0",
     "op": "replace"
   },
   {
-    "value": "Напевно, ти бився зі звичайними бандитами, але не зі МНОЮ!",
+    "value": "Можливо, ти вже боролись з бандитами, але ще не зі мною!",
     "path": "/scriptConfig/dialog/attack/human/default/1",
     "op": "replace"
   },
   {
-    "value": "Ти підеш звідси лише схожим на друшляк!",
+    "value": "Ти залишишся з усіма цими порожнечами!",
     "path": "/scriptConfig/dialog/attack/human/default/2",
     "op": "replace"
   },
   {
-    "value": "Прийшов кинути мені виклик? Ти хоч знаєш, хто я?!",
+    "value": "Ти прийшов, щоб випробувати мене? Чи дійсно ти знаєш, хто я?",
     "path": "/scriptConfig/dialog/attack/human/default/3",
     "op": "replace"
   }

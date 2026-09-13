@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Цей потужний посох підкріплює воїна, який ним володіє."
+    "value": "Цей потужний посох підсилює воїна, який ним володіє"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Персонал Kluex"
+    "value": "Клєксова палиця"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
-    "value": "Персонал Kluex ^yellow;^reset;"
+    "value": "Клєксова палиця ^yellow;^reset;"
   }
 ]

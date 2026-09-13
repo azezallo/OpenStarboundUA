@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Штани, до яких можна вирости."
+    "value": "Штани, у які можна вирости."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Квітчасті брюки"
+    "value": "Квіточні брюки"
   }
 ]

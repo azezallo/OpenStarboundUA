@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'яніле жало іксодумів."
+    "value": "Скам'янілений жало Іксодома"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Іксодум Жало"
+    "value": "Жало Іксодома"
   }
 ]

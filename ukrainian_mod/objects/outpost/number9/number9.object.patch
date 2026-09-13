@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Маркер дев'ять."
+    "value": "Знак «Дев'ять»."
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Номер дев'ять."
+    "value": "Чисссло дев'ять."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Дев'ять."
+    "value": "Байдужість. Дев'ять."
   },
   {
     "op": "replace",

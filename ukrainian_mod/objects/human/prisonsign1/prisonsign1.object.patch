@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "На табличці написано: «Стільниковий блок»."
+    "value": "На табличці написано «Тюремний блок»."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Стільниковий блок знак"
+    "value": "Табличка тюремного блоку"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Табличка з написом «Стільниковий блок»."
+    "value": "Табличка з написом «Тюремний блок»."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Це вказує на клітинний блок."
+    "value": "Це вказує на тюремний блок."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Нудний sssign."
+    "value": "Нудна табличссчка."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. «Клітинний блок»."
+    "value": "Нейтральність. «Тюремний блок»."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Завжди хотіла побувати в блоку! Почекай, ні, я думаю про зоопарк."
+    "value": "Я завжди хотів побувати в тюремному блоці! Стривай, ні, це я про зоопарк."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Знак для людей, які не здатні дивитися на навколишнє."
+    "value": "Табличка для тих, хто не дивиться навкруги."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "На табличці написано «Cell Block»."
+    "value": "На табличці написано «Тюремний блок»."
   }
 ]

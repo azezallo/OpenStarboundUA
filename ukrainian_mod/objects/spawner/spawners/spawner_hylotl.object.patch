@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Створіть свого власного селянина Hylotl!"
+    "value": "Створіть свого власного селянина Хайлотла!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Hylotl Spawner"
+    "value": "Хайлотл спавнер"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Нерест Hylotls. Е... може пізніше."
+    "value": "Спавнінг Хайлотлів. Ой... можливо, потім."
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран викликає риболюдину прямо в меч!"
+    "value": "Флораний сссуммон риболюдину прямо в меч!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нещирий. Зустріч Hylotl була б просто чудовою."
+    "value": "Нещирий. Зустріч Хайлотлів була б просто чудовою."
   },
   {
     "op": "replace",

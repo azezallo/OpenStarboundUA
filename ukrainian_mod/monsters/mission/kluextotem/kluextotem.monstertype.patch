@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Kluex Totem"
+    "value": "Тотем Клюекса"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "A menacing marvel of ancient technology."
+    "value": "Зловісне диво стародавніх технологій."
   }
 ]

@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Стильна злодійська гра! Флорану подобається ця гра!"
+    "value": "Ссстильна крадійська гра! Флоран любить цю гру!"
   },
   {
     "op": "replace",
@@ -32,16 +32,16 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Стильна Thief Wasteland найкраща! Я збираюся бути найстильнішим злодієм з усіх."
+    "value": "Стильна Thief Wasteland найкраща! Я збираюся бути найстильнішим злодієм усіх."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Стильний Thief Wasteland часто критикують за зображення насильства, але ви повинні захоплюватися їхнім відчуттям моди."
+    "value": "Стилістичний Thief Wasteland часто критикують за зображення насильства, але ви повинні захоплюватися їхнім відчуттям моди."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "У Stylish Thief Wasteland є щось таке, що мені справді подобається."
+    "value": "У Stylish Thief Wasteland є щось, що мені справді подобається."
   }
 ]

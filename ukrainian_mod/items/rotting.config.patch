@@ -12,16 +12,16 @@
   {
     "op": "replace",
     "path": "/rotTimeDescriptions/2/1",
-    "value": "^yellow;, ймовірно, скоро зіпсується^reset;"
+    "value": "^yellow;ймовірно, скоро зіпсується^reset;"
   },
   {
     "op": "replace",
     "path": "/rotTimeDescriptions/3/1",
-    "value": "^green; має залишатися свіжим деякий час^reset;"
+    "value": "^green;має залишатися свіжим деякий час^reset;"
   },
   {
     "op": "replace",
     "path": "/rotTimeDescriptions/4/1",
-    "value": "^green;EНадзвичайно добре збережений^reset;"
+    "value": "^green;Надзвичайно добре збережений^reset;"
   }
 ]

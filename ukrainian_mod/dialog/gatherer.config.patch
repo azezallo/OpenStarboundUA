@@ -47,7 +47,7 @@
   {
     "op": "replace",
     "path": "/converse/apex/default/2",
-    "value": "Навіщо жити як раб із рештою мого народу, якщо я можу бути єдиним із природою?"
+    "value": "Навіщо жити як раб із рештою мого народу, коли я можу бути одним з природою?"
   },
   {
     "op": "replace",
@@ -82,17 +82,17 @@
   {
     "op": "replace",
     "path": "/encourage/default/default/0",
-    "value": "Схопи їх!"
+    "value": "Взяти їх!"
   },
   {
     "op": "replace",
     "path": "/encourage/default/default/1",
-    "value": "Помстись за мене!"
+    "value": "Помстися за мене!"
   },
   {
     "op": "replace",
     "path": "/encourage/default/default/2",
-    "value": "Вдар їх хоч раз за мене!"
+    "value": "Пирни їх хоч раз за мене!"
   },
   {
     "op": "replace",
@@ -107,7 +107,7 @@
   {
     "op": "replace",
     "path": "/safe/default/default/1",
-    "value": "Я врятував своє життя!"
+    "value": "Я ледве врятував своє життя!"
   },
   {
     "op": "replace",

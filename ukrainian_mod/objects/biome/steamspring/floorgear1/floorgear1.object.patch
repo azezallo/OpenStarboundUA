@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Напівзакопана в землю іржава шестерня."
+    "value": "Половинно закопаний у землю іржавий шестерень"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Збентежений. Is this meant to turn or is it just decoration?"
+    "value": "Збентежений. Чи це призначено для обертання, чи просто прикраса?"
   },
   {
     "op": "replace",

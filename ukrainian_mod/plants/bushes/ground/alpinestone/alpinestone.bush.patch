@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Купа замшілого каміння."
+    "value": "Купа мохових каменів"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Купа замшілого каміння."
+    "value": "Купа мохових каменів"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssstones."
+    "value": "Камінссці."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Купа замшілого каміння."
+    "value": "Заява. Купа мохових каменів"
   }
 ]

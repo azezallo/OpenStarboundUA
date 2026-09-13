@@ -5,17 +5,17 @@
     "op": "replace"
   },
   {
-    "value": "Корінь",
+    "value": "Корінь.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Коріння!",
+    "value": "Корінь!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердно. Корінь.",
+    "value": "Заява. Корінь.",
     "path": "/glitchDescription",
     "op": "replace"
   }

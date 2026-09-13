@@ -12,36 +12,36 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Це виглядає надзвичайно зручно."
+    "value": "Це виглядає неймовірно зручно."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Я міг би сидіти тут задоволений цілу вічність."
+    "value": "Я міг би з насолодою сидіти тут цілу вічність."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssoft."
+    "value": "Сссправжня м'якосссть."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "вражений. Така м'якість."
+    "value": "Захоплення. Яка м'якість."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Диван, на якому я можу розтягнутися і потонути."
+    "value": "Диван, на якому можна витягнутися і потонути."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Такий комфорт. Я здатний досягти миттєвого спокою."
+    "value": "Такий затишок. Тут я відчуваю миттєвий спокій."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Є таке поняття, як занадто м’який."
+    "value": "Буває ж отаке: геть занадто м'яко."
   }
 ]

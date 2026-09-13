@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Корона для Глюка у владі."
+    "value": "Корона глітчі в владі."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Глюкова корона"
+    "value": "Глітчова корона"
   }
 ]

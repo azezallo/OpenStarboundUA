@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Набір ніжок середньої якості для стрибків."
+    "value": "Набір середньої якості мехових ніг для стрибків."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ноги механізму бункера"
+    "value": "Ноги Hopper Mech"
   }
 ]

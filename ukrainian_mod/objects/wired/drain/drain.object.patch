@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "дренаж"
+    "value": "Дренаж"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Дренажі забирають воду."
+    "value": "Дренаж знімає воду."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це позбавить вас від набридливої ​​води!"
+    "value": "Це позбавить вас від набридливої води!"
   }
 ]

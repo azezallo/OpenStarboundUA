@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Її ніжки схожі на переплітаються ліани."
+    "value": "Його лапки схожі на переплетені ліани."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Виноградник"
+    "value": "Лозолаз"
   }
 ]

@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Ці двері, хоч і дерев’яні, міцні."
+    "value": "Хоч і дерев'яні, але ці двері міцні."
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Двері ссо міцні."
+    "value": "Двері ссстрашенно міцні."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Гордий. Ці двері посилені, щоб зробити їх більш безпечними."
+    "value": "Гордість. Ці двері укріплені, щоб зробити їх надійнішими."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Надійні, міцні двері."
+    "value": "Добрячі, міцні двері."
   }
 ]

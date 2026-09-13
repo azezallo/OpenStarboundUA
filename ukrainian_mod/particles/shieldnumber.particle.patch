@@ -2,6 +2,6 @@
   {
     "op": "replace",
     "path": "/definition/text",
-    "value": "^shadow; ЗАБЛОКУВАНО"
+    "value": "^shadow;Заблоковано"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Купа замшілого каміння."
+    "value": "Купа мохових каменів"
   },
   {
     "op": "replace",
@@ -17,17 +17,17 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Просто замшілі камені."
+    "value": "Просто мохові камені."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssstones."
+    "value": "Сскамені."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Трохи мохових каменів."
+    "value": "Нейтральний. Деякі мохові камені."
   },
   {
     "op": "replace",

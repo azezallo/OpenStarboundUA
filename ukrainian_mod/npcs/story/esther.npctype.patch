@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/npcname",
-    "value": "Esther"
+    "value": "Естер"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "I'm here whenever you need me, dear. Especially if you'd like a mint humbug."
+    "value": "Я завжди поруч, коли ти мене потребуєш, дорогий. Особливо якщо хочеш м’ятного гумбуга."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/arkOpened/default/default/0",
-    "value": "The ark is open! You know what awaits, dear."
+    "value": "Ковчег відкритий! Ти вже в курсі того, що чекає, дорогий."
   }
 ]

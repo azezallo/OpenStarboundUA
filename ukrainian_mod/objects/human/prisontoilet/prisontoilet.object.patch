@@ -12,27 +12,27 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Ми, Apex, звикли до таких жахливих умов."
+    "value": "Ми, апекси, звикли до таких жахливих умов."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Думаю, піду в інше місце."
+    "value": "Думаю, я піду в інше місце."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Смердючий ссс! фу!"
+    "value": "Сссмердюче сссидіння! Фу!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Огидно. у мене немає слів"
+    "value": "Огида. У мене просто немає слів."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Ніщо з відбілювачем і напалмом не відсортує."
+    "value": "Трохи хлорки та напалму — і все буде як новеньке."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ніхто не любить прибирати, але це за межі розумного."
+    "value": "Ніхто не любить прибирати, але се вже геть чисто перебор."
   }
 ]

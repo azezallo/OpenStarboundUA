@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Квітка магми."
+    "value": "Магмова квітка."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Магма квітка."
+    "value": "Магмова квітка"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Гаряча пекуча квітка."
+    "value": "Гаряча, палаюча квітка"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Квітка магми."
+    "value": "Ствердження. Магмова квітка"
   }
 ]

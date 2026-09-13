@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Кришталева квітка",
+    "value": "Кришталева квітка.",
     "path": "/shortdescription",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Ствердження. Кришталева квітка.",
+    "value": "Утвердження. Кришталева квітка.",
     "path": "/glitchDescription",
     "op": "replace"
   }

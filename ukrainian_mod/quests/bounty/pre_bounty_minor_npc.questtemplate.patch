@@ -1,21 +1,21 @@
 [
   {
-    "value": "Цей заголовок не буде відображатися.",
+    "value": "Цей заголовок не відображатиметься.",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Цей текст не буде відображатися.",
+    "value": "Цей текст не відображатиметься.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "Цей текст завершення не буде відображатися.",
+    "value": "Цей текст завершення не відображатиметься.",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Нам потрібно, щоб ти затримав дрібного шахрая на ім'я ^orange;<bounty.name>^reset; <coordinate.preposition> <coordinate.name>.\n\nВін досить дрібний, тож не завдасть тобі особливих проблем.\n\n- НАГОРОДИ -\nЗахоплення: ^yellow;<rewards.money>^reset; пікселів, +<rewards.rank> рангу",
+    "value": "Нам потрібно, щоб ти затримав дрібного шахрая на ім'я ^orange;<bounty.name>^reset; <coordinate.preposition> <coordinate.name>.\n\nВін досить дрібний, тож не завдасть тобі особливих проблем.\n\n- НАГОРОДИ -\nЗахоплення: ^yellow;<rewards.money>^reset; пікселів, +<rewards.rank> до рангу",
     "path": "/scriptConfig/generatedText/text/default/0",
     "op": "replace"
   }

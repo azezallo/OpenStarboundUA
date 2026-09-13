@@ -2,26 +2,26 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Traditional looking ornate roofing."
+    "value": "Традиційно орнаментальна покрівля"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ornate Roofing"
+    "value": "Вишуканий дах"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Impressed. This ornate roofing is structurally sound."
+    "value": "Вражений. Ця вишуканий дах є структурно міцним."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Вишукана покрівля – це гарно."
+    "value": "Вишуканий дах виглядає красиво."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це не те, до чого я звик, але все одно гарна покрівля."
+    "value": "Це не те, що я звик, але все одно гарний дах."
   }
 ]

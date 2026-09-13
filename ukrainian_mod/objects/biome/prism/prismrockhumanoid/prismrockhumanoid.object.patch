@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Призма Кристал"
+    "value": "Кристал призми"
   },
   {
     "op": "replace",
@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Хтось або щось потрапило в цю призму."
+    "value": "Хтось або щось застряг у цій призмі."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Що таке inssside? Воно живе?"
+    "value": "Що всередині? Чи живе воно?"
   },
   {
     "op": "replace",

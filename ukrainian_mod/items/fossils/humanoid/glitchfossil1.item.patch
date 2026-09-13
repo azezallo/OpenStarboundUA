@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Пошкоджена корозією головка Glitch."
+    "value": "Пошкоджена корозією головка Глітча"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Глюк Голова"
+    "value": "Глітч голова"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/shortdescription",
-    "value": "Glitch Fossil"
+    "value": "Фосил глітча"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/description",
-    "value": "Скам'янілий глюк. Внутрішня електропроводка збереглася рідко."
+    "value": "Скам'яний глітч. Внутрішня електропроводка рідко зберігається."
   }
 ]

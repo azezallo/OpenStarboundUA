@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ніхто не знає, звідки пістолет-кулемет отримав свою назву."
+    "value": "Ніхто не знає, звідки отримала назву ця субмашинний кулемет Мех-рука"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Tommy Gun Mech Arm"
+    "value": "Томмі ґан Мех-руки"
   }
 ]

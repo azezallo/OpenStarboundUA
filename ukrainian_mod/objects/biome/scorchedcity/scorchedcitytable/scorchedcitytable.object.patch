@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Простий по дизайну стіл."
+    "value": "Простий за дизайном стіл."
   },
   {
     "op": "replace",

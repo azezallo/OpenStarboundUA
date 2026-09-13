@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Зламана водонепроникна лампа"
+    "value": "Зламаний водонепроникний світильник"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "стурбований. Цей світильник не працює."
+    "value": "Стурбований. Це світло не працює."
   },
   {
     "op": "replace",

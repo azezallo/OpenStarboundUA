@@ -5,17 +5,17 @@
     "op": "replace"
   },
   {
-    "value": "Прекрасна квітка",
+    "value": "Прекрасна квітка.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Сссимпатично. Флоран милується.",
+    "value": "Сссимпатично.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердно. Симпатична квітка.",
+    "value": "Ствердження. Симпатична квітка.",
     "path": "/glitchDescription",
     "op": "replace"
   }

@@ -132,12 +132,12 @@
   {
     "op": "replace",
     "path": "/helpme/floran/default/1",
-    "value": "Сссзупинись, не роби боляче Флорану!"
+    "value": "Зупиніть травмувати Флорана!"
   },
   {
     "op": "replace",
     "path": "/helpme/floran/default/2",
-    "value": "Флорану потрібен ссспис!"
+    "value": "Флорана потребує сспису!"
   },
   {
     "op": "replace",
@@ -147,12 +147,12 @@
   {
     "op": "replace",
     "path": "/helpme/floran/default/4",
-    "value": "Флоран россскаже про тебе зеленопалому!"
+    "value": "Флорана розповість зеленопалому про тебе!"
   },
   {
     "op": "replace",
     "path": "/helpme/floran/default/5",
-    "value": "У Флорана немає сссписа! Флоран не може шштрикати!"
+    "value": "У Флорана немає сспису! Флорана не може штикувати!"
   },
   {
     "op": "replace",
@@ -232,7 +232,7 @@
   {
     "op": "replace",
     "path": "/safe/floran/default/0",
-    "value": "Флоран у бессспеці!"
+    "value": "Флорана в безпеці!"
   },
   {
     "op": "replace",
@@ -242,16 +242,16 @@
   {
     "op": "replace",
     "path": "/safe/floran/default/2",
-    "value": "Їм пощщщастило, що у Флорана немає зброї..."
+    "value": "Їм пощастило, що у Флорана немає зброї..."
   },
   {
     "op": "replace",
     "path": "/safe/floran/default/3",
-    "value": "Флоран зараз же піде за сссписом."
+    "value": "Флорана зараз же йде за ссписом!"
   },
   {
     "op": "replace",
     "path": "/safe/floran/default/4",
-    "value": "Флоран живессс!"
+    "value": "Флорана живий!"
   }
 ]

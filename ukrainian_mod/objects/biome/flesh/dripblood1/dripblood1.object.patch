@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "З цього місця капає кров."
+    "value": "Кров капає з цього місця."
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Огида. тьфу.."
+    "value": "Нудота. тьфу.."
   },
   {
     "op": "replace",

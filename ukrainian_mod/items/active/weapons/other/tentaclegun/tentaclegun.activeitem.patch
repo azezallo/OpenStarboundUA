@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Жахливий гібрид плоті та сталі."
+    "value": "Жахливий гібрид плоті та сталі"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Чужий додаток"
+    "value": "Чужий орган"
   }
 ]

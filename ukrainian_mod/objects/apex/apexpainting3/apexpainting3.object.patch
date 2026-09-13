@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Це репліка в рамці хіт-альбому Big Ape «Jungle Love»."
+    "value": "Це репліка у рамці хіт‑альбому Big Ape «Jungle Love»."
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Це єдиний запис, яким може володіти Apex. Деякі кажуть, що він містить підсвідомі повідомлення."
+    "value": "Це єдиний запис, яким може володіти Апекс. Деякі кажуть, що він містить підсвідомі повідомлення."
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Це... вініл? Стегно."
+    "value": "Це… вініл? Круто."
   },
   {
     "op": "replace",

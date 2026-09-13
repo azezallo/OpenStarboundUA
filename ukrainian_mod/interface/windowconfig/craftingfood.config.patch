@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": " Кухонний стіл"
+    "value": "Кухонний стіл"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": " ^#b9b5b2;Приготування їжі"
+    "value": "^#b9b5b2;Приготування їжі"
   },
   {
     "op": "replace",

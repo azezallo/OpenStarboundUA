@@ -5,12 +5,12 @@
     "op": "replace"
   },
   {
-    "value": "Мені подобається тримати це місце в безпеці.",
+    "value": "Мені подобається тримати це місце у безпеці.",
     "path": "/scriptConfig/dialog/hail/avian/default/0",
     "op": "replace"
   },
   {
-    "value": "Мені подобається моя робота, я зустрічаю багато цікавих людей.",
+    "value": "Мені подобається ця робота, я зустрічаю багато цікавих людей.",
     "path": "/scriptConfig/dialog/hail/avian/default/1",
     "op": "replace"
   },
@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Захист народу дає мені почуття задоволення.",
+    "value": "Захист людей дає мені велике задоволення.",
     "path": "/scriptConfig/dialog/hail/avian/default/3",
     "op": "replace"
   },
@@ -60,17 +60,17 @@
     "op": "replace"
   },
   {
-    "value": "Не турбуйссся, флоран зззаколе порушників.",
+    "value": "Не турбуйся, Флоран ссстабує порушників.",
     "path": "/scriptConfig/dialog/hail/floran/default/3",
     "op": "replace"
   },
   {
-    "value": "Охорона. Я захищу тебе і це місце.",
+    "value": "Захисник. Я захищу тебе й це місце.",
     "path": "/scriptConfig/dialog/hail/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Гордість. У мене є досвід в охороні.",
+    "value": "Гордість. У мене є досвід охорони.",
     "path": "/scriptConfig/dialog/hail/glitch/default/1",
     "op": "replace"
   },
@@ -80,12 +80,12 @@
     "op": "replace"
   },
   {
-    "value": "Сонливість. Думаєш, можна влаштувати перерву? Ніби все тихо?",
+    "value": "Сонливість. Думаєш, можна влаштувати перерву? Здається, зараз досить спокійно.",
     "path": "/scriptConfig/dialog/hail/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Я не ухиляюся, присягаюся!",
+    "value": "Я не лінуюсь, клянусь!",
     "path": "/scriptConfig/dialog/hail/human/default/0",
     "op": "replace"
   },
@@ -95,27 +95,27 @@
     "op": "replace"
   },
   {
-    "value": "Я можу захистити цю область від ворожих сил. Легко.",
+    "value": "Я можу утримувати територію від ворожих сил. Легко.",
     "path": "/scriptConfig/dialog/hail/human/default/2",
     "op": "replace"
   },
   {
-    "value": "Я люблю свою професію. Дає час для роздумів.",
+    "value": "Я люблю працювати охоронцем. Це дає мені багато часу на роздуми.",
     "path": "/scriptConfig/dialog/hail/human/default/3",
     "op": "replace"
   },
   {
-    "value": "Доброчесний той, хто захищає невинних.",
+    "value": "У житті є честь захищати інших.",
     "path": "/scriptConfig/dialog/hail/hylotl/default/0",
     "op": "replace"
   },
   {
-    "value": "Запевняю тебе: час, проведений тут, буде спокійним.",
+    "value": "Запевняю тебе, час, проведений тут, буде спокійним.",
     "path": "/scriptConfig/dialog/hail/hylotl/default/1",
     "op": "replace"
   },
   {
-    "value": "Я тут, щоб захищати тебе і тих, хто прийде з миром.",
+    "value": "Я тут, щоб захищати тебе і всіх, хто прийде з миром.",
     "path": "/scriptConfig/dialog/hail/hylotl/default/2",
     "op": "replace"
   },
@@ -125,7 +125,7 @@
     "op": "replace"
   },
   {
-    "value": "І тобі привіт, легіню!",
+    "value": "Слава Ісусу!",
     "path": "/scriptConfig/dialog/hail/novakid/default/0",
     "op": "replace"
   },

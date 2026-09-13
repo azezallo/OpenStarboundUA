@@ -17,17 +17,17 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "книга? Це може бути бібліотека."
+    "value": "Книга? Це може бути бібліотека."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Місце для читання книжок."
+    "value": "Місссце для читання книжсссок."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Задоволений. Знак бібліотеки."
+    "value": "Задоволення. Знак бібліотеки."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Книги. Можливо, це бібліотека."
+    "value": "Книжки. Може, то книгозбірня."
   }
 ]

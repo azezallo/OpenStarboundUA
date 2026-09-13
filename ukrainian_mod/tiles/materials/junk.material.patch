@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Купа випадкового мотлоху."
+    "value": "Купа випадкового мотлоху"
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Observant. I can see many different types of twisted broken debris in this pile."
+    "value": "Спостережливий. Я бачу багато різних типів скручених уламків у цій купі."
   },
   {
     "op": "replace",
@@ -22,6 +22,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Велика купа сміття."
+    "value": "Стара купка сміття."
   }
 ]

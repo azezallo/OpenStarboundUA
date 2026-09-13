@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "подарунок! Він загорнутий у бірюзовий папір із золотою стрічкою!"
+    "value": "Подарунок! Він упакований в бірюзовий папір із золотою стрічкою!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Тіловий подарунок"
+    "value": "Бірюзовий подарунок"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "подарунок! Це для мене?"
+    "value": "Подарунок! Це для мене?"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран хоче подарунок! Ssstab все!"
+    "value": "Флорани хочуть подарунок! Сссстаб все!"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "подарунки! Подарунки! Обгортка! так!"
+    "value": "Подарунки! Подарунки! Обгортка! Так!"
   },
   {
     "op": "replace",

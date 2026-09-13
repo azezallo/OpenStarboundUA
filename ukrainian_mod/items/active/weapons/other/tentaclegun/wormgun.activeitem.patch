@@ -7,16 +7,16 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Alien Worm Gun"
+    "value": "Чужий черв'яковий пістолет"
   },
   {
     "op": "replace",
     "path": "/altAbility/name",
-    "value": "Лопнув щупальце"
+    "value": "Вибух щупальця"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
-    "value": "Alien Worm Gun ^yellow;^reset;"
+    "value": "Чужий черв'яковий пістолет ^yellow;^reset;"
   }
 ]

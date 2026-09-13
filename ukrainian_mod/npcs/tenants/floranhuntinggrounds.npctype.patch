@@ -1,21 +1,21 @@
 [
   {
-    "value": "Капітан Нобл",
+    "value": "Флоран найкращий стрілок",
     "path": "/scriptConfig/dialog/converse/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Мені не до вподоби такий стиль, легіню.",
+    "value": "Флоран колись полював у тунелях. Тепер не так часто.",
     "path": "/scriptConfig/dialog/converse/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Азра Нокс",
+    "value": "Флоран любить тебе, тому не буде стріляти.",
     "path": "/scriptConfig/dialog/converse/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Не змушуй мене чекати, \"захиснику\".",
+    "value": "Флоран нюхає цілі поблизу. Сподіваюся скоро влучити у когось.",
     "path": "/scriptConfig/dialog/converse/floran/default/3",
     "op": "replace"
   }

@@ -5,17 +5,17 @@
     "op": "replace"
   },
   {
-    "value": "Гриб",
+    "value": "Гриб.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Грибок.",
+    "value": "Грибок",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Гриб.",
+    "value": "Заява. Гриб.",
     "path": "/glitchDescription",
     "op": "replace"
   }

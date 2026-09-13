@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ці вкриті лускою штани мають кігті замість ніг."
+    "value": "Штани, вкриті лускою, мають кігті замість ніг."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Штани Lagoon"
+    "value": "Штани лугу"
   }
 ]

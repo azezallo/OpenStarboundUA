@@ -1,6 +1,6 @@
 [
   {
-    "value": "Купа спресованого попелу.",
+    "value": "Купа щільно упакованого попелу.",
     "path": "/description",
     "op": "replace"
   },
@@ -10,7 +10,7 @@
     "op": "replace"
   },
   {
-    "value": "Цікаво. Купа запакованого попелу.",
+    "value": "Цікаво. Купа упакованого попелу.",
     "path": "/glitchDescription",
     "op": "replace"
   },
@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Велика стара купа попелу.",
+    "value": "Велика купа попелу.",
     "path": "/novakidDescription",
     "op": "replace"
   }

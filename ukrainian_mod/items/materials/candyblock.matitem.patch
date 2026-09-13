@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Запашна кам'яна цукерка!"
+    "value": "Запашна кам’яна цукерка!"
   },
   {
     "op": "replace",
@@ -12,16 +12,16 @@
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "в захваті. Здається, це гігантський шматок цукерки."
+    "value": "В захваті. Здається, це гігантський шматок жорсткої цукерки."
   },
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Candy hass colorful stripess."
+    "value": "Цукерка має кольорові смужки."
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Старий великий шматок льодяника."
+    "value": "Великий старий шматок кам’яної цукерки."
   }
 ]

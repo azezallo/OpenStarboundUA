@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "«Ідеальний зразок егізальтової руди»."
+    "value": "«Ідеальний зразок аегізальтової руди»"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Зразок егісалту"
+    "value": "Зразок Aegisalt"
   }
 ]

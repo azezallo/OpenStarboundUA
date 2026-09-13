@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Blue Club Lights"
+    "value": "Сині клубові світла"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Розсіяне освітлення для створення настрою. Який настрій? не впевнений"
+    "value": "Розсіяне освітлення для створення настрою. Який настрій? Не впевнений"
   },
   {
     "op": "replace",

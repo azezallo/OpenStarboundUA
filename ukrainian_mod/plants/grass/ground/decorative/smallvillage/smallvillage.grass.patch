@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Іграшкове деревоссс.",
+    "value": "Дитяче дерево.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Маленьке дерево.",
+    "value": "Утвердження. Маленьке дерево.",
     "path": "/glitchDescription",
     "op": "replace"
   }

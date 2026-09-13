@@ -2,27 +2,27 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "мікрохвильова піч. Коли ви досить голодні, щоб знищити їжу."
+    "value": "Мікрохвильова піч. Для тих випадків, коли ти настільки голодний, що готовий опромінити їжу."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "мікрохвильова піч"
+    "value": "Мікрохвильова піч"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "value": "мікрохвильова піч"
+    "value": "Мікрохвильова піч"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "Зручність приготування"
+    "value": "Зручність куховарення"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Тип духовки."
+    "value": "Різновид печі."
   },
   {
     "op": "replace",
@@ -32,26 +32,26 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран любить сире м’ясо, інколи варене м’ясо також добре."
+    "value": "Флоран любить сссире м'ясссо, але часссом і приготоване м'ясссо добре."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Роздратований. Воно вкрите бризками їжі, хто залишив його в такому стані?"
+    "value": "Роздратування. Вона вся заляпана засохлою їжею, хто залишив її в такому стані?"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "мікрохвильова піч. Треба принести мені картоплі в мундирі."
+    "value": "Мікрохвильовка. Треба зробити собі картоплі в мундирі."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Дивна піч, що крутиться."
+    "value": "Дивна піч, що обертається."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ця маленька обертова піч готує їжу на швидкості!"
+    "value": "Ця мацьопа обертова пічка готує їжу водномить!"
   }
 ]

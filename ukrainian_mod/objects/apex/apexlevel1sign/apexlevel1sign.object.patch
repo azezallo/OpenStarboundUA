@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Go Ape!"
+    "value": "Давай, Апекси!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Знак верхнього рівня 01"
+    "value": "Знак 1-го рівня Апекси"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Здається, я на першому рівні."
+    "value": "Здається, я на 1-му рівні."
   },
   {
     "op": "replace",
@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Чи можу я пропустити перший рівень?"
+    "value": "Чи можу я пропустити 1-й рівень?"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Зараз я на першому рівні."
+    "value": "Нейтральний. Зараз я на 1-му рівні."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Рівень перший, скільки тут рівнів?"
+    "value": "1-й рівень, скільки тут рівнів?"
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Здається, я досяг першого рівня."
+    "value": "Здається, я досяг 1-го рівня."
   }
 ]

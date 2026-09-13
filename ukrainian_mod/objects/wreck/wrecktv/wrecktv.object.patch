@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Просто статичний."
+    "value": "Тільки статика."
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Статичний. Гадаю, немає сигналу."
+    "value": "Статична. Гадаю, немає сигналу."
   },
   {
     "op": "replace",

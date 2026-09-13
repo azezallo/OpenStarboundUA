@@ -1,51 +1,51 @@
 [
   {
-    "value": "",
+    "value": "Манатикон",
     "path": "/nameGen/1/1/1",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Ротік",
     "path": "/nameGen/1/1/2",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Калокс",
     "path": "/nameGen/1/1/3",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Граксус",
     "path": "/nameGen/1/1/4",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Ся-Лі",
     "path": "/nameGen/1/1/5",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Shade Co.",
     "path": "/nameGen/1/1/6",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Некролікс",
     "path": "/nameGen/1/1/7",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Teklacki",
     "path": "/nameGen/1/1/8",
     "op": "replace"
   },
   {
-    "value": "Зоряний",
+    "value": "Стар",
     "path": "/nameGen/1/2/1",
     "op": "replace"
   },
   {
-    "value": "Ударний",
+    "value": "Вплив",
     "path": "/nameGen/1/2/2",
     "op": "replace"
   },
@@ -55,72 +55,72 @@
     "op": "replace"
   },
   {
-    "value": "Поліцей.",
+    "value": "Бунт",
     "path": "/nameGen/1/2/4",
     "op": "replace"
   },
   {
-    "value": "Черепний",
+    "value": "Череп",
     "path": "/nameGen/1/2/5",
     "op": "replace"
   },
   {
-    "value": "Морський",
+    "value": "Цунамі",
     "path": "/nameGen/1/2/6",
     "op": "replace"
   },
   {
-    "value": "Силовий",
+    "value": "Сила",
     "path": "/nameGen/1/2/7",
     "op": "replace"
   },
   {
-    "value": "Галактич.",
+    "value": "Галактика",
     "path": "/nameGen/1/2/8",
     "op": "replace"
   },
   {
-    "value": "Хвильовий",
+    "value": "Хвиля",
     "path": "/nameGen/1/2/9",
     "op": "replace"
   },
   {
-    "value": "Місячний",
+    "value": "Місяць",
     "path": "/nameGen/1/2/10",
     "op": "replace"
   },
   {
-    "value": "Гострий",
+    "value": "Талон",
     "path": "/nameGen/1/2/11",
     "op": "replace"
   },
   {
-    "value": "Фокусов.",
+    "value": "Фокус",
     "path": "/nameGen/1/2/12",
     "op": "replace"
   },
   {
-    "value": "Централ.",
+    "value": "Нексус",
     "path": "/nameGen/1/2/13",
     "op": "replace"
   },
   {
-    "value": "Місячний",
+    "value": "Луна",
     "path": "/nameGen/1/2/14",
     "op": "replace"
   },
   {
-    "value": "Множин.",
+    "value": "Полі",
     "path": "/nameGen/1/2/15",
     "op": "replace"
   },
   {
-    "value": "Піксельний",
+    "value": "Піксель",
     "path": "/nameGen/1/2/16",
     "op": "replace"
   },
   {
-    "value": "Земний",
+    "value": "Земля",
     "path": "/nameGen/1/2/17",
     "op": "replace"
   },
@@ -135,7 +135,7 @@
     "op": "replace"
   },
   {
-    "value": "Планетний",
+    "value": "Планета",
     "path": "/nameGen/1/2/20",
     "op": "replace"
   },
@@ -145,102 +145,102 @@
     "op": "replace"
   },
   {
-    "value": "Душевний",
+    "value": "Душа",
     "path": "/nameGen/1/2/22",
     "op": "replace"
   },
   {
-    "value": "Сердечний",
+    "value": "Серце",
     "path": "/nameGen/1/2/23",
     "op": "replace"
   },
   {
-    "value": "Гірський",
+    "value": "Гора",
     "path": "/nameGen/1/2/24",
     "op": "replace"
   },
   {
-    "value": "Грізний",
+    "value": "Терор",
     "path": "/nameGen/1/2/25",
     "op": "replace"
   },
   {
-    "value": "Туманний",
+    "value": "Туманність",
     "path": "/nameGen/1/2/26",
     "op": "replace"
   },
   {
-    "value": "Сяючий",
+    "value": "Німб",
     "path": "/nameGen/1/2/27",
     "op": "replace"
   },
   {
-    "value": "Божествен.",
+    "value": "Небесний",
     "path": "/nameGen/1/2/28",
     "op": "replace"
   },
   {
-    "value": "Небесний",
+    "value": "Небо",
     "path": "/nameGen/1/2/29",
     "op": "replace"
   },
   {
-    "value": "Океаніч.",
+    "value": "Океан",
     "path": "/nameGen/1/2/30",
     "op": "replace"
   },
   {
-    "value": "Ефірний",
+    "value": "Ефір",
     "path": "/nameGen/1/2/31",
     "op": "replace"
   },
   {
-    "value": "Реальний",
+    "value": "Реальність",
     "path": "/nameGen/1/2/32",
     "op": "replace"
   },
   {
-    "value": "Матеріал.",
+    "value": "Матерія",
     "path": "/nameGen/1/2/33",
     "op": "replace"
   },
   {
-    "value": "Світловий",
+    "value": "Світло",
     "path": "/nameGen/1/2/34",
     "op": "replace"
   },
   {
-    "value": "Порожній",
+    "value": "Порожнеча",
     "path": "/nameGen/1/2/35",
     "op": "replace"
   },
   {
-    "value": "Розплавл.",
+    "value": "Фузія",
     "path": "/nameGen/1/2/36",
     "op": "replace"
   },
   {
-    "value": "Фазовий",
+    "value": "Фаза",
     "path": "/nameGen/1/2/37",
     "op": "replace"
   },
   {
-    "value": "Світанковий",
+    "value": "Світанок",
     "path": "/nameGen/1/2/38",
     "op": "replace"
   },
   {
-    "value": "Сутінковий",
+    "value": "Сутінки",
     "path": "/nameGen/1/2/39",
     "op": "replace"
   },
   {
-    "value": "Потоковий",
+    "value": "Флюкс",
     "path": "/nameGen/1/2/40",
     "op": "replace"
   },
   {
-    "value": "Вітряний",
+    "value": "Циклон",
     "path": "/nameGen/1/2/41",
     "op": "replace"
   },
@@ -255,137 +255,137 @@
     "op": "replace"
   },
   {
-    "value": "Кометний",
+    "value": "Комета",
     "path": "/nameGen/1/2/44",
     "op": "replace"
   },
   {
-    "value": "Захисний",
+    "value": "Охоронець",
     "path": "/nameGen/1/2/45",
     "op": "replace"
   },
   {
-    "value": "Виючий",
+    "value": "Гул",
     "path": "/nameGen/1/2/46",
     "op": "replace"
   },
   {
-    "value": "Імпульсний",
+    "value": "Пульс",
     "path": "/nameGen/1/2/47",
     "op": "replace"
   },
   {
-    "value": " узі",
+    "value": "Узі",
     "path": "/nameGen/1/3/1",
     "op": "replace"
   },
   {
-    "value": " пістолет",
+    "value": "Пістолет",
     "path": "/nameGen/1/3/2",
     "op": "replace"
   },
   {
-    "value": " ствол",
+    "value": "пістолет",
     "path": "/nameGen/1/3/3",
     "op": "replace"
   },
   {
-    "value": " розпилювач",
+    "value": "Розпилювач",
     "path": "/nameGen/1/3/4",
     "op": "replace"
   },
   {
-    "value": " стопор",
+    "value": "Зупинник",
     "path": "/nameGen/1/3/5",
     "op": "replace"
   },
   {
-    "value": " розкид",
+    "value": "Розпилювач",
     "path": "/nameGen/1/3/6",
     "op": "replace"
   },
   {
-    "value": " бластер",
+    "value": "Бластер",
     "path": "/nameGen/1/3/7",
     "op": "replace"
   },
   {
-    "value": " ствол",
+    "value": "Гаубиця",
     "path": "/nameGen/1/3/8",
     "op": "replace"
   },
   {
-    "value": " пітчер",
+    "value": "Кувшин",
     "path": "/nameGen/1/3/9",
     "op": "replace"
   },
   {
-    "value": " тоссер",
+    "value": "Бросач",
     "path": "/nameGen/1/3/10",
     "op": "replace"
   },
   {
-    "value": " фазер",
+    "value": "Фазер",
     "path": "/nameGen/1/3/11",
     "op": "replace"
   },
   {
-    "value": " шкідник",
+    "value": "шкідник",
     "path": "/nameGen/1/3/12",
     "op": "replace"
   },
   {
-    "value": " руйнівник",
+    "value": "руйнівник",
     "path": "/nameGen/1/3/13",
     "op": "replace"
   },
   {
-    "value": " нищівник",
+    "value": "Руїна",
     "path": "/nameGen/1/3/14",
     "op": "replace"
   },
   {
-    "value": " грішник",
+    "value": "грішник",
     "path": "/nameGen/1/3/15",
     "op": "replace"
   },
   {
-    "value": " вбивця",
+    "value": "вбивця",
     "path": "/nameGen/1/3/16",
     "op": "replace"
   },
   {
-    "value": " затвор",
+    "value": "затвор",
     "path": "/nameGen/1/3/17",
     "op": "replace"
   },
   {
-    "value": " силовик",
+    "value": "силовик",
     "path": "/nameGen/1/3/18",
     "op": "replace"
   },
   {
-    "value": " виклик",
+    "value": "тригер",
     "path": "/nameGen/1/3/19",
     "op": "replace"
   },
   {
-    "value": " штовхач",
+    "value": "штовхач",
     "path": "/nameGen/1/3/20",
     "op": "replace"
   },
   {
-    "value": " вигнанець",
+    "value": "вигнанець",
     "path": "/nameGen/1/3/21",
     "op": "replace"
   },
   {
-    "value": " загороджувач",
+    "value": "обстріл",
     "path": "/nameGen/1/3/22",
     "op": "replace"
   },
   {
-    "value": " терор",
+    "value": "терор",
     "path": "/nameGen/1/3/23",
     "op": "replace"
   }

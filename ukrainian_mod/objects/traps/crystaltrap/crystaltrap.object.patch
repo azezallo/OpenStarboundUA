@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Я б не хотів потрапити в цей промінь."
+    "value": "Я б не хотів потрапити у цей промінь."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Кришталевий промінь болить Флоран."
+    "value": "Кришталевий промінь болить Флорана."
   },
   {
     "op": "replace",

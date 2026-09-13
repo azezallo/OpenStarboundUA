@@ -2,6 +2,6 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Thanks for helping me test my mech, friendo! I'll see you back at my workshop!"
+    "value": "Дякую за допомогу у тестуванні мого меха, друже! Зустрінемося ще раз у моїй майстерні!"
   }
 ]

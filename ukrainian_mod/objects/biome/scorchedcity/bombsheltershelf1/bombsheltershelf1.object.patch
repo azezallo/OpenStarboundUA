@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Усе, що потрібно для виживання. майже."
+    "value": "Усе, що потрібно для виживання. Майже."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Полиця притулку"
+    "value": "Полиця притулка"
   },
   {
     "op": "replace",

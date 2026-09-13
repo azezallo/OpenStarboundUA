@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Зігніть нижню частину фону"
+    "value": "Нижній згнутий сегмент фону"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Зігніть нижню частину фону"
+    "value": "Нижній згнутий сегмент фону"
   }
 ]

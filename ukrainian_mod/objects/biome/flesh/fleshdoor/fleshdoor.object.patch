@@ -2,32 +2,32 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "М'ясні м'ясисті двері."
+    "value": "М'ясиста, м'яка двер'я."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Плоть двері"
+    "value": "Двер'я плоти"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Це кошмар."
+    "value": "Це кошмарно."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Гротескні двері."
+    "value": "Гротескна двер'я."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floran ssstab двері відкриті."
+    "value": "Флоран ссстаб двер'я відкривається."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Незручно. Найогидніші двері."
+    "value": "Незручно. Найогидніша двер'я."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Які огидні двері."
+    "value": "Яка огідна двер'я!"
   },
   {
     "op": "replace",

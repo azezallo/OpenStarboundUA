@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Strong stone slabs, perfect for building a castle."
+    "value": "Міцні кам'яні плити, ідеально підходять для будівництва замка."
   },
   {
     "op": "replace",
@@ -12,16 +12,16 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Informed. Stone bricks like this are frequently used in castle construction."
+    "value": "Інформований. Такі кам’яні цеглини часто використовують у будівництві замків."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Giant sstone brickss."
+    "value": "Гігантська кам'яна цегла."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "I'd hate t've been the fella who had to lay these heavy bricks."
+    "value": "Я б не хотів бути тим хлопцем, якому довелося класти ці важкі цеглини."
   }
 ]

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілий череп Змієносця."
+    "value": "Скам'яний череп Змієносця"
   },
   {
     "op": "replace",
@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/completeSetDescriptions/shortdescription",
-    "value": "Змієносна копалина"
+    "value": "Копальня Змієносця"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/description",
-    "value": "Цей далекий предок Снаунта полює в океанах, а не на суші."
+    "value": "Цей далекий предок Снаунта полював у океанах, а не на суші."
   }
 ]

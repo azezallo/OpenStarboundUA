@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Крижані осколки."
+    "value": "Крижані ссшкості."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. Hanging ice shards."
+    "value": "Заява. Висячі осколки льоду."
   }
 ]

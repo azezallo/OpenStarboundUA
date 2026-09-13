@@ -10,7 +10,7 @@
     "op": "replace"
   },
   {
-    "value": "Квітка нагадує флорану про дім.",
+    "value": "Квітка нагадує Флорану про дім.",
     "path": "/floranDescription",
     "op": "replace"
   },

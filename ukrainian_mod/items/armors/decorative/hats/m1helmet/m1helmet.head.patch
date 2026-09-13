@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Г.І. стандартний військовий шолом."
+    "value": "Військовий шолом типу G.I."
   },
   {
     "op": "replace",

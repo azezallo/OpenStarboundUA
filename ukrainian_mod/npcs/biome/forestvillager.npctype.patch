@@ -1,71 +1,71 @@
 [
   {
-    "value": "Мені здається, воно змилося.",
+    "value": "Мені нічого тобі сказати",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Воно втекло?",
+    "value": "Сссстранна річ.",
     "path": "/scriptConfig/dialog/converse/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Ми в безпеці?",
+    "value": "Флоран любить жити в лісі – знає всі рослини і всі стежки.",
     "path": "/scriptConfig/dialog/converse/floran/human/0",
     "op": "replace"
   },
   {
-    "value": "Ти бачив, куди воно поділося?",
+    "value": "Жити з природою – це мій спосіб життя!",
     "path": "/scriptConfig/dialog/converse/floran/human/1",
     "op": "replace"
   },
   {
-    "value": "Куди воно поділося?",
+    "value": "Флоран любить жити в лісі – знає всі рослини і всі стежки.",
     "path": "/scriptConfig/dialog/converse/floran/apex/0",
     "op": "replace"
   },
   {
-    "value": "Я їх не бачу!",
+    "value": "Флоран допомагає мавпячому чоловіку знищити міні-лог.",
     "path": "/scriptConfig/dialog/converse/floran/apex/1",
     "op": "replace"
   },
   {
-    "value": "Ми втратили слід!",
+    "value": "Флоран любить жити в лісі – знає всі рослини і всі стежки.",
     "path": "/scriptConfig/dialog/converse/floran/avian/0",
     "op": "replace"
   },
   {
-    "value": "Ти це бачив?",
+    "value": "Летай!",
     "path": "/scriptConfig/dialog/converse/floran/avian/1",
     "op": "replace"
   },
   {
-    "value": "Він не міг просто зникнути...",
+    "value": "Флоран любить жити в лісі – знає всі рослини і всі стежки.",
     "path": "/scriptConfig/dialog/converse/floran/floran/0",
     "op": "replace"
   },
   {
-    "value": "Знищ його!",
+    "value": "Флоран – важлива особа в цьому селищі.",
     "path": "/scriptConfig/dialog/converse/floran/floran/1",
     "op": "replace"
   },
   {
-    "value": "А ти непоганий!",
+    "value": "Флоран любить жити в лісі – знає всі рослини і всі стежки.",
     "path": "/scriptConfig/dialog/converse/floran/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Тебе для цього тренували?",
+    "value": "Тобі потрібен Флоран, щоб колоть щось?",
     "path": "/scriptConfig/dialog/converse/floran/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Відмінна робота!",
+    "value": "Флоран любить жити в лісі – знає всі рослини і всі стежки.",
     "path": "/scriptConfig/dialog/converse/floran/hylotl/0",
     "op": "replace"
   },
   {
-    "value": "Набої скінчилися!",
+    "value": "Давай будемо друзями!",
     "path": "/scriptConfig/dialog/converse/floran/hylotl/1",
     "op": "replace"
   }

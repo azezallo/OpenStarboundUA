@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/gui/windowtitle/title",
-    "value": " Торг. товарами"
+    "value": "Торг. товарами"
   },
   {
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
-    "value": " Торгуй товарами для прибутку"
+    "value": "Торгуй товарами для прибутку"
   },
   {
     "op": "replace",

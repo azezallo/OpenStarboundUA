@@ -17,31 +17,31 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Птахи так сіно не скочують."
+    "value": "Авіани так сіно не скочують."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Це сіно могло покотитися!"
+    "value": "Цссе сссіно може покотитиссся!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Щаслива. Сіно все закатано і готове до продажу."
+    "value": "Радість. Сіно щільно згорнуте й готове до продажу."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Великий великий рулон сіна."
+    "value": "Величезний тюк сіна."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Надводна рослина, висушена і згорнута в пучок."
+    "value": "Наземна рослина, висушена та згорнута в тюк."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це спокуса підштовхнути цей рулон сіна..."
+    "value": "Аж кортить підштовхнути сесь рулон сіна..."
   }
 ]

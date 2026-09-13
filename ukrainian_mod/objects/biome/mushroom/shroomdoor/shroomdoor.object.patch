@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Двері з грибів. Він навіть має симпатичну грибоподібну ручку."
+    "value": "Двері з грибів. Вона навіть має симпатичну грибоподібну ручку."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Грибна двері"
+    "value": "Грибні двері"
   },
   {
     "op": "replace",
@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Ці двері не здаються надто безпечними."
+    "value": "Ця двері не здається надто безпечною."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран ssssqueeze двері."
+    "value": "Флорани сссшуздуть двері."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Двері з грибів. Дивний."
+    "value": "Двері з грибів. Дивна"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "М’які грибні двері. Це мило!."
+    "value": "М'яка грибна двер'я. Це мило!"
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ice Agrobat"
+    "value": "Крижаний агробат"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Due to its sensitive eyes it prefers dark settings, like caves."
+    "value": "Через чутливі очі він уподобляє темні умови, наприклад печери."
   }
 ]

@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Стілець пахне болотом. Флорану подобається."
+    "value": "Стілець пахне болотом. Флорани люблять."
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Я думаю, це місце."
+    "value": "Я думаю, це стілець."
   },
   {
     "op": "replace",

@@ -17,22 +17,22 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Легенди правдиві! What a beautiful sight to behold."
+    "value": "Легенди правдиві! Яка красива картина!"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран зберігає гарне яйце."
+    "value": "Флоран зберігає сссгарне яйце."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Чудо. Таке гарне яйце коштувало б досить дорого."
+    "value": "Чудо. Таке гарне яйце могло б коштувати досить дорого."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Ось гарне яйце."
+    "value": "Ось таке красиве яйце."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Він дуже блищить, я бачу своє відображення."
+    "value": "Воно дуже блищить, я бачу своє відображення."
   }
 ]

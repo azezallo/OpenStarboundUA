@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "^orange;Pіксельний компресор^white;"
+    "value": "^orange;Піксельний компресор^white;"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран поклав блискітки в безпечне місце!"
+    "value": "Флорани поклав блискітки в безпечне місце!"
   },
   {
     "op": "replace",

@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/0",
-    "value": "I'm working long hours to help finish an overdue project - luckily I can work from home!"
+    "value": "Я працюю довгі години, щоб завершити затриманий проект – на щастя, я можу працювати з дому!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/1",
-    "value": "I work in finance - can't you tell by the bags under my eyes and my freshly-ironed shirt?"
+    "value": "Я працюю в фінансах – чи не помічаєте ви мене за мішками під очима й щойно випрасованим одягом?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/2",
-    "value": "I believe you have my stapler?"
+    "value": "Ви, напевно, маєте мій скобник?"
   }
 ]

@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Роздратування. Ти не виставиш мене на посміховисько!",
+    "value": "Гнів. Ти не будеш жартувати зі мною!",
     "path": "/scriptConfig/dialog/attack/glitch/default/2",
     "op": "replace"
   },

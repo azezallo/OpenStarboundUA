@@ -7,22 +7,22 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "М'яке крісло"
+    "value": "М’яке крісло"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Крісло з м'якими подушками."
+    "value": "Крісло з м’якими подушками."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "У цьому кріслі можна потонути. Найбільше розслабляє."
+    "value": "У цьому кріслі можна потонути. Найбільш розслабляє."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран опустився в крісло, як швидкий пісок."
+    "value": "Флоран сссопустився в крісло, як шшшвидкий пісок."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "М'який, наче сидів на зефірі."
+    "value": "М’який, як сидіння на зефірі."
   }
 ]

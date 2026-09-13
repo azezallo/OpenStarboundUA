@@ -1,51 +1,51 @@
 [
   {
-    "value": "Гірський",
+    "value": "Я тут проводжу наземні дослідження для Міннауків. Не хвилюйся, я буду добрим.",
     "path": "/scriptConfig/dialog/converse/apex/default/0",
     "op": "replace"
   },
   {
-    "value": "Грізний",
+    "value": "Міннаук розмістили мене тут для польових досліджень. Це не моя ідея, повір мені.",
     "path": "/scriptConfig/dialog/converse/apex/default/1",
     "op": "replace"
   },
   {
-    "value": "Туманний",
+    "value": "Міннаук наказали мені проводити польові дослідження. Хотів би я не був розміщений тут...",
     "path": "/scriptConfig/dialog/converse/apex/default/2",
     "op": "replace"
   },
   {
-    "value": "Сяючий",
+    "value": "Я тут, щоб проводити дослідження від імені Міннаук. Не переривайте мене.",
     "path": "/scriptConfig/dialog/converse/apex/default/3",
     "op": "replace"
   },
   {
-    "value": "Божествен.",
+    "value": "Не вірте брехні повстанців – Міннаук тут, щоб допомагати всесвіту.",
     "path": "/scriptConfig/dialog/converse/apex/default/4",
     "op": "replace"
   },
   {
-    "value": "Небесний",
+    "value": "Я тут проводжу наземні дослідження для Міннауків. Не хвилюйся, я буду добрим.",
     "path": "/scriptConfig/dialog/converse/apex/apex/0",
     "op": "replace"
   },
   {
-    "value": "Океаніч.",
+    "value": "Сподіваюся, що ти не дефектор. Або ти з Міннауком, або проти нас.",
     "path": "/scriptConfig/dialog/converse/apex/apex/1",
     "op": "replace"
   },
   {
-    "value": "Ефірний",
+    "value": "Міннаук наказали мені проводити польові дослідження. Хотів би я не був розміщений тут...",
     "path": "/scriptConfig/dialog/converse/apex/apex/2",
     "op": "replace"
   },
   {
-    "value": "Реальний",
+    "value": "Я тут, щоб проводити дослідження від імені Міннаук. Не переривайте мене.",
     "path": "/scriptConfig/dialog/converse/apex/apex/3",
     "op": "replace"
   },
   {
-    "value": "Матеріал.",
+    "value": "Сподіваюся, що ти підтримуєш Міннаук. Ми обидва знаємо, що трапляється з повстанцями...",
     "path": "/scriptConfig/dialog/converse/apex/apex/4",
     "op": "replace"
   }

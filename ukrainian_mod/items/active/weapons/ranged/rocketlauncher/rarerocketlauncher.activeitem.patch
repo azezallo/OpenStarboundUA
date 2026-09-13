@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Влада підривати речі."
+    "value": "Потужність вибухати речі"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Рідкісний Ракетник"
+    "value": "Рідка ракетна установка"
   }
 ]

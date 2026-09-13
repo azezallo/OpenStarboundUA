@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Гротескне щупальце."
+    "value": "Гротескове щупальце."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Гротескне щупальце."
+    "value": "Гротескове щупальце."
   },
   {
     "op": "replace",
@@ -17,6 +17,6 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вжахнувся. Гротескне щупальце."
+    "value": "Вжахнувся. Гротескове щупальце."
   }
 ]

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Повний мішок подарунків."
+    "value": "Мішок, наповнений подарунками."
   },
   {
     "op": "replace",

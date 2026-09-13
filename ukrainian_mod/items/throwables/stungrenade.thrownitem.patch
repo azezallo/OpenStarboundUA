@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Шумова граната"
+    "value": "Граната оглушення"
   },
   {
     "op": "replace",

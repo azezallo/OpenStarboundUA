@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Зрозуміло, це не може створити щит."
+    "value": "Це точно не виглядає так, що могло б генерувати щит."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Генератор щитів"
+    "value": "Генератор щита"
   },
   {
     "op": "replace",
@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Цей перемикач створює щит."
+    "value": "Цей перемикач генерує щит."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssswitch!"
+    "value": "Ссперемикач!"
   },
   {
     "op": "replace",

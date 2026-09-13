@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssandy скелі."
+    "value": "Пісочні ссшкелі."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Висячі скелі пустелі."
+    "value": "Заява. Висячі пустельні скелі."
   }
 ]

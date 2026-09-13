@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Виглядає як маска людини."
+    "value": "Здається, це маска людини."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Ця маска є застереженням для людей."
+    "value": "Ця маска - попередження для людей."
   },
   {
     "op": "replace",

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Непоказна дерев'яна платформа."
+    "value": "Невизначена дерев'яна платформа"
   },
   {
     "op": "replace",
@@ -17,11 +17,11 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Прості дерев'яні платформи."
+    "value": "Проста дерев'яна платформа"
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Просто платформа, зроблена з дерева."
+    "value": "Просто платформа, зроблена з дерева"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Крупний гравій."
+    "value": "Крупний гравій"
   },
   {
     "op": "replace",
@@ -17,11 +17,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Щебінь."
+    "value": "Щебінь"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Щебінь і гравій."
+    "value": "Скрушені камені й гравій"
   }
 ]

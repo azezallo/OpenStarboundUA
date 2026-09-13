@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Міцна робоча поверхня, встановлена ​​на підлозі."
+    "value": "Міцна робоча поверхня, встановлена на підлозі."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Астрологічна таблиця"
+    "value": "Таблиця Astro"
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Металевий стіл, який кріпиться до підлоги."
+    "value": "Металевий стіл, який був прикріплений до підлоги."
   },
   {
     "op": "replace",

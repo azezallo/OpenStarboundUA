@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Not many Florans become Protectorsss. Floran is proud to be chosen!"
+    "value": "Немало Флоранів стають Захисниками. Флоран гордий, що його обрали!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "Floran regretss drinking five Oculemonades for breakfast..."
+    "value": "Флоран сссссс... П'ять Окулемонадів на сніданок"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
-    "value": "Floran hopess there will be time for a toilet break."
+    "value": "Флорани сподівається, що буде час для туалетної перерви."
   }
 ]

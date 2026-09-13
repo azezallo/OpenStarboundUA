@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Створіть трохи шуму, не виходячи з власного механізму."
+    "value": "Створіть трохи шуму, не виходячи зі свого меха."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Airhorn Mech Horn"
+    "value": "Аерогорн Мех-горн"
   }
 ]

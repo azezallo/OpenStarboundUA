@@ -12,17 +12,17 @@
   {
     "op": "replace",
     "path": "/paneLayout/head/data/tooltipText",
-    "value": "Голова"
+    "value": "Шолом"
   },
   {
     "op": "replace",
     "path": "/paneLayout/chest/data/tooltipText",
-    "value": "Броня грудей"
+    "value": "Нагрудник"
   },
   {
     "op": "replace",
     "path": "/paneLayout/legs/data/tooltipText",
-    "value": "Броня ніг"
+    "value": "Поножі"
   },
   {
     "op": "replace",

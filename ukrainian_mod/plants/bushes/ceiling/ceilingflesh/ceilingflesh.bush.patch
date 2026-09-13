@@ -1,11 +1,11 @@
 [
   {
-    "value": "Тремтячий шмат плоті.",
+    "value": "Тремтячий шматок плоті.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Тремтячий шмат плоті",
+    "value": "Тремтячий шматок плоті.",
     "path": "/shortdescription",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Відраза. Висячий шмат м'яса.",
+    "value": "Відраза. Висячий шматок м’яса.",
     "path": "/glitchDescription",
     "op": "replace"
   }

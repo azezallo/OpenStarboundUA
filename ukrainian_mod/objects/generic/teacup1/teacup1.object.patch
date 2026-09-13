@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Димляча чашка Earl Grey."
+    "value": "Паруюча чашка Earl Grey."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "чайна чашка"
+    "value": "Чайна чашка"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Чашка теплого чаю."
+    "value": "Тепла чашка чаю."
   },
   {
     "op": "replace",
@@ -22,22 +22,22 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран не впевнений, чи любить Флоран пити. Можливо, росте на Флорані."
+    "value": "Флоран не впевнений, чи любить Флорани пити. Можливо, росте на Флорані."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "в захваті. Чай - це радість для сенсорів смаку."
+    "value": "Радість. Чай - це радість для сенсорів смаку."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Немає нічого схожого на чашку приємного чаю та посидіти."
+    "value": "Немає нічого, що б порівнялося з гарною чашкою чаю і сидінням."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Hylotl варить подібні напої з океанської флори."
+    "value": "Хайлотли варять подібні напої з океанської флори."
   },
   {
     "op": "replace",

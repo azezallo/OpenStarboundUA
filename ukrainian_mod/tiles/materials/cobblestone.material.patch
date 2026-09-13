@@ -7,21 +7,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Hard cobblestones, smooth to the touch."
+    "value": "Тверда бруківка, гладка на дотик."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Зачарований. Ця бруківка від природи гладка."
+    "value": "Зачарований. Ця бруківка природно гладка."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssmooth бруківка rockss."
+    "value": "Гладка бруківка каменя."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ain't uncommon to run across cobblestone rocks like this."
+    "value": "Не рідко зустрічаються камені з бруківки подібного виду."
   }
 ]

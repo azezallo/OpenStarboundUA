@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Базовий стіл."
+    "value": "Простий стіл."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Базовий металевий стіл"
+    "value": "Простий металевий стіл"
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "письмовий стіл!"
+    "value": "Ссстіл!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Безпристрасний. Це письмовий стіл."
+    "value": "Байдужість. Це стіл."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Базовий стіл. Це не в моїх смаках."
+    "value": "Простий стіл. Це не в моєму смаку."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Письмовий стіл. Для тих, хто любить сидіти і писати."
+    "value": "Стіл. Для тих, хто любить собі файно сісти та й писати всячину, легіню."
   }
 ]

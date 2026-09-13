@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Miasmop"
+    "value": "Міасмоп"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Prolonged exposure to its pungent fumes will knock you out."
+    "value": "Тривалий вплив його їдких випарів звалить вас із ніг."
   }
 ]

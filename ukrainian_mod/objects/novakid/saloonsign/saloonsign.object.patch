@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Салон знак"
+    "value": "Вивіска салону"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Салон, а? Мене чекає барна бійка чи просто гра в карти?"
+    "value": "Салон, а? Чи очікую я барної битви, чи просто гри в карти?"
   },
   {
     "op": "replace",

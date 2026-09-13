@@ -17,36 +17,36 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/3",
-    "value": "Мій костюм такий страшний!"
+    "value": "Мій костюм такий сссраший!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/4",
-    "value": "Ви можете сказати, що я Флоран під цим?"
+    "value": "Ви можете сказати, що я Флорані під цим?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/5",
-    "value": "Страшне вбрання змушує людей поважати Флорана!"
+    "value": "Ссрaший одяг змушує людей поважати Флоранів"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/6",
-    "value": "Цей одяг налякає вас у темряві?"
+    "value": "Чи налякає вас цей одяг сссрасти у темряві?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/7",
-    "value": "Мій дім може бути ссс-моторошним, але Флоран насправді дуже доброзичливий!"
+    "value": "Мій дім може бути сссмоторошним, але Флорані насправді дуже доброзичливий"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/8",
-    "value": "Що ви думаєте про страшний одяг Флорана?"
+    "value": "Що ви думаєте про ссрaший одяг Флоранів?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/9",
-    "value": "Флоран витратив купу пікселів на чорну фарбу!"
+    "value": "Флорани витратили купу пікселів на чорну фарбу!"
   }
 ]

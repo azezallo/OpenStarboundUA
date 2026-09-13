@@ -1,11 +1,11 @@
 [
   {
-    "value": "  Торговец літейной",
+    "value": "Торговець ливарень",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
     "op": "replace"
   },
   {
-    "value": "  Продажа руди і оборудованія!",
+    "value": "Продає руду та обладнання для видобутку!",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Тут цех з виливання металів!",
+    "value": "Тут ливарня матеріалів, саме тут!",
     "path": "/scriptConfig/dialog/merchant/start/default/default/1",
     "op": "replace"
   },
@@ -25,32 +25,32 @@
     "op": "replace"
   },
   {
-    "value": "Підходь! Тож, виходить, тобі потрібні інструменти?",
+    "value": "Ми тут! Тобі потрібні інструменти?",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Ну ось! То що казав, тобі потрібно? Можливо, метали?",
+    "value": "Ось ми! Що саме тобі потрібно? Можливо, метал?",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Ласкаво просимо! Хочеш купити які-небудь метали?",
+    "value": "Ласкаво просимо! Хочеш купити деякі метали?",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Якщо потрібна руда, ти точно згадаєш про мене!",
+    "value": "Якщо потрібна руда, ти точно знаєш, де її знайти!",
     "path": "/scriptConfig/dialog/merchant/end/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Якщо тобі будуть потрібні метали чи руди — ти знаєш, де мене знайти!",
+    "value": "Якщо тобі потрібні металеві ресурси, то ти знаєш, де мене знайти!",
     "path": "/scriptConfig/dialog/merchant/end/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Повертайся, коли знадобляться метали!",
+    "value": "Повернись будь‑коли, коли потрібні будуть руди!",
     "path": "/scriptConfig/dialog/merchant/end/default/default/2",
     "op": "replace"
   }

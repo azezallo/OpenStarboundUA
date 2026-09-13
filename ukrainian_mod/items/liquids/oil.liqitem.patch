@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "олія"
+    "value": "Нафта"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Міра липкої нерафінованої олії."
+    "value": "Міра липкої сирої нафти."
   }
 ]

@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Нічим не примітний пост."
+    "value": "Непомітний стовп"
   },
   {
     "op": "replace",
@@ -22,22 +22,22 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Лампа possst."
+    "value": "Лампова стійка"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Критичний. Навіть для основної посади це не надихає."
+    "value": "Критично. Навіть для базового стовпа це не надихає."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Ця публікація здається досить хиткою."
+    "value": "Цей стовп здається досить нестабільним."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Це забезпечує приємне зовнішнє джерело світла."
+    "value": "Це створює приємне зовнішнє освітлення."
   },
   {
     "op": "replace",

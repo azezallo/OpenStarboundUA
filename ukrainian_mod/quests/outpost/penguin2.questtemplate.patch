@@ -10,7 +10,7 @@
     "op": "replace"
   },
   {
-    "value": "Дякую за інтенсивний сеанс тестування, друже - це дало мені багато корисних даних! Я також відправив партію своєму постачальнику зброї - ^green;його крамниця вже має бути відкрита прямо тут, на Аванпості^white;.",
+    "value": "Дякую за інтенсивний сеанс тестування, друже - це дало мені багато корисних даних! Я також відправив партію своєму постачальнику зброї - ^green;його крамниця вже має бути відкрита прямо тут, на Форпості^white;.",
     "path": "/completionText",
     "op": "replace"
   },
@@ -25,17 +25,17 @@
     "op": "replace"
   },
   {
-    "value": "Поговори з ^orange;доктором Акагі^reset; та йди на ^orange;полігон^reset;",
+    "value": "Поговори з ^orange;доктором Акагі^reset;, щоб вирушити на ^orange;випробувальний полігон^reset;",
     "path": "/scriptConfig/descriptions/enterInstance",
     "op": "replace"
   },
   {
-    "value": "Переможи ^orange;Шокгоппера MK-1^reset;",
+    "value": "Переможи ^orange;Shockhopper MK I^reset;",
     "path": "/scriptConfig/descriptions/findGoal",
     "op": "replace"
   },
   {
-    "value": "Повернись до ^orange;доктора Акагі^reset; на ^orange;Аванпост^reset;",
+    "value": "Повернися до ^orange;доктора Акагі^reset; на ^orange;Форпост^reset;",
     "path": "/scriptConfig/descriptions/turnIn",
     "op": "replace"
   }

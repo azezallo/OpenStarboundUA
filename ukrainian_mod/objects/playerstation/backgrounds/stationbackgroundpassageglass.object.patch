@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скло проходу шматок фону"
+    "value": "Сегмент скляного проходу"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Скло проходу шматок фону"
+    "value": "Сегмент скляного проходу"
   }
 ]

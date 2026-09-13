@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Смітник."
+    "value": "Ссмітник."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Здивований. Смітник."
+    "value": "Здивування. Смітник."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Смітник. Брудно, але необхідно."
+    "value": "Смітник. Брудний, але необхідний."
   },
   {
     "op": "replace",

@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Безкорисливий. Металевий стілець."
+    "value": "Беззацікавлений. Металевий стілець."
   },
   {
     "op": "replace",

@@ -1,26 +1,26 @@
 [
   {
-    "value": "Темний камінь",
+    "value": "Темний гладкий камінь",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Темний гладкий кам'яний блок.",
+    "value": "Темний гладкий кам’яний блок",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Цікавість. Темний блок, зроблений з невідомого каменю.",
+    "value": "Цікаво. Темна цегла з невідомого каменю",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Гладкий кам'яний блоккк.",
+    "value": "Гладкий кам’яний блок",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Темний кам'яний блок, файний такий.",
+    "value": "Темна кам’янка, що виглядає темно",
     "path": "/novakidDescription",
     "op": "replace"
   }

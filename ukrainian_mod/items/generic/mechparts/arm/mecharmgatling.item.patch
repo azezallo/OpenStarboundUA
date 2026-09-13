@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Механічна рука, оснащена важкою гарматою Гатлінга."
+    "value": "Мех-рука, оснащена важкою гатлінговою гарматою"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Гатлінг Gun Mech Arm"
+    "value": "Гатлінговий кулемет Мех-руки"
   }
 ]

@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Slime Blob"
+    "value": "Слизова куля"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Гнильний насип слизу. Як я маю це зберігати?"
+    "value": "Гнилий купол слизу. Як я маю це зберігати?"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Як sssap."
+    "value": "Як сссап."
   },
   {
     "op": "replace",
@@ -32,12 +32,12 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Величезна куля желе. Я ніби хочу його тицьнути."
+    "value": "Величезний глоб желе. Я хоч би його ткнути."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Зі слизовими плямами неприємно працювати, якщо у вас шкіра амфібії."
+    "value": "Слизові кульки не неприємні для обробки, коли у вас амфібійна шкіра."
   },
   {
     "op": "replace",

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Міцний дерев'яний паркан."
+    "value": "Міцний дерев'яний паркан"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Міцний паркан."
+    "value": "Міцний паркан"
   },
   {
     "op": "replace",

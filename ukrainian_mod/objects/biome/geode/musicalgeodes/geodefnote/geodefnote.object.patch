@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Нота, вирізана з фіолетової музичної жеоди."
+    "value": "Нота, вирізана з фіолетового музичного гео́да."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Джеод Ф"
+    "value": "Гео́д Ф"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Камінь світиться, шумить. Флоран слухай."
+    "value": "Камінь світиться, створює дзвінкий шум. Флоран слухає."
   },
   {
     "op": "replace",

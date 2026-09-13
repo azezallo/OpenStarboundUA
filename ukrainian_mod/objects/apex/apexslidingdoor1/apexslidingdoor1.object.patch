@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Легкі розсувні двері"
+    "value": "Легка розсувна двер'я"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Така нова архітектура."
+    "value": "Таке нове архітектурне рішення."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Ці двері, здається, не мають ні замка, ні ручки."
+    "value": "Ця двері, здається, не має замка чи ручки."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Вражаючий дверний отвір. Це точно недешево."
+    "value": "Вражаючий вхід. Це безумовно не дешеве."
   }
 ]

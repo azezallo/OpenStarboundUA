@@ -5,12 +5,12 @@
     "op": "replace"
   },
   {
-    "value": "  Лана Блейк",
+    "value": "Лана Блейк",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
     "op": "replace"
   },
   {
-    "value": "  Продаж потужних покращень!",
+    "value": "Здобуває потужні доповнення",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
     "op": "replace"
   },

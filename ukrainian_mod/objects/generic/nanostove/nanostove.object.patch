@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Наностове"
+    "value": "Наностова піч"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "value": "Наностове"
+    "value": "Наностова піч"
   },
   {
     "op": "replace",
@@ -27,12 +27,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "A handy camping stove. Більше немає вуглецевого сліду!"
+    "value": "Універсальна кемпінгова піч. Більше немає вуглецевого сліду!"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран боїться ссстове спалить Флорана. Флоран використовуйте в будь-якому випадку."
+    "value": "Флорани бояться, що плита спалить Флорана. Флорани використовують її в будь‑якому випадку."
   },
   {
     "op": "replace",

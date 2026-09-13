@@ -12,16 +12,16 @@
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Зачарований. Ця бруківка від природи гладка."
+    "value": "Зачарований. Ця бруківка природно гладка."
   },
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Ssmooth бруківка rockss."
+    "value": "Гладка бруківка каменя."
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Нерідко бігати по бруківці, як це."
+    "value": "Не рідко зустрічаються камені з бруківки подібного виду."
   }
 ]

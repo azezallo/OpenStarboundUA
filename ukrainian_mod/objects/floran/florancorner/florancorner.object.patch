@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floran hang leathersss для створення приємного аромату."
+    "value": "Флорани повісили шкіри для створення приємного аромату."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Збентежений. Розтягнута шкіра. Це декоративно?"
+    "value": "Збентежений. Розтягнута шкіра. Чи це декоративне?"
   },
   {
     "op": "replace",

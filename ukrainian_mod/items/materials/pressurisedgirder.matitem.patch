@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Герметична балка"
+    "value": "Підтримувана балка"
   },
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Інформований. Балка, створена для регулювання тиску"
+    "value": "Інформований. Балка, створена для регулювання тиску."
   },
   {
     "op": "replace",

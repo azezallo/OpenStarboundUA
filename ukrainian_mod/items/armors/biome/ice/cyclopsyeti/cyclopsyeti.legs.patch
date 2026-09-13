@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Штани з волосся циклопа єті."
+    "value": "Штани, виготовлені з волосся еті-циклопа."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Штани Cyclops Yeti"
+    "value": "Штани еті-циклопа"
   }
 ]

@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Встановлено базове світло."
+    "value": "Базове світло встановлено."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Просто маленьке електричне світло."
+    "value": "Невелике підвішене електричне світло."
   }
 ]

@@ -2,6 +2,6 @@
   {
     "op": "replace",
     "path": "/scriptConfig/guiConfig/gui/windowtitle/title",
-    "value": " Military Supplies Trader"
+    "value": "Торговець військовими запасами"
   }
 ]

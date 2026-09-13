@@ -7,17 +7,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стара цегла, відшліфована до ідеальності."
+    "value": "Старі цеглини, відшліфовані до ідеальності."
   },
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Вражений. У цих цеглин були ретельно зачищені всі краї."
+    "value": "Вражений. Ці цеглини мали ретельно згладжені всі краї."
   },
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Цегла ssmooth і ssoft."
+    "value": "Гладкі цеглини й м’які."
   },
   {
     "op": "replace",

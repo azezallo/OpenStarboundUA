@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'яніла пара ніг Apex."
+    "value": "Скам'яніла пара ніг Апекси"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ноги верхівки"
+    "value": "Апексні ноги"
   }
 ]

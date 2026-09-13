@@ -7,21 +7,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Made from a modern material, these are smooth to the touch."
+    "value": "Зроблені з сучасного матеріалу, вони гладкі на дотик."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Satisfied. This smooth modern platform is attractive and sturdy."
+    "value": "Задоволений. Ця гладка сучасна платформа приваблива та міцна."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssmooth modern platformsss."
+    "value": "Сучасні платформи"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Деякі химерні металеві платформи."
+    "value": "Деякі стильні металеві платформи"
   }
 ]

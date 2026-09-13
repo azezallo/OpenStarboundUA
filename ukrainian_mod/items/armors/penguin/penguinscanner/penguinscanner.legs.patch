@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Сканер інтерфейсу для Penguins."
+    "value": "Сканер інтерфейсу для пінгвінів"
   },
   {
     "op": "replace",

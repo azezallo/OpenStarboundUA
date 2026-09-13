@@ -5,27 +5,27 @@
     "op": "replace"
   },
   {
-    "value": "Мисливець переміг!",
+    "value": "Полювання вiссс перемогло!",
     "path": "/scriptConfig/dialog/converse/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Нуру повернулассся! Але хто цей чужинець?",
+    "value": "Нуру повернувся! Але хто сссрaнге?",
     "path": "/scriptConfig/dialog/converse/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Це кінець!",
+    "value": "Це ссокінце!",
     "path": "/scriptConfig/dialog/converse/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Незнайомець переміг?!",
+    "value": "Чи переміг цей незнайомець?",
     "path": "/scriptConfig/dialog/converse/floran/default/3",
     "op": "replace"
   },
   {
-    "value": "Свіже м'ясо перемогло?!",
+    "value": "Свіже м'ясо перемогло!",
     "path": "/scriptConfig/dialog/converse/floran/default/4",
     "op": "replace"
   },
@@ -40,17 +40,17 @@
     "op": "replace"
   },
   {
-    "value": "Стривай, це була нічия?!",
+    "value": "Стривай, чи була це нічия?!",
     "path": "/scriptConfig/dialog/converse/floran/default/7",
     "op": "replace"
   },
   {
-    "value": "Незззнайомець вижив?",
+    "value": "Чи вижив незнайомець?",
     "path": "/scriptConfig/dialog/converse/floran/default/8",
     "op": "replace"
   },
   {
-    "value": "У нассс єсссть переможець!",
+    "value": "У нас є переможець!",
     "path": "/scriptConfig/dialog/converse/floran/default/9",
     "op": "replace"
   },
@@ -60,7 +60,7 @@
     "op": "replace"
   },
   {
-    "value": "Нуру зззнову перемогла!",
+    "value": "Нуру знову переміг!",
     "path": "/scriptConfig/dialog/converse/floran/default/11",
     "op": "replace"
   },
@@ -70,32 +70,32 @@
     "op": "replace"
   },
   {
-    "value": "Здобич була вбита!",
+    "value": "Здобич була знищена!",
     "path": "/scriptConfig/dialog/converse/floran/default/13",
     "op": "replace"
   },
   {
-    "value": "Нуру перемогла! ...Зззнову.",
+    "value": "Нуру є переможець! ...Знову.",
     "path": "/scriptConfig/dialog/converse/floran/default/14",
     "op": "replace"
   },
   {
-    "value": "Свято закінчено!",
+    "value": "Святкування заплановано!",
     "path": "/scriptConfig/dialog/converse/floran/default/15",
     "op": "replace"
   },
   {
-    "value": "Уссспіх!",
+    "value": "Успіх!",
     "path": "/scriptConfig/dialog/converse/floran/default/16",
     "op": "replace"
   },
   {
-    "value": "Трофеї відправляютьссся до переможців!",
+    "value": "Трофей йде переможцям!",
     "path": "/scriptConfig/dialog/converse/floran/default/17",
     "op": "replace"
   },
   {
-    "value": "Ссслава вмілим мисливцям!",
+    "value": "Сслава вмілим мисливцям!",
     "path": "/scriptConfig/dialog/converse/floran/default/18",
     "op": "replace"
   }

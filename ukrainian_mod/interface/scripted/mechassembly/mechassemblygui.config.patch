@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/gui/windowtitle/title",
-    "value": "  Станція збірки меха"
+    "value": "Станція збірки меха"
   },
   {
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
-    "value": "  ^#b9b5b2;Налаштування вашого меха!"
+    "value": "^#b9b5b2;Налаштування вашого меха!"
   },
   {
     "op": "replace",
     "path": "/gui/lblSlot_body/value",
-    "value": "Корпус"
+    "value": "Тіло"
   },
   {
     "op": "replace",

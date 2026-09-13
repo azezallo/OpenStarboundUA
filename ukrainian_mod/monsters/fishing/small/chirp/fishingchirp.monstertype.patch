@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Coral Chirpfish"
+    "value": "Кораловий щебетун"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It chirps when it's happy. Does it think it's a bird?"
+    "value": "Воно чіпляється, коли воно щасливе. Чи вважає воно себе птахом?"
   }
 ]

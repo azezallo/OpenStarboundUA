@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Густий слиз. Воно похитується, коли тикати."
+    "value": "Густий слиз. Він тремтить, коли його торкають."
   },
   {
     "op": "replace",
@@ -12,16 +12,16 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вагається. Цей слиз виглядає липким."
+    "value": "Затриманий. Цей слиз виглядає липким."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран любить sslime!"
+    "value": "Флоран любить ссслім!"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Цей слиз виглядає неприємно."
+    "value": "Цей слиз має неприємний вигляд."
   }
 ]

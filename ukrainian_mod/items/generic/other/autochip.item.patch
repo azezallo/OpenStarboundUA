@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Важлива частина ремонту автомобіля."
+    "value": "Ключовий компонент ремонту транспортного засобу."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Авточіп"
+    "value": "Авто-чип"
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Рогатий демонічний шолом, пророчий загибелі."
+    "value": "Рогатий демоничний шолом, що пророкує загибель"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Doom Lord's Helm"
+    "value": "Шолом лорда Руїни"
   }
 ]

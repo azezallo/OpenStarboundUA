@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Це дуже кутовий знак."
+    "value": "Цей знак дуже кутовий."
   },
   {
     "op": "replace",
@@ -32,16 +32,16 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Вивіска для Letheia Corporation, конгломерату компанії, яка має багато грошей."
+    "value": "Вивіска для Letheia Corporation, конгломератної компанії з великою кількістю грошей."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Знак Letheia Corporation, відомої компанії Hylotl."
+    "value": "Знак Letheia Corporation, відома компанія під управлінням Хайлотлів."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це трохи яскраво для знака, чи не так?"
+    "value": "Тут трохи надмірно яскраво для знаку, чи не так?"
   }
 ]

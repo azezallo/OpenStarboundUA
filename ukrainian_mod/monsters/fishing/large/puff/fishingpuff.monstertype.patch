@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Scarlet Swellpurl"
+    "value": "Червоний пузирник"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It doesn't inflate when it's scared, but instead when it's bored. It's always bored."
+    "value": "Він не надувається, коли боїться, а навпаки – коли нудьгує. Завжди нудить."
   }
 ]

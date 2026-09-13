@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Основний шматок фону"
+    "value": "Тло ядра"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Основний шматок фону"
+    "value": "Тло ядра"
   }
 ]

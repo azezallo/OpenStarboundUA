@@ -10,177 +10,177 @@
     "op": "replace"
   },
   {
-    "value": "<questGiver> хоче подарувати дещо",
+    "value": "Допоможи <questGiver> доставити подарунок",
     "path": "/scriptConfig/generatedText/title/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран любить запах жителя <target>. Флоран хоче бути ближче до <target.pronoun.object>.",
+    "value": "^cyan;Флорану подобаєтьссся запах <target>. Флоран хоче бачити <target.pronoun.object> чассстіше.",
     "path": "/scriptConfig/generatedText/goalText/floran/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран хоче партнера для полювання. Флоран вважає, що <target> - гарний вибір!",
+    "value": "^cyan;Флоран хоче товваришшша для полювання. Флоран вважає, що <target> — гарний вибір!",
     "path": "/scriptConfig/generatedText/goalText/floran/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Сподіваючись. Я хотів би задобрити жителя <target>, можеш мені допомогти?",
+    "value": "^cyan;Надія. Я хотів би здобути прихильність <target>, і я знаю, що спрацює. Чи міг би ти допомогти мені?",
     "path": "/scriptConfig/generatedText/goalText/glitch/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Сподіваючись. Я хочу, щоб житель <target> полюбив мене, можеш мені допомогти?",
+    "value": "^cyan;Надія. Я хотів би більше сподобатися <target> — чи міг би ти допомогти мені?",
     "path": "/scriptConfig/generatedText/goalText/glitch/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Я намагаюся справити гарне враження на свого друга, але мені потрібна твоя допомога!",
+    "value": "^cyan;Я намагаюся справити враження на свого друга. У мене вже є ідея, але мені потрібна твоя допомога!",
     "path": "/scriptConfig/generatedText/goalText/default/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Я хочу справити гарне враження. Допоможи мені здивувати мого друга!",
+    "value": "^cyan;Я хочу справити гарне враження. Будь ласка, допоможи мені зробити щось, що вразить <target> до глибини душі!",
     "path": "/scriptConfig/generatedText/goalText/default/1",
     "op": "replace"
   },
   {
-    "value": "Далі Флоран думає, що ^orange;<target>^white; заслуговує на подарунок. Мабуть, ^orange;[<gift>]^white; підійде! Не те, щоб Флоран боявся... але чи не міг би ти ^green;передати подарунок^white;?",
+    "value": "Далі Флоран думає, що ^orange;<target> ^white;може сссодобатися подарунок. Цей ^orange;<gift> ^white;буде ідеальним! Флоран нічого не боїтьссся! Але... Можжже, ти ^green;віддассси його <target.pronoun.object>^white;?",
     "path": "/scriptConfig/generatedText/text/next/floran/0",
     "op": "replace"
   },
   {
-    "value": "Добре, тепер ^green;піднесемо жителю ^orange;<target>^green; у подарунок мисливський трофей! ^white;А, ні, не піднесемо - Флоран його нещодавно з'їв. Може, ^orange;[<gift>]^white; підійде? Сподіваюся, <target.pronoun.subject> буде радий!",
+    "value": "Гаразд, тепер давай ^green;віддамо ^orange;<target> ^green;мисссливський трофей!^white; Флоран з'їв оссстанній мисссливський трофей Флорана, тож цей ^orange;<gift> ^white;підійде. Флоран усссе одно думає, що <target.pronoun.subject> буде вражжжений!",
     "path": "/scriptConfig/generatedText/text/next/floran/1",
     "op": "replace"
   },
   {
-    "value": "Захоплено. Далі ^green;я хочу потоваришувати з жителем ^orange;<target>^white;. Можливо, ^orange;[<gift>]^white; у вигляді подарунка посприяє цьому? Тобі потрібно зайнятися ^green;доставкою подарунка^white;.",
+    "value": "Ентузіазм. Далі ^green;мені потрібно здобути дружбу ^orange;<target>^white;. Чи міг би ти ^green;доставити цей ^orange;<gift>^white; <target.pronoun.object> як подарунок?",
     "path": "/scriptConfig/generatedText/text/next/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Зібрано. Далі мені потрібно ^green;стати другом жителя ^orange;<target>^white;. Думаю, що <target.pronoun.subject> оцінить подарунок ^orange;[<gift>]^white;, можеш ^green;доставити його ^white;для мене?",
+    "value": "Зосередженість. Далі мені потрібно ^green;здобути прихильність ^orange;<target>.^white; Я знаю, що <target.pronoun.subject> оцінить цей ^orange;<gift>, ^white;чи міг би ти ^green;доставити його <target.pronoun.object> ^white;для мене?",
     "path": "/scriptConfig/generatedText/text/next/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Думаю, що [^orange;<gift>^white;] - ідеальний подарунок. ^green;Можеш доставити його жителю ^orange;<target>^white;? Але не забудь згадати, що подарунок від мене!",
+    "value": "Я думаю, що цей ^orange;<gift> — ідеальний подарунок. ^green;Чи міг би ти доставити його ^orange;<target>^white;? Переконайся, що <target.pronoun.subject> знає, що це від мене!",
     "path": "/scriptConfig/generatedText/text/next/default/0",
     "op": "replace"
   },
   {
-    "value": "Хто ж не полюбить подарунок [^orange;<gift>^white;]? ^green;Можеш доставити його^white;? Сподіваюся, його оцінить житель ^orange;<target>^white;!",
+    "value": "Хто б не зрадів новому ^orange;<gift>?^white; Сподіваюся, ^orange;<target>^white; оцінить усю ту важку працю, яку я змусив тебе виконати заради цього! ^green;Чи не міг би ти доставити його <target.pronoun.object>?",
     "path": "/scriptConfig/generatedText/text/next/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран думає, що житель ^orange;<target>^white; зрозуміє його таємне послання: ^orange;[<gift>]^white; - це те, про що <target.pronoun.subject> нагадує Флорану найсильніше. Флоран не соромиться... але, може, ти ^green;передаси цей символічний подарунок?",
+    "value": "Флоран думає, що ^orange;<target>^white; сссодобається ця оссстання чассстина! Цей ^orange;<gift> ^white;ідеальний, він так нагадує Флорану про <target.pronoun.object>. Флоран не сссором'язливий... Але, можжже, ти ^green;віддассси його <target.pronoun.object>?",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Потрібно, щоб житель ^orange;<target>^white; був вражений мисливським трофеєм! Шкода, що у Флорана зараз такого немає... Може, ^orange;[<gift>]^white; зійде за трофей? Ти не міг би ^green;доставити подарунок?",
+    "value": "І нарессси, оссстаннє, щоб вразити ^orange;<target>^white; — мисссливський трофей! Флоран зараз не має жодного... Тому цей ^orange;<gift>^white; підійде. Можжжеш ^green;доссставити його <target.pronoun.object>?",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Нервово. Нарешті, ^green;ти не міг би передати подарунок ^orange;[<gift>]^green; жителю ^orange;<target>^white;? Сподіваюся, <target.pronoun.object> він сподобається!",
+    "value": "Нервозність. Нарешті, ^green;чи можеш віддати ^orange;<gift>^green; персонажу ^orange;<target>^white;? Сподіваюся, <target.pronoun.subject> вподобає його!",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Енергійно. Ми майже закінчили! Все, що тобі залишилося - це ^green;доставити подарунок ^orange;[<gift>]^green; жителю ^orange;<target>^white;, і ми закінчимо!",
+    "value": "Нетерпіння. Ми майже закінчили! Все, що тобі потрібно зробити зараз, це ^green;доставити ^orange;<gift>^green; персонажу ^orange;<target>^white;, і ми закінчимо!",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Залишилося ^green;доставити подарунок ^white;[^orange;<gift>^white;]. Можеш дати його жителю ^orange;<target>^white;?",
+    "value": "Єдине, що залишилося зробити, це ^green;доставити ^orange;<gift>^white;. Чи не міг би ти передати його <target> для мене?",
     "path": "/scriptConfig/generatedText/text/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Тепер потрібно ^green;доставити подарунок ^white;[^orange;<gift>^white;]. Можеш передати його жителю ^orange;<target>^white;?",
+    "value": "Тепер нам просто потрібно ^green;занести цей ^orange;<gift>^green; персонажу ^orange;<target>.^white; Чи можу я попросити тебе віднести його <target.pronoun.object>? Сподіваюся, у <target.pronoun.subject> такого ще немає!",
     "path": "/scriptConfig/generatedText/text/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран задоволений! Подарунок [<gift>] виявився однією з улюблених речей жителя <target>!",
+    "value": "Флоран дужжже задоволений! Виявляєтьссся, що <gift> — одна з улюблених речей <target>!",
     "path": "/scriptConfig/generatedText/completionText/next/floran/0",
     "op": "replace"
   },
   {
-    "value": "Гарна робота! Можливо, [<gift>] - це трохи дивно, але думаю, <target.pronoun.object> він сподобається!",
+    "value": "Гарна робота! Можжже, <gift> був дещщщо дивним для трофею, але Флоран радий, що <target.pronoun.subject> вподобав його!",
     "path": "/scriptConfig/generatedText/completionText/next/floran/1",
     "op": "replace"
   },
   {
-    "value": "Радісно. <target> оцінив подарунок! Дякую тобі за допомогу.",
+    "value": "Радість. Схоже, <target> сподобався подарунок! Дякую за допомогу, я дуже ціную це.",
     "path": "/scriptConfig/generatedText/completionText/next/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Радісно. Тепер я і <target> стали справжніми друзями, і все завдяки тобі. Я запам'ятаю, що ти для мене зробив!",
+    "value": "Піднесення. Тепер у мене міцніша дружба з <target> завдяки твоїй допомозі з доставкою подарунка для <target.pronoun.object>. Я пам'ятатиму, наскільки ти надійний!",
     "path": "/scriptConfig/generatedText/completionText/next/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Схоже, я вгадав з подарунком [<gift>]! У будь-якому разі, дякую!",
+    "value": "Схоже, <target> сподобався <gift>. З мене такий чудовий дарувальник! Ну, звісно, з твоєю допомогою!",
     "path": "/scriptConfig/generatedText/completionText/next/default/0",
     "op": "replace"
   },
   {
-    "value": "Ура! Тепер <target> і я стали найкращими друзями! Ще б знати, що робити далі...",
+    "value": "Ура! Тепер ми з <target> можемо бути найкращими друзями! Час придумати, що подарувати <target.pronoun.object> наступного разу...",
     "path": "/scriptConfig/generatedText/completionText/next/default/1",
     "op": "replace"
   },
   {
-    "value": "<target> дійсно оцінив подарунок! Тепер <target.pronoun.subject> проводить більше часу з Флораном, і Флоран більше часу нюхає його апетитний запах! Дякую!",
+    "value": "<target> ссправді сссодобав подарунок! Тепер <target.pronoun.subject> проводитиме багггато часссу з Флораном, і Флоран зможе нюхати його приємні запахи цілий день! Дужжже дякую!",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Дякую! Флоран знав, що <target> любить мисливські трофеї, а отже, і полювання! Завтра ми підемо заганяти дичину!",
+    "value": "Дякую! Флоран знав, що <target> сссодобаєтьссся мисссливський трофей, і тепер у Флорана є партнер для полювання! Флоран запланує полювання на завтра!",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Радісно. <target> оцінив мій подарунок! Дякую за те, що посприяв нашій дружбі.",
+    "value": "Задоволення. <target> сподобався мій подарунок! Дякую за допомогу в моєму пошуку дружби.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Урочисто. Доставка подарунка пройшла успішно! Дякую, що допоміг мені з цим.",
+    "value": "Ликування. Доставка подарунка пройшла успішно! Дякую за допомогу з цим планом, я дуже це ціную.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Схоже, <target> хотів подарунок [<gift>]! Дякую за допомогу!",
+    "value": "Схоже, <target> уже деякий час хотів новий <gift>! <target.pronoun.capitalSubject> у захваті й не перестає мені дякувати. Дякую за допомогу!",
     "path": "/scriptConfig/generatedText/completionText/default/default/0",
     "op": "replace"
   },
   {
-    "value": "<target> зрадів подарунку? Чудово, це найкраща нагорода для мене самого!",
+    "value": "<target> сподобався подарунок? Мені нічого не потрібно взамін, приємно просто подарувати другові те, що приносить радість!",
     "path": "/scriptConfig/generatedText/completionText/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Я не зміг допомогти. <questGiver> має побороти свою сором'язливість, якщо хоче заводити друзів.",
+    "value": "Мені не вдалося допомогти <questGiver> завоювати прихильність <target>. <questGiver.pronoun.capitalSubject>, мабуть, повинен навчитися заводити друзів без моєї допомоги.",
     "path": "/scriptConfig/generatedText/failureText/0",
     "op": "replace"
   },
   {
-    "value": "Я не зміг допомогти. Можливо, <questGiver> має навчитися заводити друзів без подарунків?",
+    "value": "Мені не вдалося допомогти <questGiver> доставити подарунок <target>. Можливо, <questGiver.pronoun.subject> варто навчитися заводити друзів без роздавання подарунків?",
     "path": "/scriptConfig/generatedText/failureText/1",
     "op": "replace"
   },
   {
-    "value": "Віднеси подарунок [<gift>] жителю <target>",
+    "value": "Віддай <gift> персонажу <target>",
     "path": "/scriptConfig/objectives/0/text",
     "op": "replace"
   },
   {
-    "value": "Додай подарунок [<gift>] в дім жителя <target>",
+    "value": "Розмісти <gift> у домі <target>",
     "path": "/scriptConfig/addToHouseObjective/text",
     "op": "replace"
   }

@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Червона куля свято Орнамент"
+    "value": "Червона куля - святковий орнамент"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран удар блискучий м'яч!"
+    "value": "Флорани б'ють блискучу кулю!"
   },
   {
     "op": "replace",

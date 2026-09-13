@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/speciesText/default/buttonText",
-    "value": "The Ceremonial Hunting Caverns"
+    "value": "Каверни церемоніального полювання"
   },
   {
     "op": "replace",
     "path": "/speciesText/default/repeatButtonText",
-    "value": "Revisit The Ceremonial Hunting Caverns"
+    "value": "Знову відвідайте Каверни церемоніального полювання"
   },
   {
     "op": "replace",
     "path": "/speciesText/default/selectSpeech/text",
-    "value": "Esther's research concludes that this is the probable location of the Floran Artifact."
+    "value": "Дослідження Естер Брайт вказують, що це ймовірне місце розташування артефакту Флоранів."
   }
 ]

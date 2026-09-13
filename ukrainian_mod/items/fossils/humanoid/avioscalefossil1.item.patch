@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілий череп з авіошкали."
+    "value": "Скам'янілий череп авіошкали."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Авіомасштабний череп"
+    "value": "Череп авіошкали"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/shortdescription",
-    "value": "Авіомасштабний викопний"
+    "value": "Скам'янілий авіошкал"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/description",
-    "value": "Цей Avioscale може похвалитися великими очними западинами та видатним дзьобом."
+    "value": "Цей авіошкал має великі очні западини та видатний дзьоб."
   }
 ]

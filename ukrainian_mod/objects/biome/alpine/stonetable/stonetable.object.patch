@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssstoney стіл."
+    "value": "Ssstony стіл."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Функція над формою. Ця таблиця, швидше за все, погоджується."
+    "value": "Функція над формою. Ця таблиця, швидше за все, витримає час."
   },
   {
     "op": "replace",

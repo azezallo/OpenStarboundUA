@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "value": "  Augment Merchant"
+    "value": "Торговець аугментами"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "value": "  Enhance your equipment!"
+    "value": "Покращуйте своє обладнання!"
   }
 ]

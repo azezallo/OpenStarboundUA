@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/gui/windowtitle/title",
-    "value": " Таємний Торговець"
+    "value": "Таємний Торговець"
   },
   {
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
-    "value": " Обмін речей на таємний ключ"
+    "value": "Обмін речей на таємний ключ"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/gui/lblKeyName/value",
-    "value": "Ключ Сховища"
+    "value": "Ключ від сховища"
   },
   {
     "op": "replace",

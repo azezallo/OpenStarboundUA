@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Fire Pteropod"
+    "value": "Вогняний птеропод"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It brews a flammable paste in its pod made from fermented fruit."
+    "value": "Він виготовляє горючу пасту в своїй оболонці з ферментованих фруктів."
   }
 ]

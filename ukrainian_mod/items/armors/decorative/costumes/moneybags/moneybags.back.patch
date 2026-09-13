@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Повний мішок цінностей."
+    "value": "Мішок, наповнений цінностями."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Мішок для грошей"
+    "value": "Мішок Moneybags"
   }
 ]

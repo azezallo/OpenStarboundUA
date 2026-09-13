@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Щупальце Шип"
+    "value": "Шип щупальця"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Шип виглядає гострим як бритва."
+    "value": "Шип виглядає гострим, як бритва."
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Обережний. Гострі шипи, як ці, можуть пробити оболонку Глітча."
+    "value": "Обережність. Гострі шипи, як ці, можуть пробити оболонку глітча."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Я буду граціозно уникати цього."
+    "value": "Я буду граціозно уникати їх."
   },
   {
     "op": "replace",

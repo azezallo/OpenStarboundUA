@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Цікаво. Всередині щось є?"
+    "value": "Цікаво. Чи є щось всередині?"
   },
   {
     "op": "replace",

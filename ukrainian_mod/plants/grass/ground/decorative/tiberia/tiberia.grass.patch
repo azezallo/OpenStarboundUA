@@ -1,21 +1,21 @@
 [
   {
-    "value": "Естер Брайт",
+    "value": "Незвичайне природне утворення",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Я думаю, це воно, золотце. Сподіваюся, ти готовий...",
+    "value": "Дивне зростання",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "У бій!",
+    "value": "Флоран не впевнений, що це",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Дайвери-суперники! Взяти їх!",
+    "value": "Заява. Невідома природна формація",
     "path": "/glitchDescription",
     "op": "replace"
   }

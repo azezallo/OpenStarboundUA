@@ -1,21 +1,21 @@
 [
   {
-    "value": "До бою!",
+    "value": "Атака!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Погроза. Я по частинах відправлю тебе додому!",
+    "value": "Загрозливий. Я розділю тебе на дрібні частини!",
     "path": "/scriptConfig/dialog/attack/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Агресія. Я розірву тебе на шмаття!",
+    "value": "Агресивний. Я залишу тебе в шматках!",
     "path": "/scriptConfig/dialog/attack/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Гнів. У мене дике бажання зробити що-небудь варварське!",
+    "value": "Злий. Маю бажання здійснити деякі варварські дії!",
     "path": "/scriptConfig/dialog/attack/glitch/default/2",
     "op": "replace"
   }

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Липка сорочка з густої смоли."
+    "value": "Липка сорочка зі щільної смоли"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Дегтярна сорочка"
+    "value": "Смоляна сорочка"
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Spinemine"
+    "value": "Спайнмайн"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Explodes whenever it meets someone new. No-one knows how they aren't extinct already."
+    "value": "Вибухає, коли зустрічає когось нового. Ніхто не знає, як вони ще не вимерли."
   }
 ]

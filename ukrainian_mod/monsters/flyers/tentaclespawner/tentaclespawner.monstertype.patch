@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "tentaclespawner"
+    "value": "Призивач щупалець"
   },
   {
     "op": "replace",

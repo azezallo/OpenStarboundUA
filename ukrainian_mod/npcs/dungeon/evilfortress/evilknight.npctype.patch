@@ -1,11 +1,11 @@
 [
   {
-    "value": "До бою!",
+    "value": "Атака!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Погроза. Не варто тобі зв'язуватися з нами!",
+    "value": "Зловісно. Ви не хочете з нами мати справу!",
     "path": "/scriptConfig/dialog/attack/glitch/default/0",
     "op": "replace"
   },
@@ -15,27 +15,27 @@
     "op": "replace"
   },
   {
-    "value": "Агресія. Ти знайшов щось смішне в мені?",
+    "value": "Агресивний. Чи не дивишся на мене дивно?",
     "path": "/scriptConfig/dialog/attack/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Хвилювання. Нарешті битва!",
+    "value": "Захоплення. Нарешті битва!",
     "path": "/scriptConfig/dialog/attack/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Безстрашність. Я бився з ворогами й страшнішими, ти ніщо для мене!",
+    "value": "Безстрашний. Я вже боролись із більшими ворогами, ніж ти; я не бачу в тебе загрози.",
     "path": "/scriptConfig/dialog/attack/glitch/default/4",
     "op": "replace"
   },
   {
-    "value": "Зверхність. Ти не виглядаєш тим, кого варто боятися.",
+    "value": "Зверхний. Ти не виглядаєш як загроза.",
     "path": "/scriptConfig/dialog/attack/glitch/default/5",
     "op": "replace"
   },
   {
-    "value": "Гнів. Ти зв'язався не з тим лицарем!",
+    "value": "Гнівний. Ти помилково зачепив неправильного лицаря!",
     "path": "/scriptConfig/dialog/attack/glitch/default/6",
     "op": "replace"
   }

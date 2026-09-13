@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Це солярій. Він теплий на дотик."
+    "value": "Це соларій. Теплий на дотик."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Солярій Руда"
+    "value": "Руда соларію"
   }
 ]

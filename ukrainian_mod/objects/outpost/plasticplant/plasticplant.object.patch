@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Фальшивий пластиковий завод. Не дерево."
+    "value": "Штучна пластикова рослина. Не дерево."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Пластмасовий завод"
+    "value": "Пластикова рослина"
   },
   {
     "op": "replace",
@@ -17,17 +17,17 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Фальшива рослина."
+    "value": "Штучна рослина."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Рослина-самозванець Floran ssstab!"
+    "value": "Флоран ссштрикне россслину-самозванку!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Не впевнений. Фальшива рослина краще чи гірше за справжню?"
+    "value": "Невпевненість. Штучна рослина краща чи гірша за справжню?"
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Огидний підроблений пластиковий завод."
+    "value": "Огидна штучна пластикова рослина."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Фальшива рослина - природа, без праці."
+    "value": "Штучна рослина — природа, та й без мороки, файно."
   }
 ]

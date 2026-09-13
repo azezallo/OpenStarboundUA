@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Я можу полагодити цей корабель, але на це знадобиться 20 ^orange;Кристалів Ерхію^reset;... Тобі краще ^green;відправитися до Видобувного комплексу Ерхію^reset;. Я відправив координати місцезнаходження на ^green;Б.Ш.І. твого корабля^reset;.",
+    "value": "Я можу полагодити цей корабель, але на це знадобиться 20 ^orange;ерхієвих кристалів^reset;... Тобі краще ^green;відправитися до Видобувного комплексу Ерхію^reset;. Я відправив координати місцезнаходження на ^green;Б.Ш.І. твого корабля^reset;.",
     "path": "/text",
     "op": "replace"
   },
@@ -25,12 +25,12 @@
     "op": "replace"
   },
   {
-    "value": "^green;Принеси ^orange;Кристали Ерхію^white; з ^orange;Видобувного комплексу Ерхію^white;",
+    "value": "^green;Принеси ^orange;ерхієві кристали^white; з ^orange;Видобувного комплексу Ерхію^white;",
     "path": "/scriptConfig/descriptions/findCrystals",
     "op": "replace"
   },
   {
-    "value": "^green;Повернися^white; до ^orange;капітана верфі^white; на ^orange;Аванпост^white;",
+    "value": "^green;Повернися^white; до ^orange;капітана верфі^white; на ^orange;Форпост^white;",
     "path": "/scriptConfig/descriptions/turnIn",
     "op": "replace"
   },

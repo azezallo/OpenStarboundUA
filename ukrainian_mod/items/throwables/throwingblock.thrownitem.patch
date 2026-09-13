@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Метальний блок"
+    "value": "Блок для кидання"
   },
   {
     "op": "replace",

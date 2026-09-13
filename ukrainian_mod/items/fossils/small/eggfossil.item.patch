@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Викопне яйце"
+    "value": "Фосилізоване яйце"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/shortdescription",
-    "value": "Викопне яйце"
+    "value": "Фосилізоване яйце"
   },
   {
     "op": "replace",

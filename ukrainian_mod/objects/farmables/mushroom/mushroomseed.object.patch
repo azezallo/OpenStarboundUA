@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "гриб. Фермер, який садить їх, веселий хлопець."
+    "value": "Гриб. Фермер, що садить їх, – веселий хлопець."
   },
   {
     "op": "replace",
@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран hatsss."
+    "value": "Флорани хачсс."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Полегшено. Здається, що цей грибок не є їдким для Glitch."
+    "value": "Полегшено. Цей грибок, здається, не є корозійним для Глітчів."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "гриб. Ідеально підходить для омлету або кишу."
+    "value": "Гриб. Ідеально підходить для омлету або кишу."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Маленький гриб."
+    "value": "Крихітний гриб."
   }
 ]

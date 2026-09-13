@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Спаунер руїн."
+    "value": "Спавнер Руїни"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Правий спавнер боса"
+    "value": "Правий спавнер босса"
   }
 ]

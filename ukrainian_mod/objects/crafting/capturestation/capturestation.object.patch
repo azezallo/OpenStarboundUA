@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "value": "Pet Station"
+    "value": "Станція для домашніх тварин"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "За все, що стосується відлову домашніх тварин"
+    "value": "Для всього, що стосується захоплення тварин"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "^orange;Pстанція для домашніх тварин^white;"
+    "value": "^orange;Станція для домашніх тварин^white;"
   },
   {
     "op": "replace",
@@ -32,12 +32,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран іноді захоплює істот!"
+    "value": "Флорани іноді захоплюють істот!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "схвильований. З цим я можу створювати контейнери для захоплення!"
+    "value": "Схвильований. З цим я можу створювати контейнери для захоплення!"
   },
   {
     "op": "replace",
@@ -52,6 +52,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Tamin' диких звірів стане дитячою грою з контейнерами для захоплення."
+    "value": "Тамін диких звірів стане дитяча гра з контейнерами для захоплення."
   }
 ]

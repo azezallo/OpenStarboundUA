@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Це листя напрочуд пружне."
+    "value": "Ці листя вражаюче стійкі."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Флоран Шилд"
+    "value": "Флоранський щит"
   }
 ]

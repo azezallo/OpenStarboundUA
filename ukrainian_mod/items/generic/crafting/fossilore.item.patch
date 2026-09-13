@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Це скам'янілість. Цікаво, що це за вид."
+    "value": "Це копалинка. Цікаво, який саме вид."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Непізнана копалина"
+    "value": "Невідома копалинка"
   }
 ]

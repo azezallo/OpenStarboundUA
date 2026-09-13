@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Сніг",
+    "value": "Сніг.",
     "path": "/shortdescription",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Ствердження. Сніг.",
+    "value": "Заява. Сніг.",
     "path": "/glitchDescription",
     "op": "replace"
   }

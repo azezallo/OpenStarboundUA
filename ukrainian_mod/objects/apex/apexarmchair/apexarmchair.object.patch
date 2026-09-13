@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ця оббивка - банани."
+    "value": "Ця оббивка просто божевільна."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Крісло Standard Issue"
+    "value": "Стандартне крісло"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "З моменту створення цього крісла мода Apex змінилася; на жаль, свободи Apex не мають."
+    "value": "Мода апексів еволюціонувала з часу створення цього крісла; на жаль, свободи апексів — ні."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Таке зручне сидіння. Це гніздо Apex?"
+    "value": "Таке зручне крісло. Це гніздо апексів?"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Огидно."
+    "value": "Ссстрашенно огидно."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Невдоволений. Це крісло ображає мою оптику."
+    "value": "Невдоволення. Це крісло ображає мою оптику."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Гнітюче крісло. Хоча зручно!"
+    "value": "Гнітюче крісло. Але зручне!"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Який вплив має така... неелегантність на розум?"
+    "value": "Який вплив справляє така... неелегантність на розум?"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це не красиво, але зручно."
+    "value": "Краси небагато, зате сидіти файно."
   }
 ]

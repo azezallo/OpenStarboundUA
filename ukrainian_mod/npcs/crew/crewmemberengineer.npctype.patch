@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/crew/role/name",
-    "value": "Engineer"
+    "value": "Інженер"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/crew/role/field",
-    "value": "Engineering"
+    "value": "Інженерія"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-    "value": "I'll keep your engines in good shape. Thrust velocity is up by 25%!"
+    "value": "Я підтримуватиму ваші двигуни в гарному стані. Швидкість тяги збільшена на 25 %!"
   }
 ]

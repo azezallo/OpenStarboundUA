@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стелаж заповнений старовинними пташиними списами."
+    "value": "Стелаж заповнений старовинними списами Авіан."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Пташина стійка для копій"
+    "value": "Полиця списів Авіан."
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Спис є зброєю, яку вибирає пташиний охоронець."
+    "value": "Спіс є зброєю, яку обирає охоронник Авіан."
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Набір пташиних списів."
+    "value": "Набір списів Авіан."
   },
   {
     "op": "replace",

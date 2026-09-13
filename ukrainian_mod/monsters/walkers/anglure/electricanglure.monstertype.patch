@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Electric Anglure"
+    "value": "Електричний англур"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "At night, all you can see of the Anglure is its light."
+    "value": "Вночі все, що можна побачити від англура, — це його світло."
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Poison Sporgus"
+    "value": "Отруйний споргус"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Віддає перевагу теплому та вологому клімату, де росте швидше."
+    "value": "Воно надає перевагу теплому й вологому клімату, де росте швидше."
   }
 ]

@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Непотрібна зламана консоль."
+    "value": "Безплідна зламана консоль."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Консоль. це не працює."
+    "value": "Консоль. Це не працює."
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Ця консоль не працює. Половини кнопок немає."
+    "value": "Ця консоль не працює. Половина кнопок відсутня."
   },
   {
     "op": "replace",

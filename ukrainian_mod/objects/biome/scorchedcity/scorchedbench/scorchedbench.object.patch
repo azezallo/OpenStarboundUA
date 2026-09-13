@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Обгоріла лава."
+    "value": "Обгоріла лавка."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Обпалена лава"
+    "value": "Обпалена лавка"
   },
   {
     "op": "replace",
@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Ця лавка виглядає поіржавілою та потертою."
+    "value": "Ця лавка виглядає ржавою та потертою."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Стара іржава лавка."
+    "value": "Стара ржавляна лавка"
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Якби вона могла говорити, мені цікаво, які історії могла б розповідати ця лава."
+    "value": "Якби вона могла говорити, мені цікаво, які історії могла б розповісти ця лавка."
   },
   {
     "op": "replace",

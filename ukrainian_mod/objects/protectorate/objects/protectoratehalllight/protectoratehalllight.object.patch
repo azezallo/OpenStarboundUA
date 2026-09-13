@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Зал Spotlight"
+    "value": "Прожектор для зали"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Світло, призначене для привернення уваги до певної області."
+    "value": "Світло, призначене привертати увагу до певної ділянки."
   },
   {
     "op": "replace",
@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssspotlight."
+    "value": "Сссвітильник."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Прожектор."
+    "value": "Байдужість. Прожектор."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Абсолютно звичайний прожектор."
+    "value": "Цілком звичайний прожектор."
   },
   {
     "op": "replace",

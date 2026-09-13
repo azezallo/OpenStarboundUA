@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Тире, що мигає повз пастки та ворогів! Зарядка: 2,5 с"
+    "value": "Ривок, що телепортує крізь пастки та ворогів! Перезарядка: 2.5 с"
   },
   {
     "op": "replace",
     "path": "/shortDescription",
-    "value": "Blink Dash"
+    "value": "Стрибковий ривок"
   }
 ]

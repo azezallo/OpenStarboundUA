@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Parasprite"
+    "value": "Параспрайт"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "A braindead bioweapon created by irresponsible human scientists."
+    "value": "Нерозумна біо-броня, створена безвідповідальними людськими науковцями."
   }
 ]

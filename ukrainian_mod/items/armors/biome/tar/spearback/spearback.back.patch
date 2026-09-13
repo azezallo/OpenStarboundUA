@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Декоративний спис для носіння на спині."
+    "value": "Декоративний спис для носіння на спині"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Назад Спис"
+    "value": "Задній спис"
   }
 ]

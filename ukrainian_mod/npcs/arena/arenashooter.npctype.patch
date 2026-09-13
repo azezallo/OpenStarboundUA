@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Я знову його бачу!",
+    "value": "Я знову їх бачу!",
     "path": "/scriptConfig/dialog/reattack/default/default/0",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Я його не бачу!",
+    "value": "Я їх не бачу!",
     "path": "/scriptConfig/dialog/lostTarget/default/default/0",
     "op": "replace"
   },
@@ -25,7 +25,7 @@
     "op": "replace"
   },
   {
-    "value": "Дай мені прицілитися!",
+    "value": "Дайте мені простір для чистої стрільби!",
     "path": "/scriptConfig/dialog/cheerOn/default/default/0",
     "op": "replace"
   },

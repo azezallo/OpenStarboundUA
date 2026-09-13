@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Повністю автоматична військова гвинтівка."
+    "value": "Повністю автоматична військова гвинтівка"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Штурмова гвинтівка Durasteel"
+    "value": "Штурмова гвинтівка Дюрасталь"
   }
 ]

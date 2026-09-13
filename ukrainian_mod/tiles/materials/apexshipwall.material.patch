@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A sleek metal wall panel."
+    "value": "Витончена металева стінова панель"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Wall Panel"
+    "value": "Настінна панель"
   },
   {
     "op": "replace",
@@ -17,11 +17,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Metal panel makess ssmooth wall."
+    "value": "Металева панель робить стіну гладкою."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "A panel made outta metal."
+    "value": "Панель з металу"
   }
 ]

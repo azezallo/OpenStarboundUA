@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Dry busssh."
+    "value": "Сухий кущ."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. A brittle, dry bush."
+    "value": "Заява. Ламкий, сухий кущ."
   }
 ]

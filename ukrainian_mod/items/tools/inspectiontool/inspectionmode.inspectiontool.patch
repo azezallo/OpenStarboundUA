@@ -52,12 +52,12 @@
   {
     "op": "replace",
     "path": "/outOfRangeText/floran/0",
-    "value": "Флорану звідси не видно!"
+    "value": "Флоран не бачить цього звідси!"
   },
   {
     "op": "replace",
     "path": "/outOfRangeText/floran/1",
-    "value": "Флорану потрібно підійти ближче, щоб це побачити."
+    "value": "Флоран повинен підійти ближче, щоб це побачити."
   },
   {
     "op": "replace",
@@ -77,7 +77,7 @@
   {
     "op": "replace",
     "path": "/outOfRangeText/glitch/1",
-    "value": "спантеличений. Я не знаю, що це таке; можливо мені варто підійти ближче."
+    "value": "Спантеличений. Я не знаю, що це таке; можливо мені варто підійти ближче."
   },
   {
     "op": "replace",
@@ -112,7 +112,7 @@
   {
     "op": "replace",
     "path": "/nothingThereText/novakid/0",
-    "value": "Я малюю заготовку."
+    "value": "У мене немає ідей."
   },
   {
     "op": "replace",
@@ -127,7 +127,7 @@
   {
     "op": "replace",
     "path": "/nothingThereText/novakid/3",
-    "value": "Це просто багато нічого."
+    "value": "Це лише безліч нічого."
   },
   {
     "op": "replace",
@@ -142,12 +142,12 @@
   {
     "op": "replace",
     "path": "/nothingThereText/floran/2",
-    "value": "Це нічого."
+    "value": "Це не щось."
   },
   {
     "op": "replace",
     "path": "/nothingThereText/floran/3",
-    "value": "Нема про що говорити."
+    "value": "Немає чого сказати."
   },
   {
     "op": "replace",
@@ -167,6 +167,6 @@
   {
     "op": "replace",
     "path": "/nothingThereText/glitch/3",
-    "value": "Безкорисливий. Це не зовсім нічого."
+    "value": "Зацікавленість відсутня. Це не щось."
   }
 ]

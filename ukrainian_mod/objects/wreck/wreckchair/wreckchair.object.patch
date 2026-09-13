@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Крісло запеклося в бруді."
+    "value": "Крісло покрите брудом."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Повний стрибаючих комах."
+    "value": "Повне стрибучих комах"
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Огидно брудне старе крісло."
+    "value": "Старе, огидно-брудне крісло."
   },
   {
     "op": "replace",

@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Флоран не може зрозуміти символів."
+    "value": "Флоран не може зрозуміти ссимволів."
   },
   {
     "op": "replace",

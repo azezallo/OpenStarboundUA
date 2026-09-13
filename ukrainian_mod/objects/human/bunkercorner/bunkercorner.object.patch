@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Опорна балка, пофарбована попереджувальними смугами. Розум голову!"
+    "value": "Опорна балка з попереджувальними смужками. Бережіть голову!"
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssпідтримка."
+    "value": "Ссстійка опора."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нудно. Опорна балка."
+    "value": "Нудьга. Опорна балка."
   },
   {
     "op": "replace",

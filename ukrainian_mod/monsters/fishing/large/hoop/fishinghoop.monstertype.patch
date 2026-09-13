@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Crescent Hoopfish"
+    "value": "Півмісячний кільцериб"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "The hoop through its body creates a current that propels it through water."
+    "value": "Кільце в його тілі створює потік, що просуває його через воду."
   }
 ]

@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Традиційний екран седзі"
+    "value": "Традиційний екран Соджі"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Екран. Apex are not allowed such things."
+    "value": "Екран. Апекси не дозволяють такі речі."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран міг би пробити дві дірки в ssscreen і зазирнути крізь!"
+    "value": "Флоран міг би пробити дві дірки в ссрін і зазирнути крізь!"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Ви не можете сховатися за цією ширмою. Люди бачать твій силует."
+    "value": "Ви не можете сховатися за цією ширмою. Люди бачать ваш силует."
   },
   {
     "op": "replace",

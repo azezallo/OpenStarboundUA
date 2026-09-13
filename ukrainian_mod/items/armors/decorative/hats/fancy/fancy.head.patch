@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Шикарний казанок. Відзначився."
+    "value": "Шикарний бобровий капелюх. Видатний."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Капелюх з шипами"
+    "value": "Стильний капелюх"
   }
 ]

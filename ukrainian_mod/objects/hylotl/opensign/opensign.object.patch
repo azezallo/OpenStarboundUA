@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Яскрава неонова вивіска \"open\"."
+    "value": "Яскрава неонова вивіска «відкрите»"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Знак «відкрито»."
+    "value": "Знак «відкрите»"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Безкорисливий. Знак «відкрито»."
+    "value": "Безкорисливий. Знак «відкрите»"
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Знак «відкрито»."
+    "value": "Знак «відкрите»"
   }
 ]

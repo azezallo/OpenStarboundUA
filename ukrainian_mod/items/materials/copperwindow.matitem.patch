@@ -17,11 +17,11 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Вікна з міді."
+    "value": "Вікна зі мідної"
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Це гарна на вигляд мідна віконна рама."
+    "value": "Це гарна, на вигляд, мідна віконна рама."
   }
 ]

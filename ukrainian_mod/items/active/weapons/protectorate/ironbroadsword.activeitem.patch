@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Це грубо виготовлений меч."
+    "value": "Це грубо виготовлений палаш."
   },
   {
     "op": "replace",

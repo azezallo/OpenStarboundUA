@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Час вчитися..."
+    "value": "Час учитися..."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Книги про Земного Захисту"
+    "value": "Книги Земного Захисту"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Легке читання."
+    "value": "Легке чтиво."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Курсова література. Я читав ці!"
+    "value": "Навчальна література. Я читав це!"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Книги зі словами і словами і словамисс."
+    "value": "Книги зі сссловами, сссловами й сссловами."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Деякі книги про історію Земного Захисту."
+    "value": "Байдужість. Кілька книг про історію Земного Захисту."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Я прочитав ці останні терміни!"
+    "value": "Я читав це минулого семестру!"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Я люблю хорошу книгу та гарячий напій."
+    "value": "Я насолоджуюся гарною книгою та гарячим напоєм."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Я не дуже читаю, але читаю ці підручники."
+    "value": "Не дуже я охочий до читання, але ці підручники подужав."
   }
 ]

@@ -17,6 +17,6 @@
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
-    "value": "Time Pierce ^жовтий;^скидання;"
+    "value": "Тайм Пірс ^жовтий;^reset;"
   }
 ]

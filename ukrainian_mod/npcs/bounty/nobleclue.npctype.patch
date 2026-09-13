@@ -1,26 +1,26 @@
 [
   {
-    "value": "Черепний",
+    "value": "Капітан Ноубл",
     "path": "/npcname",
     "op": "replace"
   },
   {
-    "value": "Морський",
+    "value": "Капітан Ноубл",
     "path": "/identity/name",
     "op": "replace"
   },
   {
-    "value": "Силовий",
+    "value": "Тобі доведеться зі мною боротися, Миротворче!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Галактич.",
+    "value": "<entityname>?… Ой-ой...",
     "path": "/scriptConfig/dialog/killedTarget/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Хвильовий",
+    "value": "Утекти не розумно, партнер!",
     "path": "/scriptConfig/dialog/lostTarget/default/default/0",
     "op": "replace"
   }

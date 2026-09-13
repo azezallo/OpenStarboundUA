@@ -12,17 +12,17 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Ці ворота повинні бути виходом."
+    "value": "Ворота мають бути виходом."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Дякую Kluex. Я вважаю, що це має бути мій вихід."
+    "value": "Дякую Kluex. Я вважаю, що це має бути мій шлях у вихід."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран здогадується, що це двері."
+    "value": "Флоссан здогадується, що це двері виходу."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Час мені покидати це місце."
+    "value": "Час піти з цього місця."
   }
 ]

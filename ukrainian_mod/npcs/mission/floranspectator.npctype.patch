@@ -1,51 +1,51 @@
 [
   {
-    "value": "Флорану нічого тобі сссказати!",
+    "value": "Флорану нічого не ссказати!",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Який сссенс? Нуру щоразу перемагає!",
+    "value": "Який сенс? Нуру щороку перемагає!",
     "path": "/scriptConfig/dialog/converse/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Новий мисливець зззмагається з Нуру в печерах!",
+    "value": "Новий мисливець змагається з Нуру в печерах!",
     "path": "/scriptConfig/dialog/converse/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Може, Нуру не переможе цього разу?",
+    "value": "Можливо, Нуру цього року не переможе?",
     "path": "/scriptConfig/dialog/converse/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Більше мисливців, більше зззахоплення!",
+    "value": "Більше мисливців, більше захоплення!",
     "path": "/scriptConfig/dialog/converse/floran/default/3",
     "op": "replace"
   },
   {
-    "value": "Мисливцю! Ти ссспізнився!",
+    "value": "Мисливці! Ти спізнився!",
     "path": "/scriptConfig/dialog/converse/floran/default/4",
     "op": "replace"
   },
   {
-    "value": "Нуру зззмусить інших мисливців сссоромитися.",
+    "value": "Нуру змушує інших мисливців соромитися!",
     "path": "/scriptConfig/dialog/converse/floran/default/5",
     "op": "replace"
   },
   {
-    "value": "Хто переможе в полюванні цього року? Флоран ссставить на Нуру!",
+    "value": "Хто переможе в Полюванні цього року? Моя ставка – на Нуру!",
     "path": "/scriptConfig/dialog/converse/floran/default/6",
     "op": "replace"
   },
   {
-    "value": "Які шанссси на те, що ти кращий за Нуру, чужинцю?",
+    "value": "Які шанси, що ти кращий за Нуру, чужинець?",
     "path": "/scriptConfig/dialog/converse/floran/default/7",
     "op": "replace"
   },
   {
-    "value": "Флоран так вссстомився від того, що Нуру перемагає щороку!",
+    "value": "Флорани втомились від того, що Нуру перемагає щороку!",
     "path": "/scriptConfig/dialog/converse/floran/default/8",
     "op": "replace"
   },
@@ -55,52 +55,52 @@
     "op": "replace"
   },
   {
-    "value": "Можливо, цього разу переможе хтосссь інший?",
+    "value": "Можливо, цього разу переможе хтось інший?",
     "path": "/scriptConfig/dialog/converse/floran/default/10",
     "op": "replace"
   },
   {
-    "value": "Флоран впевнений, що Нуру зззнову переможе!",
+    "value": "Флоран впевнений, що Нуру знову переможе!",
     "path": "/scriptConfig/dialog/converse/floran/default/11",
     "op": "replace"
   },
   {
-    "value": "Флоран би теж полював, але Нуру зззнову бере учасссть...",
+    "value": "Флоран би теж полював, але Нуру знову бере участь...",
     "path": "/scriptConfig/dialog/converse/floran/default/12",
     "op": "replace"
   },
   {
-    "value": "Навіщо полювати, чужинцю? Нуру всссе одно не перемогти!",
+    "value": "Навіщо полювати, чужинцю? Нуру непереможний!",
     "path": "/scriptConfig/dialog/converse/floran/default/13",
     "op": "replace"
   },
   {
-    "value": "Ти сссподіваєшся вполювати когосссь у печерах?",
+    "value": "Ти сподіваєшся полювати в печерах?",
     "path": "/scriptConfig/dialog/converse/floran/default/14",
     "op": "replace"
   },
   {
-    "value": "Чужинцю? Ти тут, щоб увійти в печери і битиссся?",
+    "value": "Чужинець? Ти тут, щоб увійти в печери й змагатися?",
     "path": "/scriptConfig/dialog/converse/floran/default/15",
     "op": "replace"
   },
   {
-    "value": "Ти тут, щоб брати учасссть у полюванні?",
+    "value": "Ти тут, щоб брати участь у полюванні?",
     "path": "/scriptConfig/dialog/converse/floran/default/16",
     "op": "replace"
   },
   {
-    "value": "Якщщщо ти тут через полювання, чужинцю, то ти ссспізнився!",
+    "value": "Якщо ти тут за Полюванням, чужинцю, то ти пізнився!",
     "path": "/scriptConfig/dialog/converse/floran/default/17",
     "op": "replace"
   },
   {
-    "value": "Ти прилетів з косссмосу, щоб брати учасссть у полюванні? Тоді поссспішай!",
+    "value": "Ти прилетів з космосу, щоб брати участь у полюванні? Тоді поспішай!",
     "path": "/scriptConfig/dialog/converse/floran/default/18",
     "op": "replace"
   },
   {
-    "value": "Поссспішай, якщо хочеш вссстигнути за полюванням!",
+    "value": "Поспішай, якщо хочеш встигнути за Полюванням!",
     "path": "/scriptConfig/dialog/converse/floran/default/19",
     "op": "replace"
   }

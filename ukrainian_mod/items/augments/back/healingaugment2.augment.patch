@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Модуль EPP, який з часом відновлює ваше здоров'я."
+    "value": "Модуль EPP, який поступово відновлює ваше здоров’я."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Зцілення II Augment"
+    "value": "Підсилення зцілення II"
   },
   {
     "op": "replace",

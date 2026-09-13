@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/nameGen/1/1/3",
-    "value": "Неефективно"
+    "value": "неефективний"
   },
   {
     "op": "replace",
@@ -47,36 +47,36 @@
   {
     "op": "replace",
     "path": "/nameGen/1/2/5",
-    "value": "герой"
+    "value": "Герой"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/2/6",
-    "value": "банда"
+    "value": "Банда"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/3/1",
-    "value": "стукач"
+    "value": "Стукач"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/3/2",
-    "value": "нападаючий"
+    "value": "Нападаючий"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/3/3",
-    "value": "ляпас"
+    "value": "Ляпас"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/3/4",
-    "value": "- палиця"
+    "value": "-палиця"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/3/5",
-    "value": "башер"
+    "value": "Башер"
   }
 ]

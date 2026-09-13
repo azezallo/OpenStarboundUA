@@ -1,36 +1,36 @@
 [
   {
-    "value": "Осссь вона, крамниця флорана!",
+    "value": "Капітан Ігнобл",
     "path": "/npcname",
     "op": "replace"
   },
   {
-    "value": "Осссь, тепер поторгуємо!",
+    "value": "Капітан Ігнобл",
     "path": "/identity/name",
     "op": "replace"
   },
   {
-    "value": "Можжжливо, речі флорана тобі знннадоблятьссся.",
+    "value": "Це я, ^orange;Капітан Ігнобл^reset;, лідер ^orange;<gangName>^reset;!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Купа скарбів",
+    "value": "Господи, мене обв'язали! Сподіваюся, ти не відправиш мене у космічну в'язницю, партнере!",
     "path": "/scriptConfig/dialog/arrested/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Сяюча купа цінних скарбів.",
+    "value": "Група ^orange;<gangName>^reset; завершена... Капітан Ноубл, мабуть, дуже розумний і гарний, що привів тебе сюди!",
     "path": "/scriptConfig/dialog/completeArrest/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Одержимість. Я не можу відірвати очей від цих скарбів.",
+    "value": "<entityname>?… Ой-ой...",
     "path": "/scriptConfig/dialog/killedTarget/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран любить блиссскуче золото!",
+    "value": "Утекти не розумно, партнер!",
     "path": "/scriptConfig/dialog/lostTarget/default/default/0",
     "op": "replace"
   }

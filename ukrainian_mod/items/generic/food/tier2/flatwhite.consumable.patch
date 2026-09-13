@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Кава з молоком."
+    "value": "Кава з молоком"
   },
   {
     "op": "replace",

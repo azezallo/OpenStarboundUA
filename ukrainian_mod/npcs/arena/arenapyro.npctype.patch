@@ -1,6 +1,6 @@
 [
   {
-    "value": "Тамплієр",
+    "value": "Інферно",
     "path": "/identity/name",
     "op": "replace"
   },
@@ -20,22 +20,22 @@
     "op": "replace"
   },
   {
-    "value": "Ти зіткнешся з гнівом палаючого тамплієра!",
+    "value": "Тепер ти зіткнешся з гнівом Палаючого Тамплієра!",
     "path": "/scriptConfig/dialog/attack/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Ще разок, узри мій гнів!",
+    "value": "Ще раз, зустрінь мій гнів!",
     "path": "/scriptConfig/dialog/reattack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Вогонь дає життя, і він же його забирає!",
+    "value": "Вогонь дарує життя, а потім забирає його.",
     "path": "/scriptConfig/dialog/killedTarget/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Сильний той, хто володіє силою вогню!",
+    "value": "Сильні ті, хто володіє силою вогню!",
     "path": "/scriptConfig/dialog/killedTarget/default/default/1",
     "op": "replace"
   },
@@ -45,12 +45,12 @@
     "op": "replace"
   },
   {
-    "value": "Ти нікуди не дінешся від мого вогню!",
+    "value": "Нікуди не дійдеш, мої полум'я не зможуть тебе охопити!",
     "path": "/scriptConfig/dialog/lostTarget/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Тут ніде сховатися!",
+    "value": "Сховатися тут не має сенсу!",
     "path": "/scriptConfig/dialog/outOfSight/default/default/0",
     "op": "replace"
   },
@@ -60,7 +60,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти не врятуєшся від мого полум'я!",
+    "value": "Ти не зможеш уникнути мого полум'я!",
     "path": "/scriptConfig/dialog/cantReach/default/default/0",
     "op": "replace"
   }

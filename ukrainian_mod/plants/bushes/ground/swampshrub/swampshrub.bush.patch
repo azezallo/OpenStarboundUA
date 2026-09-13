@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A swampy shrub."
+    "value": "Болотистий чагарник."
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sswampy."
+    "value": "Ссвампий"
   },
   {
     "op": "replace",

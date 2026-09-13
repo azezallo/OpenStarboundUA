@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ice Ringram"
+    "value": "Крижаний рінграм"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "The Ringram's horns start growing from birth and never stop."
+    "value": "Роги ринґрама ростуть від самого народження і ніколи не перестають рости."
   }
 ]

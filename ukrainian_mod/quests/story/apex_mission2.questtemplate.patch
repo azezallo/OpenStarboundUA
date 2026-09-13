@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Боюся, ^orange;артефакт апексів^reset; утримується в ^orange;цитаделі Міннаук^reset;. Туди може бути важко потрапити, любе. Будь ласка, ^green;будь там обережним^reset;, Міннаук можуть бути жорстокими.",
+    "value": "Боюся, ^orange;артефакт апексів^reset; утримується в ^orange;цитаделі Міннаук^reset;. Туди може бути важко потрапити, серденько. Будь ласка, ^green;будь там обережним^reset;, Міннаук можуть бути жорстокими.",
     "path": "/text",
     "op": "replace"
   },
@@ -15,12 +15,12 @@
     "op": "replace"
   },
   {
-    "value": "Я отримала координати ^orange;цитаделі Міннаук^reset;. ^green;Використай комп'ютер корабля^reset;, щоб отримати доступ до локації.",
+    "value": "Я отримав координати ^orange;цитаделі Міннаук^reset;. ^green;Використай комп'ютер корабля^reset;, щоб отримати доступ до локації.",
     "path": "/scriptConfig/missionRadioMessage/text",
     "op": "replace"
   },
   {
-    "value": "Знайди ^orange;артефакт^reset; в ^orange;цитаделі Міннаук^reset;",
+    "value": "Знайди ^orange;артефакт^reset; у ^orange;цитаделі Міннаук^reset;",
     "path": "/scriptConfig/descriptions/artifact",
     "op": "replace"
   },

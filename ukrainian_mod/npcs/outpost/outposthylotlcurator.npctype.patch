@@ -1,21 +1,21 @@
 [
   {
-    "value": "Морський",
+    "value": "Дайчі",
     "path": "/identity/name",
     "op": "replace"
   },
   {
-    "value": "Силовий",
+    "value": "Привіт! Сподіваюся, що цей день знайде вас у доброму здоров'ї.",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Галактич.",
+    "value": "Привіт! Сподіваюся, що цей день знайде вас у доброму здоров'ї.",
     "path": "/scriptConfig/dialog/converse/Hylotl/default/0",
     "op": "replace"
   },
   {
-    "value": "Хвильовий",
+    "value": "Привіт, мій молодий друг! Чи також ти насолоджуєшся навчальними заняттями?",
     "path": "/scriptConfig/dialog/converse/Hylotl/hylotl/0",
     "op": "replace"
   }

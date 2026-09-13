@@ -2,22 +2,22 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Small Temple Bricks"
+    "value": "Маленькі храмові цегли"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Dusty but finely crafted bricks."
+    "value": "Запорошені, але добре оброблені цеглини."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "вражений. Ці маленькі блоки демонструють високий рівень майстерності."
+    "value": "Вражений. Ці маленькі блоки демонструють високий рівень майстерності."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Dussty small brickss."
+    "value": "Запорожені маленькі цеглинки."
   },
   {
     "op": "replace",

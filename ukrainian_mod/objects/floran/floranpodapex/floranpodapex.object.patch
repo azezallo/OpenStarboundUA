@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Схоже, Apex і Agarans не сумісні."
+    "value": "Схоже, Апекси і Agarans не сумісні."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Захоплений Apex Pod"
+    "value": "Захоплений Апекси Pod"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Що за... який жах спіткав цей Апекс?"
+    "value": "Що за… який жах спіткав цей Апекси?"
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран не хоче говорити про це."
+    "value": "Флорани не хоче говорити про це."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Здивування. Цей Апекс живий і здоровий і, здається, заповз сюди за власним бажанням."
+    "value": "Здивування. Цей Апекси живий і здоровий і, здається, заповз сюди за власним бажанням."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Яке дивне місце, де ховається Апекс."
+    "value": "Яке дивне місце, де ховається Апекси."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Цей Апекс ще живий?"
+    "value": "Цей Апекси ще живий?"
   }
 ]

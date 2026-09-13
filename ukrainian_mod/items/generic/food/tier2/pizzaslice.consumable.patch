@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Гарячий шматочок пепероні піци."
+    "value": "Гарячий шматок піци з пепероні"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "шматочок піци"
+    "value": "Шматок піци"
   }
 ]

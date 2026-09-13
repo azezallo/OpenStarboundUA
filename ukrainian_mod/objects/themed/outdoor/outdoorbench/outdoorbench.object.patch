@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Лавка, ідеальна для виходу на вулицю."
+    "value": "Лавка, що ідеально підходить для вулиці."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Відкрита лавка"
+    "value": "Вулична лавка"
   },
   {
     "op": "replace",
@@ -17,31 +17,31 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Лавка з трьома місцями. Виглядає холодно."
+    "value": "Лавка на три місця. Виглядає холодною."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Річ, на якій можна посидіти."
+    "value": "Штука, на якій можна посссидіти."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спостережливий. Це просто лавка."
+    "value": "Спостереження. Це просто лавка."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Проста лавка. Виглядає міцно."
+    "value": "Проста лавка. Виглядає міцною."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Місце відпочинку, коли втомлюються ноги."
+    "value": "Місце для відпочинку, коли втомлюються ноги."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Я міг би хвилинку відпочити на цій лавці."
+    "value": "Можна й перепочити хвильку на цій лавці, бігме."
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "value": "Твердий природний пісковик.",
+    "value": "Міцний природний пісковик",
     "path": "/description",
     "op": "replace"
   },
@@ -10,17 +10,17 @@
     "op": "replace"
   },
   {
-    "value": "Уважність. Цей пісковик зроблений з дрібних порід.",
+    "value": "Спостережливий. Цей пісковик виготовлений з дрібних частинок породи.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Пісссщана порода.",
+    "value": "Піщані піскові камені",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Якась піщана порода, легіню.",
+    "value": "Деякі піщані камені",
     "path": "/novakidDescription",
     "op": "replace"
   }

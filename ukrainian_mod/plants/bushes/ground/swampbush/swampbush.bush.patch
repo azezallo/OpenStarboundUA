@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A swampy bush."
+    "value": "Заболочений чагарник"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "A swampy bush."
+    "value": "Заболочений чагарник"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sswampy."
+    "value": "Ссвампий"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Заболочений чагарник."
+    "value": "Заява. Заболочений чагарник"
   }
 ]

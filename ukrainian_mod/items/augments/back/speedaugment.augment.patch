@@ -12,6 +12,6 @@
   {
     "op": "replace",
     "path": "/augment/displayName",
-    "value": "швидкість"
+    "value": "Швидкість"
   }
 ]

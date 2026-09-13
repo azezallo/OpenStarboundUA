@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стілець. Ви сідаєте в нього. так"
+    "value": "Стілець. На ньому сидять. Так."
   },
   {
     "op": "replace",
@@ -17,31 +17,31 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Просте крісло."
+    "value": "Простий стілець."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Сссіт!"
+    "value": "Сссидіти!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вдячний. Стілець. Глюк іноді любить посидіти."
+    "value": "Вдячність. Стілець. Глітчі теж іноді люблять посидіти."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Пристойне крісло."
+    "value": "Пристойний стілець."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Базовий стілець, він виконує свою функцію."
+    "value": "Звичайний стілець, він виконує своє призначення."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Функціональне крісло."
+    "value": "Стілець справний, сидіти мож."
   }
 ]

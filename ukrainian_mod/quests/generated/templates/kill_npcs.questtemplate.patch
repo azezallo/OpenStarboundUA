@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "взяв екскурсію, щоб <personal>",
+    "value": "вирушив на екскурсію, щоб <personal>",
     "path": "/scriptConfig/generatedText/fluff/0/1/1",
     "op": "replace"
   },
@@ -70,12 +70,12 @@
     "op": "replace"
   },
   {
-    "value": "не так давно",
+    "value": "нещодавно",
     "path": "/scriptConfig/generatedText/fluff/2/1/1",
     "op": "replace"
   },
   {
-    "value": "раніше цього тижня",
+    "value": "раніше на цьому тижні",
     "path": "/scriptConfig/generatedText/fluff/2/1/2",
     "op": "replace"
   },
@@ -375,7 +375,7 @@
     "op": "replace"
   },
   {
-    "value": "намагався бути непомітним",
+    "value": "намагавссся бути ссскрадливим",
     "path": "/scriptConfig/generatedText/fluff/16/1/2",
     "op": "replace"
   },
@@ -385,57 +385,57 @@
     "op": "replace"
   },
   {
-    "value": "роздумував про різні речі",
+    "value": "роздумував про різні сссправи",
     "path": "/scriptConfig/generatedText/fluff/16/1/4",
     "op": "replace"
   },
   {
-    "value": "вийшов на прогулянку",
+    "value": "вийшов на ссспрогулянку",
     "path": "/scriptConfig/generatedText/fluff/16/1/5",
     "op": "replace"
   },
   {
-    "value": "думає, що вони не задумують нічого доброго",
+    "value": "думає, що вони задумали щосссь недобре",
     "path": "/scriptConfig/generatedText/fluff/17/1/0",
     "op": "replace"
   },
   {
-    "value": "підозрілий",
+    "value": "ссстрашенно підозрює",
     "path": "/scriptConfig/generatedText/fluff/17/1/1",
     "op": "replace"
   },
   {
-    "value": "нервує через них",
+    "value": "ссстрашенно нервує через них",
     "path": "/scriptConfig/generatedText/fluff/17/1/2",
     "op": "replace"
   },
   {
-    "value": "думає, що нам загрожує небезпека",
+    "value": "боїтьссся, що нам загрожує небезпека",
     "path": "/scriptConfig/generatedText/fluff/17/1/3",
     "op": "replace"
   },
   {
-    "value": "не довіряє їм",
+    "value": "зовсссім не довіряє їм",
     "path": "/scriptConfig/generatedText/fluff/17/1/4",
     "op": "replace"
   },
   {
-    "value": "не має мисливської зброї",
+    "value": "не має сссправжньої мисливської зброї",
     "path": "/scriptConfig/generatedText/fluff/18/1/0",
     "op": "replace"
   },
   {
-    "value": "думає, що ти впораєшся з цим краще",
+    "value": "думає, що ти впораєшссся з цим краще",
     "path": "/scriptConfig/generatedText/fluff/18/1/1",
     "op": "replace"
   },
   {
-    "value": "занадто нервує",
+    "value": "ссстрашенно нервує",
     "path": "/scriptConfig/generatedText/fluff/18/1/2",
     "op": "replace"
   },
   {
-    "value": "не готовий до битви",
+    "value": "зовсссім не готовий до бою",
     "path": "/scriptConfig/generatedText/fluff/18/1/3",
     "op": "replace"
   },
@@ -460,22 +460,22 @@
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран зіткнувся з деякими <enemy> <earlier>.",
+    "value": "^cyan;Флоран сссправді зіткнувся з <enemy> <earlier>.",
     "path": "/scriptConfig/generatedText/goalText/floran/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран чув деяких <enemy> <earlier>.",
+    "value": "^cyan;Флоран підссслухав деяких <enemy> <earlier>.",
     "path": "/scriptConfig/generatedText/goalText/floran/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Стурбовано. Я зіткнувся з <enemy> <earlier>.",
+    "value": "^cyan;Тривога. Я зіткнувся з <enemy> <earlier>.",
     "path": "/scriptConfig/generatedText/goalText/glitch/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Напружено. Я чув деяких <enemy> <earlier>.",
+    "value": "^cyan;Напруга. Я чув деяких <enemy> <earlier>.",
     "path": "/scriptConfig/generatedText/goalText/glitch/1",
     "op": "replace"
   },
@@ -490,22 +490,22 @@
     "op": "replace"
   },
   {
-    "value": "Флоран бачив ^orange;<enemy>^white;, поки Флоран <earlier> <floranmotivation>. Вони були біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Флоран <floransuspicious> - ^green;можеш перевірити^white;?",
+    "value": "Флоран сссправді бачив ^orange;<enemy>^white;, поки Флоран <earlier> <floranmotivation>. Вони були біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Флоран <floransuspicious> - ^green;можеш перевірити^white;?",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Якісь ^orange;<enemy>^white; гналися за Флораном, поки Флоран <earlier> <floranmotivation>! Флоран <floransuspicious>, але Флоран <floranexcuse>. Це сталося біля ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;можеш <request> для Флорана^white;?",
+    "value": "Якісссь ^orange;<enemy>^white; гналися за Флораном, поки Флоран <earlier> <floranmotivation>! Флоран <floransuspicious>, але Флоран <floranexcuse>. Це сталося біля ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;можеш <request> для Флорана^white;?",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Засмучено. Я <activity> <earlier>, коли ^orange;<enemy>^white; <crime1>. Я відчуваю <reaction> і <justice1>. Це сталося біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Можеш <request>^white;?",
+    "value": "Розпач. Я <activity> <earlier>, коли ^orange;<enemy>^white; <crime1>. Я відчуваю <reaction> і <justice1>. Це сталося біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Можеш <request>^white;?",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Стурбовано. Я <overheard> деяких ^orange;<enemy>^white;, які були біля ^orange;<spawnPoint>^white; <earlier>. <doubt>, але я думаю, що вони <discussing> <discussion>. ^green;Можеш піти і <investigate>^white;?",
+    "value": "Занепокоєння. Я <overheard> деяких ^orange;<enemy>^white;, які були біля ^orange;<spawnPoint>^white; <earlier>. <doubt>, але я думаю, що вони <discussing> <discussion>. ^green;Можеш піти і <investigate>^white;?",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
@@ -520,22 +520,22 @@
     "op": "replace"
   },
   {
-    "value": "Ти розібрався з <enemy>? Флоран вдячний за допомогу!",
+    "value": "Ти розібрався з <enemy>? Флоран сссправді вдячний за допомогу!",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Ти розібрався з <enemy>? Дякую! Хоча Флоран міг би зробити це і сам, якби мав зброю...",
+    "value": "Ти розібрався з <enemy>? Дякую! Хоча Флоран міг би зробити це і сссам, якби мав зброю...",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Вдячно. Ти розібрався з <enemy>? <appreciation>",
+    "value": "Вдячність. Ти розібрався з <enemy>? <appreciation>",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "З полегшенням. Ти з'ясував, що задумували <enemy>? <appreciation>",
+    "value": "Полегшення. Ти з'ясував, що задумували <enemy>? <appreciation>",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
@@ -565,17 +565,17 @@
     "op": "replace"
   },
   {
-    "value": "Нотатка для себе: не забудь про здобич, залишену в <treasureLocation><treasureLocation.direction>",
+    "value": "Нотатка для себе: не забудь про здобич на <treasureLocation><treasureLocation.direction>",
     "path": "/scriptConfig/treasureNote/0",
     "op": "replace"
   },
   {
-    "value": "Босе, я сховав скарб в <treasureLocation><treasureLocation.direction>",
+    "value": "Босе, я сховав скарб на <treasureLocation><treasureLocation.direction>",
     "path": "/scriptConfig/treasureNote/1",
     "op": "replace"
   },
   {
-    "value": "Передача здобичі відбудеться в <treasureLocation><treasureLocation.direction>",
+    "value": "Передача здобичі відбудеться на <treasureLocation><treasureLocation.direction>",
     "path": "/scriptConfig/treasureNote/2",
     "op": "replace"
   }

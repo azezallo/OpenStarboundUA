@@ -15,12 +15,12 @@
     "op": "replace"
   },
   {
-    "value": "предметів ^orange;меблів гайлотлів",
+    "value": "предметів ^orange;меблів хайлотлів",
     "path": "/0/1/3/name",
     "op": "replace"
   },
   {
-    "value": "предметів ^orange;меблів ґлітчів",
+    "value": "предметів ^orange;меблів глітчів",
     "path": "/0/1/4/name",
     "op": "replace"
   },

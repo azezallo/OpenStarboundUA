@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Харчова станція знак"
+    "value": "Знак харчової станції"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флорану не потрібні модні інструменти для їжі."
+    "value": "Флоран не потребує модних інструментів для їжі."
   },
   {
     "op": "replace",

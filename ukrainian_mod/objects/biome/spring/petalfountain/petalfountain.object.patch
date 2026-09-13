@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Гарний фонтан. Звук заспокійливий."
+    "value": "Гарний фонтан. Його дзюрчання заспокоює."
   },
   {
     "op": "replace",
@@ -22,22 +22,22 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Вода приносить життя Флорану."
+    "value": "Вода приносссить життсся Флорану."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Розслаблений. Вода мене заспокоює."
+    "value": "Спокій. Вода мене заспокоює."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Фонтан! Можливо, я повинен додати в це піксель."
+    "value": "Фонтан! Можливо, я повинен додати в нього піксель."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Іноді я сумую за океаном."
+    "value": "Часом я сумую за океаном."
   },
   {
     "op": "replace",

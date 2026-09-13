@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Найпростіша кухня глітча."
+    "value": "Радість. Найпростіша кухня глітчів."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Потужність"
+    "value": "Ватний суп"
   }
 ]

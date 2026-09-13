@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Зручне крісло Durasteel."
+    "value": "Зручне крісло Дюрасталь."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Крісло Durasteel"
+    "value": "Крісло Дюрасталь"
   },
   {
     "op": "replace",
@@ -17,17 +17,17 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Дуже пристойне місце для сидіння."
+    "value": "Напрочуд пристойне місце, щоб посидіти."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран сидить на стільці і думає про полювання."
+    "value": "Флоран сссидить на кріссслі й думає про полювання."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Розслаблений. Це крісло надзвичайно зручно для Глітча."
+    "value": "Розслаблення. Це крісло надзвичайно зручне для глітчів."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Майже розкіш, до якої звик Hylotl. Тут можна отримати задоволення."
+    "value": "Майже розкіш, до якої звикають Хайлотли. Тут можна отримати задоволення."
   },
   {
     "op": "replace",

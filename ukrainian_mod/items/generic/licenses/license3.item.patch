@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Дозволяє носію керувати кораблями класу Falcon."
+    "value": "Дозволяє носію керувати кораблями класу Фалкон."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ліцензія Falcon"
+    "value": "Ліцензія Фалкон"
   }
 ]

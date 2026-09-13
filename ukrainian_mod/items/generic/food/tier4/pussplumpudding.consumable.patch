@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Водянистий рисовий пудинг, заправлений компотом зі сливи."
+    "value": "Водянистий рисовий пудинг із компотом з пуссплуму."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Пудінг Pussplu"
+    "value": "Пудинг Пуссплум"
   }
 ]

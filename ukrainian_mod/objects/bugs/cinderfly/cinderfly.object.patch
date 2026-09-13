@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Процвітає в безлюдних умовах."
+    "value": "Чудово почувається навіть у спустошливих умовах."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Попелюшка"
+    "value": "Попеломуха"
   }
 ]

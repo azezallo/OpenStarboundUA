@@ -1,26 +1,26 @@
 [
   {
-    "value": "Висячі пустельні камені.",
+    "value": "Укладені натуральні гранітні цегли.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Висячі пустельні камені",
+    "value": "Гранитний блок",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Пісссщані камені.",
+    "value": "Зацікавлений. Видобуток цього граніту дає лише камінь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Утвердно. Висячі пустельні камені.",
+    "value": "Флорани сссмачують гарний граніт.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Гарно розфарбована цегляна кладка.",
+    "value": "Здається, що це простий граніт.",
     "path": "/novakidDescription",
     "op": "replace"
   }

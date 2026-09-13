@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Мішок для сміття. Який вантаж сміття."
+    "value": "Мішок для сміття. Яка купа мотлоху."
   },
   {
     "op": "replace",
@@ -17,31 +17,31 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Сумка з непотрібними предметами."
+    "value": "Мішок із непотрібними речами."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Гаааарбаг день!"
+    "value": "День сссміття-а-а!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спостережливий. Мішок зі сміттям."
+    "value": "Спостереження. Мішок зі сміттям."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Ще один мішок сміття."
+    "value": "Просто ще один мішок зі сміттям."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Недбало залишений тут мішок із сміттям."
+    "value": "Мішок із відходами, недбало залишений тут."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Мішок зі сміттям, тут ні до чого."
+    "value": "Мішок зі сміттям, ніц путного тут нема."
   }
 ]

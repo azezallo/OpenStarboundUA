@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Продаж знак"
+    "value": "Знак продажу"
   },
   {
     "op": "replace",
@@ -17,17 +17,17 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "У цьому магазині розпродаж."
+    "value": "Тут в магазині розпродаж."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Дешеві речі? Флорану подобається."
+    "value": "Дешеві речі? Флорани ссслюблять."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заінтригований. Цікаво, чи є у них вигідні пропозиції?"
+    "value": "Зацікавлений. Чи є у них вигідні пропозиції?"
   },
   {
     "op": "replace",

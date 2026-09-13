@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Портрет миротворця Апекс."
+    "value": "Портрет миротворця апексів."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Апекс-портрет"
+    "value": "Портрет апекса"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Миротворець. Ці хлопці обміняли б власну матір на милість Міннаук."
+    "value": "Миротворець. Ці хлопці рідну матір продали б за прихильність Міннауку."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Цей Apex виглядає щиро щасливим."
+    "value": "Цей апекс виглядає щиро щасливим."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Сссссусміхнений Апекс."
+    "value": "Усссміхнений апекс."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Цікаво. Що є джерелом щастя цього Apex?"
+    "value": "Цікавість. Що є джерелом щастя цього апекса?"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Цей хлопець посміхається. Цікаво чому?"
+    "value": "Цей хлопець усміхається. Цікаво, чому?"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Цей Апекс самовдоволено посміхається."
+    "value": "Цей апекс самовдоволено шкіриться."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Вершина піднесеного настрою."
+    "value": "Апекс у піднесеному гуморі, файно."
   }
 ]

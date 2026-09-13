@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Poptop"
+    "value": "Поптоп"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "The Poptop hums beautifully to confuse its prey."
+    "value": "Поптоп красиво наспівує, щоб заплутати свою здобич."
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ви не можете побачити кокос, але він є!"
+    "value": "Ви не можете побачити кокос, але він там!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "кокосовий рис"
+    "value": "Кокосовий рис"
   }
 ]

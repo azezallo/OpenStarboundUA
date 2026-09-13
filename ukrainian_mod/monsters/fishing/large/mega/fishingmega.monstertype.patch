@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Magmalodon"
+    "value": "Магмалодон"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "A near-legendary fish said to be magma brought to life. A true challenge to catch."
+    "value": "Така майже легендарна риба, яку називають живим магматом. Справжнє випробування для полювання."
   }
 ]

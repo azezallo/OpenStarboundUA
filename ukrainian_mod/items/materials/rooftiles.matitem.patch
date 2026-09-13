@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Weathered roof tiles. Їхня форма викликає у мене почуття незручності."
+    "value": "Зношені плитки даху. Їхня форма викликає у мене незручність."
   },
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Спостережливий. These roof tiles are sloped to allow for easy rain run off."
+    "value": "Спостережливий. Ці плитки даху нахилені, щоб забезпечити легке відтікання дощу."
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Ця черепиця ідеально підходить для виготовлення даху."
+    "value": "Ці плитки ідеально підходять для створення даху."
   },
   {
     "op": "replace",

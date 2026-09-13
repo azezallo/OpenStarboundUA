@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Це повчально! Маска Hylotl, м'язова анатомія."
+    "value": "Це навчально! Маска Хайлотлі, м'язова анатомія."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Анатомічна маска Hylotl"
+    "value": "Анатомічна маска Хайлотлі"
   }
 ]

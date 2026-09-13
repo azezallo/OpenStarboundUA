@@ -1,11 +1,11 @@
 [
   {
-    "value": "^orange;Нагорода за вбивство",
+    "value": "^orange;Ліквідувати ціль",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Вбий ціль на місці",
+    "value": "Ліквідувати ціль на місці",
     "path": "/text",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "^orange;Вирушай^reset; до ^green;%s^reset;",
+    "value": "^orange;Вирушай^reset; на ^green;%s^reset;",
     "path": "/scriptConfig/objectives/findSpaceBountyStage/0",
     "op": "replace"
   },
@@ -25,7 +25,7 @@
     "op": "replace"
   },
   {
-    "value": "^orange;Висадися^ на ^green;Підозрілий корабель^reset;",
+    "value": "^orange;Висадися^reset; на ^green;Підозрілий корабель^reset;",
     "path": "/scriptConfig/objectives/findSpaceBountyStage/2",
     "op": "replace"
   },
@@ -40,22 +40,22 @@
     "op": "replace"
   },
   {
-    "value": "<bounty.name> востаннє бачили на <coordinate.name>.",
+    "value": "<bounty.name> востаннє бачили <coordinate.preposition> <coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/default/0",
     "op": "replace"
   },
   {
-    "value": "Гарна робота, ти схопив <bounty.name> та їхню команду! Ти до біса хоробра душа, напарнику!\n\nЗавітай до Станції Миротворців, щоб забрати свою нагороду!",
+    "value": "Гарна робота, ти схопив <bounty.name> та їхню команду! Ти до біса хоробра душа, напарнику!\n\nЗавітай до станції Миротворців, щоб забрати свою нагороду!",
     "path": "/scriptConfig/generatedText/complete/capture/0",
     "op": "replace"
   },
   {
-    "value": "Гарна робота, ти схопив <bounty.name> та їхню команду! Ти до біса хоробра душа, напарнику!\n\nЗавітай до Станції Миротворців, щоб забрати свою нагороду!",
+    "value": "Гарна робота, ти схопив <bounty.name> та їхню команду! Ти до біса хоробра душа, напарнику!\n\nЗавітай до станції Миротворців, щоб забрати свою нагороду!",
     "path": "/scriptConfig/generatedText/complete/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти дозволив їм піти!? Маю сказати, цього разу ти не впорався зі своїми обов'язками Миротворця, напарнику!",
+    "value": "Ти відпустив їх?! Мушу сказати, цього разу ти не впорався зі своїми обов'язками миротворця, напарнику!",
     "path": "/scriptConfig/generatedText/failureText/default/0",
     "op": "replace"
   }

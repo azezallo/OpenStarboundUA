@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Silver Platform"
+    "value": "Срібна платформа"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Полірована платформа з чистого срібла."
+    "value": "Полірувана платформа з чистого срібла."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Delighted. I can see my reflection in these silver platforms."
+    "value": "В захваті. Я бачу своє відображення в цих срібних платформах."
   },
   {
     "op": "replace",
@@ -22,6 +22,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Я вважаю, що ця платформа на вагу срібла."
+    "value": "Я вважаю, що ця платформа варта своєї ваги у сріблі."
   }
 ]

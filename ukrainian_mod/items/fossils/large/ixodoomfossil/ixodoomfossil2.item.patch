@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'яніле тулуб іксодому."
+    "value": "Скам'янілений тулуб Іксодома"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Тулуб іксодумів"
+    "value": "Тулуб Іксодома"
   }
 ]

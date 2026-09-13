@@ -5,37 +5,37 @@
     "op": "replace"
   },
   {
-    "value": "Фассс!",
+    "value": "Фассс! Атака!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Тепер ти не втечешшш!",
+    "value": "Ти цього разу не втікнеш!",
     "path": "/scriptConfig/dialog/reattack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти був легкою ззздобиччю!",
+    "value": "Ти був легким полюванням!",
     "path": "/scriptConfig/dialog/killedTarget/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран всссе щщще чує тебе!",
+    "value": "Флоран все ще щщще чує тебе!",
     "path": "/scriptConfig/dialog/lostTarget/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Досссить ховатиссся!",
+    "value": "Досить ховатися!",
     "path": "/scriptConfig/dialog/outOfSight/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Взяти їх!",
+    "value": "Хапай їх!",
     "path": "/scriptConfig/dialog/cheerOn/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Повернисссь!",
+    "value": "Тільки на відстані!",
     "path": "/scriptConfig/dialog/cantReach/default/default/0",
     "op": "replace"
   }

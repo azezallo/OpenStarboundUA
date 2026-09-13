@@ -5,17 +5,17 @@
     "op": "replace"
   },
   {
-    "value": "Алмазна квітка",
+    "value": "Алмазна квітка.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Блиссскучі алмази.",
+    "value": "Бліскучі алмази.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Алмазна квітка.",
+    "value": "Заява. Алмазна квітка.",
     "path": "/glitchDescription",
     "op": "replace"
   }

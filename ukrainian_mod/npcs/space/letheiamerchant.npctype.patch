@@ -1,26 +1,26 @@
 [
   {
-    "value": "  Торговец Лезеи",
+    "value": "Торговець Леції",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
     "op": "replace"
   },
   {
-    "value": "  Продажа фурнитуры!",
+    "value": "Продає космічні меблі!",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
     "op": "replace"
   },
   {
-    "value": "Ласкаво просимо до філії корпорації Лезея!",
+    "value": "Ласкаво просимо до філії корпорації Леції!",
     "path": "/scriptConfig/dialog/merchant/tout/hylotl/default/0",
     "op": "replace"
   },
   {
-    "value": "Ласкаво просимо до філії корпорації Лезея, чим можу допомогти?",
+    "value": "Ласкаво просимо до філії корпорації Леції, чим можу допомогти?",
     "path": "/scriptConfig/dialog/merchant/start/hylotl/default/0",
     "op": "replace"
   },
   {
-    "value": "Пам'ятай: \"Нащо жити без Лезеї?\"",
+    "value": "Пам’ятай: «Чому жити без Letheia?»",
     "path": "/scriptConfig/dialog/merchant/end/hylotl/default/0",
     "op": "replace"
   }

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "«Ідеальний зразок руди дюрастіл»."
+    "value": "Ідеальний зразок руди дюрасталя."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Зразок Durasteel"
+    "value": "Зразок Дюрасталь"
   }
 ]

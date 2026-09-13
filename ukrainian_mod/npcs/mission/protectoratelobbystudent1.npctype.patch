@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "The vending machine swallowed my pixels. Could this day get any worse?"
+    "value": "Венд-мішина поглинула мої пікселі. Чи може цей день бути гіршим?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "A nice cold can of Oculemonade, just beyond my reach..."
+    "value": "Приємна холодна банка Окулемонаду, що знаходиться поза моїм досяжністю..."
   }
 ]

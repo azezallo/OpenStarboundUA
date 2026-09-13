@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "ЩО СТАЛОСЯ З МОЇМИ М'ЯСНИМИ МЕБЛЯМИ?",
+    "value": "ЩО СТАЛОСЯ З МОЇМИ М'ЯСНИХ МЕБЛЯМИ?",
     "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/1",
     "op": "replace"
   },
@@ -15,12 +15,12 @@
     "op": "replace"
   },
   {
-    "value": "ТУТ ТЯГНЕ ПРОТЯГОМ, У МЕНЕ ЩО, ДІРКИ В СТІНАХ?",
+    "value": "ТУТ ВИТРЯНО, Чи є у мене зламані стіни?",
     "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/1",
     "op": "replace"
   },
   {
-    "value": "ГЕЙ, СЮДИ НІКОМУ НЕ МОЖНА ПЕРЕЇЖДЖАТИ!",
+    "value": "Гей, ніхто інший не повинен сюди переїжджати, гаразд!",
     "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/0",
     "op": "replace"
   },
@@ -35,52 +35,52 @@
     "op": "replace"
   },
   {
-    "value": "ЯК Я ШУКАТИМУ М'ЯСНІ ТОВАРИ В ТАКИХ УМОВАХ?!",
+    "value": "Як мені шукати м'ясні товари в цих умовах?!",
     "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/1",
     "op": "replace"
   },
   {
-    "value": "ДОБРЕ, ПОРА ПОШУКАТИ М'ЯСНУ УДАЧУ ДЕСЬ ІНДЕ!",
+    "value": "Добре, пора шукати свою м'ясну удачу в іншому місці!",
     "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Я НЕ МОЖУ ТАК БІЛЬШЕ ЖИТИ, ПОРА РУХАТИСЯ ДАЛІ, У М'ЯСНУ НЕВІДОМІСТЬ!",
+    "value": "Я не можу так більше жити, пора рушати далі у м'ясну невідомість!",
     "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/1",
     "op": "replace"
   },
   {
-    "value": "ГЕЙ, ТОБІ ЩОСЬ ПОТРІБНО?!",
+    "value": "Гей, тобі щось потрібно?!",
     "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/0",
     "op": "replace"
   },
   {
-    "value": "ГЕЙ ТАМ, ЩО ПОТРІБНО?",
+    "value": "Гей там, як справи?",
     "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/1",
     "op": "replace"
   },
   {
-    "value": "МЕНІ ТРАПИЛОСЯ ЦЕ ПІД ЧАС ТОРГІВЛІ! ЦЕ ПОДАРУНОК ТОБІ!",
+    "value": "Знайшов це під час торгівлі! Це подарунок для тебе!",
     "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/0",
     "op": "replace"
   },
   {
-    "value": "ТОРГУЮЧИ, Я НАТРАПИВ НА ЦЕ! ТРИМАЙ! СПОДІВАЮСЬ, ТОБІ СПОДОБАЄТЬСЯ!",
+    "value": "У своїх торгівлях я натрапив на це для тебе! Сподіваюся, тобі сподобається!",
     "path": "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Я ПРОДАВЕЦЬ РІДКІСНИХ М'ЯСНИХ ТОВАРІВ! Я ДІСТАНУ ЩОСЬ ХОРОШЕ ДЛЯ ТЕБЕ, ЯКЩО ЗМОЖУ!",
+    "value": "Я торговець рідкісними м'ясними товарами! Я спробую знайти тобі щось гарне, якщо зможу!",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Я ШУКАЮ РІДКІСНІ М'ЯСНІ ЦІННОСТІ. ЗАХОДЬ ДО МЕНЕ ЯКОСЬ, Я Б ПРИГОТУВАВ ПОДАРУНОК ДЛЯ ТЕБЕ!",
+    "value": "Шукаю рідкісні м'ясні скарби. Завітай до мене будь‑коли, можливо, у мене буде подарунок для тебе!",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Я ШУКАЮ М'ЯСНІ ЦІННОСТІ! Я СКАЖУ, ЯКЩО ЩОСЬ ЗНАЙДУ ДЛЯ ТЕБЕ!",
+    "value": "Шукаю м'ясні скарби! Я скажу тобі, якщо знайду щось для тебе!",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "op": "replace"
   }

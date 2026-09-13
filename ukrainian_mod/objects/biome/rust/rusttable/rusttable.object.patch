@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Іржавий стіл. Додає аромат."
+    "value": "Іржавий стіл. Додає аромат"
   },
   {
     "op": "replace",
@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Стіл червоний, з russst не кров."
+    "value": "Стіл червоний, з ржавістю, а не кров'ю."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "роздратований. Через іржу я втратив апетит."
+    "value": "Роздратований. Через іржу я втратив апетит."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Такий стіл виглядає не дуже гігієнічно."
+    "value": "Такий стіл виглядає не дуже гігієнічний."
   },
   {
     "op": "replace",

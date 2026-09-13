@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/identity/name",
-    "value": "Tiy"
+    "value": "Тій"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Hey, I'm Tom! Have you seen someone called Lenna around?"
+    "value": "Привіт, я Том! Чи бачив ти когось на ім'я Ленна?"
   }
 ]

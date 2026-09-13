@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Конвеєрна стрічка, наразі не рухається."
+    "value": "Конвеєрна стрічка, зараз не рухається."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флорану набридли огорожі."
+    "value": "Флоран втомився від огорожей"
   },
   {
     "op": "replace",

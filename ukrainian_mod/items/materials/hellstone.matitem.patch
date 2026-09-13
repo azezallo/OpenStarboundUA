@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Вау, м'ясистий матеріал!"
+    "value": "Фу, м’яса-матеріал!"
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "стривожений. Це схоже на пульсуючу плоть."
+    "value": "Стривожений. Це схоже на пульсуючу плоть."
   },
   {
     "op": "replace",

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Непізнаний скам'янілий торс."
+    "value": "Невідомий скам'янілий торс"
   },
   {
     "op": "replace",

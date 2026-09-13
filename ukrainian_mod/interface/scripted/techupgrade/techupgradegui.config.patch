@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/gui/windowtitle/title",
-    "value": "  Консоль покращ. техн."
+    "value": "Консоль покращ. техн."
   },
   {
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
-    "value": "  Обирай свої техн."
+    "value": "Обирай свої техн."
   },
   {
     "op": "replace",

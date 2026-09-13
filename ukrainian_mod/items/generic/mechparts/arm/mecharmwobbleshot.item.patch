@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ця рука механізму стріляє моторошно коливаються плазмовими пончиками."
+    "value": "Ця механічна рука випускає моторошно коливальні плазмові пончики."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Wobbleshot Mech Arm"
+    "value": "Механічна рука Wobbleshot"
   }
 ]

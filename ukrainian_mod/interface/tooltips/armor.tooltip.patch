@@ -2,6 +2,6 @@
   {
     "op": "replace",
     "path": "/statusList/schema/listTemplate/statusLabel/hAnchor",
-    "value": "left"
+    "value": "ліворуч"
   }
 ]

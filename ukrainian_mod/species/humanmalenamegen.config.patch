@@ -42,7 +42,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/9",
-    "value": "Ясень"
+    "value": "Еш"
   },
   {
     "op": "replace",
@@ -72,7 +72,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/15",
-    "value": "Висівки"
+    "value": "Бран"
   },
   {
     "op": "replace",
@@ -142,7 +142,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/29",
-    "value": "глина"
+    "value": "Клей"
   },
   {
     "op": "replace",
@@ -247,7 +247,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/50",
-    "value": "Eoin"
+    "value": "Еойн"
   },
   {
     "op": "replace",
@@ -282,7 +282,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/57",
-    "value": "Франциск"
+    "value": "Френсіс"
   },
   {
     "op": "replace",
@@ -307,7 +307,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/62",
-    "value": "Хлопець"
+    "value": "Гай"
   },
   {
     "op": "replace",
@@ -317,7 +317,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/64",
-    "value": "Хайден"
+    "value": "Гейден"
   },
   {
     "op": "replace",
@@ -397,7 +397,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/80",
-    "value": "січня"
+    "value": "Ян"
   },
   {
     "op": "replace",
@@ -432,7 +432,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/87",
-    "value": "Jemmy"
+    "value": "Джеммі"
   },
   {
     "op": "replace",
@@ -442,7 +442,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/89",
-    "value": "Jesse"
+    "value": "Джессі"
   },
   {
     "op": "replace",
@@ -452,22 +452,22 @@
   {
     "op": "replace",
     "path": "/names/1/1/91",
-    "value": "Juan"
+    "value": "Хуан"
   },
   {
     "op": "replace",
     "path": "/names/1/1/92",
-    "value": "Jude"
+    "value": "Джуд"
   },
   {
     "op": "replace",
     "path": "/names/1/1/93",
-    "value": "Julian"
+    "value": "Джуліан"
   },
   {
     "op": "replace",
     "path": "/names/1/1/94",
-    "value": "Keane"
+    "value": "Кін"
   },
   {
     "op": "replace",
@@ -482,12 +482,12 @@
   {
     "op": "replace",
     "path": "/names/1/1/97",
-    "value": "Комплект"
+    "value": "Кіт"
   },
   {
     "op": "replace",
     "path": "/names/1/1/98",
-    "value": "пров"
+    "value": "Лейн"
   },
   {
     "op": "replace",
@@ -507,7 +507,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/102",
-    "value": "Liu"
+    "value": "Лю"
   },
   {
     "op": "replace",
@@ -517,12 +517,12 @@
   {
     "op": "replace",
     "path": "/names/1/1/104",
-    "value": "Лукіан"
+    "value": "Люсіан"
   },
   {
     "op": "replace",
     "path": "/names/1/1/105",
-    "value": "Ludvig"
+    "value": "Людвіг"
   },
   {
     "op": "replace",
@@ -542,17 +542,17 @@
   {
     "op": "replace",
     "path": "/names/1/1/109",
-    "value": "Mac"
+    "value": "Мак"
   },
   {
     "op": "replace",
     "path": "/names/1/1/110",
-    "value": "Magnus"
+    "value": "Магнус"
   },
   {
     "op": "replace",
     "path": "/names/1/1/111",
-    "value": "Manolo"
+    "value": "Маноло"
   },
   {
     "op": "replace",
@@ -592,7 +592,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/119",
-    "value": "Міхей"
+    "value": "Майка"
   },
   {
     "op": "replace",
@@ -737,12 +737,12 @@
   {
     "op": "replace",
     "path": "/names/1/1/148",
-    "value": "Ren"
+    "value": "Рен"
   },
   {
     "op": "replace",
     "path": "/names/1/1/149",
-    "value": "Ригель"
+    "value": "Рігель"
   },
   {
     "op": "replace",
@@ -757,27 +757,27 @@
   {
     "op": "replace",
     "path": "/names/1/1/152",
-    "value": "Ronald"
+    "value": "Рональд"
   },
   {
     "op": "replace",
     "path": "/names/1/1/153",
-    "value": "Rory"
+    "value": "Рорі"
   },
   {
     "op": "replace",
     "path": "/names/1/1/154",
-    "value": "Samir"
+    "value": "Самір"
   },
   {
     "op": "replace",
     "path": "/names/1/1/155",
-    "value": "Sarge"
+    "value": "Сардж"
   },
   {
     "op": "replace",
     "path": "/names/1/1/156",
-    "value": "Sarkis"
+    "value": "Саркіс"
   },
   {
     "op": "replace",
@@ -787,7 +787,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/158",
-    "value": "Seb"
+    "value": "Себ"
   },
   {
     "op": "replace",
@@ -797,12 +797,12 @@
   {
     "op": "replace",
     "path": "/names/1/1/160",
-    "value": "Shui"
+    "value": "Шуй"
   },
   {
     "op": "replace",
     "path": "/names/1/1/161",
-    "value": "Пропустити"
+    "value": "Скіп"
   },
   {
     "op": "replace",
@@ -827,7 +827,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/166",
-    "value": "Степан"
+    "value": "Стівен"
   },
   {
     "op": "replace",
@@ -902,7 +902,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/181",
-    "value": "Ямс"
+    "value": "Ям"
   },
   {
     "op": "replace",

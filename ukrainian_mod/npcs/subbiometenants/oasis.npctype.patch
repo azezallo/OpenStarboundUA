@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "value": "  Oasis Merchant"
+    "value": "Торговець з оазису"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "value": "  Sells lovely water features!"
+    "value": "Продає чудові водяні елементи!"
   }
 ]

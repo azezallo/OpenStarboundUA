@@ -1,21 +1,21 @@
 [
   {
-    "value": "Песчание шіпи.",
+    "value": "Пісочні шипи.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Песчание шіпи",
+    "value": "Пісочні шипи.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Песссчание і оссстрие.",
+    "value": "Пісочні та спікі.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Утвердітельно. Песчание шіпи.",
+    "value": "Заява. Пісочні шипи.",
     "path": "/glitchDescription",
     "op": "replace"
   }

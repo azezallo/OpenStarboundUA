@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "«Ідеальний зразок примусової руди»."
+    "value": "Ідеальний зразок прісилітної руди"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Присіліть Зразок"
+    "value": "Зразок Присиліту"
   }
 ]

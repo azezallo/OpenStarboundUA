@@ -7,22 +7,22 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "бобове стебло"
+    "value": "Бобове стебло"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Справжня квасоля!"
+    "value": "Справжнє бобове стебло!"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Легендарний боб."
+    "value": "Легендарне бобове стебло."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Стебло квасолі стає великим, Флоран досягає неба."
+    "value": "Бобове стебло зростає великою висотою, Флоран досягає неба."
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Мені цей боб нагадує казку."
+    "value": "Мене це бобове стебло нагадує казку."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Квасоля, росте аж до неба."
+    "value": "Бобове стебло росте аж до неба."
   }
 ]

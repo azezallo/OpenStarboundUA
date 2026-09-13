@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Основна смугаста чаша."
+    "value": "Основна смугаста миска."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Гарна миска, розписана вручну."
+    "value": "Гарна, вручну розписана чаша."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Добре підходить для подачі гарячого супу."
+    "value": "Добре підходить для гарячого супу."
   }
 ]

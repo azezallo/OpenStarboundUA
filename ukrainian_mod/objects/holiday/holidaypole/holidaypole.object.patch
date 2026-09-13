@@ -7,32 +7,32 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Святковий поляк"
+    "value": "Святковий стовп"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Смугастий стовп..."
+    "value": "Смугастий стовп…"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Жердина смугаста, як святкова цукерка."
+    "value": "Стовп смугастий, як святкова цукерка."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Це великий полюс."
+    "value": "Цей великий стовп."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Цікаво. Жердина в цукеркову смужку."
+    "value": "Цікавий. Жердина з цукерковими смугами."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Жердина в цукеркову смужку."
+    "value": "Жердина з цукерковими смугами."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Схоже на цукерку, але я впевнений, що на смак не так!"
+    "value": "Здається, схожа на цукерку, але я впевнений, що не така за смаком."
   }
 ]

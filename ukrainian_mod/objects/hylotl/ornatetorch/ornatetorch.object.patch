@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Багато прикрашений ліхтар"
+    "value": "Вишуканий ліхтар"
   },
   {
     "op": "replace",
@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Занадто гарячий на дотик."
+    "value": "Занадто гаряче для дотику."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Досить вогнем всередині."
+    "value": "Доволі вогняний всередині."
   },
   {
     "op": "replace",

@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Старе, потерте і запорошене ліжко."
+    "value": "Старе, зношене й запорошене ліжко."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Dusty Bed"
+    "value": "Пилове ліжко"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран, мабуть, міг би спати в цьому чудовому стані."
+    "value": "Флоран сссможе спати в цьому чудовому стані."
   },
   {
     "op": "replace",

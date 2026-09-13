@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Прокинься, вівці!"
+    "value": "Прокиньтеся, овечки!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Овечий капелюх"
+    "value": "Овчий капелюх"
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Початок тла"
+    "value": "Стартовий шматок тла"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Початок тла"
+    "value": "Стартовий шматок тла"
   }
 ]

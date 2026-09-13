@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Міцний металевий стіл."
+    "value": "Масивний металевий стіл."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Суцільний металевий стіл"
+    "value": "Масивний металевий стіл"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Проста таблиця."
+    "value": "Простий стіл."
   },
   {
     "op": "replace",
@@ -22,26 +22,26 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Технічний вигляд столу."
+    "value": "Ссстіл технічного вигляду."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Звичайний стіл."
+    "value": "Нейтральність. Звичайний стіл."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Це третя найбільш загальна таблиця, яку я коли-небудь бачив."
+    "value": "Це вже третій найбільш типовий стіл, який я коли-небудь бачив."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "стіл. Нічим не примітний."
+    "value": "Стіл. Нічим не примітний."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Я не професійний суддя за столом, але це досить нудний стіл."
+    "value": "Я хоч і не великий знавець столів, але цей стіл геть нудний."
   }
 ]

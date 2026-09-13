@@ -12,22 +12,22 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Стіл, висічений з величезної брили льоду."
+    "value": "Стіл, вирізаний з величезного блока льоду."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Великий стіл з льоду."
+    "value": "Великий стіл із льоду."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран ssslice на льоду."
+    "value": "Флоран ссслайс на льоду."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "враховуючи. Було б цікаво побачити, як тут подають гарячу їжу."
+    "value": "Враховуючи. Було б цікаво побачити, як тут подають гарячу їжу."
   },
   {
     "op": "replace",

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Глибоко страшне взуття."
+    "value": "Дуже страшні черевики."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Frontliner's Greaves"
+    "value": "Підколінник фронтовика"
   }
 ]

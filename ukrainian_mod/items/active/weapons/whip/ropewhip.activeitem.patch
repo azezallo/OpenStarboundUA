@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Мотузка, утворена в батіг. Отримати тріщини!"
+    "value": "Мотузка, сформована у батіг. Використай його!"
   },
   {
     "op": "replace",
@@ -12,6 +12,6 @@
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
-    "value": "Мотузковий хлист ^yellow;^reset;"
+    "value": "Мотузковий батіг ^yellow;^reset;"
   }
 ]

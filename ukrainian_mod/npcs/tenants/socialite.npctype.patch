@@ -1,11 +1,11 @@
 [
   {
-    "value": "Я постачальник творів мистецтва. А ти культурний?",
+    "value": "Я постачальник чудових витворів мистецтва. У тебе є культурна сторона?",
     "path": "/scriptConfig/dialog/converse/apex/default/0",
     "op": "replace"
   },
   {
-    "value": "Я більш ніж упевнений: Великий Мавп замішаний у цій справі.",
+    "value": "Я дуже визнаний — Великий Апе залучений у цю справу.",
     "path": "/scriptConfig/dialog/converse/apex/default/1",
     "op": "replace"
   },
@@ -15,12 +15,12 @@
     "op": "replace"
   },
   {
-    "value": "Земля втрачена, як і твори, що там були!",
+    "value": "Земля втрачена, як і твори мистецтва, що там були!",
     "path": "/scriptConfig/dialog/converse/human/default/0",
     "op": "replace"
   },
   {
-    "value": "Моя особа має найкращий одяг на будь-якому з прийомів!",
+    "value": "Я найкраще одягнений у будь-якому закладі, який я відвідую!",
     "path": "/scriptConfig/dialog/converse/human/default/1",
     "op": "replace"
   },
@@ -70,7 +70,7 @@
     "op": "replace"
   },
   {
-    "value": "Гілотли — лідери у витонченості, і я найкращий серед них.",
+    "value": "Хайлотлі — лідери у витонченості, і я найкращий серед них.",
     "path": "/scriptConfig/dialog/converse/hylotl/default/2",
     "op": "replace"
   },
@@ -85,7 +85,7 @@
     "op": "replace"
   },
   {
-    "value": "Задоволено. Люди витріщаються на мене в цій перуці — напевно, я виглядаю в ній дуже модно.",
+    "value": "Задоволено. Люди дивляться на мене в цій перуці — напевно, я виглядаю в ній дуже модно.",
     "path": "/scriptConfig/dialog/converse/glitch/default/2",
     "op": "replace"
   }

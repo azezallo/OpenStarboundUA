@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Конуси, наповнені магмою."
+    "value": "Конуси, заповнені магмою."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Конуси, наповнені магмою."
+    "value": "Конуси, заповнені магмою."
   },
   {
     "op": "replace",

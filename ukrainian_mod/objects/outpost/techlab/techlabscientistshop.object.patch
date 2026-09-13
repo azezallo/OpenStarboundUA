@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Лабораторія наукових робітників."
+    "value": "Крамниця вченого лабораторії технологій."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Магазин технічної лабораторії"
+    "value": "Магазин лабораторії технологій"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "value": "Товари Elliott's"
+    "value": "Товари Елліотта"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "^#b9b5b2; Продає станції для встановлення техніки."
+    "value": "^#b9b5b2;Продає станції для встановлення технологій."
   }
 ]

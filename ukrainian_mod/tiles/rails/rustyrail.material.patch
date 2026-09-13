@@ -1,26 +1,26 @@
 [
   {
-    "value": "Місячний",
+    "value": "Іржава рейка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Гострий",
+    "value": "Ці рейки трохи грубі, але функціональні.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Фокусуюч.",
+    "value": "Стурбований. Ці рейки виглядають зношеними та іржавими.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Централ.",
+    "value": "Іржаві металеві рейки.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Місячний",
+    "value": "Деякі іржаві рейки, що викликають бажання їх прокатати.",
     "path": "/novakidDescription",
     "op": "replace"
   }

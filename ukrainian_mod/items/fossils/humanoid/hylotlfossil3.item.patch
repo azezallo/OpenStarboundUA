@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'яніла пара ніг Гілотля."
+    "value": "Скам'яніла пара ніг Хайлотлі"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ноги Hylotl"
+    "value": "Ноги Хайлотлі"
   }
 ]

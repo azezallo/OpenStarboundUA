@@ -1,11 +1,11 @@
 [
   {
-    "value": "Шахта ізольована. Я ховатимусь, поки монстри не підуть.",
+    "value": "Фасилітація у режимі блокування. Я ховаюся, поки монстри не зникнуть.",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "З такими успіхами ми навряд чи виберемося з цього місяця.",
+    "value": "За такою швидкістю я не думаю, що ми колись вийдемо з цього місяця.",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "op": "replace"
   },
@@ -15,22 +15,22 @@
     "op": "replace"
   },
   {
-    "value": "Навіщо ти прийшов сюди? Треба було йти, поки не пізно!",
+    "value": "Навіщо ти прийшов сюди? Тобі слід йти, поки не пізно!",
     "path": "/scriptConfig/dialog/converse/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Нам треба вибиратися звідси!",
+    "value": "Нам потрібно вийти звідси!",
     "path": "/scriptConfig/dialog/converse/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Хтось надіслав сигнал лиха, але нам довелося ввести режим суворої ізоляції.",
+    "value": "Хтось надіслав сигнал про лихо, але це поставило фіасилітет у режим ізоляції.",
     "path": "/scriptConfig/dialog/converse/default/default/5",
     "op": "replace"
   },
   {
-    "value": "Я шахтар, мене не вчили справлятися з такими ситуаціями!",
+    "value": "Я шахтар, мене не вчили справлятись із такою ситуацією!",
     "path": "/scriptConfig/dialog/converse/default/default/6",
     "op": "replace"
   },
@@ -45,7 +45,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти перехопив наш сигнал лиха? Наші товариші почали гинути одразу після переходу шахти в режим суворої ізоляції.",
+    "value": "Ти перехопив наш сигнал про лихо? Наші зв'язки зникли одразу після того, як фіасилітет перейшов у режим ізоляції.",
     "path": "/scriptConfig/dialog/converse/default/default/9",
     "op": "replace"
   },
@@ -60,17 +60,17 @@
     "op": "replace"
   },
   {
-    "value": "Добре, що у нас є гармати.",
+    "value": "Добре, що тут були ці зброї.",
     "path": "/scriptConfig/dialog/converse/default/default/12",
     "op": "replace"
   },
   {
-    "value": "Дехто з наших наважився допомогти на нижніх рівнях, але вони так і не повернулися.",
+    "value": "Деякі з нас пішли допомагати в нижчі рівні, але вони не повернулися.",
     "path": "/scriptConfig/dialog/converse/default/default/13",
     "op": "replace"
   },
   {
-    "value": "Лезея не готувала нас до такого.",
+    "value": "Letheia ніколи не готувала нас до такого.",
     "path": "/scriptConfig/dialog/converse/default/default/14",
     "op": "replace"
   },
@@ -80,7 +80,7 @@
     "op": "replace"
   },
   {
-    "value": "Звідки повилазили ці створіння?",
+    "value": "Звідки з'явилися ці створіння?",
     "path": "/scriptConfig/dialog/converse/default/default/16",
     "op": "replace"
   },
@@ -95,42 +95,42 @@
     "op": "replace"
   },
   {
-    "value": "Вся шахта була запечатана, коли ми підняли тривогу!",
+    "value": "Весь фіасилітет був запечатаний, коли ми підняли тривогу!",
     "path": "/scriptConfig/dialog/converse/default/default/19",
     "op": "replace"
   },
   {
-    "value": "Ось що буває, якщо копнеш надто глибоко!",
+    "value": "Ось що буває, якщо копаєш занадто глибоко!",
     "path": "/scriptConfig/dialog/converse/default/default/20",
     "op": "replace"
   },
   {
-    "value": "Ці дурні прокинулися, і тепер ми розплачуємося.",
+    "value": "Ці дурниці його розбудили, а тепер ми сплачуємо ціну.",
     "path": "/scriptConfig/dialog/converse/default/default/21",
     "op": "replace"
   },
   {
-    "value": "Ми знайшли щось глибоко в надрах цього місця. Я переконався, що не варто було там залишатися.",
+    "value": "Ми знайшли щось глибоко в надрах цього місця. Я переконався, що не залишусь там.",
     "path": "/scriptConfig/dialog/converse/default/default/22",
     "op": "replace"
   },
   {
-    "value": "Хотів би я ніколи не братися за цю роботу!",
+    "value": "Хотів би, щоб я ніколи не взяв цю роботу!",
     "path": "/scriptConfig/dialog/converse/default/default/23",
     "op": "replace"
   },
   {
-    "value": "Мені шкода тих, хто буде тут усе відмивати...",
+    "value": "Мені шкода тим, хто працює в команді прибирання...",
     "path": "/scriptConfig/dialog/converse/default/default/24",
     "op": "replace"
   },
   {
-    "value": "Добре було якби допомога вже була в дорозі!",
+    "value": "Допомога має бути вже на шляху!",
     "path": "/scriptConfig/dialog/converse/default/default/25",
     "op": "replace"
   },
   {
-    "value": "Не впевнений, скільки наших залишилося в живих.",
+    "value": "Не знаю, скільки з нас ще живі.",
     "path": "/scriptConfig/dialog/converse/default/default/26",
     "op": "replace"
   },
@@ -140,22 +140,22 @@
     "op": "replace"
   },
   {
-    "value": "Я продовжую чути якісь звуки, ніби щось є там - глибоко внизу...",
+    "value": "Я продовжую чути якісь звуки, ніби щось глибоко внизу...",
     "path": "/scriptConfig/dialog/converse/default/default/28",
     "op": "replace"
   },
   {
-    "value": "Я довше не зможу протриматися тут!",
+    "value": "Я вже не зможу триматись тут надовго!",
     "path": "/scriptConfig/dialog/converse/default/default/29",
     "op": "replace"
   },
   {
-    "value": "Як ти потрапив сюди? Шахта в режимі повної ізоляції!",
+    "value": "Як ти потрапив сюди? Установку знаходиться під повним ізоляцією!",
     "path": "/scriptConfig/dialog/converse/default/default/30",
     "op": "replace"
   },
   {
-    "value": "Гей, знаєш, де вихід?",
+    "value": "Гей, чи знаєш ти шлях вийти з цього місця?",
     "path": "/scriptConfig/dialog/converse/default/default/31",
     "op": "replace"
   },
@@ -165,12 +165,12 @@
     "op": "replace"
   },
   {
-    "value": "Не дай цим гидким монстрам дістатися й до тебе!",
+    "value": "Не дай цим м'ясистим монстрам дістатися до тебе теж!",
     "path": "/scriptConfig/dialog/converse/default/default/33",
     "op": "replace"
   },
   {
-    "value": "У мене таке лиховісне відчуття, ніби за мною хтось спостерігає...",
+    "value": "У мене таке зловісне відчуття, ніби хтось спостерігає за мною...",
     "path": "/scriptConfig/dialog/converse/default/default/34",
     "op": "replace"
   },
@@ -180,32 +180,32 @@
     "op": "replace"
   },
   {
-    "value": "Нам треба забиратися з цього місяця!",
+    "value": "Нам потрібно залишити цей місяць!",
     "path": "/scriptConfig/dialog/converse/default/default/36",
     "op": "replace"
   },
   {
-    "value": "Коли я виберуся, напишу заяву про відставку...",
+    "value": "Коли вийду, подам заяву про відставку...",
     "path": "/scriptConfig/dialog/converse/default/default/37",
     "op": "replace"
   },
   {
-    "value": "Каміння? Я розберуся з ним. М'ясисті мутанти? Не те щоб дуже.",
+    "value": "Камені? Я розберуся з ними. М'ясисті мутанти? Не зовсім так.",
     "path": "/scriptConfig/dialog/converse/default/default/38",
     "op": "replace"
   },
   {
-    "value": "Відвали, мерзенна потворо!",
+    "value": "Повернись, м'ясиста потвора!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Отримуй!",
+    "value": "Бери це!",
     "path": "/scriptConfig/dialog/attack/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Тримайся від мене подалі!",
+    "value": "Утримуйся від мене!",
     "path": "/scriptConfig/dialog/attack/default/default/2",
     "op": "replace"
   },
@@ -220,37 +220,37 @@
     "op": "replace"
   },
   {
-    "value": "Назад!",
+    "value": "Повернись!",
     "path": "/scriptConfig/dialog/attack/default/default/5",
     "op": "replace"
   },
   {
-    "value": "Відступаємо!",
+    "value": "Відступай!",
     "path": "/scriptConfig/dialog/attack/default/default/6",
     "op": "replace"
   },
   {
-    "value": "Тисніть їх назад!",
+    "value": "Тисни їх назад!",
     "path": "/scriptConfig/dialog/attack/default/default/7",
     "op": "replace"
   },
   {
-    "value": "Не дозволяйте їм наближатися!",
+    "value": "Не дозволяй їм наближатися!",
     "path": "/scriptConfig/dialog/attack/default/default/8",
     "op": "replace"
   },
   {
-    "value": "Тримайте дистанцію!",
+    "value": "Тримай відстань!",
     "path": "/scriptConfig/dialog/attack/default/default/9",
     "op": "replace"
   },
   {
-    "value": "Не підпускайте їх близько!",
+    "value": "Не підпускай його ближче!",
     "path": "/scriptConfig/dialog/attack/default/default/10",
     "op": "replace"
   },
   {
-    "value": "Вони не припиняють іти!",
+    "value": "Вони не припиняють приходити!",
     "path": "/scriptConfig/dialog/reattack/default/default/0",
     "op": "replace"
   },
@@ -260,7 +260,7 @@
     "op": "replace"
   },
   {
-    "value": "Вони знову наступають!",
+    "value": "Ось вони знову підходять!",
     "path": "/scriptConfig/dialog/reattack/default/default/2",
     "op": "replace"
   },
@@ -280,7 +280,7 @@
     "op": "replace"
   },
   {
-    "value": "Ого! Вони просто розпалися на частинки.",
+    "value": "Ого! Вони практично розпалися на частинки.",
     "path": "/scriptConfig/dialog/killedTarget/default/default/2",
     "op": "replace"
   },
@@ -290,32 +290,32 @@
     "op": "replace"
   },
   {
-    "value": "Я не буду це відмивати...",
+    "value": "Я не буду це прибирати...",
     "path": "/scriptConfig/dialog/killedTarget/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Я не був впевнений, що в мене вийде.",
+    "value": "Не був впевнений, що ми зможемо.",
     "path": "/scriptConfig/dialog/killedTarget/default/default/5",
     "op": "replace"
   },
   {
-    "value": "Ух! Кімната тепер пахне просто жахливо.",
+    "value": "Ух! Ця кімната тепер пахне жахливо.",
     "path": "/scriptConfig/dialog/killedTarget/default/default/6",
     "op": "replace"
   },
   {
-    "value": "Одним кошмаром стало менше...",
+    "value": "Тепер у світі на один менший кошмар.",
     "path": "/scriptConfig/dialog/killedTarget/default/default/7",
     "op": "replace"
   },
   {
-    "value": "Ти бачив, куди воно поділося?",
+    "value": "Ти бачив, куди воно пішло?",
     "path": "/scriptConfig/dialog/lostTarget/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Мені здається, воно змилося.",
+    "value": "Мені здається, що воно зникло.",
     "path": "/scriptConfig/dialog/lostTarget/default/default/1",
     "op": "replace"
   },
@@ -330,27 +330,27 @@
     "op": "replace"
   },
   {
-    "value": "Ти бачив, куди воно поділося?",
+    "value": "Ти бачив, куди воно пішло?",
     "path": "/scriptConfig/dialog/outOfSight/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Куди воно поділося?",
+    "value": "Куди воно пішло?",
     "path": "/scriptConfig/dialog/outOfSight/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Я їх не бачу!",
+    "value": "Я не бачу його!",
     "path": "/scriptConfig/dialog/outOfSight/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Ми втратили слід!",
+    "value": "Я втратив його слід!",
     "path": "/scriptConfig/dialog/outOfSight/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Ти це бачив?",
+    "value": "Ти бачиш це?",
     "path": "/scriptConfig/dialog/outOfSight/default/default/4",
     "op": "replace"
   },
@@ -360,17 +360,17 @@
     "op": "replace"
   },
   {
-    "value": "Знищ його!",
+    "value": "Вилучи його!",
     "path": "/scriptConfig/dialog/cheerOn/default/default/0",
     "op": "replace"
   },
   {
-    "value": "А ти молодець!",
+    "value": "Ти справді хороший у цьому!",
     "path": "/scriptConfig/dialog/cheerOn/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Тебе для цього тренували?",
+    "value": "Чи був ти навчений?",
     "path": "/scriptConfig/dialog/cheerOn/default/default/2",
     "op": "replace"
   },
@@ -390,7 +390,7 @@
     "op": "replace"
   },
   {
-    "value": "Я поза зоною досяжності!",
+    "value": "Це просто недоступно!",
     "path": "/scriptConfig/dialog/cantReach/default/default/2",
     "op": "replace"
   },

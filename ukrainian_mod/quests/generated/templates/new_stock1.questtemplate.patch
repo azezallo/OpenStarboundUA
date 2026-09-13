@@ -1,46 +1,46 @@
 [
   {
-    "value": "Якась людина",
+    "value": "Перехожий",
     "path": "/parameters/target/example/name",
     "op": "replace"
   },
   {
-    "value": "темну, страшну печеру",
+    "value": "темну страшну печеру",
     "path": "/parameters/spawnPoint/example/name",
     "op": "replace"
   },
   {
-    "value": "<questGiver> розширює асортимент",
+    "value": "Торгівля <questGiver>",
     "path": "/scriptConfig/generatedText/title/default/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver> розширює магазин",
+    "value": "План поповнення запасів <questGiver>",
     "path": "/scriptConfig/generatedText/title/default/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран хоче, щоб його крамниця ссстала популярнішою. У флорана є план!",
+    "value": "^cyan;Флоран хоче зробити крамницю популярнішшшою, продаючи більше товарів. У Флорана є планссс!",
     "path": "/scriptConfig/generatedText/goalText/floran/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран хоче продавати більше різних речей! У флорана є план.",
+    "value": "^cyan;Крамниці Флорана потрібно більше речей на продажссс! У Флорана є план.",
     "path": "/scriptConfig/generatedText/goalText/floran/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Амбітно. Настав час вийти на великий ринок і розширити мій магазин!",
+    "value": "^cyan;Амбітність. Асортимент товарів у моєму магазині надто мізерний. Потрібно вжити заходів, щоб виправити це!",
     "path": "/scriptConfig/generatedText/goalText/glitch/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Стримано. Я б хотів<questGiver.pronoun.obj1end> зайняти вільні ніші ринку. Допоможеш?",
+    "value": "^cyan;Стриманість. Я хочу розширити асортимент роздрібної торгівлі, допоможеш мені?",
     "path": "/scriptConfig/generatedText/goalText/glitch/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Мій магазин міг би приносити більше прибутку, якби в мене було більше товарів.",
+    "value": "^cyan;Мій магазин став би популярнішим, якби в мене було більше товарів на продаж. У мене є план.",
     "path": "/scriptConfig/generatedText/goalText/default/0",
     "op": "replace"
   },
@@ -50,92 +50,92 @@
     "op": "replace"
   },
   {
-    "value": "Флоран чув, що тут ^orange;<spawnPoint>^white;<spawnPoint.direction> прибув<target.pronoun.obj1end> ^orange;<target>^white;, мандрівний торговець. <target.pronoun.capitalSubject> може надати непогані товари - ^green;віднеси <target.pronoun.object> ^white;[^orange;<tradedItems>^white;]. Нові товари підвищать популярність крамниці флорана.",
+    "value": "Флоран чув, що ^orange;<target>^white; — мандрівний торговець, і ^green;виміняє чудові товари в обмін на ^orange;<tradedItems>^white;. Будь лассска, ^green;віднеси це <target.pronoun.object>^white; на ^orange;<spawnPoint>^white;<spawnPoint.direction> і допоможи підвиссщити популярність крамниці Флорана.",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Мандрівний торговець прибув<target.pronoun.obj1end> ^orange;<spawnPoint>^white;<spawnPoint.direction>. Його звати ^orange;<target>^white;, і <target.pronoun.subject> може розширити асортимент магазину флорана. Твоє завдання - ^green;віднести ^white;[^orange;<tradedItems>^white;] йому.",
+    "value": "Мандрівний торговець прибув на ^orange;<spawnPoint>^white;<spawnPoint.direction>! ^orange;<target>^white; відомий обміном цінних товарів на ^orange;<tradedItems>^white;. Будь лассска, ^green;віднеси це <target.pronoun.object>^white;, щоб Флоран міг поповнити запассси у своїй крамниці.",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Схвильовано. Тут ^orange;<spawnPoint>^white;<spawnPoint.direction> прибув торговець і мій старий друг, ^orange;<target>^white;. Не маю сумнівів, <target.pronoun.subject> з радістю поповнить асортимент мого магазину - особливо, якщо задобрити <target.pronoun.reflexive> подарунками. Тобі треба ^green;віднести ^white;[^orange;<tradedItems>^white;] йому.",
+    "value": "Захоплення. Мій старий друг і колега-торговець ^orange;<target>^white; зараз на ^orange;<spawnPoint>^white;<spawnPoint.direction>. <target.pronoun.capitalSubject> завжди потребує товарів, тож ти зможеш ^green;обміняти ^orange;<tradedItems>^green; у <target.pronoun.object> на потрібні мені речі^white;.",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Невдоволено. У мого конкурента з роздрібної торгівлі на ім'я ^orange;<target>^white; завалявся товар, який стане в нагоді й мені. Особисто мені говорити з ним не личить, тому прошу, виміняй необхідні товари. Тримай [^orange;<tradedItems>^white;] для бартеру, <target> прибув<target.pronoun.obj1end> ^orange;<spawnPoint>^white;<spawnPoint.direction>.",
+    "value": "Невдоволення. Я чув<questGiver.pronoun.obj1end>, що мій торговий конкурент ^orange;<target>^white; має потрібні мені товари, але я не бажаю розмовляти з <target.pronoun.object>. Будь ласка, обміняй ^orange;<tradedItems>^white; у <target.pronoun.object> на ^orange;<spawnPoint>^white;<spawnPoint.direction> на необхідні мені речі.",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Мандрівний торговець <target> прибув<target.pronoun.obj1end> ^orange;<spawnPoint>^white;<spawnPoint.direction>. <target.pronoun.capitalSubject> погодив<target.pronoun.obj6end>ся надати товари в обмін на ^white;[^orange;<tradedItems>^white;]. Я не можу відлучатися з магазину надовго, тому чи не міг би ти ^green;провернути угоду^white;?",
+    "value": "Мандрівний торговець <target> щойно прибув<target.pronoun.obj1end> на ^orange;<spawnPoint>^white;<spawnPoint.direction>. <target.pronoun.capitalSubject> погодив<target.pronoun.obj6end>ся надати мені новий товар в обмін на ^orange;<tradedItems>^white;. Чи міг би ти ^green;віднести речі жителю ^orange;<target>^white;?",
     "path": "/scriptConfig/generatedText/text/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Вітаю! Нещодавно мандрівний торговець <target> прибув<target.pronoun.obj1end> ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;виміняти у нього товари, віддавши ^white;[^orange;<tradedItems>^white;]?",
+    "value": "Ідеальний час! Кажуть, що мандрівний торговець <target> щойно прибув<target.pronoun.obj1end> на ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи можеш ти ^green;знайти ^orange;<target>^green; та обміняти ^orange;<tradedItems>^green; на товари, які мені потрібні^white;?",
     "path": "/scriptConfig/generatedText/text/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Нарешті флоран може торгувати новими речами. Це обіцяє великі прибутки.",
+    "value": "Нарешті Флоран має <newItem> у запасссах. Флоран упевнений, що торгівля ссскоро розквітне!",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран радий, що сссписок його товарів поповнився. Покупці будуть у захваті!",
+    "value": "Флоран надзвичайно щасссливий нарешті продавати <newItem>. Покупці Флорана будуть у захваті!",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Чудово! Тепер у моєму списку є [<newItem>].",
+    "value": "Піднесення. Чудово! Тепер мої покупці можуть придбати <newItem>.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Вдячно. Завдяки тобі мої покупці зможуть придбати нові товари.",
+    "value": "Вдячність. Завдяки тобі мої покупці тепер можуть придбати собі <newItem> у мене в будь-який час.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Дякую! Якщо тобі теж знадобляться нові товари, заходь до мене!",
+    "value": "Дякую! Якщо тобі коли-небудь знадобиться новий <newItem>, у мене тепер їх повно в продажу!",
     "path": "/scriptConfig/generatedText/completionText/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Завдяки тобі мій асортимент поповнено - і він розлетиться, як гарячі пиріжки!",
+    "value": "Завдяки тобі в мене тепер є <newItem>! Мої покупці будуть дуже задоволені!",
     "path": "/scriptConfig/generatedText/completionText/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Я не зміг допомогти. Можливо, <questGiver> даремно намагається розширити свій магазин - у невеликих крамничках теж є свій шарм.",
+    "value": "Мені не вдалося допомогти жителю <questGiver> отримати новий товар для магазину. Мабуть, <questGiver.pronoun.capitalSubject> має достатньо й без того.",
     "path": "/scriptConfig/generatedText/failureText/default/0",
     "op": "replace"
   },
   {
-    "value": "Я не зміг допомогти. <questGiver> буде сам<questGiver.pronoun.obj1end> вести справи з мандрівними торговцями.",
+    "value": "Я не зміг допомогти жителю <questGiver> завершити угоду з тим мандрівним торговцем. Сподіваюся, справи в магазині не підуть на спад.",
     "path": "/scriptConfig/generatedText/failureText/default/1",
     "op": "replace"
   },
   {
-    "value": "Посилка",
+    "value": "Пакунок для <questGiver>",
     "path": "/scriptConfig/parcelName/0",
     "op": "replace"
   },
   {
-    "value": "Одержувач: <questGiver>. Мені не варто її відкривати.",
+    "value": "Він призначений для <questGiver>. Мені не варто його відкривати.",
     "path": "/scriptConfig/parcelDescription/0",
     "op": "replace"
   },
   {
-    "value": "Віднеси товари [<tradedItems>] торговцю <target>",
+    "value": "Віддай <tradedItems> <target>",
     "path": "/scriptConfig/objectives/0/text",
     "op": "replace"
   },
   {
-    "value": "Поверни посилку жителю <questGiver>",
+    "value": "Поверни пакунок до <questGiver>",
     "path": "/scriptConfig/objectives/1/text",
     "op": "replace"
   }

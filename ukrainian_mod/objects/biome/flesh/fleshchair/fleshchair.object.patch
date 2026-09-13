@@ -7,22 +7,22 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Флеш Стілець"
+    "value": "Стілець плоти"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "у мене немає слів"
+    "value": "У мене немає слів."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Яке мерзенне сидіння."
+    "value": "Яке мерзнє сидіння."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран не впевнений, чи йому слід сісти чи вбити."
+    "value": "Флоран не впевнений, чи йому слід сссидитися чи вбити."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Вульгарний."
+    "value": "Вульгарно."
   },
   {
     "op": "replace",

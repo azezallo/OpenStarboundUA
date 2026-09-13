@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Blueprint Blob"
+    "value": "Схема-блок"
   },
   {
     "op": "replace",
@@ -17,22 +17,22 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Усередині закладено якийсь план."
+    "value": "У середині захований який‑небудь план."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Це креслення всередині?"
+    "value": "Чи це креслення всередині?"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Цікаво. Здається, він містить план."
+    "value": "Цікаво. Виглядає, що містить план."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Всередині цієї речі є якийсь план!"
+    "value": "У цій речі знаходиться який‑небудь план!"
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ця річ точно не здається практичною."
+    "value": "Ця річ, напевно, не виглядає практичною."
   }
 ]

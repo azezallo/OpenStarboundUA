@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Стародавній Люк"
+    "value": "Старовинний люк"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Старовинні вертикальні двері."
+    "value": "Старовинна вертикальна двер'я"
   },
   {
     "op": "replace",
@@ -32,12 +32,12 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Люка для горизонтального руху просто недостатньо."
+    "value": "Люк для горизонтального переміщення просто недостатній."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Старовинний люк, сам по собі реліквія."
+    "value": "Старовинний люк, сам по собі релікт"
   },
   {
     "op": "replace",

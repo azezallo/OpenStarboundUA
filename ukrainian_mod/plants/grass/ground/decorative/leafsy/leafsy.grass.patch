@@ -5,17 +5,17 @@
     "op": "replace"
   },
   {
-    "value": "Листяна рослина",
+    "value": "Листяна рослина.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Флоран ховаєтьссся в цьому.",
+    "value": "Флоран ховаєтссся в цьому.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Листяна рослина.",
+    "value": "Заява. Листяна рослина.",
     "path": "/glitchDescription",
     "op": "replace"
   }

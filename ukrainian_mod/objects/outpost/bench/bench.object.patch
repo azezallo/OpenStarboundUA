@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Базова лава."
+    "value": "Проста лава."
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Звичайна лавка."
+    "value": "Звичайна лава."
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssseat."
+    "value": "Сссидіння."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Лава."
+    "value": "Байдужість. Лава."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Проста лавка."
+    "value": "Проста лава."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Просте місце для відпочинку втомлених ніг."
+    "value": "Файне місце, аби перепочити втомленим ногам."
   }
 ]

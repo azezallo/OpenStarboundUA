@@ -7,17 +7,17 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Натискна пластина Hunting"
+    "value": "Полювальна натискна пластина"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Якась натискна плита."
+    "value": "Якась натискна пластина."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Що станеться, якщо я встану на це?"
+    "value": "Що станеться, якщо я стану на це?"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Величезний натиск."
+    "value": "Величезна натискна пластина."
   },
   {
     "op": "replace",

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Потужне механічне тіло, кероване мережею синтетичної мозкової тканини."
+    "value": "Потужний корпус мега, керований мережею синтетичної мозкової тканини."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Exodus Mech Body"
+    "value": "Корпус мега Exodus"
   }
 ]

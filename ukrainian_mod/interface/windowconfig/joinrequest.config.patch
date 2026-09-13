@@ -27,6 +27,6 @@
   {
     "op": "replace",
     "path": "/paneLayout/ignore/caption",
-    "value": "Ігнор."
+    "value": "Ігнорувати"
   }
 ]

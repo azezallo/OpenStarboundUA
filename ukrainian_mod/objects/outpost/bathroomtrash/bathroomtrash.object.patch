@@ -2,37 +2,37 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "сміття. Просто сміття. Або це так? Відповідь: так."
+    "value": "Сміття. Просто сміття. Чи все ж ні? Відповідь: так."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Відро для сміття"
+    "value": "Смітник"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "День сміття!"
+    "value": "День вивезення сміття!"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "сміття."
+    "value": "Сміття."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Досить сміття."
+    "value": "Сссимпатичне сссміття."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Не вражений. сміття."
+    "value": "Зневага. Сміття."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Час виносити сміття!"
+    "value": "Час винести сміття!"
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це не що інше, як сміття."
+    "value": "Та це ж ніц, окрім сміття."
   }
 ]

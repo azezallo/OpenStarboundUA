@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Brown Chordopod"
+    "value": "Бурий хордопод"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Its stomach is constantly overflowing with venomous liquids. It can barely hold on to it."
+    "value": "Його шлунок постійно переповнений отруйними рідинами. Воно майже не може їх утримати."
   }
 ]

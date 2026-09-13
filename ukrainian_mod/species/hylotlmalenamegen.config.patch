@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/names/0/1/2",
-    "value": "AOI"
+    "value": "АОЙ"
   },
   {
     "op": "replace",
@@ -27,12 +27,12 @@
   {
     "op": "replace",
     "path": "/names/0/1/5",
-    "value": "DAICHI"
+    "value": "ДАЙЧІ"
   },
   {
     "op": "replace",
     "path": "/names/0/1/6",
-    "value": "DAIKI"
+    "value": "ДАЙКІ"
   },
   {
     "op": "replace",
@@ -62,7 +62,7 @@
   {
     "op": "replace",
     "path": "/names/0/1/12",
-    "value": "HARU"
+    "value": "ХАРУ"
   },
   {
     "op": "replace",
@@ -137,7 +137,7 @@
   {
     "op": "replace",
     "path": "/names/0/1/27",
-    "value": "ISAMU"
+    "value": "ІСАМУ"
   },
   {
     "op": "replace",
@@ -152,7 +152,7 @@
   {
     "op": "replace",
     "path": "/names/0/1/30",
-    "value": "JIROU"
+    "value": "ДЖІРОУ"
   },
   {
     "op": "replace",
@@ -207,7 +207,7 @@
   {
     "op": "replace",
     "path": "/names/0/1/41",
-    "value": "KAZUKI"
+    "value": "КАЗУКІ"
   },
   {
     "op": "replace",
@@ -262,7 +262,7 @@
   {
     "op": "replace",
     "path": "/names/0/1/52",
-    "value": "KOUKI"
+    "value": "КОУКІ"
   },
   {
     "op": "replace",
@@ -282,12 +282,12 @@
   {
     "op": "replace",
     "path": "/names/0/1/56",
-    "value": "KYO"
+    "value": "КЬО"
   },
   {
     "op": "replace",
     "path": "/names/0/1/57",
-    "value": "KYOU"
+    "value": "КЬОУ"
   },
   {
     "op": "replace",
@@ -342,7 +342,7 @@
   {
     "op": "replace",
     "path": "/names/0/1/68",
-    "value": "NORI"
+    "value": "НОРІ"
   },
   {
     "op": "replace",
@@ -352,7 +352,7 @@
   {
     "op": "replace",
     "path": "/names/0/1/70",
-    "value": "REN"
+    "value": "РЕН"
   },
   {
     "op": "replace",
@@ -377,12 +377,12 @@
   {
     "op": "replace",
     "path": "/names/0/1/75",
-    "value": "RYO"
+    "value": "РЬО"
   },
   {
     "op": "replace",
     "path": "/names/0/1/76",
-    "value": "RYOICHI"
+    "value": "РЬОІЧІ"
   },
   {
     "op": "replace",
@@ -392,12 +392,12 @@
   {
     "op": "replace",
     "path": "/names/0/1/78",
-    "value": "RYOU"
+    "value": "РЬОУ"
   },
   {
     "op": "replace",
     "path": "/names/0/1/79",
-    "value": "RYOUICHI"
+    "value": "РЬОУІЧІ"
   },
   {
     "op": "replace",
@@ -422,7 +422,7 @@
   {
     "op": "replace",
     "path": "/names/0/1/84",
-    "value": "САБУРУ"
+    "value": "САБУРОУ"
   },
   {
     "op": "replace",
@@ -437,7 +437,7 @@
   {
     "op": "replace",
     "path": "/names/0/1/87",
-    "value": "ГОМІЛКА"
+    "value": "ШІН"
   },
   {
     "op": "replace",
@@ -457,7 +457,7 @@
   {
     "op": "replace",
     "path": "/names/0/1/91",
-    "value": "ШИРО"
+    "value": "ШИРОУ"
   },
   {
     "op": "replace",
@@ -477,12 +477,12 @@
   {
     "op": "replace",
     "path": "/names/0/1/95",
-    "value": "ШУТА"
+    "value": "ШОУТА"
   },
   {
     "op": "replace",
     "path": "/names/0/1/96",
-    "value": "УНИКАЙТЕСЯ"
+    "value": "ШУН"
   },
   {
     "op": "replace",
@@ -497,17 +497,17 @@
   {
     "op": "replace",
     "path": "/names/0/1/99",
-    "value": "СУМА"
+    "value": "СОУМА"
   },
   {
     "op": "replace",
     "path": "/names/0/1/100",
-    "value": "СУТА"
+    "value": "СОУТА"
   },
   {
     "op": "replace",
     "path": "/names/0/1/101",
-    "value": "SUSUMU"
+    "value": "СУСУМУ"
   },
   {
     "op": "replace",
@@ -557,7 +557,7 @@
   {
     "op": "replace",
     "path": "/names/0/1/111",
-    "value": "ТАРУ"
+    "value": "ТАРОУ"
   },
   {
     "op": "replace",
@@ -587,17 +587,17 @@
   {
     "op": "replace",
     "path": "/names/0/1/117",
-    "value": "Йошіро"
+    "value": "ЙОШІРО"
   },
   {
     "op": "replace",
     "path": "/names/0/1/118",
-    "value": "ЙОСІРО"
+    "value": "ЙОШІРОУ"
   },
   {
     "op": "replace",
     "path": "/names/0/1/119",
-    "value": "YOUTA"
+    "value": "ЙОУТА"
   },
   {
     "op": "replace",
@@ -607,7 +607,7 @@
   {
     "op": "replace",
     "path": "/names/0/1/121",
-    "value": "YUU"
+    "value": "ЮУ"
   },
   {
     "op": "replace",

@@ -1,6 +1,6 @@
 [
   {
-    "value": "Крижані шипи, що звисають.",
+    "value": "Крижані шипи, що звисають",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Крижані шипи.",
+    "value": "Крижані шипи",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Крижані шипи, що звисають.",
+    "value": "Ствердження. Крижані шипи, що звисають",
     "path": "/glitchDescription",
     "op": "replace"
   }

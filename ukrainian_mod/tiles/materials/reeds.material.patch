@@ -1,26 +1,26 @@
 [
   {
-    "value": "Штормовий",
+    "value": "Блок із щільно сплетеного очерету",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Планетарний",
+    "value": "Блок із сплетеного очерету",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Ідеальний",
+    "value": "Вражений. Ці щільно сплетені очерети створюють міцні блоки",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Душевний",
+    "value": "Флоран любить ссильні очерети",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Сердечний",
+    "value": "Деякі очерети, що сплітено разом",
     "path": "/novakidDescription",
     "op": "replace"
   }

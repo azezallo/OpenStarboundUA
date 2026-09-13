@@ -1,26 +1,26 @@
 [
   {
-    "value": "Блок огидної спотвореної землі.",
+    "value": "Огидний блок зіпсованого бруду.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Спотворена земля",
+    "value": "Зіпсований бруд",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Гидливо. Ця земля спотворена.",
+    "value": "Огідно. Цей бруд зіпсований.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Огидна ссспотворена ззземля.",
+    "value": "Огидний зіпсований бруд.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Не дуже приємна спотворена земля.",
+    "value": "Цей зіпсований бруд не надто приємний.",
     "path": "/novakidDescription",
     "op": "replace"
   }

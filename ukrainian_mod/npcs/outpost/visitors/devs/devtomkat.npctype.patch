@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/identity/name",
-    "value": "Tom"
+    "value": "Том"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Hi! I'm Tom. I'm working on cataloguing the entire Universe! I'm quite the Starbounder."
+    "value": "Привіт! Я Том. Я займаюсь каталогізуванням усього Всесвіту! Я справжній Старбандер."
   }
 ]

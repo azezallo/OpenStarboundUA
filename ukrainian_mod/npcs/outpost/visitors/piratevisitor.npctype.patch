@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Yo-ho-ho, it's the Grounded life for me!"
+    "value": "Йо-хо-хо, ось тобі і життя приземленого!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "I joined an airship crew when I stopped believing in Kluex. Happy days riding the wind."
+    "value": "Я приєднався до екіпажу корабля, коли втратив віру в Клуекса. Щасливі дні підкорення вітру."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
-    "value": "Fresh air and freedom, that's the life for me!"
+    "value": "Свіже повітря та воля - файно, от таке життя для легіня!"
   }
 ]

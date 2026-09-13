@@ -7,21 +7,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Платформа, висічена з каменю."
+    "value": "Платформа, висічена з каменю"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Impressed. This platform has been carved from solid stone."
+    "value": "Вражений. Ця платформа була вирізана з твердого каменю."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Камінь, висічений на платформах."
+    "value": "Камінь, вирізаний у платформах"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Must've taken forever to carve these stone platforms."
+    "value": "Мабуть, знадобилася ціла вічність, щоб вирізати ці кам’яні платформи."
   }
 ]

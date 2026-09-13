@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Здається, ці жуки піднімаються з хмари попелу."
+    "value": "Здається, ніби ці жуки здіймаються з хмар попелу."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ешшпрайт"
+    "value": "Попелянка"
   }
 ]

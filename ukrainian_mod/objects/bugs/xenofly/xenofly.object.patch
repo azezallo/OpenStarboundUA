@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "У цього хлопця маленьке моторошне обличчя."
+    "value": "У цього малюка моторошна крихітна мордочка."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ксенофіл"
+    "value": "Ксеномуха"
   }
 ]

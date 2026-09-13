@@ -17,11 +17,11 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Ssimple bricksss."
+    "value": "Простий цегляний блок"
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Гарна на вигляд цегляна кладка."
+    "value": "Гарна на вигляд цегляна кладка"
   }
 ]

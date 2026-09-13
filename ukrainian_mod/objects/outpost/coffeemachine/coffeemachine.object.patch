@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Кавоварка для ідеального прийому їжі."
+    "value": "Кавоварка, щоби чудово підбадьоритися."
   },
   {
     "op": "replace",
@@ -12,32 +12,32 @@
   {
     "op": "replace",
     "path": "/subtitle",
-    "value": "Чашка хороших речей"
+    "value": "Чашка доброго напою"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Ця машина виробляє чорну гірку рідину."
+    "value": "Ця машина варить чорну гірку рідину."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Мені подобається цей запах."
+    "value": "Мені подобається, як це пахне."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Смердючий автомат для напоїв."
+    "value": "Апарат для ссмердючих напоїв."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Кавоварка."
+    "value": "Байдужість. Кавоварка."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "До біса чудова кава."
+    "value": "До біса добра кава."
   },
   {
     "op": "replace",
@@ -47,6 +47,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Чорний, без молока, без цукру. Не проти, якщо я це зроблю!"
+    "value": "Чорна, без молока й цукру. Залюбки хильну!"
   }
 ]

@@ -25,7 +25,7 @@
     "op": "replace"
   },
   {
-    "value": "Мої знахідки щодо <prev.coordinate.name> змусили мене повірити, що <bounty.name> знаходиться на <coordinate.name>.",
+    "value": "Мої знахідки <prev.coordinate.preposition> <prev.coordinate.name> дають підстави вважати, що <bounty.name> перебуває <coordinate.preposition> <coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/prev/0",
     "op": "replace"
   },
@@ -35,7 +35,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти усунув <bounty.name>? Відмінна робота, напарнику! Всесвіт став трохи безпечнішим.\n\nЗайди до офісу миротворців наступного разу, коли будеш на Аванпості, щоб отримати свої нагороди!",
+    "value": "Ти усунув <bounty.name>? Відмінна робота, напарнику! Всесвіт став трохи безпечнішим.\n\nЗайди до офісу Миротворців наступного разу, коли будеш на Форпості, щоб отримати свої нагороди!",
     "path": "/scriptConfig/generatedText/complete/default/0",
     "op": "replace"
   }

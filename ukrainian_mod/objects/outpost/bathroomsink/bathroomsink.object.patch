@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Раковина для ванної кімнати. Мийте руки!"
+    "value": "Умивальник для вбиральні. Мийте руки!"
   },
   {
     "op": "replace",
@@ -12,36 +12,36 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Базова раковина."
+    "value": "Звичайний умивальник."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Раковина."
+    "value": "Умивальник."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Бризкий ссссінк."
+    "value": "Хлюпссський умивальник."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Раковина."
+    "value": "Нейтральність. Умивальник."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Раковина. Може, мені варто помити руки..."
+    "value": "Умивальник. Може, варто помити руки..."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Занадто малий, щоб у ньому плавати."
+    "value": "Замалий, щоб у ньому поплавати."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Звичайна стара раковина."
+    "value": "Звичайнісінький собі умивальник, файно є."
   }
 ]

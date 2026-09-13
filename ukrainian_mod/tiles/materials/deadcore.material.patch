@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "The superdense core of a dead planet. Nearly unbreakable."
+    "value": "Суперщільне ядро мертвого планети. Майже непорушне."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Dead Core Block"
+    "value": "Блок мертвого ядра"
   }
 ]

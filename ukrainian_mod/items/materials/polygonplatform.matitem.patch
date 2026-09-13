@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "зацікавлений. Платформа з \"Hard Light\"."
+    "value": "Зацікавлений. Платформа з \"Hard Light\"."
   },
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Ця платформа повна енергії."
+    "value": "Ця платформа гудить із енергії."
   }
 ]

@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Мозок у банці, мріяти."
+    "value": "Мозок у банці, що замріяно марить."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Мозок в банку"
+    "value": "Мозок у банці"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Це головний мозок..."
+    "value": "Це мозок апекса..."
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Соковитий маринований мозок."
+    "value": "Сссоковитий маринований мозок."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "ревнивий. Справжній мозок.."
+    "value": "Заздрість. Справжній мозок..."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Глупота, вірити, що розум можна замкнути в банку."
+    "value": "Безглуздя — вірити, що розум можна замкнути в банці."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Мозок у банці? Мені це неприємно."
+    "value": "Мозок у банці? Мені від такого геть не файно."
   }
 ]

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Старовинна аркадна машина. Цей грає в «Super Tralgar Blaster 2»."
+    "value": "Старомодна аркадна машина. Вона запускає гру «Super Tralgar Blaster 2»"
   },
   {
     "op": "replace",
@@ -12,36 +12,36 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Це симулятор космічного бою під назвою Super Tralgar Blaster 2. Я радий, що ніколи не стикався зі справжнім боєм на кораблі."
+    "value": "Це симулятор космічного бою під назвою Super Tralgar Blaster 2. Я радий, що ніколи не стикався зі справжнім боєм на кораблі"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Super Tralgar Blaster 2 — це війна між зірками."
+    "value": "Super Tralgar Blaster 2 — це про ведення війни між зірками"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Лавка лавка! Флоран збиває всі кораблі в Super Tralgar Blassster 2."
+    "value": "Лавка лавка! Флорани збивають усі кораблі у Super Tralgar Blaster 2"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Цікаво. Гравець із Super Tralgar Blaster 2, який набрав найвищий бал, має ініціали «CF»."
+    "value": "Цікаво. Гравець із Super Tralgar Blaster 2, який набрав найвищий бал, має ініціали «CF»"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Super Tralgar Blaster 2! Це класична гра bullet hell. Я радий, що мені ніколи не доведеться стріляти в інші кораблі в реальному житті!"
+    "value": "Super Tralgar Blaster 2! Це класична гра bullet hell. Я радий, що мені ніколи не доведеться стріляти в інші кораблі в реальному житті"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "У Super Tralgar Blaster 2 ви пробиєте собі шлях крізь астероїди та ворожі кораблі, щоб вижити. Це лякає."
+    "value": "У Super Tralgar Blaster 2 ви пробиєте собі шлях крізь астероїди та ворожі кораблі, щоб вижити. Це лякає"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це гра під назвою Super Tralgar Blaster 2. Нічого схожого на старомодний космічний перестріл."
+    "value": "Це гра під назвою Super Tralgar Blaster 2. Нічого схожого на старомодний космічний перестріл"
   }
 ]

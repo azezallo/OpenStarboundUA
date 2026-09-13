@@ -1,46 +1,46 @@
 [
   {
-    "value": "Деревина, підготовлена для будівництва та крафту.",
+    "value": "Дерево, що підготовлено для будівництва і ремесла.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Дошки",
+    "value": "Пиломатеріали",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Трохи дощок з дерева.",
+    "value": "Декілька виготовлених дерев'яних дошок",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "Колоди, розпиляні на дошки.",
+    "value": "Дерево, яке було оброблено на дошки",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "Задоволення. Хороші дошки з дерева.",
+    "value": "Задоволений. Це добре оброблені дерев'яні дошки",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Порубані доссшки.",
+    "value": "Порізані дерев'яні дошки",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Звичайні дошки, виготовлені з колод.",
+    "value": "Деякі прості дерев'яні дошки",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "Звичайні дошки, проста краса яких навіює спокій.",
+    "value": "Основні дерев'яні дошки",
     "path": "/hylotlDescription",
     "op": "replace"
   },
   {
-    "value": "Самі звичайнісінькі дошки, нічого зайвого.",
+    "value": "Лише кілька простих дерев'яних дошок",
     "path": "/novakidDescription",
     "op": "replace"
   }

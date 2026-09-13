@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Twigun"
+    "value": "Твіган"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "A mass-produced autonomous defense turret. It tries very hard not to miss."
+    "value": "Масово вироблена автономна оборонна турель. Вона дуже старається не промахнутися."
   }
 ]

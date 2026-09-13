@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Цей фасон штанів часто носять дворяни Glitch."
+    "value": "Цей фасон штанів часто носять дворяни Глітчі."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Шляхетні Штани"
+    "value": "Дворянські штани"
   }
 ]

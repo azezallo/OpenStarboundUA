@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Бульбашковий пістолет! Він пускає бульбашки! Wheeee!"
+    "value": "Бульбашковий пістолет! Він випускає бульбашки! Wheeee!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Bubble Blaster"
+    "value": "Бульбашковий бластер"
   }
 ]

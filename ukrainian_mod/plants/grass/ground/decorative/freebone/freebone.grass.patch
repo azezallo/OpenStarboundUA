@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Кістка якоїсь невідомої істоти."
+    "value": "Кістка незнайомої істоти."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Кістка."
+    "value": "Кістка"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран, швидше за все, вб'є це."
+    "value": "Ссшвидше за все, Флоран знищить це."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Давно мертва кістка."
+    "value": "Ствердно. Давня кістка."
   }
 ]

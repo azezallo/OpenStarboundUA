@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Смоляні двері."
+    "value": "Тарова двер'я."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Смоляні двері"
+    "value": "Смоляна двер'я"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Просто двері, тільки з дьогтю."
+    "value": "Просто двер'я, лише зроблене зі смоли."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Звичайні на вигляд двері, але справжній подвиг tar інженерії."
+    "value": "Двері, що виглядають звичайно, але це справжній подвиг смолної інженерії."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssticky і sssslow відкривається. Нічого доброго."
+    "value": "Sssticky і sssslow відкриваються. Нічого доброго."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "несхвально. Двері з дьогтю могли застрягти будь-якої миті."
+    "value": "Незгідно. Двері зі смолою можуть застрягти в будь‑ка миті."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Досить міцний для гудронних дверей."
+    "value": "Досить міцний для тарової двері."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Каскад дьогтю сформований у двері."
+    "value": "Каскад смоли утворився в дверях."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Здається, двері з висохлої смоли. Але він все одно досить липкий."
+    "value": "Здається, це двер'я зі стиснутою смолою. Але вона все одно досить липка."
   }
 ]

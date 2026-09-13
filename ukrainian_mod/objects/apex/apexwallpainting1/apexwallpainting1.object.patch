@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Що це ОЗНАЧАЄ?"
+    "value": "Що це означає?"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Господи, це мистецтво старомодне."
+    "value": "Господи, це мистецтво старомодно."
   },
   {
     "op": "replace",

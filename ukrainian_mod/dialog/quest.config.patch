@@ -52,12 +52,12 @@
   {
     "op": "replace",
     "path": "/intimidate/intimidated/avian/default/0",
-    "value": "Не робіть мені боляче цим <item>! Скажіть <questGiver>, я зроблю що завгодно! Заради Клуекса!"
+    "value": "Не роби мені боляче цим <item>! Скажи <questGiver>, що я зроблю що завгодно!"
   },
   {
     "op": "replace",
     "path": "/intimidate/intimidated/floran/default/0",
-    "value": "Не роби Флорану боляче за допомогою <item>! Скажи <questGiver>, Флоран буде ссслухатися!"
+    "value": "Не роби Флорану боляче з <item>! Скажи <questGiver>, Флоран буде ссслухатися!"
   },
   {
     "op": "replace",
@@ -67,7 +67,7 @@
   {
     "op": "replace",
     "path": "/intimidate/intimidated/hylotl/default/0",
-    "value": "Не завдавайте мені болю цим <item>! Скажіть <questGiver>, що я зроблю все!"
+    "value": "Не роби мені боляче цим <item>! Скажи <questGiver>, що я зроблю що завгодно!"
   },
   {
     "op": "replace",
@@ -107,12 +107,12 @@
   {
     "op": "replace",
     "path": "/intimidate/notIntimidated/floran/default/0",
-    "value": "Флоран не боїтьсся <questGiver>!"
+    "value": "Флоран не боїться <questGiver>!"
   },
   {
     "op": "replace",
     "path": "/intimidate/notIntimidated/floran/default/1",
-    "value": "Флоран не боїтьсся тебе, чи <questGiver>!"
+    "value": "Флоран не боїться тебе, чи <questGiver>!"
   },
   {
     "op": "replace",
@@ -132,7 +132,7 @@
   {
     "op": "replace",
     "path": "/intimidate/notIntimidated/hylotl/default/1",
-    "value": "З якої речі я повинен робити те, що бажає <questGiver>?"
+    "value": "Чому я маю робити те, що хоче <questGiver>?"
   },
   {
     "op": "replace",
@@ -177,12 +177,12 @@
   {
     "op": "replace",
     "path": "/bribe/giftAccepted/floran/default/0",
-    "value": "Флоран не проти хабарів. Ссскажи дякую <questGiver>!"
+    "value": "Флоран не проти хабарів. Сскажи дякую <questGiver>!"
   },
   {
     "op": "replace",
     "path": "/bribe/giftAccepted/floran/default/1",
-    "value": "Флоран любить хабарі! Ссскажи дякую <questGiver>."
+    "value": "Флоран любить хабарі! Сскажи дякую <questGiver>."
   },
   {
     "op": "replace",
@@ -227,7 +227,7 @@
   {
     "op": "replace",
     "path": "/bribe/giftAccepted2/floran/default/0",
-    "value": "Флоран думає, що <questGiver> хочессс..."
+    "value": "Флоран думає, що <questGiver> хоче..."
   },
   {
     "op": "replace",
@@ -542,7 +542,7 @@
   {
     "op": "replace",
     "path": "/gift/requestAdditionToHouse/novakid/default/1",
-    "value": "Йо, який файний дарунок! Чи не міг би ти покласти його в моїй хаті, леґінь?"
+    "value": "Який файний жест! Можеш покласти це в моїй хаті?"
   },
   {
     "op": "replace",
@@ -642,12 +642,12 @@
   {
     "op": "replace",
     "path": "/collect_fine/fineCollected/floran/default/0",
-    "value": "Флорана спіймали, тттому Флоран сссплатить штраф."
+    "value": "Флоран спіймали, тому Флоран ссплатить штраф."
   },
   {
     "op": "replace",
     "path": "/collect_fine/fineCollected/floran/default/1",
-    "value": "Ти ссспіймав Флорана! Флоран вражений, ось штраф."
+    "value": "Ти спіймав Флоран! Флоран вражений, ось штраф."
   },
   {
     "op": "replace",
@@ -842,7 +842,7 @@
   {
     "op": "replace",
     "path": "/borrow/giftProvided/human/default/1",
-    "value": "Звісно, я можу позичити <questGiver> свою <item>. "
+    "value": "Звісно, я можу позичити <questGiver> свою <item>."
   },
   {
     "op": "replace",
@@ -992,7 +992,7 @@
   {
     "op": "replace",
     "path": "/hat/crafting/human/default/1",
-    "value": "Ти приніс матеріали? Чудово, зачекай тоді хвилину... "
+    "value": "Ти приніс матеріали? Чудово, зачекай тоді хвилину..."
   },
   {
     "op": "replace",
@@ -1142,7 +1142,7 @@
   {
     "op": "replace",
     "path": "/helmet/crafting/human/default/1",
-    "value": "Ти приніс матеріали? Чудово, зачекай тоді хвилину... "
+    "value": "Ти приніс матеріали? Чудово, зачекай тоді хвилину..."
   },
   {
     "op": "replace",
@@ -1367,7 +1367,7 @@
   {
     "op": "replace",
     "path": "/kidnapping/kidnappersDead/floran/default/1",
-    "value": "Флоран міг би виграти бій, якби у Флорана був ссспис, але Флоран всссе одно цінує допомогу."
+    "value": "Флоран міг би виграти бій, якби у Флорана був сспіс, але Флоран весь одно цінує допомогу."
   },
   {
     "op": "replace",
@@ -1442,12 +1442,12 @@
   {
     "op": "replace",
     "path": "/kidnapping/followHome/floran/default/0",
-    "value": "Флоран не хоче бути сссам. Можеш відвести Флорана додому до <questGiver>?"
+    "value": "Флоран не хоче бути сам. Можеш відвести Флоран додому до <questGiver>?"
   },
   {
     "op": "replace",
     "path": "/kidnapping/followHome/floran/default/1",
-    "value": "Можеш відвести Флорана додому до <questGiver>? Флоран не почуваєтьсся в безпеці."
+    "value": "Можеш відвести Флоран додому до <questGiver>? Флоран не почувається в безпеці."
   },
   {
     "op": "replace",

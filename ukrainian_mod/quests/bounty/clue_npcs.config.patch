@@ -35,7 +35,7 @@
     "op": "replace"
   },
   {
-    "value": "Наші сканеры показують, що ^orange;Данталіон^reset; - це величезний космічний корабель. Ось воно, напарнику! Велика справа!",
+    "value": "Наші сканери показують, що ^orange;Данталіон^reset; - це величезний космічний корабель. Ось воно, напарнику! Велика справа!",
     "path": "/cultist2/clues/cultistClue2/message",
     "op": "replace"
   },
@@ -55,7 +55,7 @@
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/default/default/3",
     "op": "replace"
   },
@@ -75,17 +75,17 @@
     "op": "replace"
   },
   {
-    "value": "Ти ніколи не пошиєш мене в дурні! Я не зраджу <bounty.name>!",
+    "value": "Ти ніколи не зробиш з мене мавпу! Я не зраджу <bounty.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/apex/default/2",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/apex/default/3",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не здамся! <bounty.name> покладається на мене!",
+    "value": "Я ніколи не здамся! <bounty.name> розраховує на мене!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/apex/default/4",
     "op": "replace"
   },
@@ -105,7 +105,7 @@
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/avian/default/3",
     "op": "replace"
   },
@@ -115,7 +115,7 @@
     "op": "replace"
   },
   {
-    "value": "Не гай часу - я ніколи не скажу тобі, де знаходиться <bounty.name>!",
+    "value": "Не марнуй свій час - я ніколи не скажу тобі, де знаходиться <bounty.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/hylotl/default/0",
     "op": "replace"
   },
@@ -125,12 +125,12 @@
     "op": "replace"
   },
   {
-    "value": "Я Гілотл честі! Я ніколи не зраджу <bounty.name>!",
+    "value": "Я хайлотл честі! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/hylotl/default/2",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/hylotl/default/3",
     "op": "replace"
   },
@@ -140,72 +140,72 @@
     "op": "replace"
   },
   {
-    "value": "Флоран не зрадить <bounty.name>!",
+    "value": "Флоран не зссрадить <bounty.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран вірний <bounty.name>!",
+    "value": "Флоран відданийссс <bounty.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран не скаже тобі, де знаходиться <bounty.name>!",
+    "value": "Флоран не ссскаже тобі, де знаходитьссся <bounty.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Флоран працює на <bounty.name>! Флоран вірний!",
+    "value": "Флоран працює на <bounty.name>! Флоран відданийссс!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/floran/default/3",
     "op": "replace"
   },
   {
-    "value": "Зухвало. Я ніколи не скажу тобі, де знаходиться <bounty.name>!",
+    "value": "Зухвалість. Я ніколи не скажу тобі, де знаходиться <bounty.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Хоробро. Ти нічого від мене не отримаєш!",
+    "value": "Хоробрість. Ти нічого від мене не отримаєш!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Зухвало. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Зухвалість. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Віддано. Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Відданість. Я ніколи не видам місцезнаходження <bounty.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Віддано. Тобі не змусити мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Відданість. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/glitch/default/4",
     "op": "replace"
   },
   {
-    "value": "Я не скажу тобі, де знаходиться <bounty.name>!",
+    "value": "Я не скажу тобі, де є <bounty.name>, файно!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти нічого від мене не отримаєш!",
+    "value": "Ти нічого від мене не отримаєш, файно!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Тобі не змусити мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Тобі не змусити мене говорити, йо! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/novakid/default/2",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/novakid/default/3",
     "op": "replace"
   },
   {
-    "value": "Тобі не дістатися до <bounty.name>!",
+    "value": "Тобі не дістатися до <bounty.name>, файно!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateStart/novakid/default/4",
     "op": "replace"
   },
@@ -215,12 +215,12 @@
     "op": "replace"
   },
   {
-    "value": "Добре, добре, я буду говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Добре, добре, я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Я передумал, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Я передумав, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/default/default/2",
     "op": "replace"
   },
@@ -230,22 +230,22 @@
     "op": "replace"
   },
   {
-    "value": "Гаразд, ти мене підловив! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Гаразд, ти мене дістав! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/apex/default/1",
     "op": "replace"
   },
   {
-    "value": "Я передумав - я розколюся! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Я передумав - я зізнаюся! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/apex/default/2",
     "op": "replace"
   },
   {
-    "value": "Я знаю, коли мене переможено! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Я знаю, коли мене перемогли! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/avian/default/0",
     "op": "replace"
   },
   {
-    "value": "Не надимай моє пір'я - я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Не настовбурчуй моє пір'я - я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/avian/default/1",
     "op": "replace"
   },
@@ -260,7 +260,7 @@
     "op": "replace"
   },
   {
-    "value": "Добре, добре, я буду говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Добре, добре, я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/hylotl/default/1",
     "op": "replace"
   },
@@ -270,42 +270,42 @@
     "op": "replace"
   },
   {
-    "value": "Флоран розкаже! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Флоран розссскаже! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран розколеться! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Флоран зізнаєтьссся! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран передумав! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Флоран передумавссс! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Налякано. Гаразд, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Заляканість. Гаразд, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Виснажено. Добре, добре, я буду говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Виснаження. Добре, добре, я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Переможено. Я передумав, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Поразка. Я передумав, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Добре, у мене немає іншого вибору, окрім як розколотися! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Добре, легіню, нема ради, мушу розколотися! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Дідько! Як я міг дозволити собі так попастися? Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Хай йому грець! І як це я дав упіймати себе отак, файно? Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetBounty/dialog/interrogateEnd/novakid/default/1",
     "op": "replace"
   },
@@ -335,7 +335,7 @@
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/default/default/3",
     "op": "replace"
   },
@@ -355,17 +355,17 @@
     "op": "replace"
   },
   {
-    "value": "Ти ніколи не пошиєш мене в дурні! Я не зраджу <bounty.name>!",
+    "value": "Ти ніколи не зробиш з мене мавпу! Я не зраджу <bounty.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/apex/default/2",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/apex/default/3",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не здамся! <bounty.name> покладається на мене!",
+    "value": "Я ніколи не здамся! <bounty.name> розраховує на мене!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/apex/default/4",
     "op": "replace"
   },
@@ -385,7 +385,7 @@
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/avian/default/3",
     "op": "replace"
   },
@@ -395,7 +395,7 @@
     "op": "replace"
   },
   {
-    "value": "Не гай часу - я ніколи не скажу тобі, де знаходиться <bounty.name>!",
+    "value": "Не марнуй свій час - я ніколи не скажу тобі, де знаходиться <bounty.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/hylotl/default/0",
     "op": "replace"
   },
@@ -405,12 +405,12 @@
     "op": "replace"
   },
   {
-    "value": "Я Гілотл честі! Я ніколи не зраджу <bounty.name>!",
+    "value": "Я хайлотл честі! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/hylotl/default/2",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/hylotl/default/3",
     "op": "replace"
   },
@@ -420,72 +420,72 @@
     "op": "replace"
   },
   {
-    "value": "Флоран не зрадить <bounty.name>!",
+    "value": "Флоран не зссрадить <bounty.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран вірний <bounty.name>!",
+    "value": "Флоран відданийссс <bounty.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран не скаже тобі, де знаходиться <bounty.name>!",
+    "value": "Флоран не ссскаже тобі, де знаходитьссся <bounty.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Флоран працює на <bounty.name>! Флоран вірний!",
+    "value": "Флоран працює на <bounty.name>! Флоран відданийссс!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/floran/default/3",
     "op": "replace"
   },
   {
-    "value": "Зухвало. Я ніколи не скажу тобі, де знаходиться <bounty.name>!",
+    "value": "Зухвалість. Я ніколи не скажу тобі, де знаходиться <bounty.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Хоробро. Ти нічого від мене не отримаєш!",
+    "value": "Хоробрість. Ти нічого від мене не отримаєш!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Зухвало. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Зухвалість. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Віддано. Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Відданість. Я ніколи не видам місцезнаходження <bounty.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Віддано. Тобі не змусити мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Відданість. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/glitch/default/4",
     "op": "replace"
   },
   {
-    "value": "Я не скажу тобі, де знаходиться <bounty.name>!",
+    "value": "Я не скажу тобі, де є <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти нічого від мене не отримаєш!",
+    "value": "Ти нічого від мене не отримаєш, файно!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Тобі не змусити мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Тобі не змусити мене говорити, йо! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/novakid/default/2",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/novakid/default/3",
     "op": "replace"
   },
   {
-    "value": "Тобі не дістатися до <bounty.name>!",
+    "value": "Тобі не дістатися до <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateStart/novakid/default/4",
     "op": "replace"
   },
@@ -495,12 +495,12 @@
     "op": "replace"
   },
   {
-    "value": "Добре, добре, я буду говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Добре, добре, я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Я передумал, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Я передумав, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/default/default/2",
     "op": "replace"
   },
@@ -510,27 +510,27 @@
     "op": "replace"
   },
   {
-    "value": "Гаразд, ти мене підловив! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Гаразд, ти мене дістав! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/apex/default/1",
     "op": "replace"
   },
   {
-    "value": "Я передумав - я розколюся! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Я передумав - я зізнаюся! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/apex/default/2",
     "op": "replace"
   },
   {
-    "value": "Я знаю, коли мене переможено! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Я знаю, коли мене перемогли! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/avian/default/0",
     "op": "replace"
   },
   {
-    "value": "Не надимай моє пір'я - я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Не настовбурчуй моє пір'я - я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/avian/default/1",
     "op": "replace"
   },
   {
-    "value": "Я передумал, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Я передумав, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/avian/default/2",
     "op": "replace"
   },
@@ -540,7 +540,7 @@
     "op": "replace"
   },
   {
-    "value": "Добре, добре, я буду говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Добре, добре, я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/hylotl/default/1",
     "op": "replace"
   },
@@ -550,47 +550,47 @@
     "op": "replace"
   },
   {
-    "value": "Флоран розкаже! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Флоран розссскаже! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран розколеться! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Флоран зізнаєтьссся! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран передумав! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Флоран передумавссс! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Налякано. Гаразд, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Заляканість. Гаразд, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Виснажено. Добре, добре, я буду говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Виснаження. Добре, добре, я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Переможено. Я передумав, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Поразка. Я передумав, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Добре, у мене немає іншого вибору, окрім як розколотися! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Добре, легіню, нема ради, мушу розколотися! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Дідько! Як я міг дозволити собі так попастися? Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Хай йому грець! І як це я дав упіймати себе отак, файно? Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Я передумал, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Я передумав, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceBounty/dialog/interrogateEnd/novakid/default/2",
     "op": "replace"
   },
@@ -615,7 +615,7 @@
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/default/default/3",
     "op": "replace"
   },
@@ -640,7 +640,7 @@
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/apex/default/3",
     "op": "replace"
   },
@@ -665,12 +665,12 @@
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/avian/default/3",
     "op": "replace"
   },
   {
-    "value": "Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Тобі не змусити мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/avian/default/4",
     "op": "replace"
   },
@@ -685,12 +685,12 @@
     "op": "replace"
   },
   {
-    "value": "Я Гілотл честі! Я ніколи не зраджу <bounty.name>!",
+    "value": "Я хайлотл честі! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/hylotl/default/2",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/hylotl/default/3",
     "op": "replace"
   },
@@ -700,72 +700,72 @@
     "op": "replace"
   },
   {
-    "value": "Флоран не зрадить <bounty.name>!",
+    "value": "Флоран не зссрадить <bounty.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран відданий <bounty.name>!",
+    "value": "Флоран відданийссс <bounty.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран не скаже тобі, де знаходитьссся <bounty.name>!",
+    "value": "Флоран не ссскаже тобі, де знаходитьссся <bounty.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Флоран працює на <bounty.name>! Флоран відданий!",
+    "value": "Флоран працює на <bounty.name>! Флоран відданийссс!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/floran/default/3",
     "op": "replace"
   },
   {
-    "value": "Зухвало. Я ніколи не скажу тобі, де знаходиться <bounty.name>!",
+    "value": "Зухвалість. Я ніколи не скажу тобі, де знаходиться <bounty.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Хоробро. Ти нічого від мене не отримаєш!",
+    "value": "Хоробрість. Ти нічого від мене не отримаєш!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Зухвало. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Зухвалість. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Віддано. Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Відданість. Я ніколи не видам місцезнаходження <bounty.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Віддано. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Відданість. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/glitch/default/4",
     "op": "replace"
   },
   {
-    "value": "Я не скажу тобі, де знаходиться <bounty.name>!",
+    "value": "Я не скажу тобі, де є <bounty.name>, файно!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти від мене нічого не отримаєш!",
+    "value": "Ти нічого від мене не отримаєш, файно!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Тобі не змусити мене говорити, йо! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/novakid/default/2",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/novakid/default/3",
     "op": "replace"
   },
   {
-    "value": "Ти не дістанешся до <bounty.name>!",
+    "value": "Тобі не дістатися до <bounty.name>, файно!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateStart/novakid/default/4",
     "op": "replace"
   },
@@ -795,7 +795,7 @@
     "op": "replace"
   },
   {
-    "value": "Я передумал - я зізнаюся! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Я передумав - я зізнаюся! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateEnd/apex/default/2",
     "op": "replace"
   },
@@ -830,7 +830,7 @@
     "op": "replace"
   },
   {
-    "value": "Флоран розкаже! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Флоран розссскаже! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateEnd/floran/default/0",
     "op": "replace"
   },
@@ -840,32 +840,32 @@
     "op": "replace"
   },
   {
-    "value": "Флоран передумав! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Флоран передумавссс! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateEnd/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Залякано. Гаразд, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Заляканість. Гаразд, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateEnd/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Виснажено. Добре, добре, я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Виснаження. Добре, добре, я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateEnd/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Пригнічено. Я передумав, я буду говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Поразка. Я передумав, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateEnd/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Добре, у мене немає іншого вибору, окрім як зізнатися! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Добре, легіню, нема ради, мушу розколотися! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateEnd/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Дідько! І як я дозволив собі так попастися? Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Хай йому грець! І як це я дав упіймати себе отак, файно? Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/planetClue/dialog/interrogateEnd/novakid/default/1",
     "op": "replace"
   },
@@ -895,12 +895,12 @@
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Тобі не змусити мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/default/default/4",
     "op": "replace"
   },
@@ -910,7 +910,7 @@
     "op": "replace"
   },
   {
-    "value": "Я тобі нічого не скажу!",
+    "value": "Я нічого тобі не скажу!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/apex/default/1",
     "op": "replace"
   },
@@ -920,7 +920,7 @@
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/apex/default/3",
     "op": "replace"
   },
@@ -945,12 +945,12 @@
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/avian/default/3",
     "op": "replace"
   },
   {
-    "value": "Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Тобі не змусити мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/avian/default/4",
     "op": "replace"
   },
@@ -965,12 +965,12 @@
     "op": "replace"
   },
   {
-    "value": "Я Гілотл честі! Я ніколи не зраджу <bounty.name>!",
+    "value": "Я хайлотл честі! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/hylotl/default/2",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/hylotl/default/3",
     "op": "replace"
   },
@@ -980,72 +980,72 @@
     "op": "replace"
   },
   {
-    "value": "Флоран не зрадить <bounty.name>!",
+    "value": "Флоран не зссрадить <bounty.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран відданий <bounty.name>!",
+    "value": "Флоран відданийссс <bounty.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран не скаже тобі, де знаходитьссся <bounty.name>!",
+    "value": "Флоран не ссскаже тобі, де знаходитьссся <bounty.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Флоран працює на <bounty.name>! Флоран відданий!",
+    "value": "Флоран працює на <bounty.name>! Флоран відданийссс!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/floran/default/3",
     "op": "replace"
   },
   {
-    "value": "Зухвало. Я ніколи не скажу тобі, де знаходиться <bounty.name>!",
+    "value": "Зухвалість. Я ніколи не скажу тобі, де знаходиться <bounty.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Хоробро. Ти нічого від мене не отримаєш!",
+    "value": "Хоробрість. Ти нічого від мене не отримаєш!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Зухвало. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Зухвалість. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Віддано. Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Відданість. Я ніколи не видам місцезнаходження <bounty.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Віддано. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Відданість. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/glitch/default/4",
     "op": "replace"
   },
   {
-    "value": "Я не скажу тобі, де знаходиться <bounty.name>!",
+    "value": "Я не скажу тобі, де є <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти від мене нічого не отримаєш!",
+    "value": "Ти нічого від мене не отримаєш, файно!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Тобі не змусити мене говорити, йо! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/novakid/default/2",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/novakid/default/3",
     "op": "replace"
   },
   {
-    "value": "Ти не дістанешся до <bounty.name>!",
+    "value": "Тобі не дістатися до <bounty.name>, файно!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateStart/novakid/default/4",
     "op": "replace"
   },
@@ -1075,7 +1075,7 @@
     "op": "replace"
   },
   {
-    "value": "Я передумал - я зізнаюся! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Я передумав - я зізнаюся! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateEnd/apex/default/2",
     "op": "replace"
   },
@@ -1110,7 +1110,7 @@
     "op": "replace"
   },
   {
-    "value": "Флоран розкаже! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Флоран розссскаже! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateEnd/floran/default/0",
     "op": "replace"
   },
@@ -1120,32 +1120,32 @@
     "op": "replace"
   },
   {
-    "value": "Флоран передумав! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Флоран передумавссс! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateEnd/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Залякано. Гаразд, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Заляканість. Гаразд, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateEnd/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Виснажено. Добре, добре, я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Виснаження. Добре, добре, я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateEnd/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Пригнічено. Я передумав, я буду говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Поразка. Я передумав, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateEnd/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Добре, у мене немає іншого вибору, окрім як зізнатися! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Добре, легіню, нема ради, мушу розколотися! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateEnd/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Дідько! І як я дозволив собі так попастися? Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Хай йому грець! І як це я дав упіймати себе отак, файно? Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/spaceClue/dialog/interrogateEnd/novakid/default/1",
     "op": "replace"
   },
@@ -1175,12 +1175,12 @@
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Тобі не змусити мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/default/default/4",
     "op": "replace"
   },
@@ -1190,7 +1190,7 @@
     "op": "replace"
   },
   {
-    "value": "Я тобі нічого не скажу!",
+    "value": "Я нічого тобі не скажу!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/apex/default/1",
     "op": "replace"
   },
@@ -1200,7 +1200,7 @@
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/apex/default/3",
     "op": "replace"
   },
@@ -1225,12 +1225,12 @@
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/avian/default/3",
     "op": "replace"
   },
   {
-    "value": "Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Тобі не змусити мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/avian/default/4",
     "op": "replace"
   },
@@ -1245,12 +1245,12 @@
     "op": "replace"
   },
   {
-    "value": "Я Гілотл честі! Я ніколи не зраджу <bounty.name>!",
+    "value": "Я хайлотл честі! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/hylotl/default/2",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/hylotl/default/3",
     "op": "replace"
   },
@@ -1260,72 +1260,72 @@
     "op": "replace"
   },
   {
-    "value": "Флоран не зрадить <bounty.name>!",
+    "value": "Флоран не зссрадить <bounty.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран відданий <bounty.name>!",
+    "value": "Флоран відданийссс <bounty.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран не скаже тобі, де знаходитьссся <bounty.name>!",
+    "value": "Флоран не ссскаже тобі, де знаходитьссся <bounty.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Флоран працює на <bounty.name>! Флоран відданий!",
+    "value": "Флоран працює на <bounty.name>! Флоран відданийссс!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/floran/default/3",
     "op": "replace"
   },
   {
-    "value": "Зухвало. Я ніколи не скажу тобі, де знаходиться <bounty.name>!",
+    "value": "Зухвалість. Я ніколи не скажу тобі, де знаходиться <bounty.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Хоробро. Ти нічого від мене не отримаєш!",
+    "value": "Хоробрість. Ти нічого від мене не отримаєш!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Зухвало. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Зухвалість. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Віддано. Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Відданість. Я ніколи не видам місцезнаходження <bounty.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Віддано. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Відданість. Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/glitch/default/4",
     "op": "replace"
   },
   {
-    "value": "Я не скажу тобі, де знаходиться <bounty.name>!",
+    "value": "Я не скажу тобі, де є <bounty.name>, файно!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти від мене нічого не отримаєш!",
+    "value": "Ти нічого від мене не отримаєш, файно!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Ти не змусиш мене говорити! Я ніколи не зраджу <bounty.name>!",
+    "value": "Тобі не змусити мене говорити, йо! Я ніколи не зраджу <bounty.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/novakid/default/2",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не видам місцезнаходження <bounty.name>!",
+    "value": "Я ніколи не видам місцезнаходження <bounty.name>, файно!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/novakid/default/3",
     "op": "replace"
   },
   {
-    "value": "Ти не дістанешся до <bounty.name>!",
+    "value": "Тобі не дістатися до <bounty.name>, файно!",
     "path": "/interrogate/clues/scan/dialog/interrogateStart/novakid/default/4",
     "op": "replace"
   },
@@ -1355,7 +1355,7 @@
     "op": "replace"
   },
   {
-    "value": "Я передумал - я зізнаюся! Він <next.coordinate.preposition> <next.coordinate.name>!",
+    "value": "Я передумав - я зізнаюся! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateEnd/apex/default/2",
     "op": "replace"
   },
@@ -1385,52 +1385,52 @@
     "op": "replace"
   },
   {
-    "value": "Я передумав, я скажу! Він на <next.coordinate.name>!",
+    "value": "Я передумав, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateEnd/hylotl/default/2",
     "op": "replace"
   },
   {
-    "value": "Флоран розкаже! Він на <next.coordinate.name>!",
+    "value": "Флоран розссскаже! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateEnd/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран ссскаже! Він на <next.coordinate.name>!",
+    "value": "Флоран зізнаєтьссся! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateEnd/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран передумав! Він на <next.coordinate.name>!",
+    "value": "Флоран передумавссс! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateEnd/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Залякано. Добре, я скажу! Він на <next.coordinate.name>!",
+    "value": "Заляканість. Гаразд, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateEnd/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Виснажено. Добре, добре, я говоритиму! Він на <next.coordinate.name>!",
+    "value": "Виснаження. Добре, добре, я готовий говорити! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateEnd/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Переможено. Я передумав, я скажу! Він на <next.coordinate.name>!",
+    "value": "Поразка. Я передумав, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateEnd/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Добре, у мене немає іншого вибору, окрім як розказати! Він на <next.coordinate.name>!",
+    "value": "Добре, легіню, нема ради, мушу розколотися! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateEnd/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Дідько! Як я міг отак попастися? Він на <next.coordinate.name>!",
+    "value": "Хай йому грець! І як це я дав упіймати себе отак, файно? Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateEnd/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Я передумав, я скажу! Він на <next.coordinate.name>!",
+    "value": "Я передумав, я скажу! Він <next.coordinate.preposition> <next.coordinate.name>!",
     "path": "/interrogate/clues/scan/dialog/interrogateEnd/novakid/default/2",
     "op": "replace"
   },
@@ -1485,7 +1485,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти хочеш, щоб я сказав тобі ^orange;код^reset; від сховища? Шкода, але я мовчатиму!",
+    "value": "Ти хочеш, щоб я виказав ^orange;код^reset; від сховища? Не пощастило, я мовчатиму, йо!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/apex/default/3",
     "op": "replace"
   },
@@ -1515,7 +1515,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти хочеш, щоб я сказав тобі ^orange;код^reset; від сховища? Шкода, але я мовчатиму!",
+    "value": "Ти хочеш, щоб я виказав ^orange;код^reset; від сховища? Не пощастило, я мовчатиму, йо!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/avian/default/3",
     "op": "replace"
   },
@@ -1560,7 +1560,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти хочеш ^orange;код^reset; від сссекретного місссця? Флоран не розкаже!",
+    "value": "Ти хочеш ^orange;код^reset; від сссекретного місссця? Флоран не сссстане розказувати!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/floran/default/0",
     "op": "replace"
   },
@@ -1570,62 +1570,62 @@
     "op": "replace"
   },
   {
-    "value": "Робота флорана - тримати ^orange;код^reset; в сссекреті! Тож іди геть!",
+    "value": "Робота Флорана - тримати ^orange;код^reset; у сссекреті! Тож забирайссся геть!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Праведно. Клянусь честю, я буду захищати наш секретний ^orange;код^reset; від сховища ціною життя!",
+    "value": "Праведність. Клянусь честю, я захищатиму наш секретний ^orange;код^reset; від сховища ціною життя!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Нетерпляче. Моє завдання - зберігати ^orange;код^reset; від сховища - і я не збираюся провалити його!",
+    "value": "Завзяття. Моє завдання - зберігати ^orange;код^reset; від сховища - і я не збираюся провалити його!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Стурбовано. Ти хочеш ^orange;код^reset; від сховища? Боюсь, ти не зможеш його отримати!",
+    "value": "Занепокоєння. Ти хочеш ^orange;код^reset; від сховища? Боюсь, ти не зможеш його отримати!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Я ніколи не скажу тобі ^orange;код^reset; від сховища!",
+    "value": "Я нізащо не скажу тобі ^orange;код^reset; від сховища, леґіню!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти хочеш ^orange;код^reset;? Це не твій щасливий день, шмаркачу!",
+    "value": "Хочеш ^orange;код^reset;? Це не твій щасливий день, леґіню!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Тобі не отримати ^orange;код^reset; від сховища від мене, негіднику!",
+    "value": "Тобі не отримати ^orange;код^reset; від сховища від мене, негіднику, йо!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/novakid/default/2",
     "op": "replace"
   },
   {
-    "value": "Ти хочеш, щоб я сказав тобі ^orange;код^reset; від сховища? Шкода, але я мовчатиму!",
+    "value": "Ти хочеш, щоб я виказав ^orange;код^reset; від сховища? Не пощастило, я мовчатиму, йо!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/novakid/default/3",
     "op": "replace"
   },
   {
-    "value": "Я вважаю, ти хочеш ^orange;код^reset; від сховища, чи не так? Шкода, шмаркачу!",
+    "value": "Гадаю, ти хочеш вивідати ^orange;код^reset; від сховища, чи не так? Не пощастило, леґіню!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/novakid/default/4",
     "op": "replace"
   },
   {
-    "value": "Ти хочеш ^orange;код^reset; від сховища? Єдине, що ТИ отримаєш - це купу дірок від куль!",
+    "value": "Хочеш ^orange;код^reset; від сховища? Єдине, що ТИ отримаєш, леґіню, - це купу дірок від куль!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateStart/novakid/default/5",
     "op": "replace"
   },
   {
-    "value": "Добре, добре, я скажу! Код від сховища: ^orange;<password>^reset;!",
+    "value": "Добре, добре, я скажу все файно! Код від сховища: ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Я передумав, я дам тобі код від сховища! Це ^orange;<password>^reset;!",
+    "value": "Я передумав, дам тобі код від сховища, леґіню! Це ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/default/default/1",
     "op": "replace"
   },
@@ -1635,7 +1635,7 @@
     "op": "replace"
   },
   {
-    "value": "Зупинись! Я скажу тобі, боже. Код від сховища: ^orange;<password>^reset;.",
+    "value": "Зупинись, леґіню! Я скажу тобі, хай йому грець. Код від сховища: ^orange;<password>^reset;.",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/default/default/3",
     "op": "replace"
   },
@@ -1645,12 +1645,12 @@
     "op": "replace"
   },
   {
-    "value": "Добре, добре, я скажу! Код від сховища: ^orange;<password>^reset;!",
+    "value": "Добре, добре, я скажу все файно! Код від сховища: ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/apex/default/0",
     "op": "replace"
   },
   {
-    "value": "Я передумав, я дам тобі код від сховища! Це ^orange;<password>^reset;!",
+    "value": "Я передумав, дам тобі код від сховища, леґіню! Це ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/apex/default/1",
     "op": "replace"
   },
@@ -1660,7 +1660,7 @@
     "op": "replace"
   },
   {
-    "value": "Зупинись! Я скажу тобі, боже. Код від сховища: ^orange;<password>^reset;.",
+    "value": "Зупинись, леґіню! Я скажу тобі, хай йому грець. Код від сховища: ^orange;<password>^reset;.",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/apex/default/3",
     "op": "replace"
   },
@@ -1670,12 +1670,12 @@
     "op": "replace"
   },
   {
-    "value": "Добре, добре, я скажу! Код від сховища: ^orange;<password>^reset;!",
+    "value": "Добре, добре, я скажу все файно! Код від сховища: ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/avian/default/0",
     "op": "replace"
   },
   {
-    "value": "Я передумав, я дам тобі код від сховища! Це ^orange;<password>^reset;!",
+    "value": "Я передумав, дам тобі код від сховища, леґіню! Це ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/avian/default/1",
     "op": "replace"
   },
@@ -1685,7 +1685,7 @@
     "op": "replace"
   },
   {
-    "value": "Зупинись! Я скажу тобі, боже. Код від сховища: ^orange;<password>^reset;.",
+    "value": "Зупинись, леґіню! Я скажу тобі, хай йому грець. Код від сховища: ^orange;<password>^reset;.",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/avian/default/3",
     "op": "replace"
   },
@@ -1695,12 +1695,12 @@
     "op": "replace"
   },
   {
-    "value": "Добре, добре, я скажу! Код від сховища: ^orange;<password>^reset;!",
+    "value": "Добре, добре, я скажу все файно! Код від сховища: ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/hylotl/default/0",
     "op": "replace"
   },
   {
-    "value": "Я передумав, я дам тобі код від сховища! Це ^orange;<password>^reset;!",
+    "value": "Я передумав, дам тобі код від сховища, леґіню! Це ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/hylotl/default/1",
     "op": "replace"
   },
@@ -1710,7 +1710,7 @@
     "op": "replace"
   },
   {
-    "value": "Зупинись! Я скажу тобі, боже. Код від сховища: ^orange;<password>^reset;.",
+    "value": "Зупинись, леґіню! Я скажу тобі, хай йому грець. Код від сховища: ^orange;<password>^reset;.",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/hylotl/default/3",
     "op": "replace"
   },
@@ -1720,62 +1720,62 @@
     "op": "replace"
   },
   {
-    "value": "Флоран раптом захотів поговорити! Код від сховища: ^orange;<password>^reset;!",
+    "value": "Флоран раптом сссхотів говорити! Код від сссховища — ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран ззздається! Код від сховища: ^orange;<password>^reset;... Тепер більше не бий флорана!",
+    "value": "Флоран здаєтьссся! Код від сссховища — ^orange;<password>^reset;... Тепер більше не бий Флорана!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Ти хочеш код від сховища? Флоран може дати його тобі, якщо ти залишшшиш флорана в спокої! Це ^orange;<password>^reset;!",
+    "value": "Ти хочеш код від сссховища? Флоран може дати його тобі, якщо залишшшиш Флорана у ссспокої! Це ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Налякано. Здаюся! Код від сховища: ^orange;<password>^reset;!",
+    "value": "Переляк. Здаюся! Код від сховища: ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Залякано. Я передумав, я скажу тобі код від сховища! Це ^orange;<password>^reset;!",
+    "value": "Заляканість. Я передумав, я скажу тобі код від сховища! Це ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Залякано. Не бий мене! Код від сховища: ^orange;<password>^reset; - не кажи нікому, що я дав тобі його!",
+    "value": "Заляканість. Не бий мене! Код від сховища: ^orange;<password>^reset; - не кажи нікому, що я дав тобі його!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Налякано. Здаюся! Будь ласка, не бий мене більше! Код від сховища: ^orange;<password>^reset;.",
+    "value": "Страх. Здаюся! Будь ласка, не бий мене більше! Код від сховища: ^orange;<password>^reset;.",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Добре, добре, я скажу! Код від сховища: ^orange;<password>^reset;!",
+    "value": "Добре, добре, я скажу все файно! Код від сховища: ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Я передумав, я дам тобі код від сховища! Це ^orange;<password>^reset;!",
+    "value": "Я передумав, дам тобі код від сховища, леґіню! Це ^orange;<password>^reset;!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Не бий мене! Код від сховища: ^orange;<password>^reset; - не кажи нікому, що я дав тобі його!",
+    "value": "Не бий мене, леґіню! Код від сховища: ^orange;<password>^reset; - не кажи нікому, що я дав тобі його!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/novakid/default/2",
     "op": "replace"
   },
   {
-    "value": "Зупинись! Я скажу тобі, боже. Код від сховища: ^orange;<password>^reset;.",
+    "value": "Зупинись, леґіню! Я скажу тобі, хай йому грець. Код від сховища: ^orange;<password>^reset;.",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/novakid/default/3",
     "op": "replace"
   },
   {
-    "value": "Я не хочу вмирати лише щоб зберегти секрет! Код від сховища: ^orange;<password>^reset;, гаразд?!",
+    "value": "Я не хочу гинути лише щоб зберегти секрет, леґіню! Код від сховища: ^orange;<password>^reset;, гаразд?!",
     "path": "/interrogate/clues/vaultClue/dialog/interrogateEnd/novakid/default/4",
     "op": "replace"
   },

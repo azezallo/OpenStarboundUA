@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "^green;<next.coordinate.name>^reset;? Це звучить як чудова підказка, кращої годі й шукати!",
+    "value": "^green;<next.coordinate.name>^reset;? Чудова наводка, кращої годі й бажати!",
     "path": "/bunkerconsole2/planetClue/message",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі?! Рушай до ^green;<next.coordinate.name>^reset;, поки не стало надто пізно!",
+    "value": "Ти знайшов місцеперебування цілі?! Мерщій рушай до ^green;<next.coordinate.name>^reset;, поки не пізно!",
     "path": "/bunkerconsole2/planetBounty/message",
     "op": "replace"
   },
@@ -35,7 +35,7 @@
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/bunkerconsole2/spaceBounty/message",
     "op": "replace"
   },
@@ -45,7 +45,7 @@
     "op": "replace"
   },
   {
-    "value": "Код: <password>! Давай повернемося до того сховища, напарнику!",
+    "value": "Код — <password>! Повертаймося до того сховища, напарнику!",
     "path": "/bunkerconsole2/vaultClue/message",
     "op": "replace"
   },
@@ -65,7 +65,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/lunarbaseconsole/planetBounty/message",
     "op": "replace"
   },
@@ -75,7 +75,7 @@
     "op": "replace"
   },
   {
-    "value": "У цілі, мабуть, є інформація, схована в системі ^green;<next.coordinate.name>^reset;... Час настав, напарнику!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Час діяти, напарнику!",
     "path": "/lunarbaseconsole/spaceClue/message",
     "op": "replace"
   },
@@ -85,27 +85,27 @@
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/lunarbaseconsole/spaceBounty/message",
     "op": "replace"
   },
   {
-    "value": ">ІНФОРМАЦІЯ: Код сховища ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;",
+    "value": ">ІНФОРМАЦІЯ: Код сховища системи ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;",
     "path": "/lunarbaseconsole/vaultClue/dialog",
     "op": "replace"
   },
   {
-    "value": "Код: <password>! Тобі краще повернутися до того сховища, напарнику!",
+    "value": "Код — <password>! Тобі краще повернутися до того сховища, напарнику!",
     "path": "/lunarbaseconsole/vaultClue/message",
     "op": "replace"
   },
   {
-    "value": ">ЗАПИТ: [СХОВАНКА] [ПІДТВЕРДЖЕНО] знаходиться на ^green;<next.coordinate.name>^reset;",
+    "value": ">ЗАПИТ: [СХОВАНКА] [ПІДТВЕРДЖЕНО] на ^green;<next.coordinate.name>^reset;",
     "path": "/stationconsole/planetClue/dialog",
     "op": "replace"
   },
   {
-    "value": "Чудова робота, напарнику! Вони навчили тебе зламувати комп'ютери ще на Землі? Краще рушай до ^green;<next.coordinate.name>^reset;!",
+    "value": "Файна робота, напарнику! Це тебе на Землі навчили так хвацько ламати комп'ютери? Краще рушай до ^green;<next.coordinate.name>^reset;!",
     "path": "/stationconsole/planetClue/message",
     "op": "replace"
   },
@@ -115,7 +115,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/stationconsole/planetBounty/message",
     "op": "replace"
   },
@@ -125,7 +125,7 @@
     "op": "replace"
   },
   {
-    "value": "У цілі, мабуть, є інформація, схована в системі ^green;<next.coordinate.name>^reset;... Слід ще гарячий!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Слід іще гарячий!",
     "path": "/stationconsole/spaceClue/message",
     "op": "replace"
   },
@@ -135,17 +135,17 @@
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/stationconsole/spaceBounty/message",
     "op": "replace"
   },
   {
-    "value": ">ЛОКАЦІЯ СХОВИЩА: ^green;<next.coordinate.systemName>^reset; Термін дії коду сховища ^green;<password>^reset; закінчується через [999] днів",
+    "value": ">ЛОКАЦІЯ СХОВИЩА: ^green;<next.coordinate.systemName>^reset; Код сховища ^green;<password>^reset; дійсний ще [999] днів",
     "path": "/stationconsole/vaultClue/dialog",
     "op": "replace"
   },
   {
-    "value": "Хто б міг подумати, що код сховища <password>? Тобі краще повернутися до того сховища, напарнику!",
+    "value": "Хто б міг подумати, що код від сховища — <password>? Тобі краще повернутися до того сховища, напарнику!",
     "path": "/stationconsole/vaultClue/message",
     "op": "replace"
   },
@@ -155,7 +155,7 @@
     "op": "replace"
   },
   {
-    "value": "^green;<next.coordinate.name>^reset;? Цей слід гарячіший за моє прагнення до справедливості!",
+    "value": "^green;<next.coordinate.name>^reset;? Цей слід гарячіший за моє прагнення справедливості!",
     "path": "/industrialcomputer/planetClue/message",
     "op": "replace"
   },
@@ -165,7 +165,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/industrialcomputer/planetBounty/message",
     "op": "replace"
   },
@@ -175,7 +175,7 @@
     "op": "replace"
   },
   {
-    "value": "У цілі, мабуть, є інформація, схована в системі ^green;<next.coordinate.name>^reset;... Слід ще гарячий!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Слід іще гарячий!",
     "path": "/industrialcomputer/spaceClue/message",
     "op": "replace"
   },
@@ -185,7 +185,7 @@
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/industrialcomputer/spaceBounty/message",
     "op": "replace"
   },
@@ -195,7 +195,7 @@
     "op": "replace"
   },
   {
-    "value": "Код: <password>! Давай повернемося до того сховища, напарнику!",
+    "value": "Код — <password>! Повертаймося до того сховища, напарнику!",
     "path": "/industrialcomputer/vaultClue/message",
     "op": "replace"
   },
@@ -205,7 +205,7 @@
     "op": "replace"
   },
   {
-    "value": "^green;<next.coordinate.name>^reset;? Це звучить як чудова зачіпка, чи не так?",
+    "value": "^green;<next.coordinate.name>^reset;? Звучить як пречудова зачіпка, хіба ні?",
     "path": "/industrialdisplay/planetClue/message",
     "op": "replace"
   },
@@ -215,7 +215,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/industrialdisplay/planetBounty/message",
     "op": "replace"
   },
@@ -225,7 +225,7 @@
     "op": "replace"
   },
   {
-    "value": "У цілі, мабуть, є інформація, схована в системі ^green;<next.coordinate.name>^reset;... Слід ще гарячий!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Слід іще гарячий!",
     "path": "/industrialdisplay/spaceClue/message",
     "op": "replace"
   },
@@ -235,7 +235,7 @@
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/industrialdisplay/spaceBounty/message",
     "op": "replace"
   },
@@ -245,7 +245,7 @@
     "op": "replace"
   },
   {
-    "value": "Код: <password>! Давай повернемося до того сховища, напарнику!",
+    "value": "Код — <password>! Повертаймося до того сховища, напарнику!",
     "path": "/industrialdisplay/vaultClue/message",
     "op": "replace"
   },
@@ -255,7 +255,7 @@
     "op": "replace"
   },
   {
-    "value": "^green;<next.coordinate.name>^reset;? Це звучить як чудова підказка, кращої годі й шукати!",
+    "value": "^green;<next.coordinate.name>^reset;? Чудова наводка, кращої годі й бажати!",
     "path": "/tier3switch/planetClue/message",
     "op": "replace"
   },
@@ -265,7 +265,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/tier3switch/planetBounty/message",
     "op": "replace"
   },
@@ -275,7 +275,7 @@
     "op": "replace"
   },
   {
-    "value": "У цілі, мабуть, є інформація, схована в системі ^green;<next.coordinate.name>^reset;... Слід ще гарячий!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Слід іще гарячий!",
     "path": "/tier3switch/spaceClue/message",
     "op": "replace"
   },
@@ -285,7 +285,7 @@
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/tier3switch/spaceBounty/message",
     "op": "replace"
   },
@@ -295,7 +295,7 @@
     "op": "replace"
   },
   {
-    "value": "Код: <password>! Давай повернемося до того сховища, напарнику!",
+    "value": "Код — <password>! Повертаймося до того сховища, напарнику!",
     "path": "/tier3switch/vaultClue/message",
     "op": "replace"
   },
@@ -305,7 +305,7 @@
     "op": "replace"
   },
   {
-    "value": "^green;<next.coordinate.name>^reset;? Це звучить як чудова підказка, кращої годі й шукати!",
+    "value": "^green;<next.coordinate.name>^reset;? Чудова наводка, кращої годі й бажати!",
     "path": "/tier4switch/planetClue/message",
     "op": "replace"
   },
@@ -315,7 +315,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/tier4switch/planetBounty/message",
     "op": "replace"
   },
@@ -325,7 +325,7 @@
     "op": "replace"
   },
   {
-    "value": "У цілі, мабуть, є інформація, схована в системі ^green;<next.coordinate.name>^reset;... Слід ще гарячий!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Слід іще гарячий!",
     "path": "/tier4switch/spaceClue/message",
     "op": "replace"
   },
@@ -335,17 +335,17 @@
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/tier4switch/spaceBounty/message",
     "op": "replace"
   },
   {
-    "value": ">ІНФОРМАЦІЯ: Код сховища ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;",
+    "value": ">ІНФОРМАЦІЯ: Код сховища системи ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;",
     "path": "/tier4switch/vaultClue/dialog",
     "op": "replace"
   },
   {
-    "value": "Код: <password>! Тобі краще повернутися до того сховища, напарнику!",
+    "value": "Код — <password>! Тобі краще повернутися до того сховища, напарнику!",
     "path": "/tier4switch/vaultClue/message",
     "op": "replace"
   },
@@ -355,7 +355,7 @@
     "op": "replace"
   },
   {
-    "value": "^green;<next.coordinate.name>^reset;? Це звучить як чудова підказка, кращої годі й шукати!",
+    "value": "^green;<next.coordinate.name>^reset;? Чудова наводка, кращої годі й бажати!",
     "path": "/tier5switch/planetClue/message",
     "op": "replace"
   },
@@ -365,7 +365,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/tier5switch/planetBounty/message",
     "op": "replace"
   },
@@ -375,7 +375,7 @@
     "op": "replace"
   },
   {
-    "value": "У цілі, мабуть, є інформація, схована в системі ^green;<next.coordinate.name>^reset;... Слід ще гарячий!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Слід іще гарячий!",
     "path": "/tier5switch/spaceClue/message",
     "op": "replace"
   },
@@ -385,17 +385,17 @@
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/tier5switch/spaceBounty/message",
     "op": "replace"
   },
   {
-    "value": ">ЦЕ Я, КОМП'ЮТЕР: Код сховища ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;",
+    "value": ">ЦЕ Я, КОМП'ЮТЕР: Код сховища системи ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;",
     "path": "/tier5switch/vaultClue/dialog",
     "op": "replace"
   },
   {
-    "value": "Код: <password>? Дякую, комп'ютере! Тобі краще повернутися до того сховища, напарнику!",
+    "value": "Код — <password>? Дякую, комп'ютере! Тобі краще повернутися до того сховища, напарнику!",
     "path": "/tier5switch/vaultClue/message",
     "op": "replace"
   },
@@ -405,7 +405,7 @@
     "op": "replace"
   },
   {
-    "value": "^green;<next.coordinate.name>^reset;? Це звучить як чудова підказка, кращої годі й шукати!",
+    "value": "^green;<next.coordinate.name>^reset;? Чудова наводка, кращої годі й бажати!",
     "path": "/tier6switch/planetClue/message",
     "op": "replace"
   },
@@ -415,7 +415,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/tier6switch/planetBounty/message",
     "op": "replace"
   },
@@ -425,7 +425,7 @@
     "op": "replace"
   },
   {
-    "value": "У цілі, мабуть, є інформація, схована в системі ^green;<next.coordinate.name>^reset;... Слід ще гарячий!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Слід іще гарячий!",
     "path": "/tier6switch/spaceClue/message",
     "op": "replace"
   },
@@ -435,17 +435,17 @@
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/tier6switch/spaceBounty/message",
     "op": "replace"
   },
   {
-    "value": ">ІНФОРМАЦІЯ: Код сховища ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;",
+    "value": ">ІНФОРМАЦІЯ: Код сховища системи ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;",
     "path": "/tier6switch/vaultClue/dialog",
     "op": "replace"
   },
   {
-    "value": "Код: <password>! Тобі краще повернутися до того сховища, напарнику!",
+    "value": "Код — <password>! Тобі краще повернутися до того сховища, напарнику!",
     "path": "/tier6switch/vaultClue/message",
     "op": "replace"
   },
@@ -455,7 +455,7 @@
     "op": "replace"
   },
   {
-    "value": "^green;<next.coordinate.name>^reset;? Тобі краще рушати туди, напарнику!",
+    "value": "^green;<next.coordinate.name>^reset;? Тобі краще вирушати туди, напарнику!",
     "path": "/outpostsecurityconsole/planetClue/message",
     "op": "replace"
   },
@@ -465,7 +465,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/outpostsecurityconsole/planetBounty/message",
     "op": "replace"
   },
@@ -475,7 +475,7 @@
     "op": "replace"
   },
   {
-    "value": "У цілі, мабуть, є інформація, схована в системі ^green;<next.coordinate.name>^reset;... Слід ще гарячий!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Слід іще гарячий!",
     "path": "/outpostsecurityconsole/spaceClue/message",
     "op": "replace"
   },
@@ -485,17 +485,17 @@
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/outpostsecurityconsole/spaceBounty/message",
     "op": "replace"
   },
   {
-    "value": ">КОМП'ЮТЕРНІ СЛОВА: Код сховища ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;",
+    "value": ">КОМП'ЮТЕРНІ СЛОВА: Код сховища системи ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;",
     "path": "/outpostsecurityconsole/vaultClue/dialog",
     "op": "replace"
   },
   {
-    "value": "Код: <password>! Тобі краще повернутися до того сховища, напарнику!",
+    "value": "Код — <password>! Тобі краще повернутися до того сховища, напарнику!",
     "path": "/outpostsecurityconsole/vaultClue/message",
     "op": "replace"
   },
@@ -505,7 +505,7 @@
     "op": "replace"
   },
   {
-    "value": "^green;<next.coordinate.name>^reset;? Це звучить як чудова підказка, кращої годі й шукати!",
+    "value": "^green;<next.coordinate.name>^reset;? Чудова наводка, кращої годі й бажати!",
     "path": "/apexconsole1/planetClue/message",
     "op": "replace"
   },
@@ -515,7 +515,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/apexconsole1/planetBounty/message",
     "op": "replace"
   },
@@ -525,7 +525,7 @@
     "op": "replace"
   },
   {
-    "value": "У цілі, мабуть, є інформація, схована в системі ^green;<next.coordinate.name>^reset;... Слід ще гарячий!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Слід іще гарячий!",
     "path": "/apexconsole1/spaceClue/message",
     "op": "replace"
   },
@@ -535,17 +535,17 @@
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/apexconsole1/spaceBounty/message",
     "op": "replace"
   },
   {
-    "value": "[БІП БУП] Код сховища ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [БІП БУП]",
+    "value": "[БІП БУП] Код сховища системи ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [БІП БУП]",
     "path": "/apexconsole1/vaultClue/dialog",
     "op": "replace"
   },
   {
-    "value": "Код: <password>! Тобі краще повернутися до того сховища, напарнику!",
+    "value": "Код — <password>! Тобі краще повернутися до того сховища, напарнику!",
     "path": "/apexconsole1/vaultClue/message",
     "op": "replace"
   },
@@ -555,7 +555,7 @@
     "op": "replace"
   },
   {
-    "value": "^green;<next.coordinate.name>^reset;? Це звучить як чудова підказка, кращої годі й шукати!",
+    "value": "^green;<next.coordinate.name>^reset;? Чудова наводка, кращої годі й бажати!",
     "path": "/outpostconsole/planetClue/message",
     "op": "replace"
   },
@@ -565,7 +565,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/outpostconsole/planetBounty/message",
     "op": "replace"
   },
@@ -575,7 +575,7 @@
     "op": "replace"
   },
   {
-    "value": "У цілі, мабуть, є інформація, схована в системі ^green;<next.coordinate.name>^reset;... Слід ще гарячий!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Слід іще гарячий!",
     "path": "/outpostconsole/spaceClue/message",
     "op": "replace"
   },
@@ -585,17 +585,17 @@
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/outpostconsole/spaceBounty/message",
     "op": "replace"
   },
   {
-    "value": "[ВХІД_ВИКОНАНО] Код сховища ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [БІП БУП]",
+    "value": "[БІП БУП] Код сховища системи ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [БІП БУП]",
     "path": "/outpostconsole/vaultClue/dialog",
     "op": "replace"
   },
   {
-    "value": "Код: <password>! Тобі краще повернутися до того сховища, напарнику!",
+    "value": "Код — <password>! Тобі краще повернутися до того сховища, напарнику!",
     "path": "/outpostconsole/vaultClue/message",
     "op": "replace"
   },
@@ -605,7 +605,7 @@
     "op": "replace"
   },
   {
-    "value": "^green;<next.coordinate.name>^reset;? Це звучить як чудова підказка, кращої годі й шукати!",
+    "value": "^green;<next.coordinate.name>^reset;? Чудова наводка, кращої годі й бажати!",
     "path": "/officecomputer/planetClue/message",
     "op": "replace"
   },
@@ -615,7 +615,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/officecomputer/planetBounty/message",
     "op": "replace"
   },
@@ -625,7 +625,7 @@
     "op": "replace"
   },
   {
-    "value": "У цілі, мабуть, є інформація, схована в системі ^green;<next.coordinate.name>^reset;... Слід ще гарячий!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Слід іще гарячий!",
     "path": "/officecomputer/spaceClue/message",
     "op": "replace"
   },
@@ -635,32 +635,32 @@
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/officecomputer/spaceBounty/message",
     "op": "replace"
   },
   {
-    "value": "[ВХІД_ВИКОНАНО] Код сховища ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [БІП БУП]",
+    "value": "[ВХІД_ВИКОНАНО] Код сховища системи ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [БІП БУП]",
     "path": "/officecomputer/vaultClue/dialog",
     "op": "replace"
   },
   {
-    "value": "Код: <password>! Тобі краще повернутися до того сховища, напарнику!",
+    "value": "Код — <password>! Тобі краще повернутися до того сховища, напарнику!",
     "path": "/officecomputer/vaultClue/message",
     "op": "replace"
   },
   {
-    "value": "<bounty.name> [ЗНАХОДИТЬСЯ] на [ПЛАНЕТІ] ^green;<next.coordinate.name>^reset;",
+    "value": "<bounty.name> [ЗНАЙДЕНО] на [ПЛАНЕТІ] ^green;<next.coordinate.name>^reset;",
     "path": "/darkcomputer/tutorial/dialog",
     "op": "replace"
   },
   {
-    "value": "[ЗАПИТ_ЛОКАЦІЇ] ВИКОНАНО: ^green;<next.coordinate.name>^reset;",
+    "value": "[ЗАПИТ_ЛОКАЦІЇ] ЗАВЕРШЕНО: ^green;<next.coordinate.name>^reset;",
     "path": "/darkcomputer/planetClue/dialog",
     "op": "replace"
   },
   {
-    "value": "^green;<next.coordinate.name>^reset;? Це звучить як чудова підказка, кращої годі й шукати!",
+    "value": "^green;<next.coordinate.name>^reset;? Чудова наводка, кращої годі й бажати!",
     "path": "/darkcomputer/planetClue/message",
     "op": "replace"
   },
@@ -670,7 +670,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/darkcomputer/planetBounty/message",
     "op": "replace"
   },
@@ -680,42 +680,42 @@
     "op": "replace"
   },
   {
-    "value": "У цілі, мабуть, є інформація, схована в системі ^green;<next.coordinate.name>^reset;... Слід ще гарячий!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Слід іще гарячий!",
     "path": "/darkcomputer/spaceClue/message",
     "op": "replace"
   },
   {
-    "value": "<bounty.name> [ЗНАХОДИТЬСЯ] в [СИСТЕМІ] ^green;<next.coordinate.systemName>^reset;",
+    "value": "<bounty.name> [ЗНАЙДЕНО] у [СИСТЕМІ] ^green;<next.coordinate.systemName>^reset;",
     "path": "/darkcomputer/spaceBounty/dialog",
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі в ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/darkcomputer/spaceBounty/message",
     "op": "replace"
   },
   {
-    "value": "[ЛАСКАВО_ПРОСИМО_НОВИЙ_КОРИСТУВАЧ] Код сховища ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [БІП БУП]",
+    "value": "[ВІТАЄМО_НОВОГО_КОРИСТУВАЧА] Код сховища системи ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [БІП БУП]",
     "path": "/darkcomputer/vaultClue/dialog",
     "op": "replace"
   },
   {
-    "value": "Код: <password>! Тобі краще повернутися до того сховища, напарнику!",
+    "value": "Код — <password>! Тобі краще повернутися до того сховища, напарнику!",
     "path": "/darkcomputer/vaultClue/message",
     "op": "replace"
   },
   {
-    "value": "<bounty.name> [ЗНАХОДИТЬСЯ] на [ПЛАНЕТІ] ^green;<next.coordinate.name>^reset;",
+    "value": "<bounty.name> [ЗНАЙДЕНО] на [ПЛАНЕТІ] ^green;<next.coordinate.name>^reset;",
     "path": "/astroconsole/tutorial/dialog",
     "op": "replace"
   },
   {
-    "value": "[ЗАПИТ_ЛОКАЦІЇ] ВИКОНАНО: ^green;<next.coordinate.name>^reset;",
+    "value": "[ЗАПИТ_ЛОКАЦІЇ] ЗАВЕРШЕНО: ^green;<next.coordinate.name>^reset;",
     "path": "/astroconsole/planetClue/dialog",
     "op": "replace"
   },
   {
-    "value": "^green;<next.coordinate.name>^reset;? Це звучить як чудова підказка, кращої годі й шукати!",
+    "value": "^green;<next.coordinate.name>^reset;? Чудова наводка, кращої годі й бажати!",
     "path": "/astroconsole/planetClue/message",
     "op": "replace"
   },
@@ -725,7 +725,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти знайшов місцезнаходження цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
+    "value": "Ти знайшов місцеперебування цілі? Тобі краще вирушити до ^green;<next.coordinate.name>^reset;!",
     "path": "/astroconsole/planetBounty/message",
     "op": "replace"
   },
@@ -735,22 +735,22 @@
     "op": "replace"
   },
   {
-    "value": "Ціль, мабуть, має сховану інформацію в системі ^green;<next.coordinate.name>^reset;... Слід ще гарячий!",
+    "value": "У цілі точно є відомості, сховані в системі ^green;<next.coordinate.name>^reset;... Слід іще гарячий!",
     "path": "/astroconsole/spaceClue/message",
     "op": "replace"
   },
   {
-    "value": "<bounty.name> [ЗНАХОДИТЬСЯ] в [СИСТЕМІ] ^green;<next.coordinate.systemName>^reset;",
+    "value": "<bounty.name> [ЗНАЙДЕНО] у [СИСТЕМІ] ^green;<next.coordinate.systemName>^reset;",
     "path": "/astroconsole/spaceBounty/dialog",
     "op": "replace"
   },
   {
-    "value": "Ціль переховується десь у космосі на ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
+    "value": "Ціль ховається десь у космосі біля ^green;<next.coordinate.name>^reset;. Ти знаєш, що робити, напарнику!",
     "path": "/astroconsole/spaceBounty/message",
     "op": "replace"
   },
   {
-    "value": "[ВІТАЄМО_НОВОГО_КОРИСТУВАЧА] ^green;<next.coordinate.systemName>^reset; Код до Сховища = ^green;<password>^reset; [БІП БУП]",
+    "value": "[ВІТАЄМО_НОВОГО_КОРИСТУВАЧА] Код сховища системи ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [БІП БУП]",
     "path": "/astroconsole/vaultClue/dialog",
     "op": "replace"
   },

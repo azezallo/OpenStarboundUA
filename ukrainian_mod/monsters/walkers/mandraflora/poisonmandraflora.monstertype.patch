@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Poison Mandraflora"
+    "value": "Отруйна мандрафлора"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Its sleepy lifestyle allows it to flourish underground and reach impressive sizes."
+    "value": "Його сонний спосіб життя дозволяє йому процвітати під землею та досягати вражаючих розмірів."
   }
 ]

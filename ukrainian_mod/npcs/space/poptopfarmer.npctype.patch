@@ -2,6 +2,6 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Hey there, pal! I'm just a humble old Poptop farmer. I could listen to their whistling all day... In fact I do!"
+    "value": "Привіт, друже! Я просто скромний старий фермер Поптопа. Можу слухати їхній спів весь день... Насправді я так і роблю!"
   }
 ]

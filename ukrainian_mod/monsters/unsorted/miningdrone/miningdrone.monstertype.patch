@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Mining Drone"
+    "value": "Майнінговий дрон"
   },
   {
     "op": "replace",

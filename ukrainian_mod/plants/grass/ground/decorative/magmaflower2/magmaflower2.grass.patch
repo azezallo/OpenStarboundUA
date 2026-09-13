@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Гаряча, палаюча квітка.",
+    "value": "Гаряча, палаюча квітка",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Магмова квітка.",
+    "value": "Ствердження. Магмова квітка",
     "path": "/glitchDescription",
     "op": "replace"
   }

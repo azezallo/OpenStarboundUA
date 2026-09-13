@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стелаж для зброї Floran. Вся зброя зникла."
+    "value": "Стелаж для зброї Флоранів. Вся зброя зникла."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Стелаж для зберігання грубої зброї Floran."
+    "value": "Стелаж для зберігання грубої зброї Флоранів."
   },
   {
     "op": "replace",

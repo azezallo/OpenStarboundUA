@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Маленький ліхтарний стовп. Намагайтеся не перекинути його."
+    "value": "Маленький ліхтарний стовп. Не кидайте його!"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssmall світло на ssstick."
+    "value": "Сссмал світло на ссстик."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Такий маленький і чарівний."
+    "value": "Така маленька і чарівна."
   },
   {
     "op": "replace",

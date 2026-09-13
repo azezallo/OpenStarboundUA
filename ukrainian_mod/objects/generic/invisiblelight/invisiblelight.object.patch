@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стрічка освітлення, для використання на космічному кораблі."
+    "value": "Лінія світла для використання на космічному кораблі"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Корабель Light"
+    "value": "Світло корабля"
   },
   {
     "op": "replace",

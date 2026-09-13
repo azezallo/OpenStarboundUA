@@ -12,17 +12,17 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Цей стручок роздає матеріали для крафта."
+    "value": "Цей стручок роздає матеріали для крафту."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Безкоштовні матеріали для рукоділля. приємно"
+    "value": "Безкоштовні матеріали для рукоділля. Приємно."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Машина ssspit створює предмети у Floran."
+    "value": "Машина ссспит створює предмети у Флорані."
   },
   {
     "op": "replace",

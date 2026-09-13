@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Adult Albino Poptop"
+    "value": "Дорослий поптоп-альбінос"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It's huge..."
+    "value": "Це величезний..."
   }
 ]

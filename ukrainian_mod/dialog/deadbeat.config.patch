@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/reattack/default/default/3",
-    "value": "Ти так легко не втечеш!"
+    "value": "Ти не зможеш так легко втекти!"
   },
   {
     "op": "replace",
     "path": "/reattack/default/default/4",
-    "value": "З поверненням до божевільні!"
+    "value": "Вітаємо з поверненням до божевільного дому!"
   },
   {
     "op": "replace",
@@ -57,7 +57,7 @@
   {
     "op": "replace",
     "path": "/attack/default/default/3",
-    "value": "Ласкаво просимо до божевільні!"
+    "value": "Ласкаво просимо у божевільну хату!"
   },
   {
     "op": "replace",
@@ -102,7 +102,7 @@
   {
     "op": "replace",
     "path": "/lostTarget/default/default/0",
-    "value": "Втікай, підібгавши хвіст!"
+    "value": "Втікни, піднявши хвіст між ногами!"
   },
   {
     "op": "replace",
@@ -117,7 +117,7 @@
   {
     "op": "replace",
     "path": "/outOfSight/default/default/1",
-    "value": "Ану повертайся!"
+    "value": "Повернись сюди!"
   },
   {
     "op": "replace",

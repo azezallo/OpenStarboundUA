@@ -82,7 +82,7 @@
   {
     "op": "replace",
     "path": "/keyActions/player/16/label",
-    "value": "Емоція: Злість"
+    "value": "Емоція: Роздратування"
   },
   {
     "op": "replace",
@@ -97,22 +97,22 @@
   {
     "op": "replace",
     "path": "/keyActions/player/19/label",
-    "value": "Емоція: Кліпати"
+    "value": "Емоція: Кліпання"
   },
   {
     "op": "replace",
     "path": "/keyActions/player/20/label",
-    "value": "Емоція: Підморг"
+    "value": "Емоція: Підморгування"
   },
   {
     "op": "replace",
     "path": "/keyActions/player/21/label",
-    "value": "Емоція: Їсти"
+    "value": "Емоція: Їда"
   },
   {
     "op": "replace",
     "path": "/keyActions/player/22/label",
-    "value": "Емоція: Спати"
+    "value": "Емоція: Сон"
   },
   {
     "op": "replace",
@@ -157,17 +157,17 @@
   {
     "op": "replace",
     "path": "/keyActions/toolbar/8/label",
-    "value": "Маніпулятор"
+    "value": "Маніпулятор матерії"
   },
   {
     "op": "replace",
     "path": "/keyActions/toolbar/9/label",
-    "value": "Проводка"
+    "value": "Режим дротів"
   },
   {
     "op": "replace",
     "path": "/keyActions/toolbar/10/label",
-    "value": "Фарбування"
+    "value": "Режим малювання"
   },
   {
     "op": "replace",

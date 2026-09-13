@@ -1,11 +1,11 @@
 [
   {
-    "value": "^orange;Убити ціль",
+    "value": "^orange;Ліквідувати ціль",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Знайти підказку до місцезнаходження цілі",
+    "value": "Знайди підказку щодо місцезнаходження цілі",
     "path": "/text",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "^orange;Подорожуй^reset; до ^green;%s^reset;",
+    "value": "^orange;Вирушай^reset; на ^green;%s^reset;",
     "path": "/scriptConfig/objectives/findWorldStage/0",
     "op": "replace"
   },
@@ -30,37 +30,37 @@
     "op": "replace"
   },
   {
-    "value": "^green;<coordinate.name>^reset;:\nПідказка, яку я тут знайшов, привела мене до <next.coordinate.name>.\n\n",
+    "value": "^green;<coordinate.name>^reset;:\nПідказка, яку я тут знайшов, привела мене до <next.coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/prev/0",
     "op": "replace"
   },
   {
-    "value": "^green;<coordinate.name>^reset;:\nЯ виявив тут зачіпку, яка веде мене до <next.coordinate.name>.\n\n",
+    "value": "^green;<coordinate.name>^reset;:\nЯ виявив тут зачіпку, яка веде мене до <next.coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/prev/1",
     "op": "replace"
   },
   {
-    "value": "^orange;<bounty.name>^reset; востаннє бачили на <coordinate.name>.\n\n",
+    "value": "^orange;<bounty.name>^reset; востаннє бачили на <coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/default/0",
     "op": "replace"
   },
   {
-    "value": "^orange;<bounty.name>^reset; був востаннє помічений на <coordinate.name>.\n\n",
+    "value": "^orange;<bounty.name>^reset; востаннє помітили <coordinate.preposition> <coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/default/1",
     "op": "replace"
   },
   {
-    "value": "Слід ^orange;<bounty.name>^reset; охолов на <coordinate.name>.\n\n",
+    "value": "Слід ^orange;<bounty.name>^reset; охолов <coordinate.preposition> <coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/default/2",
     "op": "replace"
   },
   {
-    "value": "Слід охолов! Без подальших зачіпок <bounty.name> знову вислизнув з наших рук. Хтозна, які жахливі злочини вони вчинять, перш ніж у нас з'явиться ще один шанс їх схопити?",
+    "value": "Слід охолов! Без жодних зачіпок <bounty.name> знову вислизає з наших рук. Хтозна, які жахливі злочини вони скоять, перш ніж у нас з'явиться ще один шанс схопити їх?",
     "path": "/scriptConfig/generatedText/failureText/default/0",
     "op": "replace"
   },
   {
-    "value": "Вичерпавши всі наявні зачіпки, ми змушені відмовитися від полювання на <bounty.name>. Це темний день для правосуддя.",
+    "value": "Вичерпавши всі наявні зачіпки, ми змушені припинити полювання на <bounty.name>. Це похмурий день для правосуддя.",
     "path": "/scriptConfig/generatedText/failureText/default/1",
     "op": "replace"
   }

@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Крутий письмовий стіл"
+    "value": "Крутий стіл"
   },
   {
     "op": "replace",
@@ -17,22 +17,22 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Стіл письмовий металевий - клінічний на вигляд."
+    "value": "Стіл з металу – клінічний за виглядом."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Стіл приємний на дотик."
+    "value": "Стол приємний на дотик."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Байдужість. Письмовий стіл."
+    "value": "Байдужість. Стол."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Стіл професійного вигляду."
+    "value": "Стол професійного вигляду."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Блискучий письмовий стіл із металу."
+    "value": "Бліскучий стіл з металу."
   }
 ]

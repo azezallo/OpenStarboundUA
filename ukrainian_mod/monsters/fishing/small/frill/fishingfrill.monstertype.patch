@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Оборчастий тадгуппі"
+    "value": "Торочкуватий тадґуппі"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Its large tail can create rhythmic pulses that distract potential predators."
+    "value": "Його великий хвіст може створювати ритмічні імпульси, що відволікають потенційних хижаків."
   }
 ]

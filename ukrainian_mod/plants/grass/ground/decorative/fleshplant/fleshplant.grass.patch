@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A globule of flesh."
+    "value": "Куля м'яса."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "A globule of flesh."
+    "value": "Куля м'яса."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Flesssh!"
+    "value": "Флессш!"
   },
   {
     "op": "replace",

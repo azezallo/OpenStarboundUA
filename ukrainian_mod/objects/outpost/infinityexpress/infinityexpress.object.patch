@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Міжгалактичний магазин. Здається, це ідеальне місце для запасів."
+    "value": "Міжгалактична крамничка. Здається, це ідеальне місце, щоб поповнити запаси."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Infinity Express"
+    "value": "Інфініті Експрес"
   },
   {
     "op": "replace",
@@ -17,41 +17,41 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Зручний магазин. Будемо сподіватися, що вони продадуть те, що я хочу."
+    "value": "Зручний магазин. Сподіваюся, тут продають те, що мені потрібно."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран може отримати товари в обмін на блискучі пікселі."
+    "value": "Флоран може отримати товари в обмін на блиссскучі пікссселі."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "зацікавлений. Купець якийсь."
+    "value": "Зацікавленість. Якийсь торговець."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Сподіваюся, вони продають газовані напої."
+    "value": "Сподіваюся, тут продають газовані напої."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Магазин. Можливо, я перегляну його товари."
+    "value": "Магазин. Можливо, я роздивлюся його товари."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Куплю мені підступну пляшку автоматичного соку."
+    "value": "Куплю собі нишком пляшчину автоматового соку."
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "value": "Infinity Express"
+    "value": "Інфініті Експрес"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "^#b9b5b2;Fаливо, закуски та різні товари"
+    "value": "^#b9b5b2;Паливо, перекуси та всілякі дрібниці"
   }
 ]

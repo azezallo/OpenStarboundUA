@@ -7,21 +7,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Танучий лід утворює густу сльоту."
+    "value": "Танучий лід створює густу сльоту"
   },
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Іформований. Slush like this is made from melted ice."
+    "value": "Відомо. Така сльота утворюється з танучого льоду"
   },
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Сльота холодна волога сльота."
+    "value": "Мокра, холодна сльота"
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Ціле місиво замерзаючої сльоти."
+    "value": "Увесь хаос замерзлої сльоти"
   }
 ]

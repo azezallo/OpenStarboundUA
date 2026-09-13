@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Охайний тюк сіна, готовий до штабелювання."
+    "value": "Охайний тюк сіна, готовий до складання."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Стог сіна"
+    "value": "Стіг сіна"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Тюк сіна. Для чого це, цікаво?"
+    "value": "Тюк сіна. Цікаво, для чого вони?"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Сіно, сформоване в куб."
+    "value": "Сіно, спресоване в куб."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран міг зробити велику каструлю з блоків сіна."
+    "value": "Флоран міг би збудувати великий зссамок з блоків сссіна."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Сіно сформоване в тюки для зручного зберігання."
+    "value": "Байдужість. Сіно спресоване в тюки для зручного зберігання."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Я вважаю, що це так звані тюки сіна."
+    "value": "Здається, це називають тюками сіна."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Висушена поверхнева рослина, сформована в куб."
+    "value": "Висушена наземна рослина, спресована в куб."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Тюк сіна."
+    "value": "Звичайний тюк сіна."
   }
 ]

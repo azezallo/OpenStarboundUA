@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Mandraflora"
+    "value": "Мандрафлора"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Its sleepy lifestyle allows it to flourish underground and reach impressive sizes."
+    "value": "Його сонний спосіб життя дозволяє йому процвітати під землею та досягати вражаючих розмірів."
   }
 ]

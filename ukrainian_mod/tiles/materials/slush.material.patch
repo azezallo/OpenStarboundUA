@@ -5,22 +5,22 @@
     "op": "replace"
   },
   {
-    "value": "З розплавленого льоду виходить густа сльота.",
+    "value": "Танучий лід створює густу сльоту",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Обізнаність. Така сльота отримана з розплавленого льоду.",
+    "value": "Відомо. Така сльота утворюється з танучого льоду",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Холодна сссльота.",
+    "value": "Мокра, холодна сльота",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Купа холодної сльоти, легінь.",
+    "value": "Увесь хаос замерзлої сльоти",
     "path": "/novakidDescription",
     "op": "replace"
   }

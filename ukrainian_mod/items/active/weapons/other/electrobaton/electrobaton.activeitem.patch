@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Спочатку розроблений для спецназу Miniknog. Це приголомшливо ефективно."
+    "value": "Спочатку розроблений для спецназу Міннаук. Це приголомшливо ефективно."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Електро Батон"
+    "value": "Електричний батон"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
-    "value": "Electro Baton ^yellow;^reset;"
+    "value": "Електричний батон ^yellow;^reset;"
   }
 ]

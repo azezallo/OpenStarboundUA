@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Шафа з високими металевими дверима."
+    "value": "Шафа з високою металевою двер'ю."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Високий шафка"
+    "value": "Висока шафа"
   },
   {
     "op": "replace",
@@ -17,17 +17,17 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Металевий ящик, ймовірно, для зберігання."
+    "value": "Металевий ящик, ймовірно, призначений для зберігання."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssstorage."
+    "value": "Ссховище."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Невеликий обсяг настінного зберігання."
+    "value": "Нейтральний. Небагато настінного зберігання."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ця шафка насправді не замикається."
+    "value": "Ця шафа насправді не зачиняється."
   }
 ]

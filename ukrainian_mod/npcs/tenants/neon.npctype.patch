@@ -1,16 +1,16 @@
 [
   {
-    "value": "Я був звичайним техніком Міннаука.",
+    "value": "Я колись працював техніком Міннаук.",
     "path": "/scriptConfig/dialog/converse/apex/default/0",
     "op": "replace"
   },
   {
-    "value": "Скажи, я схожий на апекса в цьому вбранні?",
+    "value": "Скажи, чи схожу я на Апекса у цьому одязі?",
     "path": "/scriptConfig/dialog/converse/apex/default/1",
     "op": "replace"
   },
   {
-    "value": "Мій костюм оновлює мою інформацію з галактичного сервера по радіоканалу.",
+    "value": "Мій костюм бездротово оновлює мене з галактичного сервера.",
     "path": "/scriptConfig/dialog/converse/apex/default/2",
     "op": "replace"
   },
@@ -35,7 +35,7 @@
     "op": "replace"
   },
   {
-    "value": "Я взаємодію з комп'ютерами за допомогою цього костюма!",
+    "value": "Я взаємодію з комп'ютерами бездротово в цьому костюмі.",
     "path": "/scriptConfig/dialog/converse/human/default/3",
     "op": "replace"
   }

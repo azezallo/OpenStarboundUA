@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/nameGen/1/1/1",
-    "value": "Манатікон"
+    "value": "Манатикон"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/1/2",
-    "value": "Ротик"
+    "value": "Ротік"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/1/3",
-    "value": "Каллокс"
+    "value": "Калокс"
   },
   {
     "op": "replace",
@@ -37,12 +37,12 @@
   {
     "op": "replace",
     "path": "/nameGen/1/1/8",
-    "value": "Теклацький"
+    "value": "Teklacki"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/2/1",
-    "value": "зірка"
+    "value": "Стар"
   },
   {
     "op": "replace",
@@ -92,7 +92,7 @@
   {
     "op": "replace",
     "path": "/nameGen/1/2/11",
-    "value": "Talon"
+    "value": "Талон"
   },
   {
     "op": "replace",
@@ -102,12 +102,12 @@
   {
     "op": "replace",
     "path": "/nameGen/1/2/13",
-    "value": "Nexus"
+    "value": "Нексус"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/2/14",
-    "value": "Місяць"
+    "value": "Луна"
   },
   {
     "op": "replace",
@@ -117,22 +117,22 @@
   {
     "op": "replace",
     "path": "/nameGen/1/2/16",
-    "value": "піксель"
+    "value": "Піксель"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/2/17",
-    "value": "Терра"
+    "value": "Земля"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/2/18",
-    "value": "Сонячна"
+    "value": "Сонячний"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/2/19",
-    "value": "Буря"
+    "value": "Штормовий"
   },
   {
     "op": "replace",
@@ -142,7 +142,7 @@
   {
     "op": "replace",
     "path": "/nameGen/1/2/21",
-    "value": "ідеально"
+    "value": "Ідеальний"
   },
   {
     "op": "replace",
@@ -152,7 +152,7 @@
   {
     "op": "replace",
     "path": "/nameGen/1/2/23",
-    "value": "серце"
+    "value": "Серце"
   },
   {
     "op": "replace",
@@ -182,12 +182,12 @@
   {
     "op": "replace",
     "path": "/nameGen/1/2/29",
-    "value": "небо"
+    "value": "Небо"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/2/30",
-    "value": "океан"
+    "value": "Океан"
   },
   {
     "op": "replace",
@@ -207,17 +207,17 @@
   {
     "op": "replace",
     "path": "/nameGen/1/2/34",
-    "value": "світло"
+    "value": "Світло"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/2/35",
-    "value": "Пустота"
+    "value": "Порожнеча"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/2/36",
-    "value": "Fusion"
+    "value": "Фузія"
   },
   {
     "op": "replace",
@@ -237,7 +237,7 @@
   {
     "op": "replace",
     "path": "/nameGen/1/2/40",
-    "value": "Флюс"
+    "value": "Флюкс"
   },
   {
     "op": "replace",
@@ -252,7 +252,7 @@
   {
     "op": "replace",
     "path": "/nameGen/1/2/43",
-    "value": "Астрал"
+    "value": "Астральний"
   },
   {
     "op": "replace",
@@ -262,12 +262,12 @@
   {
     "op": "replace",
     "path": "/nameGen/1/2/45",
-    "value": "наглядач"
+    "value": "Охоронець"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/2/46",
-    "value": "Виття"
+    "value": "Гул"
   },
   {
     "op": "replace",
@@ -277,22 +277,22 @@
   {
     "op": "replace",
     "path": "/nameGen/1/3/1",
-    "value": "колючий"
+    "value": "Ножик"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/3/2",
-    "value": "щука"
+    "value": "піка"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/3/3",
-    "value": "спис"
+    "value": "Спис"
   },
   {
     "op": "replace",
     "path": "/nameGen/1/3/4",
-    "value": "палка"
+    "value": "Палка"
   },
   {
     "op": "replace",
@@ -302,7 +302,7 @@
   {
     "op": "replace",
     "path": "/nameGen/1/3/6",
-    "value": "покер"
+    "value": "Ніж"
   },
   {
     "op": "replace",
@@ -332,6 +332,6 @@
   {
     "op": "replace",
     "path": "/nameGen/1/3/12",
-    "value": "проціпувач"
+    "value": "Шип"
   }
 ]

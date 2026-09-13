@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "\"...тому що врешті-решт Doom - це все, що має значення\"."
+    "value": "...бо врешті-решт Дум — все, що має значення."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Doomcannon"
+    "value": "Гармата загибелі"
   }
 ]

@@ -5,17 +5,17 @@
     "op": "replace"
   },
   {
-    "value": "Якась мерзенна личинка",
+    "value": "Якась мерзенна личинка.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Звивиссситий черв'як.",
+    "value": "Згинчастий черв'як.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердно. Невідома форма личинки.",
+    "value": "Заява. Невідома форма личинки.",
     "path": "/glitchDescription",
     "op": "replace"
   }

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Кислий пиріг з окулемоном і солодким безе."
+    "value": "Кислий пиріг, наповнений окулемоном, з солодким безе."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Oculemon Meringue"
+    "value": "Окулемон меренго"
   }
 ]

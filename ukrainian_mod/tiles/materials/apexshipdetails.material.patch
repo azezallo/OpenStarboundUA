@@ -1,26 +1,26 @@
 [
   {
-    "value": "Металева стіна з заклепками.",
+    "value": "Клепана металева стінка",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Металев. поручні",
+    "value": "Металеві перила",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Безпека. Ця металева стіна укріплена болтами.",
+    "value": "Безпечний. Ця металева стіна була посилена міцними болтами.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Укріплена болтами ссстіна.",
+    "value": "Міцний металевий болт",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Файна і міцна стіна з металу.",
+    "value": "Міцна, схожа на стіну з металу.",
     "path": "/novakidDescription",
     "op": "replace"
   }

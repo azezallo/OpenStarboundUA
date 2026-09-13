@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": "  Стіл винахідника"
+    "value": "Стіл винахідника"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": "  ^#b9b5b2;Стіл інновацій"
+    "value": "^#b9b5b2;Стіл інновацій"
   },
   {
     "op": "replace",

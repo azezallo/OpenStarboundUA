@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/identity/name",
-    "value": "Abi"
+    "value": "Абі"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Hi, I'm Abi! I enjoy making monster figurines in my spare time."
+    "value": "Привіт, я Абі! У вільний час я люблю виготовляти фігурки монстра."
   }
 ]

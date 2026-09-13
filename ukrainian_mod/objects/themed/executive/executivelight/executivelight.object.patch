@@ -2,32 +2,32 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Сліпуче виконавче світло."
+    "value": "Сліпучий представницький світильник."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Executive Light"
+    "value": "Представницький світильник"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Добре зроблене джерело світла."
+    "value": "Якісно зроблене джерело світла."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Ця корисна лампа освітлить навіть найтемнішу кімнату."
+    "value": "Ця корисна лампа освітить навіть найтемнішу кімнату."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Модний світильник sssafe для Флорана."
+    "value": "Вишукана лампа бессспечна для Флорана."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Задоволений. Витончена та ефективна лампа."
+    "value": "Задоволення. Витончена та ефективна лампа."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це химерне світло справді вражає."
+    "value": "Оцей файний світильник справді вражає."
   }
 ]

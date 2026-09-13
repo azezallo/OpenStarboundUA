@@ -1,11 +1,11 @@
 [
   {
-    "value": "^orange;Нагорода за вбивство",
+    "value": "^orange;Ліквідувати ціль",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Знайти підказку до місцезнаходження цілі",
+    "value": "Знайди підказку щодо місцезнаходження цілі",
     "path": "/text",
     "op": "replace"
   },
@@ -15,22 +15,22 @@
     "op": "replace"
   },
   {
-    "value": "^orange;Вирушай^reset; до ^green;%s^reset;",
+    "value": "^orange;Вирушай^reset; на ^green;%s^reset;",
     "path": "/scriptConfig/objectives/findSpaceBountyStage/0",
     "op": "replace"
   },
   {
-    "value": "^orange;Наблизься^reset; до ^green;Схованки злочинця^reset;",
+    "value": "^orange;Наблизься^reset; до ^green;Схованки злочинців^reset;",
     "path": "/scriptConfig/objectives/findSpaceBountyStage/1",
     "op": "replace"
   },
   {
-    "value": "^orange;Висадися^ у ^green;Схованці злочинця^reset;",
+    "value": "^orange;Висадись^reset; у ^green;Схованку злочинців^reset;",
     "path": "/scriptConfig/objectives/findSpaceBountyStage/2",
     "op": "replace"
   },
   {
-    "value": "^orange;Шукай^reset; в космосі ^green;схованку^reset;",
+    "value": "^orange;Шукай^reset; у космосі ^green;схованку^reset;",
     "path": "/scriptConfig/objectives/findClueObjectStage/0",
     "op": "replace"
   },
@@ -40,37 +40,37 @@
     "op": "replace"
   },
   {
-    "value": "^green;<coordinate.name>^reset;:\nКомп'ютерні записи тут повідомили мені, що <bounty.name> знаходиться на <next.coordinate.name>.\n\n",
+    "value": "^green;<coordinate.name>^reset;:\nКомп'ютерні записи тут підказали мені, що <bounty.name> знаходиться на <next.coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/prev/0",
     "op": "replace"
   },
   {
-    "value": "^green;<coordinate.name>^reset;:\nМої майстерні навички зламу привели мене до <next.coordinate.name>.\n\n",
+    "value": "^green;<coordinate.name>^reset;:\nМої майстерні навички злому привели мене на <next.coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/prev/1",
     "op": "replace"
   },
   {
-    "value": "^green;<coordinate.name>^reset;:\nМої просунуті навички зламу привели мене до <next.coordinate.name>.\n\n",
+    "value": "^green;<coordinate.name>^reset;:\nМої просунуті навички злому привели мене на <next.coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/prev/2",
     "op": "replace"
   },
   {
-    "value": "^green;<coordinate.name>^reset;:\nЗлам захищеної бази даних злочинця дав мені локацію \"<next.coordinate.name>\".\n\n",
+    "value": "^green;<coordinate.name>^reset;:\nЗлам захищеної бази даних злочинця дав мені локацію \"<next.coordinate.name>\".",
     "path": "/scriptConfig/generatedText/text/prev/3",
     "op": "replace"
   },
   {
-    "value": "^orange;<bounty.name>^reset; востаннє бачили на <coordinate.name>.\n\n",
+    "value": "^orange;<bounty.name>^reset; востаннє бачили на <coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/default/0",
     "op": "replace"
   },
   {
-    "value": "^orange;<bounty.name>^reset; востаннє помітили на <coordinate.name>.\n\n",
+    "value": "^orange;<bounty.name>^reset; востаннє помітили <coordinate.preposition> <coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/default/1",
     "op": "replace"
   },
   {
-    "value": "Слід ^orange;<bounty.name>^reset; охолов на <coordinate.name>.\n\n",
+    "value": "Слід ^orange;<bounty.name>^reset; охолов <coordinate.preposition> <coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/default/2",
     "op": "replace"
   }

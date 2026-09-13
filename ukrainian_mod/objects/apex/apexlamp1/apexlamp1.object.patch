@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Короткий дерев'яний світильник з абажуром у горошок."
+    "value": "Низька дерев'яна лампа з абажуром у горошок."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Стандартна лампа випуску"
+    "value": "Стандартна лампа"
   },
   {
     "op": "replace",
@@ -17,17 +17,17 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Хтось любить горошок?"
+    "value": "Комусь взагалі подобається горошок?"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Плямиста лампа!"
+    "value": "Пассскудна плямиссста лампа!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Веселий. Глюк насолоджується світлом."
+    "value": "Радість. Глітчам подобається світло."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "лампа. Нічого особливого в цьому."
+    "value": "Лампа. Ніц особливого в ній нема."
   }
 ]

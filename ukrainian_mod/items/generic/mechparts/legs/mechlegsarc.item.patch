@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ноги механізму, схожі на кігті, розроблені для збільшення швидкості."
+    "value": "Кігтісті ноги меха, створені для збільшення швидкості."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ноги Arc Mech"
+    "value": "Ноги меха Arc"
   }
 ]

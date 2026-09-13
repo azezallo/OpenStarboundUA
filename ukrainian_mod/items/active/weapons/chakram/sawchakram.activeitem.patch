@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Улюблена зброя священного ордена лісових монахів."
+    "value": "Улюблена зброя священних лісових монахів."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Побачив Чакрам"
+    "value": "Пиловий чакрам"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
-    "value": "Побачив чакрам ^yellow;^reset;"
+    "value": "Пиловий чакрам ^yellow;^reset;"
   }
 ]

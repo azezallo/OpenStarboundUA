@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Іржава настінна табличка з тисненням емблеми Миротворця."
+    "value": "Ржавий настінний плакат з тисненням емблеми Миротворця."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Іржава емблема миротворця"
+    "value": "Ржава емблема Миротворця"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Ця емблема потребує догляду."
+    "value": "Ця емблема потребує обслуговування."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Стіна - це... Русстед."
+    "value": "Стіна – це… ржаве."
   },
   {
     "op": "replace",

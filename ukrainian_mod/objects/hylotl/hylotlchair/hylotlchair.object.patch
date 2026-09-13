@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Блакитний стілець."
+    "value": "Бірюзове крісло."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Синє крісло"
+    "value": "Синє крісло."
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Це стілець."
+    "value": "Це крісло."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Стілець."
+    "value": "Крісло."
   },
   {
     "op": "replace",
@@ -32,16 +32,16 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Це стілець."
+    "value": "Це крісло."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Просте крісло бірюзового кольору."
+    "value": "Просте бірюзове крісло."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це стілець."
+    "value": "Це крісло."
   }
 ]

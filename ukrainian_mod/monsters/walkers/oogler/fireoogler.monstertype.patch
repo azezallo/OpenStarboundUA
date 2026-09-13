@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Fire Oogler"
+    "value": "Вогняний углер"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It appears mystified when encountering new life forms. You can't help but feel watched."
+    "value": "Він виглядає спантеличеним під час зустрічі з новими формами життя. Ви не можете позбутися відчуття, що за вами стежать."
   }
 ]

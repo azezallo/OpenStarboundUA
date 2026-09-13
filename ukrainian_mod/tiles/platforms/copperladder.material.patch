@@ -7,21 +7,21 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Здивований. Ця драбина виготовлена ​​з міді."
+    "value": "Здивований. Ця драбина виготовлена з міді."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Драбина виготовлена ​​з блискучої міді."
+    "value": "Драбина виготовлена зі блискучої міді."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Драбина з міді."
+    "value": "Драбина, зроблена з міді."
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Мідна драбина."
+    "value": "Мідна драбина"
   }
 ]

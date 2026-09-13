@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/gui/windowtitle/title",
-    "value": "  Покращення Маніпулятора Матерії"
+    "value": "Покращення Маніпулятора матерії"
   },
   {
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
-    "value": "  ^#b9b5b2;Маніпулюйте тим, що важливо, на вашому маніпуляторі матерії!"
+    "value": "^#b9b5b2;Маніпулюйте тим, що важливо, на вашому маніпуляторі матерії!"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/gui/lblUpgradeDescription/value",
-    "value": "У вас ще немає Маніпулятора Матерії."
+    "value": "У вас ще немає Маніпулятора матерії."
   },
   {
     "op": "replace",
@@ -57,7 +57,7 @@
   {
     "op": "replace",
     "path": "/upgrades/power3/description",
-    "value": "Збільшити швидкість розщеплення матерії на 300%"
+    "value": "Збільшує швидкість деконструкції матерії на 300%"
   },
   {
     "op": "replace",

@@ -2,6 +2,6 @@
   {
     "op": "replace",
     "path": "/ability/name",
-    "value": "Blade Charge"
+    "value": "Заряд клинка"
   }
 ]

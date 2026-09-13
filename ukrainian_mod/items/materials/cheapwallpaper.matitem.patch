@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Дешеві, липкі шпалери."
+    "value": "Дешеві, липкі шпалери"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Флоран обожнює красиві шпалери."
+    "value": "Флоран обожнює красиві шпалери"
   },
   {
     "op": "replace",

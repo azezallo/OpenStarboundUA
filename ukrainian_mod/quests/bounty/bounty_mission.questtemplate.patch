@@ -1,16 +1,16 @@
 [
   {
-    "value": "Цей текст не буде відображатися",
+    "value": "Цей текст не відображатиметься",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Цей текст не буде відображатися",
+    "value": "Цей текст не відображатиметься",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "Цей текст не буде відображатися",
+    "value": "Цей текст не відображатиметься",
     "path": "/completionText",
     "op": "replace"
   },
@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "^orange;Досліди^reset; планету на наявність ^green;сигнатури цілі^reset;",
+    "value": "^orange;Обшукай^reset; планету на наявність ^green;сигнатури цілі^reset;",
     "path": "/scriptConfig/objectives/missionTeleportStage/0",
     "op": "replace"
   },
@@ -35,7 +35,7 @@
     "op": "replace"
   },
   {
-    "value": "Мої знахідки на <prev.coordinate.name> привели мене до думки, що <bounty.name> знаходиться на <coordinate.name>.",
+    "value": "Мої знахідки <prev.coordinate.preposition> <prev.coordinate.name> дають підстави вважати, що <bounty.name> перебуває <coordinate.preposition> <coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/prev/0",
     "op": "replace"
   },
@@ -45,17 +45,17 @@
     "op": "replace"
   },
   {
-    "value": "Чудова робота із затриманням <bounty.name>, напарнику! Справедливість сьогодні справді перемогла.\n\nЗаходь на Станцію миротворців, щоб забрати свою нагороду!",
+    "value": "Файна робота із затримання <bounty.name>, напарнику! Справедливість сьогодні справді перемогла.\n\nЗавітай на станцію миротворців, щоб отримати свої нагороди!",
     "path": "/scriptConfig/generatedText/complete/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти затримав <bounty.name>? Відмінна робота, напарнику! Всесвіт став трохи безпечнішим.\n\nЗаходь на Станцію миротворців, щоб забрати свою нагороду!",
+    "value": "Ти затримав <bounty.name>? Відмінна робота, напарнику! Всесвіт став трішечки безпечнішим.\n\nЗавітай на станцію миротворців, щоб отримати свої нагороди!",
     "path": "/scriptConfig/generatedText/complete/default/1",
     "op": "replace"
   },
   {
-    "value": "Ти його відпустив?! Мушу сказати, цього разу ти не впорався зі своїми обов'язками Миротворця, напарнику!",
+    "value": "Ти відпустив їх?! Мушу сказати, цього разу ти не впорався зі своїми обов'язками миротворця, напарнику!",
     "path": "/scriptConfig/generatedText/failure/escape/0",
     "op": "replace"
   }

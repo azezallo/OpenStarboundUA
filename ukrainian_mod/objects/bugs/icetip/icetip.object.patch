@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "У цього жука крила замерзли."
+    "value": "Крила цього жука геть укрилися кригою."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Icetip"
+    "value": "Кригокрил"
   }
 ]

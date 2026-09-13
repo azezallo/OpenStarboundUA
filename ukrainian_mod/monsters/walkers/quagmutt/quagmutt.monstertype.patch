@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Quagmutt"
+    "value": "Квагматт"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Its unhygienic lifestyle leaves much to be desired."
+    "value": "Його негігієнічний спосіб життя залишає бажати кращого."
   }
 ]

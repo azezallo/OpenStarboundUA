@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Лампа з гладко різьбленого світиться кришталю."
+    "value": "Лампа, зроблена зі свіжо різьбленого світлячого кристалу."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Лампа Prism Cyan"
+    "value": "Лампа синьої призми"
   },
   {
     "op": "replace",

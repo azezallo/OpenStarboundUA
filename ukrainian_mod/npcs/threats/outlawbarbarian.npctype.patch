@@ -1,26 +1,26 @@
 [
   {
-    "value": "До бою!",
+    "value": "Атака!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран готовий вбити ще одну жертву!",
+    "value": "Флоран готовий до полювання сссум ще раз!",
     "path": "/scriptConfig/dialog/attack/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти тут, щоб битиссся з флораном? Флоран вражений!",
+    "value": "Ти тут, щоб боротися з Флораном? Флоран вражений!",
     "path": "/scriptConfig/dialog/attack/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Приготуйссся бути пронизаним!",
+    "value": "Будь готовий до ссскерування!",
     "path": "/scriptConfig/dialog/attack/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Флоран - найкращий мисливець!",
+    "value": "Флоран найсссміліший серед усіх мисливців!",
     "path": "/scriptConfig/dialog/attack/floran/default/3",
     "op": "replace"
   }

@@ -2,32 +2,32 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ковадло використовується для виробництва обладунків і зброї з тканини і руд."
+    "value": "Ковадло використовується для виготовлення обладунків і зброї з тканини й руд."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "^orange;анвіло^white;"
+    "value": "^orange;ковадло^white;"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Ковадло. Apex не використовував їх для металоконструкцій протягом тривалого часу."
+    "value": "Ковадло. Апекси давно не використовували їх для металургії."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Велика залізна плита з плоскою поверхнею."
+    "value": "Велика залізна брила з пласкою поверхнею."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Дуже важкий, корисний у пастці."
+    "value": "Дуже важке, корисссне для пассстки."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Гордий. На цих ковадлах Глітч виготовляє всі види зброї. На цих ковадлах майструють навіть ковадла."
+    "value": "Гордість. Глітчі виготовляють всі види зброї на цих ковадлах. Вони навіть майструють ковадла на цих ковадлах."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Ймовірно, використовувався в металообробці."
+    "value": "Ймовірно, використовується для обробки металу."
   },
   {
     "op": "replace",
@@ -47,42 +47,42 @@
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
-    "value": "Ковадло використовується для виробництва обладунків і зброї з тканини і руд."
+    "value": "Ковадло використовується для виготовлення обладунків і зброї з тканини й руд."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "value": "^orange;анвіло^white;"
+    "value": "^orange;ковадло^white;"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
-    "value": "Ковадло. Apex не використовував їх для металоконструкцій протягом тривалого часу."
+    "value": "Ковадло. Апекси давно не використовували їх для металургії."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
-    "value": "Велика залізна плита з плоскою поверхнею."
+    "value": "Велика залізна брила з пласкою поверхнею."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "value": "Дуже важкий, корисний у пастці."
+    "value": "Дуже важке, корисссне для пассстки."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-    "value": "Гордий. На цих ковадлах Глітч виготовляє всі види зброї. На цих ковадлах майструють навіть ковадла."
+    "value": "Гордість. Глітчі виготовляють всі види зброї на цих ковадлах. Вони навіть майструють ковадла на цих ковадлах."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-    "value": "Ковадло. Люди не використовували їх з самого початку своєї історії."
+    "value": "Ковадло. Люди не користувалися такими з ранніх періодів своєї історії."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-    "value": "Ймовірно, використовувався в металообробці."
+    "value": "Ймовірно, використовується для обробки металу."
   },
   {
     "op": "replace",
@@ -107,7 +107,7 @@
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-    "value": "^orange;Fforge^white;"
+    "value": "^orange;Кузня^white;"
   },
   {
     "op": "replace",
@@ -117,12 +117,12 @@
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
-    "value": "Кузня для створення техніки з металу."
+    "value": "Кузня для створення обладнання з металу."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "value": "Флоран створив сильну зброю на станції sssstation."
+    "value": "Флоран створює сссильну зброю на sssстанції."
   },
   {
     "op": "replace",
@@ -162,7 +162,7 @@
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
-    "value": "^orange;Replicator^white;"
+    "value": "^orange;Реплікатор^white;"
   },
   {
     "op": "replace",
@@ -177,7 +177,7 @@
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
-    "value": "Флоран робить тут сильну зброю."
+    "value": "Флоран робить тут ссильну зброю."
   },
   {
     "op": "replace",

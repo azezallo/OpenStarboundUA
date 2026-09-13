@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Набір із трьох телевізійних моніторів, спрямованих у різні боки»."
+    "value": "Комплект із трьох телевізійних моніторів, спрямованих у різні боки."
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Серія моніторів. Нічого цікавого не кажуть."
+    "value": "Низка моніторів. Вони не показують нічого цікавого."
   },
   {
     "op": "replace",
@@ -22,26 +22,26 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssscreens."
+    "value": "Екраниссс."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нудно. Кілька екранів."
+    "value": "Нудьга. Кілька екранів."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Екрани. Вони, здається, не показують багато чого."
+    "value": "Екрани. Здається, вони майже нічого не показують."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Набір з трьох ширм."
+    "value": "Комплект із трьох екранів."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ці екрани не загоряються."
+    "value": "Оці екрани навіть не світяться."
   }
 ]

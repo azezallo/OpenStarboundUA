@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Шафка Miniknog."
+    "value": "Шафка Міннауку."
   },
   {
     "op": "replace",
@@ -12,22 +12,22 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Цікаво, чи є всередині якісь секрети..."
+    "value": "Цікаво, чи є всередині якісь таємниці..."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Чи може бути всередині щось цінне?"
+    "value": "Чи є всередині щось цінне?"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "SSsssearch."
+    "value": "Оссшукати."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "схвильований. Є всередині цікаві речі?"
+    "value": "Захоплення. Чи є всередині щось цікаве?"
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Шафка. Що він містить?"
+    "value": "Шафка. І що ж там усередині, га?"
   }
 ]

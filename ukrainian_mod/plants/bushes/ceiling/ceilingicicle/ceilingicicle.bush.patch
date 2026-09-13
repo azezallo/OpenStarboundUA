@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "An icicle."
+    "value": "Бурулька."
   },
   {
     "op": "replace",
@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssstabby бурулька."
+    "value": "Ссстаббі бурулька."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. An icicle."
+    "value": "Заява. Бурулька."
   }
 ]

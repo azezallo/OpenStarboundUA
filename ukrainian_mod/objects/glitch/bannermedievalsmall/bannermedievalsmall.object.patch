@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Гарно витканий банер."
+    "value": "Чудово витканий стяг."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Маленький глюк банер"
+    "value": "Малий стяг глітчів"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Майстерно витканий банер."
+    "value": "Майстерно витканий стяг."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Можливо, декоративний банер?"
+    "value": "Можливо, декоративний стяг?"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Червоний sssilky банер."
+    "value": "Червоний сшовковистий банер."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Гордий. Glitch виготовляє банери всіх видів. Вони символізують різні будинки Глітча."
+    "value": "Гордість. Глітчі виготовляють усілякі банери. Вони символізують різні шляхетні роди глітчів."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Шикарний банер."
+    "value": "Вишуканий стяг."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Цей банер був створений з великою гордістю. Це повинно мати значення."
+    "value": "Цей банер виткано з великою гордістю. Він напевно має особливе значення."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Могутній гарний банер."
+    "value": "Префайний банер, йо."
   }
 ]

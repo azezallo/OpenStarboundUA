@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Чагарник."
+    "value": "Чагарник"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Чагарник."
+    "value": "Чагарник"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssshrub."
+    "value": "Куссщ."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Чагарник."
+    "value": "Заява. Чагарник"
   }
 ]

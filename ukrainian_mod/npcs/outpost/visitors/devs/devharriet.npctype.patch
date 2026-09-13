@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/identity/name",
-    "value": "Harriet"
+    "value": "Гаррієт"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Hi, I'm Harriet! I love Sci-fi RPGs."
+    "value": "Привіт, я Гаріет! Я люблю науково-фантастичні RPG."
   }
 ]

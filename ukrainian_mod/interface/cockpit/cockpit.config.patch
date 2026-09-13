@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/gui/windowtitle/title",
-    "value": " Навігаційна консоль"
+    "value": "Навігаційна консоль"
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value",
-    "value": "Назва закладки"
+    "value": "Назва"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/gui/editBookmarkFrame/children/close/caption",
-    "value": "Скасувати"
+    "value": "Скас."
   },
   {
     "op": "replace",
@@ -42,7 +42,7 @@
   {
     "op": "replace",
     "path": "/gui/editBookmarkFrame/children/name/hint",
-    "value": "Введіть назву закладки"
+    "value": "Назва закладки"
   },
   {
     "op": "replace",
@@ -52,7 +52,7 @@
   {
     "op": "replace",
     "path": "/gui/jumpDialog/children/cancel/caption",
-    "value": "Скасувати"
+    "value": "Скас."
   },
   {
     "op": "replace",
@@ -137,7 +137,7 @@
   {
     "op": "replace",
     "path": "/gui/planetinfo/children/inner/children/threatLabel/value",
-    "value": "Загроза: "
+    "value": "Загроза:"
   },
   {
     "op": "replace",
@@ -397,7 +397,7 @@
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tundra/2",
-    "value": "^red;Температура на місці висадки небезпечно низька^white;. Зона ^#61ffe3;замерзла^white; і населена лише флорою та фауною, які надзвичайно стійкі до холоду. "
+    "value": "^red;Температура на місці висадки небезпечно низька^white;. Зона ^#61ffe3;замерзла^white; і населена лише флорою та фауною, які надзвичайно стійкі до холоду."
   },
   {
     "op": "replace",
@@ -407,7 +407,7 @@
   {
     "op": "replace",
     "path": "/visitableTypeDescription/volcanic/1",
-    "value": "^#e11212;Вулканічна^white; активність руйнує цю планету, а місце висадки знаходиться в зоні особливої жорстокості. ^red;Температура набагато перевищує нормально виживані рівні^white;."
+    "value": "^#e11212;Вулканічна^white; активність руйнує цю планету, а місце висадки знаходиться в зоні особливої жорстокості. ^red;Температура значно перевищує межі виживання^white;."
   },
   {
     "op": "replace",
@@ -467,7 +467,7 @@
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon/1",
-    "value": "Цей ^#949493;місяць^white; не підтримує життя і має ^red;відсутню атмосферу^white;. Однак палива тут вдосталь - сканування показують, що його багато закопано під поверхнею. "
+    "value": "Цей ^#949493;місяць^white; не підтримує життя і ^red;не має атмосфери^white;. Однак палива тут вдосталь - сканування показують, що його багато закопано під поверхнею."
   },
   {
     "op": "replace",
@@ -592,12 +592,12 @@
   {
     "op": "replace",
     "path": "/displayOres/gold/displayName",
-    "value": "Золото"
+    "value": "Золотий"
   },
   {
     "op": "replace",
     "path": "/displayOres/iron/displayName",
-    "value": "Залізо"
+    "value": "Залізний"
   },
   {
     "op": "replace",
@@ -632,12 +632,12 @@
   {
     "op": "replace",
     "path": "/displayOres/solarium/displayName",
-    "value": "Солярій"
+    "value": "Соларій"
   },
   {
     "op": "replace",
     "path": "/displayOres/erchius/displayName",
-    "value": "Кристалічне ерхієве паливо"
+    "value": "Кристальне Ерхієве паливо"
   },
   {
     "op": "replace",
@@ -777,7 +777,7 @@
   {
     "op": "replace",
     "path": "/planetTypeNames/desert",
-    "value": "Пустельна"
+    "value": "Пустеля"
   },
   {
     "op": "replace",
@@ -837,7 +837,7 @@
   {
     "op": "replace",
     "path": "/planetTypeNames/magma",
-    "value": "Лавова"
+    "value": "Лава"
   },
   {
     "op": "replace",
@@ -937,7 +937,7 @@
   {
     "op": "replace",
     "path": "/objectThreatText/unavailable",
-    "value": "ПОТРЕБУЄ МЕХА ДЛЯ ВИСАДКИ"
+    "value": "ДЛЯ ВИСАДКИ ПОТРІБЕН МЕХ"
   },
   {
     "op": "replace",
@@ -982,7 +982,7 @@
   {
     "op": "replace",
     "path": "/systemTooltipConfig/type/hAnchor",
-    "value": "left"
+    "value": "ліворуч"
   },
   {
     "op": "replace",
@@ -992,7 +992,7 @@
   {
     "op": "replace",
     "path": "/systemTooltipConfig/explored/hAnchor",
-    "value": "right"
+    "value": "праворуч"
   },
   {
     "op": "replace",

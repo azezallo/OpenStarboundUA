@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "value": "  Astro Merchant"
+    "value": "Астро торговець"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "value": "  Sells astro furniture!"
+    "value": "Продає астро меблі!"
   }
 ]

@@ -1,26 +1,26 @@
 [
   {
-    "value": "Новакид",
+    "value": "Новакід",
     "path": "/charCreationTooltip/title",
     "op": "replace"
   },
   {
-    "value": "Новакиди — містична раса, або ж \"міжзоряні газові люди\". У них немає ані певного місця проживання, ані історії. Вони летючі істоти, не зворушені минулим. Ніхто не знає, з чого вони зроблені та звідки вони.",
+    "value": "Новакіди — таємнича раса \"міжзоряних газових істот\". Вони не мають нанесених на карти поселень і задокументованої історії. Це мінливі створіння, яких анітрохи не турбує минуле. Ніхто не знає, з чого вони створені, і тим паче звідки вони прийшли.",
     "path": "/charCreationTooltip/description",
     "op": "replace"
   },
   {
-    "value": "Колір сяйва",
+    "value": "Колір газу",
     "path": "/charGenTextLabels/0",
     "op": "replace"
   },
   {
-    "value": "Волосся",
+    "value": "Зачіска",
     "path": "/charGenTextLabels/1",
     "op": "replace"
   },
   {
-    "value": "Одяг",
+    "value": "Сорочка",
     "path": "/charGenTextLabels/2",
     "op": "replace"
   },
@@ -30,17 +30,17 @@
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "[ID: 102823] Тавро",
     "path": "/charGenTextLabels/4",
     "op": "replace"
   },
   {
-    "value": "Тавро",
+    "value": "Бренд",
     "path": "/charGenTextLabels/5",
     "op": "replace"
   },
   {
-    "value": "Колір одягу",
+    "value": "Колір сорочки",
     "path": "/charGenTextLabels/6",
     "op": "replace"
   },
@@ -50,7 +50,7 @@
     "op": "replace"
   },
   {
-    "value": "НОВАКИД",
+    "value": "НОВАКІД",
     "path": "/charGenTextLabels/8",
     "op": "replace"
   },

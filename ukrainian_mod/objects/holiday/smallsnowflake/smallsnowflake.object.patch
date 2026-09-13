@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Маленька прикраса сніжинка."
+    "value": "Маленька сніжинка."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Маленька Сніжинка"
+    "value": "Маленька сніжинка"
   },
   {
     "op": "replace",

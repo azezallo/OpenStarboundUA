@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "TAG0GAТаблиця для збору їжі^white;"
+    "value": "^orange;Таблиця для збору їжі^white;"
   },
   {
     "op": "replace",
@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Шанс продемонструвати свою здатність добувати їжу."
+    "value": "Шанс продемонструвати свою здатність збирати їжу."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Стіл Флорана Уссе. Флоран любить полювати!"
+    "value": "Таблиця Флоранів. Флорани люблять полювати!"
   },
   {
     "op": "replace",
@@ -52,7 +52,7 @@
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "value": "TAG0GAТаблиця для збору їжі^white;"
+    "value": "^orange;Таблиця для збору їжі^white;"
   },
   {
     "op": "replace",
@@ -62,12 +62,12 @@
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
-    "value": "Шанс продемонструвати свою здатність добувати їжу."
+    "value": "Шанс продемонструвати свою здатність збирати їжу."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "value": "Стіл Флорана Уссе. Флоран любить полювати!"
+    "value": "Таблиця Флоранів. Флорани люблять полювати!"
   },
   {
     "op": "replace",
@@ -97,12 +97,12 @@
   {
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "^#b9b5b2;Фараж, ферма та полювання"
+    "value": "^#b9b5b2;Збирання, фермерство та полювання"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
-    "value": "Використовується для виробництва передових предметів для полювання, видобутку корисних копалин і землеробства."
+    "value": "Використовується для виробництва передових предметів для полювання, видобування корисних копалин і землеробства."
   },
   {
     "op": "replace",
@@ -117,12 +117,12 @@
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
-    "value": "Шанс продемонструвати свою здатність добувати їжу."
+    "value": "Шанс продемонструвати свою здатність збирати їжу."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "value": "Стіл Флорана Уссе. Флоран любить полювати!"
+    "value": "Таблиця Флоранів. Флорани люблять полювати!"
   },
   {
     "op": "replace",
@@ -152,6 +152,6 @@
   {
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "^#b9b5b2;Фараж, ферма та полювання"
+    "value": "^#b9b5b2;Збирання, фермерство та полювання"
   }
 ]

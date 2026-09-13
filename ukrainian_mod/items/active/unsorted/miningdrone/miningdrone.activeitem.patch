@@ -7,6 +7,6 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Дрон для майнінгу"
+    "value": "Майнінговий дрон"
   }
 ]

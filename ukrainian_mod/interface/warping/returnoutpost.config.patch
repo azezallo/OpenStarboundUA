@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/destinations/0/name",
-    "value": "Назад на Аванпост"
+    "value": "Назад на Форпост"
   },
   {
     "op": "replace",

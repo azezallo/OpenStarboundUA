@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Crusssty старий вентиляційний отвір."
+    "value": "Засмічений старий вентиляційний отвір."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Безкорисливий. Вентиляційний отвір."
+    "value": "Беззацікавий. Вентиль."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Старий вентиляційний отвір. Воно все поіржавіло."
+    "value": "Старий вентиляційний отвір. Він повністю зірвався."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Цей старий отвір бачив кращі дні."
+    "value": "Цей старий вентиль бачив кращі дні."
   }
 ]

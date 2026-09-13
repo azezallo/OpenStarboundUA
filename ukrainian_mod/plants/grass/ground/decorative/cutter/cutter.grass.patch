@@ -5,17 +5,17 @@
     "op": "replace"
   },
   {
-    "value": "Гострокінцева рослина",
+    "value": "Гострокінцева рослина.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Госсстрий лісссовий цвіт.",
+    "value": "Ссшліткий ссшипий цвіт.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердно. Гострокінцева рослина.",
+    "value": "Заява. Гостра рослина.",
     "path": "/glitchDescription",
     "op": "replace"
   }

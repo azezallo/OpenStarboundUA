@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ссшиний глечик."
+    "value": "Ссшний глечик."
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Золотий парадний глечик."
+    "value": "Золотий церемонічний глечик."
   },
   {
     "op": "replace",

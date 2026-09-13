@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Флоп маркер."
+    "value": "Маркер «Флуп»."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "флоп"
+    "value": "Флуп"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Floop знак."
+    "value": "Знак «Флуп»."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Знак провалу."
+    "value": "Знак «Флуп»."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floopy sssign."
+    "value": "Флуповий сссзнак."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "спантеличений. Floop знак."
+    "value": "Спантеличеність. Знак «Флуп»."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Знак провалу."
+    "value": "Знак «Флуп»."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Знак провалу."
+    "value": "Знак «Флуп»."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це знак провалу! Вупі!"
+    "value": "Це ж знак «Флуп»! Йой, файно!"
   }
 ]

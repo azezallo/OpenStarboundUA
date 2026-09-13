@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Хиткий стіл із листя та коріння."
+    "value": "Тряпий стіл із листя та коренів."
   },
   {
     "op": "replace",
@@ -12,32 +12,32 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Дуже грубий стіл із коренів."
+    "value": "Дуже грубий стіл з коренів."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Цей стіл зроблений з коренів багна."
+    "value": "Цей стіл зроблений з коренів болот."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssimple sswamp таблиця."
+    "value": "Простіший болотний стіл."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спостережливий. Стіл, здебільшого створений із великих коренів."
+    "value": "Спостережливий. Стіл, здебільшого зроблений із великих коренів."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Стіл виготовлений з лози та коріння багна."
+    "value": "Стіл виготовлений з лози та коренів болот."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Грубо, але це робить свою роботу."
+    "value": "Грубо, але виконує свою роботу."
   },
   {
     "op": "replace",

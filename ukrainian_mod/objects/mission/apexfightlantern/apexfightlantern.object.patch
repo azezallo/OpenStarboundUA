@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ліхтар Apex"
+    "value": "Ліхтар Апекси"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Невеликий, але ефектний ліхтар."
+    "value": "Невеликий, але ефективний ліхтар."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Блискуче пристосування для освітлення доріжки Флорана."
+    "value": "Блискуче пристосування для освітлення доріжки Флорани"
   },
   {
     "op": "replace",

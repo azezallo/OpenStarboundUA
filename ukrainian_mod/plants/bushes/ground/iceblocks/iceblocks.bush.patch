@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Брила льоду."
+    "value": "Блок льда"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Брила льоду."
+    "value": "Блок льда"
   },
   {
     "op": "replace",
@@ -17,6 +17,6 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Брила льоду."
+    "value": "Заява. Блок льда"
   }
 ]

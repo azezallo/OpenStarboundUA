@@ -1,41 +1,41 @@
 [
   {
-    "value": "Давай дізнаємося, що це за скам'янілість! Поклади її та розбий!",
+    "value": "Давай дізнаємося, що це був той фосил! Поклади його і розбий!",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Скам'янілий кокон",
+    "value": "Фоссилний кокон",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "-Виготовляється-",
+    "value": "-todo-",
     "path": "/apexDescription",
     "op": "replace"
   },
   {
-    "value": "-Виготовляється-",
+    "value": "-todo-",
     "path": "/avianDescription",
     "op": "replace"
   },
   {
-    "value": "-Виготовляється-",
+    "value": "-todo-",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "-Виготовляється-",
+    "value": "-todo-",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "-Виготовляється-",
+    "value": "-todo-",
     "path": "/humanDescription",
     "op": "replace"
   },
   {
-    "value": "-Виготовляється-",
+    "value": "-todo-",
     "path": "/hylotlDescription",
     "op": "replace"
   },

@@ -1,11 +1,11 @@
 [
   {
-    "value": "^orange;Вбити ціль",
+    "value": "^orange;Ліквідувати ціль",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Вбити ціль на місці",
+    "value": "Ліквідувати ціль на місці",
     "path": "/text",
     "op": "replace"
   },
@@ -30,17 +30,17 @@
     "op": "replace"
   },
   {
-    "value": "^green;<coordinate.name>^reset;:\nСканування сигнатури цілі привело мене до <next.coordinate.name>.\n\n",
+    "value": "^green;<coordinate.name>^reset;:\nСканування сигнатури цілі привело мене до <next.coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/prev/0",
     "op": "replace"
   },
   {
-    "value": "^green;<coordinate.name>^reset;:\nСкануючи планети в цій системі, я виявив сигнатуру цілі на <next.coordinate.name>.\n\n",
+    "value": "^green;<coordinate.name>^reset;:\nСкануючи планети в цій системі, я виявив сигнатуру цілі на <next.coordinate.name>.",
     "path": "/scriptConfig/generatedText/text/prev/1",
     "op": "replace"
   },
   {
-    "value": "<bounty.name> востаннє бачили десь у <coordinate.systemName>.",
+    "value": "<bounty.name> востаннє бачили десь у системі <coordinate.systemName>.",
     "path": "/scriptConfig/generatedText/text/default/0",
     "op": "replace"
   }

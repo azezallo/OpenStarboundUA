@@ -1,41 +1,41 @@
 [
   {
-    "value": "Ніхто не здатен осягнути досконалий жарт! Мій комічний талант марнується тут на невігласів.",
+    "value": "Ніхто не цінує хороший жарт! Мій комічний геній марнується тут на невігласів.",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Ніхто не здатен осягнути досконалий жарт! Мій комічний талант марнується тут на невігласів.",
+    "value": "Ніхто не цінує хороший жарт! Мій комічний геній марнується тут на невігласів.",
     "path": "/scriptConfig/dialog/converse/hylotl/default/0",
     "op": "replace"
   },
   {
-    "value": "Вже йдеш? І лише п'яти миготять...",
+    "value": "Вийшов сам? Думаю, ти дійсно… втік із клітки!",
     "path": "/scriptConfig/dialog/converse/hylotl/avian/0",
     "op": "replace"
   },
   {
-    "value": "Що закоханий апекс мовив своїй дружині? Ти принесеш мені банани!",
+    "value": "Що сказав закоханий Апекс своїй дружині? Ти мене крутить, як банан!",
     "path": "/scriptConfig/dialog/converse/hylotl/apex/0",
     "op": "replace"
   },
   {
-    "value": "Що каже флоран другу? Квітка пуп'янка!",
+    "value": "Як назвати друга Флорана? Квітковий бутон!",
     "path": "/scriptConfig/dialog/converse/hylotl/floran/0",
     "op": "replace"
   },
   {
-    "value": "Жарт. Який улюблений танець у ґлітча? Робот!",
+    "value": "Радість. Який улюблений танець ґлітча? Робот!",
     "path": "/scriptConfig/dialog/converse/hylotl/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Що вийде, якщо поголити апекса? Людина!",
+    "value": "Що вийде, якщо поголити Апекса? Людина!",
     "path": "/scriptConfig/dialog/converse/hylotl/human/0",
     "op": "replace"
   },
   {
-    "value": "Ніхто не здатен осягнути досконалий жарт! Мій комічний талант марнується тут на невігласів.",
+    "value": "Ніхто не цінує хороший жарт! Мій комічний геній марнується тут на невігласів.",
     "path": "/scriptConfig/dialog/converse/hylotl/hylotl/0",
     "op": "replace"
   }

@@ -1,21 +1,21 @@
 [
   {
-    "value": "Таємничий мандрівний кристал.",
+    "value": "Таємничий плаваючий кристал.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Таємничий мандрівний кристал",
+    "value": "Таємничий плаваючий кристал.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Плавучий блиссск.",
+    "value": "Плаваючий блиск.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Спантеличеність. Мандрівний кристал.",
+    "value": "Спантеличеність. Плаваючий кристал.",
     "path": "/glitchDescription",
     "op": "replace"
   }

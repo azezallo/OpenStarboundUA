@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
-    "value": "Intruder!"
+    "value": "Нарушник!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/0",
-    "value": "RIP AND TEAR!"
+    "value": "Розірви та розбий!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/1",
-    "value": "RIP AND TEAR!"
+    "value": "Розірви та розбий!"
   }
 ]

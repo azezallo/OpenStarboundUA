@@ -15,22 +15,22 @@
     "op": "replace"
   },
   {
-    "value": "співробітник",
+    "value": "колега по роботі",
     "path": "/scriptConfig/generatedText/fluff/0/1/3",
     "op": "replace"
   },
   {
-    "value": "старий друг",
+    "value": "давній друг",
     "path": "/scriptConfig/generatedText/fluff/0/1/4",
     "op": "replace"
   },
   {
-    "value": "друг",
+    "value": "пара на побаченні",
     "path": "/scriptConfig/generatedText/fluff/0/1/5",
     "op": "replace"
   },
   {
-    "value": "партнер по полюванню",
+    "value": "напарник на полюванні",
     "path": "/scriptConfig/generatedText/fluff/1/1/0",
     "op": "replace"
   },
@@ -40,12 +40,12 @@
     "op": "replace"
   },
   {
-    "value": "партнер по спарингу",
+    "value": "напарник по ссспарингу",
     "path": "/scriptConfig/generatedText/fluff/1/1/2",
     "op": "replace"
   },
   {
-    "value": "партнер по тренуванням",
+    "value": "партнер по тренуваннях",
     "path": "/scriptConfig/generatedText/fluff/1/1/3",
     "op": "replace"
   },
@@ -55,12 +55,12 @@
     "op": "replace"
   },
   {
-    "value": "не так давно",
+    "value": "нещодавно",
     "path": "/scriptConfig/generatedText/fluff/2/1/1",
     "op": "replace"
   },
   {
-    "value": "сьогодні раніше",
+    "value": "раніше сьогодні",
     "path": "/scriptConfig/generatedText/fluff/2/1/2",
     "op": "replace"
   },
@@ -75,12 +75,12 @@
     "op": "replace"
   },
   {
-    "value": "обговорити ідеї щодо <activity2>",
+    "value": "обдумати ідеї щодо <activity2>",
     "path": "/scriptConfig/generatedText/fluff/3/1/0",
     "op": "replace"
   },
   {
-    "value": "потусуватися",
+    "value": "провести час разом",
     "path": "/scriptConfig/generatedText/fluff/3/1/1",
     "op": "replace"
   },
@@ -90,12 +90,12 @@
     "op": "replace"
   },
   {
-    "value": "незручно стояти разом",
+    "value": "незручно постояти разом",
     "path": "/scriptConfig/generatedText/fluff/3/1/3",
     "op": "replace"
   },
   {
-    "value": "поговорити про <activity2>, що нам подобається",
+    "value": "поговорити про улюблену <activity2>",
     "path": "/scriptConfig/generatedText/fluff/3/1/4",
     "op": "replace"
   },
@@ -105,7 +105,7 @@
     "op": "replace"
   },
   {
-    "value": "навчитися майструвати речі разом",
+    "value": "повчитися майструвати речі разом",
     "path": "/scriptConfig/generatedText/fluff/3/1/6",
     "op": "replace"
   },
@@ -115,7 +115,7 @@
     "op": "replace"
   },
   {
-    "value": "попрактикувати наші жарти",
+    "value": "відрепетирувати наші жарти",
     "path": "/scriptConfig/generatedText/fluff/3/1/8",
     "op": "replace"
   },
@@ -130,12 +130,12 @@
     "op": "replace"
   },
   {
-    "value": "поговорити про нашу заборонену любов до <activity3>",
+    "value": "потеревенити про нашу заборонену любов до <activity3>",
     "path": "/scriptConfig/generatedText/fluff/3/1/11",
     "op": "replace"
   },
   {
-    "value": "зблизитися через наше захоплення <activity3>",
+    "value": "зблизитися через нашу спільну любов до <activity3>",
     "path": "/scriptConfig/generatedText/fluff/3/1/12",
     "op": "replace"
   },
@@ -145,7 +145,7 @@
     "op": "replace"
   },
   {
-    "value": "книгу",
+    "value": "книжку",
     "path": "/scriptConfig/generatedText/fluff/4/1/0",
     "op": "replace"
   },
@@ -170,7 +170,7 @@
     "op": "replace"
   },
   {
-    "value": "капелюхів",
+    "value": "капелюхи",
     "path": "/scriptConfig/generatedText/fluff/5/1/1",
     "op": "replace"
   },
@@ -210,12 +210,12 @@
     "op": "replace"
   },
   {
-    "value": "сучасний танець",
+    "value": "виразний танець",
     "path": "/scriptConfig/generatedText/fluff/5/1/9",
     "op": "replace"
   },
   {
-    "value": "поп-культуру",
+    "value": "відсилання до попкультури",
     "path": "/scriptConfig/generatedText/fluff/5/1/10",
     "op": "replace"
   },
@@ -235,7 +235,7 @@
     "op": "replace"
   },
   {
-    "value": "Я не сумніваюсь",
+    "value": "Я не сумніваюся",
     "path": "/scriptConfig/generatedText/fluff/7/1/1",
     "op": "replace"
   },
@@ -245,12 +245,12 @@
     "op": "replace"
   },
   {
-    "value": "Я підозрюю",
+    "value": "Маю підозру",
     "path": "/scriptConfig/generatedText/fluff/7/1/3",
     "op": "replace"
   },
   {
-    "value": "на пробіжці",
+    "value": "бігав<questGiver.pronoun.obj1end>",
     "path": "/scriptConfig/generatedText/fluff/8/1/0",
     "op": "replace"
   },
@@ -260,7 +260,7 @@
     "op": "replace"
   },
   {
-    "value": "за співами",
+    "value": "за співом",
     "path": "/scriptConfig/generatedText/fluff/8/1/2",
     "op": "replace"
   },
@@ -275,7 +275,7 @@
     "op": "replace"
   },
   {
-    "value": "наздоганяючи одне одного",
+    "value": "надолужуючи згаяне",
     "path": "/scriptConfig/generatedText/fluff/8/1/5",
     "op": "replace"
   },
@@ -285,57 +285,57 @@
     "op": "replace"
   },
   {
-    "value": "за бесідою",
+    "value": "за балаканиною",
     "path": "/scriptConfig/generatedText/fluff/8/1/7",
     "op": "replace"
   },
   {
-    "value": "за ловлею жуків",
+    "value": "ловлячи комах",
     "path": "/scriptConfig/generatedText/fluff/8/1/8",
     "op": "replace"
   },
   {
-    "value": "за збиранням припасів",
+    "value": "збираючи припаси",
     "path": "/scriptConfig/generatedText/fluff/8/1/9",
     "op": "replace"
   },
   {
-    "value": "на дослідженні",
+    "value": "досліджуючи околиці",
     "path": "/scriptConfig/generatedText/fluff/8/1/10",
     "op": "replace"
   },
   {
-    "value": "на полюванні за скарбами",
+    "value": "полюючи на скарби",
     "path": "/scriptConfig/generatedText/fluff/8/1/11",
     "op": "replace"
   },
   {
-    "value": "за спостереженням за птахами",
+    "value": "спостерігаючи за птахами",
     "path": "/scriptConfig/generatedText/fluff/8/1/12",
     "op": "replace"
   },
   {
-    "value": "на скелелазінні",
+    "value": "займаючись скелелазінням",
     "path": "/scriptConfig/generatedText/fluff/8/1/13",
     "op": "replace"
   },
   {
-    "value": "за спробами побудувати будинок на дереві",
+    "value": "намагаючись збудувати хатинку на дереві",
     "path": "/scriptConfig/generatedText/fluff/8/1/14",
     "op": "replace"
   },
   {
-    "value": "за пошуками місця для плавання",
+    "value": "шукаючи місце для купання",
     "path": "/scriptConfig/generatedText/fluff/8/1/15",
     "op": "replace"
   },
   {
-    "value": "трохи попрактикуватиссся в бою",
+    "value": "трохи бойової практикиссс",
     "path": "/scriptConfig/generatedText/fluff/9/1/0",
     "op": "replace"
   },
   {
-    "value": "трохи попрактикуватиссся в полюванні",
+    "value": "трохи мисссливської практики",
     "path": "/scriptConfig/generatedText/fluff/9/1/1",
     "op": "replace"
   },
@@ -345,12 +345,12 @@
     "op": "replace"
   },
   {
-    "value": "трохи попрактикуватиссся зі списом",
+    "value": "трохи потренуватися зі сссписом",
     "path": "/scriptConfig/generatedText/fluff/9/1/3",
     "op": "replace"
   },
   {
-    "value": "особисті сссправи",
+    "value": "особбисті причини",
     "path": "/scriptConfig/generatedText/fluff/9/1/4",
     "op": "replace"
   },
@@ -365,7 +365,7 @@
     "op": "replace"
   },
   {
-    "value": "ми раптом загубили одне одного",
+    "value": "ми раптом утратили одне одного з виду",
     "path": "/scriptConfig/generatedText/fluff/10/1/2",
     "op": "replace"
   },
@@ -390,7 +390,7 @@
     "op": "replace"
   },
   {
-    "value": "мають до цього відношення",
+    "value": "причетні до цього",
     "path": "/scriptConfig/generatedText/fluff/12/1/0",
     "op": "replace"
   },
@@ -400,7 +400,7 @@
     "op": "replace"
   },
   {
-    "value": "мають до цього відношенннння",
+    "value": "мають до цього відношшшення",
     "path": "/scriptConfig/generatedText/fluff/13/1/0",
     "op": "replace"
   },
@@ -420,7 +420,7 @@
     "op": "replace"
   },
   {
-    "value": "Я певен, що тепер <victim.pronoun.subject> у безпеці завдяки тобі!",
+    "value": "Я певен, що тепер <victim.pronoun.subject> полегшено зітхне завдяки тобі!",
     "path": "/scriptConfig/generatedText/fluff/14/1/2",
     "op": "replace"
   },
@@ -435,67 +435,67 @@
     "op": "replace"
   },
   {
-    "value": "Ситуація із заручником",
+    "value": "Захоплення заручника",
     "path": "/scriptConfig/generatedText/title/default/1",
     "op": "replace"
   },
   {
-    "value": "Порятунок друга <questGiver>",
+    "value": "Порятунок: <friend> (<questGiver>)",
     "path": "/scriptConfig/generatedText/title/default/2",
     "op": "replace"
   },
   {
-    "value": "^cyan;Я хвилююсь за свого друга <victimNpcType>.",
+    "value": "^cyan;Я хвилююся за свого <friend>, це <victimNpcType>.",
     "path": "/scriptConfig/generatedText/goalText/default/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Мій друг зник.",
+    "value": "^cyan;Мій <friend> зник.",
     "path": "/scriptConfig/generatedText/goalText/default/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;У флорана зник <friendfloran>.",
+    "value": "^cyan;У Флорана зник <friendfloran>.",
     "path": "/scriptConfig/generatedText/goalText/floran/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;<friendfloran> флорана зник...",
+    "value": "^cyan;<friendfloran> Флорана зззник...",
     "path": "/scriptConfig/generatedText/goalText/floran/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Смуток. Я хвилююсь за свого друга <victimNpcType>.",
+    "value": "^cyan;Смуток. Я хвилююся за свого <friend>, це <victimNpcType>.",
     "path": "/scriptConfig/generatedText/goalText/glitch/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Тривога. Мій друг зник.",
+    "value": "^cyan;Тривога. Мій <friend> зник.",
     "path": "/scriptConfig/generatedText/goalText/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Мій друг ^orange;<victimNpcType>^white; мав прийти <earlier>, щоб ми могли <activity1>, але <victimNpcType.pronoun.subject> так і не <turned>! <suspicion>, що ^orange;<enemy>^white;, яких я бачив поблизу ^orange;<spawnPoint>^white;<spawnPoint.direction>, <involved>. ^green;Будь ласка, врятуй <victimNpcType>^white;?",
+    "value": "Мій <friend> ^orange;<victimNpcType>^white; мав прийти <earlier>, щоб ми могли <activity1>, але так і не <turned>! <suspicion>, що ^orange;<enemy>^white;, яких я бачив поблизу ^orange;<spawnPoint>^white;<spawnPoint.direction>, <involved>. ^green;Будь ласка, врятуй <victimNpcType>^white;?",
     "path": "/scriptConfig/generatedText/text/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Ми з моїм другом ^orange;<victimNpcType>^white; <earlier> були <activity>, коли <separated>. Я бачив, як навколо нишпорили ^orange;<enemy>^white;, і хвилююсь, що <victimNpcType> <kidnapped>! Востаннє я бачив <victimNpcType.pronoun.reflexive> поблизу ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Можеш піти і знайти <victimNpcType.pronoun.reflexive>^white;?",
+    "value": "Ми з моїм <friend> ^orange;<victimNpcType>^white; <earlier> були <activity>, коли <separated>. Я бачив, як навколо нишпорили ^orange;<enemy>^white;, і хвилююся, що <victimNpcType> було <kidnapped>! Востаннє я бачив <victimNpcType.pronoun.object> біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Можеш піти й знайти <victimNpcType.pronoun.object>^white;?",
     "path": "/scriptConfig/generatedText/text/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран та його <friendfloran> ^orange;<victimNpcType>^white; <earlier> мали <activityfloran>, але флоран не бачив <victimNpcType.pronoun.reflexive>! Флоран чув, що якісссь ^orange;<enemy>^white; нишпорять поблизу ^orange;<spawnPoint>^white;<spawnPoint.direction> - флоран думає, що вони <involvedfloran>. ^green;Можеш розззвідати це для флорана^white;?",
+    "value": "<friendfloran> Флорана ^orange;<victimNpcType>^white; мав бути тут для <activityfloran> <earlier>, але Флоран не бачив його! Флоран чув, що якісссь ^orange;<enemy>^white; нишпорять поблизу ^orange;<spawnPoint>^white;<spawnPoint.direction> — Флоран думає, що вони <involvedfloran>. ^green;Чи не міг би ти розззнати це для Флорана^white;?",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Напруга. Мій друг ^orange;<victimNpcType>^white; мав прийти <earlier>, щоб ми могли <activity1>, але <victimNpcType.pronoun.subject> так і не <turned>! <suspicion>, що ^orange;<enemy>^white;, яких я бачив поблизу ^orange;<spawnPoint>^white;<spawnPoint.direction>, <involved>. ^green;Будь ласка, врятуй <victimNpcType>^white;?",
+    "value": "Напруга. Мій <friend> ^orange;<victimNpcType>^white; мав прийти <earlier>, щоб ми могли <activity1>, але <victimNpcType.pronoun.subject> так і не <turned>! <suspicion>, що ^orange;<enemy>^white;, яких я бачив поблизу ^orange;<spawnPoint>^white;<spawnPoint.direction>, <involved>. ^green;Будь ласка, врятуй <victimNpcType>^white;?",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Хвилювання. Ми з моїм другом ^orange;<victimNpcType>^white; <earlier> були <activity>, коли <separated>. Я бачив, як навколо нишпорили ^orange;<enemy>^white;, і хвилююсь, що <victimNpcType> <kidnapped>! Востаннє я бачив <victimNpcType.pronoun.reflexive> поблизу ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Можеш піти і знайти <victimNpcType.pronoun.reflexive>^white;?",
+    "value": "Тривога. Ми з моїм <friend> ^orange;<victimNpcType>^white; <earlier> були <activity>, коли <separated>. Я бачив, як навколо нишпорили ^orange;<enemy>^white;, і хвилююся, що <victimNpcType> було <kidnapped>! Востаннє я бачив <victimNpcType.pronoun.object> поблизу ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Можеш піти й знайти <victimNpcType.pronoun.object>^white;?",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
@@ -505,17 +505,17 @@
     "op": "replace"
   },
   {
-    "value": "Ти врятував <victimNpcType>? <appreciation>",
+    "value": "Тобі вдалося врятувати <victimNpcType>? <appreciation>",
     "path": "/scriptConfig/generatedText/completionText/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Ти знайшов <victimNpcType>? Флоран цінує допомогу!",
+    "value": "Тобі вдалося знайти <victimNpcType>? Флоран цінує допомогу!",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Ти знайшов <victimNpcType>? Дякую! Хоча флоран і сам міг би це зробити, якби мав зброю...",
+    "value": "Тобі вдалося знайти <victimNpcType>? Дякую! Хоча Флоран і сам упорався б, якби мав зброю...",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
@@ -530,17 +530,17 @@
     "op": "replace"
   },
   {
-    "value": "Не варто хвилюватися - я впевнений, що друг <questGiver> відродиться десь у безпечнішому місці.",
+    "value": "Не варто хвилюватися — я певен, що <friend> (<questGiver>) відродиться десь у безпечнішому місці.",
     "path": "/scriptConfig/generatedText/failureText/default/0",
     "op": "replace"
   },
   {
-    "value": "Я не зміг допомогти <questGiver> возз'єднатися з другом. Впевнений, вони знайдуть одне одного й без моєї допомоги.",
+    "value": "Мені не вдалося возз'єднати <questGiver> із його <friend>. Я певен, вони знайдуть одне одного й без моєї допомоги.",
     "path": "/scriptConfig/generatedText/failureText/default/1",
     "op": "replace"
   },
   {
-    "value": "Я не зміг допомогти <questGiver> возз'єднатися з другом. Впевнений, вони знайдуть одне одного й без моєї допомоги.",
+    "value": "Мені не вдалося возз'єднати <questGiver> із другом. Я певен, вони знайдуть одне одного й без моєї допомоги.",
     "path": "/scriptConfig/generatedText/failureText/floran/0",
     "op": "replace"
   },
@@ -550,12 +550,12 @@
     "op": "replace"
   },
   {
-    "value": "Вбий <enemy>",
+    "value": "Убий <enemy>",
     "path": "/scriptConfig/objectives/1/text",
     "op": "replace"
   },
   {
-    "value": "Поверни <victimNpcType> цілим і неушкодженим",
+    "value": "Достав <victimNpcType> цілим і неушкодженим",
     "path": "/scriptConfig/objectives/2/text",
     "op": "replace"
   }

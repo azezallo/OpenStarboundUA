@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Мавпа-ревун"
+    "value": "Портрет ревучої мавпи."
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "нервовий. Ця картина Apex тривожна."
+    "value": "Тривожність. Ця картина Апексу дратує."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Це фарбування Apex має бути більш спокійним."
+    "value": "Це фарбування Апексу має бути більш спокійним."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Цей тут Апекс здурів."
+    "value": "Цей тут Апекс здурився."
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Слід порохівця схожий на зоряний пил."
+    "value": "Слід пилкомотиля схожий на зоряний пил."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Пиловик"
+    "value": "Пилкомотиль"
   }
 ]

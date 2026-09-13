@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скриня з лози, це не дуже безпечно."
+    "value": "Скриня з лоз, це не зовсім безпечна."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Виноградна скриня"
+    "value": "Лозова скриня"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Вирощувати шах із ґрунту."
+    "value": "Вирощувати скриню з ґрунту."
   },
   {
     "op": "replace",

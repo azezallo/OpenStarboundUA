@@ -2,26 +2,26 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
-    "value": "Атакуйте!"
+    "value": "Атака!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/0",
-    "value": "Загрозливий. Я вас порубаю!"
+    "value": "Погроза. Я вас порубаю!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/1",
-    "value": "Агресивний. Ти дивився на мене смішно?"
+    "value": "Агресивний. Чи не дивишся на мене дивно?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/2",
-    "value": "схвильований. Я чекав, щоб випробувати свою нову сокиру!"
+    "value": "Захоплення. Я чекав, щоб випробувати свою нову сокиру!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/3",
-    "value": "Безстрашний. Я вже багатьох таких, як ти, вирубав!"
+    "value": "Відвага. Я вже багатьох таких, як ти, вирубав!"
   }
 ]

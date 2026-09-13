@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Як ти це прочитав?",
+    "value": "Як ти взагалі це читаєш?",
     "path": "/charCreationTooltip/subTitle",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Шаблон",
+    "value": "Візерунок",
     "path": "/charGenTextLabels/0",
     "op": "replace"
   },
@@ -45,12 +45,12 @@
     "op": "replace"
   },
   {
-    "value": "Одяг",
+    "value": "СОРОЧКА",
     "path": "/charGenTextLabels/6",
     "op": "replace"
   },
   {
-    "value": "Колір одягу",
+    "value": "КОЛІР СОРОЧКИ",
     "path": "/charGenTextLabels/7",
     "op": "replace"
   },
@@ -60,7 +60,7 @@
     "op": "replace"
   },
   {
-    "value": "Особистість",
+    "value": "ОСОБИСТІСТЬ",
     "path": "/charGenTextLabels/9",
     "op": "replace"
   }

@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Я отримав координати ^orange;Церемоніальних Мисливських Печер^reset;. ^green;Використай інтерфейс місій^reset;, щоб отримати доступ до цієї локації.",
+    "value": "Я отримав координати ^orange;Церемоніальних Мисливських Печер^reset;. ^green;Використай інтерфейс місій^reset;, щоб вирушити до цієї локації.",
     "path": "/scriptConfig/missionRadioMessage/text",
     "op": "replace"
   },
@@ -25,7 +25,7 @@
     "op": "replace"
   },
   {
-    "value": "Повернись до ^orange;Естер^reset; на ^green;Ковчег^reset;",
+    "value": "Повернися до ^orange;Естер^reset; на ^green;Ковчег^reset;",
     "path": "/scriptConfig/descriptions/turnIn",
     "op": "replace"
   }

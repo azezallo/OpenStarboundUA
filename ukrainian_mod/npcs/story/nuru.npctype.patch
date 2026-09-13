@@ -1,166 +1,166 @@
 [
   {
-    "value": "Золото! Я ледве стримую своє хвилювання, файний легіню!",
+    "value": "Нуру",
     "path": "/npcname",
     "op": "replace"
   },
   {
-    "value": "Похмуро. Так я зіпсую всю свою нову зброю.",
+    "value": "Просто попередження — інші мисливці спробують завадити тобі виграти в The Hunt.",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Грубість. Від вас, молодих, самі лише неприємності!",
+    "value": "Я полював з того часу, коли був сспрутом і виграв, коли став бад.",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Втома. Що, знову...",
+    "value": "Я перекушую тут, поки інші спішаються вперед. Вони можуть боротися один з одним.",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Роздратування. Ти не виставиш мене на посміховисько!",
+    "value": "Я завжди хотів побачити всесвіт, звідки ти?",
     "path": "/scriptConfig/dialog/converse/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Непривітність. Хіба тебе не вчили не злити коваля?",
+    "value": "Одного дня я знайду спосіб втекти звідси.",
     "path": "/scriptConfig/dialog/converse/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Похмурість. Так я зіпсую всю свою нову зброю.",
+    "value": "Флорани часто бездумно жорсткі.",
     "path": "/scriptConfig/dialog/converse/default/default/5",
     "op": "replace"
   },
   {
-    "value": "Покірність. Гей, ще більше порушень.",
+    "value": "Люди мають багато очікувань від тебе, коли ти найкращий мисливець...",
     "path": "/scriptConfig/dialog/converse/default/default/6",
     "op": "replace"
   },
   {
-    "value": "Азарт. Чудовий шанс протестувати мою зброю!",
+    "value": "Там має бути щось більше, ніж полювання.",
     "path": "/scriptConfig/dialog/converse/default/default/7",
     "op": "replace"
   },
   {
-    "value": "Роздратування. Схоже, тобі треба дати урок.",
+    "value": "Я чув чутки про чудовиська далеко за межами того, що колись полювали Флорани.",
     "path": "/scriptConfig/dialog/converse/default/default/8",
     "op": "replace"
   },
   {
-    "value": "Я щойно вийшов із в'язниці! Хоча, я дуже любив її.",
+    "value": "Я беручи участь у The Hunt показую Флоранам, що найкращий спосіб перемогти – не боротися один з одним.",
     "path": "/scriptConfig/dialog/converse/default/default/9",
     "op": "replace"
   },
   {
-    "value": "Не хвилюйся, я не небезпечний! Я був у в'язниці за фінансове шахрайство...",
+    "value": "Я намагаюся не говорити з шипінням, але іноді не можу цього уникнути.",
     "path": "/scriptConfig/dialog/converse/default/default/10",
     "op": "replace"
   },
   {
-    "value": "Чи повинен я виглядати як невдаха в цьому комбінезоні?",
+    "value": "Мені сімнадцять ссумерів.",
     "path": "/scriptConfig/dialog/converse/default/default/11",
     "op": "replace"
   },
   {
-    "value": "Не подумай, що я небезпечний через цей комбінезон! Я ношу його, тому що він зручний.",
+    "value": "Мені подобається полювання, але іноді це не достатньо.",
     "path": "/scriptConfig/dialog/converse/default/default/12",
     "op": "replace"
   },
   {
-    "value": "Я не з в'язниці, цей комбінезон просто для комфорту... Чесне слово.",
+    "value": "Флорани не є злими. Нашу плем'я зеленої пальців навчили мене поважати життя. Це урок, який багато хто ніколи не дізнається.",
     "path": "/scriptConfig/dialog/converse/default/default/13",
     "op": "replace"
   },
   {
-    "value": "Якби я приєднався до Земного Захисту, можливо, я б не опинився у в'язниці.",
+    "value": "Вау! Зовнішник! Чи ти серйозно тут для Полювання? Потрібно поважати таку безглузду сміливість.",
     "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Я чув про те, що сталося із Землею. Я радий, що в той час я був у в'язниці в іншому місці.",
+    "value": "Ой? Я ^orange;Nuru^white; — наймолодший чемпіон в історії Полювання.",
     "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Чи повинен я виглядати як невдаха в цьому комбінезоні?",
+    "value": "Мені треба сказати, це досить вражаюче! Або принаймні так буде, якщо ти не розірвешся на шматки.",
     "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Не хвилюйся, я не небезпечний! Я був у в'язниці за фінансове шахрайство...",
+    "value": "Тут Флорани проводять роки, удосконалюючи свою майстерність, немов ссвічений майстер, що шліфує наконечник копита...",
     "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Я не з в'язниці, цей комбінезон просто для комфорту... Чесне слово.",
+    "value": "Тоді вони переважно вмирають... В будь-крайському випадку, удачі!",
     "path": "/scriptConfig/dialog/floranmissionstart/introduction/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Зоряний",
+    "value": "Будьте обережні з іншими мисливцями!",
     "path": "/scriptConfig/dialog/floranmissionstart/end/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Ударний",
+    "value": "Привіт! Тут! Я не можу повірити, що ти дійшов так далеко. Гарна робота.",
     "path": "/scriptConfig/dialog/floranmissionswitch/hello/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Псі",
+    "value": "Але тепер ти застряг. Фраза «повільний аплодисмент» ссвітиться в моїй пам'яті. Ось, я можу це відкрити.",
     "path": "/scriptConfig/dialog/floranmissionswitch/stuck/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Поліцей.",
+    "value": "Думаю, ми вже близько — сподіваюся, у тебе з’явився апетит!",
     "path": "/scriptConfig/dialog/floranmissionswitch/goodbye/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Черепний",
+    "value": "Плівка зламано! Це шанс вдарити!",
     "path": "/scriptConfig/dialog/boss/shellbroken/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Морський",
+    "value": "Ударй його! Ударй, поки він ще м’який!",
     "path": "/scriptConfig/dialog/boss/fleshy/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Силовий",
+    "value": "Ми майже перемогли. Завершимо це!",
     "path": "/scriptConfig/dialog/boss/finish/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Галактич.",
+    "value": "Оце було ссатисфікуюче! Давай.",
     "path": "/scriptConfig/dialog/endscene/follow/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Хвильовий",
+    "value": "Знаєш, це було справді вражаюче.",
     "path": "/scriptConfig/dialog/endscene/smalltalk/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Місячний",
+    "value": "Це була найзахоплююча розвага за багато років. Було приємно мати когось поруч, хто може самостійно справлятися.",
     "path": "/scriptConfig/dialog/endscene/end/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Гострий",
+    "value": "Насправді… Вітаю! Я щойно вирішив, що твій трофей йде з одним безкоштовним Нуру!",
     "path": "/scriptConfig/dialog/endscene/end/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Фокусув.",
+    "value": "Це набагато більше, ніж здобич минулого року. Нарешті! Справжній виклик!",
     "path": "/scriptConfig/dialog/startboss/intro/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Централ.",
+    "value": "Це буде весело.",
     "path": "/scriptConfig/dialog/startboss/start/default/default/0",
     "op": "replace"
   }

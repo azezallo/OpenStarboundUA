@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Вони пухнасті та пухнасті!"
+    "value": "Вони шершаві й пухкі!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Пухнасті йоржі"
+    "value": "Пухкі йоржі"
   }
 ]

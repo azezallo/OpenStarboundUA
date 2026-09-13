@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "value": "  Industrial Merchant"
+    "value": "Промисловий торговець"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "value": "Продам промислові меблі!"
+    "value": "Продає промислові меблі!"
   }
 ]

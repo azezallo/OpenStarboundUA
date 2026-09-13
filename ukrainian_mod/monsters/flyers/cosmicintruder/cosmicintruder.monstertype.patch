@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Cosmic Intruder"
+    "value": "Космічний загарбник"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "An entity born outside of physical space and time."
+    "value": "Сутність, що народилася поза фізичним простором та часом."
   }
 ]

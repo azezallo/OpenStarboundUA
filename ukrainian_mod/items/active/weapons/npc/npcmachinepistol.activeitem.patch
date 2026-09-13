@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Невеликий повністю автоматичний пістолет."
+    "value": "Невеликий повністю автоматичний пістолет"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "NPC Machine Pistol"
+    "value": "NPC Машинний пістолет"
   }
 ]

@@ -1,21 +1,21 @@
 [
   {
-    "value": "Висячі пустельні камені.",
+    "value": "Висячі скелі пустелі.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Висячі пустельні камені",
+    "value": "Висячі скелі пустелі.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Пісссщані камені.",
+    "value": "Пісочні ссшкелі.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Висячі пустельні камені.",
+    "value": "Заява. Висячі пустельні скелі.",
     "path": "/glitchDescription",
     "op": "replace"
   }

@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "I work out in the foundries, where the heat could melt the strongest of steels!"
+    "value": "Я тренуюсь у литарнях, де тепло може розтопити найсильніший із сталей!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "I'm just coming here to get some supplies. Normally, I'm posted out on the foundries."
+    "value": "Я просто приходжу сюди за запасами. Зазвичай я працюю в литарнях."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
-    "value": "I'm just visiting on my lunch break. Normally I'm toiling out on the foundries!"
+    "value": "Я лише відвідуюсь під час обіду. Зазвичай я працюю в литарнях!"
   }
 ]

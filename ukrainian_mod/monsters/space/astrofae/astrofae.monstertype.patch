@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Astrofae"
+    "value": "Астрофея"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It's in space!"
+    "value": "Це в космосі!"
   }
 ]

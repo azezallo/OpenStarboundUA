@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Fire Monopus"
+    "value": "Вогняний Монопус"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "An ancient species, know to be agile and mischievous. They have an intelligent look in their eye."
+    "value": "Древній вид, відомий своєю спритністю й хитрістю. У них інтелектуальний погляд у очах."
   }
 ]

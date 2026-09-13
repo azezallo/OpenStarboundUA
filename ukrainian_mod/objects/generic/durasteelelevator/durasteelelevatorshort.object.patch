@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Цей ліфт Durasteel виконає роботу."
+    "value": "Цей ліфт дюрасталь виконає роботу."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Короткий ліфт Durasteel"
+    "value": "Короткий ліфт дюрасталь"
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Елегантний ліфт із дюрастілу."
+    "value": "Елегантний ліфт з дюрасталі."
   },
   {
     "op": "replace",

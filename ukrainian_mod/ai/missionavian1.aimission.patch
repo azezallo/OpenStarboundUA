@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/speciesText/default/buttonText",
-    "value": "The Great Sovereign Temple"
+    "value": "Великий Суверенний Храм"
   },
   {
     "op": "replace",
     "path": "/speciesText/default/repeatButtonText",
-    "value": "Revisit The Great Sovereign Temple"
+    "value": "Повторно відвідати Великий Суверенний Храм"
   },
   {
     "op": "replace",
     "path": "/speciesText/default/selectSpeech/text",
-    "value": "This mostly abandoned temple is Esther's concluded location of the Avian Artifact."
+    "value": "Цей майже забутий храм є місцем, де Естер Брайт визначила розташування артефакта Авіанів."
   }
 ]

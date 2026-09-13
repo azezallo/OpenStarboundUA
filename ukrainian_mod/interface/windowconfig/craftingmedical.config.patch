@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": "  АПТЕКА"
+    "value": "АПТЕКА"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": "  Зілля та припарки"
+    "value": "Зілля та припарки"
   },
   {
     "op": "replace",

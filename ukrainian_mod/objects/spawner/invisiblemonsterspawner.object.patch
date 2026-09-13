@@ -7,6 +7,6 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Nevisible Monster Spawner"
+    "value": "Невидимий спаунер монстрів"
   }
 ]

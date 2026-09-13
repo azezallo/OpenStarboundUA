@@ -1,26 +1,26 @@
 [
   {
-    "value": "Потоковий",
+    "value": "Вікно з рамою з масивної міді.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Вітряний",
+    "value": "Мідне вікно",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Атомний",
+    "value": "Зачарований. Для виготовлення рами цього вікна використовувалася мідь.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Астральний",
+    "value": "Вікна зі мідної",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Кометний",
+    "value": "Це гарна, на вигляд, мідна віконна рама.",
     "path": "/novakidDescription",
     "op": "replace"
   }

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "I'm just on my travels, doing my own thing."
+    "value": "Я просто подорожую, займаюся своїми справами."
   },
   {
     "op": "replace",
@@ -67,7 +67,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/12",
-    "value": "If monsters are attacking your tenants, you might want to encourage some guards to move in!"
+    "value": "Якщо монстри нападають на твоїх мешканців, можливо, варто заохотити оселитися кількох охоронців!"
   },
   {
     "op": "replace",
@@ -77,16 +77,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/14",
-    "value": "If you aren't willing to jump down into a big cavern, you can lower yourself down with a climbing rope!"
+    "value": "Якщо ти не хочеш стрибати у велику печеру, можеш спуститися на альпіністській мотузці!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/15",
-    "value": "How hard is it to make a cup of coffee these days?"
+    "value": "Невже в наші дні так важко приготувати чашку кави?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/16",
-    "value": "I haven't been to Earth in years! How is it doing these days?"
+    "value": "Я роками не був на Землі! Як вона там поживає останнім часом?"
   }
 ]

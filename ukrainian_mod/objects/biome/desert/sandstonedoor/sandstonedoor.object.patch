@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Грубі двері з пісковику."
+    "value": "Груба двер'я з пісковіка"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Двері з пісковика"
+    "value": "Двер'я з пісковіка"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Двері з пісковика."
+    "value": "Двер'я з пісковику"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Добре виготовлені двері з пісковику."
+    "value": "Добре виготовлене двер'я з пісковіка"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssandy двері."
+    "value": "Sssandy двер'я"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спостережливий. Витривалі двері з пісковику."
+    "value": "Спостережливий. Витривале двер'я з пісковіка"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Гарні двері."
+    "value": "Гарне двер'я"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Грубі, піщані двері. Сирий."
+    "value": "Груба, піщана двер'я. Шорстка"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це важкі двері. Шорсткий на дотик."
+    "value": "Це важка двер'я. Шорстке на дотик"
   }
 ]

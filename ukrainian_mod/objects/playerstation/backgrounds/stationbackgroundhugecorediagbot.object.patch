@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Величезний Core Diagonal нижній шматок фону"
+    "value": "Великий діагональний нижній сегмент фону ядра"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Величезний Core Diagonal нижній шматок фону"
+    "value": "Великий діагональний нижній сегмент фону ядра"
   }
 ]

@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Відрубана нога могутнього Іксодуму. Це потужна зброя."
+    "value": "Відрізана нога могутнього Іксодому. Це потужна зброя."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Іксодомовий кіготь"
+    "value": "Кіготь Ixodoom"
   },
   {
     "op": "replace",

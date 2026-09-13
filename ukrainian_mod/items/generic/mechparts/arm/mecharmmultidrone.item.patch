@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Удосконалена механічна рука, яка може розгортати кілька атакуючих дронів."
+    "value": "Удосконалена мех-рука, що розгортає кілька атакуючих дронів."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Swarm Drone Mech Arm"
+    "value": "Мех-рука рій дронів"
   }
 ]

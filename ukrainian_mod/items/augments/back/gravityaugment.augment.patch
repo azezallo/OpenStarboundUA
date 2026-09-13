@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Модуль EPP, який керує силою тяжіння, уповільнюючи ваше спуск у повітрі."
+    "value": "Модуль EPP, який керує силою тяжіння, уповільнює ваш спуск у повітрі."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Gravity Augment"
+    "value": "Гравітація Аугмент"
   },
   {
     "op": "replace",

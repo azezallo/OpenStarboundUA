@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": "  Торговець"
+    "value": "Торговець"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": "  ^#b9b5b2;Купуйте та продавайте свої товари тут!"
+    "value": "^#b9b5b2;Купуйте та продавайте свої товари тут!"
   },
   {
     "op": "replace",

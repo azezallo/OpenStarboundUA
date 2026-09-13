@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Кущ світлячка"
+    "value": "Кущ світлячків"
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран їсть світяться мушки з фруктами."
+    "value": "Флорани їдять світлячі мушки з фруктами."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "вражений. Ці світлячки літають у гіпнотичній схемі."
+    "value": "Вражений. Ці світлячки літають у гіпнотичній схемі."
   },
   {
     "op": "replace",

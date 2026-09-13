@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Міцний залізний факел з ніжним мерехтливим полум'ям."
+    "value": "Міцний залізний смолоскип із ніжним мерехтливим полум'ям."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Середньовічний факел"
+    "value": "Середньовічний смолоскип"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Залізний факел."
+    "value": "Залізний смолоскип."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Мерехтливий факел."
+    "value": "Мерехтливий смолоскип."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Полум'я пхає."
+    "value": "Полум'я плюєтьссся."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Втішили. Такий факел, який освітлює коридори замку."
+    "value": "Втіха. Такий смолоскип, що освітлює коридори замку."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Маленький факел, який випльовує вуглинки."
+    "value": "Маленький смолоскип, який випльовує вуглинки."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Палаючий факел."
+    "value": "Палаючий смолоскип."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Залізний настінний факел."
+    "value": "Залізний настінний смолоскип, файно."
   }
 ]

@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Вікно з дерев'яними шибками."
+    "value": "Вікно з дерев'яними панелями"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "в захваті. Це вікно допомагає освітлити кімнату."
+    "value": "Радісний. Це вікно допомагає освітлити кімнату."
   },
   {
     "op": "replace",
@@ -22,6 +22,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Nice lookin' window with wooden panes."
+    "value": "Гарне вікно з дерев'яними панелями"
   }
 ]

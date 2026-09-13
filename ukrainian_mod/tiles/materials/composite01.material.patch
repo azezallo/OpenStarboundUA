@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A smooth panel made of titanium."
+    "value": "Гладка панель з титану."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Titanium Panel"
+    "value": "Титанова панель"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Amazed. This titanium panel is almost flawlessly smooth."
+    "value": "Вражений. Ця титанова панель майже бездоганно гладка."
   },
   {
     "op": "replace",
@@ -22,6 +22,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Some shiny n' smooth titanium panels."
+    "value": "Деякі блискучі та гладкі титанові панелі."
   }
 ]

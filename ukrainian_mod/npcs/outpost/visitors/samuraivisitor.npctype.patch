@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "A Hylotl warrior always needs to be well fed! I am simply here to purchase food."
+    "value": "Хайлотльський воїн завжди потребує добре харчування! Я просто тут, щоб купити їжу."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "Isn't this place wondrous? It makes me want to write a poem, or sing a ballad."
+    "value": "Хіба це місце не дивовижне? Воно змушує мене захотіти написати вірш або співати баладу."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
-    "value": "If I am to protect my people, I must be as strong as I can be. This means being well fed... I am just here for a snack."
+    "value": "Якщо я маю захищати свій народ, я повинен бути настільки сильним, наскільки можу. Це означає добре харчуватися... Я просто тут за перекусом."
   }
 ]

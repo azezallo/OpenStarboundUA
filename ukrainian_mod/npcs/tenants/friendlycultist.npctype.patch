@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Не турбуйся за мене. Я цілком заслуговую на довіру. Хі-хі.",
+    "value": "Не турбуйся за мене. Я цілком надійний. Хі-хі.",
     "path": "/scriptConfig/dialog/converse/human/default/1",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "По-своєму Земний Захист - теж культ.",
+    "value": "По-своєму Земний Захист — теж культ.",
     "path": "/scriptConfig/dialog/converse/human/default/3",
     "op": "replace"
   },

@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Лампа Glow Bush"
+    "value": "Світляча кущова лампа"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Милий світиться кущ. Найкраще працює вночі."
+    "value": "Міленький світлий кущ. Найкраще працює вночі."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран не прихильник рослин у горщиках."
+    "value": "Флоран не прихильник россслін у горщиках."
   },
   {
     "op": "replace",

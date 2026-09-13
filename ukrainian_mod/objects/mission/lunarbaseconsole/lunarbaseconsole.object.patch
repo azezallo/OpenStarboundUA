@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Місячна базова консоль"
+    "value": "Консоль місячної бази"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Пульт управління має кнопки ss."
+    "value": "Пульт управління має кнопки."
   },
   {
     "op": "replace",

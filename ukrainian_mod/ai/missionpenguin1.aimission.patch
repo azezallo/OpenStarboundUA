@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/speciesText/default/buttonText",
-    "value": "Dreadwing"
+    "value": "Дредвінг"
   },
   {
     "op": "replace",
     "path": "/speciesText/default/repeatButtonText",
-    "value": "Rechallenge Dreadwing"
+    "value": "Повторно протистояти Dreadwing"
   },
   {
     "op": "replace",
     "path": "/speciesText/default/selectSpeech/text",
-    "value": "The proprietor of the Beak Easy requires assistance. Defeat Dreadwing."
+    "value": "Власник Beak Easy потребує допомоги. Поражте Dreadwing."
   }
 ]

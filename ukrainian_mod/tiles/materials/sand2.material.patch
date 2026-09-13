@@ -10,17 +10,17 @@
     "op": "replace"
   },
   {
-    "value": "Цікаво. Цей пісок настільки прекрасний, що здається гладким на дотик.",
+    "value": "Цікаво. Цей пісок настільки дрібний, що здається гладким на дотик.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Дрібний пісссок.",
+    "value": "Запорошений пісок.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Файний м'який пісок.",
+    "value": "Якийсь могутній м’який пісок.",
     "path": "/novakidDescription",
     "op": "replace"
   }

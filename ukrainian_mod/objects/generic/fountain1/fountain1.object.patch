@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Для Флорана вода є джерелом життя."
+    "value": "Для Флоранів вода є джерелом життя."
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Якби в мене була копійка, я б її кинув."
+    "value": "Якби в мене була монетка, я б її кинув."
   },
   {
     "op": "replace",

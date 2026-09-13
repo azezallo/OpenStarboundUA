@@ -1,6 +1,6 @@
 [
   {
-    "value": "Взяти хабар?",
+    "value": "Прийняти хабар?",
     "path": "/scriptConfig/behaviorConfig/bribeTitle",
     "op": "replace"
   },
@@ -20,12 +20,12 @@
     "op": "replace"
   },
   {
-    "value": "Взяти",
+    "value": "Прийняти",
     "path": "/scriptConfig/behaviorConfig/bribeOk",
     "op": "replace"
   },
   {
-    "value": "Відмовитись",
+    "value": "Відм.",
     "path": "/scriptConfig/behaviorConfig/bribeCancel",
     "op": "replace"
   }

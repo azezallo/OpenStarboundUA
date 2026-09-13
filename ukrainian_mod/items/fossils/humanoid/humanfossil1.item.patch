@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілий людський череп."
+    "value": "Скам'яний череп людини"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Людський череп"
+    "value": "Череп людини"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/shortdescription",
-    "value": "Скам'янілість людини"
+    "value": "Фосил людини"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/description",
-    "value": "Скам'яніла людина, домінуючий вид Землі."
+    "value": "Скам'яний людський вид, домінуючий на Землі."
   }
 ]

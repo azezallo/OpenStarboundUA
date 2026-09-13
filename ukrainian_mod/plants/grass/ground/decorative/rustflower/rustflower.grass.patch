@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssharp hard flower."
+    "value": "Sssharp жорстка квітка."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. A metallic flower."
+    "value": "Заява. Металева квітка."
   }
 ]

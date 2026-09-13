@@ -1,16 +1,16 @@
 [
   {
-    "value": "В бій!",
+    "value": "Атака!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Дайвери-суперники! Взяти їх!",
+    "value": "Конкуренти-водолази! Поймайте їх!",
     "path": "/scriptConfig/dialog/attack/hylotl/default/0",
     "op": "replace"
   },
   {
-    "value": "Це наш океан, зухвальцю - ти пошкодуєш про мить, коли прийшов сюди!",
+    "value": "Це наш океан – ти пошкодуєш, що сюди прийшов!",
     "path": "/scriptConfig/dialog/attack/hylotl/default/1",
     "op": "replace"
   },
@@ -25,12 +25,12 @@
     "op": "replace"
   },
   {
-    "value": "Ти спатимеш з рибами, коли ми покінчимо з тобою!",
+    "value": "Ти будеш спати з рибами, коли ми закінчимо з тобою!",
     "path": "/scriptConfig/dialog/attack/hylotl/default/4",
     "op": "replace"
   },
   {
-    "value": "Ти не переможеш нас! Ми правимо цими океанами!",
+    "value": "Ти не переможеш нас! Ми керуємо цими океанами!",
     "path": "/scriptConfig/dialog/attack/hylotl/default/5",
     "op": "replace"
   }

@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Мабуть, тобі щось потрібно на цій планеті, інакше ти б не прийшов.",
+    "value": "Мабуть, тобі щось потрібно на цій планеті, інакше ти не прийшов би сюди.",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "op": "replace"
   },
@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Тут досить сухо, чи не так? Але я не проти цього.",
+    "value": "Тут досить сухо, правда? А я не проти цього.",
     "path": "/scriptConfig/dialog/converse/default/default/4",
     "op": "replace"
   },

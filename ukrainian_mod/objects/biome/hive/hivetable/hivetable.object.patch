@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Вулик стіл"
+    "value": "Гнездовий стіл"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Я думаю, що їсти за цим столом було б антисанітарно."
+    "value": "Я думаю, що їсти на цьому столі було б несанітарно."
   },
   {
     "op": "replace",

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Виходить тільки в певні фази місяця."
+    "value": "З'являється лише в певні фази місяця."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Tidefly"
+    "value": "Припливна муха"
   }
 ]

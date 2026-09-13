@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/identity/name",
-    "value": "Kyren"
+    "value": "Кайрен"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Hi, I'm Kyren! I'm very much interested in the origins of the Universe."
+    "value": "Привіт, я Кайрен! Мене дуже цікавить походження Всесвіту."
   }
 ]

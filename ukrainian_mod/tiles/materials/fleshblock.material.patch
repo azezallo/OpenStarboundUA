@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Disgusted. This is made of squishy flesh."
+    "value": "Огидно. Це зроблено з м’якоті."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssquishy meat."
+    "value": "Сссхлюбе м'ясо."
   },
   {
     "op": "replace",

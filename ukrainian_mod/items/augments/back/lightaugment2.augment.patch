@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Модуль EPP, який дозволяє набору виживання випромінювати світло."
+    "value": "Модуль EPP, який дозволяє набору виживання випромінювати світло"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Light II Augment"
+    "value": "Доповнення Світла II"
   },
   {
     "op": "replace",

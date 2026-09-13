@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілий торс Фрогга."
+    "value": "Скам'янілений торс Фрога."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Торс жаби"
+    "value": "Торс Фрога."
   }
 ]

@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Виноградна лоза."
+    "value": "Лоза."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "A vine."
+    "value": "Лоза."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Виноградна лоза."
+    "value": "Виноградна лоза"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Виноградна лоза."
+    "value": "Заява. Виноградна лоза"
   }
 ]

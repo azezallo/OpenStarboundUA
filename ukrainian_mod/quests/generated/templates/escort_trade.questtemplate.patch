@@ -1,96 +1,96 @@
 [
   {
-    "value": "Якась людина",
+    "value": "Перехожий",
     "path": "/parameters/target/example/name",
     "op": "replace"
   },
   {
-    "value": "темну, страшну печеру",
+    "value": "темну страшну печеру",
     "path": "/parameters/spawnPoint/example/name",
     "op": "replace"
   },
   {
-    "value": "Дякую за супровід!",
+    "value": "Дякую, що супроводжуєш мене!",
     "path": "/scriptConfig/generatedText/fluff/0/1/0",
     "op": "replace"
   },
   {
-    "value": "Ти й справді виручив мене, дякую!",
+    "value": "Ти справді виручив мене, дякую!",
     "path": "/scriptConfig/generatedText/fluff/0/1/1",
     "op": "replace"
   },
   {
-    "value": "Дякую, що виручив мене!",
+    "value": "Дякую за допомогу!",
     "path": "/scriptConfig/generatedText/fluff/0/1/2",
     "op": "replace"
   },
   {
-    "value": "Ссспасибі за допомогу флорану!",
+    "value": "Дяка за допомогу Флорану!",
     "path": "/scriptConfig/generatedText/fluff/1/1/0",
     "op": "replace"
   },
   {
-    "value": "Флоран вдячний за допомогу!",
+    "value": "Флоран цінує допомогу!",
     "path": "/scriptConfig/generatedText/fluff/1/1/1",
     "op": "replace"
   },
   {
-    "value": "Ссспасибі за супровід флорана!",
+    "value": "Дяка за супровід Флорана сюди!",
     "path": "/scriptConfig/generatedText/fluff/1/1/2",
     "op": "replace"
   },
   {
-    "value": "Спочатку потрібно ^orange;[<items>]^white;. Це потрібно доставити торговцю ^green;<target> ^orange;<spawnPoint>^white;<spawnPoint.direction>. Можеш ^green;відвезти мене туди^white;, щоб знайти торговця і ^green;отримати товар^white;?",
+    "value": "Спершу нам знадобляться ^orange;<items>^white;. Їх мав доставити мандрівний торговець ^orange;<target>^white;, але, здається, <target.pronoun.subject> заблукав<target.pronoun.obj1end> біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвести мене туди^white;, щоб ми знайшли <target> і ^green;забрали товари^white;?",
     "path": "/scriptConfig/generatedText/text/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Ссспочатку нам знадобиться ^orange;[<items>]^white;. Їх потрібно доссставити мандрівному торговцю ^orange;<target>^white; ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвезти флорана туди^white;, щоб флоран знайшов торговця <target> і ^green;отримав товар^white;?",
+    "value": "Ссспершу нам знадоблятьссся ^orange;<items>^white;. Їх мав доссставити мандрівний торговець ^orange;<target>^white;, але Флоран вважає, що <target.pronoun.subject> заблукав<target.pronoun.obj1end> біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвесссти Флорана туди^white;, щоб Флоран міг знайти <target> і ^green;забрати речі^white;?",
     "path": "/scriptConfig/generatedText/text/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Енергійно. Спочатку нам знадобиться ^orange;[<items>]^white;. Їх потрібно доставити мандрівному торговцю ^orange;<target>^white; ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвезти мене туди^white;, щоб знайти торговця <target> і ^green;отримати товар^white;?",
+    "value": "Завзяття. Спершу нам знадобляться ^orange;<items>^white;. Їх мав доставити мандрівний торговець ^orange;<target>^white;, але, здається, <target.pronoun.subject> заблукав<target.pronoun.obj1end> біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвести мене туди^white;, щоб ми знайшли <target> і ^green;забрали товари^white;?",
     "path": "/scriptConfig/generatedText/text/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Потім нам знадобиться ^orange;[<items>]^white;. Їх потрібно доставити мандрівному торговцю ^orange;<target>^white; ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвезти мене туди^white;, щоб знайти торговця <target> і ^green;отримати товар^white;?",
+    "value": "Далі нам знадобляться ^orange;<items>^white;. Їх мав доставити мандрівний торговець ^orange;<target>^white;, але, здається, <target.pronoun.subject> заблукав<target.pronoun.obj1end> біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвести мене туди^white;, щоб ми знайшли <target> і ^green;забрали товари^white;?",
     "path": "/scriptConfig/generatedText/text/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Потім нам знадобиться ^orange;[<items>]^white;. Їх потрібно доссставити мандрівному торговцю ^orange;<target>^white; ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвезти флорана туди^white;, щоб флоран знайшов торговця <target> і ^green;отримав товар^white;?",
+    "value": "Далі нам знадоблятьссся ^orange;<items>^white;. Їх мав доссставити мандрівний торговець ^orange;<target>^white;, але Флоран вважає, що <target.pronoun.subject> заблукав<target.pronoun.obj1end> біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвесссти Флорана туди^white;, щоб Флоран міг знайти <target> і ^green;забрати речі^white;?",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Енергійно. Потім нам знадобиться ^orange;[<items>]^white;. Їх потрібно доставити мандрівному торговцю ^orange;<target>^white; ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвезти мене туди^white;, щоб знайти торговця <target> і ^green;отримати товар^white;?",
+    "value": "Завзяття. Далі нам знадобляться ^orange;<items>^white;. Їх мав доставити мандрівний торговець ^orange;<target>^white;, але, здається, <target.pronoun.subject> заблукав<target.pronoun.obj1end> біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;відвести мене туди^white;, щоб ми знайшли <target> і ^green;забрали товари^white;?",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "<appreciation> Можеш взяти [<items>] для наступної частини завдання?",
+    "value": "<appreciation> Чи не потримаєш у себе ці <items> для наступної частини мого плану?",
     "path": "/scriptConfig/generatedText/completionText/default/default/0",
     "op": "replace"
   },
   {
-    "value": "<appreciationfloran> Чи не міг би ти взяти [<items>] для наступної частини плану?",
+    "value": "<appreciationfloran> Чи не потримаєш у себе ці <items> для нассступної частини плану Флорана?",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Вдячно. <appreciation> Чи не міг би ти взяти [<items>] для наступної частини плану?",
+    "value": "Вдячність. <appreciation> Чи не потримаєш у себе ці <items> для наступної частини мого плану?",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Приведи жителя <questGiver> до торговця <target>",
+    "value": "Привести <questGiver> до <target>",
     "path": "/scriptConfig/objectives/0/text",
     "op": "replace"
   },
   {
-    "value": "Повернись до жителя <questGiver>",
+    "value": "Повернися до <questGiver>",
     "path": "/scriptConfig/objectives/1/text",
     "op": "replace"
   }

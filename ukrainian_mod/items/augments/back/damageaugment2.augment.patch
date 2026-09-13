@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Модуль EPP, який збільшує вашу потужність шкоди."
+    "value": "Модуль EPP, який збільшує вашу шкоду"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Пошкодження II Збільшення"
+    "value": "Доповнення Пошкодження II"
   },
   {
     "op": "replace",

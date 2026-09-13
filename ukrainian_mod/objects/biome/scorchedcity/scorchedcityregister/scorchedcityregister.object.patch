@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ка-цзин!"
+    "value": "Ка-чинг!"
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Каса, створена для зберігання готівки всередині."
+    "value": "Каса, створена для зберігання пікселів всередині."
   }
 ]

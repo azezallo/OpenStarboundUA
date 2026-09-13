@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Скарб скарбів"
+    "value": "Скарбниця"
   },
   {
     "op": "replace",
@@ -17,11 +17,11 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Флоран любить блискуче золото!"
+    "value": "Флорани люблять ссшини золото!"
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "золото! Я ледве стримую хвилювання!"
+    "value": "Золото! Я ледве стримую хвилювання!"
   }
 ]

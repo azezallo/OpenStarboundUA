@@ -1,21 +1,21 @@
 [
   {
-    "value": "Я не був упевнений, що в мене вийде.",
+    "value": "Одуванок. Зроби побажання",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ух! Кімната тепер смердить просто жахливо.",
+    "value": "Пустельник.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Одним кошмаром стало менше...",
+    "value": "Флоран бажає ссстабих часів.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ти бачив, куди воно поділося?",
+    "value": "Утвердження. Пустельник.",
     "path": "/glitchDescription",
     "op": "replace"
   }

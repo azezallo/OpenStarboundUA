@@ -7,17 +7,17 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Glass Block"
+    "value": "Блок скла"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "уважний. Я добре бачу через це прозоре скло."
+    "value": "Уважний. Я добре бачу через це прозоре скло."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран гарно виглядає в окулярах."
+    "value": "Флорани сссмачно виглядають у складі."
   },
   {
     "op": "replace",

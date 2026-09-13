@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/spacestation_medical/parameters/displayName",
-    "value": "Медична дослідна станція"
+    "value": "Медична дослідницька станція"
   },
   {
     "op": "replace",
@@ -42,7 +42,7 @@
   {
     "op": "replace",
     "path": "/spacestation_peacekeeper1/parameters/displayName",
-    "value": "Станція Миротворець"
+    "value": "Станція Миротворця"
   },
   {
     "op": "replace",
@@ -52,7 +52,7 @@
   {
     "op": "replace",
     "path": "/spacestation_peacekeeper2/parameters/displayName",
-    "value": "Станція Миротворець"
+    "value": "Станція Миротворця"
   },
   {
     "op": "replace",
@@ -62,7 +62,7 @@
   {
     "op": "replace",
     "path": "/spacestation_peacekeeper3/parameters/displayName",
-    "value": "Станція Миротворець"
+    "value": "Станція Миротворця"
   },
   {
     "op": "replace",
@@ -72,7 +72,7 @@
   {
     "op": "replace",
     "path": "/spacestation_peacekeeper4/parameters/displayName",
-    "value": "Станція Миротворець"
+    "value": "Станція Миротворця"
   },
   {
     "op": "replace",
@@ -82,7 +82,7 @@
   {
     "op": "replace",
     "path": "/spacestation_peacekeeper5/parameters/displayName",
-    "value": "Станція Миротворець"
+    "value": "Станція Миротворця"
   },
   {
     "op": "replace",
@@ -97,7 +97,7 @@
   {
     "op": "replace",
     "path": "/playerstation/parameters/description",
-    "value": "Цю персональну космічну станцію розгорнув інший авантюрист. У них, напевно, є хороші речі для красти."
+    "value": "Цю персональну космічну станцію розгорнув інший авантюрист. Він, напевно, має хороші речі для красти."
   },
   {
     "op": "replace",
@@ -127,7 +127,7 @@
   {
     "op": "replace",
     "path": "/researchship/parameters/description",
-    "value": "Це судно підтверджує наші повідомлення, і його капітан люб’язно запрошує нас відвідати."
+    "value": "Це судно підтверджує наші повідомлення, і її капітан люб’язно запрошує нас відвідати."
   },
   {
     "op": "replace",
@@ -137,7 +137,7 @@
   {
     "op": "replace",
     "path": "/merchantindustrialship/parameters/description",
-    "value": "Це судно підтверджує наші повідомлення, і його капітан люб’язно запрошує нас відвідати."
+    "value": "Це судно підтверджує наші повідомлення, і її капітан люб’язно запрошує нас відвідати."
   },
   {
     "op": "replace",
@@ -147,7 +147,7 @@
   {
     "op": "replace",
     "path": "/merchantastroship/parameters/description",
-    "value": "Це судно підтверджує наші повідомлення, і його капітан люб’язно запрошує нас відвідати."
+    "value": "Це судно підтверджує наші повідомлення, і її капітан люб’язно запрошує нас відвідати."
   },
   {
     "op": "replace",
@@ -157,7 +157,7 @@
   {
     "op": "replace",
     "path": "/penguinship/parameters/description",
-    "value": "Це судно підтверджує наші повідомлення, і його капітан люб’язно запрошує нас відвідати."
+    "value": "Це судно підтверджує наші повідомлення, і її капітан люб’язно запрошує нас відвідати."
   },
   {
     "op": "replace",
@@ -167,7 +167,7 @@
   {
     "op": "replace",
     "path": "/anomaly/parameters/description",
-    "value": "Небесні перешкоди перешкоджають детальному скануванню, але тут є аномальні показники енергії, які вимагають дослідження."
+    "value": "Небесна інтерференція перешкоджає детальному скануванню, але тут є аномальні показники енергії, які вимагають дослідження."
   },
   {
     "op": "replace",

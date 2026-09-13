@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "value": "  Seed Merchant"
+    "value": "Торговець насінням"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "value": "Продам насіння для с/г!"
+    "value": "Продає насіння для сільського господарства!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
-    "value": "Floran makesss plantsss grow in ssspace. Floran not have many cussstomers."
+    "value": "Флорани макають рослини в ssspace. Флорани не мають багатих клієнтів."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/floran/default/0",
-    "value": "Have fun in ssspace!"
+    "value": "Насолоджуйтесь у ssspace!"
   }
 ]

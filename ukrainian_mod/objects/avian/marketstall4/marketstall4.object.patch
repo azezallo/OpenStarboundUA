@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Невеликий порожній ринок"
+    "value": "Невеликий порожній ларьок"
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Цій стійлі потрібен інвентар."
+    "value": "Цей кіоск потребує товару."
   },
   {
     "op": "replace",

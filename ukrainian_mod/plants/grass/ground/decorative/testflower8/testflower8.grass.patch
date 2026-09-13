@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A hideous, soulless flower. I can feel my blood running cold."
+    "value": "Огідна, бездушна квітка. Я відчуваю, як кров охолоджується."
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floran not accept flower existsss. No no no."
+    "value": "Флоран не приймає, що квітка існуєссс. Ні-ні-ні."
   },
   {
     "op": "replace",

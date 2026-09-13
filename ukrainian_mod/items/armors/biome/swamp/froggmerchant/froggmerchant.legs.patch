@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Носячи їх, ви будете схожі на торговця Frogg."
+    "value": "Носячи їх, ви будете схожі на торговця Фрогга."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ніжки торговця Frogg"
+    "value": "Ноги торговця Frogg"
   }
 ]

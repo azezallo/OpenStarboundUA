@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Floran enjoys travel! Floran wants to sssee whole universe!"
+    "value": "Флорани люблять мандрівки! Флорани хочуть сссе весь Всесвіт!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/0",
-    "value": "Floran enjoys travel! Floran wants to sssee whole universe!"
+    "value": "Флорани люблять мандрівки! Флорани хочуть сссе весь Всесвіт!"
   }
 ]

@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілий скелет пінгвіна."
+    "value": "Скам'яний скелет пінгвіна."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Викопний пінгвін"
+    "value": "Фосилізований пінгвін"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/shortdescription",
-    "value": "Викопний пінгвін"
+    "value": "Фосилізований пінгвін"
   },
   {
     "op": "replace",

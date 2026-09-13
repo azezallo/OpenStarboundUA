@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Орган Земного Захисту"
+    "value": "Тіло із Земного Захисту"
   },
   {
     "op": "replace",
@@ -17,22 +17,22 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Боже добрий..."
+    "value": "Боже праведний..."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Так сумно..."
+    "value": "Так сссумно..."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спустошений. у мене немає слів..."
+    "value": "Спустошення. У мене немає слів..."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "мені дуже шкода..."
+    "value": "Мені дуже шкода..."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "ні! Цього не може бути."
+    "value": "Йой! Та не може такого бути!"
   }
 ]

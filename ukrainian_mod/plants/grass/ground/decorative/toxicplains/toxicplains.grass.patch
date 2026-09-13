@@ -1,21 +1,21 @@
 [
   {
-    "value": "Місячний",
+    "value": "Потенційно отруйні рослини.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Множин.",
+    "value": "Отруйні рослини.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Піксельний",
+    "value": "Флорани п'ють отруту на сніданок. Потім вмирають.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Земний",
+    "value": "Утвердження. Отруйні рослини.",
     "path": "/glitchDescription",
     "op": "replace"
   }

@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Pillar Block"
+    "value": "Стовповий блок"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Старий на вигляд кам'яний стовп."
+    "value": "Старий виглядаючий кам’яний стовп."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "вражений. Я вважаю, що цей кам'яний стовп дуже старий."
+    "value": "Вражений. Я вважаю, що цей кам’яний стовп дуже старий."
   },
   {
     "op": "replace",
@@ -22,6 +22,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "This is one ol' lookin' stone pillar."
+    "value": "Це один старий кам’яний стовп."
   }
 ]

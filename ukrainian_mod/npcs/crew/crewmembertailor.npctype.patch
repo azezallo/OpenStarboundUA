@@ -5,52 +5,52 @@
     "op": "replace"
   },
   {
-    "value": "по моді",
+    "value": "Мода",
     "path": "/scriptConfig/crew/role/field",
     "op": "replace"
   },
   {
-    "value": "Якщо хочеш оновити уніформу екіпажу - підійди до мене!",
+    "value": "Якщо хочеш оновити форму екіпажу, підійди до мене!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Зі своїми навичками кравця я можу оновити форму екіпажу. Якщо знадобляться мої послуги - просто поговори зі мною!",
+    "value": "Мої навички кравця дозволяють мені оновлювати форму екіпажу. Просто поговори зі мною, коли потрібні мої послуги!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Поговори з Флораном, якщо зззахочеш оновити уніформу!",
+    "value": "Поговори з Флоссрааном, якщо захочеш оновити форму!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран може оновити уніформу екіпажу, як тільки забажаєшшш!",
+    "value": "Флоссраан може оновити форму екіпажу, коли захочеш!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Ввічливість. Приходь до мене, як тільки забажаєш оновити уніформу екіпажу.",
+    "value": "Ввічливий. Приходь до мене, коли захочеш оновити форму екіпажу.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Азарт. Якщо хочеш оновити уніформу екіпажу - просто звернися до мене!",
+    "value": "Енергійний. Якщо потрібно оновити форму екіпажу, підійди до мене!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Якщо хочеш оновити уніформу екіпажу - просто підійди до мене, легіню!",
+    "value": "Якщо тобі потрібна допомога з оновленням форми екіпажу, підійди до мене, легіню!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Якщо хочеш оновити уніформу екіпажу, то я до твоїх послуг, файний мій!",
+    "value": "Якщо хочеш оновити уніформу екіпажу, то я до твоїх послуг, файно!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Виглядає безперечно по сезону!",
+    "value": "Цей вигляд безумовно в тренді цього сезону!",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
@@ -60,57 +60,57 @@
     "op": "replace"
   },
   {
-    "value": "У цьому одязі екіпаж дійсно незрівнянний. Хороший вибір, капітане!",
+    "value": "У цьому одязі екіпаж дійсно неперевершений. Чудовий вибір, капітане!",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Неймовірне відчуття стилю, капітане!",
+    "value": "Неймовірний смак у моді, капітане!",
     "path": "/scriptConfig/dialog/converse/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Флоран думає, це хороша форма!",
+    "value": "Флоран думає, що це ссхороша форма!",
     "path": "/scriptConfig/dialog/converse/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран вражений твоїм відчутттттям ссстилю!",
+    "value": "Флоран вражений твоїм відчуттям сстилю!",
     "path": "/scriptConfig/dialog/converse/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Флорану подобаєтьссся вибір одягу, капітане.",
+    "value": "Флорани подобаються вибору одягу, капітане.",
     "path": "/scriptConfig/dialog/converse/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Враження. Багатообіцяючий вибір форми, капітане!",
+    "value": "Вражений. Це обнадійливий вибір одягу, капітане!",
     "path": "/scriptConfig/dialog/converse/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Хвилювання. Я впевнений, усім сподобається нова уніформа!",
+    "value": "Захоплений. Я впевнений, що усім сподобається твоя уніформа!",
     "path": "/scriptConfig/dialog/converse/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Азарт. Я не можу дочекатися того моменту, коли почую, що всі думають про нову уніформу, капітане!",
+    "value": "Нетерпіння. Я не можу дочекатися, щоб почути, що думають про нову уніформу, капітане!",
     "path": "/scriptConfig/dialog/converse/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Досить круто виглядає, партнере, файно!",
+    "value": "Ти виглядаєш гостро як стальна шпора, партнере!",
     "path": "/scriptConfig/dialog/converse/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Ця уніформа гостріша за шпору з дюрасталі. Відмінний вибір, партнере!",
+    "value": "Ця нова уніформа гостріша за спір з дюрасталі. Чудовий вибір, партнере!",
     "path": "/scriptConfig/dialog/converse/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Прекрасний вибір одягу, партнере!",
+    "value": "Це чудовий вибір одягу, партнере!",
     "path": "/scriptConfig/dialog/converse/novakid/default/2",
     "op": "replace"
   }

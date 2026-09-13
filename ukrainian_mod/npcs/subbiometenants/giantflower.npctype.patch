@@ -1,11 +1,11 @@
 [
   {
-    "value": "  Торговец-натуралист",
+    "value": "Торговець-натураліст",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
     "op": "replace"
   },
   {
-    "value": "  Продажа растений и семян!",
+    "value": "Продає рослини, насіння та інше",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
     "op": "replace"
   },
@@ -20,37 +20,37 @@
     "op": "replace"
   },
   {
-    "value": "Вітаю, друже! Чи цікаво тобі поширювати красу природи крізь увесь всесвіт?",
+    "value": "Вітаю, друже! Чи цікаво тобі поширювати красу природи через увесь всесвіт?",
     "path": "/scriptConfig/dialog/merchant/start/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Флоран поширює природу, продає россслини.",
+    "value": "Флорани розповсюджують природу, продають россліни.",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Хочеш чассстинку природи? Флоран продає насссіння і россслини.",
+    "value": "Хочеш природу? Флорани продають насіння і россліни.",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран хоче пікссселі, і може дати насссіння.",
+    "value": "Флорани хочуть піксселей, можуть давати нассінння.",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Побачимося наступного разу!",
+    "value": "Побачимось наступного разу!",
     "path": "/scriptConfig/dialog/merchant/end/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Приходь знову.",
+    "value": "Заходь ще.",
     "path": "/scriptConfig/dialog/merchant/end/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Твої пікселі завжди в ціні.",
+    "value": "Твої пікселі тут завжди цінуються.",
     "path": "/scriptConfig/dialog/merchant/end/default/default/2",
     "op": "replace"
   },
@@ -70,7 +70,7 @@
     "op": "replace"
   },
   {
-    "value": "Давай поторгуємося знову.",
+    "value": "Давай вести бізнес знову.",
     "path": "/scriptConfig/dialog/merchant/end/default/default/6",
     "op": "replace"
   },
@@ -95,22 +95,22 @@
     "op": "replace"
   },
   {
-    "value": "Флоран буде радий продати тобі ще що-небудь!",
+    "value": "Флоран буде радий ssell вам ще що-небудь!",
     "path": "/scriptConfig/dialog/merchant/end/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Повертайся за новими покупками!",
+    "value": "Повертайся sssoon за новими покупками!",
     "path": "/scriptConfig/dialog/merchant/end/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран любить продавати.",
+    "value": "Флоран любить sselling.",
     "path": "/scriptConfig/dialog/merchant/end/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Флоран задоволений сссугодою.",
+    "value": "Флоран задоволений transssaction.",
     "path": "/scriptConfig/dialog/merchant/end/floran/default/3",
     "op": "replace"
   }

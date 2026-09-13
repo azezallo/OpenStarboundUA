@@ -1,26 +1,26 @@
 [
   {
-    "value": "Світловий",
+    "value": "Бруківка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Порожній",
+    "value": "Дрібні цеглинки з бруківки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Розплавл.",
+    "value": "Спостережливий. Ці цеглини зроблені з бруківки.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Фазовий",
+    "value": "Гладка бруківка.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Світанковий",
+    "value": "Цегла з бруківки.",
     "path": "/novakidDescription",
     "op": "replace"
   }

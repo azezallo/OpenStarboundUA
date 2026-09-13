@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Двері Академії Земного Захисту."
+    "value": "Двері Академії Земного Захисту"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Двері академії Земного Захисту"
+    "value": "Двері Академії Земного Захисту"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Двері."
+    "value": "Двері"
   },
   {
     "op": "replace",

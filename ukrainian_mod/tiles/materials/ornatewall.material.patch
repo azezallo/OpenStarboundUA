@@ -12,16 +12,16 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Perceptive. This wall is subtly decorated in a traditional method."
+    "value": "Проникливий. Ця стіна тонко декорована традиційним методом."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Wall iss too pretty to sssmash."
+    "value": "Стіна надто красива, щоб її розбити."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "This is a real fancy lookin' wall."
+    "value": "Це справжня шикарна стіна."
   }
 ]

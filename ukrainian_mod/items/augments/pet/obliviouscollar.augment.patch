@@ -12,6 +12,6 @@
   {
     "op": "replace",
     "path": "/collar/displayName",
-    "value": "Не помічаючи"
+    "value": "Неуважний"
   }
 ]

@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Я не знаю, що робити з цими вогниками... \"waz\"?"
+    "value": "Я не знаю, що робити з цими світлами… «waz»?"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Waaaazzzz? Wazzat."
+    "value": "Ваааазззз? Сссо це."
   },
   {
     "op": "replace",

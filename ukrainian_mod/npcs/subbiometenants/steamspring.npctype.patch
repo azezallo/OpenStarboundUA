@@ -1,71 +1,71 @@
 [
   {
-    "value": "  Ізобретатель",
+    "value": "Винахідник",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
     "op": "replace"
   },
   {
-    "value": "  Продажа самодельних діковін!",
+    "value": "Продає власноруч виготовлені дивовижності",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
     "op": "replace"
   },
   {
-    "value": "Оптимістично. Ти хочеш купити щось із моїх винаходів?",
+    "value": "Оптимістично. Чи хочеш купити щось із моїх винаходів?",
     "path": "/scriptConfig/dialog/merchant/start/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Відчайдушно. Мені дуже потрібно, щоб хтось купив у мене мої розробки...",
+    "value": "Відчайдушно. Мені дуже потрібен хтось, хто купить мої винаходи.",
     "path": "/scriptConfig/dialog/merchant/start/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Нетерпляче. Ти хочеш поглянути на винаходи?",
+    "value": "Нетерплячий. Чи хочеш подивитися на мої винаходи?",
     "path": "/scriptConfig/dialog/merchant/start/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Привітно. Ти маєш поглянути на винаходи, які я можу запропонувати!",
+    "value": "Вітаю! Погляньте, що я можу запропонувати.",
     "path": "/scriptConfig/dialog/merchant/start/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Втішено. Тепер ти можеш поглянути на мої винаходи!",
+    "value": "Радість. Тепер ти можеш поглянути на мої винаходи!",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Нетерпляче. Тепер ти можеш поглянути на винаходи, які мені треба продати!",
+    "value": "Нетерплячість. Тепер ти можеш поглянути на винаходи, які мені треба продати!",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Збуджено. Нарешті, покупець, який може вкластися в мої винаходи!",
+    "value": "Збудження. Нарешті, покупець, який може вкластися в мої винаходи!",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Панічно. Прошу, не забудь потім зайти знову!",
+    "value": "Паніка. Прошу, не забудь потім зайти знову!",
     "path": "/scriptConfig/dialog/merchant/end/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Стурбовано. Не забудь зазирнути ще.",
+    "value": "Турбота. Не забудь зазирнути ще.",
     "path": "/scriptConfig/dialog/merchant/end/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Нетерпляче. Заходь знову!",
+    "value": "Нетерплячість. Заходь знову!",
     "path": "/scriptConfig/dialog/merchant/end/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Стурбовано. Прошу, заходь ще, якщо тобі буде щось потрібно.",
+    "value": "Тривожність. Прошу, заходь ще, якщо тобі буде щось потрібно.",
     "path": "/scriptConfig/dialog/merchant/end/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Напружено. Сподіваюсь, тобі сподобались мої товари, і ти зазирнеш ще!",
+    "value": "Напруженість. Сподіваюсь, тобі сподобались мої товари, і ти зазирнеш ще!",
     "path": "/scriptConfig/dialog/merchant/end/default/default/4",
     "op": "replace"
   }

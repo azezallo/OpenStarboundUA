@@ -12,32 +12,32 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Маленька золота качечка."
+    "value": "Маленька золота качечка"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Ці речі насправді дуже цінні."
+    "value": "Ці речі насправді дуже цінні"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Блискуча маленька качечка."
+    "value": "Блискуча маленька качечка"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Закоханий. Це чарівно."
+    "value": "Закоханий. Це чарівне"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Чарівна маленька качечка."
+    "value": "Чарівна маленька качечка"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Каченя, увічнене золотом."
+    "value": "Каченя, увічнене золотом"
   },
   {
     "op": "replace",

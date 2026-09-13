@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стелаж, повний досить тупих залізних мечів."
+    "value": "Стійка, повна досить тупих залізних мечів."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Стелаж для середньовічної зброї"
+    "value": "Стійка для середньовічної зброї"
   },
   {
     "op": "replace",
@@ -17,31 +17,31 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Тупий вибір мечів."
+    "value": "Добірка затуплених мечів."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Не гострі мечі."
+    "value": "Мечі геть не госсстрі."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Ці мечі тупі. Мабуть, про них забули."
+    "value": "Байдужість. Ці мечі тупі. Схоже, про них давно забули."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Ледве гострий, щоб нарізати сир."
+    "value": "Вони ледве гострі, щоб навіть сир порізати."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Тупий набір мечів. Такі жалюгідні речі."
+    "value": "Набір затуплених мечів. Які жалюгідні залізяки."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Нікому не дуже добре."
+    "value": "Ніякого толку з них ні для кого нема."
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Poison Bobfae"
+    "value": "Отруйний Бобфей"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Not the most efficient flyer, it's a mystery how Bobfae have survived as a species."
+    "value": "Найменш ефективний лётчик, таємниця того, як Бобфей вижили як вид."
   }
 ]

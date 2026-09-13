@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Зручне ліжко Durasteel. Виглядає досить гладко."
+    "value": "Зручне ліжко Дюрасталь. Виглядає досить гладко."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ліжко Durasteel"
+    "value": "Ліжко Дюрасталь"
   },
   {
     "op": "replace",
@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Це дуже зручне місце для відпочинку мого пір'я."
+    "value": "Це дуже зручне місце, щоб перепочити моєму пір'ю."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран спокійний у чудовому ліжку."
+    "value": "Флоран відпочиває у чудовому ліжсску."
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Чудове ліжко. Тут можна легко відпочити."
+    "value": "Чудове ліжко. Тут буде легко перепочити."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Виглядає як біса пристойне ліжко!"
+    "value": "Здається, це справді приличне ліжко!"
   }
 ]

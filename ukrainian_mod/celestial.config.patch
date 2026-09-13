@@ -77,37 +77,37 @@
   {
     "op": "replace",
     "path": "/planetaryTypes/Tier1/baseParameters/description",
-    "value": "Планета рівня 1"
+    "value": "Планета 1-го рівня"
   },
   {
     "op": "replace",
     "path": "/planetaryTypes/Tier2/baseParameters/description",
-    "value": "Планета рівня 2"
+    "value": "Планета 2-го рівня"
   },
   {
     "op": "replace",
     "path": "/planetaryTypes/Tier3/baseParameters/description",
-    "value": "Планета рівня 3"
+    "value": "Планета 3-го рівня"
   },
   {
     "op": "replace",
     "path": "/planetaryTypes/Tier4/baseParameters/description",
-    "value": "Планета рівня 4"
+    "value": "Планета 4-го рівня"
   },
   {
     "op": "replace",
     "path": "/planetaryTypes/Tier5/baseParameters/description",
-    "value": "Планета 5 рівня"
+    "value": "Планета 5-го рівня"
   },
   {
     "op": "replace",
     "path": "/planetaryTypes/Tier6/baseParameters/description",
-    "value": "Планета 6 рівня"
+    "value": "Планета 6-го рівня"
   },
   {
     "op": "replace",
     "path": "/planetaryTypes/Moon/baseParameters/description",
-    "value": "Планета Місяць"
+    "value": "Місячна планета"
   },
   {
     "op": "replace",
@@ -117,7 +117,7 @@
   {
     "op": "replace",
     "path": "/planetaryTypes/AsteroidField/baseParameters/description",
-    "value": "Астероїдне поле"
+    "value": "Поле астероїдів"
   },
   {
     "op": "replace",
@@ -127,41 +127,41 @@
   {
     "op": "replace",
     "path": "/planetaryTypes/GasGiant/baseParameters/description",
-    "value": "Планета газових гігантів"
+    "value": "Газова планета-гігант"
   },
   {
     "op": "replace",
     "path": "/satelliteTypes/Tier1/baseParameters/description",
-    "value": "Місяць рівня 1"
+    "value": "Місяць 1-го рівня"
   },
   {
     "op": "replace",
     "path": "/satelliteTypes/Tier2/baseParameters/description",
-    "value": "Місяць рівня 2"
+    "value": "Місяць 2-го рівня"
   },
   {
     "op": "replace",
     "path": "/satelliteTypes/Tier3/baseParameters/description",
-    "value": "Місяць рівня 3"
+    "value": "Місяць 3-го рівня"
   },
   {
     "op": "replace",
     "path": "/satelliteTypes/Tier4/baseParameters/description",
-    "value": "Місяць 4 рівня"
+    "value": "Місяць 4-го рівня"
   },
   {
     "op": "replace",
     "path": "/satelliteTypes/Tier5/baseParameters/description",
-    "value": "Місяць 5 рівня"
+    "value": "Місяць 5-го рівня"
   },
   {
     "op": "replace",
     "path": "/satelliteTypes/Tier6/baseParameters/description",
-    "value": "Місяць 6 рівня"
+    "value": "Місяць 6-го рівня"
   },
   {
     "op": "replace",
     "path": "/satelliteTypes/Moon/baseParameters/description",
-    "value": "Болотний стандартний місяць"
+    "value": "Болотний Стандартний Місяць"
   }
 ]

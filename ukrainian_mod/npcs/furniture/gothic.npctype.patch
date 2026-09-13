@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/4",
-    "value": "стурбований. У цьому всесвіті є речі набагато страшніші, ніж я."
+    "value": "Стурбований. У цьому всесвіті є речі набагато страшніші, ніж я."
   },
   {
     "op": "replace",
@@ -37,12 +37,12 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/7",
-    "value": "Worried. Long into the darkness have I peered, wondering..."
+    "value": "Тривожений. Давно дивився у темряву, роздумуючи..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/8",
-    "value": "Scared. If you stare into the abyss, that single brazen eye will stare back."
+    "value": "Страх. Якщо ти дивишся у безодню, одне око повернеться назад."
   },
   {
     "op": "replace",

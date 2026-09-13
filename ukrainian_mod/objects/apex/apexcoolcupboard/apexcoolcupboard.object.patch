@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ця шафа витончена, але виглядає не міцно."
+    "value": "Ця шафа витончена, але не виглядає міцною."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Класний шафа"
+    "value": "Крута шафа"
   },
   {
     "op": "replace",
@@ -22,26 +22,26 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssstorage."
+    "value": "Ссховище."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Цікаво. Може містити елементи."
+    "value": "Цікавість. Може містити предмети."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Елегантна шафа."
+    "value": "Елегантна на вигляд шафа."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Я повинен перевірити вміст."
+    "value": "Варто перевірити вміст."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Давайте заглянемо всередину."
+    "value": "Зазирнімо всередину, файно."
   }
 ]

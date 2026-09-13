@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ці штани сповнені темної енергії."
+    "value": "Ці штани наповнені темною енергією."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Темні штани маскування"
+    "value": "Тіньові штани"
   }
 ]

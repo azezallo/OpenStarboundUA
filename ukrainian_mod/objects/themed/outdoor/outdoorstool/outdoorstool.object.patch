@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стильний металевий табурет, який підходить для прогулянок на природі."
+    "value": "Охайний металевий табурет, що підходить для вулиці."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Відкритий табурет"
+    "value": "Вуличний табурет"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Табурет металевий. Це просто."
+    "value": "Металевий табурет. Простий."
   },
   {
     "op": "replace",
@@ -22,26 +22,26 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Лише один стілець."
+    "value": "Просссто один ссстілець."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спостережливий. Це металевий табурет."
+    "value": "Спостереження. Це металевий табурет."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Місце для сидіння для одного."
+    "value": "Місце посидіти для одного."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Місце, де можна на мить відпочити ногам і розуму."
+    "value": "Місце, де можна на мить дати спокій ногам і думкам."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Простий табурет. Немає спинки."
+    "value": "Простий табурет. Спинки нема, бігме."
   }
 ]

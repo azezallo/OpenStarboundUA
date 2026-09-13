@@ -2,26 +2,26 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Tungsten Platform"
+    "value": "Вольфрамова платформа"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Strong platforms made from tungsten."
+    "value": "Міцні платформи з вольфраму"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Схвалення. З вольфраму можна зробити надзвичайно міцні платформи."
+    "value": "Схвалюю. З вольфраму можна зробити надзвичайно міцні платформи."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Міцні металеві платформи."
+    "value": "Міцні металеві платформи"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Platforms made outta tungsten."
+    "value": "Платформи з вольфраму"
   }
 ]

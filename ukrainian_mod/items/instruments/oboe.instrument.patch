@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "гобой. Досить пильно."
+    "value": "Гобой. Досить пиловий."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "гобой"
+    "value": "Гобой"
   }
 ]

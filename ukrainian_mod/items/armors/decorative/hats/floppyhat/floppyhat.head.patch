@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ідеально підходить для чаювання на галявині."
+    "value": "Ідеально підходить для чаївки на галявині."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Флоппі Fancy Hat"
+    "value": "Шикарний флопі-капелюх"
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Chucklefish"
+    "value": "Чаклфіш"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Haven't I seen this fish before somewhere?"
+    "value": "Чи не бачив я вже таку рибку кудись?"
   }
 ]

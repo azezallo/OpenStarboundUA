@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Floran just here to buy ssseeds for Floran's farm."
+    "value": "Флоран просто тут, щоб купити сссїд для Флорана ферми."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "Floran isss making farm! Floran just here for sssome ssseeds."
+    "value": "Флоран сссобирає ферму! Флоран просто тут за сссамими сссїдами."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
-    "value": "Floran isn't meat eater like other Floransss! Floran making farm inssstead."
+    "value": "Флоран не їсть м’ясо, як інші Флорани! Флоран створює ферму зссмест."
   }
 ]

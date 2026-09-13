@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Якісь інопланетні водорості."
+    "value": "Деякі інопланетні водорості."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Чужі водорості"
+    "value": "Інопланетні водорості"
   }
 ]

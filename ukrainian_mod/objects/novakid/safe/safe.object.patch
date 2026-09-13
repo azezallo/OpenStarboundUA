@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Безпечний"
+    "value": "Сейф"
   },
   {
     "op": "replace",
@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Сейф. Тримайте скарби подалі від інших"
+    "value": "Сейф. Зберігає скарби від інших."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "впевненість. Це діючий сейф."
+    "value": "Впевненість. Це діючий сейф."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Я міг би використати це, щоб зберегти речі... в безпеці."
+    "value": "Я міг би використати це, щоб зберегти речі в безпеці."
   },
   {
     "op": "replace",

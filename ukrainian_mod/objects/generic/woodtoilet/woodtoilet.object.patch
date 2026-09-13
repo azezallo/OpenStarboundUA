@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Туалет з дерева... Не дуже гігієнічно."
+    "value": "Туалет з дерева... Не дуже гігієнічний."
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран воліє йти в ліс."
+    "value": "Флорани віддають перевагу йти в ліси."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Огидно. Повний мікробів."
+    "value": "Огидно. Повний мікробами."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Hylotl не використовує такі пристрої."
+    "value": "Хайлотлі не використовують такі пристрої."
   },
   {
     "op": "replace",

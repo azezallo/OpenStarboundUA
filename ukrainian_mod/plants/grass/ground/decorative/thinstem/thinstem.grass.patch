@@ -5,12 +5,12 @@
     "op": "replace"
   },
   {
-    "value": "Тонкий чагарник",
+    "value": "Тонкий чагарник.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Тонкий чагасссрник. Флоран може сссховатися.",
+    "value": "Тонкий чагарник. Флоран може сссховатися.",
     "path": "/floranDescription",
     "op": "replace"
   },

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Це вугілля. Гідне джерело палива."
+    "value": "Це вугілля – надійне джерело палива."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "вугілля"
+    "value": "Вугілля"
   }
 ]

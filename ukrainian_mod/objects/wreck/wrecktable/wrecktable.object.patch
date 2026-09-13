@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Потертий старий стіл. Щодо столів все ще працює!"
+    "value": "Потертий старий стіл. Він все ще працює, коли йдеться про столи."
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Уламки столу."
+    "value": "Уламок столу."
   },
   {
     "op": "replace",
@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Старий стіл в аварійному ремонті."
+    "value": "Старий стіл у розваленому стані."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Огидно. Цей старий стіл у жахливому стані."
+    "value": "Ненавидно. Цей старий стіл в жахливому стані."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Ця таблиця — мотлох."
+    "value": "Цей стіл – мотлох."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Цей стіл у дуже поганому стані."
+    "value": "Цей стіл у досить поганому стані."
   }
 ]

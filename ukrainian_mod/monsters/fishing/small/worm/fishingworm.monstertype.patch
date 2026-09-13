@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Banded Wormeel"
+    "value": "Пояснений Черв'як"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "The long antenna on the Wormeel's head can pick up radio waves from nearby planets."
+    "value": "Довга антена на голові Ворміла може вловлювати радіохвилі від сусідніх планет."
   }
 ]

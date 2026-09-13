@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Квітчаста сорочка, чудово пахне."
+    "value": "Квіточна сорочка, вона пахне чудово."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Квітчаста сорочка"
+    "value": "Квіточна сорочка"
   }
 ]

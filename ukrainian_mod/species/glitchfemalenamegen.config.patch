@@ -2,251 +2,251 @@
   {
     "op": "replace",
     "path": "/names/1/1/0",
-    "value": "Song"
+    "value": "Пісня"
   },
   {
     "op": "replace",
     "path": "/names/1/1/1",
-    "value": "Sing"
+    "value": "Співати"
   },
   {
     "op": "replace",
     "path": "/names/1/1/2",
-    "value": "Iron"
+    "value": "Залізний"
   },
   {
     "op": "replace",
     "path": "/names/1/1/3",
-    "value": "Hope"
+    "value": "Надія"
   },
   {
     "op": "replace",
     "path": "/names/1/1/4",
-    "value": "Star"
+    "value": "Стар"
   },
   {
     "op": "replace",
     "path": "/names/1/1/5",
-    "value": "Arrow"
+    "value": "Стрілецький"
   },
   {
     "op": "replace",
     "path": "/names/1/1/6",
-    "value": "Silver"
+    "value": "Срібло"
   },
   {
     "op": "replace",
     "path": "/names/1/1/7",
-    "value": "Charm"
+    "value": "Чарівність"
   },
   {
     "op": "replace",
     "path": "/names/1/1/8",
-    "value": "Siege"
+    "value": "Осадний"
   },
   {
     "op": "replace",
     "path": "/names/1/1/9",
-    "value": "Long"
+    "value": "Довгий"
   },
   {
     "op": "replace",
     "path": "/names/1/1/10",
-    "value": "Shine"
+    "value": "Сяйво"
   },
   {
     "op": "replace",
     "path": "/names/1/1/11",
-    "value": "Turn"
+    "value": "Оборотний"
   },
   {
     "op": "replace",
     "path": "/names/1/1/12",
-    "value": "Brave"
+    "value": "Хоробрий"
   },
   {
     "op": "replace",
     "path": "/names/1/1/13",
-    "value": "Gold"
+    "value": "Золотий"
   },
   {
     "op": "replace",
     "path": "/names/1/1/14",
-    "value": "Storm"
+    "value": "Штормовий"
   },
   {
     "op": "replace",
     "path": "/names/1/1/15",
-    "value": "Farm"
+    "value": "Селянський"
   },
   {
     "op": "replace",
     "path": "/names/1/1/16",
-    "value": "Star"
+    "value": "Стар"
   },
   {
     "op": "replace",
     "path": "/names/1/1/17",
-    "value": "Free"
+    "value": "Вільний"
   },
   {
     "op": "replace",
     "path": "/names/1/1/18",
-    "value": "Wind"
+    "value": "Вітряний"
   },
   {
     "op": "replace",
     "path": "/names/1/1/19",
-    "value": "Swift"
+    "value": "Швидкий"
   },
   {
     "op": "replace",
     "path": "/names/1/1/20",
-    "value": "Moon"
+    "value": "Місяць"
   },
   {
     "op": "replace",
     "path": "/names/1/1/21",
-    "value": "Wing"
+    "value": "Крила"
   },
   {
     "op": "replace",
     "path": "/names/1/1/22",
-    "value": "Spark"
+    "value": "Іскристий"
   },
   {
     "op": "replace",
     "path": "/names/1/1/23",
-    "value": "Night"
+    "value": "Нічний"
   },
   {
     "op": "replace",
     "path": "/names/1/1/24",
-    "value": "Sunny"
+    "value": "Санні"
   },
   {
     "op": "replace",
     "path": "/names/1/1/25",
-    "value": "Bright"
+    "value": "Яскравий"
   },
   {
     "op": "replace",
     "path": "/names/1/2/0",
-    "value": "bolt"
+    "value": "болт"
   },
   {
     "op": "replace",
     "path": "/names/1/2/1",
-    "value": "mate"
+    "value": "друг"
   },
   {
     "op": "replace",
     "path": "/names/1/2/2",
-    "value": "heart"
+    "value": "серце"
   },
   {
     "op": "replace",
     "path": "/names/1/2/3",
-    "value": "chain"
+    "value": "ланцюг"
   },
   {
     "op": "replace",
     "path": "/names/1/2/4",
-    "value": "oak"
+    "value": "дуб"
   },
   {
     "op": "replace",
     "path": "/names/1/2/5",
-    "value": "quill"
+    "value": "перо"
   },
   {
     "op": "replace",
     "path": "/names/1/2/6",
-    "value": "march"
+    "value": "марш"
   },
   {
     "op": "replace",
     "path": "/names/1/2/7",
-    "value": "spear"
+    "value": "Спис"
   },
   {
     "op": "replace",
     "path": "/names/1/2/8",
-    "value": "blade"
+    "value": "клинок"
   },
   {
     "op": "replace",
     "path": "/names/1/2/9",
-    "value": "knave"
+    "value": "слуга"
   },
   {
     "op": "replace",
     "path": "/names/1/2/10",
-    "value": "lord"
+    "value": "лорд"
   },
   {
     "op": "replace",
     "path": "/names/1/2/11",
-    "value": "watch"
+    "value": "дозорець"
   },
   {
     "op": "replace",
     "path": "/names/1/2/12",
-    "value": "shield"
+    "value": "щит"
   },
   {
     "op": "replace",
     "path": "/names/1/2/13",
-    "value": "pike"
+    "value": "піка"
   },
   {
     "op": "replace",
     "path": "/names/1/2/14",
-    "value": "wall"
+    "value": "мур"
   },
   {
     "op": "replace",
     "path": "/names/1/2/15",
-    "value": "rake"
+    "value": "граблі"
   },
   {
     "op": "replace",
     "path": "/names/1/2/16",
-    "value": "finger"
+    "value": "палець"
   },
   {
     "op": "replace",
     "path": "/names/1/2/17",
-    "value": "latch"
+    "value": "засув"
   },
   {
     "op": "replace",
     "path": "/names/1/2/18",
-    "value": "mail"
+    "value": "кольчуга"
   },
   {
     "op": "replace",
     "path": "/names/1/2/19",
-    "value": "lance"
+    "value": "спис"
   },
   {
     "op": "replace",
     "path": "/names/1/2/20",
-    "value": "wire"
+    "value": "дріт"
   },
   {
     "op": "replace",
     "path": "/names/1/2/21",
-    "value": "nail"
+    "value": "цвях"
   },
   {
     "op": "replace",
     "path": "/names/1/2/22",
-    "value": "foot"
+    "value": "стопа"
   },
   {
     "op": "replace",
     "path": "/names/1/2/23",
-    "value": "flower"
+    "value": "квітка"
   }
 ]

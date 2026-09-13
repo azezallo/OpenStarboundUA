@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": "Підтвердити"
+    "value": "Підтвердження"
   },
   {
     "op": "replace",

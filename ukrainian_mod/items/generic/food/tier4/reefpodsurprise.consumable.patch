@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Набагато кисліший, ніж ви могли очікувати. Сюрприз!"
+    "value": "Набагато кіслішого, ніж ви могли очікувати. Сюрприз!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Reefpod Surprise"
+    "value": "Рифпудовий сюрприз"
   }
 ]

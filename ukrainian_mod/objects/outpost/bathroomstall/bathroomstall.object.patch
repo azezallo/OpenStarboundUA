@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ванна кабінка. Не застрягайте!"
+    "value": "Туалетна кабінка. Не застрягніть!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ванна кабіна"
+    "value": "Туалетна кабінка"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Стандартна кабінка для ванної кімнати."
+    "value": "Звичайна туалетна кабінка."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Ванна кабінка."
+    "value": "Туалетна кабінка."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран любить ховатися в ssstalls і дивитися, як люди проходять крізь щілину!"
+    "value": "Флоран любить ховатиссся в сскабінках і дивитиссся крізь щілину, як люди проходять повз!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Ванна кабінка."
+    "value": "Байдужість. Туалетна кабінка."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Чудово підходить для того, щоб сховатися та грати в мобільні ігри."
+    "value": "Чудово підходить, щоб сховатися і грати в мобільні ігри."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Груба кабінка у ванній."
+    "value": "Примітивна туалетна кабінка."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Коли тобі потрібно йти, тобі потрібно йти."
+    "value": "Як приспіло, то вже мус іти."
   }
 ]

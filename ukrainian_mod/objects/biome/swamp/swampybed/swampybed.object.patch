@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Незвичайне ліжко, з бортиками з коренеплодів і листя."
+    "value": "Незвичайне ліжко, з бортиками з коренів і листя."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Болото Кот"
+    "value": "Болотне ліжечко"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран спить у листі."
+    "value": "Флорани сспитт у лісссі."
   },
   {
     "op": "replace",

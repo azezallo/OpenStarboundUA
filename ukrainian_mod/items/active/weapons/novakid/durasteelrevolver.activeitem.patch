@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Великий пістолет, який забезпечує удар."
+    "value": "Великий пістолет, що вражає"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Револьвер Durasteel"
+    "value": "Стрільба розсипом, смертельна на коротких дистанціях"
   }
 ]

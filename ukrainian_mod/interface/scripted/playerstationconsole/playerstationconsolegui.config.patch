@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/gui/windowtitle/title",
-    "value": " Консоль Станції"
+    "value": "Консоль Станції"
   },
   {
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
-    "value": " Керуй системами станції"
+    "value": "Керуй системами станції"
   },
   {
     "op": "replace",

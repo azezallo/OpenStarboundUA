@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/identity/name",
-    "value": "Doris"
+    "value": "Доріс"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "'Ello I'm Doris. My 'overboard flew off a cliff and I 'av come 'ere to buy a new one."
+    "value": "Привіт! Я Доріс. Мій hoverboard втік з обрію, і я прийшов сюди купити новий."
   }
 ]

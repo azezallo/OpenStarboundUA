@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Гарний дерев'яний ящик."
+    "value": "Гарна дерев'яна ссскриня."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Дерев'яний ящик."
+    "value": "Нейтральність. Дерев'яний ящик."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Ящик з дерева."
+    "value": "Ящик із дерева."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Величезний ящик."
+    "value": "Файно великий ящик."
   }
 ]

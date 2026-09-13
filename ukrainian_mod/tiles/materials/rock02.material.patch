@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Rough, unrefined stone."
+    "value": "Грубий, неочищений камінь."
   },
   {
     "op": "replace",
@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спостережливий. Це звичайне необроблене каміння."
+    "value": "Спостережливий. Це звичайні грубі камені."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Жорстка груба кам'яність."
+    "value": "Жорстка, груба кам'яність."
   },
   {
     "op": "replace",

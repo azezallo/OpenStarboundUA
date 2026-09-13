@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Аркадна машина, на якій працює гра під назвою «Starbound»."
+    "value": "Аркадна машина, що запускає гру під назвою «Starbound»."
   },
   {
     "op": "replace",
@@ -12,17 +12,17 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Гра про дослідження космосу під назвою Starbound. Здається знайомим."
+    "value": "Гра про дослідження космосу під назвою Starbound. Вона здається знайомою."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Ніколи не чув про цю гру Starbound. І все ж..."
+    "value": "Ніколи не чув про цю гру Starbound, і все ж..."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Гра Sstarbound Spaceship. Флоран отримує досягнення за розбиття четвертої стіни."
+    "value": "Гра Sstarbound Spaceship. Флорани отримують досягнення за сссмассинг четвертої стіни."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Якась гра на дослідження космосу під назвою Starbound. Я роблю це в реальному житті!"
+    "value": "Деяка гра про дослідження космосу під назвою Starbound. Я роблю це у реальному житті!"
   }
 ]

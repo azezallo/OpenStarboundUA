@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Явний показник кузні."
+    "value": "Явна ознака кузні."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Знак кузні"
+    "value": "Вивіска кузні"
   },
   {
     "op": "replace",
@@ -17,31 +17,31 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Знак із ковадлом на ньому."
+    "value": "Вивіска з ковадлом."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Це металевий цех?"
+    "value": "Це металева майссстерня?"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Зміст. Знак для ковальської кузні."
+    "value": "Задоволення. Вивіска ковальської кузні."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Цехна вивіска для ковальської кузні."
+    "value": "Вивіска ковальської кузні."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Знак, який вказує на кузню."
+    "value": "Вивіска, яка вказує на кузню."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ця будівля має бути кузнею з таким знаком."
+    "value": "З такою вивіскою ця будівля має бути кузнею."
   }
 ]

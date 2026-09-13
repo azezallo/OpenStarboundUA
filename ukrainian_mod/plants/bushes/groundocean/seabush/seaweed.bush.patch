@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "морські водорості."
+    "value": "Водорості."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "морські водорості"
+    "value": "Морські водорості"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ссслий бур'ян."
+    "value": "Слизький бур'ян"
   },
   {
     "op": "replace",

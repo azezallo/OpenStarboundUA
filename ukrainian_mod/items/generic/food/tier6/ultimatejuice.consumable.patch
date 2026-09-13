@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Всі фрукти в соку."
+    "value": "Усі фрукти в соку."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ultimate Juice"
+    "value": "Ультимальний сік"
   }
 ]

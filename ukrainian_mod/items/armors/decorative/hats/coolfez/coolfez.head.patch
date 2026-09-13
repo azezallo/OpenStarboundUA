@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Фески... акуратні!"
+    "value": "Феззи… акуратні!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Крутий Фес"
+    "value": "Крутий фез"
   }
 ]

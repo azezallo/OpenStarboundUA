@@ -1,31 +1,31 @@
 [
   {
-    "value": "Я готовий зайнятися пошуком скарбів під водою!",
+    "value": "Я готовий зануритися у пошуки скарбів під водою!",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "До занурення я повинен заспокоїтися. Глибоко вдихнути. Залишатися зосередженим.",
+    "value": "До занурення я повинен заспокоїтись. Глибоко вдихнути. Залишайся зосередженим.",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Подумати тільки, гілотли колись жили над водою...",
+    "value": "Подумати лише, що Хайлотлі колись жили над водой.",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Я сам зробив цей костюм для пірнання! Що скажеш?",
+    "value": "Я сам зробив цей костюм для підводного плавання! Що скажеш?",
     "path": "/scriptConfig/dialog/converse/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Ти наважувався занурюватися під воду? Там розсипи скарбів, але тільки для сміливців.",
+    "value": "Ти вже занурився під воду? Скарби там чекають лише сміливих.",
     "path": "/scriptConfig/dialog/converse/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Дослідження підводного світу... Це те, що я бачив у снах.",
+    "value": "Дослідження підводного світу... Це те, що я мрію про під час сну.",
     "path": "/scriptConfig/dialog/converse/default/default/5",
     "op": "replace"
   },
@@ -35,17 +35,17 @@
     "op": "replace"
   },
   {
-    "value": "Всі гілотли мріють зануритися під воду.",
+    "value": "Всі Хайлотлі прагнуть зануритися під воду.",
     "path": "/scriptConfig/dialog/converse/default/default/7",
     "op": "replace"
   },
   {
-    "value": "Хоч гілотлського вдиху вистачає надовго, костюм для пірнання потрібен, щоб занурення було безпечним.",
+    "value": "Хайлотлівський вдих не триває довго; цей костюм забезпечує безпеку підводного занурення.",
     "path": "/scriptConfig/dialog/converse/default/default/8",
     "op": "replace"
   },
   {
-    "value": "Ти все ще досліджуєш невідомі глибини?",
+    "value": "Ти ще не досліджував незвідані глибини?",
     "path": "/scriptConfig/dialog/converse/default/default/9",
     "op": "replace"
   }

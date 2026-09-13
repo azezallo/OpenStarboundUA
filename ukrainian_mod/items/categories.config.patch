@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Рейка",
+    "value": "Рельс",
     "path": "/labels/rail",
     "op": "replace"
   },
@@ -35,7 +35,7 @@
     "op": "replace"
   },
   {
-    "value": "Наспинний предмет",
+    "value": "Одяг на спину",
     "path": "/labels/backwear",
     "op": "replace"
   },
@@ -50,7 +50,7 @@
     "op": "replace"
   },
   {
-    "value": "Нижній одяг",
+    "value": "Штани",
     "path": "/labels/legwear",
     "op": "replace"
   },
@@ -110,7 +110,7 @@
     "op": "replace"
   },
   {
-    "value": "Риболовецькі приманки",
+    "value": "Риболовна приманка",
     "path": "/labels/fishingLure",
     "op": "replace"
   },
@@ -135,12 +135,12 @@
     "op": "replace"
   },
   {
-    "value": "Велика скам'янілість",
+    "value": "Великий фосил",
     "path": "/labels/largeFossil",
     "op": "replace"
   },
   {
-    "value": "Середня скам'янілість",
+    "value": "Середній фосил",
     "path": "/labels/mediumFossil",
     "op": "replace"
   },
@@ -155,7 +155,7 @@
     "op": "replace"
   },
   {
-    "value": "Таємнича нагорода",
+    "value": "Таємна нагорода",
     "path": "/labels/mysteriousReward",
     "op": "replace"
   },
@@ -175,12 +175,12 @@
     "op": "replace"
   },
   {
-    "value": "Платформа для рейок",
+    "value": "Залізнична платформа",
     "path": "/labels/railPlatform",
     "op": "replace"
   },
   {
-    "value": "Трофейна деталь",
+    "value": "Компонент рекуперації",
     "path": "/labels/salvageComponent",
     "op": "replace"
   },
@@ -190,7 +190,7 @@
     "op": "replace"
   },
   {
-    "value": "Мала скам'янілість",
+    "value": "Мала окаменелість",
     "path": "/labels/smallFossil",
     "op": "replace"
   },
@@ -200,12 +200,12 @@
     "op": "replace"
   },
   {
-    "value": "Метальний предмет",
+    "value": "Підкидаємий предмет",
     "path": "/labels/throwableItem",
     "op": "replace"
   },
   {
-    "value": "Інструмент",
+    "value": "Інстр.",
     "path": "/labels/tool",
     "op": "replace"
   },
@@ -230,7 +230,7 @@
     "op": "replace"
   },
   {
-    "value": "Паливо",
+    "value": "Паливо корабля",
     "path": "/labels/fuel",
     "op": "replace"
   },
@@ -240,7 +240,7 @@
     "op": "replace"
   },
   {
-    "value": "Деталь меха",
+    "value": "Компонент меху",
     "path": "/labels/mechPart",
     "op": "replace"
   },
@@ -310,7 +310,7 @@
     "op": "replace"
   },
   {
-    "value": "Рейковий пункт",
+    "value": "Колійовий пункт",
     "path": "/labels/railPoint",
     "op": "replace"
   },
@@ -330,7 +330,7 @@
     "op": "replace"
   },
   {
-    "value": "Колонізатор",
+    "value": "Документ",
     "path": "/labels/spawner",
     "op": "replace"
   },
@@ -340,7 +340,7 @@
     "op": "replace"
   },
   {
-    "value": "Технологія управління",
+    "value": "Керування технологіями",
     "path": "/labels/techManagement",
     "op": "replace"
   },
@@ -350,7 +350,7 @@
     "op": "replace"
   },
   {
-    "value": "Точка телепортації",
+    "value": "Мітка телепорту",
     "path": "/labels/teleportMarker",
     "op": "replace"
   },
@@ -435,7 +435,7 @@
     "op": "replace"
   },
   {
-    "value": "Ракетниця",
+    "value": "Ракетна гарматка",
     "path": "/labels/rocketLauncher",
     "op": "replace"
   },
@@ -460,7 +460,7 @@
     "op": "replace"
   },
   {
-    "value": "Спис",
+    "value": "Коп'як",
     "path": "/labels/spear",
     "op": "replace"
   },
@@ -490,12 +490,12 @@
     "op": "replace"
   },
   {
-    "value": "Чертёж",
+    "value": "Чертеж",
     "path": "/labels/Blueprint",
     "op": "add"
   },
   {
-    "value": "Инструмент",
+    "value": "Інструмент",
     "path": "/labels/Tool",
     "op": "add"
   },
@@ -510,22 +510,22 @@
     "op": "add"
   },
   {
-    "value": "Другое",
+    "value": "Інше",
     "path": "/labels/Other",
     "op": "add"
   },
   {
-    "value": "Компонент модернизации",
+    "value": "Компонент модернізації",
     "path": "/labels/Upgrade Component",
     "op": "add"
   },
   {
-    "value": "Ловушка",
+    "value": "Пастка",
     "path": "/labels/genboss",
     "op": "add"
   },
   {
-    "value": "Космическая станция",
+    "value": "Космічна станція",
     "path": "/labels/playerstation",
     "op": "add"
   }

@@ -12,6 +12,6 @@
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
-    "value": "Старовинний приціл ^yellow;^reset;"
+    "value": "Вінтажна гвинтівка з прицілом ^yellow;^reset;"
   }
 ]

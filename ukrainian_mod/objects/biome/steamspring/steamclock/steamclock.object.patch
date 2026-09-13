@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Циферблат Steam"
+    "value": "Паровий циферблат"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Тепер Флоран знає, котра година."
+    "value": "Тепер Флоссан знає, котра година."
   },
   {
     "op": "replace",

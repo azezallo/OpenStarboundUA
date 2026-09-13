@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілий торс T. rex."
+    "value": "Скам'яний тулуб T. rex"
   },
   {
     "op": "replace",

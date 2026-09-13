@@ -1,31 +1,31 @@
 [
   {
-    "value": "Бульбашки.",
+    "value": "Атака!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Бульбашки",
+    "value": "Зловісно. Ви не хочете з нами мати справу!",
     "path": "/scriptConfig/dialog/attack/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Луссскайте, бульбашшшки!",
+    "value": "Зацікавлений. Здається, у вас багато пікселів для втрати!",
     "path": "/scriptConfig/dialog/attack/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Бульбашки.",
+    "value": "Агресивний. Чи не дивишся на мене дивно?",
     "path": "/scriptConfig/dialog/attack/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Блок, зроблений з м'яких грибів.",
+    "value": "Захоплено. Подивись – хтось, кого можна ограбити!",
     "path": "/scriptConfig/dialog/attack/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Грибний блок",
+    "value": "Швидко. Давайте закінчимо це пограбування.",
     "path": "/scriptConfig/dialog/attack/glitch/default/4",
     "op": "replace"
   }

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Статуя гриба."
+    "value": "Статуя гриба"
   },
   {
     "op": "replace",
@@ -12,17 +12,17 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Велична статуя гриба."
+    "value": "Велична статуя гриба"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Це справді великий гриб."
+    "value": "Це справді великий гриб"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Гарний грибний камінь."
+    "value": "Гарний грибний камінь"
   },
   {
     "op": "replace",
@@ -32,16 +32,16 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Дійсно велика статуя гриба."
+    "value": "Дійсно велика статуя гриба"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Великий гриб зі скелі."
+    "value": "Великий гриб зі скелі"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Той, хто вирізав цю скелю, напевно любить гриби."
+    "value": "Той, хто вирізав цю скелю, напевно любить гриби"
   }
 ]

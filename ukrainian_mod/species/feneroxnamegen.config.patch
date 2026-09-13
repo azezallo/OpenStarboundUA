@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/names/1/1/0",
-    "value": "N"
+    "value": "О"
   },
   {
     "op": "replace",
     "path": "/names/1/1/1",
-    "value": "D"
+    "value": "Г"
   },
   {
     "op": "replace",
     "path": "/names/1/1/2",
-    "value": "Ch"
+    "value": "Ч"
   },
   {
     "op": "replace",
     "path": "/names/1/1/3",
-    "value": "B"
+    "value": "Б"
   },
   {
     "op": "replace",
     "path": "/names/1/1/4",
-    "value": "T"
+    "value": "Ф"
   },
   {
     "op": "replace",
     "path": "/names/1/2/0",
-    "value": "ox"
+    "value": "окс"
   },
   {
     "op": "replace",
     "path": "/names/1/2/1",
-    "value": "ex"
+    "value": "екс"
   },
   {
     "op": "replace",
     "path": "/names/1/2/2",
-    "value": "ax"
+    "value": "акс"
   },
   {
     "op": "replace",
     "path": "/names/1/2/3",
-    "value": "ux"
+    "value": "укс"
   }
 ]

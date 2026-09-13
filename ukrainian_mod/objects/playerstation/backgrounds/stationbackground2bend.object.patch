@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "2 зігнути тло"
+    "value": "Фоновий сегмент з двома згинами"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "2 зігнути тло"
+    "value": "Фоновий сегмент з двома згинами"
   }
 ]

@@ -1,61 +1,61 @@
 [
   {
-    "value": "Тепер у тебе є інгредієнтии для виготовлення, які нам потрібні. ^green;Зроби Флорану ^orange;<craftedItems>.",
+    "value": "Тепер у тебе є потрібні складові для виготовлення. ^green;Змайссструй Флорану ^orange;<craftedItems>^white;.",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флорану потрібнні ^orange;<craftedItems>.^green; Їх можна виготовити з ^orange;<ingredients>. ^white;Ти можеш допомогти?",
+    "value": "Флорану потрібні ^orange;<craftedItems>^white;. ^green;Їх можна змайссструвати з ^orange;<ingredients>^white;. Допоможешссс?",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Зосереджено. Тепер щодо справжнього завдання: ^green;ти повинен виготовити ^orange;<craftedItems>^white; для мене. У тебе вже є всі необхідні матеріали, а також моя вдячність.",
+    "value": "Зосередженість. А тепер щодо головного завдання: ^green;ти маєш виготовити ^orange;<craftedItems>^white; для мене. У тебе вже є всі потрібні матеріали і моя вдячність.",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Стурбовано. Ось той момент, коли я вагаюся. Мої творчі здібності нижчі від середнього, ^green;чи не був би ти таким ласкавим виготовити ^orange;<craftedItems>^white; від мого імені? Ти можеш використати ^orange;<ingredients>^white;, які ми здобули раніше.",
+    "value": "Стурбованість. Ось тут у мене виникають труднощі. Мої творчі здібності нижчі за середні, ^green;чи був би ти такий люб'язний виготовити ^orange;<craftedItems>^white; для мене? Ти можеш використати ^orange;<ingredients>^white;, які ми здобули раніше.",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Далі тобі потрібно буде ^green;зібрати ^orange;<craftedItems>^white;. Ти повинен мати змогу ^green;використати ^orange;<ingredients>^white;, які ти зібрав раніше.",
+    "value": "Далі тобі треба буде ^green;зібрати ^orange;<craftedItems>^white;. Ти можеш ^green;використати ^orange;<ingredients>^white;, які вдалося здобути раніше.",
     "path": "/scriptConfig/generatedText/text/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Наступний крок вимагає ^green;зібрати ^orange;<craftedItems>^white;. Я б зробив це сам, але мої навички виготовлення жахливі! Якщо ти хочеш спробувати, у тебе має бути все необхідне.",
+    "value": "Наступний крок — ^green;змайструвати ^orange;<craftedItems>^white;. Я б і сам це зробив<questGiver.pronoun.obj1end>, але ремісник з мене жахливий! Якщо візьмешся за це, у тебе вже є все необхідне.",
     "path": "/scriptConfig/generatedText/text/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Ммайстерно виготовлено, <player>! Тепер у Флорана є ще одне прохання.",
+    "value": "Майссстерно виготовлено, <player>! Тепер Флоран має ще одне прохання.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "<craftedItems> будуть дуже кориснними. Флоран дякує тобі за їх виготовлення.",
+    "value": "<craftedItems> дуже згодятьссся. Флоран дякує тобі за їхнє створення.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "У захваті. Твоя майстерність справді чудова! Я обов'язково звернуся до тебе ще раз у майбутньому. ",
+    "value": "Захоплення. Твоя майстерність справді чудова! Я неодмінно звернуся до тебе ще раз у майбутньому.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "З полегшенням. Очікування було болісним, але нарешті мої плани можуть рухатися вперед, усе завдяки тобі! ",
+    "value": "Полегшення. Очікування було нестерпним, але нарешті мої плани можуть рухатися вперед — і все завдяки тобі!",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Вау, дуже добре зібрано. Дякую, це чудово підійде для того, що я запланував.",
+    "value": "Ого, чудова робота! Дякую, це ідеально підійде для моїх планів.",
     "path": "/scriptConfig/generatedText/completionText/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти зробив це так легко! Підозрюю, ти вже займався виготовленням раніше. З цим ми нарешті можемо рухатися вперед. Дякую!",
+    "value": "У тебе це вийшло так невимушено! Підозрюю, тобі не вперше майструвати подібне. З цим ми нарешті рушимо далі. Дякую!",
     "path": "/scriptConfig/generatedText/completionText/default/default/1",
     "op": "replace"
   }

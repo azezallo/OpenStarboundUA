@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Потріскує руйнівною енергією."
+    "value": "Гудить руйнівною енергією."
   },
   {
     "op": "replace",

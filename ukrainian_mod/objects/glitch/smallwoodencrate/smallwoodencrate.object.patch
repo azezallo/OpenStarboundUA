@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Дерев'яний ящик sssmall"
+    "value": "Дерев'яна сскриня малесссенька."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Здивований. Дерев'яний ящик."
+    "value": "Подив. Дерев'яний ящик."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Ящик з дерева."
+    "value": "Ящик із дерева."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Просто маленький дерев'яний ящик."
+    "value": "Просто мала дерев'яна скринька, ніц особливого."
   }
 ]

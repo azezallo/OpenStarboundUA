@@ -1,26 +1,26 @@
 [
   {
-    "value": "Зоряний",
+    "value": "Плитка з дивним синім гліфом, вигравіруваним у центрі",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ударний",
+    "value": "Синій неоновий блок",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Псі",
+    "value": "Зацікавлений. Значення цього символу невідоме.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Поліцей.",
+    "value": "Флоран сслюбить свiтляючисьcя символи",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Черепний",
+    "value": "Блок із якимось сяючим символом",
     "path": "/novakidDescription",
     "op": "replace"
   }

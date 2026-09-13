@@ -1,6 +1,6 @@
 [
   {
-    "value": "Підводна рослина.",
+    "value": "Підводна рослина",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Плаваюча россслина.",
+    "value": "Плаваюча рослина",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Підводна рослина.",
+    "value": "Утвердження. Підводна рослина",
     "path": "/glitchDescription",
     "op": "replace"
   }

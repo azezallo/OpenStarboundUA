@@ -365,7 +365,7 @@
     "op": "replace"
   },
   {
-    "value": "до ставка",
+    "value": "до невеликого ставка",
     "path": "/colourful/pond2/name",
     "op": "replace"
   },
@@ -895,32 +895,32 @@
     "op": "replace"
   },
   {
-    "value": "на пустир",
+    "value": "до галявини",
     "path": "/geode/clearing1/name",
     "op": "replace"
   },
   {
-    "value": "на пустир",
+    "value": "до галявини",
     "path": "/geode/clearing2/name",
     "op": "replace"
   },
   {
-    "value": "на пустир",
+    "value": "до галявини",
     "path": "/geode/clearing3/name",
     "op": "replace"
   },
   {
-    "value": "на пустир",
+    "value": "до галявини",
     "path": "/geode/clearing4/name",
     "op": "replace"
   },
   {
-    "value": "на пустир",
+    "value": "до галявини",
     "path": "/geode/clearing5/name",
     "op": "replace"
   },
   {
-    "value": "на пустир",
+    "value": "до галявини",
     "path": "/geode/clearing6/name",
     "op": "replace"
   },
@@ -955,7 +955,7 @@
     "op": "replace"
   },
   {
-    "value": "у широку печеру",
+    "value": "до широкої печери",
     "path": "/geode/cave/name",
     "op": "replace"
   },
@@ -1015,7 +1015,7 @@
     "op": "replace"
   },
   {
-    "value": "у годинникову вежу",
+    "value": "у дерев'яну сторожову вежу",
     "path": "/giantflowers/tower1/name",
     "op": "replace"
   },
@@ -1055,7 +1055,7 @@
     "op": "replace"
   },
   {
-    "value": "на пустир",
+    "value": "до галявини",
     "path": "/hive/pit3/name",
     "op": "replace"
   },
@@ -1115,7 +1115,7 @@
     "op": "replace"
   },
   {
-    "value": "у невеликий тунель",
+    "value": "до тунелю",
     "path": "/jungle/tunnel5/name",
     "op": "replace"
   },
@@ -1145,7 +1145,7 @@
     "op": "replace"
   },
   {
-    "value": "до групи платформ",
+    "value": "до групи дерев'яних платформ",
     "path": "/jungle/platform5/name",
     "op": "replace"
   },
@@ -1175,12 +1175,12 @@
     "op": "replace"
   },
   {
-    "value": "у годинникову вежу",
+    "value": "у зарослу дерев'яну сторожову вежу",
     "path": "/jungle/tower1/name",
     "op": "replace"
   },
   {
-    "value": "у годинникову вежу",
+    "value": "у високу дерев'яну сторожову вежу",
     "path": "/jungle/tower2/name",
     "op": "replace"
   },
@@ -1260,7 +1260,7 @@
     "op": "replace"
   },
   {
-    "value": "у кам'яні руїни",
+    "value": "до кам'яних руїн",
     "path": "/ocean/ruin1/name",
     "op": "replace"
   },
@@ -1340,7 +1340,7 @@
     "op": "replace"
   },
   {
-    "value": "до мілководного ставка",
+    "value": "до мілкого ставка",
     "path": "/prism/pond1/name",
     "op": "replace"
   },
@@ -2040,7 +2040,7 @@
     "op": "replace"
   },
   {
-    "value": "у дерев'яну хатину",
+    "value": "до дерев'яної хатини",
     "path": "/tarpits/hut1/name",
     "op": "replace"
   },
@@ -2295,7 +2295,7 @@
     "op": "replace"
   },
   {
-    "value": "на пустир",
+    "value": "до галявини",
     "path": "/volcanic/clearing3/name",
     "op": "replace"
   },
@@ -2315,32 +2315,32 @@
     "op": "replace"
   },
   {
-    "value": "до входу в лабораторію",
+    "value": "до входу в лабораторію Міннауку",
     "path": "/apextestfacility/lab1/name",
     "op": "replace"
   },
   {
-    "value": "до входу в лабораторію",
+    "value": "до входу в лабораторію Міннауку",
     "path": "/apextestfacility/lab2/name",
     "op": "replace"
   },
   {
-    "value": "у катакомби під лабораторією",
+    "value": "у катакомби під лабораторією Міннауку",
     "path": "/apextestfacility/underground1/name",
     "op": "replace"
   },
   {
-    "value": "у катакомби під лабораторією",
+    "value": "у катакомби під лабораторією Міннауку",
     "path": "/apextestfacility/underground2/name",
     "op": "replace"
   },
   {
-    "value": "у катакомби під лабораторією",
+    "value": "у катакомби під лабораторією Міннауку",
     "path": "/apextestfacility/underground3/name",
     "op": "replace"
   },
   {
-    "value": "у катакомби під лабораторією",
+    "value": "у катакомби під лабораторією Міннауку",
     "path": "/apextestfacility/underground4/name",
     "op": "replace"
   },
@@ -2365,22 +2365,22 @@
     "op": "replace"
   },
   {
-    "value": "у фортецю ґлітчів",
+    "value": "у фортецю глітчів",
     "path": "/evilfortress/room1/name",
     "op": "replace"
   },
   {
-    "value": "у фортецю ґлітчів",
+    "value": "у фортецю глітчів",
     "path": "/evilfortress/room2/name",
     "op": "replace"
   },
   {
-    "value": "у шаховий зал фортеці ґлітчів",
+    "value": "у шаховий зал фортеці глітчів",
     "path": "/evilfortress/room3/name",
     "op": "replace"
   },
   {
-    "value": "у фортецю ґлітчів",
+    "value": "у фортецю глітчів",
     "path": "/evilfortress/room4/name",
     "op": "replace"
   },
@@ -2405,7 +2405,7 @@
     "op": "replace"
   },
   {
-    "value": "до фортеці глітчів",
+    "value": "у фортецю глітчів",
     "path": "/dungeoncrawler/entrance1/name",
     "op": "replace"
   },
@@ -2450,7 +2450,7 @@
     "op": "replace"
   },
   {
-    "value": "до тюремної камери",
+    "value": "до тюремного блоку",
     "path": "/humanprison/cellblock/name",
     "op": "replace"
   },
@@ -2465,102 +2465,102 @@
     "op": "replace"
   },
   {
-    "value": "до храму авіан",
+    "value": "на вершину храму авіан",
     "path": "/aviantemple/top/name",
     "op": "replace"
   },
   {
-    "value": "до головної кімнати храму авіан",
+    "value": "до головної зали храму авіан",
     "path": "/aviantemple/grandchamber/name",
     "op": "replace"
   },
   {
-    "value": "до храму авіан",
+    "value": "у глибини храму авіан",
     "path": "/aviantemple/depths/name",
     "op": "replace"
   },
   {
-    "value": "до входу в авіанську гробницю",
+    "value": "до входу в гробницю авіан",
     "path": "/aviantomb/entrance/name",
     "op": "replace"
   },
   {
-    "value": "до авіанської гробниці",
+    "value": "у глибини гробниці авіан",
     "path": "/aviantomb/depths/name",
     "op": "replace"
   },
   {
-    "value": "до входу в мисливські печери флоранів",
+    "value": "до входу в мисливські угіддя флоранів",
     "path": "/floranhuntinggrounds/entrance/name",
     "op": "replace"
   },
   {
-    "value": "до мисливських печер флоранів",
+    "value": "у глибини мисливських угідь флоранів",
     "path": "/floranhuntinggrounds/depths/name",
     "op": "replace"
   },
   {
-    "value": "до входу в зарослу лощину",
+    "value": "до входу в зарослу долину",
     "path": "/florancanyon/entrance1/name",
     "op": "replace"
   },
   {
-    "value": "до зарослої лощини",
+    "value": "на вершину зарослої долини",
     "path": "/florancanyon/entrance2/name",
     "op": "replace"
   },
   {
-    "value": "до зарослої печери",
+    "value": "у глибини зарослої печери",
     "path": "/florancanyon/depths1/name",
     "op": "replace"
   },
   {
-    "value": "до зарослої печери",
+    "value": "у глибини зарослої печери",
     "path": "/florancanyon/depths2/name",
     "op": "replace"
   },
   {
-    "value": "до входу в старі руїни хілотлів",
+    "value": "до входу в старі руїни хайлотлів",
     "path": "/hylotlruinedcity/entrance1/name",
     "op": "replace"
   },
   {
-    "value": "до старих руїн хілотлів",
+    "value": "у глибини старих руїн хайлотлів",
     "path": "/hylotlruinedcity/depths1/name",
     "op": "replace"
   },
   {
-    "value": "до старих руїн хілотлів",
+    "value": "у глибини старих руїн хайлотлів",
     "path": "/hylotlruinedcity/depths2/name",
     "op": "replace"
   },
   {
-    "value": "до старих руїн хілотлів",
+    "value": "у глибини старих руїн хайлотлів",
     "path": "/hylotlruinedcity/depths3/name",
     "op": "replace"
   },
   {
-    "value": "до старих руїн хілотлів",
+    "value": "у глибини старих руїн хайлотлів",
     "path": "/hylotlruinedcity/depths4/name",
     "op": "replace"
   },
   {
-    "value": "до старих руїн хілотлів",
+    "value": "у глибини старих руїн хайлотлів",
     "path": "/hylotlruinedcity/depths5/name",
     "op": "replace"
   },
   {
-    "value": "до зруйнованого замку хілотлів",
+    "value": "на вершину зруйнованого замку хайлотлів",
     "path": "/hylotlruinedcastle/castletop/name",
     "op": "replace"
   },
   {
-    "value": "до входу в замок хілотлів",
+    "value": "до входу в зруйнований замок хайлотлів",
     "path": "/hylotlruinedcastle/entrance/name",
     "op": "replace"
   },
   {
-    "value": "до заднього входу замку хілотлів",
+    "value": "до заднього входу зруйнованого замку хайлотлів",
     "path": "/hylotlruinedcastle/rearentrance/name",
     "op": "replace"
   }

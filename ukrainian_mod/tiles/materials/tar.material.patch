@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Thick, rancid tar. Just looking at it feels sticky."
+    "value": "Густа, згіркла смола. Просто дивлячись на неї відчуваєш липкість."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Tar"
+    "value": "дьоготь"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Cautious. This tar is thick and very sticky."
+    "value": "Обережність. Цей дьоготь густий і дуже липкий."
   },
   {
     "op": "replace",
@@ -22,6 +22,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "A whole mess'a thick lookin' tar."
+    "value": "Весь безлад, товстий вигляд дьогтю."
   }
 ]

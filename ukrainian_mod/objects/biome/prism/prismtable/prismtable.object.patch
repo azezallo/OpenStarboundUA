@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Призма Таблиця"
+    "value": "Таблиця Призм"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "схвильований. Я міг би прикрасити це гарними прикрасами!"
+    "value": "Схвильований. Я міг би прикрасити це гарними прикрасами!"
   },
   {
     "op": "replace",

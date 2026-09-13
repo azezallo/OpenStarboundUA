@@ -5,132 +5,132 @@
     "op": "replace"
   },
   {
-    "value": "Перш ніж ми почнемо, нам потрібен предмет [^orange;<item>^white;]. Флоран зззнає, що в жителя ^orange;<target>^white; можна його позичити. ^green;Пппідеш по нього?",
+    "value": "Перш ніж ми зможемо зробити щось іншше, нам знадобитьссся ^orange;<item>^white;. Флоран знає, що ^orange;<target>^white; дозволить Флорану позичити його. ^green;Підеш діссстанеш?",
     "path": "/scriptConfig/generatedText/text/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран зззнає, що в жителя ^orange;<target>^white; є предмет [^orange;<item>^white;], який нам потрібен. ^green;Якщо ти позичиш його, це зззекономить нам час.",
+    "value": "Флоран знає, що ^orange;<target>^white; має ^orange;<item>^white;, який нам потрібен. ^green;Якщо ти попросишш позичити його, це заощадить нам час.",
     "path": "/scriptConfig/generatedText/text/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Нетерпляче. Перш за все, тобі потрібно ^green;поговорити з жителем ^orange;<target> ^white;і ^green;позичити <target.pronoun.possessiveDet> предмет: [^orange;<item>^white;]. Просто скажи йому, що ти від мене.",
+    "value": "Завзяття. Насамперед тобі потрібно ^green;поговорити з ^orange;<target> ^white;і ^green;позичити в <target.pronoun.object> ^orange;<item>. ^white;Просто скажи <target.pronoun.object>, що тебе направив я, і <target.pronoun.subject> із радістю позичить його.",
     "path": "/scriptConfig/generatedText/text/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Захоплено. Нашим першочерговим пріоритетом є отримання якісного предмета [^orange;<item>^white;]. Думаю, швидше буде просто^green; позичити його в жителя ^orange;<target>^white;.",
+    "value": "Захоплення. Нашим першочерговим завданням має бути отримання якісного ^orange;<item>. Гадаю, буде швидше просто ^green;попросити в ^orange;<target>^green; позичити його.",
     "path": "/scriptConfig/generatedText/text/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Для початку нам знадобиться хороший предмет [^orange;<item>^white;]. Здається, я пригадую, що нещодавно бачив<questGiver.pronoun.obj1end> його у жителя ^orange;<target>^white;. Чому б тобі ^green;не піти й не позичити його ненадовго? ^white;А коли йому він знадобиться знову, ми скажемо, що загубили його.",
+    "value": "Для початку нам знадобиться гарний ^orange;<item>^white;. Здається, я бачив ^orange;<target> ^white;із таким зовсім нещодавно. Чому б тобі не ^green;піти і не попросити позичити його на деякий час? ^white;Ми можемо сказати, що загубили його, якщо <target.pronoun.subject> попросить повернути.",
     "path": "/scriptConfig/generatedText/text/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Думаю, у жителя ^orange;<target>^white; є предмет [^orange;<item>^white;], який міг би нам знадобитися. Чому б тобі ^green;не піти й не попросити позичити його на невизначений час?^white; Насправді, не згадуй про невизначений час...",
+    "value": "Гадаю, у ^orange;<target>^white; є гарний ^orange;<item>^white;, який нам би став у пригоді. Чому б тобі не ^green;піти і не попросити <target.pronoun.object> позичити його на невизначений термін?^white; Хоча ні, частину про невизначений термін краще пропусти...",
     "path": "/scriptConfig/generatedText/text/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Далі нам треба поговорити з жителем ^orange;<target>^white;. ^green;Іди ссспитай про <target.pronoun.possessiveDet> предмет [^orange;<item>^white;], він не буде проти, якщо флоран позичить його.",
+    "value": "Далі нам треба поговорити з ^orange;<target>^white;. ^green;Піди попросси в <target.pronoun.object> ^orange;<item>^white;, <target.pronoun.subject> не заперечуватиме, якщо Флоран позичить його.",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Далі нам потрібен предмет [^orange;<item>^white;]. Флоран бачив, що у жителя ^orange;<target>^white; єєє один, ^green;тобі варто позичити його.",
+    "value": "Далі нам потрібен блискучий ^orange;<item>^white;. Флоран бачив такий у ^orange;<target>^white;, ^green;тобі слід попроссити позичити його.",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Спонтанно. Далі нам треба ^green;позичити предмет [^orange;<item>^white;] у жителя ^orange;<target>^white;. Він не матиме проблем віддати його, якщо ти ^green;скажеш, що прийшов від мене.",
+    "value": "Спонтанність. Далі нам треба ^green;позичити ^orange;<item> <target>^white;. <target.pronoun.capitalSubject> без вагань віддасть його, якщо ти ^green;скажеш <target.pronoun.object>, що це від мене.",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Уважно. Деякий час тому я бачив<questGiver.pronoun.obj1end>, як житель ^orange;<target>^white; хвалився своїм новеньким предметом [^orange;<item>^white;]. Нам пощастило, бо він нам якраз потрібен. Піди і ^green;позич його.",
+    "value": "Спостережливість. Якось я бачив, як ^orange;<target>^white; хизувався своїм новим ^orange;<item>. ^white;Яка вдача для нас, адже він якраз потрібен для нашого наступного завдання. Піди і ^green;попроси <target.pronoun.object> позичити його.",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Тепер нам треба знайти собі предмет [^orange;<item>^white;]. Тобі слід ^green;піти і позичити його^white; у жителя ^orange;<target>^white;. Не варто згадувати, що ми не зможемо його повернути.",
+    "value": "Тепер нам треба знайти собі один ^orange;<item>. ^white;Тобі слід ^green;піти й попросити в ^orange;<target>^green; позичити його. ^white;Не варто згадувати, що ми не зможемо його повернути.",
     "path": "/scriptConfig/generatedText/text/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Нам би зараз не завадив хороший предмет [^orange;<item>^white;]. У жителя ^orange;<target> ^white;напевно такий є. Чому б тобі не ^green;піти і не позичити його?",
+    "value": "Нам би зараз дуже знадобився хороший ^orange;<item>^white;. ^orange;<target> ^white;точно має такий у своєму розпорядженні. Чому б тобі не ^green;піти й не позичити його в <target.pronoun.object>?",
     "path": "/scriptConfig/generatedText/text/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Чудово, ти дістав його! Будемо сподіватися, що <target> розуміє флоранське зззначення слова позичити...",
+    "value": "Чудово, ти діссстав його! Сподіваємоссся, <target> розуміє флоранське значення слова «позичити»...",
     "path": "/scriptConfig/generatedText/completionText/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Ти доссстав предмет [<item>]! Добре, що <target> довіряє нам. Однак не можу обіцяти, що ми його повернемо.",
+    "value": "Тобі діссстався <item>! Чудово, що <target> довіряє нам його. Щоправда, Флоран не обіцяє, що ми його повернемо.",
     "path": "/scriptConfig/generatedText/completionText/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "У захваті. Чудово! Це саме те, що нам потрібно. Я знав, що <target> допоможе нам! Тільки не забудь повернути йому, коли ми закінчимо. Це було б досить соромно!",
+    "value": "Радість. Чудово! Це саме те, що нам потрібно. Я знав, що <target> виручить нас! Тільки не зроби якусь дурницю, як-от забути повернути річ, коли закінчимо. Це було б незручно!",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "З полегшенням. Ти зробив це! Цей предмет [<item>] чудово підійде. Це було дуже мило з боку <target> позичити його нам. Не забудь повернути його, коли ми закінчимо.",
+    "value": "Полегшення. Тобі вдалося! Цей <item> чудово підійде. Дуже люб'язно з боку <target> позичити його нам. Не забудь повернути річ, коли ми закінчимо.",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Це гідний предмет [<item>]. Сподіваюся, <target> не буде за ним сумувати.",
+    "value": "Це пристойний <item>. Сподіваюся, <target> не дуже сумуватиме за ним.",
     "path": "/scriptConfig/generatedText/completionText/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Відмінно! <target> дуже щедрий сусід.",
+    "value": "Чудово! <target> справді дуже щедрий сусід.",
     "path": "/scriptConfig/generatedText/completionText/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Ти зробив це! Флоран думає, що предмет [<item>] знадобиться нам трохи довше, ніж сподобалося б жителю <target>. Але давайте не хвилюватися про це зараз.",
+    "value": "Ти здобув його! Флоран вважає, що <item> знадобитьссся нам трохи довше, ніж сподобаєтьссся <target>. Але подумаємо про це зззгодом.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Цее дуже хороший <item>! Флоран здивований, що <target> віддав його так легкоо. Можливо, ми не повернемо його так швидкко.",
+    "value": "Це дуже хороший <item>! Флоран здивований, що <target> віддав його так легко. Можливо, Флоран поверне його не скоро.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Задоволено. О, добре, ти отримав <item>! Тобі доведеться не забути повернути його колись, але поки що не хвилюйся про це.",
+    "value": "Задоволення. О, чудово, тобі вдалося дістати <item>! Тобі доведеться колись згадати й повернути його, але поки що не переймайся цим.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Цей <item> чудово підійде! <target> позбавив нас необхідності шукати його самим. Переконайся, що не пошкодиш його, <target.pronoun.subject> не зрадіє, якщо ти повернеш його у поганому стані.",
+    "value": "Задоволення. Цей <item> підійде ідеально! <target> позбавив нас клопоту шукати його самотужки. Дивись не пошкодь його, <target.pronoun.subject> навряд чи зрадіє, якщо повернути річ у пошкодженому стані.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Все пройшло гладко. Будемо сподіватися, що <target> не попросить його назад.",
+    "value": "Усе минуло гладко. Сподіваюся, <target> не вимагатиме повернення.",
     "path": "/scriptConfig/generatedText/completionText/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Чудова робота! Ми, мабуть, не зможемо повернути цей <item> <target>, але я впевнений, що <target.pronoun.subject> все одно не сумуватиме за цією старою запилюженою річчю.",
+    "value": "Молодчина! Ми, мабуть, не зможемо повернути цей <item> <target>, але я впевнений, що <target.pronoun.subject> і так не надто шкодуватиме за цією старою запилюженою річчю.",
     "path": "/scriptConfig/generatedText/completionText/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Отримати <item> від <target>",
+    "value": "Отримай <item> у <target>",
     "path": "/scriptConfig/objectives/0/text",
     "op": "replace"
   },
   {
-    "value": "Повернутися до <questGiver>",
+    "value": "Повернися до <questGiver>",
     "path": "/scriptConfig/objectives/1/text",
     "op": "replace"
   }

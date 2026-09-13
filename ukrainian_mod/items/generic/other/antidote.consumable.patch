@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Бережіть свій організм від отрут."
+    "value": "Захищайте свій організм від отрути."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Антидот отрути"
+    "value": "Антидот від отрути"
   }
 ]

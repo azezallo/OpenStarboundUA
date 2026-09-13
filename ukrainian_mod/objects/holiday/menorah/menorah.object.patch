@@ -12,17 +12,17 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Теплий сяючий набір свічників."
+    "value": "Теплий, сяючий набір свічників."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Тепле сяйво нагадує мені пташині храми."
+    "value": "Тепле сяйво нагадує мені храми Авіанів."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Горять свічки! Флоран подобається."
+    "value": "Горять свічки! Флорани люблять."
   },
   {
     "op": "replace",

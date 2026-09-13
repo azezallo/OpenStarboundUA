@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Клепана металева стінка."
+    "value": "Клепана металева стінка"
   },
   {
     "op": "replace",
@@ -17,11 +17,11 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Міцний металевий болт."
+    "value": "Міцний металевий болт"
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Міцна на вигляд стіна з металу."
+    "value": "Міцна, схожа на стіну з металу."
   }
 ]

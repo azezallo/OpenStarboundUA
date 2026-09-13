@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Wizard Spawner"
+    "value": "Чаклуник-спаунер"
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флорану потрібен чарівник!"
+    "value": "Флорани хочуть чарівника в команді!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Недовіра. Глюки не люблять магію."
+    "value": "Недовіра. Глітчі не люблять магію."
   },
   {
     "op": "replace",

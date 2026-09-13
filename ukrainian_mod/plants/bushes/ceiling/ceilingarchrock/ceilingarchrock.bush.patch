@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "An arched rock."
+    "value": "Арчований камінь."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Арочна скеля."
+    "value": "Арчований камінь."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Curvy rocksss."
+    "value": "Кривий камінь."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. An arched rock."
+    "value": "Ствердження. Арковий камінь"
   }
 ]

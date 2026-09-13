@@ -1,21 +1,21 @@
 [
   {
-    "value": "Маленький стручок.",
+    "value": "Маленький стручок",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Маленький стручок",
+    "value": "Малий стручок",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Маленький ссстручок. Флоран бачить.",
+    "value": "Сссмаленький стручок",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердно. Невелика стручкова рослина.",
+    "value": "Ствердження. Невелика стручкова рослина",
     "path": "/glitchDescription",
     "op": "replace"
   }

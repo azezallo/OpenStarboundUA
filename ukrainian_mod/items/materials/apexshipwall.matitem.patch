@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Витончена металева стінова панель."
+    "value": "Витончена металева стінова панель"
   },
   {
     "op": "replace",
@@ -22,6 +22,6 @@
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Панель з металу."
+    "value": "Панель з металу"
   }
 ]

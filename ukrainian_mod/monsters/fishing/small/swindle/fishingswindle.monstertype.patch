@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Luminous Swindler"
+    "value": "Світлячий Плітник"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Lures in prey with its shiny head bobble. Infamous among fish for being a bit of a jerk."
+    "value": "Залучає здобич своїм блискучим рухом голови. Відомий серед риб як трохи нахабний."
   }
 ]

@@ -2,41 +2,41 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Invisible Sparker"
+    "value": "Невидимий іскромет"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Invisible Sparker"
+    "value": "Невидимий іскромет"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Ці компоненти були знищені."
+    "value": "Ці компоненти знищено."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Цю шкоду буде непросто виправити."
+    "value": "Ці пошкодження буде нелегко виправити."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Частини зламані."
+    "value": "Чассстини поламані."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "стурбований. Це зазнало серйозних пошкоджень."
+    "value": "Стурбованість. Ця річ зазнала серйозних пошкоджень."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Не добре. Ці компоненти сильно пошкоджені."
+    "value": "Діло кепське. Ці компоненти зазнали важких пошкоджень."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Мені краще спробувати якнайшвидше усунути пошкодження."
+    "value": "Мені краще спробувати якнайшвидше полагодити це."
   }
 ]

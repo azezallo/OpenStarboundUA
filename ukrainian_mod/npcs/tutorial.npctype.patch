@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Кликали мене?",
+    "value": "Ви кликали?",
     "path": "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default/0",
     "op": "replace"
   },
@@ -55,7 +55,7 @@
     "op": "replace"
   },
   {
-    "value": "Що ти наробив?!",
+    "value": "Що ти наробив!?",
     "path": "/scriptConfig/dialog/flee/helpthem/default/default/0",
     "op": "replace"
   },
@@ -70,12 +70,12 @@
     "op": "replace"
   },
   {
-    "value": "Торкни їх разок за мене!",
+    "value": "Пирни їх хоч раз за мене!",
     "path": "/scriptConfig/dialog/flee/encourage/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Не дайте їм втекти!",
+    "value": "Не дай їм втекти!",
     "path": "/scriptConfig/dialog/flee/encourage/default/default/3",
     "op": "replace"
   },
@@ -95,7 +95,7 @@
     "op": "replace"
   },
   {
-    "value": "Я просто подорожую у своїх справах.",
+    "value": "Я просто подорожую, займаюся своїми справами.",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
@@ -185,7 +185,7 @@
     "op": "replace"
   },
   {
-    "value": "Як давно я не був на Землі! Як там справи?",
+    "value": "Я роками не був на Землі! Як вона там поживає останнім часом?",
     "path": "/scriptConfig/dialog/converse/human/default/17",
     "op": "replace"
   }

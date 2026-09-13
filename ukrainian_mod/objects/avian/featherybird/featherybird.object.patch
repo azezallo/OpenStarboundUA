@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Величезне пір'я росте з цієї маленької статуї птаха."
+    "value": "Великі пір'я ростуть з цієї маленької статуї птаха."
   },
   {
     "op": "replace",
@@ -22,26 +22,26 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Смачна на вигляд пташка."
+    "value": "Смачна виглядаюча пташка."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вдячний. Красива статуя з пір'ям."
+    "value": "Вдячний. Красива пір’яна статуя."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Гарна статуя пташки."
+    "value": "Гарна пташина статуя."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Пір'я прекрасніше статуї."
+    "value": "Пір’я краще за статую."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ця статуя має гарне на вигляд пір’я."
+    "value": "Ця статуя має привабливі пір’я."
   }
 ]

@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Dirty looking dirt."
+    "value": "Брудний вигляд бруду."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Dirt"
+    "value": "Бруд"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Indifferent. This is basic soil."
+    "value": "Байдуже. Це основний ґрунт."
   },
   {
     "op": "replace",
@@ -22,6 +22,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Dirty lookin' dirt."
+    "value": "Брудний вигляд бруду."
   }
 ]

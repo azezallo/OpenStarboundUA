@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Байдуже. Це основний грунт."
+    "value": "Байдуже. Це основний ґрунт."
   },
   {
     "op": "replace",
@@ -22,6 +22,6 @@
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Брудний вигляд."
+    "value": "Брудний вигляд бруду."
   }
 ]

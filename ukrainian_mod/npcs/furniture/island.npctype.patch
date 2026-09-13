@@ -1,51 +1,51 @@
 [
   {
-    "value": "Це наш океан - ти пошкодуєш про момент, коли прийшов сюди!",
+    "value": "Привіт! Чи тобі весело?",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Ці океани наші!",
+    "value": "Ти не виглядаєш так розслаблено, як міг би бути!",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Сподіваюся, ти готовий до водної могили!",
+    "value": "Чому б не залишитися й розважитись?",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Ти будеш спати з рибами, коли ми покінчимо з тобою!",
+    "value": "Життя – це вечірка! Однак коли твоя планета буде зруйнована…",
     "path": "/scriptConfig/dialog/converse/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Ти не переможеш нас! Ми правимо цими океанами!",
+    "value": "Після того, що сталося на Землі, я спробував трохи розслабитися.",
     "path": "/scriptConfig/dialog/converse/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Підводна рослина.",
+    "value": "Ти б подумав, що мені холодно в цій сукні... І ти правий.",
     "path": "/scriptConfig/dialog/converse/default/default/5",
     "op": "replace"
   },
   {
-    "value": "Підводна рослина",
+    "value": "Ти виглядаєш, як хтось, хто занадто багато турбується! Чому б не розслабитися під зорями?",
     "path": "/scriptConfig/dialog/converse/default/default/6",
     "op": "replace"
   },
   {
-    "value": "Плаваюча россслина.",
+    "value": "Ох, як би я хотів мати можливість розслабитись і веселитися назавжди.",
     "path": "/scriptConfig/dialog/converse/default/default/7",
     "op": "replace"
   },
   {
-    "value": "Ствердно. Підводна рослина.",
+    "value": "Мій дім надзвичайно спокійний! Це наче безперервні канікули.",
     "path": "/scriptConfig/dialog/converse/default/default/8",
     "op": "replace"
   },
   {
-    "value": "Можливо, воїни народу хілотл не такі славетні, як інші, але за вмінням іншим не поступляться.",
+    "value": "Єдиний тип життя для мене – це той, що відчувається як вічна канікула.",
     "path": "/scriptConfig/dialog/converse/default/default/9",
     "op": "replace"
   }

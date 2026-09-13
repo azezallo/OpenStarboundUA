@@ -2,32 +2,32 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Пісуар для ванної кімнати. Корисно для деяких."
+    "value": "Пісуар для вбиральні. Для декого корисний."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Пісуар для ванної кімнати"
+    "value": "Пісуар для вбиральні"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Я... сиджу на цьому чи...?"
+    "value": "Чи я... мушу сідати на це, чи...?"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Я не знаю, що це таке."
+    "value": "Не певен, що це таке."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран не впевнений щодо sssmsly сидіння."
+    "value": "Флоран не впевнений щодо сссмердючого сссидіння."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Безпристрасний. Пісуар."
+    "value": "Незворушність. Пісуар."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Базовий пісуар."
+    "value": "Звичайний пісуар."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Брудний на вигляд пісуар."
+    "value": "Бруднуватий на вигляд пісуар, бігме."
   }
 ]

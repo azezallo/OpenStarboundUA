@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Кислий, але він того вартий."
+    "value": "Кислий, але того вартий."
   },
   {
     "op": "replace",

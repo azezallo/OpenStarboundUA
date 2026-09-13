@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Стручок грибка"
+    "value": "Грибковий стручок"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран sssniff дивний стручок. Пахне знайомим. Флоран злякався."
+    "value": "Флорани ссснф дивний стручок. Пахне знайомим. Флорани ссслякався."
   },
   {
     "op": "replace",

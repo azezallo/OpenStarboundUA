@@ -2,27 +2,27 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Оригінальна металева плита ідеально підходить для приготування їжі."
+    "value": "Колоритна металева піч, ідеальна для куховарення."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Салонна пічка"
+    "value": "Хатинна піч"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "value": "Салонна пічка"
+    "value": "Хатинна піч"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "Приготування їжі на дровах"
+    "value": "Готування на дровах"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Іноді найпростіші способи отримання тепла є найкращими."
+    "value": "Іноді найпростіші способи добування тепла — найкращі."
   },
   {
     "op": "replace",
@@ -32,17 +32,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран стурбований гарячим вогнем..."
+    "value": "Флоран ссстережетьссся гарячого вогню..."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "мирний. Вогонь простий, але заспокійливий."
+    "value": "Спокій. Вогонь простий, але заспокійливий."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Стара грубка! У когось є зефір?"
+    "value": "Стара піч! У когось є зефір?"
   },
   {
     "op": "replace",
@@ -52,6 +52,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Немає речей, які мені подобаються більше, ніж сидіти біля старого вогнища."
+    "value": "Мало шо люблю більше, ніж посидіти коло старого огню."
   }
 ]

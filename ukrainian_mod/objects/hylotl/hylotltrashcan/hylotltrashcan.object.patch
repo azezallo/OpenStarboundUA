@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран зазвичай кидає залишки на землю."
+    "value": "Флорани зазвичай кидають залишки на землю."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Відро для сміття металеве."
+    "value": "Металеве відро для сміття."
   }
 ]

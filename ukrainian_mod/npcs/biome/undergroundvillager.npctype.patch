@@ -1,126 +1,126 @@
 [
   {
-    "value": " ствол",
+    "value": "Я живу під землею! Це найкращий спосіб життя.",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": " пітчер",
+    "value": "Навіть Великий Апе та його Міннаук не зможуть мене знайти тут… Це моя надія.",
     "path": "/scriptConfig/dialog/converse/apex/default/0",
     "op": "replace"
   },
   {
-    "value": " метальник",
+    "value": "Темрява ховає багато речей тут під землею. Чи ти шукач скарбів?",
     "path": "/scriptConfig/dialog/converse/apex/default/1",
     "op": "replace"
   },
   {
-    "value": " фазер",
+    "value": "Ти теж тут сховався, друже?",
     "path": "/scriptConfig/dialog/converse/apex/default/2",
     "op": "replace"
   },
   {
-    "value": " шкідник",
+    "value": "Навіть розвідники Міннаук не спустяться до цих печер...",
     "path": "/scriptConfig/dialog/converse/apex/default/3",
     "op": "replace"
   },
   {
-    "value": " руйнівник",
+    "value": "Якщо я сховаюсь тут, мої вороги мене не знайдуть...",
     "path": "/scriptConfig/dialog/converse/human/default/0",
     "op": "replace"
   },
   {
-    "value": " трощитель",
+    "value": "Незнайомець! Я звик до компанії тут під землею. Ти прийшов у мирі?",
     "path": "/scriptConfig/dialog/converse/human/default/1",
     "op": "replace"
   },
   {
-    "value": " грішник",
+    "value": "Ти тут, щоб копати? Або шукаєш ті загадкові двері...",
     "path": "/scriptConfig/dialog/converse/human/default/2",
     "op": "replace"
   },
   {
-    "value": " вбивця",
+    "value": "Я вже довго тут. Як справи в Земному Захисті?",
     "path": "/scriptConfig/dialog/converse/human/default/3",
     "op": "replace"
   },
   {
-    "value": " затвор",
+    "value": "Видячи, як ти посилаєш шок через мої пір'я! Я не звик до компанії.",
     "path": "/scriptConfig/dialog/converse/avian/default/0",
     "op": "replace"
   },
   {
-    "value": " силовик",
+    "value": "Ці печери можуть бути небезпечними.",
     "path": "/scriptConfig/dialog/converse/avian/default/1",
     "op": "replace"
   },
   {
-    "value": " виклик",
+    "value": "Ласкаво просимо! Чи сподіваєшся жити тут? Мені б хотілося мати сусіда.",
     "path": "/scriptConfig/dialog/converse/avian/default/2",
     "op": "replace"
   },
   {
-    "value": " штовхач",
+    "value": "Подорожні, як ти, іноді проходять через ці печери. Я їх ніколи не бачу далі...",
     "path": "/scriptConfig/dialog/converse/avian/default/3",
     "op": "replace"
   },
   {
-    "value": " ізгой",
+    "value": "Ти прийшов сюди для медитації? Або, можливо, загубився?",
     "path": "/scriptConfig/dialog/converse/hylotl/default/0",
     "op": "replace"
   },
   {
-    "value": " загороджувач",
+    "value": "Вітаю, мандрівнику! Чи шукаєте ви тут скарби?",
     "path": "/scriptConfig/dialog/converse/hylotl/default/1",
     "op": "replace"
   },
   {
-    "value": " терор",
+    "value": "Ви вітатись, компанія! Я виживаю тут сам вже деякий час.",
     "path": "/scriptConfig/dialog/converse/hylotl/default/2",
     "op": "replace"
   },
   {
-    "value": "До бою!",
+    "value": "Привіт, незнайомець. Чи прийшли ви сюди в пошуках особистого просвітлення?",
     "path": "/scriptConfig/dialog/converse/hylotl/default/3",
     "op": "replace"
   },
   {
-    "value": "Ти прагнеш бою? Чудово!",
+    "value": "Флорани люблять полювати під землею. Легше сснек.",
     "path": "/scriptConfig/dialog/converse/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Наше володіння мечем не має собі рівних!",
+    "value": "Флорани не звикли до ссвидання людей тут.",
     "path": "/scriptConfig/dialog/converse/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Ці землі належать нам, і тільки нам!",
+    "value": "Флорани здивовані бачити ссзагадника тут! Флорани переважно самотні...",
     "path": "/scriptConfig/dialog/converse/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Я навчався у найвидатніших! Ти не маєш ані найменшого шансу!",
+    "value": "Ссзагаднику! Флорани не очікували компанії тут!",
     "path": "/scriptConfig/dialog/converse/floran/default/3",
     "op": "replace"
   },
   {
-    "value": "Зоряний",
+    "value": "Здивований. Я не очікував компанії тут.",
     "path": "/scriptConfig/dialog/converse/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Ударний",
+    "value": "Вражений. Ти перший, кого я бачив за деякий час.",
     "path": "/scriptConfig/dialog/converse/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Псі",
+    "value": "Вітальний. Привіт, чи плануєш залишитися тут на певний час?",
     "path": "/scriptConfig/dialog/converse/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Поліцей.",
+    "value": "Вражений. Як ти змогла потрапити сюди? Ти, напевно, смілива.",
     "path": "/scriptConfig/dialog/converse/glitch/default/3",
     "op": "replace"
   }

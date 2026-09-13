@@ -1,6 +1,6 @@
 [
   {
-    "value": "Дрібна галька.",
+    "value": "Дрібна галька",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Маленькі камінчики.",
+    "value": "Маленькі камінчики",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердно. Маленька галька.",
+    "value": "Заява. Дрібна галька",
     "path": "/glitchDescription",
     "op": "replace"
   }

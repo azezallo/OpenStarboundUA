@@ -1,46 +1,46 @@
 [
   {
-    "value": "Я знайшов це, поки подорожував, бери!",
+    "value": "Злякана. Гвардійці! До мене!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Ось що я знайшов, поки вештався навколо!",
+    "value": "Злякана. Гвардійці! До мене!",
     "path": "/scriptConfig/dialog/attack/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Ось тобі нагорода за твою допомогу!",
+    "value": "Злякана. Бандит! Гвардійці!",
     "path": "/scriptConfig/dialog/attack/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Час звалювати!",
+    "value": "Петріфікований. Я занадто молодий, щоб померти!",
     "path": "/scriptConfig/dialog/attack/glitch/2",
     "op": "replace"
   },
   {
-    "value": "Не вбивай мене! Я можу стати в пригоді!",
+    "value": "Страх. Охоронці! Охоронці, допоможіть!",
     "path": "/scriptConfig/dialog/attack/glitch/3",
     "op": "replace"
   },
   {
-    "value": "Я не заслужив зустріти свою смерть тут!",
+    "value": "Бунт. Охоронці, розберіть цього негоду на частини!",
     "path": "/scriptConfig/dialog/attack/glitch/4",
     "op": "replace"
   },
   {
-    "value": "Що ти накоїв?!",
+    "value": "Зневага. Я сам би знищив тебе, але у мене є охорони.",
     "path": "/scriptConfig/dialog/attack/glitch/5",
     "op": "replace"
   },
   {
-    "value": "Взяти їх!",
+    "value": "Гнів. Ти покінчиш із тим днем, коли вторгся сюди, розбійнику!",
     "path": "/scriptConfig/dialog/attack/glitch/6",
     "op": "replace"
   },
   {
-    "value": "Помстися за мене!",
+    "value": "Агресія. Ти залишиш це місце... в уламках!",
     "path": "/scriptConfig/dialog/attack/glitch/7",
     "op": "replace"
   }

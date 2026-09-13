@@ -2,27 +2,27 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
-    "value": "Intruder!"
+    "value": "Нарушник!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/0",
-    "value": "I sssee you!"
+    "value": "Я сссвожу тебе!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/1",
-    "value": "Floran isss getting hungry!"
+    "value": "Флоран сссшеве голодний!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/2",
-    "value": "Флоран помітив вечерю!"
+    "value": "Флоран ссспомітив вечерю!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/3",
-    "value": "Флоран може побачити їжу!"
+    "value": "Флоран сссможе побачити їжу!"
   },
   {
     "op": "replace",
@@ -32,21 +32,21 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/5",
-    "value": "Від мене не втечеш!"
+    "value": "Ти не можеш втекти від мене!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/6",
-    "value": "Полювання розпочато!"
+    "value": "Полювання ссс розпочато!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/7",
-    "value": "Food hasss arrived!"
+    "value": "Їжа сссприбувала!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/8",
-    "value": "Floran knows who isss for dinner!"
+    "value": "Флоран знає, хто ссс для вечері!"
   }
 ]

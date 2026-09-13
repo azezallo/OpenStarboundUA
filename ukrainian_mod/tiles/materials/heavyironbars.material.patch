@@ -2,26 +2,26 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Thick iron bars. Still strong, though decaying with rust."
+    "value": "Товсті залізні прути. Вони все ще міцні, хоча й покриті ржавістю."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Heavy Iron Bars"
+    "value": "Тяжкі залізні прути"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Засмучений. Бачити, як метал іржавіє таким чином, викликає занепокоєння."
+    "value": "Затиснений. Погляд на метал, що ржавіє таким чином, викликає занепокоєння."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Russsty old barss."
+    "value": "Ржаві старі прути"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "These rusty ol' bars have seen better days."
+    "value": "Ці ржаві старі прути колись були в кращому стані."
   }
 ]

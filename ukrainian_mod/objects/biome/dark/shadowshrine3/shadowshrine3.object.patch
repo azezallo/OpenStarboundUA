@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Shadow Shrine"
+    "value": "Тіньовий храм"
   },
   {
     "op": "replace",

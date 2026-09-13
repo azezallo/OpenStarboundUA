@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/gui/windowtitle/title",
-    "value": " Ковадло покращ. зброї"
+    "value": "Ковадло покращ. зброї"
   },
   {
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
-    "value": " Покращуйте свою зброю тут!"
+    "value": "Покращуйте свою зброю тут!"
   },
   {
     "op": "replace",

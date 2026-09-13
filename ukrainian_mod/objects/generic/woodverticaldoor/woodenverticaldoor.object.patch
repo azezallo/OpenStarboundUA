@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Сирий дерев'яний люк."
+    "value": "Простий дерев'яний люк."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Дерев'яний Люк"
+    "value": "Дерев'яний люк"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Базовий дерев'яний люк."
+    "value": "Базовий дерев'яний люк"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Люка для горизонтального руху просто недостатньо."
+    "value": "Люк для горизонтального переміщення просто недостатній."
   },
   {
     "op": "replace",

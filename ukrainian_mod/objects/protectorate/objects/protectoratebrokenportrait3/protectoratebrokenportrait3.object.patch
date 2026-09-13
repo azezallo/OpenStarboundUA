@@ -2,37 +2,37 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Порвана фоторамка."
+    "value": "Розірвана рамка з картиною."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Порвана фоторамка Земного Захисту"
+    "value": "Розірвана картина Земного Захисту"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Цей портрет порвано."
+    "value": "Цей портрет розірвано."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Зруйнований портрет..."
+    "value": "Понівечений портрет..."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Зображення isssssstabbed."
+    "value": "Картину поштриканоссс."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Засмучений. Розірваний портрет минулого великого Захисник."
+    "value": "Засмучення. Розірваний портрет колишнього Верховного Захисника."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Цей портрет зіпсований!"
+    "value": "Цей портрет зіпсовано!"
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Цей старий портрет бачив кращі дні."
+    "value": "Цей старий портрет бачив і файніші дні."
   }
 ]

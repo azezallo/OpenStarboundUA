@@ -7,17 +7,17 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Bad Goo Plushie"
+    "value": "Плюшевий Бед Гу"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Чарівна лялька Гу."
+    "value": "Чарівна лялька з гі."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Мила маленька іграшка."
+    "value": "Невелика мила гі-іграшка."
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вдячний. М'яка маленька слиз."
+    "value": "Вдячний. М'яка маленька гі."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Squee! Мені потрібен цей плюш для моєї колекції!"
+    "value": "Squee! Мені потрібен цей плюшець для моєї колекції!"
   },
   {
     "op": "replace",

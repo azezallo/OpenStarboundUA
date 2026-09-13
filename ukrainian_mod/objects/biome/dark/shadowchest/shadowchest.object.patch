@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Темна, темна скриня."
+    "value": "Темна, тіньова скриня."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Shadow Chest"
+    "value": "Тіньовий сундук"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "нервовий. Ця тіньова скриня моторошна, і я б вагався її відкрити."
+    "value": "Нервовий. Ця тіньова скриня моторошна, і я б вагався її відкрити."
   },
   {
     "op": "replace",

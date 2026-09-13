@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Дозволяє носію керувати кораблями класу Kestrel."
+    "value": "Дозволяє носію керувати кораблями класу Kestrel"
   },
   {
     "op": "replace",

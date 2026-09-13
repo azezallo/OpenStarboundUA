@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Музична скринька. Це накручування?"
+    "value": "Музична скринька. Чи це крутильна?"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "музична скринька"
+    "value": "Музична скринька"
   }
 ]

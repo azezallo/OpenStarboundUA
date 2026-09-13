@@ -5,17 +5,17 @@
     "op": "replace"
   },
   {
-    "value": "Хрусткий корінь",
+    "value": "Хрусткий корінь.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Хруссткий корінь.",
+    "value": "Крісспі.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Хрусткий корінь.",
+    "value": "Утвердження. Хрусткий корінь.",
     "path": "/glitchDescription",
     "op": "replace"
   }

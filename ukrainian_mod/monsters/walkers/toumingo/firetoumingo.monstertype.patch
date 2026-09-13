@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Fire Toumingo"
+    "value": "Вогняний тумінго"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "The long legs allow it to stand in water to catch fish."
+    "value": "Довгі ноги дозволяють йому стояти у воді, виловлюючи рибу."
   }
 ]

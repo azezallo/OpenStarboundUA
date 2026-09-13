@@ -2,31 +2,31 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
-    "value": "Attack!"
+    "value": "Атака!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/0",
-    "value": "Get out of here!"
+    "value": "Вийди звідси!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/1",
-    "value": "Конкуруючі рейдери - винищуйте їх!"
+    "value": "Конкурентні рейдери – винищуйте їх!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/2",
-    "value": "Хіба ви не бачите, що ми тут зайняті?!"
+    "value": "Хіба ти не бачиш, що ми тут зайняті?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/3",
-    "value": "We're gonna bury you here!"
+    "value": "Ми тебе тут поховаємо!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/4",
-    "value": "This place is OURS to pick clean!"
+    "value": "Це місце наше, щоб ми його прибрали!"
   }
 ]

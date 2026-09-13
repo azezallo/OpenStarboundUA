@@ -5,12 +5,12 @@
     "op": "replace"
   },
   {
-    "value": "Маленький паросток",
+    "value": "Маленький паросток.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Флоран бачить пароссссток.",
+    "value": "Флоран бачить паросссток.",
     "path": "/floranDescription",
     "op": "replace"
   },

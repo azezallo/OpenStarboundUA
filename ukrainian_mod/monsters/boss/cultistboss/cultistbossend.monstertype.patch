@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/baseParameters/dialog/death/default/default/0",
-    "value": "You don't understand do you? You still haven't won!"
+    "value": "Ти ж нічого не розумієш, га? Ти все одно ще не переміг!"
   },
   {
     "op": "replace",
     "path": "/baseParameters/dialog/death/default/default/1",
-    "value": "The Ruin will still awaken, and soon cleanse this universe of ALL BUT HUMANS!"
+    "value": "Руїна все одно прокинеться і незабаром очистить цей всесвіт від УСІХ, ОКРІМ ЛЮДЕЙ!"
   }
 ]

@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "І Перемикач"
+    "value": "Перемикач AND"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Перемикач /'AND'/ sss. Для роботи потрібно, щоб усі входи були /'on'/."
+    "value": "Перемикач /'AND'/. Для роботи потрібно, щоб усі входи були /'on'/."
   },
   {
     "op": "replace",

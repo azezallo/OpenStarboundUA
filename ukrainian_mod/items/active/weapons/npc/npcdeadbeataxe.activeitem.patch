@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Сокира простого вигляду з кривим держаком."
+    "value": "Сокира базового вигляду з кривим рукояткою."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "NPC Deadbeat Axe"
+    "value": "NPC Сокира нероби"
   }
 ]

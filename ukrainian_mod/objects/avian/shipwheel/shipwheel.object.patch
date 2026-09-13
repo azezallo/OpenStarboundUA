@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ярррр, я серденько!"
+    "value": "Яррр, мої друзі!"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Для керування пташиним дирижаблем."
+    "value": "Для керування дирижаблем Авіанів."
   },
   {
     "op": "replace",

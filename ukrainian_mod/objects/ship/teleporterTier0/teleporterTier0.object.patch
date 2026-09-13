@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "телепорт"
+    "value": "Телепорт"
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Цей телепорт вимкнено."
+    "value": "Цей телепорт вимкнений."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Корабельний телепорт. Мені потрібно підживити її!"
+    "value": "Корабельний телепорт. Мені потрібно зарядити його!"
   }
 ]

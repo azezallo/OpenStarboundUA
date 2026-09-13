@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Камінь, ідеальний для інопланетних садів дзен."
+    "value": "Камінь, ідеальний для інопланетних дзен-садів."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "дзен-рок"
+    "value": "Дзен-рок"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssstone."
+    "value": "Сскамінь."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Мирний камінь. Дивлячись на це, я відчуваю спокій."
+    "value": "Мирний камінь. Дивлячись на нього, я відчуваю спокій."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це добре камінь."
+    "value": "Це справді камінь."
   }
 ]

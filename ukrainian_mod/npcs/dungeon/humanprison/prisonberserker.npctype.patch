@@ -1,6 +1,6 @@
 [
   {
-    "value": "Порушник!",
+    "value": "Нарушник!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
@@ -15,12 +15,12 @@
     "op": "replace"
   },
   {
-    "value": "Думаєш, ти підеш звідси цілим? Помиляєшся!",
+    "value": "Думаєш, що вийдеш звідси неушкодженим? Неправильно!",
     "path": "/scriptConfig/dialog/attack/human/default/2",
     "op": "replace"
   },
   {
-    "value": "Ха-ха-ха! Ти зробив велику помилку, що прийшов сюди!",
+    "value": "Ха-ха-ха! Ти зробив помилку, зайшовши сюди!",
     "path": "/scriptConfig/dialog/attack/human/default/3",
     "op": "replace"
   },
@@ -30,7 +30,7 @@
     "op": "replace"
   },
   {
-    "value": "Тобі нікуди тікати!",
+    "value": "Бігти не варто, ніде безпечно!",
     "path": "/scriptConfig/dialog/attack/human/default/5",
     "op": "replace"
   },
@@ -55,27 +55,27 @@
     "op": "replace"
   },
   {
-    "value": "Ти мені що, підморгнув чи що?!",
+    "value": "Ти щойно кинув на мене погляд з неприємністю?!",
     "path": "/scriptConfig/dialog/attack/human/default/10",
     "op": "replace"
   },
   {
-    "value": "Я тебе на порох зітру!",
+    "value": "Я відпущу тебе в сонце!",
     "path": "/scriptConfig/dialog/attack/human/default/11",
     "op": "replace"
   },
   {
-    "value": "Люблю бити всіляких незнайомців до напівсмерті!",
+    "value": "Мені подобається, коли незнайомці побиті до м'яса!",
     "path": "/scriptConfig/dialog/attack/human/default/12",
     "op": "replace"
   },
   {
-    "value": "Біжи, якщо хочеш, так навіть веселіше!",
+    "value": "Біжи, якщо хочеш, слабак – я за тобою йду, і це ще веселіше!",
     "path": "/scriptConfig/dialog/attack/human/default/13",
     "op": "replace"
   },
   {
-    "value": "О-хо-хо! Це буде весело!",
+    "value": "Охохохо! Це буде весело!",
     "path": "/scriptConfig/dialog/attack/human/default/14",
     "op": "replace"
   }

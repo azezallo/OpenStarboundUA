@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "З цього отвору виходить вулканічний газ. Гаряче - це заниження."
+    "value": "З цього отвору виходить вулканічний газ. Гаряче — це заниження."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Лава не друг Флорана."
+    "value": "Лава не друг Флорани."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Гаряча лава!"
+    "value": "Гаряча лава."
   }
 ]

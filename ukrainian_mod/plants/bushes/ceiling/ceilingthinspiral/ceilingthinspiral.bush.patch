@@ -5,17 +5,17 @@
     "op": "replace"
   },
   {
-    "value": "Тонкий спіральний камінь",
+    "value": "Тонкий спіральний камінь.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Тонкий закручений камінь.",
+    "value": "Спритний тонкий камінь.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Тонкий спіральний камінь.",
+    "value": "Заява. Тонкий спіральний камінь.",
     "path": "/glitchDescription",
     "op": "replace"
   }

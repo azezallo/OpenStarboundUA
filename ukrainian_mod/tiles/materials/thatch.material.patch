@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Traditional thatched roofing."
+    "value": "Традиційна солом’яна покрівля."
   },
   {
     "op": "replace",
@@ -12,16 +12,16 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Delighted. This thatch reminds me of a more simple time."
+    "value": "У захваті. Ця солома нагадує мені простіший час."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Dry sstraw roofing."
+    "value": "Покрівля з сухої соломи."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Багатошаровий покрівельний шматок із соломи."
+    "value": "Багатошаровий шматок покриття, зроблений зі соломи."
   }
 ]

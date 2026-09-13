@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Хоч би що це було, Флоран ігноруйте."
+    "value": "Хоч би що це було, Флорани ігноруйте."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "хвилювався. небезпека? Де?!"
+    "value": "Хвилювався. Небезпека? Де?!"
   },
   {
     "op": "replace",

@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Багато прикрашена книжкова шафа"
+    "value": "Прикрашена книжкова шафа"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Booksss."
+    "value": "Сскниги."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Асортимент віршів і прози вишиковується на полицях."
+    "value": "Асортимент віршів і прози заповнює полиці."
   },
   {
     "op": "replace",

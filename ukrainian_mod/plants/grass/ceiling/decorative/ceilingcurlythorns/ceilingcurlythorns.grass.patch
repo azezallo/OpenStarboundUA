@@ -1,21 +1,21 @@
 [
   {
-    "value": "Реальний",
+    "value": "Завиті колючки.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Матеріал.",
+    "value": "Завиті колючки.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Світловий",
+    "value": "Колюсське.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Порожній",
+    "value": "Заява. Завиті колючки",
     "path": "/glitchDescription",
     "op": "replace"
   }

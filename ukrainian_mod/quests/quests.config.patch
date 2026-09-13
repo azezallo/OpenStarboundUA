@@ -25,67 +25,67 @@
     "op": "replace"
   },
   {
-    "value": "Повернися до жителя <questGiver>",
+    "value": "Повернися до <questGiver>",
     "path": "/objectiveDescriptions/return",
     "op": "replace"
   },
   {
-    "value": " нагорі",
+    "value": "нагорі",
     "path": "/directions/0/descriptions/0",
     "op": "replace"
   },
   {
-    "value": " над нами",
+    "value": "над нами",
     "path": "/directions/0/descriptions/1",
     "op": "replace"
   },
   {
-    "value": " прямо нагорі",
+    "value": "прямо нагорі",
     "path": "/directions/0/descriptions/2",
     "op": "replace"
   },
   {
-    "value": " на сході",
+    "value": "на сході",
     "path": "/directions/1/descriptions/0",
     "op": "replace"
   },
   {
-    "value": " на сході звідси",
+    "value": "на сході звідси",
     "path": "/directions/1/descriptions/1",
     "op": "replace"
   },
   {
-    "value": " на сході від нас",
+    "value": "на сході від нас",
     "path": "/directions/1/descriptions/2",
     "op": "replace"
   },
   {
-    "value": " знизу",
+    "value": "знизу",
     "path": "/directions/2/descriptions/0",
     "op": "replace"
   },
   {
-    "value": " під нами",
+    "value": "під нами",
     "path": "/directions/2/descriptions/1",
     "op": "replace"
   },
   {
-    "value": " прямо знизу",
+    "value": "прямо знизу",
     "path": "/directions/2/descriptions/2",
     "op": "replace"
   },
   {
-    "value": " на заході",
+    "value": "на заході",
     "path": "/directions/3/descriptions/0",
     "op": "replace"
   },
   {
-    "value": " на заході звідси",
+    "value": "на заході звідси",
     "path": "/directions/3/descriptions/1",
     "op": "replace"
   },
   {
-    "value": " на заході від нас",
+    "value": "на заході від нас",
     "path": "/directions/3/descriptions/2",
     "op": "replace"
   },
@@ -100,7 +100,7 @@
     "op": "replace"
   },
   {
-    "value": "її",
+    "value": "їй",
     "path": "/pronouns/female/possessiveDet",
     "op": "replace"
   },
@@ -115,7 +115,7 @@
     "op": "replace"
   },
   {
-    "value": "Вона",
+    "value": "вона",
     "path": "/pronouns/female/capitalSubject",
     "op": "replace"
   },
@@ -135,7 +135,7 @@
     "op": "replace"
   },
   {
-    "value": "Її",
+    "value": "її",
     "path": "/pronouns/female/capitalReflexive",
     "op": "replace"
   },
@@ -180,7 +180,7 @@
     "op": "add"
   },
   {
-    "value": "ая",
+    "value": "а",
     "path": "/pronouns/female/obj7end",
     "op": "add"
   },
@@ -190,17 +190,17 @@
     "op": "add"
   },
   {
-    "value": "ая",
+    "value": "а",
     "path": "/pronouns/female/obj9end",
     "op": "add"
   },
   {
-    "value": "ая",
+    "value": "а",
     "path": "/pronouns/female/obj10end",
     "op": "add"
   },
   {
-    "value": "ё",
+    "value": "е",
     "path": "/pronouns/female/obj11end",
     "op": "add"
   },
@@ -265,7 +265,7 @@
     "op": "replace"
   },
   {
-    "value": "Його",
+    "value": "його",
     "path": "/pronouns/male/capitalReflexive",
     "op": "replace"
   },
@@ -285,7 +285,7 @@
     "op": "add"
   },
   {
-    "value": "его",
+    "value": "ого",
     "path": "/pronouns/male/obj2end",
     "op": "add"
   },
@@ -300,7 +300,7 @@
     "op": "add"
   },
   {
-    "value": "ёл",
+    "value": "ов",
     "path": "/pronouns/male/obj5end",
     "op": "add"
   },
@@ -310,7 +310,7 @@
     "op": "add"
   },
   {
-    "value": "ый",
+    "value": "ий",
     "path": "/pronouns/male/obj7end",
     "op": "add"
   },
@@ -375,7 +375,7 @@
     "op": "replace"
   },
   {
-    "value": "Він",
+    "value": "він",
     "path": "/pronouns/neutral/capitalSubject",
     "op": "replace"
   },
@@ -395,7 +395,7 @@
     "op": "replace"
   },
   {
-    "value": "Його",
+    "value": "його",
     "path": "/pronouns/neutral/capitalReflexive",
     "op": "replace"
   },
@@ -415,7 +415,7 @@
     "op": "add"
   },
   {
-    "value": "его",
+    "value": "ого",
     "path": "/pronouns/neutral/obj2end",
     "op": "add"
   },
@@ -430,7 +430,7 @@
     "op": "add"
   },
   {
-    "value": "ёл",
+    "value": "ов",
     "path": "/pronouns/neutral/obj5end",
     "op": "add"
   },
@@ -440,7 +440,7 @@
     "op": "add"
   },
   {
-    "value": "ый",
+    "value": "ий",
     "path": "/pronouns/neutral/obj7end",
     "op": "add"
   },

@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Крісло камінь."
+    "value": "Кам’яне крісло"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Рок-крісло"
+    "value": "Кам’яне крісло"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Мені дупа болить від того, що я дивлюся на це."
+    "value": "Мене дупа болить лише тому, що я дивлюсь на це."
   },
   {
     "op": "replace",

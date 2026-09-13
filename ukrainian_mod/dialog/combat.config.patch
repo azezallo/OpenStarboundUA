@@ -77,7 +77,7 @@
   {
     "op": "replace",
     "path": "/attack/default/default/0",
-    "value": "В атаку!"
+    "value": "Атака!"
   },
   {
     "op": "replace",
@@ -772,7 +772,7 @@
   {
     "op": "replace",
     "path": "/outOfSight/glitch/default/0",
-    "value": "*Терпіння.* Я просто почекаю тут, поки ти повернешся."
+    "value": "*Терплячість.* Я просто почекаю тут, поки ти повернешся."
   },
   {
     "op": "replace",
@@ -962,7 +962,7 @@
   {
     "op": "replace",
     "path": "/cheerOn/floran/default/3",
-    "value": "Хапай цессс!"
+    "value": "Зхватити!"
   },
   {
     "op": "replace",

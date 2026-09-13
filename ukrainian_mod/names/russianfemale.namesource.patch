@@ -2,446 +2,446 @@
   {
     "op": "replace",
     "path": "/sourceNames/0",
-    "value": "Albina"
+    "value": "Альбіна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/1",
-    "value": "Alexandra"
+    "value": "Александра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/2",
-    "value": "Alina"
+    "value": "Аліна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/3",
-    "value": "Alisa"
+    "value": "Аліса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/4",
-    "value": "Alla"
+    "value": "Алла"
   },
   {
     "op": "replace",
     "path": "/sourceNames/5",
-    "value": "Alyona"
+    "value": "Альона"
   },
   {
     "op": "replace",
     "path": "/sourceNames/6",
-    "value": "Anastasiya"
+    "value": "Анастасія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/7",
-    "value": "Anfisa"
+    "value": "Анфіса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/8",
-    "value": "Anna"
+    "value": "Анна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/9",
-    "value": "Antonina"
+    "value": "Антоніна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/10",
-    "value": "Anzhelika"
+    "value": "Анжеліка"
   },
   {
     "op": "replace",
     "path": "/sourceNames/11",
-    "value": "Darya"
+    "value": "Дар'я"
   },
   {
     "op": "replace",
     "path": "/sourceNames/12",
-    "value": "Diana"
+    "value": "Діана"
   },
   {
     "op": "replace",
     "path": "/sourceNames/13",
-    "value": "Dina"
+    "value": "Діна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/14",
-    "value": "Dominika"
+    "value": "Домініка"
   },
   {
     "op": "replace",
     "path": "/sourceNames/15",
-    "value": "Ekaterina"
+    "value": "Єкатерина"
   },
   {
     "op": "replace",
     "path": "/sourceNames/16",
-    "value": "Elena"
+    "value": "Єлена"
   },
   {
     "op": "replace",
     "path": "/sourceNames/17",
-    "value": "Elizaveta"
+    "value": "Єлизавета"
   },
   {
     "op": "replace",
     "path": "/sourceNames/18",
-    "value": "Elvira"
+    "value": "Ельвіра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/19",
-    "value": "Emilia"
+    "value": "Емілія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/20",
-    "value": "Emma"
+    "value": "Емма"
   },
   {
     "op": "replace",
     "path": "/sourceNames/21",
-    "value": "Eva"
+    "value": "Єва"
   },
   {
     "op": "replace",
     "path": "/sourceNames/22",
-    "value": "Evgeniya"
+    "value": "Євгенія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/23",
-    "value": "Faina"
+    "value": "Фаїна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/24",
-    "value": "Fedosia"
+    "value": "Федосія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/25",
-    "value": "Florentina"
+    "value": "Флорентина"
   },
   {
     "op": "replace",
     "path": "/sourceNames/26",
-    "value": "Galina"
+    "value": "Галина"
   },
   {
     "op": "replace",
     "path": "/sourceNames/27",
-    "value": "Inessa"
+    "value": "Інеса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/28",
-    "value": "Inga"
+    "value": "Інга"
   },
   {
     "op": "replace",
     "path": "/sourceNames/29",
-    "value": "Inna"
+    "value": "Інна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/30",
-    "value": "Irina"
+    "value": "Ірина"
   },
   {
     "op": "replace",
     "path": "/sourceNames/31",
-    "value": "Iskra"
+    "value": "Іскра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/32",
-    "value": "Izabella"
+    "value": "Ізабелла"
   },
   {
     "op": "replace",
     "path": "/sourceNames/33",
-    "value": "Izolda"
+    "value": "Ізольда"
   },
   {
     "op": "replace",
     "path": "/sourceNames/34",
-    "value": "Kapitolina"
+    "value": "Капітоліна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/35",
-    "value": "Klara"
+    "value": "Клара"
   },
   {
     "op": "replace",
     "path": "/sourceNames/36",
-    "value": "Klavdiya"
+    "value": "Клавдія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/37",
-    "value": "Klementina"
+    "value": "Клементина"
   },
   {
     "op": "replace",
     "path": "/sourceNames/38",
-    "value": "Kristina"
+    "value": "Крістіна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/39",
-    "value": "Kseniya"
+    "value": "Ксенія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/40",
-    "value": "Lada"
+    "value": "Лада"
   },
   {
     "op": "replace",
     "path": "/sourceNames/41",
-    "value": "Larisa"
+    "value": "Лариса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/42",
-    "value": "Lidiya"
+    "value": "Лідія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/43",
-    "value": "Liliya"
+    "value": "Лілія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/44",
-    "value": "Lubov"
+    "value": "Любов"
   },
   {
     "op": "replace",
     "path": "/sourceNames/45",
-    "value": "Lucya"
+    "value": "Люся"
   },
   {
     "op": "replace",
     "path": "/sourceNames/46",
-    "value": "Ludmila"
+    "value": "Людмила"
   },
   {
     "op": "replace",
     "path": "/sourceNames/47",
-    "value": "Malvina"
+    "value": "Мальвіна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/48",
-    "value": "Margarita"
+    "value": "Маргарита"
   },
   {
     "op": "replace",
     "path": "/sourceNames/49",
-    "value": "Marina"
+    "value": "Марина"
   },
   {
     "op": "replace",
     "path": "/sourceNames/50",
-    "value": "Mariya"
+    "value": "Марія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/51",
-    "value": "Marta"
+    "value": "Марта"
   },
   {
     "op": "replace",
     "path": "/sourceNames/52",
-    "value": "Maya"
+    "value": "Мая"
   },
   {
     "op": "replace",
     "path": "/sourceNames/53",
-    "value": "Nadezhda"
+    "value": "Надежда"
   },
   {
     "op": "replace",
     "path": "/sourceNames/54",
-    "value": "Natalya"
+    "value": "Наталя"
   },
   {
     "op": "replace",
     "path": "/sourceNames/55",
-    "value": "Nelly"
+    "value": "Неллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/56",
-    "value": "Nika"
+    "value": "Ніка"
   },
   {
     "op": "replace",
     "path": "/sourceNames/57",
-    "value": "Nina"
+    "value": "Ніна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/58",
-    "value": "Nonna"
+    "value": "Нонна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/59",
-    "value": "Oksana"
+    "value": "Оксана"
   },
   {
     "op": "replace",
     "path": "/sourceNames/60",
-    "value": "Olesya"
+    "value": "Олеся"
   },
   {
     "op": "replace",
     "path": "/sourceNames/61",
-    "value": "Olga"
+    "value": "Ольга"
   },
   {
     "op": "replace",
     "path": "/sourceNames/62",
-    "value": "Polina"
+    "value": "Поліна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/63",
-    "value": "Rada"
+    "value": "Рада"
   },
   {
     "op": "replace",
     "path": "/sourceNames/64",
-    "value": "Raisa"
+    "value": "Раїса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/65",
-    "value": "Regina"
+    "value": "Регіна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/66",
-    "value": "Renata"
+    "value": "Рената"
   },
   {
     "op": "replace",
     "path": "/sourceNames/67",
-    "value": "Rozalina"
+    "value": "Розаліна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/68",
-    "value": "Sofia"
+    "value": "Софія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/69",
-    "value": "Svetlana"
+    "value": "Светлана"
   },
   {
     "op": "replace",
     "path": "/sourceNames/70",
-    "value": "Taisia"
+    "value": "Таїсія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/71",
-    "value": "Tamara"
+    "value": "Тамара"
   },
   {
     "op": "replace",
     "path": "/sourceNames/72",
-    "value": "Tatyana"
+    "value": "Татьяна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/73",
-    "value": "Ulyana"
+    "value": "Уляна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/74",
-    "value": "Valentina"
+    "value": "Валентина"
   },
   {
     "op": "replace",
     "path": "/sourceNames/75",
-    "value": "Valeriya"
+    "value": "Валерія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/76",
-    "value": "Varvara"
+    "value": "Варвара"
   },
   {
     "op": "replace",
     "path": "/sourceNames/77",
-    "value": "Vasilisa"
+    "value": "Василиса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/78",
-    "value": "Vera"
+    "value": "Вера"
   },
   {
     "op": "replace",
     "path": "/sourceNames/79",
-    "value": "Veronika"
+    "value": "Вероніка"
   },
   {
     "op": "replace",
     "path": "/sourceNames/80",
-    "value": "Viktoriya"
+    "value": "Вікторія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/81",
-    "value": "Vladlena"
+    "value": "Владлена"
   },
   {
     "op": "replace",
     "path": "/sourceNames/82",
-    "value": "Yana"
+    "value": "Яна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/83",
-    "value": "Yaroslava"
+    "value": "Ярослава"
   },
   {
     "op": "replace",
     "path": "/sourceNames/84",
-    "value": "Yuliya"
+    "value": "Юлія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/85",
-    "value": "Zhanna"
+    "value": "Жанна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/86",
-    "value": "Zinaida"
+    "value": "Зінаїда"
   },
   {
     "op": "replace",
     "path": "/sourceNames/87",
-    "value": "Zlata"
+    "value": "Злата"
   },
   {
     "op": "replace",
     "path": "/sourceNames/88",
-    "value": "Zoya"
+    "value": "Зоя"
   }
 ]

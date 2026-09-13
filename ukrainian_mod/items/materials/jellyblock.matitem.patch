@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Слизька желеподібна маса яскравого кольору."
+    "value": "Слизька, яскрава желеподібна маса желе."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Jelly Blob"
+    "value": "Желе-Blob"
   },
   {
     "op": "replace",
@@ -17,11 +17,11 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Джиґґлі желе."
+    "value": "Джигглі-желе"
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Безлад про слизове желе."
+    "value": "Безладна, слизка маса желе."
   }
 ]

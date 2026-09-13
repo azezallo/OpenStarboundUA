@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Шолом із дюрастелі, створений для захисту."
+    "value": "Шолом з дюрасталі, призначений для оборони"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Озеро Хельм"
+    "value": "Озерний шолом"
   }
 ]

@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/activeCrewLimit/text",
-    "value": "You've reached the limit of how many crew members you can bring with you. Drop some off on your ship to expand your crew further."
+    "value": "Ви досягли максимальної кількості членів екіпажу, які можете мати. Залиште частину на борту, щоб розширити свій екіпаж."
   },
   {
     "op": "replace",
     "path": "/crewLimit/text",
-    "value": "Your ship can't support any more crew members. Either find a way to increase the size of your ship, or dismiss some staff through the terminal on your ship."
+    "value": "Ваш корабель не може підтримувати більше членів екіпажу. Знайдіть спосіб збільшити розмір корабля або звільніть деяких працівників через термінал на борту."
   },
   {
     "op": "replace",
     "path": "/gainedCrewMember/text",
-    "value": "You've found your first crew member! Talk to me on your ship to manage crew members and monitor their status."
+    "value": "Ви знайшли свого першого члена екіпажу! Поговоріть зі мною на кораблі, щоб керувати членами екіпажу та стежити за їх станом."
   }
 ]

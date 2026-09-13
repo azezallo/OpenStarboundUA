@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Гаряча на дотик, її оболонка мерехтить, як полум'я."
+    "value": "Гарячий на дотик, його панцир мерехтить, наче полум'я."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Flameroach"
+    "value": "Вогняний тарган"
   }
 ]

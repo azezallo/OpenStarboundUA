@@ -2,26 +2,26 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Frustrated. They have me sweeping the bridge every hour like I'm a machine or something."
+    "value": "Зневірений. Вони змушують мене мітити місто кожну годину, ніби я машина."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "Impatient. Just one day away from retirement..."
+    "value": "Нетерплячий. Залишився лише один день до пенсії..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
-    "value": "Звільнився. Я вважаю, що краса цього дерева є певним виправданням для його догляду."
+    "value": "Розпрощений. Я вважаю, що краса цього дерева є певним виправданням для його догляду."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/3",
-    "value": "Pleasant. At least it's a nice day to be working outside."
+    "value": "Приємно. Принаймні це гарний день, щоб працювати на відкритому повітрі."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/complain/default/default/0",
-    "value": "Втомлений. Кожен день потрібно змітати більше пелюсток."
+    "value": "Втомлений. Кожен день треба збирати більше пелюсток."
   }
 ]

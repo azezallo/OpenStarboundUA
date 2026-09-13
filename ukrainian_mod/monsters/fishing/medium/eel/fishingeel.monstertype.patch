@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Blighteel"
+    "value": "Блайтіл"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It has no eyes, so it prefers hunting at night when prey can't see it coming."
+    "value": "У нього немає очей, тому воно віддає перевагу полюванню вночі, коли здобич не бачить його наближення."
   }
 ]

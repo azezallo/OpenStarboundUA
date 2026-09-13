@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "стривожений. Від іржі на цьому металі мені дуже незручно."
+    "value": "Стривожений. Від іржі на цьому металі мені дуже незручно."
   },
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Russst покритий металом."
+    "value": "Покритий іржею метал"
   },
   {
     "op": "replace",

@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/npcname",
-    "value": "Koichi"
+    "value": "Коїчі"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/koichi/greet/default/default/0",
-    "value": "Ви тут! Ви це зробили! Ви перемогли цих лиходіїв у капотах!"
+    "value": "Ви тут! Ви це зробили! Ви перемогли цих лиходіїв у капюшонах!"
   },
   {
     "op": "replace",
@@ -27,6 +27,6 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/koichi/end/default/default/0",
-    "value": "Великі мислителі кажуть нам, що «Досвід — мати мудрості». Я стану ТАКИМ МУДРИМ!"
+    "value": "Великі мислителі кажуть нам, що «Досвід — мати мудрості». Я стану настільки мудрим!"
   }
 ]

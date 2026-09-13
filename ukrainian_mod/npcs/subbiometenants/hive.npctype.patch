@@ -5,12 +5,12 @@
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Кущ у кожній руці вартий двох птахів.",
+    "value": "Людина-личинка каже: Кущ у кожній руці варто двох птахів.",
     "path": "/scriptConfig/dialog/converse/human/default/0",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Навчи рибу їсти, і вона буде людиною все життя.",
+    "value": "Людина-личинка каже: Навчи рибу їсти, і вона стане людиною на все життя.",
     "path": "/scriptConfig/dialog/converse/human/default/1",
     "op": "replace"
   },
@@ -20,62 +20,62 @@
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Дійсно важко плакати над розлитим молоком.",
+    "value": "Людина-личинка каже: Плакати над розлитим молоком справді важко.",
     "path": "/scriptConfig/dialog/converse/human/default/3",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Могутній меч - це не добра ручка.",
+    "value": "Людина-личинка каже: Сильний меч – не добра ручка.",
     "path": "/scriptConfig/dialog/converse/human/default/4",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Норман - це острів.",
+    "value": "Людина-личинка каже: Норман – острів.",
     "path": "/scriptConfig/dialog/converse/human/default/5",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Люди, у яких є камені, не повинні їх кидати в скляні будинки.",
+    "value": "Людина-личинка каже: Люди, які мають камені, не повинні кидати їх у скляні будинки.",
     "path": "/scriptConfig/dialog/converse/human/default/6",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Ніколи не дивись у вируючу каструлю.",
+    "value": "Людина-личинка каже: Ніколи не дивись у киплячу каструлю.",
     "path": "/scriptConfig/dialog/converse/human/default/7",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Два брати можуть добре куховарити.",
+    "value": "Людина-личинка каже: Якщо багато кухарів, можна приготувати два бульйони.",
     "path": "/scriptConfig/dialog/converse/human/default/8",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Не годуй руку, що кусає тебе.",
+    "value": "Людина-личинка каже: Дайте їжу рукам тим, хто їх кусить.",
     "path": "/scriptConfig/dialog/converse/human/default/9",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Не суди обкладинку за вмістом.",
+    "value": "Людина-личинка каже: Ніколи не судіть судью за обкладинкою книги.",
     "path": "/scriptConfig/dialog/converse/human/default/10",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Дарованому коню в зуби не дивляться.",
+    "value": "Людина-личинка каже: Не кладіть подарунок у рот коня.",
     "path": "/scriptConfig/dialog/converse/human/default/11",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Злодії дрімають.",
+    "value": "Людина-личинка каже: Вороги товсті.",
     "path": "/scriptConfig/dialog/converse/human/default/12",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Кров - як густа вода.",
+    "value": "Людина-личинка каже: Кров як густа вода.",
     "path": "/scriptConfig/dialog/converse/human/default/13",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Я не бачив і не чув жодних дітей.",
+    "value": "Людина-личинка каже: Я не бачив і не чув ніяких дітей.",
     "path": "/scriptConfig/dialog/converse/human/default/14",
     "op": "replace"
   },
@@ -85,7 +85,7 @@
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Мертва людина не має хвостів.",
+    "value": "Людина-личинка каже: Мертві люди не мають хвостів.",
     "path": "/scriptConfig/dialog/converse/human/default/16",
     "op": "replace"
   },
@@ -95,47 +95,47 @@
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Не намагайся ходити, якщо не вмієш говорити.",
+    "value": "Людина-личинка каже: Не спробуй ходити та розмовляти, якщо ти не можеш.",
     "path": "/scriptConfig/dialog/converse/human/default/18",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Помста - це страва, яку подають холодною.",
+    "value": "Людина-личинка каже: Подай усі свої страви холодними як помсту.",
     "path": "/scriptConfig/dialog/converse/human/default/19",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: У твого кота більше, ніж одна шкура.",
+    "value": "Людина-личинка каже: Твій кіт має більше однієї шкіри.",
     "path": "/scriptConfig/dialog/converse/human/default/20",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: У мене слів на тисячу картин.",
+    "value": "Людина-личинка каже: У мене тисяча картинок із словами.",
     "path": "/scriptConfig/dialog/converse/human/default/21",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Сплячі собаки - брехуни.",
+    "value": "Людина-личинка каже: Сплячі собаки — брехуни.",
     "path": "/scriptConfig/dialog/converse/human/default/22",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Ти те, що ти є.",
+    "value": "Людина-личинка каже: Ти той, кого бачиш, коли отримуєш.",
     "path": "/scriptConfig/dialog/converse/human/default/23",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Продовжуй знаходити плачущих переможених.",
+    "value": "Людина-личинка каже: Продовжуй знаходити плачучих невдах.",
     "path": "/scriptConfig/dialog/converse/human/default/24",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: Мої думки безцінні.",
+    "value": "Людина-личинка каже: Мої думки — це всі копійки.",
     "path": "/scriptConfig/dialog/converse/human/default/25",
     "op": "replace"
   },
   {
-    "value": "Людина-личинка каже: За скільки був побудований Рим?",
+    "value": "Людина-личинка каже: Коли в Римі?",
     "path": "/scriptConfig/dialog/converse/human/default/26",
     "op": "replace"
   }

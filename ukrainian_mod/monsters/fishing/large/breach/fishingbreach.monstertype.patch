@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Variegated Breacher"
+    "value": "Строкатий пробивач"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "A strong fish that uses its robust horn to break through thick sheets of ice."
+    "value": "Сильна риба, що використовує свій міцний рог, щоб прорватися через товсті пласти льоду."
   }
 ]

@@ -1,121 +1,121 @@
 [
   {
-    "value": "Ссспершу флорану потрібно, щоб ти ^green;знайшов ^white;[^orange;<fetchedItems>^white;]. Вперед, вперед, вперед!",
+    "value": "Ссспершу Флорану потрібно, щоб ти ^green;знайшов ^orange;<fetchedItems>^white;. Біжи, біжи, біжи!",
     "path": "/scriptConfig/generatedText/text/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран не може знайти [^orange;<fetchedItems>^white;]. Флоран щедро винагородить тебе, якщо ти ^green;принесеш трохи.",
+    "value": "Флоран не може знайти ^orange;<fetchedItems>^white;. Флоран щедро винагородить тебе, якщо ти ^green;принесссеш трохи^white;.",
     "path": "/scriptConfig/generatedText/text/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Збуджено. Спершу ^green;мені потрібно, щоб ти зібрав ^white;[^orange;<fetchedItems>^white;]. Наперед дякую!",
+    "value": "Захоплення. Спершу ^green;мені потрібно, щоб ти здобув ^orange;<fetchedItems>^white; для мене. Наперед дякую!",
     "path": "/scriptConfig/generatedText/text/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Збуджено. Для першої частини мого плану ^green;мені потрібно, щоб ти зібрав ^white;[^orange;<fetchedItems>^white;].",
+    "value": "Захоплення. Для першої частини мого плану ^green;мені потрібно, щоб ти зібрав ^orange;<fetchedItems>^white; для мене.",
     "path": "/scriptConfig/generatedText/text/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Для початку ^green;мені знадобиться ^white;[^orange;<fetchedItems>^white;]. Допоможеш?",
+    "value": "Для початку ^green;мені знадобиться ^orange;<fetchedItems>^white;. Чи міг би ти допомогти?",
     "path": "/scriptConfig/generatedText/text/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Спершу ^green;нам потрібно зібрати ^white;[^orange;<fetchedItems>^white;]. Впораєшся з цим?",
+    "value": "Спершу ^green;нам знадобиться здобути ^orange;<fetchedItems>^white;. Впораєшся з цим?",
     "path": "/scriptConfig/generatedText/text/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Час ^green;знайти ^white;[^orange;<fetchedItems>^white;]. Це дуже важливо зробити наступним.",
+    "value": "Чассс ^green;знайти ^orange;<fetchedItems>^white;. Дужжже важливо зробити це зараз.",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Твоє нассступне завдання: чи не міг би ти ^green;знайти для нас ^white;[^orange;<fetchedItems>^white;]? Не надто велика робота для такого вмілого, як ти.",
+    "value": "Нассступне завдання: чи міг би ти ^green;знайти для нас ^orange;<fetchedItems>^white;? Не надто складна робота для когось такого вправного, як ти.",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Впевнено. Далі ^green;нам знадобиться ^white;[^orange;<fetchedItems>^white;]. Я впевнен<questGiver.pronoun.obj1end>, що це тобі під силу.",
+    "value": "Упевненість. Далі ^green;нам знадобиться ^orange;<fetchedItems>^white;. Я впевнен<questGiver.pronoun.obj1end>, що це цілком у межах твоїх можливостей.",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Нетерпляче. Далі ^green;мені потрібно, щоб ти зібрав ^white;[^orange;<fetchedItems>^white;].",
+    "value": "Нетерплячість. Далі ^green;мені потрібно, щоб ти зібрав ^orange;<fetchedItems>^white;.",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Далі ^green;нам знадобиться ^white;[^orange;<fetchedItems>^white;]. Ти ж упораєшся з цим, еге ж?",
+    "value": "Далі ^green;нам знадобиться ^orange;<fetchedItems>^white;. Ти ж упораєшся з цим, так?",
     "path": "/scriptConfig/generatedText/text/default/default/0",
     "op": "replace"
   },
   {
-    "value": "^green;Наступне, що мені знадобиться, — це ^white;[^orange;<fetchedItems>^white;]. Це важлива частина плану.",
+    "value": "^green;Наступне, що мені знадобиться — це ^orange;<fetchedItems>^white;. Це важливо для плану.",
     "path": "/scriptConfig/generatedText/text/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Чудово! Чассс братися за роботу з нашими [<fetchedItems>].",
+    "value": "Чудово! Чассс братися до роботи з нашими <fetchedItems>.",
     "path": "/scriptConfig/generatedText/completionText/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Ідеально — тепер флоран пустить це в діллло!",
+    "value": "Бездоганно — тепер Флоран пуссстить це в діло!",
     "path": "/scriptConfig/generatedText/completionText/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Вдячно. Я ціную те, що ти зібрав ці предмети для мене! У мене на них є плани...",
+    "value": "Вдячність. Я ціную те, що ти зібрав<questGiver.pronoun.obj1end> ці предмети для мене! У мене є плани щодо них...",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Ці предмети — саме те, що мені потрібно для мого плану!",
+    "value": "Задоволення. Ці предмети — саме те, що потрібно для мого плану!",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Відмінно! Тепер ми можемо пустити це в діло.",
+    "value": "Чудово! Тепер ми можемо пустити це в діло.",
     "path": "/scriptConfig/generatedText/completionText/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Чудова робота, <player>, я ніколи не сумнівав<questGiver.pronoun.obj6end>, що ти зможеш це зробити!",
+    "value": "Чудова робота, <player>, я ніколи не сумнівав<questGiver.pronoun.obj6end>ся, що ти зможеш це зробити!",
     "path": "/scriptConfig/generatedText/completionText/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Ідеально, час пуссстити наші [<fetchedItems>] в діло.",
+    "value": "Ідеально, чассс пустити наші <fetchedItems> у діло.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Це було швидше, ніж очікував флоран! Флоран дуже задоволений.",
+    "value": "Це було швидшшше, ніж очікував Флоран! Флоран дуже задоволенийссс.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Вдячно. Я дуже рад<questGiver.pronoun.obj1end>, що ти зміг зібрати це для мене, вони необхідні для мого плану. Дякую!",
+    "value": "Вдячність. Я так радію, що тобі вдалося зібрати це для мене, вони вкрай необхідні для мого плану. Дякую!",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Радісно. Дякую, що дістав це для мене, у мене на них є плани!",
+    "value": "Захоплення. Дякую, що дістав це для мене, у мене великі плани на них!",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Дякую, це саме те, що мені потрібно для наступного етапу мого плану...",
+    "value": "Дякую, це саме те, що потрібно для наступного етапу мого плану...",
     "path": "/scriptConfig/generatedText/completionText/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Ідеально, це чудово спрацює. Дякую!",
+    "value": "Чудово, це відмінно спрацює. Дякую!",
     "path": "/scriptConfig/generatedText/completionText/default/default/1",
     "op": "replace"
   }

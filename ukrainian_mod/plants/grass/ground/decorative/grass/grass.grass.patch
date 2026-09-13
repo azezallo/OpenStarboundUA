@@ -1,21 +1,21 @@
 [
   {
-    "value": "Кликали мене?",
+    "value": "Трава. Просто трава",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Ти щось хотів дізнатися?",
+    "value": "Трава",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Я тобі потрібен? Знадобилася моя порада?",
+    "value": "Гарна трава",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ось подарунок за всю твою допомогу!",
+    "value": "Утвердження. Трава",
     "path": "/glitchDescription",
     "op": "replace"
   }

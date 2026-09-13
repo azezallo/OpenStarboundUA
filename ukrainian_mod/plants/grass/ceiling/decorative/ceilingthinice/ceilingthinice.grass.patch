@@ -1,21 +1,21 @@
 [
   {
-    "value": "Розплавл.",
+    "value": "Бурулька.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Фазовий",
+    "value": "Бурулька.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Світанковий",
+    "value": "Гострий лід",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Сутінковий",
+    "value": "Заява. Бурулька.",
     "path": "/glitchDescription",
     "op": "replace"
   }

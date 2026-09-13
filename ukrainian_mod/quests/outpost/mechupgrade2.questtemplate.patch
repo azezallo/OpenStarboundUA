@@ -25,17 +25,17 @@
     "op": "replace"
   },
   {
-    "value": "Поговори з ^orange;доктором Акагі^reset; і йди на ^orange;тестовый курс^reset;",
+    "value": "Поговори з ^orange;доктором Акагі^reset;, щоб увійти на ^orange;розширений тестовий курс^reset;",
     "path": "/scriptConfig/descriptions/enterInstance",
     "op": "replace"
   },
   {
-    "value": "Пройди ^orange;розширений тест меха^reset;",
+    "value": "Пройди ^orange;розширений тестовий курс меха^reset;",
     "path": "/scriptConfig/descriptions/findGoal",
     "op": "replace"
   },
   {
-    "value": "Повернися до ^orange;доктора Акагі^reset; на ^orange;Аванпост^reset;",
+    "value": "Повернися до ^orange;доктора Акагі^reset; на ^orange;Форпост^reset;",
     "path": "/scriptConfig/descriptions/turnIn",
     "op": "replace"
   }

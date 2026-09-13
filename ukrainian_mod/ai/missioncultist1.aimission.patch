@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/speciesText/default/buttonText",
-    "value": "The Dantalion"
+    "value": "Данталін"
   },
   {
     "op": "replace",
     "path": "/speciesText/default/repeatButtonText",
-    "value": "Revisit The Dantalion"
+    "value": "Знову відвідайте Данталін"
   },
   {
     "op": "replace",
     "path": "/speciesText/default/selectSpeech/text",
-    "value": "Asra Nox has been located on her warship, the Dantalion."
+    "value": "Asra Nox була знайдена на її бойовому кораблі, Данталін."
   }
 ]

@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Можливо, там їжа."
+    "value": "Можливо, там є їжа."
   },
   {
     "op": "replace",

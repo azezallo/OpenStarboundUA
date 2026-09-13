@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/npcname",
-    "value": "Koichi"
+    "value": "Коїчі"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "This place is fascinating. I have so much research to do!"
+    "value": "Це місце дивовижне. У мене стільки досліджень!"
   }
 ]

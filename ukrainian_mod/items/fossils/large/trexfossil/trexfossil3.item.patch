@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілі ноги та стегна T. rex."
+    "value": "Фосилізовані ноги і стегна T. rex"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Т. рекс Ноги"
+    "value": "Ноги T. rex"
   }
 ]

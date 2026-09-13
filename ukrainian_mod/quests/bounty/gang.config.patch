@@ -35,7 +35,7 @@
     "op": "replace"
   },
   {
-    "value": "Синій",
+    "value": "Блу",
     "path": "/genericPrefix/7",
     "op": "replace"
   },
@@ -45,7 +45,7 @@
     "op": "replace"
   },
   {
-    "value": "Крутий",
+    "value": "Класний",
     "path": "/genericPrefix/9",
     "op": "replace"
   },
@@ -60,7 +60,7 @@
     "op": "replace"
   },
   {
-    "value": "Повільний",
+    "value": "Сповільнення",
     "path": "/genericPrefix/12",
     "op": "replace"
   },
@@ -80,7 +80,7 @@
     "op": "replace"
   },
   {
-    "value": "Накачаний",
+    "value": "Драйвовий",
     "path": "/genericPrefix/16",
     "op": "replace"
   },
@@ -90,7 +90,7 @@
     "op": "replace"
   },
   {
-    "value": "Секретний",
+    "value": "Таємний",
     "path": "/genericPrefix/18",
     "op": "replace"
   },
@@ -120,7 +120,7 @@
     "op": "replace"
   },
   {
-    "value": "Лукавий",
+    "value": "Хитрий",
     "path": "/genericPrefix/24",
     "op": "replace"
   },
@@ -140,7 +140,7 @@
     "op": "replace"
   },
   {
-    "value": "Срібний",
+    "value": "Срібло",
     "path": "/genericPrefix/28",
     "op": "replace"
   },
@@ -175,22 +175,22 @@
     "op": "replace"
   },
   {
-    "value": "Веселий",
+    "value": "Кумедний",
     "path": "/genericPrefix/35",
     "op": "replace"
   },
   {
-    "value": "Блискучий",
+    "value": "Блискавичний",
     "path": "/genericPrefix/36",
     "op": "replace"
   },
   {
-    "value": "Вбивчий",
+    "value": "Убивчий",
     "path": "/genericPrefix/37",
     "op": "replace"
   },
   {
-    "value": "Засраний",
+    "value": "Засмічувальний",
     "path": "/genericPrefix/38",
     "op": "replace"
   },
@@ -200,7 +200,7 @@
     "op": "replace"
   },
   {
-    "value": "Лють",
+    "value": "Лютий",
     "path": "/genericPrefix/40",
     "op": "replace"
   },
@@ -240,7 +240,7 @@
     "op": "replace"
   },
   {
-    "value": "Нормальний",
+    "value": "Звичайний",
     "path": "/genericPrefix/48",
     "op": "replace"
   },
@@ -300,7 +300,7 @@
     "op": "replace"
   },
   {
-    "value": "Уривчастий",
+    "value": "Підозрілий",
     "path": "/genericPrefix/60",
     "op": "replace"
   },
@@ -370,12 +370,12 @@
     "op": "replace"
   },
   {
-    "value": "Відмінний",
+    "value": "Величний",
     "path": "/genericPrefix/74",
     "op": "replace"
   },
   {
-    "value": "Смертний",
+    "value": "Смертельний",
     "path": "/genericPrefix/75",
     "op": "replace"
   },
@@ -395,7 +395,7 @@
     "op": "replace"
   },
   {
-    "value": "Лінивий",
+    "value": "Ледачий",
     "path": "/genericPrefix/79",
     "op": "replace"
   },
@@ -405,12 +405,12 @@
     "op": "replace"
   },
   {
-    "value": "Звичайний",
+    "value": "Звичний",
     "path": "/genericPrefix/81",
     "op": "replace"
   },
   {
-    "value": "Приємний",
+    "value": "Гарненький",
     "path": "/genericPrefix/82",
     "op": "replace"
   },
@@ -455,12 +455,12 @@
     "op": "replace"
   },
   {
-    "value": "Милий",
+    "value": "Солодкий",
     "path": "/genericPrefix/91",
     "op": "replace"
   },
   {
-    "value": "Відшарований",
+    "value": "Облуплений",
     "path": "/hatPrefix/bananahead/0",
     "op": "replace"
   },
@@ -490,12 +490,12 @@
     "op": "replace"
   },
   {
-    "value": "Заброділий",
+    "value": "Хмільний",
     "path": "/hatPrefix/mughathead/1",
     "op": "replace"
   },
   {
-    "value": "Почесний",
+    "value": "Шляхетний",
     "path": "/hatPrefix/plumeknighthead/0",
     "op": "replace"
   },
@@ -505,12 +505,12 @@
     "op": "replace"
   },
   {
-    "value": "Рикаючий",
+    "value": "Грізний",
     "path": "/hatPrefix/bearhead/0",
     "op": "replace"
   },
   {
-    "value": "Буркотливий",
+    "value": "Гризлі",
     "path": "/hatPrefix/bearhead/1",
     "op": "replace"
   },
@@ -525,7 +525,7 @@
     "op": "replace"
   },
   {
-    "value": "Засвоєний",
+    "value": "Асимільований",
     "path": "/hatPrefix/symbiotehead/0",
     "op": "replace"
   },
@@ -560,7 +560,7 @@
     "op": "replace"
   },
   {
-    "value": "Шикарний",
+    "value": "Вишуканий",
     "path": "/hatPrefix/glasses2head/0",
     "op": "replace"
   },
@@ -570,12 +570,12 @@
     "op": "replace"
   },
   {
-    "value": "Гордовитий",
+    "value": "Пихатий",
     "path": "/hatPrefix/glasses2head/2",
     "op": "replace"
   },
   {
-    "value": "Обожнюваний",
+    "value": "Чарівний",
     "path": "/hatPrefix/giantbowhead/0",
     "op": "replace"
   },
@@ -620,22 +620,22 @@
     "op": "replace"
   },
   {
-    "value": "Вчений",
+    "value": "Учений",
     "path": "/hatPrefix/glasses4head/5",
     "op": "replace"
   },
   {
-    "value": "Безпечний",
+    "value": "Сейф",
     "path": "/hatPrefix/safetyhelmethead/0",
     "op": "replace"
   },
   {
-    "value": "Розграбований",
+    "value": "Грабіжницький",
     "path": "/hatPrefix/vikinghead/0",
     "op": "replace"
   },
   {
-    "value": "Спустошений",
+    "value": "Нальотницький",
     "path": "/hatPrefix/vikinghead/1",
     "op": "replace"
   },
@@ -645,7 +645,7 @@
     "op": "replace"
   },
   {
-    "value": "Дратівливий",
+    "value": "Зухвалий",
     "path": "/hatPrefix/skullmaskhead/1",
     "op": "replace"
   },
@@ -655,17 +655,17 @@
     "op": "replace"
   },
   {
-    "value": "Мерехтливий",
+    "value": "Підморгуючий",
     "path": "/hatPrefix/eyepatchhead/1",
     "op": "replace"
   },
   {
-    "value": "Радикальний",
+    "value": "Крутий",
     "path": "/hatPrefix/sunglasses1head/0",
     "op": "replace"
   },
   {
-    "value": "Крутий",
+    "value": "Класний",
     "path": "/hatPrefix/sunglasses1head/1",
     "op": "replace"
   },
@@ -700,7 +700,7 @@
     "op": "replace"
   },
   {
-    "value": "Розумний",
+    "value": "Кмітливий",
     "path": "/hatPrefix/fedorahead/0",
     "op": "replace"
   },
@@ -710,7 +710,7 @@
     "op": "replace"
   },
   {
-    "value": "Царський",
+    "value": "Монарший",
     "path": "/hatPrefix/glitchroyalhead/1",
     "op": "replace"
   },
@@ -720,17 +720,17 @@
     "op": "replace"
   },
   {
-    "value": "Повзучий",
+    "value": "Моторошний",
     "path": "/hatPrefix/plaguedoctorhead/1",
     "op": "replace"
   },
   {
-    "value": "Манірний",
+    "value": "Джентльменський",
     "path": "/hatPrefix/tophathead/0",
     "op": "replace"
   },
   {
-    "value": "Кінський",
+    "value": "Конячий",
     "path": "/hatPrefix/horsehead/0",
     "op": "replace"
   },
@@ -740,17 +740,17 @@
     "op": "replace"
   },
   {
-    "value": "Закритий",
+    "value": "Каптуровий",
     "path": "/hatPrefix/plainhoodhead/0",
     "op": "replace"
   },
   {
-    "value": "Партійний",
+    "value": "Святковий",
     "path": "/hatPrefix/bevhead/0",
     "op": "replace"
   },
   {
-    "value": "Навчальний",
+    "value": "Застільний",
     "path": "/hatPrefix/bevhead/1",
     "op": "replace"
   },
@@ -770,12 +770,12 @@
     "op": "replace"
   },
   {
-    "value": "Заморожений",
+    "value": "Замерзлий",
     "path": "/hatPrefix/frostcrownhead/3",
     "op": "replace"
   },
   {
-    "value": "Загартований",
+    "value": "Студений",
     "path": "/hatPrefix/frostcrownhead/4",
     "op": "replace"
   },
@@ -785,7 +785,7 @@
     "op": "replace"
   },
   {
-    "value": "Затоплений",
+    "value": "Затонулий",
     "path": "/hatPrefix/deepdiverhead/1",
     "op": "replace"
   },
@@ -800,12 +800,12 @@
     "op": "replace"
   },
   {
-    "value": "Кучерявий",
+    "value": "Рунистий",
     "path": "/hatPrefix/sheephead/0",
     "op": "replace"
   },
   {
-    "value": "Скотний",
+    "value": "Скотарський",
     "path": "/hatPrefix/sheephead/1",
     "op": "replace"
   },
@@ -825,17 +825,17 @@
     "op": "replace"
   },
   {
-    "value": "Марнославний",
+    "value": "Франтуватий",
     "path": "/hatPrefix/ladyhathead/0",
     "op": "replace"
   },
   {
-    "value": "Давній",
+    "value": "Стародавній",
     "path": "/hatPrefix/pharaohhead/0",
     "op": "replace"
   },
   {
-    "value": "Гострий",
+    "value": "Акулозубий",
     "path": "/hatPrefix/sharkhead/0",
     "op": "replace"
   },
@@ -850,887 +850,887 @@
     "op": "replace"
   },
   {
-    "value": " жнець",
+    "value": "жнець",
     "path": "/genericMid/0",
     "op": "replace"
   },
   {
-    "value": " пістолет",
+    "value": "пістолет",
     "path": "/genericMid/1",
     "op": "replace"
   },
   {
-    "value": " убивця",
+    "value": "убивця",
     "path": "/genericMid/2",
     "op": "replace"
   },
   {
-    "value": " грубіян",
+    "value": "грубіян",
     "path": "/genericMid/3",
     "op": "replace"
   },
   {
-    "value": " такт",
+    "value": "такт",
     "path": "/genericMid/4",
     "op": "replace"
   },
   {
-    "value": " слимак",
+    "value": "нокаутер",
     "path": "/genericMid/5",
     "op": "replace"
   },
   {
-    "value": " головоріз",
+    "value": "головоріз",
     "path": "/genericMid/6",
     "op": "replace"
   },
   {
-    "value": " торговець",
+    "value": "торговець",
     "path": "/genericMid/7",
     "op": "replace"
   },
   {
-    "value": " пірат",
+    "value": "пірат",
     "path": "/genericMid/8",
     "op": "replace"
   },
   {
-    "value": " карцер",
+    "value": "карцер",
     "path": "/genericMid/9",
     "op": "replace"
   },
   {
-    "value": " радикал",
+    "value": "радикал",
     "path": "/genericMid/10",
     "op": "replace"
   },
   {
-    "value": " бандит",
+    "value": "бандит",
     "path": "/genericMid/11",
     "op": "replace"
   },
   {
-    "value": " мисливець",
+    "value": "мисливець",
     "path": "/genericMid/12",
     "op": "replace"
   },
   {
-    "value": " боєць",
+    "value": "боєць",
     "path": "/genericMid/13",
     "op": "replace"
   },
   {
-    "value": " злочинець",
+    "value": "злочинець",
     "path": "/genericMid/14",
     "op": "replace"
   },
   {
-    "value": " наїзник",
+    "value": "вершник",
     "path": "/genericMid/15",
     "op": "replace"
   },
   {
-    "value": " стрілець",
+    "value": "стрілець",
     "path": "/genericMid/16",
     "op": "replace"
   },
   {
-    "value": " ангел",
+    "value": "янгол",
     "path": "/genericMid/17",
     "op": "replace"
   },
   {
-    "value": " демон",
+    "value": "демон",
     "path": "/genericMid/18",
     "op": "replace"
   },
   {
-    "value": " постріл",
+    "value": "куля",
     "path": "/genericMid/19",
     "op": "replace"
   },
   {
-    "value": " стрілець",
+    "value": "стрілець",
     "path": "/genericMid/20",
     "op": "replace"
   },
   {
-    "value": " револьвер",
+    "value": "пістолет",
     "path": "/genericMid/21",
     "op": "replace"
   },
   {
-    "value": " змій",
+    "value": "змій",
     "path": "/genericMid/22",
     "op": "replace"
   },
   {
-    "value": " контрабандист",
+    "value": "контрабандист",
     "path": "/genericMid/23",
     "op": "replace"
   },
   {
-    "value": " бігун",
+    "value": "бігун",
     "path": "/genericMid/24",
     "op": "replace"
   },
   {
-    "value": " болт",
+    "value": "болт",
     "path": "/genericMid/25",
     "op": "replace"
   },
   {
-    "value": " клинок",
+    "value": "клинок",
     "path": "/genericMid/26",
     "op": "replace"
   },
   {
-    "value": " диявол",
+    "value": "диявол",
     "path": "/genericMid/27",
     "op": "replace"
   },
   {
-    "value": " лиходій",
+    "value": "лиходій",
     "path": "/genericMid/28",
     "op": "replace"
   },
   {
-    "value": " монстр",
+    "value": "монстр",
     "path": "/genericMid/29",
     "op": "replace"
   },
   {
-    "value": " шкідник",
+    "value": "руйнівник",
     "path": "/genericMid/30",
     "op": "replace"
   },
   {
-    "value": " грубіян",
+    "value": "громила",
     "path": "/genericMid/31",
     "op": "replace"
   },
   {
-    "value": " силовик",
+    "value": "силовик",
     "path": "/genericMid/32",
     "op": "replace"
   },
   {
-    "value": " спорт",
+    "value": "спорт",
     "path": "/genericMid/33",
     "op": "replace"
   },
   {
-    "value": " працівник",
+    "value": "робітник",
     "path": "/genericMid/34",
     "op": "replace"
   },
   {
-    "value": " дурень",
+    "value": "дурень",
     "path": "/genericMid/35",
     "op": "replace"
   },
   {
-    "value": " поганець",
+    "value": "поганець",
     "path": "/genericMid/36",
     "op": "replace"
   },
   {
-    "value": " супер",
+    "value": "супер",
     "path": "/genericMid/37",
     "op": "replace"
   },
   {
-    "value": " канат",
+    "value": "канат",
     "path": "/genericMid/38",
     "op": "replace"
   },
   {
-    "value": " бродяга",
+    "value": "блукач",
     "path": "/genericMid/39",
     "op": "replace"
   },
   {
-    "value": " бум",
+    "value": "небезпека",
     "path": "/genericMid/40",
     "op": "replace"
   },
   {
-    "value": " примат",
+    "value": "гроші",
     "path": "/genericMid/41",
     "op": "replace"
   },
   {
-    "value": " захоплення",
+    "value": "хватка",
     "path": "/genericMid/42",
     "op": "replace"
   },
   {
-    "value": " отрута",
+    "value": "отрута",
     "path": "/genericMid/43",
     "op": "replace"
   },
   {
-    "value": " стиль",
+    "value": "стиль",
     "path": "/genericMid/44",
     "op": "replace"
   },
   {
-    "value": " режим",
+    "value": "режим",
     "path": "/genericMid/45",
     "op": "replace"
   },
   {
-    "value": " пророк",
+    "value": "пророк",
     "path": "/genericMid/46",
     "op": "replace"
   },
   {
-    "value": " гравець",
+    "value": "гравець",
     "path": "/genericMid/47",
     "op": "replace"
   },
   {
-    "value": " підозрюваний",
+    "value": "підозрюваний",
     "path": "/genericMid/48",
     "op": "replace"
   },
   {
-    "value": " бунтівник",
+    "value": "бунтівник",
     "path": "/genericMid/49",
     "op": "replace"
   },
   {
-    "value": " рокер",
+    "value": "рокер",
     "path": "/genericMid/50",
     "op": "replace"
   },
   {
-    "value": " збоченець",
+    "value": "збоченець",
     "path": "/genericMid/51",
     "op": "replace"
   },
   {
-    "value": " убивця",
+    "value": "убивця",
     "path": "/genericMid/52",
     "op": "replace"
   },
   {
-    "value": " банан",
+    "value": "банан",
     "path": "/hatMid/bananahead/0",
     "op": "replace"
   },
   {
-    "value": " калій",
+    "value": "калій",
     "path": "/hatMid/bananahead/1",
     "op": "replace"
   },
   {
-    "value": " стрибун",
+    "value": "стрибун",
     "path": "/hatMid/bunnyhead/0",
     "op": "replace"
   },
   {
-    "value": " базіка",
+    "value": "базіка",
     "path": "/hatMid/mughathead/0",
     "op": "replace"
   },
   {
-    "value": " напій",
+    "value": "напій",
     "path": "/hatMid/mughathead/1",
     "op": "replace"
   },
   {
-    "value": " лицар",
+    "value": "лицар",
     "path": "/hatMid/plumeknighthead/0",
     "op": "replace"
   },
   {
-    "value": " ведмідь",
+    "value": "ведмідь",
     "path": "/hatMid/bearhead/0",
     "op": "replace"
   },
   {
-    "value": " бродяга",
+    "value": "бродяга",
     "path": "/hatMid/hobohead/0",
     "op": "replace"
   },
   {
-    "value": " вулик",
+    "value": "вулик",
     "path": "/hatMid/symbiotehead/0",
     "op": "replace"
   },
   {
-    "value": " симбіонт",
+    "value": "симбіонт",
     "path": "/hatMid/symbiotehead/1",
     "op": "replace"
   },
   {
-    "value": " будинок",
+    "value": "будинок",
     "path": "/hatMid/househathead/0",
     "op": "replace"
   },
   {
-    "value": " власник",
+    "value": "власник",
     "path": "/hatMid/househathead/1",
     "op": "replace"
   },
   {
-    "value": " снаряд",
+    "value": "снаряд",
     "path": "/hatMid/ironavianhelmethead/0",
     "op": "replace"
   },
   {
-    "value": " гриб",
+    "value": "гриб",
     "path": "/hatMid/mushroomhead/0",
     "op": "replace"
   },
   {
-    "value": " гад",
+    "value": "гад",
     "path": "/hatMid/mushroomhead/1",
     "op": "replace"
   },
   {
-    "value": " гриб",
+    "value": "гриб",
     "path": "/hatMid/mushroomhead/2",
     "op": "replace"
   },
   {
-    "value": " клоун",
+    "value": "клоун",
     "path": "/hatMid/gagnosehead/0",
     "op": "replace"
   },
   {
-    "value": " комік",
+    "value": "комік",
     "path": "/hatMid/gagnosehead/1",
     "op": "replace"
   },
   {
-    "value": " жартівник",
+    "value": "жартівник",
     "path": "/hatMid/jesterhead/0",
     "op": "replace"
   },
   {
-    "value": " кіт",
+    "value": "кіт",
     "path": "/hatMid/kathoodhead/0",
     "op": "replace"
   },
   {
-    "value": " гладіатор",
+    "value": "гладіатор",
     "path": "/hatMid/gladiatorhead/0",
     "op": "replace"
   },
   {
-    "value": " зварювальник",
+    "value": "зварювальник",
     "path": "/hatMid/weldershelmethead/0",
     "op": "replace"
   },
   {
-    "value": " розкрадач",
+    "value": "розкрадач",
     "path": "/hatMid/vikinghead/0",
     "op": "replace"
   },
   {
-    "value": " вікінг",
+    "value": "вікінг",
     "path": "/hatMid/vikinghead/1",
     "op": "replace"
   },
   {
-    "value": " череп",
+    "value": "череп",
     "path": "/hatMid/skullmaskhead/0",
     "op": "replace"
   },
   {
-    "value": " терор",
+    "value": "терор",
     "path": "/hatMid/skullmaskhead/1",
     "op": "replace"
   },
   {
-    "value": " водолаз",
+    "value": "водолаз",
     "path": "/hatMid/deepdiverhead/0",
     "op": "replace"
   },
   {
-    "value": " моряк",
+    "value": "моряк",
     "path": "/hatMid/buccaneerhead/0",
     "op": "replace"
   },
   {
-    "value": " пірат",
+    "value": "пірат",
     "path": "/hatMid/buccaneerhead/1",
     "op": "replace"
   },
   {
-    "value": " тигр",
+    "value": "тигр",
     "path": "/hatMid/tigerhead/0",
     "op": "replace"
   },
   {
-    "value": " король",
+    "value": "король",
     "path": "/hatMid/glitchroyalhead/0",
     "op": "replace"
   },
   {
-    "value": " цар",
+    "value": "цар",
     "path": "/hatMid/glitchroyalhead/1",
     "op": "replace"
   },
   {
-    "value": " лікар",
+    "value": "лікар",
     "path": "/hatMid/plaguedoctorhead/0",
     "op": "replace"
   },
   {
-    "value": " воїн",
+    "value": "воїн",
     "path": "/hatMid/valkyriehelm/0",
     "op": "replace"
   },
   {
-    "value": " шулер",
+    "value": "шулер",
     "path": "/hatMid/sharkhead/0",
     "op": "replace"
   },
   {
-    "value": " кінь",
+    "value": "кінь",
     "path": "/hatMid/horsehead/0",
     "op": "replace"
   },
   {
-    "value": " солдат",
+    "value": "солдат",
     "path": "/hatMid/m1helmethead/0",
     "op": "replace"
   },
   {
-    "value": " ботан",
+    "value": "ботан",
     "path": "/hatMid/scientisthead/0",
     "op": "replace"
   },
   {
-    "value": " вчений",
+    "value": "вчений",
     "path": "/hatMid/scientisthead/1",
     "op": "replace"
   },
   {
-    "value": " телевізор",
+    "value": "телевізор",
     "path": "/hatMid/tvhelmethead/0",
     "op": "replace"
   },
   {
-    "value": " жук",
+    "value": "жук",
     "path": "/hatMid/buzzyhead/0",
     "op": "replace"
   },
   {
-    "value": " чарівник",
+    "value": "чарівник",
     "path": "/hatMid/wizardhead/0",
     "op": "replace"
   },
   {
-    "value": " маг",
+    "value": "маг",
     "path": "/hatMid/wizardhead/1",
     "op": "replace"
   },
   {
-    "value": " Санта",
+    "value": "Санта",
     "path": "/hatMid/hotholidayhead/0",
     "op": "replace"
   },
   {
-    "value": " пастух",
+    "value": "пастух",
     "path": "/hatMid/sheephead/0",
     "op": "replace"
   },
   {
-    "value": " баран",
+    "value": "баран",
     "path": "/hatMid/sheephead/1",
     "op": "replace"
   },
   {
-    "value": " динозавр",
+    "value": "динозавр",
     "path": "/hatMid/dinosaurhead/0",
     "op": "replace"
   },
   {
-    "value": " модник",
+    "value": "модник",
     "path": "/hatMid/coolshadeshead/0",
     "op": "replace"
   },
   {
-    "value": " підводник",
+    "value": "підводник",
     "path": "/hatMid/divingmaskhead/0",
     "op": "replace"
   },
   {
-    "value": " водолаз",
+    "value": "водолаз",
     "path": "/hatMid/divingmaskhead/1",
     "op": "replace"
   },
   {
-    "value": " плавець",
+    "value": "плавець",
     "path": "/hatMid/divingmaskhead/2",
     "op": "replace"
   },
   {
-    "value": " капітан",
+    "value": "капітан",
     "path": "/hatMid/captainshead/0",
     "op": "replace"
   },
   {
-    "value": " фараон",
+    "value": "фараон",
     "path": "/hatMid/pharaohhead/0",
     "op": "replace"
   },
   {
-    "value": " сфінкс",
+    "value": "сфінкс",
     "path": "/hatMid/pharaohhead/1",
     "op": "replace"
   },
   {
-    "value": " пара",
+    "value": "пара",
     "path": "/hatMid/pipehat/0",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "и",
     "path": "/suffix/0",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "и",
     "path": "/suffix/1",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "и",
     "path": "/suffix/2",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "и",
     "path": "/suffix/3",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "и",
     "path": "/suffix/4",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "и",
     "path": "/suffix/5",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "и",
     "path": "/suffix/6",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "и",
     "path": "/suffix/7",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "и",
     "path": "/suffix/8",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "и",
     "path": "/suffix/9",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "з",
     "path": "/suffix/10",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "з",
     "path": "/suffix/11",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "з",
     "path": "/suffix/12",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "з",
     "path": "/suffix/13",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Команда",
     "path": "/suffix/14",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Банда",
     "path": "/suffix/15",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Ватага",
     "path": "/suffix/16",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Банда",
     "path": "/suffix/17",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Хлопці",
     "path": "/suffix/18",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Компанія",
     "path": "/suffix/19",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Синдикат",
     "path": "/suffix/20",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Спільники",
     "path": "/suffix/21",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Асоціація",
     "path": "/suffix/22",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Група",
     "path": "/suffix/23",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Дітлахи",
     "path": "/suffix/24",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Клуб",
     "path": "/suffix/25",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Загін",
     "path": "/suffix/26",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Клан",
     "path": "/suffix/27",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Товариство",
     "path": "/suffix/28",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Натовп",
     "path": "/suffix/29",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Люди",
     "path": "/suffix/30",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Клас",
     "path": "/suffix/31",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Фракція",
     "path": "/suffix/32",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Партія",
     "path": "/suffix/33",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Загін",
     "path": "/suffix/34",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Збори",
     "path": "/suffix/35",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Купка",
     "path": "/suffix/36",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Картель",
     "path": "/suffix/37",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Коло",
     "path": "/suffix/38",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Кліка",
     "path": "/suffix/39",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Збіговисько",
     "path": "/suffix/40",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Ліга",
     "path": "/suffix/41",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Зграя",
     "path": "/suffix/42",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Чота",
     "path": "/suffix/43",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Трест",
     "path": "/suffix/44",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Трупа",
     "path": "/suffix/45",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Легіон",
     "path": "/suffix/46",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Ковен",
     "path": "/suffix/47",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Друзі",
     "path": "/suffix/48",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Приятелі",
     "path": "/suffix/49",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Друзяки",
     "path": "/suffix/50",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Колектив",
     "path": "/suffix/51",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Люди",
     "path": "/suffix/52",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Команда",
     "path": "/suffix/53",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Оточення",
     "path": "/suffix/54",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Рада",
     "path": "/suffix/55",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Орден",
     "path": "/suffix/56",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Кільце",
     "path": "/suffix/57",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Бригада",
     "path": "/suffix/58",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "і Ко",
     "path": "/suffix/59",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Братство",
     "path": "/suffix/60",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Культ",
     "path": "/suffix/61",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Ополчення",
     "path": "/suffix/62",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Союз",
     "path": "/suffix/63",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Сім'я",
     "path": "/suffix/64",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Мафія",
     "path": "/suffix/65",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Банда",
     "path": "/suffix/66",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Сила",
     "path": "/suffix/67",
     "op": "replace"
   },
   {
-    "value": "",
+    "value": "Панки",
     "path": "/suffix/68",
     "op": "replace"
   }

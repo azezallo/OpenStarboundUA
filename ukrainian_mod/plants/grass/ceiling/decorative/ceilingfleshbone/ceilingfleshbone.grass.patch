@@ -1,21 +1,21 @@
 [
   {
-    "value": "Штрикни їх разок за мене!",
+    "value": "Гротескна кістка.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Не дайте їм втекти!",
+    "value": "Гротескна кістка.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Я був на волосину від смерті!",
+    "value": "Бонес!",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Варто бути обережнішим наступного разу. Це було близько.",
+    "value": "Заява. Підвішена кістка.",
     "path": "/glitchDescription",
     "op": "replace"
   }

@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A cloud dense enough to walk on."
+    "value": "Хмара, досить щільна, щоб по ній ходити."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Cloud"
+    "value": "Хмара"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Amazed. The density of this cloud could support my weight."
+    "value": "Вражений. Щільність цієї хмари могла витримати мою вагу."
   },
   {
     "op": "replace",
@@ -22,6 +22,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "This here cloud is made from some heavy fluff stuff."
+    "value": "Ця хмара зроблена з якогось важкого пуху."
   }
 ]

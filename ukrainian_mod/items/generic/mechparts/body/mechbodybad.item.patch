@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Дещо дивне тіло механіка. Його оригінальний дизайнер невідомий."
+    "value": "Дещо дивний корпус механізму. Його оригінальний дизайнер невідомий."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Beat Mech Body"
+    "value": "Корпус меха Beat"
   }
 ]

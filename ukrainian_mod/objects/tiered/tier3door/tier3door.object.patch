@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Міцні двері з титану."
+    "value": "Сильна титанова двер'я"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран ховається за дверима. Вискочити. Ssstab!"
+    "value": "Флоран ховаєтьссся за дверима. Виссскакує. Шссстрик!"
   },
   {
     "op": "replace",
@@ -32,16 +32,16 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Міцні двері з титану."
+    "value": "Сильна титанова двер'я"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Міцні двері з титану."
+    "value": "Надійна титанова двер'я"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Тепер це міцні на вигляд двері!"
+    "value": "Тепер це міцна на вигляд двері!"
   }
 ]

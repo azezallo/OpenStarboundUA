@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/identity/name",
-    "value": "Lili"
+    "value": "Лілі"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Hi, I'm Lili! I want to catch every single monster across the stars. Especially the chubby ones."
+    "value": "Привіт, я Лілі! Я хочу ловити кожного монстра у всіх зірках. Особливо пухнастих."
   }
 ]

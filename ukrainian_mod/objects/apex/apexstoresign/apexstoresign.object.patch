@@ -17,17 +17,17 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Там написано «магазин»."
+    "value": "Тут написано «магазин»."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssign для магазину."
+    "value": "Знак для магазину."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Втішили. Знак, що позначає магазин."
+    "value": "Утешений. Знак, що позначає магазин."
   },
   {
     "op": "replace",

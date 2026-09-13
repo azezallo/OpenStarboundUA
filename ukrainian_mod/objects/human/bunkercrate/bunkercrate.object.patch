@@ -17,17 +17,17 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Ящик з металу."
+    "value": "Ящик із металу."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Металева коробка."
+    "value": "Металева ссскриня."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Металевий ящик."
+    "value": "Нейтралітет. Металевий ящик."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це звичайний металевий ящик."
+    "value": "Простий собі металевий ящик."
   }
 ]

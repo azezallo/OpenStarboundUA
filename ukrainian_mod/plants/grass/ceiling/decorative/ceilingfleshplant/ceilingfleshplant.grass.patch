@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A globule of flesh."
+    "value": "Куля м'яса."
   },
   {
     "op": "replace",
@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Flesssh!"
+    "value": "Флессш!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Repulsion. A globule of flesh."
+    "value": "Відштовхування. Куля м'яса."
   }
 ]

@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Стрічка. Воно впало."
+    "value": "Стрічка. Вона впала."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ця мотузка більше не стоїть."
+    "value": "Ця мотузка більше не тримаєси."
   }
 ]

@@ -7,11 +7,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Легкий комір"
+    "value": "Світловий Комір"
   },
   {
     "op": "replace",
     "path": "/collar/displayName",
-    "value": "світло"
+    "value": "Світло"
   }
 ]

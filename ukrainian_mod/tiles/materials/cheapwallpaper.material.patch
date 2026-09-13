@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Cheap, tacky wallpaper."
+    "value": "Дешеві, липкі шпалери"
   },
   {
     "op": "replace",
@@ -12,16 +12,16 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Unsettled. This wall paper is overwhelmingly gaudy."
+    "value": "Неврегульований. Ці шпалери надзвичайно яскраві."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floran adore pretty wall paperss."
+    "value": "Флоран обожнює красиві шпалери"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Why'd anyone want to cover their walls with paper lookin' like this?"
+    "value": "Чому хтось хоче обклеїти свої стіни папером такого вигляду?"
   }
 ]

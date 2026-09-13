@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Золота Феугілка"
+    "value": "Золота Фейдібранч"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Its tubular body is entirely soft except for the long, keratinous pincers on its head."
+    "value": "Його трубчасте тіло повністю м'яке, за винятком довгих кератинових щипців на голові."
   }
 ]

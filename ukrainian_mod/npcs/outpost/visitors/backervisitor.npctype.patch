@@ -1,31 +1,31 @@
 [
   {
-    "value": "Гей, привіт! Я ^orange;<selfname>^white; - я фінансував будівництво аванпосту!",
+    "value": "Гей, привіт! Я ^orange;<selfname>^white; - я фінансував створення Форпоста!",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Гей! Мене звати ^orange;<selfname>^white; - не питай чому. Я матеріально допомагав у будівництві аванпосту!",
+    "value": "Гей! Мене звати ^orange;<selfname>^white; - не питай чому. Я матеріально допомагав у будівництві Форпоста!",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Привіт! Всі кличуть мене ^orange;<selfname>^white;. Я допомагав оплачувати будівництво аванпосту - сподіваюсь, тобі тут подобається!",
+    "value": "Привіт! Всі кличуть мене ^orange;<selfname>^white;. Я допомагав оплачувати будівництво Форпоста — сподіваюсь, тобі тут подобається!",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Мої друзі кличуть мене ^orange;<selfname>^white;. Я покровитель цього місця. Воно тобі подобається?",
+    "value": "Мої друзі кличуть мене ^orange;<selfname>^white;. Я покровитель цього місця. Тобі воно подобається?",
     "path": "/scriptConfig/dialog/converse/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Привіт! Тебе звати <entityname>? Я ^orange;<selfname>^white;! Я допомагав оплачувати будівництво аванпосту!",
+    "value": "Привіт! Тебе звати <entityname>? Я ^orange;<selfname>^white;! Я допоміг оплатити будівництво Форпосту!",
     "path": "/scriptConfig/dialog/converse/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Гей, я ^orange;<selfname>^white;, покровитель аванпосту. Сподіваюсь, тобі тут до душі!",
+    "value": "Гей, я ^orange;<selfname>^white;, покровитель Форпосту. Сподіваюся, тобі тут до душі!",
     "path": "/scriptConfig/dialog/converse/default/default/5",
     "op": "replace"
   }

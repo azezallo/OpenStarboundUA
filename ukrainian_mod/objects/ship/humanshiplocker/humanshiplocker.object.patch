@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Шафка. Зберігайте деякі речі, чому б і ні?"
+    "value": "Шафка. Зберігайте деякі речі, чому б не?"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Корабельний ящик"
+    "value": "Корабельна шафа"
   },
   {
     "op": "replace",
@@ -22,22 +22,22 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран шукає шафку для цінних речей."
+    "value": "Флоран ссшукaє шафку для цінних речей"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "схвильований. Цікаво, якісь цікаві предмети всередині?"
+    "value": "Захоплений. Цікаво, якісь цікаві предмети всередині?"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Корабельна шафа."
+    "value": "Корабельна шафа"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Можливо, в цій шафці є щось корисне."
+    "value": "Можливо, в цій шафці є щось корисне"
   },
   {
     "op": "replace",

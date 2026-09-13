@@ -5,12 +5,12 @@
     "op": "replace"
   },
   {
-    "value": "Химерна рослина",
+    "value": "Химерна рослина.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Дддивна рррослина. Флоран пппов'язаний із ними.",
+    "value": "Ссвірна рослина. Флорани пов'язані з нею.",
     "path": "/floranDescription",
     "op": "replace"
   },

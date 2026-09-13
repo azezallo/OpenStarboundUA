@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Приємний кущ."
+    "value": "Приємний кущ"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Приємний кущ."
+    "value": "Приємний кущ"
   },
   {
     "op": "replace",
@@ -17,6 +17,6 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Приємний кущ."
+    "value": "Заява. Приємний кущ"
   }
 ]

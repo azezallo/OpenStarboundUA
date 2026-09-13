@@ -2,691 +2,691 @@
   {
     "op": "replace",
     "path": "/sourceNames/0",
-    "value": "ACHCAUHTLI"
+    "value": "Ачкаутлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/1",
-    "value": "AHUILIZTLI"
+    "value": "Ауілістлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/2",
-    "value": "AMOXTLI"
+    "value": "Амоштлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/3",
-    "value": "ATL"
+    "value": "Атль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/4",
-    "value": "CENTEHUA"
+    "value": "Сентеуа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/5",
-    "value": "CHALCHIUHTICUE"
+    "value": "Чальчіутікуе"
   },
   {
     "op": "replace",
     "path": "/sourceNames/6",
-    "value": "CHALCHIUITL"
+    "value": "Чальчіуітль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/7",
-    "value": "CHICAHUA"
+    "value": "Чікауа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/8",
-    "value": "CHIMALLI"
+    "value": "Чімаллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/9",
-    "value": "CHIPAHUA"
+    "value": "Чіпауа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/10",
-    "value": "CIHUATON"
+    "value": "Сіуатон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/11",
-    "value": "CIPACTLI"
+    "value": "Сіпактлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/12",
-    "value": "CITLALI"
+    "value": "Сітлалі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/13",
-    "value": "CITLALMINA"
+    "value": "Сітлальміна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/14",
-    "value": "COATL"
+    "value": "Коатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/15",
-    "value": "COAXOCH"
+    "value": "Коашоч"
   },
   {
     "op": "replace",
     "path": "/sourceNames/16",
-    "value": "COSZCATL"
+    "value": "Коскатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/17",
-    "value": "COYOTL"
+    "value": "Койотль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/18",
-    "value": "COZAMALOTL"
+    "value": "Косамалотль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/19",
-    "value": "CUALLI"
+    "value": "Куаллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/20",
-    "value": "CUAUHTÉMOC"
+    "value": "Куаутемок"
   },
   {
     "op": "replace",
     "path": "/sourceNames/21",
-    "value": "CUETLACHTLI"
+    "value": "Куетлачтлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/22",
-    "value": "CUETZPALLI"
+    "value": "Куецпаллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/23",
-    "value": "CUICATL"
+    "value": "Куїкатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/24",
-    "value": "CUIXTLI"
+    "value": "Куїштлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/25",
-    "value": "EHECATL"
+    "value": "Ехекатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/26",
-    "value": "ELEUIA"
+    "value": "Елеуя"
   },
   {
     "op": "replace",
     "path": "/sourceNames/27",
-    "value": "ELOXOCHITL"
+    "value": "Елошочітль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/28",
-    "value": "ETALPALLI"
+    "value": "Еталпаллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/29",
-    "value": "EZTLI"
+    "value": "Естлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/30",
-    "value": "HUEMAC"
+    "value": "Уемак"
   },
   {
     "op": "replace",
     "path": "/sourceNames/31",
-    "value": "HUITZILIHUITL"
+    "value": "Уїциліуїтль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/32",
-    "value": "HUITZILLI"
+    "value": "Уїциллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/33",
-    "value": "ICCAUHTLI"
+    "value": "Іккаутлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/34",
-    "value": "ICHTACA"
+    "value": "Іштака"
   },
   {
     "op": "replace",
     "path": "/sourceNames/35",
-    "value": "ICNOYOTL"
+    "value": "Ікнойотль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/36",
-    "value": "IHUICATL"
+    "value": "Іуїкатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/37",
-    "value": "ILHICAMINA"
+    "value": "Ілікаміна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/38",
-    "value": "ILHUITL"
+    "value": "Ільуїтль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/39",
-    "value": "ITOTIA"
+    "value": "Ітотія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/40",
-    "value": "ITZEL"
+    "value": "Іцель"
   },
   {
     "op": "replace",
     "path": "/sourceNames/41",
-    "value": "ITZTLI"
+    "value": "Іцтлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/42",
-    "value": "IUITL"
+    "value": "Іуїтль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/43",
-    "value": "IXCATZIN"
+    "value": "Ішкацін"
   },
   {
     "op": "replace",
     "path": "/sourceNames/44",
-    "value": "IXCHEL"
+    "value": "Ішчель"
   },
   {
     "op": "replace",
     "path": "/sourceNames/45",
-    "value": "IXTLI"
+    "value": "Іштлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/46",
-    "value": "IZEL"
+    "value": "Ісель"
   },
   {
     "op": "replace",
     "path": "/sourceNames/47",
-    "value": "MAHUIZOH"
+    "value": "Мауїсо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/48",
-    "value": "MALINALXOCHITL"
+    "value": "Малінальшочітль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/49",
-    "value": "MANAUIA"
+    "value": "Манауя"
   },
   {
     "op": "replace",
     "path": "/sourceNames/50",
-    "value": "MATLAL"
+    "value": "Матлаль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/51",
-    "value": "MATLALIHUITL"
+    "value": "Матлаліуїтль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/52",
-    "value": "MAZATL"
+    "value": "Масатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/53",
-    "value": "MECATL"
+    "value": "Мекатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/54",
-    "value": "MEZTLI"
+    "value": "Местлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/55",
-    "value": "MICTLANTECUHTLI"
+    "value": "Міктлантекутлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/56",
-    "value": "MILINTICA"
+    "value": "Мілінтіка"
   },
   {
     "op": "replace",
     "path": "/sourceNames/57",
-    "value": "MIYAOAXOCHITL"
+    "value": "Міяоашочітль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/58",
-    "value": "MIZQUIXAUAL"
+    "value": "Міскішауаль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/59",
-    "value": "MOMOZTLI"
+    "value": "Момостлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/60",
-    "value": "MOYOLEHUANI"
+    "value": "Мойолеуані"
   },
   {
     "op": "replace",
     "path": "/sourceNames/61",
-    "value": "NAHUATL"
+    "value": "Науатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/62",
-    "value": "NAMACUIX"
+    "value": "Намакуїш"
   },
   {
     "op": "replace",
     "path": "/sourceNames/63",
-    "value": "NECAHUAL"
+    "value": "Некауаль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/64",
-    "value": "NECALLI"
+    "value": "Некаллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/65",
-    "value": "NECUAMETL"
+    "value": "Некуаметль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/66",
-    "value": "NELLI"
+    "value": "Неллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/67",
-    "value": "NENETL"
+    "value": "Ненетль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/68",
-    "value": "NEZAHUALCOYOTL"
+    "value": "Несауалькойотль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/69",
-    "value": "NEZAHUALPILLI"
+    "value": "Несауальпіллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/70",
-    "value": "NOCHEHUATL"
+    "value": "Ночеуатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/71",
-    "value": "NOCHTLI"
+    "value": "Ночтлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/72",
-    "value": "NOPALTZIN"
+    "value": "Нопальцин"
   },
   {
     "op": "replace",
     "path": "/sourceNames/73",
-    "value": "NOXOCHICOZTLI"
+    "value": "Ношочікостлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/74",
-    "value": "OHTLI"
+    "value": "Охтлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/75",
-    "value": "OLLIN"
+    "value": "Оллін"
   },
   {
     "op": "replace",
     "path": "/sourceNames/76",
-    "value": "PAPAN"
+    "value": "Папан"
   },
   {
     "op": "replace",
     "path": "/sourceNames/77",
-    "value": "PATLI"
+    "value": "Патлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/78",
-    "value": "QUAUHTLI"
+    "value": "Куаутлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/79",
-    "value": "QUETZALCOATL"
+    "value": "Кетцалькоатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/80",
-    "value": "QUETZALXOCHITL"
+    "value": "Кетцальшочітль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/81",
-    "value": "SACNITE"
+    "value": "Сакніте"
   },
   {
     "op": "replace",
     "path": "/sourceNames/82",
-    "value": "TEICUIH"
+    "value": "Тейкуї"
   },
   {
     "op": "replace",
     "path": "/sourceNames/83",
-    "value": "TENOCH"
+    "value": "Теноч"
   },
   {
     "op": "replace",
     "path": "/sourceNames/84",
-    "value": "TEOXIHUITL"
+    "value": "Теошіуїтль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/85",
-    "value": "TEPILTZIN"
+    "value": "Тепільцин"
   },
   {
     "op": "replace",
     "path": "/sourceNames/86",
-    "value": "TEPIN"
+    "value": "Тепін"
   },
   {
     "op": "replace",
     "path": "/sourceNames/87",
-    "value": "TEUICUI"
+    "value": "Теуїкуї"
   },
   {
     "op": "replace",
     "path": "/sourceNames/88",
-    "value": "TEYACAPAN"
+    "value": "Теякапан"
   },
   {
     "op": "replace",
     "path": "/sourceNames/89",
-    "value": "TEZCACOATL"
+    "value": "Тескакоатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/90",
-    "value": "TLACAELEL"
+    "value": "Тлакаелель"
   },
   {
     "op": "replace",
     "path": "/sourceNames/91",
-    "value": "TLACELEL"
+    "value": "Тласелель"
   },
   {
     "op": "replace",
     "path": "/sourceNames/92",
-    "value": "TLACHINOLLI"
+    "value": "Тлачіноллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/93",
-    "value": "TLACO"
+    "value": "Тлако"
   },
   {
     "op": "replace",
     "path": "/sourceNames/94",
-    "value": "TLACOEHUA"
+    "value": "Тлакоеуа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/95",
-    "value": "TLACOTL"
+    "value": "Тлакотль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/96",
-    "value": "TLALLI"
+    "value": "Тлаллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/97",
-    "value": "TLALOC"
+    "value": "Тлалок"
   },
   {
     "op": "replace",
     "path": "/sourceNames/98",
-    "value": "TLANEXTIC"
+    "value": "Тланештік"
   },
   {
     "op": "replace",
     "path": "/sourceNames/99",
-    "value": "TLANEXTLI"
+    "value": "Тланештлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/100",
-    "value": "TLAZOHTLALONI"
+    "value": "Тласотлалоні"
   },
   {
     "op": "replace",
     "path": "/sourceNames/101",
-    "value": "TLAZOHTZIN"
+    "value": "Тласоцін"
   },
   {
     "op": "replace",
     "path": "/sourceNames/102",
-    "value": "TLAZOPILLI"
+    "value": "Тласопіллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/103",
-    "value": "TLEXICTLI"
+    "value": "Тлешіктлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/104",
-    "value": "TLILPOTONQUI"
+    "value": "Тлільпотонкі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/105",
-    "value": "TOCHTLI"
+    "value": "Точтлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/106",
-    "value": "TOLTECATL"
+    "value": "Тольтекатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/107",
-    "value": "TONALNAN"
+    "value": "Тоналнан"
   },
   {
     "op": "replace",
     "path": "/sourceNames/108",
-    "value": "TONAUAC"
+    "value": "Тонауак"
   },
   {
     "op": "replace",
     "path": "/sourceNames/109",
-    "value": "TOTOTL"
+    "value": "Тототль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/110",
-    "value": "UEMAN"
+    "value": "Уеман"
   },
   {
     "op": "replace",
     "path": "/sourceNames/111",
-    "value": "UETZCAYOTL"
+    "value": "Уецкайотль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/112",
-    "value": "XICOHTENCATL"
+    "value": "Шікотенкатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/113",
-    "value": "XIHUITL"
+    "value": "Шівітль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/114",
-    "value": "XILOXOCH"
+    "value": "Шілошоч"
   },
   {
     "op": "replace",
     "path": "/sourceNames/115",
-    "value": "XIPIL"
+    "value": "Шіпіль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/116",
-    "value": "XIPILLI"
+    "value": "Шіпіллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/117",
-    "value": "XIUHCOATL"
+    "value": "Шіукоатль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/118",
-    "value": "XIUHTONAL"
+    "value": "Шіутональ"
   },
   {
     "op": "replace",
     "path": "/sourceNames/119",
-    "value": "XOCHICOTZIN"
+    "value": "Шочікоцин"
   },
   {
     "op": "replace",
     "path": "/sourceNames/120",
-    "value": "XOCHIPEPE"
+    "value": "Шочіпепе"
   },
   {
     "op": "replace",
     "path": "/sourceNames/121",
-    "value": "XOCHIPILLI"
+    "value": "Шочіпіллі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/122",
-    "value": "XOCHIQUETZAL"
+    "value": "Шочікетцаль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/123",
-    "value": "XOCHITL"
+    "value": "Шочітль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/124",
-    "value": "XOCHIYOTL"
+    "value": "Шочійотль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/125",
-    "value": "XOCO"
+    "value": "Шоко"
   },
   {
     "op": "replace",
     "path": "/sourceNames/126",
-    "value": "XOCOYOTL"
+    "value": "Шокойотль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/127",
-    "value": "YAOTL"
+    "value": "Яотль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/128",
-    "value": "YAYAUHQUI"
+    "value": "Яяукі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/129",
-    "value": "YOLIHUANI"
+    "value": "Йоліуані"
   },
   {
     "op": "replace",
     "path": "/sourceNames/130",
-    "value": "YOLOTLI"
+    "value": "Йолотлі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/131",
-    "value": "YOLOXOCHITL"
+    "value": "Йолошочітль"
   },
   {
     "op": "replace",
     "path": "/sourceNames/132",
-    "value": "YOLTZIN"
+    "value": "Йольцин"
   },
   {
     "op": "replace",
     "path": "/sourceNames/133",
-    "value": "YOLYAMANITZIN"
+    "value": "Йольяманіцин"
   },
   {
     "op": "replace",
     "path": "/sourceNames/134",
-    "value": "ZELTZIN"
+    "value": "Сельцин"
   },
   {
     "op": "replace",
     "path": "/sourceNames/135",
-    "value": "ZIPACTONAL"
+    "value": "Сіпактональ"
   },
   {
     "op": "replace",
     "path": "/sourceNames/136",
-    "value": "ZOLIN"
+    "value": "Солін"
   },
   {
     "op": "replace",
     "path": "/sourceNames/137",
-    "value": "ZYANYA"
+    "value": "Сьянья"
   }
 ]

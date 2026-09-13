@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Земного Захисту Амп"
+    "value": "Амп Земного Захисту"
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Підсилювач. Для посилення."
+    "value": "Підсилювач. Для підсилення."
   }
 ]

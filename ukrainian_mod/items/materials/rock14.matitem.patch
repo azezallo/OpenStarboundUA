@@ -12,16 +12,16 @@
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "зацікавлений. Mining this granite will only produce cobblestone."
+    "value": "Зацікавлений. Видобуток цього граніту дає лише камінь."
   },
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Флорану подобається гарний граніт."
+    "value": "Флорани сссмачують гарний граніт."
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Схоже на простий граніт."
+    "value": "Здається, що це простий граніт."
   }
 ]

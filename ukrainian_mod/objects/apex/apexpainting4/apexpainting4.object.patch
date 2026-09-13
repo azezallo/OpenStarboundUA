@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Не варто недооцінювати любов Apex до бананів."
+    "value": "Не варто недооцінювати любов апексів до бананів."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Стандартний випуск живопису"
+    "value": "Стандартна картина"
   },
   {
     "op": "replace",
@@ -17,31 +17,31 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Плід жовтого кольору."
+    "value": "Жовтий фрукт."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран ненавидить м’яку жовту їжу."
+    "value": "Флоран ненавидить ссслизьку жовту їжу."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спостережливий. Здається, це фрукт."
+    "value": "Спостережливість. Здається, це фрукт."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Банан... добре."
+    "value": "Банан... гаразд."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Хтось повинен дуже піклуватися про їхні жовті плоди."
+    "value": "Хтось, мабуть, дуже цінує ці жовті плоди."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Якийсь поп-арт?"
+    "value": "Якийсь поп-арт, файно?"
   }
 ]

@@ -7,6 +7,6 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "The bulb only stays lit while the Lumoth flaps its wings."
+    "value": "Лампочка світиться лише тоді, коли люмот махає крилами."
   }
 ]

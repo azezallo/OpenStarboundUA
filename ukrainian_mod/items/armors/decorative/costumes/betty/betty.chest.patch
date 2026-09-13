@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Обладунки оснащені шикарним шарфом."
+    "value": "Броня із шикарним шарфом"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Маскування нагрудника"
+    "value": "Нагрудник маскування"
   }
 ]

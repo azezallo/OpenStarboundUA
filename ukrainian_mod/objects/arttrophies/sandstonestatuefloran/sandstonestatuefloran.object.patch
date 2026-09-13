@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Статуя Флорана. Не заколе вас... мабуть."
+    "value": "Статуя Флорана. Не заколює вас... мабуть."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Статуя Флорана з пісковика"
+    "value": "Статуя Флорана з пісковика."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Greenfinger. Ssspecial Флоран. Смішно смішно."
+    "value": "Greenfinger. Ссспеціальний Флоран. Сссмелл смішно."
   },
   {
     "op": "replace",

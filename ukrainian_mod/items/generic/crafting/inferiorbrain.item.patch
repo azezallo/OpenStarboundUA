@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Відходи клітин мозку."
+    "value": "Відходи мозкових клітин"
   },
   {
     "op": "replace",

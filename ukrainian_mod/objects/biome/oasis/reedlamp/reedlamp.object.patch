@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Очеретяна лампа"
+    "value": "Солом’яна лампа"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Isss світиться очерет."
+    "value": "Isss світиться папороть"
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Це не просто очерет - це світильник! Як дуже розумно."
+    "value": "Це не просто очерет – це світильник! Як дуже розумно."
   },
   {
     "op": "replace",

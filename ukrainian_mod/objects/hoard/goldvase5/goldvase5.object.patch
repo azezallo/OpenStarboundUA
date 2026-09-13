@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Цей тонкий золотий глечик, можливо, був для особливих церемоній."
+    "value": "Цей тонкий золотий глечик, можливо, був в особливих церемоніях."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssimple sslim золотий глечик. Гарна."
+    "value": "Sssimple sslim золотий глечик. Приємний."
   },
   {
     "op": "replace",

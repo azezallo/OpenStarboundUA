@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Hey <entityname>! I was wondering if you were going to show up or not."
+    "value": "Привіт, <entityname>! Чи з'явишся ти чи ні?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "Did you sleep through your SAIL alarms? That is so you."
+    "value": "Чи спали ви, не чуючи сигналів вашого Б.Ш.І.? Так це саме ваше."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
-    "value": "You don't look half bad, for having just woken up!"
+    "value": "Ти виглядаєш непогано, що тільки прокинувся!"
   }
 ]

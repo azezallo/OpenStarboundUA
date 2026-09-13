@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стукіт цих наколенників буде переслідувати сни вашого ворога."
+    "value": "Бурлящий стук цих наголенників переслідуватиме сни вашого ворога"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Doom Lord's Greaves"
+    "value": "Наголенники лорда Руїни"
   }
 ]

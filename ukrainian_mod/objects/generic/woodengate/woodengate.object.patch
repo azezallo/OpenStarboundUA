@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Грубі дерев'яні ворота. Не дуже безпечно."
+    "value": "Грубі дерев'яні ворота. Не дуже безпечні."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Тонкі гілочки роблять двері."
+    "value": "Тонкі гілки створюють двері."
   },
   {
     "op": "replace",
@@ -32,16 +32,16 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Хороші ворота для садової огорожі."
+    "value": "Гарні ворота для садової огорожі."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Хвіртка з дерева."
+    "value": "Маленька дерев'яна ворота."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Дерев'яні плетені ворота."
+    "value": "Плетена дерев'яна ворота."
   }
 ]

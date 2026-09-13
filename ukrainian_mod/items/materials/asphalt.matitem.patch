@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Липкий асфальт, смердючий, як смола."
+    "value": "Липкий асфальт смердючий, як смола."
   },
   {
     "op": "replace",

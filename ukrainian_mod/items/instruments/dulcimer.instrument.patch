@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ковані цимбали. Виспівуйте мелодію."
+    "value": "Ковані цимбали. Воспевуйте мелодію."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Цимбал кутий"
+    "value": "Кований цимбал"
   }
 ]

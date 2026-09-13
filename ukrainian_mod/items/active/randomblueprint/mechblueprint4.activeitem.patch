@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "План вдосконаленої механічної частини."
+    "value": "План вдосконаленої механічної частини"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Advanced Mech Blueprint"
+    "value": "План вдосконаленого меха"
   }
 ]

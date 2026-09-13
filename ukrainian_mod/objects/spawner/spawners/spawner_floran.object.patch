@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Створіть власного флоранського селянина!"
+    "value": "Створіть власного Флоранського селянина!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Флоран Спаунер"
+    "value": "Флораний спавнер"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floran sssmon cocon-kin! так!"
+    "value": "Флораний сссуммон кокон-кин! Яааа!"
   },
   {
     "op": "replace",
@@ -37,6 +37,6 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Викликати деяких Флоран було б жахливою ідеєю."
+    "value": "Викликати деяких Флоранів було б жахливою ідеєю."
   }
 ]

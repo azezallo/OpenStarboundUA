@@ -162,22 +162,22 @@
   {
     "op": "replace",
     "path": "/attack/hylotl/default/2",
-    "value": "Давайте потанцюємо!"
+    "value": "Давай потанцюємо!"
   },
   {
     "op": "replace",
     "path": "/attack/hylotl/default/3",
-    "value": "Я чекав на вас, Миротворцю!"
+    "value": "Я чекав на тебе, Миротворцю!"
   },
   {
     "op": "replace",
     "path": "/attack/hylotl/default/4",
-    "value": "Ви пошкодуєте, що прийшли за ^orange;<gangName>^reset;!"
+    "value": "Ти пошкодуєш, що прийшов за ^orange;<gangName>^reset;!"
   },
   {
     "op": "replace",
     "path": "/attack/hylotl/default/5",
-    "value": "Ви зробили помилку, зв'язавшись з ^orange;<gangName>^reset;!"
+    "value": "Ти зробив помилку, зв'язавшись з ^orange;<gangName>^reset;!"
   },
   {
     "op": "replace",
@@ -187,7 +187,7 @@
   {
     "op": "replace",
     "path": "/attack/hylotl/default/7",
-    "value": "Чи зможеш ти вистояти проти могутності ^orange;<gangName>^reset;?"
+    "value": "Чи зможеш ти вистоять проти могутності ^orange;<gangName>^reset;?"
   },
   {
     "op": "replace",
@@ -417,7 +417,7 @@
   {
     "op": "replace",
     "path": "/resistArrest/floran/default/2",
-    "value": "Флорана не заарешшштують!"
+    "value": "Флорана не заарештуть!"
   },
   {
     "op": "replace",
@@ -457,27 +457,27 @@
   {
     "op": "replace",
     "path": "/resistArrest/hylotl/default/0",
-    "value": "Ти ніколи не візьмеш мене живим!"
+    "value": "Ви ніколи не візьмете мене живим!"
   },
   {
     "op": "replace",
     "path": "/resistArrest/hylotl/default/1",
-    "value": "О, то у нас ТАКА битва, га?"
+    "value": "О, то у нас ТАКА бійка, так?"
   },
   {
     "op": "replace",
     "path": "/resistArrest/hylotl/default/2",
-    "value": "Попереджаю, мене не так легко спіймати!"
+    "value": "Попереджаю, мене не так легко зловити!"
   },
   {
     "op": "replace",
     "path": "/resistArrest/hylotl/default/3",
-    "value": "Ти маєш бути швидшим, якщо хочеш мене зловити!"
+    "value": "Тобі треба бути швидшим, якщо хочеш мене зловити!"
   },
   {
     "op": "replace",
     "path": "/resistArrest/hylotl/default/4",
-    "value": "Ти ж не думаєш, що я полегшу тобі завдання, чи не так?"
+    "value": "Ти ж не думаєш, що я зроблю це легким для тебе, чи не так?"
   },
   {
     "op": "replace",
@@ -487,32 +487,32 @@
   {
     "op": "replace",
     "path": "/resistArrest/hylotl/default/6",
-    "value": "Ти спробуєш мене арештувати? Я сподівався на перестрілку!"
+    "value": "Ти збираєшся спробувати заарештувати мене? Я сподівався на перестрілку!"
   },
   {
     "op": "replace",
     "path": "/resistArrest/hylotl/default/7",
-    "value": "Не наставляй на мене цю штуку! Ти хоч знаєш, хто я?!"
+    "value": "Не направляй на мене цю штуку! Ти знаєш, хто я?!"
   },
   {
     "op": "replace",
     "path": "/resistArrest/hylotl/default/8",
-    "value": "Ти не спіймаєш мене - банда ^orange;<gangName>^reset; завжди на два кроки попереду!"
+    "value": "Тобі мене не зловити — ^orange;<gangName>^reset; завжди на два кроки попереду!"
   },
   {
     "op": "replace",
     "path": "/resistArrest/hylotl/default/9",
-    "value": "Ми - банда ^orange;<gangName>^reset;, нас так просто не зупинити!"
+    "value": "Ми — ^orange;<gangName>^reset; — нас не так легко зупинити!"
   },
   {
     "op": "replace",
     "path": "/resistArrest/hylotl/default/10",
-    "value": "Ти справді намагаєшся спіймати члена банди ^orange;<gangName>^reset;?"
+    "value": "Ти справді намагаєшся зловити члена ^orange;<gangName>^reset;?"
   },
   {
     "op": "replace",
     "path": "/resistArrest/hylotl/default/11",
-    "value": "Буде непросто зловити члена банди ^orange;<gangName>^reset;!"
+    "value": "Зловити члена ^orange;<gangName>^reset; буде непросто!"
   },
   {
     "op": "replace",
@@ -552,7 +552,7 @@
   {
     "op": "replace",
     "path": "/resistArrest/hylotl/floran/7",
-    "value": "Буде непросто зловити члена банди ^orange;<gangName>^reset;!"
+    "value": "Зловити члена ^orange;<gangName>^reset; буде непросто!"
   },
   {
     "op": "replace",
@@ -572,27 +572,27 @@
   {
     "op": "replace",
     "path": "/resistArrest/novakid/default/3",
-    "value": "Тобі треба бути швидшим, якщо хочеш зловити такого ґазду!"
+    "value": "Тобі треба бути швидшим, якщо хочеш мене зловити!"
   },
   {
     "op": "replace",
     "path": "/resistArrest/novakid/default/4",
-    "value": "Ти ж не думаєш, що я полегшу тобі завдання, чи не так?"
+    "value": "Ти ж не думаєш, що я зроблю це легким для тебе, чи не так?"
   },
   {
     "op": "replace",
     "path": "/resistArrest/novakid/default/5",
-    "value": "Ти намагаєшся мене заарештувати? Файний жарт!"
+    "value": "Ти намагаєшся мене заарештувати? Як мило!"
   },
   {
     "op": "replace",
     "path": "/resistArrest/novakid/default/6",
-    "value": "Ти спробуєш мене арештувати? Я сподівався на перестрілку!"
+    "value": "Ти збираєшся спробувати заарештувати мене? Я сподівався на перестрілку!"
   },
   {
     "op": "replace",
     "path": "/resistArrest/novakid/default/7",
-    "value": "Не наставляй на мене цю штуку! Ти хоч знаєш, хто я?!"
+    "value": "Не направляй на мене цю штуку! Ти знаєш, хто я?!"
   },
   {
     "op": "replace",
@@ -607,7 +607,7 @@
   {
     "op": "replace",
     "path": "/resistArrest/novakid/default/10",
-    "value": "Ти справді намагаєшся спіймати члена банди ^orange;<gangName>^reset;?"
+    "value": "Ти справді намагаєшся зловити члена ^orange;<gangName>^reset;?"
   },
   {
     "op": "replace",
@@ -1267,7 +1267,7 @@
   {
     "op": "replace",
     "path": "/completeArrest/novakid/default/0",
-    "value": "Я ще вернуся, от подивишся, йо!"
+    "value": "Я ще повернуся, от побачиш!"
   },
   {
     "op": "replace",
@@ -1292,7 +1292,7 @@
   {
     "op": "replace",
     "path": "/completeArrest/novakid/default/5",
-    "value": "Не гадай, що ^orange;<gangName>^reset; так просто се подарує!"
+    "value": "Не думай, що ^orange;<gangName>^reset; легко це пробачить!"
   },
   {
     "op": "replace",
@@ -1397,12 +1397,12 @@
   {
     "op": "replace",
     "path": "/reattack/hylotl/default/1",
-    "value": "Ти наважився повернутися, Миротворцю? Я не очікував такої безрозсудності від такої простої істоти!"
+    "value": "Ти повернувся, Миротворцю? Не думав, що тобі вистачить сміливості!"
   },
   {
     "op": "replace",
     "path": "/reattack/hylotl/default/2",
-    "value": "Ти знову прийшов, щоб зустріти свою поразку від рук могутньої ^orange;<gangName>^reset;?"
+    "value": "Повернувся за ще одним раундом проти ^orange;<gangName>^reset;?"
   },
   {
     "op": "replace",
@@ -1462,22 +1462,22 @@
   {
     "op": "replace",
     "path": "/killedTarget/avian/default/0",
-    "value": "Ось що буває, коли намагаєшся замкнути МЕНЕ! Клуекс свідчить!"
+    "value": "Ось що буває, коли намагаєшся замкнути МЕНЕ!"
   },
   {
     "op": "replace",
     "path": "/killedTarget/avian/default/1",
-    "value": "Ось що буває, коли зв'язуєшся з ^orange;<gangName>^reset;! Хай Клуекс благословить нас!"
+    "value": "Ось що буває, коли зв'язуєшся з ^orange;<gangName>^reset;!"
   },
   {
     "op": "replace",
     "path": "/killedTarget/avian/default/2",
-    "value": "Ха! ^orange;<gangName>^reset; назавжди! В ім'я Клуекса!"
+    "value": "Ха! ^orange;<gangName>^reset; назавжди!"
   },
   {
     "op": "replace",
     "path": "/killedTarget/avian/default/3",
-    "value": "Ще одна перемога для ^orange;<gangName>^reset;! Клуекс з нами!"
+    "value": "Ще одна перемога для ^orange;<gangName>^reset;!"
   },
   {
     "op": "replace",
@@ -1517,22 +1517,22 @@
   {
     "op": "replace",
     "path": "/killedTarget/hylotl/default/0",
-    "value": "Ось що ти отримуєш, намагаючись ув'язнити МЕНЕ! Хайлотли не здаються!"
+    "value": "Ось що буває, коли намагаєшся замкнути МЕНЕ!"
   },
   {
     "op": "replace",
     "path": "/killedTarget/hylotl/default/1",
-    "value": "Ось що ти отримуєш за те, що став на шляху ^orange;<gangName>^reset;! Неосвіченість карається."
+    "value": "Ось що буває, коли зв'язуєшся з ^orange;<gangName>^reset;!"
   },
   {
     "op": "replace",
     "path": "/killedTarget/hylotl/default/2",
-    "value": "Ха! ^orange;<gangName>^reset; житиме вічно у віршах!"
+    "value": "Ха! ^orange;<gangName>^reset; назавжди!"
   },
   {
     "op": "replace",
     "path": "/killedTarget/hylotl/default/3",
-    "value": "Ще одна граціозна перемога для ^orange;<gangName>^reset;! Хайлотли тріумфують."
+    "value": "Ще одна перемога для ^orange;<gangName>^reset;!"
   },
   {
     "op": "replace",
@@ -1547,12 +1547,12 @@
   {
     "op": "replace",
     "path": "/killedTarget/novakid/default/2",
-    "value": "Йо! ^orange;<gangName>^reset; назавжди!"
+    "value": "Ха! ^orange;<gangName>^reset; назавжди!"
   },
   {
     "op": "replace",
     "path": "/killedTarget/novakid/default/3",
-    "value": "Ще одна файна перемога для ^orange;<gangName>^reset;!"
+    "value": "Ще одна перемога для ^orange;<gangName>^reset;!"
   },
   {
     "op": "replace",
@@ -1577,7 +1577,7 @@
   {
     "op": "replace",
     "path": "/lostTarget/apex/default/0",
-    "value": "Гей, вони здалися? Ха-ха, ніхто ніколи не зупинить МЕНЕ! Навіть Міннаук!"
+    "value": "Гей, вони здалися? Ха-ха, ніхто ніколи не зупинить МЕНЕ!"
   },
   {
     "op": "replace",
@@ -1587,7 +1587,7 @@
   {
     "op": "replace",
     "path": "/lostTarget/apex/default/2",
-    "value": "Не можу їх знайти... Мабуть, втекли зі страху перед гнівом Великого Мавпа!"
+    "value": "Не можу їх знайти... Мабуть, втекли зі страху!"
   },
   {
     "op": "replace",
@@ -1597,7 +1597,7 @@
   {
     "op": "replace",
     "path": "/lostTarget/avian/default/0",
-    "value": "Гей, вони здалися? Ха-ха, ніхто ніколи не зупинить МЕНЕ! Клуекс захищає!"
+    "value": "Гей, вони здалися? Ха-ха, ніхто ніколи не зупинить МЕНЕ!"
   },
   {
     "op": "replace",
@@ -1607,7 +1607,7 @@
   {
     "op": "replace",
     "path": "/lostTarget/avian/default/2",
-    "value": "Не можу їх знайти... Мабуть, втекли зі страху перед могутністю Клуекса!"
+    "value": "Не можу їх знайти... Мабуть, втекли зі страху!"
   },
   {
     "op": "replace",
@@ -1647,22 +1647,22 @@
   {
     "op": "replace",
     "path": "/lostTarget/hylotl/default/0",
-    "value": "О, вони здалися? Ха-ха, ніхто ніколи не зупинить МЕНЕ! Хайлотли непереможні."
+    "value": "Гей, вони здалися? Ха-ха, ніхто ніколи не зупинить МЕНЕ!"
   },
   {
     "op": "replace",
     "path": "/lostTarget/hylotl/default/1",
-    "value": "Схоже, Миротворець злякався! Як я і передбачав."
+    "value": "Схоже, Миротворець злякався! Так я і думав."
   },
   {
     "op": "replace",
     "path": "/lostTarget/hylotl/default/2",
-    "value": "Я не можу їх знайти... Вони, мабуть, втекли у жаху перед моєю величчю!"
+    "value": "Не можу їх знайти... Мабуть, втекли зі страху!"
   },
   {
     "op": "replace",
     "path": "/lostTarget/hylotl/default/3",
-    "value": "Я припускаю, що вони втекли. Я їх не звинувачую - вони Ж зв'язалися з ^orange;<gangName>^reset;!"
+    "value": "Гадаю, вони втекли. Я їх не звинувачую - вони Ж зв'язалися з ^orange;<gangName>^reset;!"
   },
   {
     "op": "replace",
@@ -1687,6 +1687,6 @@
   {
     "op": "replace",
     "path": "/lostTarget/novakid/default/4",
-    "value": "Ось що буває, коли зв'язуєшся з ^orange;<gangName>^reset;, файно!"
+    "value": "Ось що буває, коли зв'язуєшся з ^orange;<gangName>^reset;, файно отримав!"
   }
 ]

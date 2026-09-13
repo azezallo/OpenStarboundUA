@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Параноїк. Хто знищив цю таблицю?"
+    "value": "Параноїка. Хто знищив цю таблицю?"
   },
   {
     "op": "replace",

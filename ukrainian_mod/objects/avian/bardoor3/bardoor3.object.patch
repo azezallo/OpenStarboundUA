@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Порткуліс великий"
+    "value": "Великий порткул"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Міцні металеві двері."
+    "value": "Сильна металеві двері"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Порткулліс, це як повернення в минуле! Дуже автентичний."
+    "value": "Порткул, це як повернення в минуле! Дуже автентичний."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це дуже міцні на вигляд двері."
+    "value": "Це виглядає надзвичайно міцною дверою."
   }
 ]

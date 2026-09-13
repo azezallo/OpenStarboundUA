@@ -5,12 +5,12 @@
     "op": "replace"
   },
   {
-    "value": "Гострі шипи",
+    "value": "Гострі шипи.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Госсстрі, колючі шипи.",
+    "value": "Госстри, колючі шипи.",
     "path": "/floranDescription",
     "op": "replace"
   },

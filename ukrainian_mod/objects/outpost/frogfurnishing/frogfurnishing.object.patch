@@ -7,27 +7,27 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Frögg Furnishing"
+    "value": "Frögg меблі"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Це один із тих торговців жабами. Цей торгує меблями."
+    "value": "Це один із тих торговців-жаб. Цей продає меблі."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Хто цей цікавий купець? Його меблі прекрасні."
+    "value": "Хто цей цікавий торговець? Його меблі прекрасні."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран злегка наляканий мовчазною жабою."
+    "value": "Флоран трішки боїтьссся мовчазної жаби."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вражений. Ця жаба має кілька зручних на вигляд виробів."
+    "value": "Враження. У цієї жаби вельми зручні на вигляд товари."
   },
   {
     "op": "replace",
@@ -42,7 +42,7 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Не побачиш тут багато торговців жабами!"
+    "value": "Нечасто в цих краях здибаєш жаб'ячих торговців, файна дивина!"
   },
   {
     "op": "replace",
@@ -52,6 +52,6 @@
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "Тематичні меблі, кожен день інший комплект!"
+    "value": "Тематичні меблі, щодня новий набір!"
   }
 ]

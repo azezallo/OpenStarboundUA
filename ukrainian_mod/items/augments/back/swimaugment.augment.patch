@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Підключається модуль EPP, який підвищує вашу мобільність під час плавання."
+    "value": "Модуль EPP, що підвищує вашу мобільність під час плавання."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Плавання Augment"
+    "value": "Підсилення плавання"
   },
   {
     "op": "replace",

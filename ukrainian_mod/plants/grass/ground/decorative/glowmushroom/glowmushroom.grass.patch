@@ -1,6 +1,6 @@
 [
   {
-    "value": "Світляний гриб. Можливо, токсичний.",
+    "value": "Світляний гриб. Можливо, токсичний",
     "path": "/description",
     "op": "replace"
   },
@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Мммилий гриб.",
+    "value": "Приємний гриб",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Світляний гриб.",
+    "value": "Ствердження. Світляний гриб",
     "path": "/glitchDescription",
     "op": "replace"
   }

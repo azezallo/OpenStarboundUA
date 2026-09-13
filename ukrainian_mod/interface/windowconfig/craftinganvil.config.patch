@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": "  КОВАДЛО"
+    "value": "КОВАДЛО"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": "  Робіть гострі речі."
+    "value": "Робіть гострі речі."
   },
   {
     "op": "replace",

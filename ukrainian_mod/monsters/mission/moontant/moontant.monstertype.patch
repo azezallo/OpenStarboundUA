@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Moontant"
+    "value": "Мунтант"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Disturbingly, this Erchius creature might have been a person once..."
+    "value": "Моторошно думати, що ця ерхієва істота колись могла бути людиною..."
   }
 ]

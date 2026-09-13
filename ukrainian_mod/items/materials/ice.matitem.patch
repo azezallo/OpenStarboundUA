@@ -2,26 +2,26 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "лід"
+    "value": "Лід"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Твердий лід, поколювання на дотик."
+    "value": "Твердий лід, що викликає поколювання при дотику."
   },
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Спостережливий. It appears this ice is naturally frozen."
+    "value": "Спостережливий. Здається, цей лід природно замерзлий."
   },
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Морозний твердий лід."
+    "value": "Морозний твердий лід"
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Бунча лід."
+    "value": "Багато льоду"
   }
 ]

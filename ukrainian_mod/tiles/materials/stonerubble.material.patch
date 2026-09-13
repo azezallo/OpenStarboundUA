@@ -2,26 +2,26 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Stone rubble which appears to be debris from an old structure."
+    "value": "Кам’яний щебінь, що виглядає як уламки старої споруди."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Камінь щебінь"
+    "value": "Кам’яні уламки"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спостережливий. Схоже, уламки цього уламку свого часу були частиною споруди."
+    "value": "Спостережливий. Схоже, що уламки цього щебеня колись були частиною споруди."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssstone rubble made from old buildingss."
+    "value": "Кам’яні уламки зі старих будівель"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Buncha crushed up rocks."
+    "value": "Багато розбитих каменів"
   }
 ]

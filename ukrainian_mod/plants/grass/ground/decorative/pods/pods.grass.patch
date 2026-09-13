@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A small pod."
+    "value": "Маленький стручок"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Small pod."
+    "value": "Малий стручок"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Сссмаленький стручок."
+    "value": "Сссмаленький стручок"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. A small flower pod."
+    "value": "Утвердження. Маленький квітковий стручок"
   }
 ]

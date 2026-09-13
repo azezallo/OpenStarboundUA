@@ -1,26 +1,26 @@
 [
   {
-    "value": "Бережжжи сссебе. Це ссстрашний світ.",
+    "value": "Грубий, неочищений камінь.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Знннадоблятьссся кіссстки - флоран зззавжди тут...",
+    "value": "Грубий камінь",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Йди ззза флораном, крамниця тут!",
+    "value": "Спостережливий. Це звичайні грубі камені.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Флоран - професссійний кіссстяний майссстер. Сссюди.",
+    "value": "Жорстка, груба кам'яність.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Сссюди, за флораном...",
+    "value": "Просто купа каменів.",
     "path": "/novakidDescription",
     "op": "replace"
   }

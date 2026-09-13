@@ -1,16 +1,16 @@
 [
   {
-    "value": "Майлс",
+    "value": "Майлз",
     "path": "/identity/name",
     "op": "replace"
   },
   {
-    "value": "Флоран поважає тільки сссильних.",
+    "value": "Тільки сссильні отримують повагу Флоранів.",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Усі флорани повинні полюватиссс і шукатиссс ссславу. Ти тут за цим?",
+    "value": "Усі флорани повинні полювати і шукати сславу. Це саме те, що ви тут робите?",
     "path": "/scriptConfig/dialog/converse/floran/default/0",
     "op": "replace"
   },

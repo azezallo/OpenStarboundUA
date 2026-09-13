@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілий череп Гілотля."
+    "value": "Скам'яний череп Хайлотла"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Череп Гілотла"
+    "value": "Череп Хайлотла"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/shortdescription",
-    "value": "Викопні гілотлі"
+    "value": "Фосил Хайлотла"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/description",
-    "value": "Цей скам’янілий скелет Гілотля має ранні ознаки адаптації до водного життя."
+    "value": "Цей скам'янілий скелет Хайлотла показує ранні ознаки адаптації до водного життя."
   }
 ]

@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Це колекція частин корабля."
+    "value": "Це купа деталей корабля."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Верфне сміття"
+    "value": "Брухт із верфі"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Виглядає як колекція частин корабля."
+    "value": "Схоже на купу деталей корабля."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Це купа частин корабля."
+    "value": "Це купа деталей корабля."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Частини корабля."
+    "value": "Чассстини корабля."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "зацікавлений. Купа частин корабля."
+    "value": "Зацікавленість. Купа деталей корабля."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Це купа частин корабля. Деякі з цих частин виглядають пошкодженими в битві."
+    "value": "Це купа деталей корабля. Деякі з них виглядають пошкодженими в бою."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Це колекція частин корабля."
+    "value": "Це купа деталей корабля."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Купа врятованих частин корабля."
+    "value": "Ціла купа зібраного брухту з корабля, файно є."
   }
 ]

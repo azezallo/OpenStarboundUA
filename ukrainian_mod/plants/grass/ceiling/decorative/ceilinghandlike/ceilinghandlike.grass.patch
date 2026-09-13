@@ -7,16 +7,16 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "A root that looks like a hand."
+    "value": "Корінь, схожий на руку."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Grabby root."
+    "value": "Захоплюючий корінь."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. A root that resembles a hand."
+    "value": "Утвердження. Корінь, схожий на руку."
   }
 ]

@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "Ви повинні бути так само готові, як і я, досліджувати невідоме!"
+    "value": "Ти повинен бути таким же готовим, як я, досліджувати невідоме!"
   },
   {
     "op": "replace",

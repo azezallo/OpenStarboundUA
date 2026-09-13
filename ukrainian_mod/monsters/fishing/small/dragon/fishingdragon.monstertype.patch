@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Seadragon"
+    "value": "Морський дракон"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "This delicate creature uses the tiny, winglike fins on its back to ride gentle currents in the flowing magma."
+    "value": "Цей ніжний організм використовує дрібні, крилаподібні плавники на спині, щоб ковзати по м'яким течіям в поточному магмі."
   }
 ]

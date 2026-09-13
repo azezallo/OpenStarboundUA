@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Пронизай небо чи хоч землю."
+    "value": "Пронизай небеса, або принаймні землю."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Дриль Спис"
+    "value": "Спис свердла"
   }
 ]

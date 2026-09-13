@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стіл з пісковика. Не проливайте на нього воду."
+    "value": "Стіл з пісковика. Не пролийте на нього воду"
   },
   {
     "op": "replace",
@@ -12,36 +12,36 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Стіл з пісковика. Моя їжа на смак піщана."
+    "value": "Стіл з пісковика. Моя їжа має смак піщаний"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Стіл абразивний."
+    "value": "Стіл абразивний"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floran ssslice тут."
+    "value": "Флоран сссліц тут"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Стіл з пісковика."
+    "value": "Нейтральний. Стіл з пісковика"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Грубий, грубий стіл."
+    "value": "Грубий стіл"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Стіл з грубого пісковику."
+    "value": "Стіл з грубого пісковику"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Стіл з пісковика. У вас пісок у їжу!"
+    "value": "Стіл з пісковика. У вас пісок у їжі"
   }
 ]

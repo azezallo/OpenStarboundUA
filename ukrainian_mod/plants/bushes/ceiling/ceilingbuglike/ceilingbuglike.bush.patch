@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A weird protrusion."
+    "value": "Дивний виступ."
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Creepy ssshape."
+    "value": "Страшна ссшапка."
   },
   {
     "op": "replace",

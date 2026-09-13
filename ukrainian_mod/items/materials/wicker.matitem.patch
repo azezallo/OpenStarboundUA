@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Плетені"
+    "value": "Плетене"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Грубо плетений плетений матеріал."
+    "value": "Грубо сплетена лоза"
   },
   {
     "op": "replace",
@@ -17,11 +17,11 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Міцна лоза робить стіну."
+    "value": "Міцна лоза створює стіну."
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Я схожий на лозу."
+    "value": "Я схожу на лозу."
   }
 ]

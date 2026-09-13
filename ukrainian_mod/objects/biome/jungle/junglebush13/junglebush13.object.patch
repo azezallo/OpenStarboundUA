@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "листяна рослина"
+    "value": "Листяна рослина"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Листяні рослини."
+    "value": "Листяна рослина."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це рослина з великими листками."
+    "value": "Ця рослина з великими листками."
   }
 ]

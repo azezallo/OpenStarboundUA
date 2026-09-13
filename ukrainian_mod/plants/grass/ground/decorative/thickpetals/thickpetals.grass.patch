@@ -5,12 +5,12 @@
     "op": "replace"
   },
   {
-    "value": "Прекрасна квітка",
+    "value": "Прекрасна квітка.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Флорану це здається ссссимпатичним.",
+    "value": "Сссимпатично.",
     "path": "/floranDescription",
     "op": "replace"
   },

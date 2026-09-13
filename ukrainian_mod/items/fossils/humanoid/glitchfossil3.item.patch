@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Пошкоджена корозією пара ніжок Glitch."
+    "value": "Пара глітчових ніг, пошкоджена корозією."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Глюк ноги"
+    "value": "Глітчові ноги"
   }
 ]

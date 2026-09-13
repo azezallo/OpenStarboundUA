@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Квітка нагадує флорану про дім.",
+    "value": "Квітка нагадує Флорану про дім.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердно. Квітка росте в джунглях.",
+    "value": "Ствердження. Квітка росте в джунглях.",
     "path": "/glitchDescription",
     "op": "replace"
   }

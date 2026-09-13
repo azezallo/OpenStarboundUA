@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран подумав про гру під назвою Psychotic Rodeo Melee, захопився. не є."
+    "value": "Флорани думали, що гра називається Psychotic Rodeo Melee і були в захваті. Але це не так."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Психоделічний родео ближнього бою? Це зовсім не схоже на справжнє родео..."
+    "value": "Psychedelic Rodeo Melee? Це зовсім не схоже на справжнє родео..."
   }
 ]

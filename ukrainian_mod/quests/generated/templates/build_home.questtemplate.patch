@@ -10,22 +10,22 @@
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран думає, що нам не завадить трохи свіжої крові. Флоран має план!",
+    "value": "^cyan;Флоран думає, що нам не завадить трохи сссвіжої крові тут. Флоран має план!",
     "path": "/scriptConfig/generatedText/goalText/floran/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран хоче компанію. Давай зробимо це!",
+    "value": "^cyan;Флоран хоче більссше компанії. Зробімо це!",
     "path": "/scriptConfig/generatedText/goalText/floran/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Самотньо. Я вирішив, що мені піде на користь новий друг — і ти саме той, хто може мені допомогти!",
+    "value": "^cyan;Самотність. Я вирішив, що мені піде на користь новий друг — і ти саме той, хто може мені допомогти!",
     "path": "/scriptConfig/generatedText/goalText/glitch/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Вдумливо. Я дійшов висновку, що новий друг зробить мене щасливішим. Чи міг би ти допомогти мені залучити одного?",
+    "value": "^cyan;Задумливість. Я дійшов висновку, що новий друг зробить мене щасливішим. Чи міг би ти допомогти мені привабити його?",
     "path": "/scriptConfig/generatedText/goalText/glitch/1",
     "op": "replace"
   },
@@ -40,22 +40,22 @@
     "op": "replace"
   },
   {
-    "value": "Нарешті, ^green;зроби укриття та прикрась його ^orange;<furnitureSet>^white;! Переконайся, що ти також ^green;розмістив ^orange;колонізатор^white;. Флоран сподівається, що новому другу сподобається полювання...",
+    "value": "Нарешшшті, ^green;зроби укриття та прикрасссь його ^orange;<furnitureSet>^white;! Переконайссся, що ти також ^green;розміссстив ^orange;колонізатор^white;. Флоран сссодівається, що новому другу сссодобається полювання...",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Тепер ^green;побудуй дім і постав туди ^orange;<furnitureSet>^white;, ^green;а також ^orange;колонізатор^white;. Флоран сподівається, що новому другу сподобаються подарунки...",
+    "value": "Тепер ^green;побудуй дім і поссстав туди ^orange;<furnitureSet>^white;, ^green;а також ^orange;колонізатор^white;. Флоран сссодівається, що новому другу сссодобаються подарунки...",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Збуджено. Усе, що тобі потрібно зробити зараз, це ^green;побудувати дім^white; з використанням ^orange;<furnitureSet>^white; та ^orange;колонізатора^white;! Я знайду нового друга в найкоротші терміни!",
+    "value": "Збудження. Усе, що тобі потрібно зробити зараз, це ^green;побудувати дім^white; з використанням ^orange;<furnitureSet>^white; та ^orange;колонізатора^white;! Я знайду нового друга в найкоротші терміни!",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Ентузіастично. Нарешті, ^green;побудуй новий дім^white; та ^green;обстав його^white; ^orange;<furnitureSet>^white;. Не забудь розмістити ^orange;колонізатор!^orange;",
+    "value": "Ентузіазм. Нарешті, ^green;побудуй новий дім^white; та ^green;обстав його^white; ^orange;<furnitureSet>^white;. Не забудь розмістити ^orange;колонізатор!^orange;",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
@@ -70,22 +70,22 @@
     "op": "replace"
   },
   {
-    "value": "Спрацювало! У Флорана з'явився новий блискучий друг. Флоран цінує твою допомогу.",
+    "value": "Ссспрацювало! У Флорана з'явивссся новий блиссскучий друг. Флоран цінує твою допомогу.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Ти допоміг Флорану знайти нового друга! Флоран дуже вдячний.",
+    "value": "Ти допоміг Флорану знайти нового друга! Флоран дужжже вдячний.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Схвильовано. У мене з'явився новий друг для знайомства — я впевнений, він буде чудовим компаньйоном! Дякую, що зробив це можливим!",
+    "value": "Захоплення. У мене з'явився новий друг для знайомства — я впевнений, він буде чудовим компаньйоном! Дякую, що зробив це можливим!",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Мене завжди дивує, як швидко заселяються нові домівки — гадаю, на них великий попит! Дякую за твою допомогу.",
+    "value": "Радість. Мене завжди дивує, як швидко заселяються нові домівки — гадаю, на них великий попит! Дякую за твою допомогу.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
@@ -95,7 +95,7 @@
     "op": "replace"
   },
   {
-    "value": "Успіх! У мене нарешті з'явився новий сусід! Тут іноді буває самотньо, добре мати з ким поговорити.",
+    "value": "Успіх! У мене нарешті з'явився новий сусід! Тут іноді буває самотньо, приємно мати з ким поговорити.",
     "path": "/scriptConfig/generatedText/completionText/default/default/1",
     "op": "replace"
   },
@@ -130,7 +130,7 @@
     "op": "replace"
   },
   {
-    "value": "будь-яка двері",
+    "value": "будь-які двері",
     "path": "/scriptConfig/doorText",
     "op": "replace"
   }

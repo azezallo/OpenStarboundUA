@@ -25,7 +25,7 @@
     "op": "replace"
   },
   {
-    "value": "Поговори з ^orange;Елліоттом^reset; на ^orange;Аванпості^reset;",
+    "value": "Поговори з ^orange;Елліоттом^reset; на ^orange;Форпості^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

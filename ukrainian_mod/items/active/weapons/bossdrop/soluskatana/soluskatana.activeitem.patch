@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Наповнений солярієм меч, викуваний Асрою Нокс."
+    "value": "Меч, інфузований солярієм, виготовлений Астра Нокс."
   },
   {
     "op": "replace",
@@ -12,6 +12,6 @@
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
-    "value": "Solus Katana ^yellow;^reset;"
+    "value": "Солус Катана ^yellow;^reset;"
   }
 ]

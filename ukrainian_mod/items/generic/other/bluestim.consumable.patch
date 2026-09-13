@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Набір стимуляторів, наповнений синьою рідиною, прискорить ваш стрибок!"
+    "value": "Набір стимпаків з синьою рідиною, який підвищує ваш стрибок!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Blue Stim Pack"
+    "value": "Синій стимпак"
   }
 ]

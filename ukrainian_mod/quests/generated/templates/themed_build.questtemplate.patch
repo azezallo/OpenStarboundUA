@@ -10,22 +10,22 @@
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран хоче нових друзів! Ти можеш допомогти?",
+    "value": "^cyan;Флоран хоче сссправжнього нового друга! Ти можеш допомогти?",
     "path": "/scriptConfig/generatedText/goalText/floran/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран думає, що нам потрібен новий сусід! У Флорана є план...",
+    "value": "^cyan;Флоран думає, що нам потрібен новий ссссусід! У Флорана є план...",
     "path": "/scriptConfig/generatedText/goalText/floran/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Бадьоро. У мене є план, як завести тут нових друзів. Бажаєш допомогти?",
+    "value": "^cyan;Бадьорість. У мене є план, як завести тут нових друзів. Бажаєш допомогти?",
     "path": "/scriptConfig/generatedText/goalText/glitch/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Привітно. Тобі не здається, що нам тут не завадили б нові сусіди? У мене є план...",
+    "value": "^cyan;Привітність. Тобі не здається, що нам тут не завадили б нові сусіди? У мене є план...",
     "path": "/scriptConfig/generatedText/goalText/glitch/1",
     "op": "replace"
   },
@@ -40,22 +40,22 @@
     "op": "replace"
   },
   {
-    "value": "Флорану потрібно, щоб ти ^green;зробив дім^white;, і ^green;розмістив ^orange;3^green; <tag>^green; всередині^white;. Не забудь ^green;додати ^orange;Колонізатор^green; та ^orange;освітлення!",
+    "value": "Флорану сссправді потрібно, щоб ти ^green;зробив дім^white;, і ^green;розмістив ^orange;3^green; <tag>^green; всередині^white;. Не забудь ^green;додати ^orange;Колонізатор^green; та ^orange;сссвітло!",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран хоче, щоб ти ^green;збудував дім^white;, і ^green;розмістив ^orange;3^green; <tag>^green; всередині.^white; Не забудь ^green;додати ^orange;Колонізатор^green; та ^orange;освітлення!",
+    "value": "Флоран сссправді хоче, щоб ти ^green;збудував дім^white;, і ^green;розмістив ^orange;3^green; <tag>^green; всередині.^white; Не забудь ^green;додати ^orange;Колонізатор^green; та ^orange;сссвітло!",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Уважно. Чи міг би ти ^green;побудувати дім^white; та ^green;розмістити всередині ^orange;3^green; <tag>^white;? Не забудь ^green;додати ^orange;колонізатор^green; та ^orange;освітлення!",
+    "value": "Увага. Чи міг би ти ^green;побудувати дім^white; та ^green;розмістити всередині ^orange;3^green; <tag>^white;? Не забудь ^green;додати ^orange;колонізатор^green; та ^orange;освітлення!",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Збуджено. Можеш ^green;побудувати дім^white; та ^green;розмістити всередині ^orange;3^green; <tag>^white;? Не забудь ^green;додати ^orange;колонізатор^green; та ^orange;освітлення!",
+    "value": "Захоплення. Можеш ^green;побудувати дім^white; та ^green;розмістити всередині ^orange;3^green; <tag>^white;? Не забудь ^green;додати ^orange;колонізатор^green; та ^orange;освітлення!",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
@@ -75,17 +75,17 @@
     "op": "replace"
   },
   {
-    "value": "Ти зробив дім! Флоран вражений твоїми навичками.",
+    "value": "Ти зробив дім! Флоран ссстрашенно вражений твоїми навичками.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Радісно. У нас новий сусід! Впевнений, він тут приживеться. Дякую за твою допомогу.",
+    "value": "Радість. У нас новий сусід! Впевнений, він тут приживеться. Дякую за твою допомогу.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Вражено. Твої дизайнерські навички кращі, ніж я очікував, який чудовий дім. Дякую за твої старання!",
+    "value": "Враження. Твої дизайнерські навички кращі, ніж я очікував, який чудовий дім. Дякую за твої старання!",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
@@ -130,7 +130,7 @@
     "op": "replace"
   },
   {
-    "value": "Будь-яка двері",
+    "value": "Будь-які двері",
     "path": "/scriptConfig/objectives/4/text",
     "op": "replace"
   }

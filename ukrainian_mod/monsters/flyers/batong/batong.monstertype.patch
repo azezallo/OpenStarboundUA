@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Batong"
+    "value": "Батонг"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "By tasting the particles in the air it can sense what's ahead of it."
+    "value": "Смакуючи частинки в повітрі, він може відчути, що попереду."
   }
 ]

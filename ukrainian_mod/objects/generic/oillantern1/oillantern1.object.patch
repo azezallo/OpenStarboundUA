@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Гарний масляний ліхтар."
+    "value": "Гарний олійний ліхтар."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Масляний ліхтар"
+    "value": "Олійний ліхтар"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Ліхтар, що використовує масло як паливо."
+    "value": "Ліхтар, що спалює олію як паливо."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Паливо підтримує вогонь."
+    "value": "Паливо підтримує полум'я."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Полум'я поїдає рідину всередині."
+    "value": "Полум'я поїдає рідину вссередині."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Зміст. Ліхтар містить масло."
+    "value": "Задоволення. У ліхтарі є олія."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Гарний масляний ліхтар."
+    "value": "Прекрасний олійний ліхтар."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Паливо в цьому ліхтарі не горіло б під водою."
+    "value": "Паливо в цьому ліхтарі не горіло б на дні моря."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Гарний масляний ліхтар."
+    "value": "Гарний олійний ліхтар."
   }
 ]

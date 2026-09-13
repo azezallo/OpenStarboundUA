@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Як ви думаєте, скільки років усім цим речам?"
+    "value": "Як ви думаєте, скільки років мають ці речі?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/0",
-    "value": "One day, people will remember our kind for things other than our oppressive regime."
+    "value": "Одного дня люди запам'ятають наш вид за інші речі, а не за наш тиранічний режим."
   }
 ]

@@ -12,17 +12,17 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Міцні гермодвері."
+    "value": "Міцні герметичні двері"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Дуже важкі металеві двері."
+    "value": "Дуже важкі металеві двері"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Великі важкі двері найкраще працюють під водою."
+    "value": "Великі, важкі двері найкраще працюють під водою."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Гарно виготовлені гермодвері."
+    "value": "Гарно виготовлені герметичні двері"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Міцні гермодвері."
+    "value": "Міцні герметичні двері"
   }
 ]

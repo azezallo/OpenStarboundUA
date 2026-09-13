@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Основне ліжко. Не дуже зручно."
+    "value": "Просте ліжко. Не надто зручне."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Основне металеве ліжко"
+    "value": "Просте металеве ліжко"
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран любить спати!"
+    "value": "Флоран любить ссспати!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Задоволений. Зручне місце для денного сну."
+    "value": "Задоволення. Зручне місце, щоб подрімати."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Гарне місце, як будь-яке, щоб подрімати."
+    "value": "Файна місцина, аби перехопити дрімоту."
   }
 ]

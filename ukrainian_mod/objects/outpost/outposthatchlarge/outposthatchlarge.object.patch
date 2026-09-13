@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Великий повітряний шлюз"
+    "value": "Великий шлюзовий люк"
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Це повітряний шлюз."
+    "value": "Це повітряний шлюзссс."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вдячний. Міцний повітряний шлюз."
+    "value": "Схвалення. Міцний повітряний шлюз."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Схоже на шлюз."
+    "value": "Схоже на шлюз, файно."
   }
 ]

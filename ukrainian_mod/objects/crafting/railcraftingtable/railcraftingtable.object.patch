@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "^orange;Стіл для виготовлення рейки^white;"
+    "value": "^orange;Стіл для виготовлення рейок^white;"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "Їдьте на рейках!"
+    "value": "Їдьте по рейках!"
   },
   {
     "op": "replace",
@@ -27,17 +27,17 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Цей стіл дозволить мені побудувати рейки, якими я можу подорожувати."
+    "value": "Цей стіл дозволить мені побудувати рейки, на яких я можу подорожувати."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Цей стіл робить блискучі рейки для швидкого подорожі."
+    "value": "Цей стіл створює блискучі рейки для швидкої подорожі."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "в захваті. Створені тут рейки зроблять рух набагато ефективнішим."
+    "value": "В захваті. Рейки, створені тут, зроблять рух набагато ефективнішим."
   },
   {
     "op": "replace",
@@ -52,6 +52,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ridin' the rails - все ще працює так само добре, як і раніше, для пересування."
+    "value": "Їдучи по рейках – все ще працює так само добре, як і раніше, для переміщення."
   }
 ]

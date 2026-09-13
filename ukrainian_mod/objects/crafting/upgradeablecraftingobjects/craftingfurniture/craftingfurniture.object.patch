@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floran ussse стіл, щоб зробити гарний будинок."
+    "value": "Флорани використовують стіл, щоб зробити гарний будинок."
   },
   {
     "op": "replace",
@@ -32,12 +32,12 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "З цим я міг би зробити добре мебльований дім."
+    "value": "З цим я міг би зробити добре облаштований дім."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Все, що вам потрібно, щоб перетворити дім на будинок."
+    "value": "Все, що вам потрібно, щоб перетворити будинок на дім."
   },
   {
     "op": "replace",
@@ -67,7 +67,7 @@
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "value": "Floran ussse стіл, щоб зробити гарний будинок."
+    "value": "Флорани використовують стіл, щоб зробити гарний будинок."
   },
   {
     "op": "replace",
@@ -77,12 +77,12 @@
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-    "value": "З цим я міг би зробити добре мебльований дім."
+    "value": "З цим я міг би зробити добре облаштований дім."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-    "value": "Все, що вам потрібно, щоб перетворити дім на будинок."
+    "value": "Все, що вам потрібно, щоб перетворити будинок на дім."
   },
   {
     "op": "replace",
@@ -97,7 +97,7 @@
   {
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "TAG0GAТМеблі та блоки"
+    "value": "^#b9b5b2;Меблі та блоки"
   },
   {
     "op": "replace",
@@ -122,7 +122,7 @@
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "value": "Floran ussse стіл, щоб зробити гарний будинок."
+    "value": "Флорани використовують стіл, щоб зробити гарний будинок."
   },
   {
     "op": "replace",
@@ -132,12 +132,12 @@
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
-    "value": "З цим я міг би зробити добре мебльований дім."
+    "value": "З цим я міг би зробити добре облаштований дім."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-    "value": "Все, що вам потрібно, щоб перетворити дім на будинок."
+    "value": "Все, що вам потрібно, щоб перетворити будинок на дім."
   },
   {
     "op": "replace",

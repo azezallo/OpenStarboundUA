@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "^orange;Sколесо для обертання^white;"
+    "value": "^orange;Прядка^white;"
   },
   {
     "op": "replace",
@@ -22,22 +22,22 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floran ssspin wheel, робоча нитка."
+    "value": "Флорани ссс... колесо, робоча нитка."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спостережливий. Кровецький інструмент."
+    "value": "Спостережливий. Інструмент для кравців."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Дерев'яна прядка. Настільки старомодний, що майже химерний."
+    "value": "Дерев'яна прядка. Так старомодна, що майже чарівна."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Гілотлі вважають прядіння пряжею формою мистецтва."
+    "value": "Хайлотлі вважають прядіння пряжі мистецьким видом."
   },
   {
     "op": "replace",
@@ -52,7 +52,7 @@
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "value": "^orange;Sколесо для обертання^white;"
+    "value": "^orange;Прядка^white;"
   },
   {
     "op": "replace",
@@ -67,22 +67,22 @@
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "value": "Floran ssspin wheel, робоча нитка."
+    "value": "Флорани ссс... колесо, робоча нитка."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
-    "value": "Спостережливий. Кровецький інструмент."
+    "value": "Спостережливий. Інструмент для кравців."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
-    "value": "Дерев'яна прядка. Настільки старомодний, що майже химерний."
+    "value": "Дерев'яна прядка. Так старомодна, що майже чарівна."
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
-    "value": "Гілотлі вважають прядіння пряжею формою мистецтва."
+    "value": "Хайлотлі вважають прядіння пряжі мистецьким видом."
   },
   {
     "op": "replace",
@@ -92,12 +92,12 @@
   {
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
-    "value": "Прядка"
+    "value": "Прядильне колесо"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "^#b9b5b2;Tекстиль і барвники"
+    "value": "^#b9b5b2;Текстиль і барвники"
   },
   {
     "op": "replace",
@@ -107,12 +107,12 @@
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
-    "value": "TAG0GAШвейна машина^white;"
+    "value": "^orange;Швейна машина^white;"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
-    "value": "Швейна машинка. Інструмент для кравців."
+    "value": "Швейна машина. Інструмент для кравців."
   },
   {
     "op": "replace",
@@ -122,22 +122,22 @@
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "value": "Floran ssse на машинці, робоча нитка."
+    "value": "Флорани ссшитують на машинці, працюють із нитками"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
-    "value": "Спостережливий. Удосконалений інструмент для шиття."
+    "value": "Спостережливий. Покращений інструмент для шиття"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
-    "value": "Швейна машинка. Досить стандартний тариф."
+    "value": "Швейна машина. Досить звичайний інструмент"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
-    "value": "Можливо, це не так традиційно, але швейна машина, безумовно, набагато ефективніша."
+    "value": "Вона може бути не такою традиційною, але швейна машина, безсумнівно, набагато ефективнішою."
   },
   {
     "op": "replace",
@@ -147,11 +147,11 @@
   {
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
-    "value": "швейна машина"
+    "value": "Швейна машина"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "^#b9b5b2;Tекстиль і барвники"
+    "value": "^#b9b5b2;Текстиль і барвники"
   }
 ]

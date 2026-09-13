@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Підлий труп."
+    "value": "Підлий труп"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Підлий труп."
+    "value": "Підлий труп"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Нехай тіла вдаряться об підлогу!"
+    "value": "Нехай тіло вдариться об підлогу!"
   },
   {
     "op": "replace",

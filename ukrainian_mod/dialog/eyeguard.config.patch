@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/attack/default/default/0",
-    "value": "*Агресія.* Я БАЧУ ТЕБЕ!"
+    "value": "Агресивно. Я БАЧУ ТЕБЕ!"
   },
   {
     "op": "replace",
@@ -97,7 +97,7 @@
   {
     "op": "replace",
     "path": "/killedTarget/default/default/2",
-    "value": "*Задумливість.* Ще одна перемога, але їх буде більше."
+    "value": "*Здумливість.* Ще одна перемога, але їх буде більше."
   },
   {
     "op": "replace",

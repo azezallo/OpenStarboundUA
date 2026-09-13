@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Створіть власного селянина Apex!"
+    "value": "Створіть власного селянина Апекси!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Apex Spawner"
+    "value": "Апекс спаунер"
   },
   {
     "op": "replace",
@@ -17,17 +17,17 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Дозатор Apex. Незвичайний."
+    "value": "Дозатор Апекса. Незвичайний."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Чарівна мавпочка з повітря!"
+    "value": "Магічний мавпячий чоловік з повітря!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Філософський. Чи є у цих породжених істот душі?"
+    "value": "Філософський. Чи мають ці створені істоти душу?"
   },
   {
     "op": "replace",
@@ -37,6 +37,6 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Чому я хочу породити Apex?"
+    "value": "Чому я хочу породжувати Апекси?"
   }
 ]

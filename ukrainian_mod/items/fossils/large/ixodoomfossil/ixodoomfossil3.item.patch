@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілий хребет іксодумів."
+    "value": "Скам'янілений хребет Іксодома"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Іксодомовий хребет"
+    "value": "Хребет Іксодома"
   }
 ]

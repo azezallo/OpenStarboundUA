@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілий череп Фрогга."
+    "value": "Скам'янілий череп Фрога"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Череп жаби"
+    "value": "Череп Фрога"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/shortdescription",
-    "value": "Скам'янілість жаби"
+    "value": "Скам'янілий фосил Фрога"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/description",
-    "value": "Чудовий приклад скам'янілої жаби."
+    "value": "Чудовий приклад скам'янілого Фрога"
   }
 ]

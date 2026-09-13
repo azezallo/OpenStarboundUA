@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/0",
-    "value": "This is an outfit, I swear."
+    "value": "Це одяг, клянусь."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/1",
-    "value": "Do you like my outfit? It's very... Me."
+    "value": "Тобі подобається мій одяг? Він дуже… я."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/2",
-    "value": "This outfit didn't used to be an actual creature... Honest."
+    "value": "Цей одяг раніше не був справжнім створінням... Чесно."
   }
 ]

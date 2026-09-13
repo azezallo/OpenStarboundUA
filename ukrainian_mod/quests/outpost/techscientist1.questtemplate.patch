@@ -1,6 +1,6 @@
 [
   {
-    "value": "^orange;Давайте перейдемо до техніки",
+    "value": "^orange;Перейдімо до технологій",
     "path": "/title",
     "op": "replace"
   },
@@ -10,7 +10,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти приніс мені деталі! Чудово! З ними ^orange;Технологія Ривка^white; має бути готова до роботи, але є лише один спосіб переконатися в цьому...",
+    "value": "Ти приніс мені деталі! Чудово! З ними ^orange;Технологія ривка^white; має бути готова до роботи, але є лише один спосіб переконатися в цьому...",
     "path": "/completionText",
     "op": "replace"
   },
@@ -25,7 +25,7 @@
     "op": "replace"
   },
   {
-    "value": "Поговори з ^orange;Елліоттом^reset; на ^orange;Аванпості^reset;",
+    "value": "Поговори з ^orange;Елліоттом^reset; на ^orange;Форпості^reset;",
     "path": "/scriptConfig/turnInDescription",
     "op": "replace"
   }

@@ -7,17 +7,17 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "There must be something you need on this planet, otherwise you wouldn't come here!"
+    "value": "Тут має бути щось, що тобі потрібно на цій планеті, інакше ти б не прийшов сюди!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
-    "value": "Якщо ви не готові, ця погода вас заморозить!"
+    "value": "Якщо ви не підготовлені, ця погода заморозить вас!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/3",
-    "value": "Якщо ви любите сніг, ви в правильному місці."
+    "value": "Якщо вам подобається сніг, то це саме ваше місце."
   },
   {
     "op": "replace",

@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/gui/windowtitle/title",
-    "value": " Ремонтник"
+    "value": "Ремонтник"
   },
   {
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
-    "value": " Ремонт транспорту!"
+    "value": "Ремонт транспорту!"
   },
   {
     "op": "replace",

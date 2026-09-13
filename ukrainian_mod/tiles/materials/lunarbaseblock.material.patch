@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "This alloy looks incredibly durable."
+    "value": "Цей сплав виглядає неймовірно міцним."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Lunar Base Block"
+    "value": "Місячний базовий блок"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Interested. This durable alloy is not familiar."
+    "value": "Зацікавленість. Цей міцний сплав не знайомий."
   },
   {
     "op": "replace",

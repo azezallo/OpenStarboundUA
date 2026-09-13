@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Гарне, просторе рішення для зберігання на стіні."
+    "value": "Зручна та простора настінна шафка для речей."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Шафа для зберігання Novakid"
+    "value": "Шафа для зберігання Новакіди"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Шафа з металу."
+    "value": "Шафка з металу."
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран може запихати речі в шафку."
+    "value": "Флоран може сссховати речі в шафку."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Металева шафка для зберігання."
+    "value": "Нейтралітет. Металева шафка для зберігання."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Десь зберігати особисті речі."
+    "value": "Місце для зберігання особистих речей."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Шафка в стіні."
+    "value": "Шафка в стіні, файно."
   }
 ]

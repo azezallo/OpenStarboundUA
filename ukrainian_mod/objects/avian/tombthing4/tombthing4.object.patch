@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Розкішна пташина могила."
+    "value": "Розкішна авіанська могила"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Розкішна пташина могила"
+    "value": "Розкішна авіанська могила"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Шикарна могила. Гравюра виконана якісно."
+    "value": "Вишуканий гроб. Гравюра виконана добре."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Birdman прикрашає могилу, як птах."
+    "value": "Авіани прикрашають могили, як птах."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це одне шикарне місце відпочинку."
+    "value": "Це одне розкішне місце відпочинку."
   }
 ]

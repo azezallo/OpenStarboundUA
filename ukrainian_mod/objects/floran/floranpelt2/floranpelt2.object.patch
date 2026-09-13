@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ця шкура служить мисливським трофеєм Флорана."
+    "value": "Ця шкура служить трофеєм мисливця флорана."
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран показує інший мисливський трофей Флорана. Заслужити повагу."
+    "value": "Флоран показує інший мисливський трофей іншого Флорана. Заслужити повагу."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Enticed. The fur is soft. Флоранці повинні ретельно очистити свої завоювання."
+    "value": "Enticed. The fur is soft. Флорани повинні ретельно скинути свої завоювання."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Жорстокість Флорана."
+    "value": "Жорстокість Флоранів"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Шкура дрібних тварин."
+    "value": "Шкіра дрібної тварини"
   }
 ]

@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Big Ape TV"
+    "value": "Телевізор Великого Апекса"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Здається, на цьому пристрої немає з чим взаємодіяти."
+    "value": "Здається, на цьому пристрої немає з чим можна взаємодіяти."
   },
   {
     "op": "replace",
@@ -32,16 +32,16 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Його очі просто рухалися?"
+    "value": "Чи його очі щойно рухалися?"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Єдині зображення великої мавпи здаються штучними."
+    "value": "Єдині зображення великої Апекси здаються штучними."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "З екрану на мене дивиться якась істота."
+    "value": "З екрана на мене дивиться якась істота."
   }
 ]

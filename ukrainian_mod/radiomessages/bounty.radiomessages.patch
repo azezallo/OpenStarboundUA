@@ -1,51 +1,51 @@
 [
   {
-    "value": "Не можу влучити!",
+    "value": "Капітан Ноубл",
     "path": "/exploreclueplanet/senderName",
     "op": "replace"
   },
   {
-    "value": "Я поза зоною досяжності!",
+    "value": "Ми знаємо, що ціль була тут нещодавно. ^orange;Пошук^reset; за підказками. Не знаєш, з чого почати? Оглянься навколо, партнер!",
     "path": "/exploreclueplanet/text",
     "op": "replace"
   },
   {
-    "value": "Не можу влучити звідси!",
+    "value": "Капітан Ноубл",
     "path": "/approachingclue/senderName",
     "op": "replace"
   },
   {
-    "value": "Аттікус",
+    "value": "Здається, ти наближаєшся до цілі, партнер. ^orange;Досліджуй^reset; призначену зону!",
     "path": "/approachingclue/text",
     "op": "replace"
   },
   {
-    "value": "Існують три гладіатори, і кожен бореться по-своєму.",
+    "value": "Капітан Ноубл",
     "path": "/approachingbounty/senderName",
     "op": "replace"
   },
   {
-    "value": "Боєць є найбільшим і найсильнішим з гладіаторів, але розмір робить його повільним, і його легко обігнати.",
+    "value": "Виглядає так, що ваша ціль дуже близька. ^orange;Захопіть ціль^reset;, партнер!",
     "path": "/approachingbounty/text",
     "op": "replace"
   },
   {
-    "value": "Стрілець буде тримати тебе на відстані. Якщо зможеш підібратися ближче - зможеш його дістати.",
+    "value": "Капітан Ноубл",
     "path": "/tutorialexplore/senderName",
     "op": "replace"
   },
   {
-    "value": "Електричне лезо берсерка буде сповільнювати тебе, роблячи вразливим для атак бійця. Тримай дистанцію.",
+    "value": "Ваша ціль може бути будь-де на планеті, навіть під землею! ^green;Досліджуйте планету, доки не зловимо ^orange;підпис цілі^reset;, партнер!",
     "path": "/tutorialexplore/text",
     "op": "replace"
   },
   {
-    "value": "Світний гриб. Можливо, токсичний.",
+    "value": "Капітан Ноубл",
     "path": "/tutorialapproachclue/senderName",
     "op": "replace"
   },
   {
-    "value": "Світний гриб",
+    "value": "Ми зловили ^orange;підпис цілі^reset;! Ваш ^green;компас^reset; покаже напрямок – слідуйте йому, партнер!",
     "path": "/tutorialapproachclue/text",
     "op": "replace"
   }

@@ -15,122 +15,122 @@
     "op": "replace"
   },
   {
-    "value": "Я можу побачити своє відображення.",
+    "value": "Бачиш щось, що тобі подобається?",
     "path": "/scriptConfig/dialog/merchant/start/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Уважно. Я ясно бачу, хоча це прозоре скло.",
+    "value": "Що я можу зробити для вас?",
     "path": "/scriptConfig/dialog/merchant/start/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Флоран красссовито виглядає у сссклі.",
+    "value": "У мене є речі, за які Міннаук би загинув.",
     "path": "/scriptConfig/dialog/merchant/start/apex/default/0",
     "op": "replace"
   },
   {
-    "value": "Я ясно бачу крізь це скло.",
+    "value": "Ти не Міннаук, так? Гоооод.",
     "path": "/scriptConfig/dialog/merchant/start/apex/default/1",
     "op": "replace"
   },
   {
-    "value": "Деревина, підготовлена для будівництва та крафту.",
+    "value": "Є ще більше, ніж просто банани...",
     "path": "/scriptConfig/dialog/merchant/start/apex/default/2",
     "op": "replace"
   },
   {
-    "value": "Дошки",
+    "value": "Як щодо чогось дивовижного?",
     "path": "/scriptConfig/dialog/merchant/start/apex/default/3",
     "op": "replace"
   },
   {
-    "value": "Трохи дощок з дерева.",
+    "value": "Кльюкс благословив мій запас… ймовірно.",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/0",
     "op": "replace"
   },
   {
-    "value": "Колоди, розпиляні на дошки.",
+    "value": "У мене є товари для продажу, які навіть Зіркові спостерігачі заздрять.",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/1",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Хороші дошки з дерева.",
+    "value": "Завітайте і перегляньте мої дивовижні речі.",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/2",
     "op": "replace"
   },
   {
-    "value": "Порубані доссшки.",
+    "value": "Флоран продає чудові речі!",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Звичайні дошки, виготовлені з колод.",
+    "value": "Флорани мають найкращий товар навколо.",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Звичайні дошки.",
+    "value": "Флоранські товари досить вражаючі!",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Найзвичайніші дошки.",
+    "value": "Захоплююче. Подорожнику, прийди сюди і переглянь мої товари.",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Порушник! Геть зі священної землі!",
+    "value": "Пастка. Зуби та шестерні йдуть лише так далеко, юний.",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Стій, де стоїш!",
+    "value": "Зачаруючий. Мої товари дивовижні та незвичайні.",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Ти образив Клуекса!",
+    "value": "Ласкаво просимо, будь ласка, огляньте мої товари.",
     "path": "/scriptConfig/dialog/merchant/start/hylotl/default/0",
     "op": "replace"
   },
   {
-    "value": "Тобі тут не раді, чужинцю!",
+    "value": "Що вас цікавить? У мене багато дивовижних товарів.",
     "path": "/scriptConfig/dialog/merchant/start/hylotl/default/1",
     "op": "replace"
   },
   {
-    "value": "Сьогодні Клуексу дістанеться ще одна душа!",
+    "value": "Я думаю, що ви згодні, що мої товари дуже вражають.",
     "path": "/scriptConfig/dialog/merchant/start/hylotl/default/2",
     "op": "replace"
   },
   {
-    "value": "Хай впаде на тебе гнів Клуекса!",
+    "value": "Прощай, подорожнику.",
     "path": "/scriptConfig/dialog/merchant/end/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Сила Клуекса направляє мою руку!",
+    "value": "Сподіваюся побачити вас ще раз у майбутньому.",
     "path": "/scriptConfig/dialog/merchant/end/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Порушник! Геть зі священної землі!",
+    "value": "Сміливість тобі!",
     "path": "/scriptConfig/dialog/merchant/end/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Стій, де стоїш!",
+    "value": "Привіт! До побачення, подорожнику.",
     "path": "/scriptConfig/dialog/merchant/end/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти образив Клуекса!",
+    "value": "Радісно. Сподіваюся побачити вас ще раз у майбутньому.",
     "path": "/scriptConfig/dialog/merchant/end/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Тобі тут не раді, чужинцю!",
+    "value": "Доброго спілкування. Сміливість тобі!",
     "path": "/scriptConfig/dialog/merchant/end/glitch/default/2",
     "op": "replace"
   }

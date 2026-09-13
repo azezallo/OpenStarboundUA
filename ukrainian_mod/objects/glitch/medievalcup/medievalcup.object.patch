@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Брудна на вигляд дерев'яна чашка."
+    "value": "Брудний на вигляд дерев'яний кубок."
   },
   {
     "op": "replace",
@@ -12,36 +12,36 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Маленька дерев'яна чашка."
+    "value": "Маленький дерев'яний кубок."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Дерев'яна чашка, яку важко підтримувати в чистоті."
+    "value": "Дерев'яний кубок, який важко тримати в чистоті."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран п'є м'ясистий сік з таких чашок."
+    "value": "Флоран п'є ссік із плоті з таких кубків."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Розпечений. Звичайний дерев'яний келих."
+    "value": "Байдужість. Звичайний дерев'яний кубок."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Келих з дерева."
+    "value": "Кубок із дерева."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Пофарбований дерев'яний келих."
+    "value": "Заплямований дерев'яний кубок."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Звичайна дерев'яна чашка."
+    "value": "Звичайнісінький старий дерев'яний кубок, файно."
   }
 ]

@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Бюст важливого Апекса."
+    "value": "Бюст важливого апекса."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Чоловічий бюст Apex"
+    "value": "Чоловічий бюст апекса"
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssstone вечеря робить для зламаних зубів."
+    "value": "Від кам'яної вечері лише сссломані зуби."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Ностальгічний. Мені згадуються статуї наших королів."
+    "value": "Ностальгія. Мені згадуються статуї наших королів."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Машинне виготовлення зі звичайного каменю."
+    "value": "Машинне виробництво зі звичайного каменю."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Вражаюча статуя. Хто такий цей Апекс?"
+    "value": "Вражаюча статуя. Хто такий цей Апекс, файно?"
   }
 ]

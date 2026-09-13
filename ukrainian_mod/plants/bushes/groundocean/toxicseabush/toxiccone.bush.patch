@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Toxic Cone bush."
+    "value": "Токсичний конічний кущ"
   },
   {
     "op": "replace",
@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssslimy weeds."
+    "value": "Слизький бур'ян"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. Sea bush."
+    "value": "Заява. Морський кущ."
   }
 ]

@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Вулик Скриня"
+    "value": "Скриня вулика"
   },
   {
     "op": "replace",
@@ -17,22 +17,22 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Від цього звуку грудей тремтить по спині."
+    "value": "Ця скриня викликає дрожі по спині."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран хоче з'їсти скриню."
+    "value": "Флорани хочуть з'їсти скриню"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Огида. М'ясиста, пульсуюча грудна клітка."
+    "value": "Відраза. М'ясиста, пульсуюча грудна клітка."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Гарна груба скриня з плоті."
+    "value": "Гарна жахлива скриня з плоті."
   },
   {
     "op": "replace",

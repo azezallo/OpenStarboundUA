@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Бронювання дверей"
+    "value": "Двері безпеки."
   },
   {
     "op": "replace",
@@ -17,31 +17,31 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Міцні двері. Навіть вітерець не міг проскочити."
+    "value": "Міцні двері. Навіть вітерець не прослизне."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Двері великої міцності."
+    "value": "Двері великої міцносссті."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "ревнивий. Такі міцні матеріали."
+    "value": "Заздрість. Такі міцні матеріали."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Величезні важкі броньовані двері."
+    "value": "Величезні, важкі захисні двері."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Це виглядає досить міцно, щоб стримати океан."
+    "value": "Виглядає досить міцним, щоб стримати океан."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Дуже товсті двері."
+    "value": "Геть грубі двері."
   }
 ]

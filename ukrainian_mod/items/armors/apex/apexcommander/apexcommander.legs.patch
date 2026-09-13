@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стандартні командирські штани Apex."
+    "value": "Стандартні штани командира Апекси."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Штани командирські"
+    "value": "Командирські штани"
   }
 ]

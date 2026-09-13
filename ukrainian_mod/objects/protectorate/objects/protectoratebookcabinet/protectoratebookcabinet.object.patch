@@ -12,27 +12,27 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Легке читання."
+    "value": "Легке чтиво."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Тут ми можемо позичити книги."
+    "value": "Тут можна позичати книги."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Книги зі словами і словами і словамисс."
+    "value": "Книги зі сссловами, сссловами й сссловами."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Ці книги є комунальними."
+    "value": "Байдужість. Ці книги — спільні."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Книжкова шафа. Ви можете брати книги безкоштовно."
+    "value": "Книжкова шафа. Тут можна брати книги безкоштовно."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Книжкова шафа."
+    "value": "Файна книжкова шафа, йо."
   }
 ]

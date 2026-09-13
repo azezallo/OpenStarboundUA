@@ -1,6 +1,6 @@
 [
   {
-    "value": "Начало",
+    "value": "Початок",
     "path": "/title",
     "op": "replace"
   },
@@ -15,12 +15,12 @@
     "op": "replace"
   },
   {
-    "value": "Досліди ^orange;планету^reset;",
+    "value": "Досліди ^orange;планету на орбіті^reset;",
     "path": "/scriptConfig/descriptions/explore",
     "op": "replace"
   },
   {
-    "value": "Знайди ^orange;стародавнє джерело живлення^reset;",
+    "value": "Знайди ^orange;стародавнє джерело енергії^reset;",
     "path": "/scriptConfig/descriptions/findGate",
     "op": "replace"
   },
@@ -40,7 +40,7 @@
     "op": "replace"
   },
   {
-    "value": "Аванпост - Ковчег",
+    "value": "Форпост — Ковчег",
     "path": "/scriptConfig/outpostBookmark/bookmarkName",
     "op": "replace"
   }

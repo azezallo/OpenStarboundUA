@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": "  ПРЯДКА"
+    "value": "ПРЯДКА"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": "  Нитки та пряжа"
+    "value": "Нитки та пряжа"
   },
   {
     "op": "replace",

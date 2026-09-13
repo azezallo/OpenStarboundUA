@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Розбитий монітор, зараз мало користі."
+    "value": "Розбитий монітор, зараз не дуже корисний."
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Повністю зламаний, користі мало."
+    "value": "Повністю зламаний, користи мало."
   },
   {
     "op": "replace",
@@ -32,16 +32,16 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Розбитий монітор. Не виправляється."
+    "value": "Розбитий монітор. Невиправний."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Скло гостре, я краще буду обережним."
+    "value": "Скло гостре, краще бути обережним."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Щось розбило це."
+    "value": "Щось зламало це."
   }
 ]

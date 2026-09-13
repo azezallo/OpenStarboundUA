@@ -2,32 +2,32 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Зручний генератор електроенергії."
+    "value": "Зручний генератор енергії."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Генератор електроенергії"
+    "value": "Генератор енергії"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Генератор електроенергії."
+    "value": "Генератор енергії."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Це генератор електроенергії."
+    "value": "Це генератор енергії."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Це створює силу."
+    "value": "Ця штука виробляє енергіюссс."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Веселий. Це генерує достатньо енергії для всіх."
+    "value": "Радість. Це генерує достатньо енергії для всіх."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Грубий генератор електроенергії."
+    "value": "Примітивний генератор енергії."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ця річ генерує силу."
+    "value": "Ся штука струм дає, файно."
   }
 ]

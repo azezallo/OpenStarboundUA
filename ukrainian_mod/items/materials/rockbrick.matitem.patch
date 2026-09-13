@@ -2,26 +2,26 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Набір кам'яної цегли грубого виробництва."
+    "value": "Набір грубо виготовлених кам’яних цеглин."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Кам'яна цегла"
+    "value": "Кам'яні цеглини"
   },
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Не вражений. Це просто каміння, складене як цегла"
+    "value": "Не вражений. Це просто каміння, укладене як цегла."
   },
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Sstacked rockss."
+    "value": "Складені камені."
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Це не що інше, як купа каміння."
+    "value": "Це нічого іншого, як купа каменю."
   }
 ]

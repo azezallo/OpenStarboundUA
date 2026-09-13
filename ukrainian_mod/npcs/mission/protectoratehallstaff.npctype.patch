@@ -1,21 +1,21 @@
 [
   {
-    "value": "Ти спізнюєшся, <entityname>. Будь ласка, поквапся всередину до початку церемонії.",
+    "value": "Ти запізнюєшся, <entityname>. Будь ласка, поспішай всередину до початку церемонії.",
     "path": "/scriptConfig/dialog/speak/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Церемонія почнеться з хвилини на хвилину.",
+    "value": "Церемонія розпочнеться в будь‑який момент.",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Леда Портія - почесний великий захисник. Вона вірить, що ми захистимо всесвіт.",
+    "value": "Леда Портія – Верховний захисник. Вона справді вірить, що ми зможемо охистити всесвіт.",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Життя Захисника не завжди просте, але ти знаєш - ти частина великої мети.",
+    "value": "Життя Захисника не завжди просте, але пам'ятай, що ти частина великої мети.",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "op": "replace"
   }

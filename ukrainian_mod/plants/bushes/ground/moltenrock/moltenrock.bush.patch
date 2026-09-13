@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Горяче каміння."
+    "value": "Палючий камінь."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Розплавлена ​​порода."
+    "value": "Заява. Розплавлена порода."
   }
 ]

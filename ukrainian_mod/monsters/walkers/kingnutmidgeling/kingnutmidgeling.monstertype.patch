@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "King Nutmidgeling"
+    "value": "Королівський нутміджлінг"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "The King Nutmidgeling is the only one whose head tuft hasn't been trampled to death."
+    "value": "Королівський нутміджлінг — єдиний, чий чубчик на голові не був розтоптаний на смерть."
   }
 ]

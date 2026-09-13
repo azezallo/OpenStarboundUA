@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ці трекери залишають чіткий слід."
+    "value": "Ці черевики слідопита залишають чіткий слід."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Штани трекера"
+    "value": "Штани слідопита"
   }
 ]

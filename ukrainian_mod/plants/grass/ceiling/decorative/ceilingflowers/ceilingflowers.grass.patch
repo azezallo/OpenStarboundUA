@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Квітка."
+    "value": "Квітка"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Квітка."
+    "value": "Квітка"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Квітка."
+    "value": "Квітка"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Квітка."
+    "value": "Заява. Квітка"
   }
 ]

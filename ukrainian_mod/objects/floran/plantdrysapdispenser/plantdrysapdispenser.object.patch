@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Дозатор сухого розчину. Єдине, що стоїть між Флораном і запорошеною кончиною."
+    "value": "Дозатор Дрісапу. Єдина річ, що стоїть між Флораном і пиловим загибанням."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Дозатор сухого розчину"
+    "value": "Дозатор сухої смоли"
   },
   {
     "op": "replace",
@@ -17,22 +17,22 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Floran Drysap мало чим відрізняється від смол, які пташи використовують для покарання."
+    "value": "Флораний Дрісап не схожий на тип смоли, яку авіани використовують для покарання."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Дриссап. Greenfinger sssay це шлюз sssap."
+    "value": "Дриссап. Greenfinger сссай це шлюз сссап."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вагається. Знаючи, який ефект має Drysap на Florans, виникає спокуса знищити це."
+    "value": "Затримується. Знаючи, який ефект має Drysap на Флорани, виникає спокуса знищити це."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Це еквівалент машини Slushie від Floran?"
+    "value": "Чи це флоранський еквівалент машини Slushie?"
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Якась флоранська рослинна штуковина."
+    "value": "Якась флорана рослинна штуковина."
   }
 ]

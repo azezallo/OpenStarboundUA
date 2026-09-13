@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": " Багаття"
+    "value": "Багаття"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": " ^#b9b5b2;Польова кухня"
+    "value": "^#b9b5b2;Польова кухня"
   },
   {
     "op": "replace",

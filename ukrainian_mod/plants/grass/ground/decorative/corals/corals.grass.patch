@@ -1,21 +1,21 @@
 [
   {
-    "value": "Місячний",
+    "value": "Коралл.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Гострий",
+    "value": "Коралл.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Фокусув.",
+    "value": "Ссшарп коралл.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Централ.",
+    "value": "Заява. Коралл.",
     "path": "/glitchDescription",
     "op": "replace"
   }

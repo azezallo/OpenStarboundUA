@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/speciesText/default/buttonText",
-    "value": "The Grand Pagoda Library"
+    "value": "Бібліотека Великої пагоди"
   },
   {
     "op": "replace",
     "path": "/speciesText/default/repeatButtonText",
-    "value": "Revisit the Grand Pagoda Library"
+    "value": "Повторно відвідати Велику Пагоду Бібліотеку"
   },
   {
     "op": "replace",
     "path": "/speciesText/default/selectSpeech/text",
-    "value": "This ancient island complex has been calculated to be the approximate location of the Hylotl Artifact."
+    "value": "Цей стародавній острівний комплекс вважається приблизним місцем розташування артефакта Хайлотлів."
   }
 ]

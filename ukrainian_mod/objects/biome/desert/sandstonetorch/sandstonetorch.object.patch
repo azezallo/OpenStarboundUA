@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Цей факел тихенько мерехтить."
+    "value": "Цей смолоскип тихо мерехтить."
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Палаючий факел."
+    "value": "Палаючий смолоскип."
   },
   {
     "op": "replace",

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ця крихітна істота стрибає через гарячі озера лави."
+    "value": "Ця крихітна істота стрибає по гарячих озерах лави."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Lavahopper"
+    "value": "Лавостриб"
   }
 ]

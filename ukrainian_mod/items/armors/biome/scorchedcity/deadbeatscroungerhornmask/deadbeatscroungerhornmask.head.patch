@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Роги стирчать із цієї маски скрангера."
+    "value": "Роги виступають із цієї маски скраунґера."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Deadbeat Scrounger Horns"
+    "value": "Роги скраунґера Deadbeat"
   }
 ]

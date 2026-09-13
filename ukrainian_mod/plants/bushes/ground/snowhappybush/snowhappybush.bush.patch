@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Засніжений кущ."
+    "value": "Засніжений кущ"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Засніжений кущ."
+    "value": "Засніжений кущ"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Сссніжний кущ."
+    "value": "Сссніжний кущ"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Засніжений кущ."
+    "value": "Заява. Засніжений кущ"
   }
 ]

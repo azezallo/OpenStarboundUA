@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Shockhopper MK II, корпус, розроблений для встановлення модульних механічних компонентів."
+    "value": "Корпус Shockhopper MK II, призначений для встановлення модульних компонентів меха."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Shockhopper Mech Body"
+    "value": "Корпус механізму Shockhopper"
   }
 ]

@@ -2,22 +2,22 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
-    "value": "Зловмисник!"
+    "value": "Нарушник!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/0",
-    "value": "I sssee you!"
+    "value": "Я сссвожу тебе!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/1",
-    "value": "Attack!"
+    "value": "Атака!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/2",
-    "value": "Флоран побачив суперника!"
+    "value": "Флоран сссвітів суперника!"
   },
   {
     "op": "replace",
@@ -32,17 +32,17 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/5",
-    "value": "Флорана не поб'ють у Полюванні!"
+    "value": "Флоран не буде переможений у Полюванні!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/6",
-    "value": "Від мене не втечеш!"
+    "value": "Ти не можеш втекти від мене!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/7",
-    "value": "Полювання розпочато!"
+    "value": "Полювання ссс розпочато!"
   },
   {
     "op": "replace",
@@ -57,7 +57,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/10",
-    "value": "Час дати шассе!"
+    "value": "Час давати шах!"
   },
   {
     "op": "replace",
@@ -72,7 +72,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/13",
-    "value": "Флоран бачить тебе, дивний мисливець!"
+    "value": "Флоран бачить тебе, ссрaнге мисливець!"
   },
   {
     "op": "replace",
@@ -82,12 +82,12 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/15",
-    "value": "Суперник! Незнайомець!"
+    "value": "Суперник! Ссрaнге!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/16",
-    "value": "Ви не можете перешкодити мені виграти Полювання!"
+    "value": "Ти не можеш сстопити мене вигравати Полювання!"
   },
   {
     "op": "replace",
@@ -97,7 +97,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/18",
-    "value": "Пора здолати конкуренцію!"
+    "value": "Час сссляти конкуренцію!"
   },
   {
     "op": "replace",
@@ -107,21 +107,21 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/20",
-    "value": "Ти не найкращий мисливець!"
+    "value": "Ти не найбессстий мисливець!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/21",
-    "value": "Ти згинеш у цих печерах, незнайомець!"
+    "value": "Ти згинеш у цих печерах, сссрaнге!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/22",
-    "value": "Флоран не дозволить аутсайдеру перемогти!"
+    "value": "Флоран не дозволить аутсссайдеру перемогти!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/23",
-    "value": "Перемога не дістанеться тобі, аутсайдере!"
+    "value": "Перемога не дістанеться тобі, аутсссайдере!"
   }
 ]

@@ -1,141 +1,141 @@
 [
   {
-    "value": "Ещё не друг",
+    "value": "Щенедруг Джонс",
     "path": "/parameters/target/example/name",
     "op": "replace"
   },
   {
-    "value": "Соперник",
+    "value": "Суперник",
     "path": "/parameters/other/example/name",
     "op": "replace"
   },
   {
-    "value": "обожает",
+    "value": "захоплюється",
     "path": "/scriptConfig/generatedText/fluff/0/1/0",
     "op": "replace"
   },
   {
-    "value": "боготворит",
+    "value": "обожнює",
     "path": "/scriptConfig/generatedText/fluff/0/1/1",
     "op": "replace"
   },
   {
-    "value": "рассматривает",
+    "value": "розглядає",
     "path": "/scriptConfig/generatedText/fluff/0/1/2",
     "op": "replace"
   },
   {
-    "value": "видит сны про",
+    "value": "бачить сни про",
     "path": "/scriptConfig/generatedText/fluff/0/1/3",
     "op": "replace"
   },
   {
-    "value": "хочет нарисовать картину про",
+    "value": "хоче картину про",
     "path": "/scriptConfig/generatedText/fluff/0/1/4",
     "op": "replace"
   },
   {
-    "value": "рисует картины про",
+    "value": "малює картини про",
     "path": "/scriptConfig/generatedText/fluff/0/1/5",
     "op": "replace"
   },
   {
-    "value": "любит тыкать",
+    "value": "любить тикати",
     "path": "/scriptConfig/generatedText/fluff/0/1/6",
     "op": "replace"
   },
   {
-    "value": "нюхать",
+    "value": "нюхає",
     "path": "/scriptConfig/generatedText/fluff/0/1/7",
     "op": "replace"
   },
   {
-    "value": "видит грёзы про",
+    "value": "бачить марення про",
     "path": "/scriptConfig/generatedText/fluff/0/1/8",
     "op": "replace"
   },
   {
-    "value": "поёт песни про",
+    "value": "співає пісні про",
     "path": "/scriptConfig/generatedText/fluff/0/1/9",
     "op": "replace"
   },
   {
-    "value": "пишет истории про",
+    "value": "пише історії про",
     "path": "/scriptConfig/generatedText/fluff/0/1/10",
     "op": "replace"
   },
   {
-    "value": "любит",
+    "value": "любить",
     "path": "/scriptConfig/generatedText/fluff/0/1/11",
     "op": "replace"
   },
   {
-    "value": "забывает про",
+    "value": "забуває про",
     "path": "/scriptConfig/generatedText/fluff/0/1/12",
     "op": "replace"
   },
   {
-    "value": "своё лицо",
+    "value": "своє обличчя",
     "path": "/scriptConfig/generatedText/fluff/1/1/0",
     "op": "replace"
   },
   {
-    "value": "себя",
+    "value": "себе",
     "path": "/scriptConfig/generatedText/fluff/1/1/1",
     "op": "replace"
   },
   {
-    "value": "поптопов",
+    "value": "поптопів",
     "path": "/scriptConfig/generatedText/fluff/1/1/2",
     "op": "replace"
   },
   {
-    "value": "улиток",
+    "value": "равликів",
     "path": "/scriptConfig/generatedText/fluff/1/1/3",
     "op": "replace"
   },
   {
-    "value": "глипов",
+    "value": "гліпів",
     "path": "/scriptConfig/generatedText/fluff/1/1/4",
     "op": "replace"
   },
   {
-    "value": "жемчужный горох",
+    "value": "перловий горох",
     "path": "/scriptConfig/generatedText/fluff/1/1/5",
     "op": "replace"
   },
   {
-    "value": "овощи",
+    "value": "овочі",
     "path": "/scriptConfig/generatedText/fluff/1/1/6",
     "op": "replace"
   },
   {
-    "value": "компьютеры",
+    "value": "комп'ютери",
     "path": "/scriptConfig/generatedText/fluff/1/1/7",
     "op": "replace"
   },
   {
-    "value": "клюкву",
+    "value": "журавлину",
     "path": "/scriptConfig/generatedText/fluff/1/1/8",
     "op": "replace"
   },
   {
-    "value": "свои пальцы",
+    "value": "свої пальці",
     "path": "/scriptConfig/generatedText/fluff/1/1/9",
     "op": "replace"
   },
   {
-    "value": "спящих людей",
+    "value": "сплячих людей",
     "path": "/scriptConfig/generatedText/fluff/1/1/10",
     "op": "replace"
   },
   {
-    "value": "космические корабли",
+    "value": "космічні кораблі",
     "path": "/scriptConfig/generatedText/fluff/1/1/11",
     "op": "replace"
   },
   {
-    "value": "камни",
+    "value": "камені",
     "path": "/scriptConfig/generatedText/fluff/1/1/12",
     "op": "replace"
   },
@@ -145,387 +145,387 @@
     "op": "replace"
   },
   {
-    "value": "жадн<other.pronoun.obj7end>",
+    "value": "підл<other.pronoun.obj7end>",
     "path": "/scriptConfig/generatedText/fluff/2/1/1",
     "op": "replace"
   },
   {
-    "value": "плохой друг",
+    "value": "поганий друг",
     "path": "/scriptConfig/generatedText/fluff/2/1/2",
     "op": "replace"
   },
   {
-    "value": "никудышный друг",
+    "value": "нікудишній друг",
     "path": "/scriptConfig/generatedText/fluff/2/1/3",
     "op": "replace"
   },
   {
-    "value": "довольно-таки странн<other.pronoun.obj7end>",
+    "value": "трохи дивн<other.pronoun.obj7end>",
     "path": "/scriptConfig/generatedText/fluff/2/1/4",
     "op": "replace"
   },
   {
-    "value": "страшн<other.pronoun.obj7end>",
+    "value": "моторошн<other.pronoun.obj7end>",
     "path": "/scriptConfig/generatedText/fluff/2/1/5",
     "op": "replace"
   },
   {
-    "value": "ограниченн<other.pronoun.obj7end>",
+    "value": "недалек<other.pronoun.obj7end>",
     "path": "/scriptConfig/generatedText/fluff/2/1/6",
     "op": "replace"
   },
   {
-    "value": "выбалтывает все секреты",
+    "value": "пліткар<other.pronoun.obj1end>",
     "path": "/scriptConfig/generatedText/fluff/2/1/7",
     "op": "replace"
   },
   {
-    "value": "выставляет тебя посмешищем",
+    "value": "глузує з тебе",
     "path": "/scriptConfig/generatedText/fluff/2/1/8",
     "op": "replace"
   },
   {
-    "value": "имеет множество изъянов",
+    "value": "кишить комахами",
     "path": "/scriptConfig/generatedText/fluff/2/1/9",
     "op": "replace"
   },
   {
-    "value": "боится космоса",
+    "value": "боїться космосу",
     "path": "/scriptConfig/generatedText/fluff/2/1/10",
     "op": "replace"
   },
   {
-    "value": "Пошир чутки до <target>",
+    "value": "Допоможи <questGiver> поширити чутки",
     "path": "/scriptConfig/generatedText/title/0",
     "op": "replace"
   },
   {
-    "value": "<questGiver> распространяет слухи",
+    "value": "Млин пліток <questGiver>",
     "path": "/scriptConfig/generatedText/title/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран хоче бути друзями з <target>, але є проблема. Флоран може її виправити.",
+    "value": "^cyan;<target> ззздається веселою компанією, і Флоран має хитрий план, як подружитиссся з <target.pronoun.object>.",
     "path": "/scriptConfig/generatedText/goalText/floran/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран втомився від того, що <other> тусується з <target>. Флоран хоче, щоб <target> став другом Флорана натомість.",
+    "value": "^cyan;Флоран хоче подружитиссся з <target>. Давай позбудемоссся <target.pronoun.possessiveDet> жахливого нинішнього друга!",
     "path": "/scriptConfig/generatedText/goalText/floran/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Ревниво. <other> проводить багато часу з <target>. У мене є план, як покласти цьому край.",
+    "value": "^cyan;Ревнощі. <target> має дружити зі мною, а не з <other>.",
     "path": "/scriptConfig/generatedText/goalText/glitch/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Злісно. <other> поширює чутки про мене. Я збираюся відплатити.",
+    "value": "^cyan;Обурення. Ходять чутки, що <other> розпускає плітки про мене. Я хочу відповісти тим самим.",
     "path": "/scriptConfig/generatedText/goalText/glitch/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Я б дуже хотів дружити з <target>. У мене є план, як прибрати з дороги <target.pronoun.possessiveDet> інших друзів...",
+    "value": "^cyan;Я хочу подружитися з <target>. Якби тільки <target.pronoun.possessiveDet> друг <other> не плутався під ногами...",
     "path": "/scriptConfig/generatedText/goalText/default/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Я б дуже хотів ближче дружити з <target>. Я точно знаю, що робити...",
+    "value": "^cyan;Я хочу, щоб <target> став моїм другом замість <other>. У мене є план, як це зробити...",
     "path": "/scriptConfig/generatedText/goalText/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран хоче, щоб <target> став другом Флорана. Але Флоран знає, як працює дружба, і спершу ти повинен посварити <target> та ^orange;<other>^white;! Переконайся, що ^orange;<target> ^green;отримає цю ^orange;записку^white;, яку я написав, що розкриває жахливу правду про <target.pronoun.possessiveDet> так званого друга.",
+    "value": "Спершу Флорану потрібно подружитиссся з <target>. Флоран знає, як працює дружба — у серцях людей не так багато місссця! Ми маємо переконатиссся, що <target> припинить дружити з тим набридливим ^orange;<other>^white;! ^green;Доссстави цю ^orange;записсску^white; до ^orange;<target>^white;. Вона описссує гидку правду про так званого друга.",
     "path": "/scriptConfig/generatedText/text/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "<target> повинен бути другом Флорана, це так несправедливо, що <target.pronoun.subject> тусується з кимось іншим. Флоран написав ^orange;записку^white;, яка викриває ^orange;<other>^white; як жахливу людину. Ніхто не захоче бути <other.pronoun.possessiveDet> другом, прочитавши її. ^green;Достав записку до ^orange;<target>^white;.",
+    "value": "Для початку Флорану потрібно подружитиссся з милим <target>. Шкода, що <target.pronoun.subject> увесссь час проводить з дурним ^orange;<other>^white;. Будь лассска, ^green;доссстави цю ^orange;записсску^green; до ^orange;<target>^white;. Вона містить правду про жахливого друга.",
     "path": "/scriptConfig/generatedText/text/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Заздрісно. Я хочу, щоб <target> був моїм другом, але ^orange;<other>^white; стоїть на заваді. Можливо, якби <target> дізнався <other.pronoun.possessiveDet> жахливий секрет? ^green;Достав цю ^orange;записку^white; - це навчить ^orange;<target>^white; обирати <target.pronoun.possessiveDet> друзів обережніше...",
+    "value": "Заздрість. Я хочу дружити з <target>, але <target.pronoun.subject> проводить увесь свій час із <other>. Але що, як у ^orange;<other> є жахлива таємниця? ^green;Віддай цю ^orange;записку^green; до ^orange;<target>^white;... <target.pronoun.capitalSubject> неодмінно перегляне їхню дружбу після прочитаного...",
     "path": "/scriptConfig/generatedText/text/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Злісно. Спершу ми повинні знайти, кому розповісти. ^orange;<target>^white; здається ідеальним кандидатом для мого плану. Як тільки <target.pronoun.subject> ^green;отримає моє ^orange;повідомлення^white;, плітки напевно поширяться швидко - і репутація ^orange;<other>^white; буде зруйнована.",
+    "value": "Злість. Спершу знайдемо базіку. ^orange;<target> ^white;чудово підійде. Щойно <target.pronoun.subject> ^green;отримає цю ^orange;записку ^green;від тебе^white;, гарантую, що ^orange;<other> більше не буде таким популярним у цих краях.",
     "path": "/scriptConfig/generatedText/text/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Я думаю, що ми з <target> були б хорошими друзями, але ^orange;<other>^white; завжди крутиться поруч. Час це виправити! Мені потрібно, щоб ти ^green;доставив цю ^orange;записку^white; - щоб ^orange;<target>^white; дізнався брудну правду про свого так званого приятеля.",
+    "value": "Мені здається, що ми з <target> були б гарними друзями, але <target.pronoun.subject> постійно тусується з цим жахливим ^orange;<other>^white;. Покладімо цьому край! ^green;Ось ^orange;записка^green;, яку я хочу передати ^orange;<target>^white;, і вона відіб'є в <target.pronoun.object> бажання знову бачитися з жахливим другом.",
     "path": "/scriptConfig/generatedText/text/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Отже, щоб змусити <target> стати моїм другом, спершу ми маємо переконатися, що <target.pronoun.subject> не тусується з кимось іншим. Це означає відчуження ^orange;<other>^white;. Я написав ^orange;записку^white;, яка містить жахливу чутку - ^green;переконайся, що ^orange;<target> ^green;отримає її^white;. Вперед!",
+    "value": "Почнімо з того, що подружимося з <target>. Спершу ми повинні змусити <target.pronoun.object> перестати бачитися з безглуздим другом. ^green;Я підготував цю ^orange;записку^green;, яку хочу, щоб ти доставив до ^orange;<target>^white; — вона описує найгірші риси нудного друга. Достав її для мене, будь ласка!",
     "path": "/scriptConfig/generatedText/text/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран і ^orange;<target>^white; майже друзі, але ^orange;<other>^white; ніяк не забереться з дороги! <target> повинен прочитати цю ^orange;записку^white;, яку написав Флоран, де детально описано, яка жахлива людина <other> насправді. ^green;Достав записку^white; і Флоран буде вдячний.",
+    "value": "Тепер Флорану потрібно, щоб <target> ссстав другом Флорана, але Флоран бачив, як <target.pronoun.object> люб'язно поводитьссся з ^orange;<other>^white;! Поклади цьому край, щоб <target.pronoun.subject> дружив тільки з Флораном! ^green;Доссстави цього ^orange;лиссста^green; до ^orange;<target>^white; — він показує, який жахливий <other>.",
     "path": "/scriptConfig/generatedText/text/next/floran/0",
     "op": "replace"
   },
   {
-    "value": "^orange;<other>^white; все ще стає на заваді дружбі Флорана і <target>. <target> повинен побачити, яким ^orange;<other>^white; є насправді. Ось ^orange;записка^white;, повна мерзенних деталей - ^orange;<target> ^green;повинен прочитати її^white; якомога швидше!",
+    "value": "Настав час для Флорана подружитиссся з <target>. Нам потрібно зупинити <target.pronoun.object>, щоб не бачивссся з жахливим ^orange;<other>^white;. Ця ^orange;записсска^white;, яку написссав Флоран, містить інформацію, що допоможе ^orange;<target>^white; зрозуміти: Флоран — кращий вибір! ^green;Будь лассска, доссстави її.",
     "path": "/scriptConfig/generatedText/text/next/floran/1",
     "op": "replace"
   },
   {
-    "value": "Бездушно. Тепер нам потрібно ізолювати ^orange;<target>^white; від ^orange;<other>^white;. Ось ^orange;записка^white;, яку я підготував, що виставляє ^orange;<other>^white; у жахливому світлі. Коли ^orange;<target>^green; отримає її^white;, природа візьме своє.",
+    "value": "Маніпуляція. Тепер мені потрібно, щоб ти ^green;віддав цю ^orange;записку^green; до ^orange;<target>^white;, аби переконати <target.pronoun.object> припинити спілкування з ^orange;<other>^white;. Що? Ні, все, що там написано, чистісінька правда.",
     "path": "/scriptConfig/generatedText/text/next/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Бездушно. Ось ^orange;повідомлення^white; з настільки скандальною інформацією, що ^orange;<target>^white; не зможе втриматися, щоб не розповісти всім, якою людиною насправді є ^orange;<other>^white;! ^green;Все, що тобі потрібно зробити, це доставити його^white;!",
+    "value": "Черствість. Щойно ти ^green;передаси ^orange;<target> ^green;цю чутку, яку я написав про ^orange;<other>, ^white;<target.pronoun.subject> не зможе втриматися, щоб не розпатякати всім!",
     "path": "/scriptConfig/generatedText/text/next/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Я бачу, що ^orange;<target>^white; і ^orange;<other>^white; все ще добре ладнають. Подивимось, як вони ладнатимуть, коли ^orange;<target> ^green;прочитає цю ^orange;записку^white;, повну гидких 'правд' про свого приятеля.",
+    "value": "Останнім часом я часто бачу, як ^orange;<target>^white; проводить час із цим дурним <other>. Я хочу, щоб <target.pronoun.subject> проводив час зі мною! ^green;Достави цю ^orange;записку^green; до <target.pronoun.object>^white;, і <target.pronoun.subject> зрозуміє, яке марнування часу цей <other>.",
     "path": "/scriptConfig/generatedText/text/next/default/0",
     "op": "replace"
   },
   {
-    "value": "Я б хотів покласти край 'дружбі' між ^orange;<target>^white; і ^orange;<other>^white;. Я думаю, що це станеться, як тільки ^orange;<target> ^green;отримає цю ^orange;записку^white;, яку я написав про свого любого <other>. Вперед!",
+    "value": "Я хочу, щоб <target> припинив дружити з ^orange;<other>^white; і натомість став моїм другом. Ось ^orange;записка^white;, яку я написав, і в ній уся правда про <other>. ^green;Будь ласка, достави її до ^orange;<target>^white; для мене!",
     "path": "/scriptConfig/generatedText/text/next/default/1",
     "op": "replace"
   },
   {
-    "value": "<target> і ^orange;<other>^white; були друзями тривалий час. Але це скоро залишиться в минулому! Флоран написав найогидніші речі про <other> - переконайся, що ^orange;<target> ^green;отримає цю записку^white;.",
+    "value": "<target> та ^orange;<other>^white; були друзями довгий час. Тепер <target> нарешті ссстане другом Флорана! План Флорана полягає в тому, щоб ти ^green;розповів ^orange;<target>^green;, нассскільки жахливий цей друг.^white; Флоран вже приготував цю ^orange;записсску^white; для тебе, ^green;щоб доссставити.",
     "path": "/scriptConfig/generatedText/text/last/floran/0",
     "op": "replace"
   },
   {
-    "value": "Речі зміняться для <target>! Флоран стане його новим другом, а ^orange;<other>^white; стане історією. Ось ^orange;записка^white;, що викриває ^orange;<other>^white; як абсолютно нікчемного. ^green;Достав її^white; - я впевнений, що ^orange;<target>^white; буде зацікавлений.",
+    "value": "А тепер фінал! Флоран хоче подружитиссся з <target>. Нам треба припинити зустрічі з ^orange;<other>^white;. Якщо ти ^green;доссставиш цього ^orange;лиссста^green; до ^orange;<target>^white;, <target.pronoun.subject> стане другом Флорана. Флоран упевнений.",
     "path": "/scriptConfig/generatedText/text/last/floran/1",
     "op": "replace"
   },
   {
-    "value": "Хитро. Нарешті я підготував<questGiver.pronoun.obj1end> останнє ^orange;послання^white;, прочитавши яке, ^orange;<target>^white; зрозуміє, що ^orange;<other>^white; - абсолютно неприємна особа... ^green;За тобою - доставка^white;.",
+    "value": "Підступність. Наостанок мені потрібно, щоб ти ^green;передав цю ^orange;записку^green; до ^orange;<target>. ^white;<target.pronoun.capitalSubject> точно не захоче більше розмовляти з ^orange;<other> ^white;після прочитання...",
     "path": "/scriptConfig/generatedText/text/last/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Мстисливо. Нарешті, ось ^orange;записка^white; з кількома фактами, які свідчать про те, що ^orange;<other>^white; в усіх відношеннях неприємна особа. Факти трохи прикрашені, але це не страшно: ^orange;<target>^green;, отримавши від тебе записку^white;, все одно перекрутив<target.pronoun.obj1end> би їх.",
+    "value": "Мстивість. Нарешті, ^green;передай цю чутку про ^orange;<other> ^green;до ^orange;<target>. ^white;Вона трохи притягнута за вуха, але диму без вогню не буває.",
     "path": "/scriptConfig/generatedText/text/last/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Тепер ^orange;<target>^white; має зрозуміти, що ^orange;<other>^white; мені і в підметки не годиться - а для цього ^green;<target.pronoun.subject> має отримати ^orange;записку^white; з неприємними фактами про свого колишнього друга!",
+    "value": "Нарешті, покажімо ^orange;<target>, ^white;що я набагато кращий друг, ніж ^orange;<other>. ^green;Покажи <target.pronoun.object> цю ^orange;записку^green;, яку я написав^white; про <other>, і <target.pronoun.subject> прозріє!",
     "path": "/scriptConfig/generatedText/text/last/default/0",
     "op": "replace"
   },
   {
-    "value": "Ось черговий лист, тема якого - ^orange;<other>^white; та <other.pronoun.reflexive> справжнє обличчя. Вже всі перестали з <other.pronoun.copulativePast> дружити, лиш<target.pronoun.obj14end> тільки ^orange;<target>^white; підтримує стосунки - і це треба рішуче припинити. Прошу, ^green;достав <target.pronoun.object> записку^white;.",
+    "value": "Ось ^orange;записка^white;, яку я написав про ^orange;<other>^white;. Усі знають, що <other.pronoun.subject> жахлив<other.pronoun.obj1end>, але ^orange;<target>^white; досі спілкується з ним щодня. Настав мій час стати другом ^green;<target>! ^green;Будь ласка, достави цю записку до <target.pronoun.object>.",
     "path": "/scriptConfig/generatedText/text/last/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран хоче, щоб він і <target> були друзями. Але ^orange;<other>^white; випередив<other.pronoun.obj1end> флорана. Флоран міг би вбити <other.pronoun.reflexive>, але це тільки розповість який<other.pronoun.obj1end> <other> насправді. Цю записку ^orange;<target> ^green;має отримати від тебе^white;, щоб флоран був тут ні до чого.",
+    "value": "У Флорана є чудовий план, як подружитиссся з <target>. Проте майбутнього друга Флорана завзззди бачать з ^orange;<other>^white;. Тобі треба розповісти ^orange;<target>^white;, який бридкий <other>! Будь лассска, ^green;доссстави цю ^orange;записсску^white;, яку приготував Флоран.",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Ось ^orange;записка^white;, де сссказано, що ^orange;<other>^white; гірше всіх. Коли ^orange;<target>^white; отримає її, <target.pronoun.subject> зрозуміє, що краще дружити з флораном, ніж з <other.pronoun.copulativePast>. ^green;Тобі потрібно лише віднести записку^white;!",
+    "value": "Ось ^orange;записсска^white;, яку ^green;Флорану потрібно, щоб ти доссставив до ^orange;<target>^white;. Вона містить правду про друга ^orange;<other>.^white; Щойно <target.pronoun.subject> прочитає її, <target> зрозуміє, що Флоран — кращий друг!",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Хитро. Я хочу, щоб <target> і я стали друзями, але мені добряче заважає <target.pronoun.reflexive> колишній друг - ^orange;<other>^white;. Думаю, що вони припинять спілкуватися, як тільки ^orange;<target>^white; прочитає все те, що ^orange;<other>^white; від н<target.pronoun.reflexive> приховує. ^green;Передай цю ^orange;записку^white;, подивимося, що вийде!",
+    "value": "Підступність. Я хочу наблизитися до <target>, але <target.pronoun.subject> дивиться тільки на <other>. Б'юся об заклад, це зміниться, щойно ти ^green;передаси ^orange;<target>^green; цю ^orange;записку^white; ^green;про ^orange;<other>^white;... Тоді <target> матиме час для мене!",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Злісно. ^orange;<other>^white; скоро пошкодує, що взагалі тут з'явил<other.pronoun.obj6end>. Я збираюся розпустити про <other.pronoun.copulative> мерзенні чутки - і думаю, що ^orange;<target>^white; найкраще підійде на роль оповісника. ^green;Віднеси <target.pronoun.object> цю ^orange;записку^white;.",
+    "value": "Зловтіха. Я провчу ^orange;<other>^white;, давши урок, якого <other.pronoun.subject> швидко не забуде. ^green;Передай цю плітку, яку я написав, до ^orange;<target>^white;, а тоді ми сядемо й дивитимемося на феєрверк.",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Я хочу, щоб я і ^orange;<target>^white; стали друзями, а <target.pronoun.reflexive> колишній друг - ^orange;<other>^white; - перейш<other.pronoun.obj5end> до розряду колишніх. У цій ^orange;записці^white; всі найбрудніші факти про <other.pronoun.copulative>. Подивимося, що скаже ^orange;<target>^white;, коли ^green;отримає її^white;.",
+    "value": "Як би я хотів, щоб ^orange;<target>^white; став моїм другом замість ^orange;<other>^white;. Я приготував цю ^orange;записку^white; для <target.pronoun.object>, де розкрито правду про <other>. Вона допоможе збагнути, що я набагато кращий друг! ^green;Будь ласка, достави її до <target.pronoun.object> для мене.",
     "path": "/scriptConfig/generatedText/text/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Я мрію, щоб <target> і я стали найкращими друзями, але на моєму шляху стоїть ^orange;<other>^white;. Треба, щоб вони розсварилися, тож я написав<questGiver.pronoun.obj1end> ^orange;записку^green;, де ^orange;<other>^white; виставлен<other.pronoun.obj1end> у найтемнішому світлі. Нехай ^orange;<target> ^green;отримає її з твоїх рук^white;, щоб на мене не впала підозра.",
+    "value": "Я вічність хотів стати другом для <target>, але <target.pronoun.subject> тусується лише з ^orange;<other>^white;. ^green;Я підготував цю ^orange;записку^green;, щоб ти доставив її до ^orange;<target>^white;. Вона відкриє очі на правду про <other>.",
     "path": "/scriptConfig/generatedText/text/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Відмінно! Тепер флоран і <target> ссстануть друзями!",
+    "value": "Гарна робота! Тепер дружба Флорана і <target> по-справжньому розквітне.",
     "path": "/scriptConfig/generatedText/completionText/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Чудово! Флоран задоволений тим, як зроссстає дружба!",
+    "value": "У нас вийшшло! Флоран щасливий через цю дружбу. Дяка!",
     "path": "/scriptConfig/generatedText/completionText/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Вражено. <target> відчував<target.pronoun.obj1end> огиду, коли прочитав<target.pronoun.obj1end> записку! Але я таємно не стежив<questGiver.pronoun.obj1end> за <target.pronoun.copulativePast>, ти не думай! У будь-якому разі дякую!",
+    "value": "Захоплення. <target> виглядав<target.pronoun.obj1end> шокованим, коли прочитав<target.pronoun.obj1end> повідомлення! Не те щоб я стежив за ним зі схованки чи щось таке. У будь-якому разі, у нас попереду ще є робота!",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Відмінно! <target> одразу повів<target.pronoun.obj6end> на це. Тепер чутки поповзуть як треба!",
+    "value": "Задоволення. Це було чудово! <target> повірив<target.pronoun.obj1end> миттєво. Чутка про <other> вже поширюється.",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Чудові новини! <other> тепер не при справах! Все йде за планом.",
+    "value": "Чудові новини! <other> вибув з гри, а я на коні! Це буде неперевершено.",
     "path": "/scriptConfig/generatedText/completionText/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти впорався. Друзі - це гарна підмога, і думаю, <target> стане мені в нагоді у майбутньому.",
+    "value": "Тобі вдалося. Друзі — чудовий здобуток, і я впевнений, що <target> стане мені в пригоді в майбутньому.",
     "path": "/scriptConfig/generatedText/completionText/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Все пройшло чудово! З новим другом у флорана все налагодиться.",
+    "value": "Усе минуло чудово! З новоздобутим другом Флорана нассступний крок буде значно легшшим.",
     "path": "/scriptConfig/generatedText/completionText/next/floran/0",
     "op": "replace"
   },
   {
-    "value": "Дддякую! Флоран і <target> тепер часто зустрічаються і веселяться від душі.",
+    "value": "Дяка! Флоран тепер чудово проводитиме час із <target>.",
     "path": "/scriptConfig/generatedText/completionText/next/floran/1",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Впевнен<questGiver.pronoun.obj1end>, що <target> і <other> тепер проводитимуть набагато менше часу разом, а це означає - що <target> і я будемо проводити разом більше часу. Але це ще не все...",
+    "value": "Задоволення. Б'юся об заклад, що <target> тепер проводитиме значно менше часу з <other>, а це беззаперечно означає, що <target.pronoun.subject> матиме більше часу для мене. Є дещо інше, що мені потрібно від тебе...",
     "path": "/scriptConfig/generatedText/completionText/next/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Думаю, що <other> все частіше ловить на собі косі погляди!",
+    "value": "Веселощі. Можна з упевненістю сказати, що соціальне життя <other> розбите вщент!",
     "path": "/scriptConfig/generatedText/completionText/next/glitch/1",
     "op": "replace"
   },
   {
-    "value": "<target> і <other> майже розійшлися! А це означає, що я і <target> скоро зійдемося.",
+    "value": "<target> полишив <other> і прийняв мою дружбу! Новий друг неодмінно стане в пригоді.",
     "path": "/scriptConfig/generatedText/completionText/next/default/0",
     "op": "replace"
   },
   {
-    "value": "Дякую за те, що доставив записку! <target> і я тепер офіційно дружимо.",
+    "value": "Дякую за доставку записки! Ми з <target> тепер офіційно друзі.",
     "path": "/scriptConfig/generatedText/completionText/next/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран задоволений, що його план вдався! Флоран думає, що <target> теж рад<target.pronoun.obj1end>, що дізнал<target.pronoun.obj1end> правду.",
+    "value": "Флоран задоволений, що план виявивссся вдалим! Флоран упевнений, що <target> вдячний, що ми розкрили правду про <other>.",
     "path": "/scriptConfig/generatedText/completionText/last/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран зловив нового друга! Це прекрасссний день для флорана!",
+    "value": "Флоран здобув нового друга! Це чудовий день для Флорана!",
     "path": "/scriptConfig/generatedText/completionText/last/floran/1",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Я не сумнівал<questGiver.pronoun.obj6end>, що <target> віддасть перевагу мені, а <other> отримає лише забуття.",
+    "value": "Задоволення. Не маю сумнівів, що ми з <target> станемо гарними друзями тепер, коли <other> не стоїть на заваді.",
     "path": "/scriptConfig/generatedText/completionText/last/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Радісно. Чутки поширюються як лісова пожежа! <other> скоро втратить усіх своїх друзів.",
+    "value": "Радість. Ця чутка роздмухала полум'я на славу! У <other> навряд чи залишиться багато друзів після такого.",
     "path": "/scriptConfig/generatedText/completionText/last/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Я задоволен<questGiver.pronoun.obj8end> новою дружбою! І всі знають, що <other> - друг нікудишній! Дякую за клопіт.",
+    "value": "Я в захваті від мого нового друга! Усі й так знають, що <other> — погана компанія! Дякую за важку працю.",
     "path": "/scriptConfig/generatedText/completionText/last/default/0",
     "op": "replace"
   },
   {
-    "value": "<other> тепер забут<other.pronoun.obj1end>, а я і <target> - друзі! Дякую за те, що посприяв цьому.",
+    "value": "<other> більше не заважає, і тепер ми з <target> друзі! Ця дружба безсумнівно буде корисною — дякую за здійснення цього.",
     "path": "/scriptConfig/generatedText/completionText/last/default/1",
     "op": "replace"
   },
   {
-    "value": "Уссспіх! <target> безумовно під глибоким враженням від флорана! Дякую!",
+    "value": "Уссспіх! Ми справді справили враження на <target>! Дяка!",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Все пройшло так, як флоран і задумав! Флоран сссщасливий.",
+    "value": "Усе вийшшло сссаме так, як хотів Флоран! Флоран такий щасливий.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Радісно. Впевнен<questGiver.pronoun.obj1end>, що <other> тепер не при справах, а <target> скоро стане моїм найкращим другом!",
+    "value": "Піднесення. Я не маю сумніву, що без перешкоди у вигляді <other> ми з <target> станемо чудовими друзями!",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Спрацювало краще, ніж я припускал<questGiver.pronoun.obj1end>. <other> тепер загальновизнаний відщепенець!",
+    "value": "Задоволення. Це спрацювало краще, ніж я очікував. <other> двічі подумає, перш ніж знову розпускати чутки! <target> був<target.pronoun.obj1end> шокований!",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "<target.pronoun.capitalSubject> прийнял<target.pronoun.obj1end> мою дружбу! Ну а хто не прийняв би? Дякую за допомогу!",
+    "value": "<target.pronoun.capitalSubject> прийняв<target.pronoun.obj1end> мою дружбу! Та й хто б відмовився? Дякую за допомогу!",
     "path": "/scriptConfig/generatedText/completionText/default/default/0",
     "op": "replace"
   },
   {
-    "value": "План спрацював, і тепер <target> - мій друг, а <other> не при справах. Дякую за те, що влаштував це!",
+    "value": "План спрацював! <target> тепер мій друг, а <other> вибув з гри. Дякую за допомогу у втіленні цього!",
     "path": "/scriptConfig/generatedText/completionText/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Я не зміг допомогти. <target> і <other> залишаться друзями, і <questGiver> не зможе нічого з цим вдіяти.",
+    "value": "Я не став допомагати <questGiver> у спробі саботувати дружбу <target>. Утім, це все одно був не дуже гарний план.",
     "path": "/scriptConfig/generatedText/failureText/0",
     "op": "replace"
   },
   {
-    "value": "Я не став поширювати погані чутки. Можливо, <questGiver> має навчитися заводити друзів без очорнення інших?",
+    "value": "Мені не вдалося поширити чутки про <other> до <target>. Можливо, <questGiver> варто навчитися заводити друзів добротою?",
     "path": "/scriptConfig/generatedText/failureText/1",
     "op": "replace"
   },
   {
-    "value": "Я не став сприяти плану, яким <questGiver> збирал<questGiver.pronoun.obj6end> завоювати дружбу. Це був брудний план, тож мені не прикро.",
+    "value": "Мені не вдалося допомогти у змові <questGiver> зруйнувати дружбу <target>. Це був підлий план, тому я не побиватимуся через відмову від нього.",
     "path": "/scriptConfig/generatedText/failureText/2",
     "op": "replace"
   },
   {
-    "value": "<target>, до твого відома, <other> таємно <verb2> <object>. Вибач.",
+    "value": "<target>, просто до твого відома: <other> потай <verb2> <object>. Вибач.",
     "path": "/scriptConfig/secretNote/0",
     "op": "replace"
   },
   {
-    "value": "Привіт, <target>. Соромно казати, але <other> <adjective>.",
+    "value": "Привіт, <target>. Не хотілося б повідомляти погані новини, але <other> — <adjective>.",
     "path": "/scriptConfig/secretNote/1",
     "op": "replace"
   },
   {
-    "value": "Ти маєш знати, що <other> <verb2> <object>.",
+    "value": "Тобі варто знати, що <other> <verb2> <object>.",
     "path": "/scriptConfig/secretNote/2",
     "op": "replace"
   },
   {
-    "value": "<other> <adjective>. З любов'ю, <questGiver>!",
+    "value": "<other> — <adjective>. З любов'ю, <questGiver>",
     "path": "/scriptConfig/secretNote/3",
     "op": "replace"
   },
   {
-    "value": "Це сумно... Давай якось зустрінемося!",
+    "value": "Прикро чути... Давай якось зависнемо разом!",
     "path": "/scriptConfig/responseNote/0",
     "op": "replace"
   },
   {
-    "value": "<other>? Та до біса <other.pronoun.reflexive>! Давай дружити!",
+    "value": "<other> — нікчема! Давай краще дружити!",
     "path": "/scriptConfig/responseNote/1",
     "op": "replace"
   },
   {
-    "value": "Так? Схоже, я <other.pronoun.reflexive> зовсім не знав<target.pronoun.obj1end>. Давай потеревенимо!",
+    "value": "Схоже, я зовсім не знав<target.pronoun.obj1end> їх насправді. Давай якось погуляємо!",
     "path": "/scriptConfig/responseNote/2",
     "op": "replace"
   },
   {
-    "value": "<other> мене розчарував<other.pronoun.obj1end>. Можливо, нам з тобою варто подружитися?",
+    "value": "Я розчарований у <other>. Може, ми подружимося?",
     "path": "/scriptConfig/responseNote/3",
     "op": "replace"
   },
@@ -535,12 +535,12 @@
     "op": "replace"
   },
   {
-    "value": "Віднеси записку жителю <target>",
+    "value": "Доставити повідомлення до <target>",
     "path": "/scriptConfig/objectives/0/text",
     "op": "replace"
   },
   {
-    "value": "Віднеси відповідь жителю <questGiver>",
+    "value": "Принести відповідь для <questGiver>",
     "path": "/scriptConfig/objectives/1/text",
     "op": "replace"
   }

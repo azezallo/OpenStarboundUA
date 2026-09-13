@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": " Стіл землероба"
+    "value": "Стіл землероба"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": " ^#b9b5b2;Фермерство"
+    "value": "^#b9b5b2;Фермерство"
   },
   {
     "op": "replace",

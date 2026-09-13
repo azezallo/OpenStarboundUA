@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Heck Flower"
+    "value": "Пекельна квітка"
   },
   {
     "op": "replace",
@@ -17,6 +17,6 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Огида. Квітка з плоті."
+    "value": "Дисгост. Квітка з плоті."
   }
 ]

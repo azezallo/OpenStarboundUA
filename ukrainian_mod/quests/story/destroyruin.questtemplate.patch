@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Знайди шлях назад на ^orange;аванпост^reset;",
+    "value": "Знайди шлях назад на ^orange;Форпост^reset;",
     "path": "/scriptConfig/descriptions/turnIn",
     "op": "replace"
   }

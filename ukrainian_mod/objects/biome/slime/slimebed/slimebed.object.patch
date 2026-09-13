@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Спи солодко, зависла в слизу."
+    "value": "Спи солодко, застрягши в слизі."
   },
   {
     "op": "replace",
@@ -17,27 +17,27 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Чи отримаю я слиз у пір’ї?"
+    "value": "Чи отримаю я слиз на пір'ї?"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Хворобливий!."
+    "value": "Г'рюзкий!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Обережний. Слиз може викликати іржу."
+    "value": "Обережний. Слиз може викликати ржавчину."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Він зроблений зі слизу. Сподіваюся, я зможу там дихати."
+    "value": "Зроблено зі слизу. Сподіваюся, що в нём можна дихати."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Ложе зі слизу. Чи забезпечить це спокійний сон?"
+    "value": "Ліжко з слизи. Чи забезпечить це спокійний сон?"
   },
   {
     "op": "replace",

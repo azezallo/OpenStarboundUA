@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Boltbulb Seed"
+    "value": "Насіння болтоцибулі"
   },
   {
     "op": "replace",
@@ -22,22 +22,22 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssshyshy метал, не як плоть Glitch."
+    "value": "Sssquishy метал, не як плоть Глітчів"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Сентиментальний. Цей овоч смакує як домашній."
+    "value": "Сентиментальний. Цей овоч смакує як дім."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "На жаль, їсти це все одно, що їсти шматки вантажівки."
+    "value": "Грубий, їсти його — ніби їсти шматки вантажівки."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Бульба – один з небагатьох по-справжньому смачних овочів для справжніх гурманів."
+    "value": "Boltbulb – один з небагатьох справді смачних овочів для справжніх гурманів."
   },
   {
     "op": "replace",

@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Chessst! Флоран повинен шукати!"
+    "value": "Чесст! Флорані мусить ссшукати!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "схвильований. Що може бути всередині?"
+    "value": "Схвильований. Що може бути всередині?"
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Іржава на вигляд скриня."
+    "value": "Похмурий іржавий сундук."
   }
 ]

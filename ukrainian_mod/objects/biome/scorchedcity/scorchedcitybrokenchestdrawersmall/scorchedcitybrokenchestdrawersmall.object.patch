@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Це колись був комод, залишилася тільки полиця."
+    "value": "Колись це був комод, залишилась лише полиця."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Зламаний шах з ящиками."
+    "value": "Зламаний шафа‑ящик"
   },
   {
     "op": "replace",

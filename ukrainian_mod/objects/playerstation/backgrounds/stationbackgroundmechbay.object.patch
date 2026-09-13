@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Mech bay шматок фону"
+    "value": "Тло мех-баю"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Mech bay шматок фону"
+    "value": "Тло мех-баю"
   }
 ]

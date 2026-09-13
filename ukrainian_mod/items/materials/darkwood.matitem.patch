@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Деревина, підготовлена ​​для будівництва та виготовлення."
+    "value": "Дерево, що підготовлено для будівництва і ремесла."
   },
   {
     "op": "replace",
@@ -12,36 +12,36 @@
   {
     "op": "replace",
     "path": "/apexdescription",
-    "value": "Декілька виготовлених дерев’яних дощок."
+    "value": "Декілька виготовлених дерев'яних дошок"
   },
   {
     "op": "replace",
     "path": "/aviandescription",
-    "value": "Дерево, яке було оброблено на дошки."
+    "value": "Дерево, яке було оброблено на дошки"
   },
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Задоволений. Це добре оброблені дерев’яні дошки."
+    "value": "Задоволений. Це добре оброблені дерев'яні дошки"
   },
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Ssspintere дерев'яні дошки."
+    "value": "Порізані дерев'яні дошки"
   },
   {
     "op": "replace",
     "path": "/humandescription",
-    "value": "Деякі прості дерев'яні дошки."
+    "value": "Деякі прості дерев'яні дошки"
   },
   {
     "op": "replace",
     "path": "/hylotldescription",
-    "value": "Основні дерев'яні дошки."
+    "value": "Основні дерев'яні дошки"
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Лише кілька простих дерев’яних дощок."
+    "value": "Лише кілька простих дерев'яних дошок"
   }
 ]

@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Тюремне ліжко Floran. Розстелюється по землі."
+    "value": "Тюремний ліжок Флорана. Розкладається на землі."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Рослина Bedroll"
+    "value": "Ліжко для рослин"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоранські в'язні мають базові ліжка."
+    "value": "Флорани в'язні мають базові ліжка."
   },
   {
     "op": "replace",
@@ -32,12 +32,12 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Схоже, що це ліжко не забезпечує особливої ​​підтримки."
+    "value": "Схоже, що цей ліжковий валик не дає великої підтримки."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Здається, ці рослини вплетені в ліжко."
+    "value": "Здається, ці рослини вплетені у спальний мішок."
   },
   {
     "op": "replace",

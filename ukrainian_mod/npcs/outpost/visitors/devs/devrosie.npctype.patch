@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/identity/name",
-    "value": "Rosie"
+    "value": "Розі"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Hi, I'm Rosie! The Universe is such a large place, I want to smell every flower, catch every bug and climb every tree."
+    "value": "Привіт, я Росі! Всесвіт такий великий, я хочу нюхати кожен квітку, ловити кожну комаху і підніматися на кожне дерево."
   }
 ]

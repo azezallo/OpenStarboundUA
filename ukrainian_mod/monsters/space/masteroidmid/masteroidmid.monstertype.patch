@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Masteroid (Medium)"
+    "value": "Мастероїд (середній)"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "A boron-based creature that can split its body and consciousness when damaged."
+    "value": "Тварина на базі бору, здатна розділити своє тіло й свідомість при ушкодженні."
   }
 ]

@@ -1,21 +1,21 @@
 [
   {
-    "value": "Цей заголовок не буде відображатися.",
+    "value": "Цей заголовок не відображатиметься.",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "Цей текст не буде відображатися.",
+    "value": "Цей текст не відображатиметься.",
     "path": "/text",
     "op": "replace"
   },
   {
-    "value": "Цей текст завершення не буде відображатися.",
+    "value": "Цей текст завершення не відображатиметься.",
     "path": "/completionText",
     "op": "replace"
   },
   {
-    "value": "Нам потрібно, щоб ти знайшов та затримав ^orange;<bounty.name>^reset;. Ми отримали наводку, що інформація може бути <coordinate.preposition> <coordinate.name>, тож тобі варто почати своє розслідування там.\n\n- НАГОРОДИ -\nЗахоплення: ^yellow;<rewards.money>^reset; пікселів, +<rewards.rank> рангу",
+    "value": "Нам потрібно, щоб ти знайшов та затримав ^orange;<bounty.name>^reset;. Ми отримали наводку, що інформація може бути <coordinate.preposition> <coordinate.name>, тож тобі варто почати своє розслідування саме там.\n\n- НАГОРОДИ -\nЗахоплення: ^yellow;<rewards.money>^reset; пікселів, +<rewards.rank> до рангу",
     "path": "/scriptConfig/generatedText/text/default/0",
     "op": "replace"
   }

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/identity/name",
-    "value": "Molly"
+    "value": "Моллі"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "It's-a me, Mollygos!"
+    "value": "Це я, Моллігос!"
   }
 ]

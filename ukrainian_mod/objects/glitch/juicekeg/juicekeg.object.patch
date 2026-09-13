@@ -7,32 +7,32 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Бочка соку"
+    "value": "Бочка з соком"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Бочонок, що пахне солодким соком."
+    "value": "Барило, що пахне солодким соком."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Запашна бочка, наповнена рідиною."
+    "value": "Бочка із солодким запахом, наповнена рідиною."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Запах бочки огидних соків."
+    "value": "Бочка сссмердить огидним сссоком."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "в захваті. Бочки з соком завжди означають, що попереду веселощі."
+    "value": "Захоплення. Бочки з соком завжди віщують веселощі."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Бочка. Він повний соку."
+    "value": "Бочечка. Вона повна соку."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Всередині смачний сік."
+    "value": "Всередині файнющий сік."
   }
 ]

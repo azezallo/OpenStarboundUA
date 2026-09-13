@@ -7,21 +7,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "These bricks have worn smooth with age."
+    "value": "Ці цеглини зазнали зносу і стали гладкими з часом"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Impressed. These bricks have held up well considering their age."
+    "value": "Вражений. Ці цеглини добре витримали, враховуючи їхній вік."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран любить гладку цеглу."
+    "value": "Флоран любить гладку цеглу"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Some smooth lookin' bricks."
+    "value": "Декілька гладких, на вигляд, цеглинок."
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "value": "  Frogg Merchant"
+    "value": "Фрогг Торговець"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "value": "  Penny-wise polliwog peddler"
+    "value": "Ощадливий крамар-пуголовок"
   }
 ]

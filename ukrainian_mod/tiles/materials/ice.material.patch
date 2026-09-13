@@ -5,22 +5,22 @@
     "op": "replace"
   },
   {
-    "value": "Твердий лід, холодний на дотик.",
+    "value": "Твердий лід, що викликає поколювання при дотику.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Уважність. Здається, цей лід природного походження.",
+    "value": "Спостережливий. Здається, цей лід природно замерзлий.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Холодний цілісссний лід.",
+    "value": "Морозний твердий лід",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Купа льоду, файно для напоїв.",
+    "value": "Багато льоду",
     "path": "/novakidDescription",
     "op": "replace"
   }

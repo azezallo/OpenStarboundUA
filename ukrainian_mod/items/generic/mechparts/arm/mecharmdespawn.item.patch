@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Рука налагодження, яка просто позбавляє меха."
+    "value": "Рука налагодження, що просто видаляє меха."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Despawn Mech Arm"
+    "value": "Механічна рука зникнення"
   }
 ]

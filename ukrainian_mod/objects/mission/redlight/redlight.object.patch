@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Прохідне світло."
+    "value": "Проходнє світло."
   },
   {
     "op": "replace",

@@ -1,21 +1,21 @@
 [
   {
-    "value": "Останки якогось невідомого створіння.",
+    "value": "Кістка незнайомої істоти.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Останки",
+    "value": "Кістка",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Шшвидше за всссе, флоран убив його.",
+    "value": "Ссшвидше за все, Флоран знищить це.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердно. Стародавні останки.",
+    "value": "Ствердно. Давня кістка.",
     "path": "/glitchDescription",
     "op": "replace"
   }

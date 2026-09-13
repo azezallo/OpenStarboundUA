@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Чистий, непідробний цукор."
+    "value": "Чиста, не підроблена цукрова насолода."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "цукор"
+    "value": "Шугар"
   }
 ]

@@ -5,12 +5,12 @@
     "op": "replace"
   },
   {
-    "value": "Ранг II: Цілеспрямований шукач",
+    "value": "Ранг II: Цілеспрямований ловець",
     "path": "/bountyRanks/1/description",
     "op": "replace"
   },
   {
-    "value": "Ранг III: Надійний заступник",
+    "value": "Ранг III: Надійний помічник",
     "path": "/bountyRanks/2/description",
     "op": "replace"
   },
@@ -30,7 +30,7 @@
     "op": "replace"
   },
   {
-    "value": "Жахливий культ Окказус",
+    "value": "Апокаліптичний культ Оккасус",
     "path": "/finalAssignment/gang/name",
     "op": "replace"
   },

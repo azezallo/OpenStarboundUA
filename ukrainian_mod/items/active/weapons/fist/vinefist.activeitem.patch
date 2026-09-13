@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Відкрийте силу природи!"
+    "value": "Вивільніть силу природи!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Виноградний кулак"
+    "value": "Кулак лози"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
-    "value": "Vine Fist ^yellow;^reset;"
+    "value": "Кулак лози ^yellow;^reset;"
   }
 ]

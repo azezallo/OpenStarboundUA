@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Swarpion"
+    "value": "Сварпіон"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It hides in dark cracks and corners, quickly striking unassuming prey which wanders near."
+    "value": "Воно ховається в темних тріщинах і кутках, швидко нападаючи на невинну здобич, що блукає поруч."
   }
 ]

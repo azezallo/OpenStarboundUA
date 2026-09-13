@@ -7,16 +7,16 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Lilies."
+    "value": "Лілії."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Pretty liliesss."
+    "value": "Красиві лілії."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. An attractive lily."
+    "value": "Заява. Приваблива лілія."
   }
 ]

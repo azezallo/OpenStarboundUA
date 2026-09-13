@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Міцний стіл Durasteel."
+    "value": "Міцний стіл Дюрасталь."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Стіл Durasteel"
+    "value": "Стіл Дюрасталь."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Досить хороший стіл, щоб Флоран міг нарізати м’ясо."
+    "value": "Ссстіл досссить добрий, щоб Флоран нарізав м'ясссо."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Зазвичай це не мій стіл, але цей справді вражає."
+    "value": "Зазвичай мені не до вподоби подібні столи, але цей справді вражає."
   },
   {
     "op": "replace",

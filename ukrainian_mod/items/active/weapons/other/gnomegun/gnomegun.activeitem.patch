@@ -7,11 +7,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Gnome Gun"
+    "value": "Гномостріл"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
-    "value": "Gnome Gun ^yellow;^reset;"
+    "value": "Гном'яча гармата ^yellow;^reset;"
   }
 ]

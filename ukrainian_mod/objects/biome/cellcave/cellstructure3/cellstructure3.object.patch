@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ssособливо виглядають речіss."
+    "value": "Ssособливо виглядаючі речіss."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Аналіз. Ця клітинна структура виглядає як модифікований Apex."
+    "value": "Аналіз. Ця клітинна структура схожа на змінену структуру Апекса."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Reminds me of physics class. Або це була біологія?"
+    "value": "Нагадує мені урок фізики. Або це була біологія?"
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Гігантські клітини? Хто це тут залишив?"
+    "value": "Гігантські клітини? Хто їх залишив?"
   }
 ]

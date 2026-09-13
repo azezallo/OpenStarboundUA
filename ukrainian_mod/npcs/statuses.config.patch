@@ -150,92 +150,92 @@
     "op": "replace"
   },
   {
-    "value": " різак",
+    "value": "Має сверблячий пальчик ноги.",
     "path": "/statuses/generic/30",
     "op": "replace"
   },
   {
-    "value": " зломщик",
+    "value": "Бажають мати надприродні здібності.",
     "path": "/statuses/generic/31",
     "op": "replace"
   },
   {
-    "value": " меч",
+    "value": "Задається питанням, як вони б справилися з зомбі-апокаліпсисом.",
     "path": "/statuses/generic/32",
     "op": "replace"
   },
   {
-    "value": " різак",
+    "value": "Бажає мати книжку для розфарбовування.",
     "path": "/statuses/generic/33",
     "op": "replace"
   },
   {
-    "value": " подрібнювач",
+    "value": "Не бачить лісу через дерева.",
     "path": "/statuses/generic/34",
     "op": "replace"
   },
   {
-    "value": " клинок",
+    "value": "Має чудову ідею для відеоігри.",
     "path": "/statuses/generic/35",
     "op": "replace"
   },
   {
-    "value": " край",
+    "value": "Систематично підраховує кожен піксель.",
     "path": "/statuses/generic/36",
     "op": "replace"
   },
   {
-    "value": " ікло",
+    "value": "Думає, чи хтось приховано керує його життям.",
     "path": "/statuses/generic/37",
     "op": "replace"
   },
   {
-    "value": " брэнд",
+    "value": "Відчуває себе вишуканим.",
     "path": "/statuses/generic/38",
     "op": "replace"
   },
   {
-    "value": " эспадрон",
+    "value": "Розглядає можливість стати вегетаріанцем.",
     "path": "/statuses/generic/39",
     "op": "replace"
   },
   {
-    "value": " ятаган",
+    "value": "Відчуває себе розкішним.",
     "path": "/statuses/generic/40",
     "op": "replace"
   },
   {
-    "value": " фальшион",
+    "value": "Розглядає можливість поїхати на полювання.",
     "path": "/statuses/generic/41",
     "op": "replace"
   },
   {
-    "value": " обработчик",
+    "value": "Усвідомлений.",
     "path": "/statuses/generic/42",
     "op": "replace"
   },
   {
-    "value": " укус",
+    "value": "Стараюся не блювати",
     "path": "/statuses/generic/43",
     "op": "replace"
   },
   {
-    "value": " зуб",
+    "value": "Підпалений та роздратований",
     "path": "/statuses/generic/44",
     "op": "replace"
   },
   {
-    "value": " палаш",
+    "value": "Думаю, що намагаються щось робити",
     "path": "/statuses/generic/45",
     "op": "replace"
   },
   {
-    "value": " вбивця",
+    "value": "Думаю, чи чистить зуби мій скелет",
     "path": "/statuses/generic/46",
     "op": "replace"
   },
   {
-    "value": " гнев",
+    "value": "Мислю про втрату улюбленої тварини",
     "path": "/statuses/generic/47",
     "op": "replace"
   },
@@ -820,7 +820,7 @@
     "op": "replace"
   },
   {
-    "value": "Стурбований",
+    "value": "Занепокоєння",
     "path": "/statuses/anxious/1",
     "op": "replace"
   },
@@ -895,7 +895,7 @@
     "op": "replace"
   },
   {
-    "value": "Думає, що краще б зараз просто за комп'ютером посидіти",
+    "value": "Відчуває себе більш комфортно перед комп'ютером",
     "path": "/statuses/anxious/16",
     "op": "replace"
   },
@@ -910,7 +910,7 @@
     "op": "replace"
   },
   {
-    "value": "Ніяково мовчить",
+    "value": "Створює ніякові тиші",
     "path": "/statuses/anxious/19",
     "op": "replace"
   },
@@ -920,12 +920,12 @@
     "op": "replace"
   },
   {
-    "value": "Говорить не подумавши",
+    "value": "Говорить, не подумавши",
     "path": "/statuses/anxious/21",
     "op": "replace"
   },
   {
-    "value": "Відчуває ніяковість у розмові",
+    "value": "Знаходить розмову складною",
     "path": "/statuses/anxious/22",
     "op": "replace"
   },
@@ -940,12 +940,12 @@
     "op": "replace"
   },
   {
-    "value": "Холоне від жаху",
+    "value": "Відчуває страх",
     "path": "/statuses/anxious/25",
     "op": "replace"
   },
   {
-    "value": "Мимоволі гризе нігті",
+    "value": "Гризе нігті зобов’язково",
     "path": "/statuses/anxious/26",
     "op": "replace"
   },
@@ -955,12 +955,12 @@
     "op": "replace"
   },
   {
-    "value": "Просто хоче бути як удома",
+    "value": "Просто хоче бути вдома",
     "path": "/statuses/anxious/28",
     "op": "replace"
   },
   {
-    "value": "Планує лікування",
+    "value": "Розглядає терапію",
     "path": "/statuses/anxious/29",
     "op": "replace"
   },
@@ -975,7 +975,7 @@
     "op": "replace"
   },
   {
-    "value": "Малює скелетиків",
+    "value": "Уявляє страшні скелети",
     "path": "/statuses/easilyspooked/1",
     "op": "replace"
   },
@@ -990,12 +990,12 @@
     "op": "replace"
   },
   {
-    "value": "На межі",
+    "value": "Почувається на межі",
     "path": "/statuses/easilyspooked/4",
     "op": "replace"
   },
   {
-    "value": "Різко реагує на дивні звуки",
+    "value": "Чітко усвідомлює дивні звуки",
     "path": "/statuses/easilyspooked/5",
     "op": "replace"
   },
@@ -1005,7 +1005,7 @@
     "op": "replace"
   },
   {
-    "value": "Щось почулося... чи ні?",
+    "value": "Тільки що чую щось... чи ні?",
     "path": "/statuses/easilyspooked/7",
     "op": "replace"
   },
@@ -1020,7 +1020,7 @@
     "op": "replace"
   },
   {
-    "value": "Думає, що за ним ведеться полювання",
+    "value": "Вони переконані, що щось їх переслідує",
     "path": "/statuses/easilyspooked/10",
     "op": "replace"
   },
@@ -1030,52 +1030,52 @@
     "op": "replace"
   },
   {
-    "value": "Планує вивчитися військовому мистецтву",
+    "value": "Розглядає вивчення бойових мистецтв",
     "path": "/statuses/easilyspooked/12",
     "op": "replace"
   },
   {
-    "value": "Лякається власної тіні",
+    "value": "Стрибає від власної тіні",
     "path": "/statuses/easilyspooked/13",
     "op": "replace"
   },
   {
-    "value": "Бореться з хвилюванням",
+    "value": "Бореться з тривогою",
     "path": "/statuses/easilyspooked/14",
     "op": "replace"
   },
   {
-    "value": "В жаху",
+    "value": "Відчуває страх",
     "path": "/statuses/easilyspooked/15",
     "op": "replace"
   },
   {
-    "value": "Перебуває в жаху",
+    "value": "Переживає жах",
     "path": "/statuses/easilyspooked/16",
     "op": "replace"
   },
   {
-    "value": "Боїться монстрів",
+    "value": "Бояється монстрів",
     "path": "/statuses/easilyspooked/17",
     "op": "replace"
   },
   {
-    "value": "Благає про захист",
+    "value": "Молиться за захист",
     "path": "/statuses/easilyspooked/18",
     "op": "replace"
   },
   {
-    "value": "Безпорадний",
+    "value": "Відчуває безсилля",
     "path": "/statuses/easilyspooked/19",
     "op": "replace"
   },
   {
-    "value": "Намагається тримати свої страхи в узді",
+    "value": "Намагається контролювати свої фобії",
     "path": "/statuses/easilyspooked/20",
     "op": "replace"
   },
   {
-    "value": "Біліший за простирадло від жаху",
+    "value": "Очі розширені від страху",
     "path": "/statuses/easilyspooked/21",
     "op": "replace"
   },
@@ -1085,42 +1085,42 @@
     "op": "replace"
   },
   {
-    "value": "Нестриманий",
+    "value": "Відчуває нервозність",
     "path": "/statuses/easilyspooked/23",
     "op": "replace"
   },
   {
-    "value": "Думає, що зараз станеться щось погане",
+    "value": "Думає, що щось погане збирається трапитися",
     "path": "/statuses/easilyspooked/24",
     "op": "replace"
   },
   {
-    "value": "Тривожиться про артеріальний тиск",
+    "value": "Турбується щодо свого артеріального тиску",
     "path": "/statuses/easilyspooked/25",
     "op": "replace"
   },
   {
-    "value": "Перевіряє на зброю",
+    "value": "Перевіряє, чи вони озброєні",
     "path": "/statuses/easilyspooked/26",
     "op": "replace"
   },
   {
-    "value": "Не хоче почуватися самотньо",
+    "value": "Не хоче залишатися самотнім",
     "path": "/statuses/easilyspooked/27",
     "op": "replace"
   },
   {
-    "value": "Турбується про свою безпеку",
+    "value": "Турбується за свою безпеку",
     "path": "/statuses/easilyspooked/28",
     "op": "replace"
   },
   {
-    "value": "Втрачає глузд від жаху",
+    "value": "Втрачає розум",
     "path": "/statuses/easilyspooked/29",
     "op": "replace"
   },
   {
-    "value": "Думає про далекі краї",
+    "value": "Думає, що там є",
     "path": "/statuses/easilyspooked/30",
     "op": "replace"
   },
@@ -1180,7 +1180,7 @@
     "op": "replace"
   },
   {
-    "value": "Думає, складно чи ні керувати кораблем",
+    "value": "Задається питанням, чи зможуть вони керувати космічним кораблем",
     "path": "/statuses/clumsy/10",
     "op": "replace"
   },
@@ -1200,7 +1200,7 @@
     "op": "replace"
   },
   {
-    "value": "Клянеться, що тут ні до чого",
+    "value": "Клянеться, що не зробив цього",
     "path": "/statuses/clumsy/14",
     "op": "replace"
   },
@@ -1240,12 +1240,12 @@
     "op": "replace"
   },
   {
-    "value": "Криворукий",
+    "value": "Руки слизькі",
     "path": "/statuses/clumsy/22",
     "op": "replace"
   },
   {
-    "value": "Все постійно кидає",
+    "value": "Пальці майже масляні",
     "path": "/statuses/clumsy/23",
     "op": "replace"
   },
@@ -1255,27 +1255,27 @@
     "op": "replace"
   },
   {
-    "value": "Не вірить своїм очам",
+    "value": "Відчуває, що його/її не можна довіряти",
     "path": "/statuses/clumsy/25",
     "op": "replace"
   },
   {
-    "value": "Зазнає нищівної поразки",
+    "value": "Не встигає виконати обов'язок",
     "path": "/statuses/clumsy/26",
     "op": "replace"
   },
   {
-    "value": "Потребує підвищення самооцінки",
+    "value": "Відсутня гідність",
     "path": "/statuses/clumsy/27",
     "op": "replace"
   },
   {
-    "value": "Вдаряється великим пальцем ноги об усі одвірки",
+    "value": "Збив великий палец",
     "path": "/statuses/clumsy/28",
     "op": "replace"
   },
   {
-    "value": "Б'ється головою об дверний отвір",
+    "value": "Невпевний",
     "path": "/statuses/clumsy/29",
     "op": "replace"
   },
@@ -1325,7 +1325,7 @@
     "op": "replace"
   },
   {
-    "value": "Збирається пуститися в танок",
+    "value": "Відчуває бажання танцювати",
     "path": "/statuses/excited/8",
     "op": "replace"
   },
@@ -1335,17 +1335,17 @@
     "op": "replace"
   },
   {
-    "value": "На взводі",
+    "value": "Відчуває імпульсивність",
     "path": "/statuses/excited/10",
     "op": "replace"
   },
   {
-    "value": "Не може всидіти на місці",
+    "value": "Надмірно енергійний",
     "path": "/statuses/excited/11",
     "op": "replace"
   },
   {
-    "value": "Пикає в нетерпінні",
+    "value": "Гіпервентілюється",
     "path": "/statuses/excited/12",
     "op": "replace"
   },
@@ -1385,22 +1385,22 @@
     "op": "replace"
   },
   {
-    "value": "Грає в гру",
+    "value": "Грає у гру",
     "path": "/statuses/excited/20",
     "op": "replace"
   },
   {
-    "value": "Вибирає момент",
+    "value": "Захоплює момент",
     "path": "/statuses/excited/21",
     "op": "replace"
   },
   {
-    "value": "Агресивний",
+    "value": "Відчуває агресію",
     "path": "/statuses/excited/22",
     "op": "replace"
   },
   {
-    "value": "Під дією чогось",
+    "value": "Під впливом",
     "path": "/statuses/excited/23",
     "op": "replace"
   },
@@ -1415,7 +1415,7 @@
     "op": "replace"
   },
   {
-    "value": "В люті",
+    "value": "У люті",
     "path": "/statuses/excited/26",
     "op": "replace"
   },
@@ -1425,27 +1425,27 @@
     "op": "replace"
   },
   {
-    "value": "Поводиться невимушено",
+    "value": "Плавно рухається",
     "path": "/statuses/excited/28",
     "op": "replace"
   },
   {
-    "value": "Поводиться грайливо",
+    "value": "Відчуває себе грайливим",
     "path": "/statuses/excited/29",
     "op": "replace"
   },
   {
-    "value": "У шаленстві",
+    "value": "Відчуває себе бурлячим",
     "path": "/statuses/excited/30",
     "op": "replace"
   },
   {
-    "value": "Хоче кого-небудь обійняти",
+    "value": "Хоче обійняти когось",
     "path": "/statuses/intrusive/0",
     "op": "replace"
   },
   {
-    "value": "Хоче дізнатися, яке твоє обличчя на дотик",
+    "value": "Хоче дізнатися, як відчувається твоє обличчя при дотику",
     "path": "/statuses/intrusive/1",
     "op": "replace"
   },
@@ -1455,32 +1455,32 @@
     "op": "replace"
   },
   {
-    "value": "Насолоджується звуком кулачних ударів",
+    "value": "Насолоджується звуками людей, коли їх підштовхують",
     "path": "/statuses/intrusive/3",
     "op": "replace"
   },
   {
-    "value": "Хоче попліткувати",
+    "value": "Хоче послухати секрети",
     "path": "/statuses/intrusive/4",
     "op": "replace"
   },
   {
-    "value": "Хоче понюхати оточуючих",
+    "value": "Хоче понюхати людей",
     "path": "/statuses/intrusive/5",
     "op": "replace"
   },
   {
-    "value": "Хоче стати чиїмсь найкращим другом",
+    "value": "Хоче стати найкращим другом когось",
     "path": "/statuses/intrusive/6",
     "op": "replace"
   },
   {
-    "value": "Думає над текстом пісні, присвяченої тобі",
+    "value": "Думав над текстом пісні, присвяченої тобі",
     "path": "/statuses/intrusive/7",
     "op": "replace"
   },
   {
-    "value": "Думає про те, які всі навколо класні",
+    "value": "Думає, що всі навколо чудові",
     "path": "/statuses/intrusive/8",
     "op": "replace"
   },
@@ -1490,7 +1490,7 @@
     "op": "replace"
   },
   {
-    "value": "Жахає",
+    "value": "Підкрадається",
     "path": "/statuses/intrusive/10",
     "op": "replace"
   },
@@ -1505,12 +1505,12 @@
     "op": "replace"
   },
   {
-    "value": "Відчуває вразливість",
+    "value": "Почувається надто чутливо",
     "path": "/statuses/intrusive/13",
     "op": "replace"
   },
   {
-    "value": "Переходить межу",
+    "value": "Перетинає межу",
     "path": "/statuses/intrusive/14",
     "op": "replace"
   },
@@ -1520,17 +1520,17 @@
     "op": "replace"
   },
   {
-    "value": "Мимоволі облизує губи",
+    "value": "Примусово лизне губи",
     "path": "/statuses/intrusive/16",
     "op": "replace"
   },
   {
-    "value": "Почувається ізгоєм",
+    "value": "Відчуває себе соціально неприйнятним",
     "path": "/statuses/intrusive/17",
     "op": "replace"
   },
   {
-    "value": "У невідповідному одязі",
+    "value": "Одягається невірно",
     "path": "/statuses/intrusive/18",
     "op": "replace"
   },
@@ -1545,7 +1545,7 @@
     "op": "replace"
   },
   {
-    "value": "Поводиться зарозуміло",
+    "value": "Здійснює припущення",
     "path": "/statuses/intrusive/21",
     "op": "replace"
   },
@@ -1555,7 +1555,7 @@
     "op": "replace"
   },
   {
-    "value": "Свариться з друзями",
+    "value": "Розриває дружбу",
     "path": "/statuses/intrusive/23",
     "op": "replace"
   },
@@ -1570,7 +1570,7 @@
     "op": "replace"
   },
   {
-    "value": "Перебуває в гніві",
+    "value": "Дратує",
     "path": "/statuses/intrusive/26",
     "op": "replace"
   },
@@ -1585,12 +1585,12 @@
     "op": "replace"
   },
   {
-    "value": "Нав'язливий",
+    "value": "Відчуває себе нав'язливим",
     "path": "/statuses/intrusive/29",
     "op": "replace"
   },
   {
-    "value": "Гладить стегна",
+    "value": "Гладить їхні стегна",
     "path": "/statuses/intrusive/30",
     "op": "replace"
   },
@@ -1600,12 +1600,12 @@
     "op": "replace"
   },
   {
-    "value": "Ниє",
+    "value": "Дорф",
     "path": "/statuses/dumb/1",
     "op": "replace"
   },
   {
-    "value": "Не може згадати, що він робив",
+    "value": "Не може згадати, що вони робили",
     "path": "/statuses/dumb/2",
     "op": "replace"
   },
@@ -1620,17 +1620,17 @@
     "op": "replace"
   },
   {
-    "value": "Сумнівається",
+    "value": "Не впевнений",
     "path": "/statuses/dumb/5",
     "op": "replace"
   },
   {
-    "value": "Почувається нерозумно",
+    "value": "Відчуває себе дурним",
     "path": "/statuses/dumb/6",
     "op": "replace"
   },
   {
-    "value": "Почувається нерозумно",
+    "value": "Відчуває себе тупим",
     "path": "/statuses/dumb/7",
     "op": "replace"
   },
@@ -1640,7 +1640,7 @@
     "op": "replace"
   },
   {
-    "value": "У збентежені",
+    "value": "Звичайно збентежений",
     "path": "/statuses/dumb/9",
     "op": "replace"
   },
@@ -1665,17 +1665,17 @@
     "op": "replace"
   },
   {
-    "value": "Відчуває себе чимось зобов'язаним",
+    "value": "Відчувається психічно перевантаженим",
     "path": "/statuses/dumb/14",
     "op": "replace"
   },
   {
-    "value": "Працює абияк",
+    "value": "Працює погано",
     "path": "/statuses/dumb/15",
     "op": "replace"
   },
   {
-    "value": "Ніяковіє",
+    "value": "Стає заплутаним",
     "path": "/statuses/dumb/16",
     "op": "replace"
   },
@@ -1685,22 +1685,22 @@
     "op": "replace"
   },
   {
-    "value": "Долають нав'язливі думки",
+    "value": "Психічно перевантажений",
     "path": "/statuses/dumb/18",
     "op": "replace"
   },
   {
-    "value": "У блаженному невіданні",
+    "value": "Безтурботно незрозумілий",
     "path": "/statuses/dumb/19",
     "op": "replace"
   },
   {
-    "value": "Перебуває в невігластві",
+    "value": "Відчуває себе невігласом",
     "path": "/statuses/dumb/20",
     "op": "replace"
   },
   {
-    "value": "Не в силах щось сказати",
+    "value": "Не в змозі щось сказати",
     "path": "/statuses/dumb/21",
     "op": "replace"
   },
@@ -1720,12 +1720,12 @@
     "op": "replace"
   },
   {
-    "value": "Дуже міцно думає",
+    "value": "Сильно розмірковує",
     "path": "/statuses/dumb/25",
     "op": "replace"
   },
   {
-    "value": "Жорстоко помиляється",
+    "value": "Невдало діє",
     "path": "/statuses/dumb/26",
     "op": "replace"
   },
@@ -1735,7 +1735,7 @@
     "op": "replace"
   },
   {
-    "value": "Перебріхує жарти",
+    "value": "Невдало розповідає жарти",
     "path": "/statuses/dumb/28",
     "op": "replace"
   },
@@ -1750,12 +1750,12 @@
     "op": "replace"
   },
   {
-    "value": "Збитий з пантелику",
+    "value": "Здивований",
     "path": "/statuses/dumb/31",
     "op": "replace"
   },
   {
-    "value": "Шкодує про все",
+    "value": "Наповнений жалем",
     "path": "/statuses/emo/0",
     "op": "replace"
   },
@@ -1765,27 +1765,27 @@
     "op": "replace"
   },
   {
-    "value": "Відчуває загальне нерозуміння",
+    "value": "Відчуває, що ніхто не розуміє його/її",
     "path": "/statuses/emo/2",
     "op": "replace"
   },
   {
-    "value": "Дуже емоційний",
+    "value": "Надзвичайно емоційний",
     "path": "/statuses/emo/3",
     "op": "replace"
   },
   {
-    "value": "Хоче навічно забитися в темний куток",
+    "value": "Тільки хоче назавжди залишитись у темряві",
     "path": "/statuses/emo/4",
     "op": "replace"
   },
   {
-    "value": "Відчуває, як щось щемить у серці",
+    "value": "Має глибокий сум у серці",
     "path": "/statuses/emo/5",
     "op": "replace"
   },
   {
-    "value": "Загублений",
+    "value": "Відчуває себе загубленим",
     "path": "/statuses/emo/6",
     "op": "replace"
   },
@@ -1795,7 +1795,7 @@
     "op": "replace"
   },
   {
-    "value": "Відчуває втому",
+    "value": "Почувається зневірено",
     "path": "/statuses/emo/8",
     "op": "replace"
   },
@@ -1805,7 +1805,7 @@
     "op": "replace"
   },
   {
-    "value": "Планує підстригтися",
+    "value": "Розглядає можливість підстригтися",
     "path": "/statuses/emo/10",
     "op": "replace"
   },
@@ -1820,12 +1820,12 @@
     "op": "replace"
   },
   {
-    "value": "Почувається помилкою",
+    "value": "Почувається невдалим",
     "path": "/statuses/emo/13",
     "op": "replace"
   },
   {
-    "value": "Щось відчуває",
+    "value": "Відчуває емоції",
     "path": "/statuses/emo/14",
     "op": "replace"
   },
@@ -1835,7 +1835,7 @@
     "op": "replace"
   },
   {
-    "value": "Вдається до сентиментів",
+    "value": "Почувається емоційно",
     "path": "/statuses/emo/16",
     "op": "replace"
   },
@@ -1845,7 +1845,7 @@
     "op": "replace"
   },
   {
-    "value": "В екзистенційній кризі",
+    "value": "Потрапив у екзистенційну кризу",
     "path": "/statuses/emo/18",
     "op": "replace"
   },
@@ -1860,17 +1860,17 @@
     "op": "replace"
   },
   {
-    "value": "З секунди на секунду розридається",
+    "value": "Почувається, що хочеться плакати",
     "path": "/statuses/emo/21",
     "op": "replace"
   },
   {
-    "value": "У депресії",
+    "value": "Піддається депресії",
     "path": "/statuses/emo/22",
     "op": "replace"
   },
   {
-    "value": "Замкнутий",
+    "value": "Почувається замкнутим",
     "path": "/statuses/emo/23",
     "op": "replace"
   },
@@ -1880,22 +1880,22 @@
     "op": "replace"
   },
   {
-    "value": "Мириться",
+    "value": "Подався",
     "path": "/statuses/emo/25",
     "op": "replace"
   },
   {
-    "value": "Виснажений",
+    "value": "Почувається самотнім",
     "path": "/statuses/emo/26",
     "op": "replace"
   },
   {
-    "value": "З секунди на секунду розридається",
+    "value": "Почувається, що хочеться плакати",
     "path": "/statuses/emo/27",
     "op": "replace"
   },
   {
-    "value": "Намагається відновити самооцінку",
+    "value": "Намагається відновити власну самооцінку",
     "path": "/statuses/emo/28",
     "op": "replace"
   },
@@ -1905,12 +1905,12 @@
     "op": "replace"
   },
   {
-    "value": "Думає, що пора поворухнутися",
+    "value": "Вважає, що важливо рухатись швидко",
     "path": "/statuses/fast/0",
     "op": "replace"
   },
   {
-    "value": "Відчуває, ніби світ рухається дуже повільно",
+    "value": "Відчуває, що світ рухається надто повільно",
     "path": "/statuses/fast/1",
     "op": "replace"
   },
@@ -1920,12 +1920,12 @@
     "op": "replace"
   },
   {
-    "value": "Підчищає кінці",
+    "value": "Доводить справи швидко",
     "path": "/statuses/fast/3",
     "op": "replace"
   },
   {
-    "value": "Не може загальмувати",
+    "value": "Трудно зупинитися",
     "path": "/statuses/fast/4",
     "op": "replace"
   },
@@ -1935,17 +1935,17 @@
     "op": "replace"
   },
   {
-    "value": "Квапить порядок речей",
+    "value": "Покваплює справи",
     "path": "/statuses/fast/6",
     "op": "replace"
   },
   {
-    "value": "Думки обганяють одна одну",
+    "value": "Думки розбігаються одне за одним",
     "path": "/statuses/fast/7",
     "op": "replace"
   },
   {
-    "value": "Біжить стрімголов",
+    "value": "Стрибає без огляду",
     "path": "/statuses/fast/8",
     "op": "replace"
   },
@@ -1955,17 +1955,17 @@
     "op": "replace"
   },
   {
-    "value": "Незадоволений своєю швидкістю",
+    "value": "Зніяковілий через свою швидкість",
     "path": "/statuses/fast/10",
     "op": "replace"
   },
   {
-    "value": "Бажає бігти з великою швидкістю",
+    "value": "Бажає, що може біжити швидше",
     "path": "/statuses/fast/11",
     "op": "replace"
   },
   {
-    "value": "Сумує",
+    "value": "Відчуває нудьгу",
     "path": "/statuses/fast/12",
     "op": "replace"
   },
@@ -1975,12 +1975,12 @@
     "op": "replace"
   },
   {
-    "value": "Мчить щодуху",
+    "value": "Мчить без упину",
     "path": "/statuses/fast/14",
     "op": "replace"
   },
   {
-    "value": "Відмовляється зупинятися",
+    "value": "Не сповільнюється",
     "path": "/statuses/fast/15",
     "op": "replace"
   },
@@ -2035,7 +2035,7 @@
     "op": "replace"
   },
   {
-    "value": "Пунктуальний",
+    "value": "Відчуває пунктуальність",
     "path": "/statuses/fast/26",
     "op": "replace"
   },
@@ -2055,12 +2055,12 @@
     "op": "replace"
   },
   {
-    "value": "Тримає себе у формі",
+    "value": "Тримай себе в формі",
     "path": "/statuses/fast/30",
     "op": "replace"
   },
   {
-    "value": "Турбується",
+    "value": "Відчуває неспокій",
     "path": "/statuses/nocturnal/0",
     "op": "replace"
   },
@@ -2085,22 +2085,22 @@
     "op": "replace"
   },
   {
-    "value": "Бадьорий і веселий",
+    "value": "Піднявся",
     "path": "/statuses/nocturnal/5",
     "op": "replace"
   },
   {
-    "value": "Приховує щось",
+    "value": "Відчуває підступність",
     "path": "/statuses/nocturnal/6",
     "op": "replace"
   },
   {
-    "value": "Чекає потрібного моменту",
+    "value": "Чекає правильного моменту",
     "path": "/statuses/nocturnal/7",
     "op": "replace"
   },
   {
-    "value": "Не може включитися в те, що відбувається",
+    "value": "Відчуває розсинхронізацію",
     "path": "/statuses/nocturnal/8",
     "op": "replace"
   },
@@ -2125,32 +2125,32 @@
     "op": "replace"
   },
   {
-    "value": "Хоче, щоб йому змінили графік чергувань",
+    "value": "Хоче змінити свій графік сну",
     "path": "/statuses/nocturnal/13",
     "op": "replace"
   },
   {
-    "value": "Ходить з почервонілими очима",
+    "value": "Має кров'яні очі",
     "path": "/statuses/nocturnal/14",
     "op": "replace"
   },
   {
-    "value": "Намагається розбудити мертвого",
+    "value": "Намагається розбудити мертвих",
     "path": "/statuses/nocturnal/15",
     "op": "replace"
   },
   {
-    "value": "Відлюдькуватий",
+    "value": "Відчуває себе незв'язним",
     "path": "/statuses/nocturnal/16",
     "op": "replace"
   },
   {
-    "value": "Пристрастився до картинок із котиками",
+    "value": "Залежить від картинок із котиками",
     "path": "/statuses/nocturnal/17",
     "op": "replace"
   },
   {
-    "value": "Не може зібратися з думками",
+    "value": "Пухнастий? (Відчуває розміт)",
     "path": "/statuses/nocturnal/18",
     "op": "replace"
   },
@@ -2160,7 +2160,7 @@
     "op": "replace"
   },
   {
-    "value": "Почувається якось не дуже",
+    "value": "Почувається мопим",
     "path": "/statuses/nocturnal/20",
     "op": "replace"
   },
@@ -2170,22 +2170,22 @@
     "op": "replace"
   },
   {
-    "value": "Намагається зрозуміти, чи у своєму він розумі",
+    "value": "Перевіряє свою психіку",
     "path": "/statuses/nocturnal/22",
     "op": "replace"
   },
   {
-    "value": "Занепав духом",
+    "value": "У небезпеці розвалитися",
     "path": "/statuses/nocturnal/23",
     "op": "replace"
   },
   {
-    "value": "Бездумно ризикує",
+    "value": "Ризикує безумством",
     "path": "/statuses/nocturnal/24",
     "op": "replace"
   },
   {
-    "value": "Пристрастився до кави",
+    "value": "Відчайдушно шукає каву",
     "path": "/statuses/nocturnal/25",
     "op": "replace"
   },
@@ -2205,7 +2205,7 @@
     "op": "replace"
   },
   {
-    "value": "Мріє",
+    "value": "Мрійливий",
     "path": "/statuses/nocturnal/29",
     "op": "replace"
   },
@@ -2220,12 +2220,12 @@
     "op": "replace"
   },
   {
-    "value": "Хоче з ким-небудь сьогодні поговорити",
+    "value": "Хоче поговорити з усіма сьогодні",
     "path": "/statuses/socialite/0",
     "op": "replace"
   },
   {
-    "value": "У настрої потеревенити",
+    "value": "В настрої розмовляти",
     "path": "/statuses/socialite/1",
     "op": "replace"
   },
@@ -2235,32 +2235,32 @@
     "op": "replace"
   },
   {
-    "value": "Має в запасі чудову історію",
+    "value": "Має чудову історію, щоб розповісти",
     "path": "/statuses/socialite/3",
     "op": "replace"
   },
   {
-    "value": "Має в запасі чудовий жарт",
+    "value": "Має чудовий жарт, щоб розповісти",
     "path": "/statuses/socialite/4",
     "op": "replace"
   },
   {
-    "value": "Має про запас світовий анекдот",
+    "value": "Має відмінний анекдот, щоб поділитися",
     "path": "/statuses/socialite/5",
     "op": "replace"
   },
   {
-    "value": "Хоче відірватися на вечірці",
+    "value": "Бажає устроїти вечірку",
     "path": "/statuses/socialite/6",
     "op": "replace"
   },
   {
-    "value": "Думає, чи має справжніх друзів",
+    "value": "Думав(а), чи має справжніх друзів",
     "path": "/statuses/socialite/7",
     "op": "replace"
   },
   {
-    "value": "На висоті",
+    "value": "Відчувається популярним",
     "path": "/statuses/socialite/8",
     "op": "replace"
   },
@@ -2270,22 +2270,22 @@
     "op": "replace"
   },
   {
-    "value": "Хоче зібрати гурт",
+    "value": "Хоче сформувати гурт",
     "path": "/statuses/socialite/10",
     "op": "replace"
   },
   {
-    "value": "Дивиться новими очима на товаришів",
+    "value": "Переглядає своїх товаришів",
     "path": "/statuses/socialite/11",
     "op": "replace"
   },
   {
-    "value": "Подобається всім",
+    "value": "Відчуває себе популярним",
     "path": "/statuses/socialite/12",
     "op": "replace"
   },
   {
-    "value": "Відчуває себе цвяхом програми",
+    "value": "Відчуває себе центром вечірки",
     "path": "/statuses/socialite/13",
     "op": "replace"
   },
@@ -2295,7 +2295,7 @@
     "op": "replace"
   },
   {
-    "value": "Потрапляє в незручну ситуацію",
+    "value": "Випускає смішну помилку",
     "path": "/statuses/socialite/15",
     "op": "replace"
   },
@@ -2310,7 +2310,7 @@
     "op": "replace"
   },
   {
-    "value": "Думає, що б одягнути",
+    "value": "Розглядає, що надягти",
     "path": "/statuses/socialite/18",
     "op": "replace"
   },
@@ -2320,17 +2320,17 @@
     "op": "replace"
   },
   {
-    "value": "Засновує клуб",
+    "value": "Створює клуб",
     "path": "/statuses/socialite/20",
     "op": "replace"
   },
   {
-    "value": "Качається як сир у маслі",
+    "value": "Зберігає мир",
     "path": "/statuses/socialite/21",
     "op": "replace"
   },
   {
-    "value": "Веде переговори",
+    "value": "Займається спілкуванням з метою вигоди",
     "path": "/statuses/socialite/22",
     "op": "replace"
   },
@@ -2355,12 +2355,12 @@
     "op": "replace"
   },
   {
-    "value": "Прислухається до тих, кому довіряє",
+    "value": "Розглядаючи, кому вони дійсно довіряють",
     "path": "/statuses/socialite/27",
     "op": "replace"
   },
   {
-    "value": "Відкритий новим ідеям",
+    "value": "Відчуває відкритість до нових ідей",
     "path": "/statuses/socialite/28",
     "op": "replace"
   },
@@ -2370,7 +2370,7 @@
     "op": "replace"
   },
   {
-    "value": "Ось-ось розрегочеться",
+    "value": "Відчуває бажання посміятися",
     "path": "/statuses/socialite/30",
     "op": "replace"
   },

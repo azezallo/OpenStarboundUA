@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Intrigued. Have you found any staves or wands recently? They are powerful weapons in the right hands!"
+    "value": "Цікавість. Чи знайшли ти останнім часом жодні посохи чи палички? Вони потужна зброя в правильних руках!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "Excited. I'm researching the different kinds of staves and wands. Have you seen any lately?"
+    "value": "Збудження. Я досліджую різні види посохів і паличок. Чи бачив ти щось останнім часом?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
-    "value": "Nervous. These robes are elegant, but they are indeed difficult to walk in."
+    "value": "Тривога. Ці плаття елегантні, але дійсно важко ходити в них."
   }
 ]

@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Базовий дерев'яний стілець."
+    "value": "Базовий дерев'яний стілець"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Дерев'яний м'який стілець"
+    "value": "Дерев’яний підкладений стілець"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Дуже простий дерев'яний стілець."
+    "value": "Дуже простий дерев'яний стілець"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Дерев'яний стілець з червоною подушкою на ньому."
+    "value": "Дерев'яний стілець з червоною подушкою на ньому"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Подушка зробити стілець sssoft."
+    "value": "Підушка робить стілець м’яким"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Безкорисливий. Нудний дерев'яний стілець, як і будь-який інший."
+    "value": "Беззацікавлений. Нудний дерев'яний стілець, як і будь-інший."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Просте маленьке крісло."
+    "value": "Простий маленький стілець"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Нічим не примітний дерев'яний стілець."
+    "value": "Непомітний дерев'яний стілець"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Стілець з дерева."
+    "value": "Стілець з дерева"
   }
 ]

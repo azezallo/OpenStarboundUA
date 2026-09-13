@@ -67,11 +67,11 @@
   {
     "op": "replace",
     "path": "/opensb/binds/editingCopyItemJson/name",
-    "value": "Скопіювати предмет в курсорі"
+    "value": "Скопіювати предмет у курсор"
   },
   {
     "op": "replace",
     "path": "/opensb/binds/editingPasteItemJson/name",
-    "value": "Вставити предмет в курсор"
+    "value": "Вставити предмет у курсор"
   }
 ]

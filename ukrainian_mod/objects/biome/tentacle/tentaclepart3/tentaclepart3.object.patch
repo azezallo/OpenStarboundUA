@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Щупальцева частина"
+    "value": "Частина щупальця"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssly виглядає."
+    "value": "Ссслій виглядає."
   },
   {
     "op": "replace",
@@ -32,12 +32,12 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "фу Що це таке?"
+    "value": "Фу! Що це таке?"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Якась абсолютно огидна, органічна структура."
+    "value": "Деяка надзвичайно огідна, органічна структура."
   },
   {
     "op": "replace",

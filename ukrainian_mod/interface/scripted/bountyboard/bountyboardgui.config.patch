@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/gui/windowtitle/title",
-    "value": " Дошка Нагород"
+    "value": "Дошка Нагород"
   },
   {
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
-    "value": " Найбільш Розшукувані в Галактиці"
+    "value": "Найбільш Розшукувані в Галактиці"
   },
   {
     "op": "replace",

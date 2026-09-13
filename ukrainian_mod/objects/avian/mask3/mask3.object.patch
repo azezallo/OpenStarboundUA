@@ -12,36 +12,36 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Хвилинку, це Apex?"
+    "value": "Хвилинку, це Апекси?"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Ця маска є попередженням для Apex."
+    "value": "Ця маска є попередженням для Апекси."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Люди-птахи змушують Apex виглядати безглуздо."
+    "value": "Авіани роблять Апекси виглядати безглуздо."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спостережливий. Ймовірно, ця маска повинна бути Apex."
+    "value": "Спостережливий. Ймовірно, ця маска повинна бути Апекси."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Я думаю, що це має бути Apex."
+    "value": "Я думаю, що це має бути Апекси."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Ця маска Apex не дуже точна."
+    "value": "Ця маска Апекси не дуже точна."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Невтішне зображення Apex."
+    "value": "Невтішне зображення Апексів"
   }
 ]

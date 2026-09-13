@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floran ssstab скриня відкрита."
+    "value": "Флоран ссстаб скриня відкрито"
   },
   {
     "op": "replace",
@@ -32,12 +32,12 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Валовий. Добре, давайте відкриємо його."
+    "value": "Нудний. Добре, давайте відкриємо його."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Нудотна грудна клітка."
+    "value": "Зневажлива скриня."
   },
   {
     "op": "replace",

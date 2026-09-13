@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Груди теплі, а руки?"
+    "value": "Твій торс теплий, але що з руками?"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Светр Жилет"
+    "value": "Світровий жилет"
   }
 ]

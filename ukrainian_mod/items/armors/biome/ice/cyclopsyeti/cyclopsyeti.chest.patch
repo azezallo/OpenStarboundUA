@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Нагрудник, виготовлений із єті-циклопа."
+    "value": "Нагрудник, виготовлений із еті-циклопа."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Сорочка Cyclops Yeti"
+    "value": "Сорочка еті-циклопа"
   }
 ]

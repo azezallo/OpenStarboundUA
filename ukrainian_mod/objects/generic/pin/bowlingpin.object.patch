@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Збийте його!"
+    "value": "Збивай його!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Боулінг Pin"
+    "value": "Боулинг-пін"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Фігура, яка використовується для змагальної гри."
+    "value": "Фігурка, що використовується у конкурентній грі."
   },
   {
     "op": "replace",
@@ -27,12 +27,12 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Цікаво. Він вишикувався, щоб його знову збили."
+    "value": "Цікаво. Його розташовано так, щоб його знову збити."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Кегля для боулінгу. Я хочу його перекинути."
+    "value": "Боулинг-пін. Я хочу його збити."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ця кегля просто проситься, щоб її перекинули."
+    "value": "Ця кегля просто просить, щоб її перекинули."
   }
 ]

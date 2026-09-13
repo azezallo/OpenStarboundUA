@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Чарівна та добре зроблена дерев’яна шафа."
+    "value": "Чарівна та добротна дерев'яна шафа."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Середньовічний кабінет"
+    "value": "Середньовічна шафа"
   },
   {
     "op": "replace",
@@ -17,31 +17,31 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Містка шафа. Не сплутати з флігелем."
+    "value": "Містка шафа. Головне не сплутати з вуличним туалетом."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Високий дерев'яний ящик. Good for Floran to hide in."
+    "value": "Висссокий дерев'яний ящик. Флорану добре тут ховатиссся."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вдячний. Чудово зроблена дерев'яна шафа."
+    "value": "Вдячність. Майстерно зроблена дерев'яна шафа."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Цікаво, чи є тут ворота в інший світ."
+    "value": "Цікаво, чи є тут брама до іншого світу."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Приваблива шафа з дерева з вигадливим орнаментом."
+    "value": "Приваблива шафа з дерева з вигадливою текстурою."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Гарна на вигляд шафа."
+    "value": "Файна на вигляд шафа."
   }
 ]

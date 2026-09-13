@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Poison Trictus"
+    "value": "Отруйний тріктус"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Its diet is made up of small amounts of water that it finds by digging into the ground."
+    "value": "Його раціон складається з невеликої кількості води, яку він знаходить, зариваючись у землю."
   }
 ]

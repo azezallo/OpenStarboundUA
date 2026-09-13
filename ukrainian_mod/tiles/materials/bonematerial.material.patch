@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вжахнувся. Кістки з різних джерел, зібрані разом."
+    "value": "Зляканий. Кістки з різних джерел розташовані разом."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Бонесс!"
+    "value": "Бонес!"
   },
   {
     "op": "replace",

@@ -200,7 +200,7 @@
     "op": "replace"
   },
   {
-    "value": "люто",
+    "value": "лютих",
     "path": "/0/1/40/0",
     "op": "replace"
   },
@@ -225,12 +225,12 @@
     "op": "replace"
   },
   {
-    "value": "похмуро",
+    "value": "моторошн<other.pronoun.obj7end>",
     "path": "/0/1/45/0",
     "op": "replace"
   },
   {
-    "value": "похмуро",
+    "value": "моторошн<other.pronoun.obj7end>",
     "path": "/0/1/46/0",
     "op": "replace"
   },
@@ -240,7 +240,7 @@
     "op": "replace"
   },
   {
-    "value": "злісно",
+    "value": "злісних",
     "path": "/0/1/48/0",
     "op": "replace"
   },
@@ -255,7 +255,7 @@
     "op": "replace"
   },
   {
-    "value": "могутньо",
+    "value": "могутній",
     "path": "/0/1/51/0",
     "op": "replace"
   },
@@ -280,7 +280,7 @@
     "op": "replace"
   },
   {
-    "value": "цікаво",
+    "value": "інтригуюче",
     "path": "/0/1/56/0",
     "op": "replace"
   }

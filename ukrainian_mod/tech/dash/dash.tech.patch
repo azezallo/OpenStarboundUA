@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Двічі торкніться ^green;[A]^white; або ^green;[D] ^white;, щоб швидко кинутися! Зарядка: 0,8 с"
+    "value": "Двічі натисніть ^green;[A]^white; або ^green;[D] ^white;, щоб зробити швидкий ривок! Перезарядка: 0.8 с"
   },
   {
     "op": "replace",
     "path": "/shortDescription",
-    "value": "Тире"
+    "value": "Ривок"
   }
 ]

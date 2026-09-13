@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Маскування грибів"
+    "value": "Грибкова маска"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Грибна маскувальна маска"
+    "value": "Маска підмінки гриба"
   }
 ]

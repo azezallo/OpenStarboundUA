@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "був покидьком",
+    "value": "хамство",
     "path": "/scriptConfig/generatedText/fluff/0/1/0",
     "op": "replace"
   },
@@ -40,37 +40,37 @@
     "op": "replace"
   },
   {
-    "value": "зіпсував веселощі",
+    "value": "псування веселощів",
     "path": "/scriptConfig/generatedText/fluff/0/1/7",
     "op": "replace"
   },
   {
-    "value": "Збери збитки з <target>",
+    "value": "Стягни збитки з <target>",
     "path": "/scriptConfig/generatedText/title/0",
     "op": "replace"
   },
   {
-    "value": "Притягни <target> до відповідальності",
+    "value": "Притягни <target> до правосуддя",
     "path": "/scriptConfig/generatedText/title/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Допоможи Флорану вершити правосуддя над <target>!",
+    "value": "^cyan;Допоможи Флорану звершшшити правосссуддя над <target>!",
     "path": "/scriptConfig/generatedText/goalText/floran/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Змусь <target> заплатити за порушення правил!",
+    "value": "^cyan;Змусссь <target> заплатити за порушшшення правил!",
     "path": "/scriptConfig/generatedText/goalText/floran/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Туманно. Очевидно, <target> порушував правила... Гадаю, ми повинні здійснити правосуддя.",
+    "value": "^cyan;Неясність. Очевидно, <target> порушував правила... Гадаю, ми повинні здійснити правосуддя.",
     "path": "/scriptConfig/generatedText/goalText/glitch/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Нав'язливо. Допоможеш мені притягнути <target> до відповідальності? У мене є план...",
+    "value": "^cyan;Одержимість. Допоможеш мені притягнути <target> до відповідальності? У мене є план...",
     "path": "/scriptConfig/generatedText/goalText/glitch/1",
     "op": "replace"
   },
@@ -85,257 +85,257 @@
     "op": "replace"
   },
   {
-    "value": "Флоран має багато справ, дуже зайнятий. Допоможеш Флорану? ^orange;<target> ^white;скоїв ганебний злочин, і закон має бути дотриманий! ^green;Піди та віддай це ^orange;повідомлення про злочин^green; <target.pronoun.object> і візьми один ^orange;[<item>]^green; як оплату.",
+    "value": "Флоран має багато сссправ, дужжже зайнятий. Допоможешшш Флорану? ^orange;<target> ^white;ссскоїв ганебний злочин, і закон має бути дотриманий! ^green;Піди та віддай це ^orange;повідомлення про злочин^green; <target.pronoun.object> і візьми один ^orange;<item>^green; як оплату.",
     "path": "/scriptConfig/generatedText/text/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран чув, що ^orange;<target>^white; поводиться не дуже добре. Флоран хоче, щоб ти вирішив це тихо — ^green;віднеси це ^orange;повідомлення про злочин^green; <target.pronoun.object> та візьми один ^orange;[<item>]^green; у <target.pronoun.object> ^white;як оплату.",
+    "value": "Флоран чув, що ^orange;<target>^white; поводиться не дужжже добре. Флоран хоче, щоб ти вирішшшив це тихо — ^green;віднессси це ^orange;повідомлення про злочин^green; <target.pronoun.object> та візьми один ^orange;<item> ^green;у <target.pronoun.object> ^white;як оплату.",
     "path": "/scriptConfig/generatedText/text/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Неуважно. ^orange;<target>^white; скоїв злочин і заборгував штраф. Чи ^green;доставиш ти це ^orange;повідомлення^green; <target.pronoun.object>^white; та ^green;візьмеш <target.pronoun.reflexive> ^orange;[<item>]^white; як відшкодування збитків? Це тривіальне завдання, а я занадто зайнятий для нього.",
+    "value": "Розсіяність. ^orange;<target>^white; скоїв злочин і заборгував штраф. Чи ^green;доставиш ти це ^orange;повідомлення^green; <target.pronoun.object>^white; та ^green;візьмеш <target.pronoun.possessiveDet> ^orange;<item>^white; як відшкодування збитків? Це дріб'язкове завдання, а я занадто зайнятий для нього.",
     "path": "/scriptConfig/generatedText/text/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Рішуче. По-перше, з жалем повідомляю тобі, що наш на вигляд невинний товариш ^orange;<target>^white; нещодавно скоїв злочин. ^green;Достав це ^orange;повідомлення про злочин^white; та візьми <target.pronoun.reflexive> ^orange;[<item>]^white; як компенсацію.",
+    "value": "Рішучість. По-перше, з жалем повідомляю тобі, що наш на вигляд невинний товариш ^orange;<target>^white; нещодавно скоїв злочин. ^green;Достав це ^orange;повідомлення про злочин^white; та візьми <target.pronoun.possessiveDet> ^orange;<item>^white; як компенсацію.",
     "path": "/scriptConfig/generatedText/text/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "У мене є купа доказів, які доводять, що ^orange;<target>^white; затівав щось недобре. ^green;Достав це ^orange;повідомлення про штраф^green; <target.pronoun.object>.^white; <target.pronoun.capitalSubject> вже погодився віддати свій ^orange;[<item>]^white; як оплату.",
+    "value": "У мене є купа доказів, які доводять, що ^orange;<target>^white; затівав щось недобре. ^green;Достав це ^orange;повідомлення про штраф^green; <target.pronoun.object>.^white; <target.pronoun.capitalSubject> вже погодився віддати свій ^orange;<item>^white; як оплату.",
     "path": "/scriptConfig/generatedText/text/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Першим пунктом нашого порядку денного є ^orange;<target>^white;. З'явилися певні докази, що <target.pronoun.subject> — досить підозріла особа. ^green;Достав це ^orange;повідомлення про штраф^green; та візьми <target.pronoun.reflexive> ^orange;[<item>]^white; як оплату.",
+    "value": "Першим пунктом нашого порядку денного є ^orange;<target>^white;. З'явилися певні докази, що <target.pronoun.subject> — досить підозріла особа. ^green;Достав це ^orange;повідомлення про штраф^green; та візьми <target.pronoun.possessiveDet> ^orange;<item>^white; як оплату.",
     "path": "/scriptConfig/generatedText/text/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран має ще одне завдання для тебе. ^orange;<target> ^white;скоїв щось ганебне, і Флоран хоче правосуддя! ^green;Піди та віддай це ^orange;повідомлення про злочин^green; <target.pronoun.object> і візьми один ^orange;[<item>]^green; як оплату.",
+    "value": "Флоран має ще одне завданння для тебе. ^orange;<target> ^white;ссскоїв щосссь ганебне, і Флоран хоче правосссуддя! ^green;Піди та віддай це ^orange;повідомлення про злочин^green; <target.pronoun.object> і візьми один ^orange;<item>^green; як оплату.",
     "path": "/scriptConfig/generatedText/text/next/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран чув, що ^orange;<target> ^white;робить жахливі речі. Флоран написав ^orange;повідомлення про злочин^white; для <target.pronoun.object>. ^green;Достав його та візьми один ^orange;[<item>]^green; як оплату.",
+    "value": "Флоран чув, що ^orange;<target> ^white;робить якихосссь жахливі речі. Флоран написссав ^orange;повідомлення про злочин^white; для <target.pronoun.object>. ^green;Доссстав його та візьми один ^orange;<item>^green; як оплату.",
     "path": "/scriptConfig/generatedText/text/next/floran/1",
     "op": "replace"
   },
   {
-    "value": "Неуважно. Мені потрібно, щоб ти зробив для мене ще дещо — дотримання закону — це дуже важливо і все таке, але так само важливі й обідні перерви. ^orange;<target>^white; заборгував штраф — чи ^green;доставиш ти це ^orange;повідомлення^green; <target.pronoun.object>^white; та ^green;візьмеш <target.pronoun.reflexive> ^orange;[<item>]^white; як відшкодування збитків?",
+    "value": "Неуважність. Мені потрібно, щоб ти зробив для мене ще дещо — дотримання закону — це дуже важливо і все таке, але так само важливі й обідні перерви. ^orange;<target>^white; заборгував штраф — чи ^green;доставиш ти це ^orange;повідомлення^green; <target.pronoun.object>^white; та ^green;візьмеш <target.pronoun.possessiveDet> ^orange;<item>^white; як відшкодування збитків?",
     "path": "/scriptConfig/generatedText/text/next/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Рішуче. Я чув, що ^orange;<target>^white; був спійманий на скоєнні злочину! Я не залишу це просто так — ^green;Достав це ^orange;повідомлення про злочин^green; <target.pronoun.object>^white; та ^green;візьми <target.pronoun.reflexive> ^orange;[<item>]^white; як компенсацію.",
+    "value": "Рішучість. Я чув, що ^orange;<target>^white; був спійманий на скоєнні злочину! Я не залишу це просто так — ^green;Достав це ^orange;повідомлення про злочин^green; <target.pronoun.object>^white; та ^green;візьми <target.pronoun.possessiveDet> ^orange;<item>^white; як компенсацію.",
     "path": "/scriptConfig/generatedText/text/next/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Тепер ^orange;<target>^white; заборгував штраф за порушення закону. ^green;Доставиш це ^orange;повідомлення про штраф?^white; <target.pronoun.capitalSubject> погодився віддати свій ^orange;[<item>]^white; як відшкодування збитків.",
+    "value": "Тепер ^orange;<target>^white; заборгував штраф за порушення закону. ^green;Доставиш це ^orange;повідомлення про штраф?^white; <target.pronoun.capitalSubject> погодився віддати свій ^orange;<item>^white; як відшкодування збитків.",
     "path": "/scriptConfig/generatedText/text/next/default/0",
     "op": "replace"
   },
   {
-    "value": "Наступним у нашому списку є ^orange;<target>, ^white;<target.pronoun.subject> виявився неабияким порушником. ^green;Достав це ^orange;повідомлення^green; про збитки <target.pronoun.object>,^white; <target.pronoun.subject> вже погодився віддати свій ^orange;[<item>] як компенсацію.",
+    "value": "Наступним у нашому списку є ^orange;<target>, ^white;<target.pronoun.subject> виявився неабияким порушником. ^green;Достав це ^orange;повідомлення^green; про збитки <target.pronoun.object>,^white; <target.pronoun.subject> вже погодився віддати свій ^orange;<item> як компенсацію.",
     "path": "/scriptConfig/generatedText/text/next/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран має одне останнє завдання для тебе. ^orange;<target> ^white;скоїв ганебний злочин, і правосуддя має бути здійснене! ^green;Піди та віддай це ^orange;повідомлення про злочин^green; <target.pronoun.object> і візьми один ^orange;[<item>]^green; як оплату.",
+    "value": "Флоран має одне оссстаннє завдання для тебе. ^orange;<target> ^white;ссскоїв ганебний злочин, і правосссуддя має бути здійссснене! ^green;Піди та віддай це ^orange;повідомлення про злочин^green; <target.pronoun.object> і візьми один ^orange;<item>^green; як оплату.",
     "path": "/scriptConfig/generatedText/text/last/floran/0",
     "op": "replace"
   },
   {
-    "value": "Настав час здійснити правосуддя над ^orange;<target>! ^green;Достав це ^orange;повідомлення про злочин, ^white;яке написав Флоран, і ^green;візьми один ^orange;[<item>]^green; як оплату.",
+    "value": "Нассстав час здійссснити правосссуддя над ^orange;<target>! ^green;Доссстав це ^orange;повідомлення про злочин, ^white;яке написссав Флоран, і ^green;візьми один ^orange;<item>^green; як оплату.",
     "path": "/scriptConfig/generatedText/text/last/floran/1",
     "op": "replace"
   },
   {
-    "value": "Роздратовано. І нарешті, ^orange;<target>^white; порушив закон і заборгував штраф. Я занадто зайнятий, щоб стягнути його. Чи ^green;доставиш ти це повідомлення ^orange;<target>^white; та ^green;візьмеш <target.pronoun.reflexive> ^orange;[<item>]^white; як відшкодування збитків? Я був би дуже вдячний.",
+    "value": "Роздратування. І нарешті, ^orange;<target>^white; порушив закон і заборгував штраф. Я занадто зайнятий, щоб стягнути його. Чи ^green;доставиш ти це повідомлення ^orange;<target>^white; та ^green;візьмеш <target.pronoun.possessiveDet> ^orange;<item>^white; як відшкодування збитків? Я був би дуже вдячний.",
     "path": "/scriptConfig/generatedText/text/last/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Серйозно. Настав час змусити ^orange;<target>^white; заплатити за свої злочини. ^green;Достав це ^orange;повідомлення про злочин^green; <target.pronoun.object>,^white; та візьми <target.pronoun.reflexive> ^orange;[<item>]^white; як компенсацію. Сподіваюсь, <target.pronoun.subject> буде поводитися краще в майбутньому!",
+    "value": "Серйозність. Настав час змусити ^orange;<target>^white; заплатити за свої злочини. ^green;Достав це ^orange;повідомлення про злочин^green; <target.pronoun.object>,^white; та візьми <target.pronoun.possessiveDet> ^orange;<item>^white; як компенсацію. Сподіваюсь, <target.pronoun.subject> буде поводитися краще в майбутньому!",
     "path": "/scriptConfig/generatedText/text/last/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Нарешті, ^orange;<target>^white; заборгував штраф. ^green;Достав це ^orange;повідомлення^white; та ^green;візьми <target.pronoun.reflexive> ^orange;[<item>]^white; як відшкодування збитків.",
+    "value": "Нарешті, ^orange;<target>^white; заборгував штраф. ^green;Достав це ^orange;повідомлення^white; та ^green;візьми <target.pronoun.possessiveDet> ^orange;<item>^white; як відшкодування збитків.",
     "path": "/scriptConfig/generatedText/text/last/default/0",
     "op": "replace"
   },
   {
-    "value": "Нарешті, нам потрібно, щоб ^orange;<target>^white; заплатив за свої сумнівні справи. ^green;Достав це ^orange;повідомлення^green; <target.pronoun.object>,^white; це квитанція про кримінальні збитки. ^green;Візьми <target.pronoun.reflexive> ^orange;[<item>]^white; як компенсацію.",
+    "value": "Нарешті, нам потрібно, щоб ^orange;<target>^white; заплатив за свої сумнівні справи. ^green;Достав це ^orange;повідомлення^green; <target.pronoun.object>,^white; це квитанція про кримінальні збитки. ^green;Візьми <target.pronoun.possessiveDet> ^orange;<item>^white; як компенсацію.",
     "path": "/scriptConfig/generatedText/text/last/default/1",
     "op": "replace"
   },
   {
-    "value": "<target> скоїв жахливий злочин і повинен постати перед правосуддям! Флоран вважає, що ти найкраще підходиш для цієї роботи! ^green;Піди та віддай це ^orange;повідомлення про злочин^green; ^orange;<target>^green; та візьми <target.pronoun.reflexive> ^orange;[<item>] ^white;як оплату.",
+    "value": "<target> ссскоїв мерзенний злочин і повинен поссстати перед правосссуддям! Флоран вважає, що ти найкращщще підходиш для цієї роботи! ^green;Піди та віддай це ^orange;повідомлення про злочин^green; ^orange;<target>^green; та візьми <target.pronoun.possessiveDet> ^orange;<item> ^white;як оплату.",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран дізнався, що ^orange;<target>^white; скоїв кілька поганих вчинків! Ось ^orange;повідомлення про злочин. ^green;Віднеси його <target.pronoun.object> і візьми один ^orange;[<item>] ^green;як оплату^white; за <target.pronoun.reflexive> непослух.",
+    "value": "Флоран дізнався, що ^orange;<target>^white; ссскоїв кілька поганих вчинків! Осссь ^orange;повідомлення про злочин. ^green;Віднессси його <target.pronoun.object> і візьми один ^orange;<item> ^green;як оплату^white; за його капосссті.",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Мляво. Ти бува не зайнятий? ^orange;<target>^white; порушив закон і заборгував штраф. Чи ^green;доставиш ти це ^orange;повідомлення^green; <target.pronoun.object>^white; та ^green;візьмеш <target.pronoun.reflexive> ^orange;[<item>]^white; як оплату? Я б зробив це сам, але я... не хочу.",
+    "value": "Млявість. Ти бува не зайнятий? ^orange;<target>^white; порушив закон і заборгував штраф. Чи ^green;доставиш ти це ^orange;повідомлення^green; <target.pronoun.object>^white; та ^green;візьмеш <target.pronoun.possessiveDet> ^orange;<item>^white; як оплату? Я б зробив це сам, але я... не хочу.",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Рішуче. ^orange;<target>^white; займався неетичними справами, і я хочу провчити <target.pronoun.object>. ^green;Достав це ^orange;повідомлення про злочин^white; <target.pronoun.object>,^white; та ^green;візьми <target.pronoun.reflexive> ^orange;[<item>]^white; як компенсацію за <target.pronoun.reflexive> поведінку. Сподіваюсь, це <target.pronoun.subject> навчить!",
+    "value": "Рішучість. ^orange;<target>^white; займався неетичними справами, і я хочу провчити <target.pronoun.object>. ^green;Достав це ^orange;повідомлення про злочин^white; <target.pronoun.object>,^white; та ^green;візьми <target.pronoun.possessiveDet> ^orange;<item>^white; як компенсацію за <target.pronoun.possessiveDet> поведінку. Сподіваюсь, це <target.pronoun.subject> навчить!",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "^green;Мені потрібно, щоб ти відніс це ^orange;повідомлення про штраф^white; до ^orange;<target>^white;. <target.pronoun.capitalSubject> вже погодився віддати свій ^orange;[<item>]^white; як відшкодування збитків.",
+    "value": "^green;Мені потрібно, щоб ти відніс це ^orange;повідомлення про штраф^white; до ^orange;<target>^white;. <target.pronoun.capitalSubject> вже погодився віддати свій ^orange;<item>^white; як відшкодування збитків.",
     "path": "/scriptConfig/generatedText/text/default/default/0",
     "op": "replace"
   },
   {
-    "value": "^green;Достав це ^orange;повідомлення про злочин^green; до ^orange;<target>^white;. <target.pronoun.capitalSubject> погодився віддати свій ^orange;[<item>]^white; як компенсацію за свою поведінку.",
+    "value": "^green;Достав це ^orange;повідомлення про злочин^green; до ^orange;<target>^white;. <target.pronoun.capitalSubject> погодився віддати свій ^orange;<item>^white; як компенсацію за свою поведінку.",
     "path": "/scriptConfig/generatedText/text/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Чудове дотримання закону — ти такий вправний у цьому! Зробиш ще щось для Флорана?",
+    "value": "Чудове дотримання закону — ти такий вправний у цьому! Зробишшш щщще щосссь для Флорана?",
     "path": "/scriptConfig/generatedText/completionText/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран приніс правосуддя, і ми отримали з цього [<item>]. Флоран може знайти йому застосування...",
+    "value": "Флоран приніссс правосссуддя, і ми отримали з цього <item>. Флоран може знайти йому зассстосування...",
     "path": "/scriptConfig/generatedText/completionText/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Чудова робота зі стягненням штрафу з <target>! Це ще одна справа, яку я можу викреслити зі свого списку. Як гадаєш, міг би ти зробити для мене ще дещо?",
+    "value": "Задоволення. Чудова робота зі стягненням штрафу з <target>! Це ще одна справа, яку я можу викреслити зі свого списку. Як гадаєш, міг би ти зробити для мене ще дещо?",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Задоволено. <target> безсумнівно засвоїв свій урок... І цей [<item>] також стане в нагоді!",
+    "value": "Задоволення. <target> безсумнівно засвоїв свій урок... І цей <item> також стане в нагоді!",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Чудова робота зі стягненням штрафу з <target>! Цей [<item>] чудово підійде. Як гадаєш, міг би ти зробити для мене ще дещо?",
+    "value": "Чудова робота зі стягненням штрафу з <target>! Цей <item> чудово підійде. Як гадаєш, міг би ти зробити для мене ще дещо?",
     "path": "/scriptConfig/generatedText/completionText/first/default/0",
     "op": "replace"
   },
   {
-    "value": "<target> безсумнівно засвоїв свій урок. Цей [<item>] також стане в нагоді!",
+    "value": "<target> безсумнівно засвоїв свій урок. Цей <item> також стане в нагоді!",
     "path": "/scriptConfig/generatedText/completionText/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Правосуддя здійснено! Ти вправний у цьому! Зробиш одну останню справу для Флорана?",
+    "value": "Правосссуддя здійссснено! Ти вправний у цьому! Зробишшш одну оссстанню справу для Флорана?",
     "path": "/scriptConfig/generatedText/completionText/next/floran/0",
     "op": "replace"
   },
   {
-    "value": "Дякую! Сподіваюсь, <target> відтепер буде поводитися добре. Цей [<item>] також може бути корисним для Флорана...",
+    "value": "Дякую! Сссодіваюсь, <target> відтепер залишшшатиметься чемним. Цей <item> також може бути корисссним для Флорана...",
     "path": "/scriptConfig/generatedText/completionText/next/floran/1",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Дякую за стягнення штрафу з <target>! У мене б точно не знайшлося на це часу, але, схоже, у тебе його вдосталь.",
+    "value": "Задоволення. Дякую за стягнення штрафу з <target>! У мене б точно не знайшлося на це часу, але, схоже, у тебе його вдосталь.",
     "path": "/scriptConfig/generatedText/completionText/next/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Дякую, що допоміг провчити <target> і показати, що за свої вчинки бувають наслідки. Цей [<item>] також стане в нагоді.",
+    "value": "Задоволення. Дякую, що допоміг провчити <target> і показати, що за свої вчинки бувають наслідки. Цей <item> також стане в нагоді.",
     "path": "/scriptConfig/generatedText/completionText/next/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Дякую за стягнення штрафу з <target>! Я не був упевнений, що <target.pronoun.subject> заплатив би, якби я пішов сам. На щастя, ти виглядаєш як той, з ким <target> не захотів би зв'язуватися.",
+    "value": "Дякую за стягнення штрафу з <target>! Я не був упевнений, що <target.pronoun.subject> заплатить, якби я пішов сам. На щастя, ти виглядаєш як той, з ким <target> не захотів би зв'язуватися.",
     "path": "/scriptConfig/generatedText/completionText/next/default/0",
     "op": "replace"
   },
   {
-    "value": "Дякую, що допоміг провчити <target> і показати, що за свої вчинки бувають наслідки! Я вже бачу кілька застосувань для цього [<item>].",
+    "value": "Дякую, що допоміг провчити <target> і показати, що за свої вчинки бувають наслідки! Я вже бачу кілька застосувань для цього <item>.",
     "path": "/scriptConfig/generatedText/completionText/next/default/1",
     "op": "replace"
   },
   {
-    "value": "Правосуддя! Можливо, тобі слід виконувати цю роботу замість Флорана...",
+    "value": "Правосссуддя! Можливо, тобі ссслід виконувати цю роботу замісссть Флорана...",
     "path": "/scriptConfig/generatedText/completionText/last/floran/0",
     "op": "replace"
   },
   {
-    "value": "Дякую за твою допомогу! Можеш залишити собі цей [<item>], Флорану він не потрібен.",
+    "value": "Дякую за допомогу! Можешшш залишшшити сссобі цей <item>, Флорану він не потрібен.",
     "path": "/scriptConfig/generatedText/completionText/last/floran/1",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Чудова робота зі стягненням штрафу з <target>! Це, безперечно, позбавило мене багатьох клопотів.",
+    "value": "Задоволення. Чудова робота зі стягненням штрафу з <target>! Це, безперечно, позбавило мене багатьох клопотів.",
     "path": "/scriptConfig/generatedText/completionText/last/glitch/0",
     "op": "replace"
   },
   {
-    "value": "З полегшенням. Дякую, що провчив <target>. Можеш залишити собі цей [<item>], ти його заслужив.",
+    "value": "Полегшення. Дякую, що провчив <target>. Можеш залишити собі цей <item>, ти його заслужив.",
     "path": "/scriptConfig/generatedText/completionText/last/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Чудова робота зі стягненням штрафу з <target>. Я трохи хвилювався, що <target.pronoun.subject> спробує викрутитися. Можеш залишити собі цей [<item>] як оплату.",
+    "value": "Чудова робота зі стягненням штрафу з <target>. Я трохи хвилювався, що <target.pronoun.subject> спробує викрутитися. Можеш залишити собі цей <item> як оплату.",
     "path": "/scriptConfig/generatedText/completionText/last/default/0",
     "op": "replace"
   },
   {
-    "value": "Дякую, що провчив <target>. Сподіваюся, <target.pronoun.subject> усвідомлює, що ніхто не стоїть над законом. Можеш залишити собі [<item>]. Ти його заслужив.",
+    "value": "Дякую, що провчив <target>. Сподіваюся, <target.pronoun.subject> усвідомлює, що ніхто не стоїть над законом. Можеш залишити собі <item>. Ти його заслужив.",
     "path": "/scriptConfig/generatedText/completionText/last/default/1",
     "op": "replace"
   },
   {
-    "value": "Це було чудове дотримання закону! Тобі варто робити це частіше.",
+    "value": "Це було проссто чудове дотримання закону! Тобі варррто робити це чассстіше.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Сподіваюсь, <target> засвоїв урок — ніколи не попадайся на поганих справах... Можеш залишити собі цей [<item>], якщо хочеш.",
+    "value": "Сссодіваюсь, <target> засссвоїв урок — ніколи не попадайссся на поганих сссправах... Можешшш залишшшити сссобі цей <item>, якщо хочешшш.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "В екстазі. Ти стягнув штраф з <target>! Це ще одна справа, яку я можу викреслити зі свого списку!",
+    "value": "Екстаз. Ти стягнув штраф з <target>! Це ще одна справа, яку я можу викреслити зі свого списку!",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Вдячно. Дякую, що навчив <target>, що ми дотримуємося правил тут, навіть якщо ці правила розпливчасті й ніде насправді не записані. Залиш і цей [<item>] собі, якщо хочеш.",
+    "value": "Вдячність. Дякую, що навчив <target>, що ми дотримуємося правил тут, навіть якщо ці правила розпливчасті й ніде насправді не записані. Залиш і цей <item> собі, якщо хочеш.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Ти чудово впорався! Залиш собі [<item>] як оплату за свої послуги. Я просто хотів показати <target>, що ніхто не стоїть над законом.",
+    "value": "Ти чудово впорався! Залиш собі <item> як оплату за свої послуги. Я просто хотів показати <target>, що ніхто не стоїть над законом.",
     "path": "/scriptConfig/generatedText/completionText/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Дякую за допомогу! <target> має усвідомити, що ми повинні дотримуватися правил тут. Можеш залишити собі цей [<item>], якщо хочеш.",
+    "value": "Дякую за допомогу! <target> має усвідомити, що ми повинні дотримуватися правил тут. Можеш залишити собі цей <item>, якщо хочеш.",
     "path": "/scriptConfig/generatedText/completionText/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Мені не вдалося доставити повідомлення про злочин <target> і забрати [<item>] як заставу. Можливо, я не створений для роботи колектором.",
+    "value": "Мені не вдалося доставити повідомлення про злочин <target> і забрати <item> як заставу. Можливо, я не створений для роботи колектором.",
     "path": "/scriptConfig/generatedText/failureText/0",
     "op": "replace"
   },
   {
-    "value": "Мені не вдалося отримати компенсацію від <target> за <target.pronoun.reflexive> дії. Мабуть, злочинність все-таки окупається.",
+    "value": "Мені не вдалося отримати компенсацію від <target> за його дії. Мабуть, злочинність все-таки окупається.",
     "path": "/scriptConfig/generatedText/failureText/1",
     "op": "replace"
   },
   {
-    "value": "Мені не вдалося стягнути штраф з <target>. Можливо, <questGiver> варто припинити просити перехожих робити <target.pronoun.reflexive> роботу за <target.pronoun.object>.",
+    "value": "Мені не вдалося стягнути штраф з <target>. Можливо, <questGiver> варто припинити просити перехожих робити свою роботу.",
     "path": "/scriptConfig/generatedText/failureText/2",
     "op": "replace"
   },
@@ -345,32 +345,32 @@
     "op": "replace"
   },
   {
-    "value": "<target>, ви розшукуєтеся за <crime>. Сплатіть 1 [<item>].",
+    "value": "<target>, ви розшукуєтеся за <crime>. Сплатіть 1 <item>.",
     "path": "/scriptConfig/crimeNotice/0",
     "op": "replace"
   },
   {
-    "value": "<target> звинувачується у: <crime>. <target.pronoun.capitalSubject> має сплатити 1 [<item>].",
+    "value": "<target> звинувачується у: <crime>. <target.pronoun.capitalSubject> має сплатити 1 <item>.",
     "path": "/scriptConfig/crimeNotice/1",
     "op": "replace"
   },
   {
-    "value": "<target>, сплатіть 1 [<item>], не проходьте через СТАРТ, не отримуйте 200 пікселів.",
+    "value": "<target>, сплатіть 1 <item>, не проходьте через СТАРТ, не отримуйте 200 пікселів.",
     "path": "/scriptConfig/crimeNotice/2",
     "op": "replace"
   },
   {
-    "value": "Щоб очистити своє кримінальне минуле, будь ласка, сплатіть <player> 1 [<item>].",
+    "value": "Щоб очистити своє кримінальне минуле, будь ласка, сплатіть <player> 1 <item>.",
     "path": "/scriptConfig/crimeNotice/3",
     "op": "replace"
   },
   {
-    "value": "Здобудь [<item>] від <target>",
+    "value": "Отримай <item> у <target>",
     "path": "/scriptConfig/objectives/0/text",
     "op": "replace"
   },
   {
-    "value": "Повернись до <questGiver>",
+    "value": "Повернися до <questGiver>",
     "path": "/scriptConfig/objectives/1/text",
     "op": "replace"
   }

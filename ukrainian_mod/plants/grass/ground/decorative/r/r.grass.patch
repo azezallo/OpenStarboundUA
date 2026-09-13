@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Гарна квітка."
+    "value": "Прекрасна квітка."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Гарна квітка."
+    "value": "Прекрасна квітка."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Гарненька."
+    "value": "Сссимпатично."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Приваблива квітка."
+    "value": "Ствердження. Симпатична квітка."
   }
 ]

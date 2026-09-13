@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Надійні двері з дюрастілу."
+    "value": "Надійні двері з Дюрасталя."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Двері Durasteel"
+    "value": "Двері Дюрасталь"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран ховається за дверима. Вискочити. Ssstab!"
+    "value": "Флоран ховаєтьссся за дверима. Виссскакує. Шссстрик!"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Міцні двері Durasteel."
+    "value": "Міцна двері з дюрастілу."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Тепер це міцні на вигляд двері!"
+    "value": "Тепер це міцна на вигляд двері!"
   }
 ]

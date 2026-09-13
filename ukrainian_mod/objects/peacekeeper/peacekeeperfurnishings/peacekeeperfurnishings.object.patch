@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Вишукане умеблювання в стилі Peacekeeper."
+    "value": "Вишукане умеблювання в стилі Peacekeeper"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран дивується, чому жаба не говорить."
+    "value": "Флоран дивується, чому жаба не сссказує."
   },
   {
     "op": "replace",

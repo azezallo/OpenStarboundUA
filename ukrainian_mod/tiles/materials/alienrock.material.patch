@@ -2,26 +2,26 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "This strange rock comes from an alien world."
+    "value": "Цей дивний камінь походить із інопланетного світу."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Чужий Рок"
+    "value": "Чужий камінь"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Amazed. This rock is of an alien origin."
+    "value": "Вражений. Цей камінь має інопланетне походження."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран любить дивні скелі."
+    "value": "Флорани люблять ссвiдні скелі."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Some kinda alien lookin' rock."
+    "value": "Камінь, що має інопланетний вигляд."
   }
 ]

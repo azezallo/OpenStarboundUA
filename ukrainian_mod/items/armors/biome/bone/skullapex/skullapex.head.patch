@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Вершина черепа. Може, решту віддали науці?"
+    "value": "Череп Апекса. Можливо, решту віддали науці?"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Маска черепа Apex"
+    "value": "Маска черепа Апекса"
   }
 ]

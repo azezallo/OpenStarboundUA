@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Руйнувати органи."
+    "value": "Органи Руїни"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Літоргани"
+    "value": "Освітлені органи"
   }
 ]

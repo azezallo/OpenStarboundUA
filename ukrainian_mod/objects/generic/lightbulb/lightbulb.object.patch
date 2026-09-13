@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Мерехтіння лампочки"
+    "value": "Мерехтлива лампочка"
   },
   {
     "op": "replace",
@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "світло!"
+    "value": "Світло!"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Яскравий!"
+    "value": "Яскраве!"
   },
   {
     "op": "replace",

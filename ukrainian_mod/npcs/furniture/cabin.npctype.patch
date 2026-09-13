@@ -1,6 +1,6 @@
 [
   {
-    "value": "Життя в старій хатині - це якраз для мене!",
+    "value": "Життя в старій хатині - це саме для мене!",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Прилягти біля вогню з книгою... Оце так життя.",
+    "value": "Прилягти біля вогню з книгою... Оце таке життя.",
     "path": "/scriptConfig/dialog/converse/default/default/3",
     "op": "replace"
   },
@@ -30,7 +30,7 @@
     "op": "replace"
   },
   {
-    "value": "Зайві вигоди марні - я віддаю перевагу жити простіше.",
+    "value": "Новітня технологія марна - я віддаю перевагу простішому життю.",
     "path": "/scriptConfig/dialog/converse/default/default/6",
     "op": "replace"
   },

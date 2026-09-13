@@ -5,17 +5,17 @@
     "op": "replace"
   },
   {
-    "value": "Скелетна квітка",
+    "value": "Скелетна квітка.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Мертві квітиссс.",
+    "value": "Мертві квітки.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Скелетна квітка.",
+    "value": "Заява. Скелетна квітка.",
     "path": "/glitchDescription",
     "op": "replace"
   }

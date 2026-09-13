@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стандартна командирська куртка Apex."
+    "value": "Стандартна куртка командира Апекси."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Куртка командира"
+    "value": "Каптурка командира"
   }
 ]

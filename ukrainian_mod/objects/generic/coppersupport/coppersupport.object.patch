@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Конструкційна опорна балка з міді."
+    "value": "Мідна конструктивна опорна балка."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Надійна мідна опора."
+    "value": "Надійна мідна опора"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Велика стара мідна балка."
+    "value": "Велика мідна балка."
   }
 ]

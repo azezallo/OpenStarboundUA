@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Перемикач <A /'NOT'/. Інвертує вхідний сигнал схеми.>"
+    "value": "Перемикач <A /'NOT'/>. Інвертує вхідний сигнал схеми."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "НЕ перемикач"
+    "value": "Перемикач NOT"
   }
 ]

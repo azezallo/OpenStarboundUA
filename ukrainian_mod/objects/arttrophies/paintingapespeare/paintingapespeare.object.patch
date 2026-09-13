@@ -2,32 +2,32 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Картина великого поета Apex. Він... виглядає знайомим."
+    "value": "Картина великого поета Апекса. Він... виглядає знайомим."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Портрет поета Apex"
+    "value": "Портрет поета Апекса"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Багато років тому поезію Apex було спалено та оголошено поза законом."
+    "value": "Поезію Апексів спалили і заборонили багато років тому."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Апекс із шиєю з пір’ям?"
+    "value": "Апекс із шиєю з пір'ям?"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Стара мавпа, дурний костюм."
+    "value": "Стара мавпа, сссмілий костюм."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Потішили. Здається, Apex одягнений у сучасній моді Glitch."
+    "value": "Потішені. Апекс виглядає у сучасній моді Глітча."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Безперечно, вершина мистецтва."
+    "value": "Апекс мистецтва, без сумніву."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Стильний Apex із оборками на шиї."
+    "value": "Стильний Апекси із оборками на шиї"
   }
 ]

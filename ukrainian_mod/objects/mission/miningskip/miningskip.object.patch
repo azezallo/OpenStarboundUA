@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Майнінг Скіп"
+    "value": "Пропустити видобуток"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран хоче спати в червоній коробці."
+    "value": "Флоран хоче ссспати в червоній коробці."
   },
   {
     "op": "replace",

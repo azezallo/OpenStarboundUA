@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Scaveran"
+    "value": "Скаверан"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Внутрішня частина його дзьоба являє собою справді жахливе видовище."
+    "value": "Всередині його дзьоба — справді жахливе видовище."
   }
 ]

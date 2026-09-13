@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "Прекрасний соняшник",
+    "value": "Прекрасний соняшник.",
     "path": "/shortdescription",
     "op": "replace"
   },
@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Ствердно. Симпатичний соняшник.",
+    "value": "Ствердження. Симпатичний соняшник.",
     "path": "/glitchDescription",
     "op": "replace"
   }

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Важкий, але сильний."
+    "value": "Тяжкий, але сильний у ударах."
   },
   {
     "op": "replace",

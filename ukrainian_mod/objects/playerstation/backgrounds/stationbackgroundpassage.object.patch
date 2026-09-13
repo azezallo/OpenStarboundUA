@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Прохід шматок фону"
+    "value": "Тло прохідного сегмента"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Прохід шматок фону"
+    "value": "Тло прохідного сегмента"
   }
 ]

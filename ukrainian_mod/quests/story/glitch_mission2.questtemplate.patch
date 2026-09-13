@@ -1,11 +1,11 @@
 [
   {
-    "value": "Здобути Артефакт Ґлітчів",
+    "value": "Здобути артефакт глітчів",
     "path": "/title",
     "op": "replace"
   },
   {
-    "value": "^orange;Артефакт Ґлітчів^reset; знаходиться в замку, під охороною одного, дещо дивного, Ґлітча. ^green;Чи не міг би ти відправитись до його фортеці і поговорити з ним^reset;, серденько?",
+    "value": "^orange;Артефакт глітчів^reset; знаходиться в замку, під охороною одного, дещо дивного, глітча. ^green;Чи не міг би ти вирушити до його фортеці й поговорити з ним^reset;, серденько?",
     "path": "/text",
     "op": "replace"
   },
@@ -20,12 +20,12 @@
     "op": "replace"
   },
   {
-    "value": "Знайди ^orange;артефакт^reset; у ^orange;старій фортеці Ґлітчів^reset;",
+    "value": "Знайди ^orange;артефакт^reset; у ^orange;старій фортеці глітчів^reset;",
     "path": "/scriptConfig/descriptions/artifact",
     "op": "replace"
   },
   {
-    "value": "Поверніться до ^orange;Естер^reset; на ^orange;Ковчег^reset;",
+    "value": "Повернися до ^orange;Естер^reset; на ^orange;Ковчег^reset;",
     "path": "/scriptConfig/descriptions/turnIn",
     "op": "replace"
   }

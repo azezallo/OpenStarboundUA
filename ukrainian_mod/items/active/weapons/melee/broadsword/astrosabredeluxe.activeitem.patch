@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "На лезі є напис: «Дай п'ять за те, що виражаєте себе!»"
+    "value": "На лезі написано: «Дай п'ять за те, що ти самовиражаєшся!»"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Asuterosaberu DX"
+    "value": "Асутеросаберу DX"
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілий торс Змієносця."
+    "value": "Скам'яний тулуб Змієносця"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Торс Змієносця"
+    "value": "Тулуб Змієносця"
   }
 ]

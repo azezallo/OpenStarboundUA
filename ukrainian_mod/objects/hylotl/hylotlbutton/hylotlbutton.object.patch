@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спокусився. Кнопка, яка благає, щоб її натиснули."
+    "value": "Спокушений. Кнопка, що благає натиснути."
   },
   {
     "op": "replace",
@@ -27,17 +27,17 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Стільки потужності в простій кнопці."
+    "value": "Так багато сили в одній простій кнопці."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Великий ґудзик."
+    "value": "Надмірна кнопка."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Добре зроблена кнопка."
+    "value": "Добре виготовлена кнопка."
   },
   {
     "op": "replace",

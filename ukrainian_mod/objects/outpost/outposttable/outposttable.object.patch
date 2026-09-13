@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "стіл. Ідеально підходить для настільних ігор. Або їсти."
+    "value": "Стіл. Ідеально підходить для настільних ігор. Або для їжі."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Основний металевий стіл"
+    "value": "Простий металевий стіл"
   },
   {
     "op": "replace",
@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран любить стіл."
+    "value": "Флоран любить ссстіл."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Байдуже. стіл."
+    "value": "Байдужість. Стіл."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "стіл."
+    "value": "Стіл."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Просто стіл."
+    "value": "Стіл та й годі."
   }
 ]

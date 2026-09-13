@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Crutter"
+    "value": "Круттер"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Its poison is deadly even in small doses."
+    "value": "Його отрута смертельна навіть у малих дозах."
   }
 ]

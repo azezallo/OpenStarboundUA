@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Squareboy"
+    "value": "Квадробой"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It's surprisingly capable at swimming despite its shape."
+    "value": "Воно здивовано ефективне у плаванні, незважаючи на свою форму."
   }
 ]

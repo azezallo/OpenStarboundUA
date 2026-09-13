@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Не адамант, але все одно круто."
+    "value": "Не адамантій, але все одно круто"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Кігтева рукавичка"
+    "value": "Рукавичка з когтями"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
-    "value": "Claw Glove ^yellow;^reset;"
+    "value": "Рукавичка з когтями ^yellow;^reset;"
   }
 ]

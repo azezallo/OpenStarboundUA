@@ -1,16 +1,16 @@
 [
   {
-    "value": "Нутмідж",
+    "value": "Горішник",
     "path": "/parameters/monster/example/name",
     "op": "replace"
   },
   {
-    "value": "монстрів",
+    "value": "монстри",
     "path": "/scriptConfig/generatedText/fluff/0/1/0",
     "op": "replace"
   },
   {
-    "value": "лютий",
+    "value": "лютих",
     "path": "/scriptConfig/generatedText/fluff/1/1/0",
     "op": "replace"
   },
@@ -30,17 +30,17 @@
     "op": "replace"
   },
   {
-    "value": "смертоносний",
+    "value": "вбивця",
     "path": "/scriptConfig/generatedText/fluff/1/1/4",
     "op": "replace"
   },
   {
-    "value": "моторошний",
+    "value": "моторошн<other.pronoun.obj7end>",
     "path": "/scriptConfig/generatedText/fluff/1/1/5",
     "op": "replace"
   },
   {
-    "value": "вбивчий",
+    "value": "смертельний",
     "path": "/scriptConfig/generatedText/fluff/1/1/6",
     "op": "replace"
   },
@@ -55,37 +55,37 @@
     "op": "replace"
   },
   {
-    "value": "смертоносний",
+    "value": "смертельний",
     "path": "/scriptConfig/generatedText/fluff/2/1/2",
     "op": "replace"
   },
   {
-    "value": "жорсткий",
+    "value": "витривалий",
     "path": "/scriptConfig/generatedText/fluff/2/1/3",
     "op": "replace"
   },
   {
-    "value": "досліджував",
+    "value": "досліджуючи околиці",
     "path": "/scriptConfig/generatedText/fluff/3/1/0",
     "op": "replace"
   },
   {
-    "value": "гуляв",
+    "value": "гуляв<questGiver.pronoun.obj1end>",
     "path": "/scriptConfig/generatedText/fluff/3/1/1",
     "op": "replace"
   },
   {
-    "value": "бігав",
+    "value": "бігав<questGiver.pronoun.obj1end>",
     "path": "/scriptConfig/generatedText/fluff/3/1/2",
     "op": "replace"
   },
   {
-    "value": "відпочивав",
+    "value": "відпочивав у таборі",
     "path": "/scriptConfig/generatedText/fluff/3/1/3",
     "op": "replace"
   },
   {
-    "value": "подорожував",
+    "value": "мандрував<questGiver.pronoun.obj1end>",
     "path": "/scriptConfig/generatedText/fluff/3/1/4",
     "op": "replace"
   },
@@ -95,12 +95,12 @@
     "op": "replace"
   },
   {
-    "value": "не так давно",
+    "value": "нещодавно",
     "path": "/scriptConfig/generatedText/fluff/4/1/1",
     "op": "replace"
   },
   {
-    "value": "на цьому тижні",
+    "value": "раніше на цьому тижні",
     "path": "/scriptConfig/generatedText/fluff/4/1/2",
     "op": "replace"
   },
@@ -115,7 +115,7 @@
     "op": "replace"
   },
   {
-    "value": "сталося щось жахливе",
+    "value": "сталася жахлива річ",
     "path": "/scriptConfig/generatedText/fluff/5/1/0",
     "op": "replace"
   },
@@ -125,7 +125,7 @@
     "op": "replace"
   },
   {
-    "value": "я ледве уникнув смерті",
+    "value": "я був на волосині від смерті",
     "path": "/scriptConfig/generatedText/fluff/5/1/2",
     "op": "replace"
   },
@@ -135,7 +135,7 @@
     "op": "replace"
   },
   {
-    "value": "я пережив страшну зустріч",
+    "value": "я пережив моторошну зустріч",
     "path": "/scriptConfig/generatedText/fluff/5/1/4",
     "op": "replace"
   },
@@ -150,7 +150,7 @@
     "op": "replace"
   },
   {
-    "value": "грубо кричав мені в обличчя",
+    "value": "грубо верещав мені в обличчя",
     "path": "/scriptConfig/generatedText/fluff/6/1/2",
     "op": "replace"
   },
@@ -160,7 +160,7 @@
     "op": "replace"
   },
   {
-    "value": "дуже грубо подивився на мене",
+    "value": "дуже зухвало подивився на мене",
     "path": "/scriptConfig/generatedText/fluff/6/1/4",
     "op": "replace"
   },
@@ -185,7 +185,7 @@
     "op": "replace"
   },
   {
-    "value": "знає бойові мистецтва",
+    "value": "володіє бойовими мистецтвами",
     "path": "/scriptConfig/generatedText/fluff/8/1/2",
     "op": "replace"
   },
@@ -195,12 +195,12 @@
     "op": "replace"
   },
   {
-    "value": "наділений надзвичайним розумом і носить окуляри для читання",
+    "value": "має надзвичайний інтелект і носить окуляри для читання",
     "path": "/scriptConfig/generatedText/fluff/8/1/4",
     "op": "replace"
   },
   {
-    "value": "постійно не спить і не знає, як заснути",
+    "value": "ніколи не спить і не вміє спати",
     "path": "/scriptConfig/generatedText/fluff/8/1/5",
     "op": "replace"
   },
@@ -210,7 +210,7 @@
     "op": "replace"
   },
   {
-    "value": "миттєво знає про всі ганебні речі, які ти коли-небудь робив",
+    "value": "миттєво дізнається про все найстидніше, що ти коли-небудь робив",
     "path": "/scriptConfig/generatedText/fluff/8/1/7",
     "op": "replace"
   },
@@ -220,7 +220,7 @@
     "op": "replace"
   },
   {
-    "value": "є результатом невдалого експерименту",
+    "value": "є наслідком невдалого експерименту",
     "path": "/scriptConfig/generatedText/fluff/8/1/9",
     "op": "replace"
   },
@@ -230,12 +230,12 @@
     "op": "replace"
   },
   {
-    "value": "з майбутнього",
+    "value": "прибув із майбутнього",
     "path": "/scriptConfig/generatedText/fluff/8/1/11",
     "op": "replace"
   },
   {
-    "value": "може вивернутися навиворіт за бажанням",
+    "value": "може вивертатися навиворіт за власним бажанням",
     "path": "/scriptConfig/generatedText/fluff/8/1/12",
     "op": "replace"
   },
@@ -245,7 +245,7 @@
     "op": "replace"
   },
   {
-    "value": "забув, як любити",
+    "value": "забув, як кохати",
     "path": "/scriptConfig/generatedText/fluff/8/1/14",
     "op": "replace"
   },
@@ -255,7 +255,7 @@
     "op": "replace"
   },
   {
-    "value": "жорстоко розправитися з ним",
+    "value": "жорстоко розправитися з цим",
     "path": "/scriptConfig/generatedText/fluff/9/1/0",
     "op": "replace"
   },
@@ -265,12 +265,12 @@
     "op": "replace"
   },
   {
-    "value": "вбити звіра",
+    "value": "убити звіра",
     "path": "/scriptConfig/generatedText/fluff/9/1/2",
     "op": "replace"
   },
   {
-    "value": "вбити його для мене",
+    "value": "убити його для мене",
     "path": "/scriptConfig/generatedText/fluff/9/1/3",
     "op": "replace"
   },
@@ -280,12 +280,12 @@
     "op": "replace"
   },
   {
-    "value": "прогнати його",
+    "value": "прогнати його геть",
     "path": "/scriptConfig/generatedText/fluff/9/1/5",
     "op": "replace"
   },
   {
-    "value": "Якщо ти думаєш, що достатньо сссильний",
+    "value": "Якщо ти вважаєшшш, що достатньо сссильний",
     "path": "/scriptConfig/generatedText/fluff/10/1/0",
     "op": "replace"
   },
@@ -320,7 +320,7 @@
     "op": "replace"
   },
   {
-    "value": "Ти позбувся монстра [<monster>]?",
+    "value": "Ти позбувся <monster>?",
     "path": "/scriptConfig/generatedText/fluff/11/1/1",
     "op": "replace"
   },
@@ -335,17 +335,17 @@
     "op": "replace"
   },
   {
-    "value": "Дякую! Я ціную твою допомогу!",
+    "value": "Дякую! Я ціную допомогу!",
     "path": "/scriptConfig/generatedText/fluff/12/1/1",
     "op": "replace"
   },
   {
-    "value": "Тепер я спатиму краще, знаючи, що ти зробив це місце трохи безпечнішим!",
+    "value": "Я буду спати краще, знаючи, що ти зробив це місце трохи безпечнішим!",
     "path": "/scriptConfig/generatedText/fluff/12/1/2",
     "op": "replace"
   },
   {
-    "value": "Дякую! Ти зробив це місце набагато безпечнішим для життя.",
+    "value": "Дякую! Ти зробив проживання тут набагато безпечнішим.",
     "path": "/scriptConfig/generatedText/fluff/12/1/3",
     "op": "replace"
   },
@@ -355,22 +355,22 @@
     "op": "replace"
   },
   {
-    "value": "Флоран дуже вражений!",
+    "value": "Флоран ссстрашенно вражений!",
     "path": "/scriptConfig/generatedText/fluff/13/1/0",
     "op": "replace"
   },
   {
-    "value": "Флоран не був впевнений, що ти з цим впораєшся!",
+    "value": "Флоран не був сссправді впевнений, що ти з цим впораєшссся!",
     "path": "/scriptConfig/generatedText/fluff/13/1/1",
     "op": "replace"
   },
   {
-    "value": "Флоран здивований твоїми навичками!",
+    "value": "Флоран ссстрашенно здивований твоїми навичками!",
     "path": "/scriptConfig/generatedText/fluff/13/1/2",
     "op": "replace"
   },
   {
-    "value": "Флоран не сумніватиметься в тобі в майбутньому... Не те щоб Флоран сумнівався в тобі до цього!",
+    "value": "Флоран не сссумніватиметься в тобі в майбутньому... Не те щоб Флоран сссумнівався в тобі до цього!",
     "path": "/scriptConfig/generatedText/fluff/13/1/3",
     "op": "replace"
   },
@@ -395,17 +395,17 @@
     "op": "replace"
   },
   {
-    "value": "^cyan;Мені потрібна допомога з монстром.",
+    "value": "^cyan;Мені потрібна допомога з монстром, що став проблемою.",
     "path": "/scriptConfig/generatedText/goalText/default/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран має для тебе виклик.",
+    "value": "^cyan;Флоран має сссправжній виклик для тебе.",
     "path": "/scriptConfig/generatedText/goalText/floran/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Злякано. Є звір, якого треба перемогти.",
+    "value": "^cyan;Страх. Є звір, якого треба перемогти.",
     "path": "/scriptConfig/generatedText/goalText/glitch/0",
     "op": "replace"
   },
@@ -420,17 +420,17 @@
     "op": "replace"
   },
   {
-    "value": "Флоран чув розмови про <giantfloran> ^orange;<monster>^white; біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Флоран думає, що це звучить як гарне полювання! <challengefloran>, ^green;ти повинен піти і зарізати його^white;!",
+    "value": "Флоран чув розмови про <giantfloran> ^orange;<monster>^white; біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Флоран думає, що це сссхоже на гарне полювання! <challengefloran>, ^green;ти повинен піти і зассстромити його^white;!",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Злякано. Ходять <talk> про гігантського ^orange;<monster>^white; біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Дехто каже, що він <rumour1>! Чи міг би ти <request> і врятувати нас усіх?",
+    "value": "Жах. Ходять <talk> про гігантського ^orange;<monster>^white; біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Дехто каже, що він <rumour1>! Чи міг би ти <request> і врятувати нас усіх?",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Стривожено. Я <earlier> був біля ^orange;<spawnPoint>^white;<spawnPoint.direction> і <exploring>, коли <disaster>! Гігантський ^orange;<monster>^white; був там і <fate>. Чи міг би ти <request>, щоб провчити його?",
+    "value": "Тривога. Я <earlier> був біля ^orange;<spawnPoint>^white;<spawnPoint.direction> і <exploring>, коли <disaster>! Гігантський ^orange;<monster>^white; був там і <fate>. Чи міг би ти <request>, щоб провчити його?",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
@@ -445,7 +445,7 @@
     "op": "replace"
   },
   {
-    "value": "Надзвичайно радий. <appreciation1> <appreciation2>",
+    "value": "Радість. <appreciation1> <appreciation2>",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
@@ -460,12 +460,12 @@
     "op": "replace"
   },
   {
-    "value": "Убий монстра [<monster>]",
+    "value": "Убий <monster>",
     "path": "/scriptConfig/objectives/1/text",
     "op": "replace"
   },
   {
-    "value": "Повернися до жителя <questGiver>",
+    "value": "Повернися до <questGiver>",
     "path": "/scriptConfig/objectives/2/text",
     "op": "replace"
   }

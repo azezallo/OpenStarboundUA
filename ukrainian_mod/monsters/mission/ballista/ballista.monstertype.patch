@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ballista"
+    "value": "Баліста"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Don't get too close or you might get shafted"
+    "value": "Не підходьте надто близько, бо можете зловити стрілу"
   }
 ]

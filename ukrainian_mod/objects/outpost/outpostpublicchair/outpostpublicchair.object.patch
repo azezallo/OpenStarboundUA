@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стілець, на якому зможе сісти кожен!"
+    "value": "Стілець, на якому може сісти кожен!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Громадська кафедра"
+    "value": "Громадський стілець"
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Просте крісло."
+    "value": "Проссстий стілець."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Стілець."
+    "value": "Нейтральність. Стілець."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Крісло просте, незручне."
+    "value": "Простий стілець, не надто зручний."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Гарне місце, як будь-яке, щоб сісти."
+    "value": "Файне місце, аби присісти перепочити."
   }
 ]

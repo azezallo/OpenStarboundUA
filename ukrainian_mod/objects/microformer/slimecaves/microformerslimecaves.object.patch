@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Перетворює частину планети на слизову яму."
+    "value": "Перетворює частину планети на ямку зі слизи."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Slimy Microformer"
+    "value": "Слизький мікроформер"
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Paratail"
+    "value": "Паратейл"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "During storms it attaches itself to trees so as not to blow away."
+    "value": "Під час штормів він прилягає до дерев, щоб не розлетитися."
   }
 ]

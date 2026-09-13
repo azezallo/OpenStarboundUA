@@ -12,16 +12,16 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вжахнувся. Цей іржавий викинутий метал вивітрюється та зношується."
+    "value": "Злякований. Цей іржавий відкинутий метал вивітрюється та зношений."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Російські металеві блоки."
+    "value": "Іржавий металевий блок."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "This here metal looks mighty rusty."
+    "value": "Цей метал виглядає надзвичайно іржавим."
   }
 ]

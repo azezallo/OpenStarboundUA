@@ -227,7 +227,7 @@
   {
     "op": "replace",
     "path": "/flee/helpme/default/default/1",
-    "value": "На допомогу!"
+    "value": "Допоможіть!"
   },
   {
     "op": "replace",
@@ -267,7 +267,7 @@
   {
     "op": "replace",
     "path": "/flee/helpme/floran/default/0",
-    "value": "Чассс різати для Флорана!"
+    "value": "Час ссстаббліну для мене!"
   },
   {
     "op": "replace",
@@ -292,7 +292,7 @@
   {
     "op": "replace",
     "path": "/flee/helpthem/glitch/default/1",
-    "value": "*Заляканість.* Будь ласка, не роби мені боляче!"
+    "value": "*Заляканість.* Будь ласка, не робіть мені боляче!"
   },
   {
     "op": "replace",
@@ -317,7 +317,7 @@
   {
     "op": "replace",
     "path": "/flee/helpthem/floran/default/0",
-    "value": "Чассс різати для Флорана!"
+    "value": "Час ссстаббліну для мене!"
   },
   {
     "op": "replace",
@@ -427,17 +427,17 @@
   {
     "op": "replace",
     "path": "/flee/safe/floran/default/0",
-    "value": "Флоран тепер у безссспеці."
+    "value": "Флоран тепер у безссспеки."
   },
   {
     "op": "replace",
     "path": "/flee/safe/floran/default/1",
-    "value": "Флорана всссе ж не зарізали."
+    "value": "Флоран всссе ж не ссстабблін."
   },
   {
     "op": "replace",
     "path": "/flee/safe/floran/default/2",
-    "value": "Їм пощассстило, що у Флорана не було зброї."
+    "value": "Їм пощассстило, що у Флорана не має зброї."
   },
   {
     "op": "replace",

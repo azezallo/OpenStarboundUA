@@ -1,71 +1,71 @@
 [
   {
-    "value": "Сонячний",
+    "value": "Мій дім відчуває себе значно менш липким...",
     "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Штормовий",
+    "value": "Розташування змінилося, це не гаразд...",
     "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Планетарний",
+    "value": "Клянусь, тут колись була більше ліпки...",
     "path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Ідеальний",
+    "value": "Моя ліпка потребує виправлень...",
     "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Душевний",
+    "value": "Тут є пошкодження, чи зможеш їх усунути?",
     "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Сердечний",
+    "value": "Мені потрібен ремонт тут!",
     "path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Гірський",
+    "value": "Це моя ліпка! Ніхто інший не може сюди потрапити!",
     "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Грізний",
+    "value": "Ця ліпка була для мене!",
     "path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Туманний",
+    "value": "Моя смоляна яма неприпустима!",
     "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Сяючий",
+    "value": "Ці умови неприпустимі...",
     "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Божествен.",
+    "value": "Я не зможу більше терпити ці умови!",
     "path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Небесний",
+    "value": "З мене досить!",
     "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Океаніч.",
+    "value": "Все, я здаюся. Час йти!",
     "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Ефірний",
+    "value": "Здамся, знайду іншу смоляну яму!",
     "path": "/scriptConfig/dialog/tenant/grumbles/final/default/default/2",
     "op": "replace"
   }

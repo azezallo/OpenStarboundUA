@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Непроникні виконавчі двері."
+    "value": "Непроникні представницькі двері."
   },
   {
     "op": "replace",
@@ -12,17 +12,17 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Ці двері абсолютно безпечні."
+    "value": "Ці двері цілком надійні."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Абсолютно міцні двері."
+    "value": "Надзвичайно міцні двері."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран ховається за дверима. Вискочити. Ssstab!"
+    "value": "Флоран ховаєтьссся за дверима. Виссскакує. Шссстрик!"
   },
   {
     "op": "replace",
@@ -32,16 +32,16 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Непроникні виконавчі двері."
+    "value": "Непроникні представницькі двері."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Надійні виконавчі двері."
+    "value": "Надійні представницькі двері."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ці двері, безумовно, шипнуть."
+    "value": "Оці двері справді файні та шикарні."
   }
 ]

@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "На цьому надгробку вигравірувано символ ока"
+    "value": "На цьому надгробку вигравірувано символ ока."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Око Надгробок"
+    "value": "Надгробок із оком"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Знак Флорана помер із зростанням квітки."
+    "value": "Флорани позначають мертвих ростом квітки."
   },
   {
     "op": "replace",

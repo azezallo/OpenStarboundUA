@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Великий високий ssstone."
+    "value": "Великий високий камінь."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Некондиційний стовп."
+    "value": "Невідповідний стовп."
   },
   {
     "op": "replace",

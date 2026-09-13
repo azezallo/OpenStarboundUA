@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Hello, star traveller! A friendly face is always welcome here."
+    "value": "Привіт, зірковий мандрівнику! Дружній обличчя завжди вітається тут."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/0",
-    "value": "Hello, star traveller! A friendly face is always welcome here."
+    "value": "Привіт, зірковий мандрівнику! Дружній обличчя завжди вітається тут."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/apex/0",
-    "value": "We are both free of the Miniknog here!"
+    "value": "Ми обидва вільні від Міннаук тут!"
   }
 ]

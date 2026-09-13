@@ -1,111 +1,111 @@
 [
   {
-    "value": " розкид",
+    "value": "Хімік",
     "path": "/scriptConfig/crew/role/name",
     "op": "replace"
   },
   {
-    "value": " бластер",
+    "value": "Фармацевтичний",
     "path": "/scriptConfig/crew/role/field",
     "op": "replace"
   },
   {
-    "value": " ствол",
+    "value": "Я дам тобі підсилення, коли ми на кораблі!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "op": "replace"
   },
   {
-    "value": " пітчер",
+    "value": "Я підвищу всіх на кораблі, поки ми на борту!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
     "op": "replace"
   },
   {
-    "value": " тосер",
+    "value": "Флоран дасть тобі підсилення, коли ми на кораблі!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
     "op": "replace"
   },
   {
-    "value": " фазер",
+    "value": "Дружній. Я дам тобі підсилення, коли ми на кораблі!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": " шкідник",
+    "value": "Я дам тобі підсилення, коли ми на кораблі, друже!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": " руйнівник",
+    "value": "Дозволь мені швидко надати тобі підсилення!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
     "op": "replace"
   },
   {
-    "value": " трощитель",
+    "value": "Дозволь мені допомогти тобі!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
     "op": "replace"
   },
   {
-    "value": " грішник",
+    "value": "Схоже, тобі не завадить допомога!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
     "op": "replace"
   },
   {
-    "value": " вбивця",
+    "value": "Я допоможу!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
     "op": "replace"
   },
   {
-    "value": " затвор",
+    "value": "Флоран має речі, щоб допомогти тобі!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
     "op": "replace"
   },
   {
-    "value": " силовик",
+    "value": "Флорани можуть допомогти!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1",
     "op": "replace"
   },
   {
-    "value": " виклик",
+    "value": "Флорани мають речі для допомоги!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
     "op": "replace"
   },
   {
-    "value": " штовхач",
+    "value": "Страсть. Я можу допомогти!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": " вигнанець",
+    "value": "Захоплений. Можливо, тобі потрібно підсилення!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": " загороджувач",
+    "value": "Захоплений. Чи допоможе це тобі?",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": " терор",
+    "value": "Допомога. Візьміть це, воно допоможе!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Прекрасна квітка.",
+    "value": "Здається, тобі потрібна допомога, партнере!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Прекрасна квітка",
+    "value": "Ти виглядаєш так, ніби потрібна допомога!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Сссимпатично.",
+    "value": "Здається, ти шукаєш допомогу!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/2",
     "op": "replace"
   },
   {
-    "value": "Ствердження. Симпатична квітка.",
+    "value": "Зачекай, партнере, я можу допомогти тобі!",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/3",
     "op": "replace"
   }

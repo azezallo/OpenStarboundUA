@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Великий шаховий ящик, добре ховає речі."
+    "value": "Великий ящик для речей, добре ховає речі."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Зберігання завжди корисно!"
+    "value": "Зберігання завжди корисне!"
   }
 ]

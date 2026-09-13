@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Сталактит, що світиться."
+    "value": "Сталактит, що світиться"
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Це примітивне джерело світла."
+    "value": "Це примітивне джерело світла"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Лампа, що виглядає як нудьга."
+    "value": "Лампа, що виглядає як нудьга"
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Це здається небезпечним, але воно є джерелом світла."
+    "value": "Це здається небезпечним, але воно є джерелом світла"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це сталактит, що світиться."
+    "value": "Це сталактит, що світиться"
   }
 ]

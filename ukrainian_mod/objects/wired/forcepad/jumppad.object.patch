@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Jump Pad"
+    "value": "Підйомна платформа"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Відштовхуйте предмети сильною пружною силою"
+    "value": "Відштовхує об'єкти сильною пружною силою"
   },
   {
     "op": "replace",

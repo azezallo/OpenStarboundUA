@@ -12,36 +12,36 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Стандартний випуск."
+    "value": "Стандартний зразок."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Висока лампа. Цікаво, як це функціонує? Кристалів немає."
+    "value": "Висока лампа. Цікаво, як вона працює? Кристалів немає."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Висока лампа, яскраве світло."
+    "value": "Висока лампа, яскраве ссвітло."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Задоволений. Зі світлом приходить безпека."
+    "value": "Задоволення. Зі світлом приходить безпека."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Висока яскрава лампа."
+    "value": "Висока, яскрава лампа."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Ця лампа могла освітлювати велику камеру."
+    "value": "Ця лампа могла б освітити велику залу."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це висока стояча лампа."
+    "value": "Ото файна висока стояча лампа."
   }
 ]

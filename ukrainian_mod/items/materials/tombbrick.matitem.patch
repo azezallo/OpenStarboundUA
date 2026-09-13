@@ -7,21 +7,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Запорошена і старовинна цегла."
+    "value": "Запорошені та старовинні цеглини."
   },
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Здивований. Closer inspection suggests these bricks are quite old."
+    "value": "Здивований. При ближчому огляді виявляється, що ці цеглини досить старі."
   },
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Dusssty стара цегла."
+    "value": "Запорошені старі цеглини."
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Просто якісь старі запорошені цеглини."
+    "value": "Просто декілька старих пилових цеглин."
   }
 ]

@@ -7,21 +7,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Темна гладка кам'яна брила."
+    "value": "Темний гладкий кам’яний блок"
   },
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Цікаво. Темна цегла з невідомого каменю."
+    "value": "Цікаво. Темна цегла з невідомого каменю"
   },
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Sssmooth кам'яний блок."
+    "value": "Гладкий кам’яний блок"
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Темна на вигляд кам'яна цегла."
+    "value": "Темна кам’янка, що виглядає темно"
   }
 ]

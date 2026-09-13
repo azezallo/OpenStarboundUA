@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілий середній хвіст Змієносця."
+    "value": "Скам'яний середній хвіст Змієносця"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ophidaunt Mid Tail"
+    "value": "Середній хвіст Змієносця"
   }
 ]

@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Shadow Spike Block"
+    "value": "Тіньовий шипастий блок"
   },
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "зацікавлений. Цей блок зроблений з невідомого матеріалу."
+    "value": "Зацікавлений. Цей блок виготовлений із невідомого матеріалу."
   },
   {
     "op": "replace",

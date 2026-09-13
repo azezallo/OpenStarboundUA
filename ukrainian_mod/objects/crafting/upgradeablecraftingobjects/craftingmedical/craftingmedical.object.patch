@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "^orange;Aаптека^white;"
+    "value": "^orange;Аптека^white;"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Стіл Флорана Уссе. Залатати себе."
+    "value": "Флорани використовують стіл, щоб зашпилити себе."
   },
   {
     "op": "replace",
@@ -52,7 +52,7 @@
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
-    "value": "^orange;Aаптека^white;"
+    "value": "^orange;Аптека^white;"
   },
   {
     "op": "replace",
@@ -67,7 +67,7 @@
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
-    "value": "Стіл Флорана Уссе. Залатати себе."
+    "value": "Флорани використовують стіл, щоб зашпилити себе."
   },
   {
     "op": "replace",
@@ -92,12 +92,12 @@
   {
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
-    "value": "Аптекар"
+    "value": "Аптека"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "^#b9b5b2;Hздоров'я та благополуччя"
+    "value": "^#b9b5b2;Здоров’я та благополуччя"
   },
   {
     "op": "replace",
@@ -122,7 +122,7 @@
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
-    "value": "Стіл Флорана Уссе. Залатати себе."
+    "value": "Флорани використовують стіл, щоб зашпилити себе."
   },
   {
     "op": "replace",
@@ -152,6 +152,6 @@
   {
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "^#b9b5b2;Hздоров'я та благополуччя"
+    "value": "^#b9b5b2;Здоров’я та благополуччя"
   }
 ]

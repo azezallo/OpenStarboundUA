@@ -15,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Настав час знищити банду ^orange;<bounty.gang.name>^reset; назавжди. Ми натрапили на слід їхнього ватажка, ^orange;<bounty.name>^reset;, на <coordinate.name>.\n\nПереконайся, що ти добре підготовлений до цього - його база обов'язково буде добре укріплена.\n\n- НАГОРОДИ -\nЗахоплення: ^yellow;<rewards.money>^reset; пікселів, +<rewards.rank> рангу",
+    "value": "Настав час покінчити з бандою ^orange;<bounty.gang.name>^reset; раз і назавжди. Ми вийшли на слід їхнього ватажка, ^orange;<bounty.name>^reset;, <coordinate.preposition> <coordinate.name>.\n\nПереконайся, що ти добре підготувався: їхня база напевно серйозно укріплена.\n\n- НАГОРОДИ -\nЗахоплення: ^yellow;<rewards.money>^reset; пікселів, +<rewards.rank> до рангу",
     "path": "/scriptConfig/generatedText/text/default/0",
     "op": "replace"
   }

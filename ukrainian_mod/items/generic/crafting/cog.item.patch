@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Це гвинтик."
+    "value": "Це шестерня."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Мідний гвинтик"
+    "value": "Мідна шестерня"
   }
 ]

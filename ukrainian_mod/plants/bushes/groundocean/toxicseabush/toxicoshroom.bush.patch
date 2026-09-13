@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Токсичний туалет."
+    "value": "Токсичний Ошрум"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Токсичний Oshroom"
+    "value": "Токсичний Ошрум"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ссслий бур'ян."
+    "value": "Слизький бур'ян"
   },
   {
     "op": "replace",

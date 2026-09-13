@@ -7,11 +7,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Електричний резист Augment"
+    "value": "Підсилення стійкості до електрики"
   },
   {
     "op": "replace",
     "path": "/augment/displayName",
-    "value": "Електричний опір"
+    "value": "Опір електриці"
   }
 ]

@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Російська коробка."
+    "value": "Ржавий ящик"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Обережний. Ящик іржавого вигляду."
+    "value": "Обережність. Ящик іржавого вигляду."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Ящик, який, здається, проіржавів."
+    "value": "Ящик, який, здається, поржавів."
   },
   {
     "op": "replace",

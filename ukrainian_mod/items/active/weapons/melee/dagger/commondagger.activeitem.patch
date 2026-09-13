@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Гострий як бритва та блискавичний."
+    "value": "Резко гострий і блискавично швидкий"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Кинджал звичайний"
+    "value": "Звичайний кинджал"
   }
 ]

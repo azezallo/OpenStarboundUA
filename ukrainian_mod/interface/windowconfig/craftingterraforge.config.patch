@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": "  Теракузня"
+    "value": "Теракузня"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": "  Створюйте тераформери для перетворення цілих планет!"
+    "value": "Створюйте тераформери для перетворення цілих планет!"
   },
   {
     "op": "replace",

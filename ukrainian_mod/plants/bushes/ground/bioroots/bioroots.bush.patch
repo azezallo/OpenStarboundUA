@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Пучок скручування коренів."
+    "value": "Пучок скручених коренів."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Деякі завивки коренів."
+    "value": "Деякі кручені корені."
   },
   {
     "op": "replace",

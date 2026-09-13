@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Тонкі бурульки."
+    "value": "Тонкі сніжинки."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Тонкі бурульки."
+    "value": "Тонкі сніжинки."
   },
   {
     "op": "replace",
@@ -17,6 +17,6 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Тонкі бурульки."
+    "value": "Заява. Тонкі сніжинки."
   }
 ]

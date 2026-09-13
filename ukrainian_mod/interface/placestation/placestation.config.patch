@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/gui/connectingLabel/value",
-    "value": "Підключення до S.A.I.L..."
+    "value": "Підключення до Б.Ш.І..."
   },
   {
     "op": "replace",
@@ -37,12 +37,12 @@
   {
     "op": "replace",
     "path": "/connect/connectText",
-    "value": "^green;Підключення до S.A.I.L"
+    "value": "^green;Підключення до Б.Ш.І."
   },
   {
     "op": "replace",
     "path": "/connect/failText",
-    "value": "^red;Неможливо встановити широкосмугове підключення до S.A.I.L\nСпробуйте ще раз з вашого корабля"
+    "value": "^red;Неможливо встановити широкосмугове підключення до Б.Ш.І.\nСпробуйте ще раз з вашого корабля"
   },
   {
     "op": "replace",
@@ -82,11 +82,11 @@
   {
     "op": "replace",
     "path": "/nameLabel",
-    "value": "назва > "
+    "value": "назва >"
   },
   {
     "op": "replace",
     "path": "/descriptionLabel",
-    "value": "опис > "
+    "value": "опис >"
   }
 ]

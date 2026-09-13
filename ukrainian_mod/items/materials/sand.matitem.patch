@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Це Сілт. Це дуже замулено."
+    "value": "Це мул. Дуже запорошений."
   },
   {
     "op": "replace",
@@ -17,11 +17,11 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Мул. Так запорошено."
+    "value": "Мул. Так запорошений."
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Велика купа пилового мулу."
+    "value": "Велика купа пилового мули."
   }
 ]

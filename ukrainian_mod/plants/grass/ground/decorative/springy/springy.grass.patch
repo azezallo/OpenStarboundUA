@@ -5,17 +5,17 @@
     "op": "replace"
   },
   {
-    "value": "Пружиниста рослина",
+    "value": "Пружна рослина.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Флоран підстрибує на ньому.",
+    "value": "Флоран стрибає на цьому.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Весело. Рослина у формі пружини.",
+    "value": "Розвага. Рослина у формі пружини.",
     "path": "/glitchDescription",
     "op": "replace"
   }

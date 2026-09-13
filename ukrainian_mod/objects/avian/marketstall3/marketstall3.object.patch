@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ринок зброї"
+    "value": "Станція зброї на ринку"
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Груба зброя птахолюдей. Ssslap як гілка."
+    "value": "Груба зброя авіанів. Ссснап як гілка."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спостережливий. Ця зброя потребує заточування."
+    "value": "Спостережливість. Ця зброя потребує заточування."
   },
   {
     "op": "replace",

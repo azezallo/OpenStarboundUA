@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "I came here early to make sure I wouldn't miss the ceremony."
+    "value": "Я прийшов рано, щоб не пропустити церемонію."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "I've been waiting here for hours..."
+    "value": "Я вже кілька годин тут очікую."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
-    "value": "Surely my dedication to timeliness will be recognized."
+    "value": "Звичайно, моє прагнення до пунктуальності буде визнано."
   }
 ]

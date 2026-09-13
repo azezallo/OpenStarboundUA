@@ -25,27 +25,27 @@
     "op": "replace"
   },
   {
-    "value": "старий друг",
+    "value": "давній друг",
     "path": "/scriptConfig/generatedText/fluff/0/1/4",
     "op": "replace"
   },
   {
-    "value": "друг",
+    "value": "пара на побаченні",
     "path": "/scriptConfig/generatedText/fluff/0/1/5",
     "op": "replace"
   },
   {
-    "value": "трохи раніше",
+    "value": "раніше",
     "path": "/scriptConfig/generatedText/fluff/1/1/0",
     "op": "replace"
   },
   {
-    "value": "не так давно",
+    "value": "нещодавно",
     "path": "/scriptConfig/generatedText/fluff/1/1/1",
     "op": "replace"
   },
   {
-    "value": "сьогодні раніше",
+    "value": "раніше сьогодні",
     "path": "/scriptConfig/generatedText/fluff/1/1/2",
     "op": "replace"
   },
@@ -100,7 +100,7 @@
     "op": "replace"
   },
   {
-    "value": "гліпах",
+    "value": "ґліпах",
     "path": "/scriptConfig/generatedText/fluff/3/1/0",
     "op": "replace"
   },
@@ -115,7 +115,7 @@
     "op": "replace"
   },
   {
-    "value": "поптопах",
+    "value": "поптопів",
     "path": "/scriptConfig/generatedText/fluff/3/1/3",
     "op": "replace"
   },
@@ -170,7 +170,7 @@
     "op": "replace"
   },
   {
-    "value": "золотій ері космічного піратства",
+    "value": "золотій добі космічного піратства",
     "path": "/scriptConfig/generatedText/fluff/3/1/14",
     "op": "replace"
   },
@@ -180,57 +180,57 @@
     "op": "replace"
   },
   {
-    "value": "трохи бойової практики",
+    "value": "трохи бойової практикиссс",
     "path": "/scriptConfig/generatedText/fluff/4/1/0",
     "op": "replace"
   },
   {
-    "value": "трохи мисливської практики",
+    "value": "трохи мисссливської практики",
     "path": "/scriptConfig/generatedText/fluff/4/1/1",
     "op": "replace"
   },
   {
-    "value": "виготовлення коссстюма",
+    "value": "зробити коссстюм",
     "path": "/scriptConfig/generatedText/fluff/4/1/2",
     "op": "replace"
   },
   {
-    "value": "трохи практики зссс списом",
+    "value": "трохи тренувань зі сссписом",
     "path": "/scriptConfig/generatedText/fluff/4/1/3",
     "op": "replace"
   },
   {
-    "value": "особисті причини",
+    "value": "особбисті причини",
     "path": "/scriptConfig/generatedText/fluff/4/1/4",
     "op": "replace"
   },
   {
-    "value": "Неспокійно",
+    "value": "Неспокій",
     "path": "/scriptConfig/generatedText/fluff/5/1/0",
     "op": "replace"
   },
   {
-    "value": "Стривожено",
+    "value": "Розпач",
     "path": "/scriptConfig/generatedText/fluff/5/1/1",
     "op": "replace"
   },
   {
-    "value": "Спантеличено",
+    "value": "Спантеличення",
     "path": "/scriptConfig/generatedText/fluff/5/1/2",
     "op": "replace"
   },
   {
-    "value": "Стурбовано",
+    "value": "Стурбованість",
     "path": "/scriptConfig/generatedText/fluff/6/1/0",
     "op": "replace"
   },
   {
-    "value": "Стривожено",
+    "value": "Занепокоєння",
     "path": "/scriptConfig/generatedText/fluff/6/1/1",
     "op": "replace"
   },
   {
-    "value": "Панічно",
+    "value": "Паніка",
     "path": "/scriptConfig/generatedText/fluff/6/1/2",
     "op": "replace"
   },
@@ -245,22 +245,22 @@
     "op": "replace"
   },
   {
-    "value": "Я впевнен<questGiver.pronoun.obj1end>, що <targetNpcType.pronoun.subject> теж відчуває полегшення від твоєї допомоги!",
+    "value": "Я впевнен<questGiver.pronoun.obj1end>, що <targetNpcType.pronoun.subject> відчуває полегшення, що ти поруч!",
     "path": "/scriptConfig/generatedText/fluff/7/1/2",
     "op": "replace"
   },
   {
-    "value": "Я навіть не знаю, що б я робив<questGiver.pronoun.obj1end> без тебе!",
+    "value": "Не уявляю, що б ми без тебе робили!",
     "path": "/scriptConfig/generatedText/fluff/7/1/3",
     "op": "replace"
   },
   {
-    "value": "Ескорт жителя <targetNpcType>",
+    "value": "Супровід <targetNpcType>",
     "path": "/scriptConfig/generatedText/title/default/0",
     "op": "replace"
   },
   {
-    "value": "Ескортувати жителя <targetNpcType>",
+    "value": "Супроводити <targetNpcType>",
     "path": "/scriptConfig/generatedText/title/default/1",
     "op": "replace"
   },
@@ -270,7 +270,7 @@
     "op": "replace"
   },
   {
-    "value": "^cyan;Друг флорана <targetNpcType> зник.",
+    "value": "^cyan;Друг Флорана <targetNpcType> кудисссь подівссся.",
     "path": "/scriptConfig/generatedText/goalText/floran/0",
     "op": "replace"
   },
@@ -285,7 +285,7 @@
     "op": "replace"
   },
   {
-    "value": "Друг флорана ^orange;<targetNpcType>^white; мав зустрітися з флораном для <activityfloran> <earlier>. <targetNpcType>, напевно, загубив<targetNpcType.pronoun.obj6end>ся... востаннє, коли флоран бачив <targetNpcType.pronoun.object>, <targetNpcType> йш<targetNpcType.pronoun.obj5end> ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Чи міг би ти допомогти флорану знайти <targetNpcType.pronoun.object>^white;?",
+    "value": "Друг Флорана ^orange;<targetNpcType>^white; мав зуссстрітися з Флораном для <activityfloran> <earlier>. <targetNpcType>, напевно, загубив<targetNpcType.pronoun.obj6end>ся... воссстаннє, коли Флоран бачив <targetNpcType.pronoun.object>, <targetNpcType> йш<targetNpcType.pronoun.obj5end> ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Чи міг би ти допомогти Флорану знайти <targetNpcType.pronoun.object>^white;?",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
@@ -300,17 +300,17 @@
     "op": "replace"
   },
   {
-    "value": "Дякую, що привів <targetNpcType> назад до флорана!",
+    "value": "Дякуюссс, що привів <targetNpcType> назад до Флорана!",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "З полегшенням. Дякую, що привів <targetNpcType> назад. <appreciation>",
+    "value": "Полегшення. Дякую, що привів <targetNpcType> сюди. <appreciation>",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Не хвилюйся — я впевнен<questGiver.pronoun.obj1end>, що друг <questGiver> відродиться десь у безпечнішому місці.",
+    "value": "Не хвилюйся — я впевнен<questGiver.pronoun.obj1end>, що друг жителя <questGiver> відродиться десь у безпечнішому місці.",
     "path": "/scriptConfig/generatedText/failureText/default/0",
     "op": "replace"
   },
@@ -320,7 +320,7 @@
     "op": "replace"
   },
   {
-    "value": "Приведи <targetNpcType> назад до <questGiver> цілим і неушкодженим",
+    "value": "Приведи <targetNpcType> назад до жителя <questGiver> цілим і неушкодженим",
     "path": "/scriptConfig/objectives/1/text",
     "op": "replace"
   }

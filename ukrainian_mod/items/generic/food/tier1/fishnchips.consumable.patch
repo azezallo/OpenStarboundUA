@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Смажи всі речі! Це давній фаворит для людей."
+    "value": "Смажи всі речі! Це давнє улюблене для людей."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Риба і чіпси"
+    "value": "Риба та чіпси"
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Ці штани видають приємний деревний звук при ходьбі."
+    "value": "Ці штани видають приємний дерев'яний звук під час ходьби."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Штани Rainbow Wood"
+    "value": "Штани райдужного дерева"
   }
 ]

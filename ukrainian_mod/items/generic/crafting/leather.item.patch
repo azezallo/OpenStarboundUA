@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Квадрат шкіри."
+    "value": "Квадрат шкіри"
   },
   {
     "op": "replace",

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Схема простої деталі механізму."
+    "value": "Схема простої частини меха"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Простий проект механізму"
+    "value": "Простий план меха"
   }
 ]

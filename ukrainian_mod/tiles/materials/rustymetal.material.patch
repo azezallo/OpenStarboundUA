@@ -1,26 +1,26 @@
 [
   {
-    "value": " ствол",
+    "value": "Старий метал, покритий іржею.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": " розпилювач",
+    "value": "Іржавий метал",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": " стопор",
+    "value": "Стривожений. Від іржі на цьому металі мені дуже незручно.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": " розкид",
+    "value": "Покритий іржею метал",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": " бластер",
+    "value": "Якийсь старий метал, покритий густою іржею.",
     "path": "/novakidDescription",
     "op": "replace"
   }

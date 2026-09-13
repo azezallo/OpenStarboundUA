@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Традиційний капюшон ката."
+    "value": "Традиційний капюшон ката"
   },
   {
     "op": "replace",

@@ -30,7 +30,7 @@
     "op": "replace"
   },
   {
-    "value": "Я почекаю тут.",
+    "value": "Я просто тут чекатиму.",
     "path": "/scriptConfig/dialog/follower/wait/default/default/0",
     "op": "replace"
   },

@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Невеликий дерев'яний склад."
+    "value": "Маленька дерев'яна сховище"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Невеликий обсяг пам'яті."
+    "value": "Невелика кількість місця для зберігання"
   },
   {
     "op": "replace",

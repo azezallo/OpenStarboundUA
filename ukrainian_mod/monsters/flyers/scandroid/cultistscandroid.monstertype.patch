@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Cultist Scandroid"
+    "value": "Култистський Scandroid"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "This Scandroid has been repurposed by the Occasus Cult."
+    "value": "Цей Scandroid був перепрофільований Культом Оккасуса."
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілі шипшини іксодому."
+    "value": "Скам'янілені стегна Іксодома"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Шипшини іксодумні"
+    "value": "Стегна Іксодома"
   }
 ]

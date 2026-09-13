@@ -87,12 +87,12 @@
   {
     "op": "replace",
     "path": "/hail/human/default/3",
-    "value": "Спробуй нічого не зруйнувати."
+    "value": "Спробуй не зруйнувати нічого."
   },
   {
     "op": "replace",
     "path": "/hail/human/default/4",
-    "value": "Я стежу за тобою."
+    "value": "Я слідкую за тобою."
   },
   {
     "op": "replace",
@@ -122,22 +122,22 @@
   {
     "op": "replace",
     "path": "/hail/floran/default/0",
-    "value": "Тримайсся подалі від неприємностей."
+    "value": "Тримайся подалі від неприємностей."
   },
   {
     "op": "replace",
     "path": "/hail/floran/default/1",
-    "value": "Флорану не подобається твоє обличчяссс."
+    "value": "Флорану не подобається твоє обличчя."
   },
   {
     "op": "replace",
     "path": "/hail/floran/default/2",
-    "value": "Ніяких дурницьссс."
+    "value": "Ніяких дурниць."
   },
   {
     "op": "replace",
     "path": "/hail/floran/default/3",
-    "value": "Поводьсся чемно."
+    "value": "Поведайся сам"
   },
   {
     "op": "replace",
@@ -152,42 +152,42 @@
   {
     "op": "replace",
     "path": "/hail/floran/default/6",
-    "value": "Дай Флорану причинуссс."
+    "value": "Дайте Флорану причину"
   },
   {
     "op": "replace",
     "path": "/hail/floran/default/7",
-    "value": "Не спокушай Флоранассс."
+    "value": "Не спокусуй Флорана"
   },
   {
     "op": "replace",
     "path": "/hail/floran/default/8",
-    "value": "Проходь, незнайомцюссс."
+    "value": "Продовжуйте рухатися, незнайомцю"
   },
   {
     "op": "replace",
     "path": "/hail/floran/default/9",
-    "value": "Порушники ссмачні."
+    "value": "Порушники ссмачні"
   },
   {
     "op": "replace",
     "path": "/hail/apex/default/0",
-    "value": "Мовчи, мандрівнику, і не завдавай клопоту."
+    "value": "Мовчіть, мандрівнику, і не викликайте клопоту"
   },
   {
     "op": "replace",
     "path": "/hail/apex/default/1",
-    "value": "Коріться Міннаук."
+    "value": "Підкорюйтесь Міннауку"
   },
   {
     "op": "replace",
     "path": "/hail/apex/default/2",
-    "value": "Великий Мавп стежить за тобою."
+    "value": "Великий Апекс спостерігає за вами"
   },
   {
     "op": "replace",
     "path": "/hail/apex/default/3",
-    "value": "Акти агресії не будуть терпітися."
+    "value": "Дії агресії не будуть терпимі"
   },
   {
     "op": "replace",
@@ -197,17 +197,17 @@
   {
     "op": "replace",
     "path": "/hail/apex/default/5",
-    "value": "Слава Великому Мавпу! Святкуйте його славне правління!"
+    "value": "Слава Великому Апексу! Святкуйте його славне правління!"
   },
   {
     "op": "replace",
     "path": "/hail/apex/default/6",
-    "value": "Я люблю Великого Мавпа."
+    "value": "Я люблю великого Апекса"
   },
   {
     "op": "replace",
     "path": "/hail/apex/default/7",
-    "value": "Великий Мавп любить нас усіх, крім тих, кого не любить."
+    "value": "Великий Апекс любить усіх нас, крім тих, кого він не любить"
   },
   {
     "op": "replace",
@@ -257,7 +257,7 @@
   {
     "op": "replace",
     "path": "/hail/hylotl/default/7",
-    "value": "Я прошу вас не паплюжити це місце непотрібною агресією."
+    "value": "Прошу вас не пошкоджувати це місце непотрібною агресією"
   },
   {
     "op": "replace",
@@ -282,7 +282,7 @@
   {
     "op": "replace",
     "path": "/hail/avian/default/2",
-    "value": "Боюся, я повинен попросити тебе йти далі."
+    "value": "Боюсь, що мушу попросити вас йти далі"
   },
   {
     "op": "replace",
@@ -292,7 +292,7 @@
   {
     "op": "replace",
     "path": "/hail/avian/default/4",
-    "value": "Тільки намагайся не пускати кота між голубів."
+    "value": "Просто спробуйте не вкидати кота серед голубів"
   },
   {
     "op": "replace",
@@ -352,6 +352,6 @@
   {
     "op": "replace",
     "path": "/hail/novakid/default/6",
-    "value": "Здоров, ґаздо!"
+    "value": "Здоров!"
   }
 ]

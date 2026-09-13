@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/7",
-    "value": "Аліса"
+    "value": "Еліс"
   },
   {
     "op": "replace",
@@ -42,7 +42,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/9",
-    "value": "Дружність"
+    "value": "Еміті"
   },
   {
     "op": "replace",
@@ -62,7 +62,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/13",
-    "value": "Ангел"
+    "value": "Енджел"
   },
   {
     "op": "replace",
@@ -102,7 +102,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/21",
-    "value": "Бджола"
+    "value": "Бі"
   },
   {
     "op": "replace",
@@ -162,22 +162,22 @@
   {
     "op": "replace",
     "path": "/names/1/1/33",
-    "value": "Chrisjen"
+    "value": "Крісджен"
   },
   {
     "op": "replace",
     "path": "/names/1/1/34",
-    "value": "Cindy"
+    "value": "Сінді"
   },
   {
     "op": "replace",
     "path": "/names/1/1/35",
-    "value": "Daisy"
+    "value": "Дейзі"
   },
   {
     "op": "replace",
     "path": "/names/1/1/36",
-    "value": "Dakota"
+    "value": "Дакота"
   },
   {
     "op": "replace",
@@ -197,7 +197,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/40",
-    "value": "Dawn"
+    "value": "Світанок"
   },
   {
     "op": "replace",
@@ -302,17 +302,17 @@
   {
     "op": "replace",
     "path": "/names/1/1/61",
-    "value": "Gem"
+    "value": "Джем"
   },
   {
     "op": "replace",
     "path": "/names/1/1/62",
-    "value": "Георгій"
+    "value": "Джорджі"
   },
   {
     "op": "replace",
     "path": "/names/1/1/63",
-    "value": "Gerry"
+    "value": "Джеррі"
   },
   {
     "op": "replace",
@@ -322,77 +322,77 @@
   {
     "op": "replace",
     "path": "/names/1/1/65",
-    "value": "Goldie"
+    "value": "Голді"
   },
   {
     "op": "replace",
     "path": "/names/1/1/66",
-    "value": "Greta"
+    "value": "Грета"
   },
   {
     "op": "replace",
     "path": "/names/1/1/67",
-    "value": "Gul"
+    "value": "Гул"
   },
   {
     "op": "replace",
     "path": "/names/1/1/68",
-    "value": "Hadley"
+    "value": "Гедлі"
   },
   {
     "op": "replace",
     "path": "/names/1/1/69",
-    "value": "Harriet"
+    "value": "Гаррієт"
   },
   {
     "op": "replace",
     "path": "/names/1/1/70",
-    "value": "Harley"
+    "value": "Гарлі"
   },
   {
     "op": "replace",
     "path": "/names/1/1/71",
-    "value": "Hayley"
+    "value": "Гейлі"
   },
   {
     "op": "replace",
     "path": "/names/1/1/72",
-    "value": "Hiba"
+    "value": "Гіба"
   },
   {
     "op": "replace",
     "path": "/names/1/1/73",
-    "value": "Hilda"
+    "value": "Гільда"
   },
   {
     "op": "replace",
     "path": "/names/1/1/74",
-    "value": "Ibbie"
+    "value": "Іббі"
   },
   {
     "op": "replace",
     "path": "/names/1/1/75",
-    "value": "Ida"
+    "value": "Іда"
   },
   {
     "op": "replace",
     "path": "/names/1/1/76",
-    "value": "Idril"
+    "value": "Ідріль"
   },
   {
     "op": "replace",
     "path": "/names/1/1/77",
-    "value": "Inga"
+    "value": "Інга"
   },
   {
     "op": "replace",
     "path": "/names/1/1/78",
-    "value": "Ira"
+    "value": "Іра"
   },
   {
     "op": "replace",
     "path": "/names/1/1/79",
-    "value": "Ірис"
+    "value": "Айріс"
   },
   {
     "op": "replace",
@@ -412,12 +412,12 @@
   {
     "op": "replace",
     "path": "/names/1/1/83",
-    "value": "Які"
+    "value": "Джекі"
   },
   {
     "op": "replace",
     "path": "/names/1/1/84",
-    "value": "Янтін"
+    "value": "Янтіна"
   },
   {
     "op": "replace",
@@ -437,12 +437,12 @@
   {
     "op": "replace",
     "path": "/names/1/1/88",
-    "value": "червень"
+    "value": "Джун"
   },
   {
     "op": "replace",
     "path": "/names/1/1/89",
-    "value": "Jude"
+    "value": "Джуд"
   },
   {
     "op": "replace",
@@ -452,12 +452,12 @@
   {
     "op": "replace",
     "path": "/names/1/1/91",
-    "value": "Kata"
+    "value": "Ката"
   },
   {
     "op": "replace",
     "path": "/names/1/1/92",
-    "value": "Kelly"
+    "value": "Келлі"
   },
   {
     "op": "replace",
@@ -467,47 +467,47 @@
   {
     "op": "replace",
     "path": "/names/1/1/94",
-    "value": "Kiki"
+    "value": "Кікі"
   },
   {
     "op": "replace",
     "path": "/names/1/1/95",
-    "value": "Kleio"
+    "value": "Клейо"
   },
   {
     "op": "replace",
     "path": "/names/1/1/96",
-    "value": "Laurie"
+    "value": "Лорі"
   },
   {
     "op": "replace",
     "path": "/names/1/1/97",
-    "value": "Layla"
+    "value": "Лейла"
   },
   {
     "op": "replace",
     "path": "/names/1/1/98",
-    "value": "Leah"
+    "value": "Лія"
   },
   {
     "op": "replace",
     "path": "/names/1/1/99",
-    "value": "Lenna"
+    "value": "Ленна"
   },
   {
     "op": "replace",
     "path": "/names/1/1/100",
-    "value": "Lili"
+    "value": "Лілі"
   },
   {
     "op": "replace",
     "path": "/names/1/1/101",
-    "value": "Linda"
+    "value": "Лінда"
   },
   {
     "op": "replace",
     "path": "/names/1/1/102",
-    "value": "Ліндсей"
+    "value": "Ліндсі"
   },
   {
     "op": "replace",
@@ -517,17 +517,17 @@
   {
     "op": "replace",
     "path": "/names/1/1/104",
-    "value": "Lonnie"
+    "value": "Лонні"
   },
   {
     "op": "replace",
     "path": "/names/1/1/105",
-    "value": "Lorene"
+    "value": "Лорен"
   },
   {
     "op": "replace",
     "path": "/names/1/1/106",
-    "value": "Лоретт"
+    "value": "Лоретта"
   },
   {
     "op": "replace",
@@ -542,7 +542,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/109",
-    "value": "Місяць"
+    "value": "Луна"
   },
   {
     "op": "replace",
@@ -582,7 +582,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/117",
-    "value": "Майя"
+    "value": "Мая"
   },
   {
     "op": "replace",
@@ -697,7 +697,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/140",
-    "value": "Париж"
+    "value": "Періс"
   },
   {
     "op": "replace",
@@ -707,7 +707,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/142",
-    "value": "півонія"
+    "value": "Пеоні"
   },
   {
     "op": "replace",
@@ -742,7 +742,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/149",
-    "value": "Рима"
+    "value": "Ріма"
   },
   {
     "op": "replace",
@@ -767,7 +767,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/154",
-    "value": "Рут"
+    "value": "Ру"
   },
   {
     "op": "replace",
@@ -777,7 +777,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/156",
-    "value": "сайдж"
+    "value": "Сейдж"
   },
   {
     "op": "replace",
@@ -812,7 +812,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/163",
-    "value": "Сігрун"
+    "value": "Сіґрун"
   },
   {
     "op": "replace",
@@ -837,7 +837,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/168",
-    "value": "Сонячно"
+    "value": "Санні"
   },
   {
     "op": "replace",
@@ -847,22 +847,22 @@
   {
     "op": "replace",
     "path": "/names/1/1/170",
-    "value": "Сюзет"
+    "value": "Сюзетта"
   },
   {
     "op": "replace",
     "path": "/names/1/1/171",
-    "value": "Сідней"
+    "value": "Сідні"
   },
   {
     "op": "replace",
     "path": "/names/1/1/172",
-    "value": "зірка"
+    "value": "Стар"
   },
   {
     "op": "replace",
     "path": "/names/1/1/173",
-    "value": "Бурхлива"
+    "value": "Стормі"
   },
   {
     "op": "replace",
@@ -892,12 +892,12 @@
   {
     "op": "replace",
     "path": "/names/1/1/179",
-    "value": "Ведмедиця"
+    "value": "Урса"
   },
   {
     "op": "replace",
     "path": "/names/1/1/180",
-    "value": "Віра"
+    "value": "Вера"
   },
   {
     "op": "replace",
@@ -922,7 +922,7 @@
   {
     "op": "replace",
     "path": "/names/1/1/185",
-    "value": "Юля"
+    "value": "Юлія"
   },
   {
     "op": "replace",
@@ -942,11 +942,11 @@
   {
     "op": "replace",
     "path": "/names/1/1/189",
-    "value": "Zoe"
+    "value": "Зої"
   },
   {
     "op": "replace",
     "path": "/names/1/1/190",
-    "value": "Zora"
+    "value": "Зора"
   }
 ]

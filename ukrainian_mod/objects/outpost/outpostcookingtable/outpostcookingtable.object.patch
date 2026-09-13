@@ -7,22 +7,22 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Шикарний кулінарний стіл"
+    "value": "Вишуканий кухонний стіл"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "value": "Шикарний кулінарний стіл"
+    "value": "Вишуканий кухонний стіл"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": "^#b9b5b2;Готувати та готувати їжу"
+    "value": "^#b9b5b2;Приготування їжі"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Кулінарний стіл."
+    "value": "Кухонний стіл."
   },
   {
     "op": "replace",
@@ -32,17 +32,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран може використовувати це для приготування смачної їжі!"
+    "value": "Флоран може викориссстовувати це, щоб готувати сссмачну їжу!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "в захваті. Кулінарний стіл."
+    "value": "Радість. Кухонний стіл."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Кулінарний стіл, зручно!"
+    "value": "Кухонний стіл, зручно!"
   },
   {
     "op": "replace",
@@ -52,6 +52,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Час готувати!"
+    "value": "Час шось файно зготувати!"
   }
 ]

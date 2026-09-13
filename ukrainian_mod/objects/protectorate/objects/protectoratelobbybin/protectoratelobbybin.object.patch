@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Кошик."
+    "value": "Смітник."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Земного Захисту Бін"
+    "value": "Смітник Земного Захисту"
   },
   {
     "op": "replace",
@@ -17,31 +17,31 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Кошик."
+    "value": "Смітник."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Біда!"
+    "value": "Гидотний сссмітник!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. Просто стандартний бак."
+    "value": "Байдужість. Просто стандартний смітник."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Кошик. Захоплююче! ні"
+    "value": "Смітник. Захоплююче! Та ні."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Навколо цього баку розкидане сміття."
+    "value": "Навколо цього смітника розкидане сміття."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це урна."
+    "value": "Смітник як смітник, ніц цікавого."
   }
 ]

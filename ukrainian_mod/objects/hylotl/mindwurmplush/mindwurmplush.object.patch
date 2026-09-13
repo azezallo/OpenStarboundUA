@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Mindwurm Plushie"
+    "value": "Плюшевий Майндвурм"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Плюхи надто страшні, щоб бути милими."
+    "value": "Мозкові черви надто страшні, щоб колись були милими."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Душові черви дуже цікаві на вигляд істоти. Я не впевнений, що хотів би такий у формі плюшу."
+    "value": "Мозкові черви дуже цікаві, але я не впевнений, що хотів би їх у плюшевому вигляді."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Набагато миліший, ніж справжній Mindwurm, це точно!"
+    "value": "Набагато миліший за справжнього Mindwurm, це точно!"
   }
 ]

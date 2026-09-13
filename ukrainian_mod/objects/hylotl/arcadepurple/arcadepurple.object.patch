@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Гра називається Sscreaming Fashion Agent. Флорану подобається ця гра."
+    "value": "Гра називається Screaming Fashion Agent. Флоран любить цю гру."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Цей модний агент напевно багато кричить. Чи маю я з’ясувати чому?"
+    "value": "Цей модний агент напевно багато кричить. Чи маю я з’ясувати, чому?"
   }
 ]

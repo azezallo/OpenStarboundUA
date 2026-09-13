@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Фігурка Poptop від Земного Захисту."
+    "value": "Фігурка Поптопа із Земного Захисту."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Земного Захисту Poptop Toy"
+    "value": "Іграшковий Поптоп Земного Захисту"
   },
   {
     "op": "replace",
@@ -17,17 +17,17 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Деякі милі іграшки."
+    "value": "Милі іграшки."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Іграшки дивляться на Флорана!"
+    "value": "Іграшки дивлятьсся на Флорана!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Щаслива. Гарні колекційні іграшки!"
+    "value": "Радість. Гарні колекційні іграшки!"
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Деякі іграшки."
+    "value": "Якісь забавки."
   }
 ]

@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Тумба дерев'яна з встановленою раковиною."
+    "value": "Дерев'яна тумба з встановленою раковиною."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Дерев'яна мийка"
+    "value": "Дерев'яна раковина"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Водяний басейн."
+    "value": "Водяна раковина"
   },
   {
     "op": "replace",

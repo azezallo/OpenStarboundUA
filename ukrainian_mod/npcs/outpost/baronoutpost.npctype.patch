@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/npcname",
-    "value": "The Baron"
+    "value": "Барон"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Excited. Esther has been showing me how to ^orange;mend broken Protectorate weapons^white;. If only I could fix up my own rusted body. Ha ha ha!"
+    "value": "Радісно. Естер Брайт показує мені, як ^orange;заправляти пошкоджену зброю Земного Захисту^white;. Якщо б я міг сам виправити свій заржавлений корпус. Ха-ха-ха!"
   }
 ]

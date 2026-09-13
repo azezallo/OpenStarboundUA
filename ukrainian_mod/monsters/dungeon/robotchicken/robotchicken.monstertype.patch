@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Robotic Chicken"
+    "value": "Роботизована курка"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "It's been constructed to resemble a Chicken, there are still some kinks to work out."
+    "value": "Він побудований так, щоб нагадувати курку; ще залишилися деякі недоліки."
   }
 ]

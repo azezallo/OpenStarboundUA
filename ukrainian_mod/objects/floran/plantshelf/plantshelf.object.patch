@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Полиця Floran порожня."
+    "value": "Полиця Флорані порожня."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Цікаво. Цікаво, що використовувалася для зберігання цієї полиці."
+    "value": "Цікаво. Я роздумую, що саме тримали на цій полиці."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Стелаж Floran з рослин і дерева."
+    "value": "Стелаж Флоранів з рослин і дерева."
   },
   {
     "op": "replace",

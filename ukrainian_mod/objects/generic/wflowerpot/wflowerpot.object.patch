@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Білий — колір миру Hylotl."
+    "value": "Білий — колір миру Хайлотлі"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ніжна ромашка."
+    "value": "Ніжна ромашка"
   }
 ]

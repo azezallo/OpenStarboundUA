@@ -1,21 +1,21 @@
 [
   {
-    "value": "Місячний",
+    "value": "Гриб.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Множинн.",
+    "value": "Гриб.",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Піксельний",
+    "value": "Грибок",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Земний",
+    "value": "Заява. Гриб.",
     "path": "/glitchDescription",
     "op": "replace"
   }

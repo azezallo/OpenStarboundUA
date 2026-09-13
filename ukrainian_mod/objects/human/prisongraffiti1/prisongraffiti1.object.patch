@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Waz."
+    "value": "Ваз."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Графіті \"Waz\"."
+    "value": "Графіті «Waz»"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Там написано «WAZ». Зворушливо."
+    "value": "Тут написано «WAZ». Зворушливо."
   },
   {
     "op": "replace",
@@ -22,21 +22,21 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран напише повідомлення кров'ю на стіні."
+    "value": "Флоран пише повідомлення на ссстіні кров'ю."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Академічний. Цілком можливо, що це має на меті передати математичне рівняння еволюції."
+    "value": "Академізм. Цілком можливо, що це має на меті передати математичне рівняння еволюції."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Хе-хе. Waz. Ви, хлопці."
+    "value": "Хе-хе. Waz. Ну ви даєте."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Це слово не знайоме ні мені, ні моєму перекладачу."
+    "value": "Це слово не знайоме ні мені, ні моєму перекладачеві."
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "value": "Тут так гаряче, що мої окуляри пітніють!",
+    "value": "Тут так жарко, що мої окуляри конденсуються!",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
@@ -10,27 +10,27 @@
     "op": "replace"
   },
   {
-    "value": "Тобі подобається, як пахне? Майже як палаючими тостами.",
+    "value": "Тобі подобається, як пахне? Майже як палаючий тост.",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Жити тут важко, але не так, як під наглядом Міннаука.",
+    "value": "Життя тут важке, але краще, ніж під керівництвом Міннауків.",
     "path": "/scriptConfig/dialog/converse/apex/default/0",
     "op": "replace"
   },
   {
-    "value": "Великий Мавп тут за мною не стежить. Сподіваюся.",
+    "value": "Велика мавпа не знайде мене тут. Сподіваюся.",
     "path": "/scriptConfig/dialog/converse/apex/default/1",
     "op": "replace"
   },
   {
-    "value": "Якщо носиш хутро - то тут ще гарячіше, ніж зазвичай.",
+    "value": "Ця планета ще спекотніша для нас із хутром.",
     "path": "/scriptConfig/dialog/converse/apex/default/2",
     "op": "replace"
   },
   {
-    "value": "Я продовжую підпалювати пір'я, працюючи тут...",
+    "value": "Я продовжую підпалювати свої пір’я, працюючи тут...",
     "path": "/scriptConfig/dialog/converse/avian/default/0",
     "op": "replace"
   },
@@ -40,7 +40,7 @@
     "op": "replace"
   },
   {
-    "value": "Тільки найміцніший працівник може працювати на такій планеті.",
+    "value": "Тільки найсильніші працівники можуть витримати роботу на такій планеті.",
     "path": "/scriptConfig/dialog/converse/avian/default/2",
     "op": "replace"
   },
@@ -50,12 +50,12 @@
     "op": "replace"
   },
   {
-    "value": "Стомлено. Я важко працював. Майже почав плавитися!",
+    "value": "Втомлений. Я працюю тут наполегливо. Майже досяг точки плавлення!",
     "path": "/scriptConfig/dialog/converse/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Азартно. Робота ґлітча ніколи не закінчується!",
+    "value": "Захоплення. Робота ґлітча ніколи не закінчується!",
     "path": "/scriptConfig/dialog/converse/glitch/default/2",
     "op": "replace"
   },

@@ -1,6 +1,6 @@
 [
   {
-    "value": "У мене є серйозні причини переховуватися тут...",
+    "value": "У мене є серйозна причина, чому я сховався тут...",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
@@ -10,7 +10,7 @@
     "op": "replace"
   },
   {
-    "value": "Я серйозно, це не жарт.",
+    "value": "Я серйозно. Це не жарт.",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "op": "replace"
   },
@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Мені не потрібна чужа увага. ЗОВСІМ.",
+    "value": "Мені потрібно залишатися невидимим. Дійсно низько.",
     "path": "/scriptConfig/dialog/converse/default/default/4",
     "op": "replace"
   },
@@ -30,7 +30,7 @@
     "op": "replace"
   },
   {
-    "value": "Я так розумію, у тебе немає інших справ, окрім як відволікати мене, га?",
+    "value": "Здається, у вас немає нічого іншого робити, крім того, щоб дратувати мене, чи не так?",
     "path": "/scriptConfig/dialog/converse/default/default/6",
     "op": "replace"
   },

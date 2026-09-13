@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Призма Кристал"
+    "value": "Кристал призми"
   },
   {
     "op": "replace",
@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Кілька маленьких призматичних скель. Дуже гарна!"
+    "value": "Кілька маленьких призматичних скелів. Дуже гарні!"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Барвисті rockss."
+    "value": "Барвисті камені"
   },
   {
     "op": "replace",

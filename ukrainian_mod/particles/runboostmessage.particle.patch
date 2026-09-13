@@ -2,6 +2,6 @@
   {
     "op": "replace",
     "path": "/definition/text",
-    "value": "^shadow;SПідвищення швидкості"
+    "value": "^shadow;Підвищення швидкості"
   }
 ]

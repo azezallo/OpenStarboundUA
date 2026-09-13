@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Тік, так, так, так."
+    "value": "Тік, так, тік, так."
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Потішили. Очі рухаються щосекунди."
+    "value": "Потішення. Очі рухаються щосекунди."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Перед цим таймером важко не посміхнутися."
+    "value": "Перед цим таймером важко не посміхнутись."
   },
   {
     "op": "replace",

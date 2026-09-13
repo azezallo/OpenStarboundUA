@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "«Ідеальний зразок срібної руди»."
+    "value": "Ідеальний зразок срібної руди."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Срібло Проба"
+    "value": "Срібний зразок"
   }
 ]

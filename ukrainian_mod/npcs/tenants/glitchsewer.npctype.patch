@@ -2,61 +2,61 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/default/0",
-    "value": "Uncomfortable. My home still has a lingering smell I can't quite remove."
+    "value": "Не зручний. У моєму домі все ще залишається запах, який я не можу повністю видалити."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/default/1",
-    "value": "Ентузіазм. Навіть якщо ви оператор каналізації, ви можете отримувати задоволення від своєї роботи."
+    "value": "Захоплений. Навіть коли ти оператор каналізації, можна насолоджуватися тим, що робиш."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/default/2",
-    "value": "Засмучений. Керувати каналізацією – брудна робота. Я б краще досліджував, як ти."
+    "value": "Засмучений. Керування каналізацією – брудна робота. Я б краще досліджував, як ти."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/default/3",
-    "value": "Нещасна. Я провів своє життя, прочищаючи каналізацію. Але я думаю, хтось повинен..."
+    "value": "Нещасний. Я прожив усе своє життя, очищуючи каналізацію. Але я вважаю, що хтось має це робити..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/default/4",
-    "value": "Weary. I've spent so much of my life managing sewers."
+    "value": "Втомлений. Я провів стільки свого життя, керуючись каналізацією."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/default/5",
-    "value": "Inventive. I've adjusted this mask to filter out any bad sewer smells. It almost works!"
+    "value": "Творчий. Я налаштував цю маску, щоб відфільтрувати усі неприємні запахи каналізації. Це майже працює!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/glitch/0",
-    "value": "Незручно. У моєму домі все ще є запах, який я не можу повністю видалити."
+    "value": "Не зручний. У моєму домі все ще залишається запах, який я не можу повністю видалити."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/glitch/1",
-    "value": "Ентузіазм. Навіть якщо ви оператор каналізації, ви можете отримувати задоволення від своєї роботи."
+    "value": "Захоплений. Навіть коли ти оператор каналізації, можна насолоджуватися тим, що робиш."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/glitch/2",
-    "value": "Засмучений. Керувати каналізацією – брудна робота. Я б краще досліджував, як ти."
+    "value": "Засмучений. Керування каналізацією – брудна робота. Я б краще досліджував, як ти."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/glitch/3",
-    "value": "Нещасна. Я провів своє життя, прочищаючи каналізацію. Але я думаю, хтось повинен..."
+    "value": "Нещасний. Я прожив усе своє життя, очищуючи каналізацію. Але я вважаю, що хтось має це робити..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/glitch/4",
-    "value": "Втомлений. Я провів стільки свого життя, керуючи каналізацією."
+    "value": "Втомлений. Я провів стільки свого життя, керуючись каналізацією."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/glitch/5",
-    "value": "Винахідливий. Я налаштував цю маску, щоб фільтрувати всі неприємні каналізаційні запахи. Це майже працює!"
+    "value": "Творчий. Я налаштував цю маску, щоб відфільтрувати усі неприємні запахи каналізації. Це майже працює!"
   }
 ]

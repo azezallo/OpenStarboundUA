@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/collectableUnlock",
-    "value": "^green;<collectable>^white; додано до колекції ^blue;<collection>^reset;"
+    "value": "^green;<collectable>^white; додано до ^blue;<collection>^reset; колекція"
   },
   {
     "op": "replace",

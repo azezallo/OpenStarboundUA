@@ -2,32 +2,32 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Таємничий важіль. Цікаво, що це робить?"
+    "value": "Таємничий важіль. Цікаво, що він робить?"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Важіль перемикача"
+    "value": "Важіль-перемикач"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Хм, важіль."
+    "value": "Хм-м, важіль."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Перемикач якийсь."
+    "value": "Якийсь перемикач."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Pullll!"
+    "value": "Сссмикниии!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Цікаво. Механічний важіль."
+    "value": "Цікавість. Механічний важіль."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Червоний колір робить його ще більш спокусливим."
+    "value": "Червоний колір робить його ще спокусливішим."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Цей важіль дуже спокусливий!"
+    "value": "Цей важіль страх як манить!"
   }
 ]

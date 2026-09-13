@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": "  Крафт деталей меха"
+    "value": "Крафт деталей меха"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": "  Нові деталі для меха!"
+    "value": "Нові деталі для меха!"
   },
   {
     "op": "replace",

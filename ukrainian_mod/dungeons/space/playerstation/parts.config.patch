@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/parts/cross/displayName",
-    "value": "Cross Junction"
+    "value": "Хрестове перехрестя"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/parts/crosswayNESW/displayName",
-    "value": "Перехресний кут N-E & S-W"
+    "value": "Перехресний кут Пн-Сх і Пд-Зх"
   },
   {
     "op": "replace",
@@ -42,7 +42,7 @@
   {
     "op": "replace",
     "path": "/parts/crosswayNWSE/displayName",
-    "value": "Поперечний кут N-W & S-E"
+    "value": "Перехресний кут Пн-Зх і Пд-Сх"
   },
   {
     "op": "replace",
@@ -67,32 +67,32 @@
   {
     "op": "replace",
     "path": "/parts/passageglass/description",
-    "value": "Довгий горизонтальний скляний коридор, крізь який проходить поруччя. Він має слоти розширення на обох кінцях."
+    "value": "Довгий горизонтальний скляний коридор, крізь який проходить рейка. Він має слоти розширення на обох кінцях."
   },
   {
     "op": "replace",
     "path": "/parts/shaft/displayName",
-    "value": "Вертикальний вал"
+    "value": "Вертикальна шахта"
   },
   {
     "op": "replace",
     "path": "/parts/shaft/description",
-    "value": "Вертикальний вал із розширювальним отвором на обох кінцях."
+    "value": "Вертикальна шахта зі слотами розширення на обох кінцях."
   },
   {
     "op": "replace",
     "path": "/parts/shaftglass/displayName",
-    "value": "Довгий вертикальний стрижень"
+    "value": "Довга вертикальна шахта"
   },
   {
     "op": "replace",
     "path": "/parts/shaftglass/description",
-    "value": "Довгий вертикальний скляний вал із рейкою, що проходить через нього. Він має слоти розширення на обох кінцях."
+    "value": "Довга вертикальна скляна шахта з рейкою, що проходить через неї. Вона має слоти розширення на обох кінцях."
   },
   {
     "op": "replace",
     "path": "/parts/cornerNE/displayName",
-    "value": "Кут N-E"
+    "value": "Кут Пн-Сх"
   },
   {
     "op": "replace",
@@ -102,7 +102,7 @@
   {
     "op": "replace",
     "path": "/parts/cornerNW/displayName",
-    "value": "Кут N-W"
+    "value": "Кут Пн-Зх"
   },
   {
     "op": "replace",
@@ -122,7 +122,7 @@
   {
     "op": "replace",
     "path": "/parts/cornerSE/displayName",
-    "value": "Кут S-E"
+    "value": "Кут Пд-Сх"
   },
   {
     "op": "replace",
@@ -132,47 +132,47 @@
   {
     "op": "replace",
     "path": "/parts/tjuncNWE/displayName",
-    "value": "T Перехрестя N-W-E"
+    "value": "Т-перехрестя Пн-Зх-Сх"
   },
   {
     "op": "replace",
     "path": "/parts/tjuncNWE/description",
-    "value": "Кімната у формі Т-образного перехрестя зі слотами розширення в 3 напрямках."
+    "value": "Кімната у формі Т-подібного перехрестя зі слотами розширення в 3 напрямках."
   },
   {
     "op": "replace",
     "path": "/parts/tjuncNSE/displayName",
-    "value": "T Перехрестя N-S-E"
+    "value": "Т-перехрестя Пн-Пд-Сх"
   },
   {
     "op": "replace",
     "path": "/parts/tjuncNSE/description",
-    "value": "Кімната у формі Т-образного перехрестя зі слотами розширення в 3 напрямках."
+    "value": "Кімната у формі Т-подібного перехрестя зі слотами розширення в 3 напрямках."
   },
   {
     "op": "replace",
     "path": "/parts/tjuncNSW/displayName",
-    "value": "T Перехрестя N-S-W"
+    "value": "Т-перехрестя Пн-Пд-Зх"
   },
   {
     "op": "replace",
     "path": "/parts/tjuncNSW/description",
-    "value": "Кімната у формі Т-образного перехрестя зі слотами розширення в 3 напрямках."
+    "value": "Кімната у формі Т-подібного перехрестя зі слотами розширення в 3 напрямках."
   },
   {
     "op": "replace",
     "path": "/parts/tjuncSWE/displayName",
-    "value": "T Перехрестя S-W-E"
+    "value": "Т-перехрестя Пд-Зх-Сх"
   },
   {
     "op": "replace",
     "path": "/parts/tjuncSWE/description",
-    "value": "Кімната у формі Т-образного перехрестя зі слотами розширення в 3 напрямках."
+    "value": "Кімната у формі Т-подібного перехрестя зі слотами розширення в 3 напрямках."
   },
   {
     "op": "replace",
     "path": "/parts/mechassembly/displayName",
-    "value": "Складальна кімната механіка"
+    "value": "Відсік збирання мехів"
   },
   {
     "op": "replace",
@@ -182,7 +182,7 @@
   {
     "op": "replace",
     "path": "/parts/mechbayL/displayName",
-    "value": "Мех Бей Вест"
+    "value": "Західний ангар мехів"
   },
   {
     "op": "replace",
@@ -192,7 +192,7 @@
   {
     "op": "replace",
     "path": "/parts/mechbayR/displayName",
-    "value": "Мех Бей Схід"
+    "value": "Східний ангар мехів"
   },
   {
     "op": "replace",

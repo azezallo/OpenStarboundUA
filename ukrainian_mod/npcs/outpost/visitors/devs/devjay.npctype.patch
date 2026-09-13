@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/identity/name",
-    "value": "Jay"
+    "value": "Джей"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Hey, I'm Jay. I heard Earth was destroyed? That's bad pancakes."
+    "value": "Привіт, я Джей. Я чув, що Земля знищена? Це погані млинці."
   }
 ]

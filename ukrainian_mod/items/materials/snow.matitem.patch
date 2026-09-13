@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "сніг"
+    "value": "Сніг"
   },
   {
     "op": "replace",
@@ -17,11 +17,11 @@
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Холодний сніжок."
+    "value": "Холодний сніжок"
   },
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "Буча свіжого снігу."
+    "value": "Багато свіжого снігу"
   }
 ]

@@ -1,21 +1,21 @@
 [
   {
-    "value": "Захисний",
+    "value": "Тільки відвідувач. Потрібні запаси. Не можу спілкуватися!",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Завиваючий",
+    "value": "Новий гість. Неможливо залишитися. Тільки відвідувач!",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Імпульсний",
+    "value": "Форпост холодний, пастбище тепле. Просто так!",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "op": "replace"
   },
   {
-    "value": " стрілець",
+    "value": "Дружелюбний незнайомець. Не можу спілкуватися. Біжу за справами!",
     "path": "/scriptConfig/dialog/converse/default/default/3",
     "op": "replace"
   }

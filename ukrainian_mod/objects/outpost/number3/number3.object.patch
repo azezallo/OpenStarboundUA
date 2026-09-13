@@ -2,42 +2,42 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Три маркера."
+    "value": "Знак «Три»."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "три"
+    "value": "Три"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "три."
+    "value": "Три."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "три."
+    "value": "Три."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Три! Смішні завивки."
+    "value": "Три! Сссмішна закарлюка."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. три."
+    "value": "Байдужість. Три."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "три."
+    "value": "Три."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "три."
+    "value": "Три."
   },
   {
     "op": "replace",

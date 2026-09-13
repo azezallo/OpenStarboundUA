@@ -12,32 +12,32 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Проста таблиця."
+    "value": "Простий стіл."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Базовий стіл."
+    "value": "Звичайний стіл."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "На такому столі можна нарізати м'ясо."
+    "value": "Цей ссстіл згодиться, щоб нарізати м'ясссо."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. стіл."
+    "value": "Нейтральність. Стіл."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Це друга найбільш загальна таблиця, яку я коли-небудь бачив."
+    "value": "Це другий найбільш типовий стіл, який я коли-небудь бачив."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "стіл. Нічим не примітний."
+    "value": "Стіл. Нічим не примітний."
   },
   {
     "op": "replace",

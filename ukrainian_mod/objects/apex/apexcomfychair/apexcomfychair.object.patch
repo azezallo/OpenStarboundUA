@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Зручне крісло, виглядає так, ніби його прибили до підлоги."
+    "value": "Зручне крісло, схоже, його мали б прибити до підлоги."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Стандартне місце випуску"
+    "value": "Стандартне крісло"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Це крісло досить зручне. Нагорода за повідомлення про свого сусіда."
+    "value": "Це крісло досить зручне. Нагорода за донос на сусіда."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Це повно пір'я?"
+    "value": "Невже воно набите пір'ям?"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sso sssoft."
+    "value": "Сстрах яке м'якеньке."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вражений. Трон, гідний короля."
+    "value": "Враження. Трон, гідний короля."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Вау, це досить зручне крісло. Виглядає дорого."
+    "value": "Ого, це досить зручне крісло. Виглядає дорого."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "М’який, як пісок на морському дні."
+    "value": "М'яке, мов пісок на морському дні."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це безумовно зручне крісло для сидіння."
+    "value": "Ото файно на такім кріслі сидіти."
   }
 ]

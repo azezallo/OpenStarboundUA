@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Зображення planetsss! Планети на пограбування!"
+    "value": "Зображення планет! Планети для пограбування!"
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Зірки - мій рід дуже знайомий з ними..."
+    "value": "Зірки – мій рід дуже знайомий з ними..."
   }
 ]

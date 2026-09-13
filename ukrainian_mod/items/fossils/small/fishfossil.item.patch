@@ -7,12 +7,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Викопні риби"
+    "value": "Фосилізована риба"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/shortdescription",
-    "value": "Викопні риби"
+    "value": "Фосилізована риба"
   },
   {
     "op": "replace",

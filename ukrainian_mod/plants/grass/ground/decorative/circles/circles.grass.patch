@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A plant with berries."
+    "value": "Рослина з ягодами."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "A plant with berries."
+    "value": "Рослина з ягодами."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Purple berries."
+    "value": "Фіолетові ягоди"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Рослина з ягодами."
+    "value": "Заява. Рослина з ягодами"
   }
 ]

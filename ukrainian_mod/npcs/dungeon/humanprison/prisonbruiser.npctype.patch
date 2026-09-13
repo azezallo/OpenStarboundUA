@@ -1,6 +1,6 @@
 [
   {
-    "value": "Порушник!",
+    "value": "Нарушник!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
@@ -10,22 +10,22 @@
     "op": "replace"
   },
   {
-    "value": "А ось і груша завітала.",
+    "value": "Нарешті щось цікаве для удару.",
     "path": "/scriptConfig/dialog/attack/human/default/1",
     "op": "replace"
   },
   {
-    "value": "Я тебе розірву на шмаття!",
+    "value": "Я розірву тебе, як паперу!",
     "path": "/scriptConfig/dialog/attack/human/default/2",
     "op": "replace"
   },
   {
-    "value": "З превеликим задоволенням!",
+    "value": "Це буде задоволення!",
     "path": "/scriptConfig/dialog/attack/human/default/3",
     "op": "replace"
   },
   {
-    "value": "Прийшов сюди? Це велика помилка.",
+    "value": "Приходиш сюди? Велика помилка.",
     "path": "/scriptConfig/dialog/attack/human/default/4",
     "op": "replace"
   },
@@ -40,17 +40,17 @@
     "op": "replace"
   },
   {
-    "value": "Ти сам напросився!",
+    "value": "Ти шукаєш удару!",
     "path": "/scriptConfig/dialog/attack/human/default/7",
     "op": "replace"
   },
   {
-    "value": "Я переламаю тобі кістки, а потім буду робити це знову і знову!",
+    "value": "Я збираюся вдарити тебе, а потім ще раз!",
     "path": "/scriptConfig/dialog/attack/human/default/8",
     "op": "replace"
   },
   {
-    "value": "Ти зв'язався не з тією людиною!",
+    "value": "Ти натрапив на неправильну особу!",
     "path": "/scriptConfig/dialog/attack/human/default/9",
     "op": "replace"
   },
@@ -65,7 +65,7 @@
     "op": "replace"
   },
   {
-    "value": "Грр! Ти мрець!",
+    "value": "Грр! Ти мертве м'ясо!",
     "path": "/scriptConfig/dialog/attack/human/default/12",
     "op": "replace"
   },

@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Стандартні полиці випуску"
+    "value": "Стандартні полиці"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Тут немає нічого для Флорана, треба шукати деінде."
+    "value": "Тут немає нічого для Флорани, треба шукати деінде."
   },
   {
     "op": "replace",
@@ -32,16 +32,16 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Порожньо... це сумно."
+    "value": "Порожньо… це сумно."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Ці полиці зовсім не мають характеру."
+    "value": "Ці полиці зовсім не мають персонажа."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Безплідна, як уламок космічної скелі."
+    "value": "Безплідний, як шматок космічного каменю."
   }
 ]

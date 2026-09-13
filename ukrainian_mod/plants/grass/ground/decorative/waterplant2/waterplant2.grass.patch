@@ -1,21 +1,21 @@
 [
   {
-    "value": "Подводное растеніе.",
+    "value": "Підводна рослина",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Подводное растеніе",
+    "value": "Підводна рослина",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Плавающее рассстеніе.",
+    "value": "Плаваюча рослина",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Утвердітельно. Подводное растеніе.",
+    "value": "Утвердження. Підводна рослина",
     "path": "/glitchDescription",
     "op": "replace"
   }

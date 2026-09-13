@@ -10,12 +10,12 @@
     "op": "replace"
   },
   {
-    "value": "Нейтральність. Дерев'яна платформа.",
+    "value": "Нейтральний. Дерев'яна платформа.",
     "path": "/glitchdescription",
     "op": "replace"
   },
   {
-    "value": "Платформа.",
+    "value": "Платформа",
     "path": "/florandescription",
     "op": "replace"
   }

@@ -2,37 +2,37 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Світиться геометричне світло."
+    "value": "Сяючий геометричний світильник."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Геометричне світло"
+    "value": "Геометричний світильник"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Добре зроблене джерело світла."
+    "value": "Якісно зроблене джерело світла."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Ця корисна лампа освітлить навіть найтемнішу кімнату."
+    "value": "Ця корисна лампа освітить навіть найтемнішу кімнату."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Лампа безпечна для Флорана."
+    "value": "Ссвітло лампи бессспечне для Флорана."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Задоволений. Надійна лампа."
+    "value": "Задоволення. Надійна лампа."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Акуратний, міцний світильник."
+    "value": "Акуратна, міцна лампа."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це світло буде дуже корисним."
+    "value": "Оцей світильник буде файно помічним."
   }
 ]

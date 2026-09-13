@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ice Orbide"
+    "value": "Крижаний орбід"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Something about the way it limps makes you feel uncomfortable."
+    "value": "Щось у тому, як воно кульгає, змушує почуватися не по собі."
   }
 ]

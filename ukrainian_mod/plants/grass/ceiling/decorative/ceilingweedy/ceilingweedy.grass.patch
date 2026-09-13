@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Бур'яни."
+    "value": "Бур'яни"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Бур'яни."
+    "value": "Бур'яни"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Weedsss."
+    "value": "Бур'яни"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Бур'яни."
+    "value": "Заява. Бур'яни"
   }
 ]

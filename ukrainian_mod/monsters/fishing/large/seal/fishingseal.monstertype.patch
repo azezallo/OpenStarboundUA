@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Sealacanth"
+    "value": "Сілакант"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Nearly identical to its prehistoric ancestors, but more blubbery."
+    "value": "Майже такий самий, як його прадавні предки, лише з більшим жировим покриттям."
   }
 ]

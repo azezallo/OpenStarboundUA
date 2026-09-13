@@ -2,4011 +2,4011 @@
   {
     "op": "replace",
     "path": "/sourceNames/0",
-    "value": "Agrius"
+    "value": "Агріус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/1",
-    "value": "Alcyoneus"
+    "value": "Алкіонеус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/2",
-    "value": "Chthonius"
+    "value": "Хтоніус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/3",
-    "value": "Clytius"
+    "value": "Клітіус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/4",
-    "value": "Enceladus"
+    "value": "Енцеладус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/5",
-    "value": "Ephialtes"
+    "value": "Ефіальтес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/6",
-    "value": "Eurymedon"
+    "value": "Еврімедон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/7",
-    "value": "Eurytus"
+    "value": "Еврітус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/8",
-    "value": "Gration"
+    "value": "Гратіон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/9",
-    "value": "Hippolytus"
+    "value": "Гіпполітус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/10",
-    "value": "Leon"
+    "value": "Леон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/11",
-    "value": "Mimas"
+    "value": "Мімас"
   },
   {
     "op": "replace",
     "path": "/sourceNames/12",
-    "value": "Pallas"
+    "value": "Паллас"
   },
   {
     "op": "replace",
     "path": "/sourceNames/13",
-    "value": "Polybotes"
+    "value": "Поліботес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/14",
-    "value": "Porphyrion"
+    "value": "Порфіріон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/15",
-    "value": "Thoas"
+    "value": "Фоас"
   },
   {
     "op": "replace",
     "path": "/sourceNames/16",
-    "value": "Otus"
+    "value": "Отус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/17",
-    "value": "Ephialtes"
+    "value": "Ефіальтес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/18",
-    "value": "Anax"
+    "value": "Анакс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/19",
-    "value": "Antaeus"
+    "value": "Антеус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/20",
-    "value": "Antiphates"
+    "value": "Антифатес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/21",
-    "value": "Argus"
+    "value": "Аргус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/22",
-    "value": "Asterius"
+    "value": "Астеріус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/23",
-    "value": "Cacus"
+    "value": "Какус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/24",
-    "value": "Arges"
+    "value": "Аргес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/25",
-    "value": "Brontes"
+    "value": "Бронтес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/26",
-    "value": "Steropes"
+    "value": "Стеропес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/27",
-    "value": "Polyphemus"
+    "value": "Поліфемус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/28",
-    "value": "Gegenees"
+    "value": "Гегенеес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/29",
-    "value": "Geryon"
+    "value": "Геріон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/30",
-    "value": "Hekatonkheires"
+    "value": "Гекатонхейрес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/31",
-    "value": "Briareus"
+    "value": "Бріареус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/32",
-    "value": "Cottus"
+    "value": "Коттус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/33",
-    "value": "Gyges"
+    "value": "Гігес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/34",
-    "value": "Orion"
+    "value": "Оріон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/35",
-    "value": "Talos"
+    "value": "Талос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/36",
-    "value": "Tityos"
+    "value": "Тітіос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/37",
-    "value": "Typhon"
+    "value": "Тифон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/38",
-    "value": "Adephagia"
+    "value": "Адефагія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/39",
-    "value": "Adikia"
+    "value": "Адікія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/40",
-    "value": "Aergia"
+    "value": "Аергія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/41",
-    "value": "Agon"
+    "value": "Агон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/42",
-    "value": "Aidos"
+    "value": "Айдос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/43",
-    "value": "Aisa"
+    "value": "Айса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/44",
-    "value": "Alala"
+    "value": "Алала"
   },
   {
     "op": "replace",
     "path": "/sourceNames/45",
-    "value": "Alastor"
+    "value": "Аластор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/46",
-    "value": "Aleia"
+    "value": "Алея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/47",
-    "value": "Achos"
+    "value": "Ахос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/48",
-    "value": "Ania"
+    "value": "Анія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/49",
-    "value": "Lupe"
+    "value": "Лупе"
   },
   {
     "op": "replace",
     "path": "/sourceNames/50",
-    "value": "Alke"
+    "value": "Альке"
   },
   {
     "op": "replace",
     "path": "/sourceNames/51",
-    "value": "Amechania"
+    "value": "Амеханія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/52",
-    "value": "Amphilogiai"
+    "value": "Амфілогії"
   },
   {
     "op": "replace",
     "path": "/sourceNames/53",
-    "value": "Anaideia"
+    "value": "Анайдея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/54",
-    "value": "Androktasiai"
+    "value": "Андроктасії"
   },
   {
     "op": "replace",
     "path": "/sourceNames/55",
-    "value": "Angelia"
+    "value": "Ангелія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/56",
-    "value": "Apate"
+    "value": "Апате"
   },
   {
     "op": "replace",
     "path": "/sourceNames/57",
-    "value": "Apheleia"
+    "value": "Афелія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/58",
-    "value": "Aporia"
+    "value": "Апорія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/59",
-    "value": "Arae"
+    "value": "Аре"
   },
   {
     "op": "replace",
     "path": "/sourceNames/60",
-    "value": "Arete"
+    "value": "Арете"
   },
   {
     "op": "replace",
     "path": "/sourceNames/61",
-    "value": "Bia"
+    "value": "Бія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/62",
-    "value": "Caerus"
+    "value": "Керус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/63",
-    "value": "Corus"
+    "value": "Корус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/64",
-    "value": "Deimos"
+    "value": "Деймос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/65",
-    "value": "Dikaiosyne"
+    "value": "Дікайосіне"
   },
   {
     "op": "replace",
     "path": "/sourceNames/66",
-    "value": "Dike"
+    "value": "Діке"
   },
   {
     "op": "replace",
     "path": "/sourceNames/67",
-    "value": "Dolos"
+    "value": "Долос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/68",
-    "value": "Dysnomia"
+    "value": "Дисномія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/69",
-    "value": "Dyssebeia"
+    "value": "Диссебея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/70",
-    "value": "Eirene"
+    "value": "Ейрене"
   },
   {
     "op": "replace",
     "path": "/sourceNames/71",
-    "value": "Ekecheiria"
+    "value": "Екехейрія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/72",
-    "value": "Eleos"
+    "value": "Елеос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/73",
-    "value": "Elpis"
+    "value": "Елпіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/74",
-    "value": "Epiphron"
+    "value": "Епіфрон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/75",
-    "value": "Eris"
+    "value": "Еріс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/76",
-    "value": "Anteros"
+    "value": "Антерос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/77",
-    "value": "Eros"
+    "value": "Ерос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/78",
-    "value": "Hedylogos"
+    "value": "Геділогос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/79",
-    "value": "Hermaphroditus"
+    "value": "Гермафродітус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/80",
-    "value": "Himeros"
+    "value": "Гімерос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/81",
-    "value": "Hymen"
+    "value": "Гімен"
   },
   {
     "op": "replace",
     "path": "/sourceNames/82",
-    "value": "Pothos"
+    "value": "Потос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/83",
-    "value": "Eucleia"
+    "value": "Евклея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/84",
-    "value": "Eulabeia"
+    "value": "Евлабея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/85",
-    "value": "Eunomia"
+    "value": "Евномія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/86",
-    "value": "Eupheme"
+    "value": "Евфеме"
   },
   {
     "op": "replace",
     "path": "/sourceNames/87",
-    "value": "Eupraxia"
+    "value": "Евпраксія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/88",
-    "value": "Eusebeia"
+    "value": "Евсебея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/89",
-    "value": "Eunia"
+    "value": "Евнія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/90",
-    "value": "Gelos"
+    "value": "Гелос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/91",
-    "value": "Geras"
+    "value": "Герас"
   },
   {
     "op": "replace",
     "path": "/sourceNames/92",
-    "value": "Harmonia"
+    "value": "Гармонія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/93",
-    "value": "Hebe"
+    "value": "Гебе"
   },
   {
     "op": "replace",
     "path": "/sourceNames/94",
-    "value": "Hedone"
+    "value": "Гедоне"
   },
   {
     "op": "replace",
     "path": "/sourceNames/95",
-    "value": "Heimarmene"
+    "value": "Геймармене"
   },
   {
     "op": "replace",
     "path": "/sourceNames/96",
-    "value": "Homados"
+    "value": "Гомадос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/97",
-    "value": "Homonoia"
+    "value": "Гомоноя"
   },
   {
     "op": "replace",
     "path": "/sourceNames/98",
-    "value": "Horkos"
+    "value": "Горкос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/99",
-    "value": "Horme"
+    "value": "Горме"
   },
   {
     "op": "replace",
     "path": "/sourceNames/100",
-    "value": "Hybris"
+    "value": "Гібрис"
   },
   {
     "op": "replace",
     "path": "/sourceNames/101",
-    "value": "Hypnos"
+    "value": "Гіпнос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/102",
-    "value": "Ioke"
+    "value": "Іоке"
   },
   {
     "op": "replace",
     "path": "/sourceNames/103",
-    "value": "Kakia"
+    "value": "Какія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/104",
-    "value": "Kalokagathia"
+    "value": "Калокагатія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/105",
-    "value": "Keres"
+    "value": "Керес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/106",
-    "value": "Koalemos"
+    "value": "Коалемос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/107",
-    "value": "Kratos"
+    "value": "Кратос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/108",
-    "value": "Kydoimos"
+    "value": "Кідоймос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/109",
-    "value": "Le"
+    "value": "Ле"
   },
   {
     "op": "replace",
     "path": "/sourceNames/110",
-    "value": "Limos"
+    "value": "Лімос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/111",
-    "value": "Litae"
+    "value": "Літе"
   },
   {
     "op": "replace",
     "path": "/sourceNames/112",
-    "value": "Lyssa"
+    "value": "Лісса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/113",
-    "value": "Machai"
+    "value": "Махай"
   },
   {
     "op": "replace",
     "path": "/sourceNames/114",
-    "value": "Mania"
+    "value": "Манія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/115",
-    "value": "Moirai"
+    "value": "Мойри"
   },
   {
     "op": "replace",
     "path": "/sourceNames/116",
-    "value": "Clotho"
+    "value": "Клото"
   },
   {
     "op": "replace",
     "path": "/sourceNames/117",
-    "value": "Lachesis"
+    "value": "Лахесіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/118",
-    "value": "Atropos"
+    "value": "Атропос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/119",
-    "value": "Momus"
+    "value": "Момус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/120",
-    "value": "Moros"
+    "value": "Морос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/121",
-    "value": "Neikea"
+    "value": "Нейкея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/122",
-    "value": "Nemesis"
+    "value": "Немесіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/123",
-    "value": "Nike"
+    "value": "Ніке"
   },
   {
     "op": "replace",
     "path": "/sourceNames/124",
-    "value": "Nomos"
+    "value": "Номос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/125",
-    "value": "Oizys"
+    "value": "Ойзіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/126",
-    "value": "Oneiroi"
+    "value": "Онейрой"
   },
   {
     "op": "replace",
     "path": "/sourceNames/127",
-    "value": "Epiales"
+    "value": "Епіалес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/128",
-    "value": "Morpheus"
+    "value": "Морфеус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/129",
-    "value": "Phantasos"
+    "value": "Фантасос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/130",
-    "value": "Phobetor"
+    "value": "Фобетор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/131",
-    "value": "Palioxis"
+    "value": "Паліоксіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/132",
-    "value": "Peitharchia"
+    "value": "Пейтархія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/133",
-    "value": "Peitho"
+    "value": "Пейто"
   },
   {
     "op": "replace",
     "path": "/sourceNames/134",
-    "value": "Penia"
+    "value": "Пенія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/135",
-    "value": "Penthus"
+    "value": "Пентус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/136",
-    "value": "Pepromene"
+    "value": "Пепромене"
   },
   {
     "op": "replace",
     "path": "/sourceNames/137",
-    "value": "Pheme"
+    "value": "Феме"
   },
   {
     "op": "replace",
     "path": "/sourceNames/138",
-    "value": "Philophrosyne"
+    "value": "Філофросіне"
   },
   {
     "op": "replace",
     "path": "/sourceNames/139",
-    "value": "Philotes"
+    "value": "Філотес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/140",
-    "value": "Phobos"
+    "value": "Фобос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/141",
-    "value": "Phonoi"
+    "value": "Фоной"
   },
   {
     "op": "replace",
     "path": "/sourceNames/142",
-    "value": "Phrike"
+    "value": "Фріке"
   },
   {
     "op": "replace",
     "path": "/sourceNames/143",
-    "value": "Phthonus"
+    "value": "Фтонус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/144",
-    "value": "Pistis"
+    "value": "Пістіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/145",
-    "value": "Poine"
+    "value": "Пойне"
   },
   {
     "op": "replace",
     "path": "/sourceNames/146",
-    "value": "Polemos"
+    "value": "Полемос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/147",
-    "value": "Ponos"
+    "value": "Понос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/148",
-    "value": "Poros"
+    "value": "Порос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/149",
-    "value": "Praxidike"
+    "value": "Праксидіке"
   },
   {
     "op": "replace",
     "path": "/sourceNames/150",
-    "value": "Proioxis"
+    "value": "Пройоксіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/151",
-    "value": "Prophasis"
+    "value": "Профасіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/152",
-    "value": "Ptocheia"
+    "value": "Птохея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/153",
-    "value": "Soter"
+    "value": "Сотер"
   },
   {
     "op": "replace",
     "path": "/sourceNames/154",
-    "value": "Soteria"
+    "value": "Сотерія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/155",
-    "value": "Sophrosyne"
+    "value": "Софросіне"
   },
   {
     "op": "replace",
     "path": "/sourceNames/156",
-    "value": "Techne"
+    "value": "Техне"
   },
   {
     "op": "replace",
     "path": "/sourceNames/157",
-    "value": "Thanatos"
+    "value": "Танатос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/158",
-    "value": "Thrasos"
+    "value": "Трасос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/159",
-    "value": "Tyche"
+    "value": "Тіхе"
   },
   {
     "op": "replace",
     "path": "/sourceNames/160",
-    "value": "Zelos"
+    "value": "Зелос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/161",
-    "value": "Amphiaraus"
+    "value": "Амфіарай"
   },
   {
     "op": "replace",
     "path": "/sourceNames/162",
-    "value": "Angelos"
+    "value": "Ангелос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/163",
-    "value": "Askalaphos"
+    "value": "Аскалафос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/164",
-    "value": "Cerberus"
+    "value": "Церберус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/165",
-    "value": "Charon"
+    "value": "Харон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/166",
-    "value": "Empusa"
+    "value": "Емпуса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/167",
-    "value": "Erebos"
+    "value": "Еребос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/168",
-    "value": "Erinyes"
+    "value": "Ерінієс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/169",
-    "value": "Alecto"
+    "value": "Алекто"
   },
   {
     "op": "replace",
     "path": "/sourceNames/170",
-    "value": "Tisiphone"
+    "value": "Тісіфоне"
   },
   {
     "op": "replace",
     "path": "/sourceNames/171",
-    "value": "Megaera"
+    "value": "Мегера"
   },
   {
     "op": "replace",
     "path": "/sourceNames/172",
-    "value": "Hecate"
+    "value": "Гекате"
   },
   {
     "op": "replace",
     "path": "/sourceNames/173",
-    "value": "Aiakos"
+    "value": "Аякос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/174",
-    "value": "Minos"
+    "value": "Мінос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/175",
-    "value": "Rhadamanthys"
+    "value": "Радамантіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/176",
-    "value": "Keuthonymos"
+    "value": "Кевтонімос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/177",
-    "value": "Cronus"
+    "value": "Кронус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/178",
-    "value": "Lamia"
+    "value": "Ламія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/179",
-    "value": "Lampades"
+    "value": "Лампадес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/180",
-    "value": "Gorgyra"
+    "value": "Горгіра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/181",
-    "value": "Orphne"
+    "value": "Орфне"
   },
   {
     "op": "replace",
     "path": "/sourceNames/182",
-    "value": "Macaria"
+    "value": "Макарія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/183",
-    "value": "Melinoe"
+    "value": "Меліное"
   },
   {
     "op": "replace",
     "path": "/sourceNames/184",
-    "value": "Menoetes"
+    "value": "Меноєтес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/185",
-    "value": "Mormo"
+    "value": "Мормо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/186",
-    "value": "Nyx"
+    "value": "Нікс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/187",
-    "value": "Hades"
+    "value": "Гадес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/188",
-    "value": "Persephone"
+    "value": "Персефоне"
   },
   {
     "op": "replace",
     "path": "/sourceNames/189",
-    "value": "Acheron"
+    "value": "Ахерон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/190",
-    "value": "Kokytos"
+    "value": "Кокітос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/191",
-    "value": "Le"
+    "value": "Ле"
   },
   {
     "op": "replace",
     "path": "/sourceNames/192",
-    "value": "Phlegethon"
+    "value": "Флегетон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/193",
-    "value": "Styx"
+    "value": "Стікс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/194",
-    "value": "Tartarus"
+    "value": "Тартарус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/195",
-    "value": "Thanatos"
+    "value": "Танатос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/196",
-    "value": "Aegaeon"
+    "value": "Егеон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/197",
-    "value": "Achelous"
+    "value": "Ахелоус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/198",
-    "value": "Bensikyme"
+    "value": "Бенсікіме"
   },
   {
     "op": "replace",
     "path": "/sourceNames/199",
-    "value": "Brizo"
+    "value": "Брізо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/200",
-    "value": "Ceto"
+    "value": "Кето"
   },
   {
     "op": "replace",
     "path": "/sourceNames/201",
-    "value": "Charybdis"
+    "value": "Харібдіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/202",
-    "value": "Cymopoleia"
+    "value": "Кімополея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/203",
-    "value": "Delphin"
+    "value": "Дельфін"
   },
   {
     "op": "replace",
     "path": "/sourceNames/204",
-    "value": "Eidoa"
+    "value": "Ейдоя"
   },
   {
     "op": "replace",
     "path": "/sourceNames/205",
-    "value": "Glaucus"
+    "value": "Главкус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/206",
-    "value": "Stheno"
+    "value": "Сфено"
   },
   {
     "op": "replace",
     "path": "/sourceNames/207",
-    "value": "Euryale"
+    "value": "Евріале"
   },
   {
     "op": "replace",
     "path": "/sourceNames/208",
-    "value": "Medusa"
+    "value": "Медуза"
   },
   {
     "op": "replace",
     "path": "/sourceNames/209",
-    "value": "Deino"
+    "value": "Дейно"
   },
   {
     "op": "replace",
     "path": "/sourceNames/210",
-    "value": "Enyo"
+    "value": "Еніо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/211",
-    "value": "Pemphredo"
+    "value": "Пемфредо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/212",
-    "value": "Aello"
+    "value": "Аелло"
   },
   {
     "op": "replace",
     "path": "/sourceNames/213",
-    "value": "Ocypete"
+    "value": "Окіпете"
   },
   {
     "op": "replace",
     "path": "/sourceNames/214",
-    "value": "Podarge"
+    "value": "Подарге"
   },
   {
     "op": "replace",
     "path": "/sourceNames/215",
-    "value": "Celaeno"
+    "value": "Келено"
   },
   {
     "op": "replace",
     "path": "/sourceNames/216",
-    "value": "Nicothoe"
+    "value": "Нікотое"
   },
   {
     "op": "replace",
     "path": "/sourceNames/217",
-    "value": "Hippocampi"
+    "value": "Гіппокампі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/218",
-    "value": "Hydros"
+    "value": "Гідрос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/219",
-    "value": "Bythos"
+    "value": "Бітос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/220",
-    "value": "Aphros"
+    "value": "Афрос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/221",
-    "value": "Karkinos"
+    "value": "Каркінос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/222",
-    "value": "Ladon"
+    "value": "Ладон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/223",
-    "value": "Leucoa"
+    "value": "Левкоя"
   },
   {
     "op": "replace",
     "path": "/sourceNames/224",
-    "value": "Nereides"
+    "value": "Нереїдес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/225",
-    "value": "Thetis"
+    "value": "Тетіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/226",
-    "value": "Arethusa"
+    "value": "Аретуса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/227",
-    "value": "Galene"
+    "value": "Галене"
   },
   {
     "op": "replace",
     "path": "/sourceNames/228",
-    "value": "Psama"
+    "value": "Псама"
   },
   {
     "op": "replace",
     "path": "/sourceNames/229",
-    "value": "Nereus"
+    "value": "Нереус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/230",
-    "value": "Nerites"
+    "value": "Нерітес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/231",
-    "value": "Oceanus"
+    "value": "Океанус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/232",
-    "value": "Palaemon"
+    "value": "Палемон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/233",
-    "value": "Phorcys"
+    "value": "Форкіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/234",
-    "value": "Pontos"
+    "value": "Понтос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/235",
-    "value": "Poseidon"
+    "value": "Посейдон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/236",
-    "value": "Amphitrite"
+    "value": "Амфітріте"
   },
   {
     "op": "replace",
     "path": "/sourceNames/237",
-    "value": "Scylla"
+    "value": "Скілла"
   },
   {
     "op": "replace",
     "path": "/sourceNames/238",
-    "value": "Aglaope"
+    "value": "Аглаопе"
   },
   {
     "op": "replace",
     "path": "/sourceNames/239",
-    "value": "Himerope"
+    "value": "Гімеропа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/240",
-    "value": "Leucosia"
+    "value": "Левкосія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/241",
-    "value": "Ligeia"
+    "value": "Лігея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/242",
-    "value": "Molpe"
+    "value": "Мольпа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/243",
-    "value": "Parnope"
+    "value": "Парнопа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/244",
-    "value": "Peisinoe"
+    "value": "Пейсіноя"
   },
   {
     "op": "replace",
     "path": "/sourceNames/245",
-    "value": "Raidne"
+    "value": "Раїдна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/246",
-    "value": "Teles"
+    "value": "Телес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/247",
-    "value": "Thelchtereia"
+    "value": "Тельхтерея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/248",
-    "value": "Thelxiope"
+    "value": "Телксіопа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/249",
-    "value": "Telchines"
+    "value": "Тельхіни"
   },
   {
     "op": "replace",
     "path": "/sourceNames/250",
-    "value": "Actaeus"
+    "value": "Актей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/251",
-    "value": "Argyron"
+    "value": "Аргірон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/252",
-    "value": "Atabyrius"
+    "value": "Атабірій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/253",
-    "value": "Chalcon"
+    "value": "Халкон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/254",
-    "value": "Chryson"
+    "value": "Хрисон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/255",
-    "value": "Damon"
+    "value": "Дамон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/256",
-    "value": "Damnameneus"
+    "value": "Дамнаменей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/257",
-    "value": "Dexia"
+    "value": "Дексія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/258",
-    "value": "Lycos"
+    "value": "Лікос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/259",
-    "value": "Lysagora"
+    "value": "Лісагора"
   },
   {
     "op": "replace",
     "path": "/sourceNames/260",
-    "value": "Makelo"
+    "value": "Макело"
   },
   {
     "op": "replace",
     "path": "/sourceNames/261",
-    "value": "Megalesius"
+    "value": "Мегалесій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/262",
-    "value": "Mylas"
+    "value": "Мілас"
   },
   {
     "op": "replace",
     "path": "/sourceNames/263",
-    "value": "Nikon"
+    "value": "Нікон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/264",
-    "value": "Ormenos"
+    "value": "Ормен"
   },
   {
     "op": "replace",
     "path": "/sourceNames/265",
-    "value": "Simon"
+    "value": "Сімон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/266",
-    "value": "Skelmis"
+    "value": "Скельміс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/267",
-    "value": "Tethys"
+    "value": "Тетіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/268",
-    "value": "Thalassa"
+    "value": "Таласса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/269",
-    "value": "Thaumas"
+    "value": "Тавмас"
   },
   {
     "op": "replace",
     "path": "/sourceNames/270",
-    "value": "Thoosa"
+    "value": "Тооса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/271",
-    "value": "Triteia"
+    "value": "Трітея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/272",
-    "value": "Triton"
+    "value": "Тритон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/273",
-    "value": "Tritones"
+    "value": "Тритони"
   },
   {
     "op": "replace",
     "path": "/sourceNames/274",
-    "value": "Achelois"
+    "value": "Ахелоїс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/275",
-    "value": "Aeolus"
+    "value": "Еол"
   },
   {
     "op": "replace",
     "path": "/sourceNames/276",
-    "value": "Aer"
+    "value": "Аер"
   },
   {
     "op": "replace",
     "path": "/sourceNames/277",
-    "value": "Alectrona"
+    "value": "Алектрона"
   },
   {
     "op": "replace",
     "path": "/sourceNames/278",
-    "value": "Aparctias"
+    "value": "Апарктіас"
   },
   {
     "op": "replace",
     "path": "/sourceNames/279",
-    "value": "Apheliotes"
+    "value": "Афеліот"
   },
   {
     "op": "replace",
     "path": "/sourceNames/280",
-    "value": "Argestes"
+    "value": "Аргест"
   },
   {
     "op": "replace",
     "path": "/sourceNames/281",
-    "value": "Caicias"
+    "value": "Кайкій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/282",
-    "value": "Circios"
+    "value": "Кіркій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/283",
-    "value": "Euronotus"
+    "value": "Евронот"
   },
   {
     "op": "replace",
     "path": "/sourceNames/284",
-    "value": "Lips"
+    "value": "Ліпс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/285",
-    "value": "Skeiron"
+    "value": "Скірон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/286",
-    "value": "Zeus"
+    "value": "Зевс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/287",
-    "value": "Hera"
+    "value": "Гера"
   },
   {
     "op": "replace",
     "path": "/sourceNames/288",
-    "value": "Apollo"
+    "value": "Аполлон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/289",
-    "value": "Artemis"
+    "value": "Артеміда"
   },
   {
     "op": "replace",
     "path": "/sourceNames/290",
-    "value": "Arke"
+    "value": "Арка"
   },
   {
     "op": "replace",
     "path": "/sourceNames/291",
-    "value": "Astraios"
+    "value": "Астрей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/292",
-    "value": "Stilbon"
+    "value": "Стілбон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/293",
-    "value": "Eosphorus"
+    "value": "Еосфор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/294",
-    "value": "Hesperus"
+    "value": "Геспер"
   },
   {
     "op": "replace",
     "path": "/sourceNames/295",
-    "value": "Pyroeis"
+    "value": "Піроес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/296",
-    "value": "Phaethon"
+    "value": "Фаетон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/297",
-    "value": "Phaenon"
+    "value": "Фаенон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/298",
-    "value": "Aurai"
+    "value": "Аври"
   },
   {
     "op": "replace",
     "path": "/sourceNames/299",
-    "value": "Aura"
+    "value": "Аура"
   },
   {
     "op": "replace",
     "path": "/sourceNames/300",
-    "value": "Chaos"
+    "value": "Хаос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/301",
-    "value": "Chione"
+    "value": "Хіона"
   },
   {
     "op": "replace",
     "path": "/sourceNames/302",
-    "value": "Uranus"
+    "value": "Уран"
   },
   {
     "op": "replace",
     "path": "/sourceNames/303",
-    "value": "Helios"
+    "value": "Геліос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/304",
-    "value": "Selene"
+    "value": "Селена"
   },
   {
     "op": "replace",
     "path": "/sourceNames/305",
-    "value": "Eos"
+    "value": "Еос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/306",
-    "value": "Hemera"
+    "value": "Гемера"
   },
   {
     "op": "replace",
     "path": "/sourceNames/307",
-    "value": "Nyx"
+    "value": "Нікс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/308",
-    "value": "Hesperides"
+    "value": "Геспериди"
   },
   {
     "op": "replace",
     "path": "/sourceNames/309",
-    "value": "Iris"
+    "value": "Айріс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/310",
-    "value": "Nephelai"
+    "value": "Нефели"
   },
   {
     "op": "replace",
     "path": "/sourceNames/311",
-    "value": "Pandia"
+    "value": "Пандія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/312",
-    "value": "Ersa"
+    "value": "Ерса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/313",
-    "value": "Anemoi"
+    "value": "Анеми"
   },
   {
     "op": "replace",
     "path": "/sourceNames/314",
-    "value": "Boreas"
+    "value": "Борей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/315",
-    "value": "Eurus"
+    "value": "Евр"
   },
   {
     "op": "replace",
     "path": "/sourceNames/316",
-    "value": "Notus"
+    "value": "Нот"
   },
   {
     "op": "replace",
     "path": "/sourceNames/317",
-    "value": "Zephyrus"
+    "value": "Зефір"
   },
   {
     "op": "replace",
     "path": "/sourceNames/318",
-    "value": "Pleiades"
+    "value": "Плеяди"
   },
   {
     "op": "replace",
     "path": "/sourceNames/319",
-    "value": "Alcyone"
+    "value": "Алкіона"
   },
   {
     "op": "replace",
     "path": "/sourceNames/320",
-    "value": "Sterope"
+    "value": "Стеропа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/321",
-    "value": "Celaeno"
+    "value": "Келено"
   },
   {
     "op": "replace",
     "path": "/sourceNames/322",
-    "value": "Electra"
+    "value": "Електра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/323",
-    "value": "Maia"
+    "value": "Мая"
   },
   {
     "op": "replace",
     "path": "/sourceNames/324",
-    "value": "Merope"
+    "value": "Меропа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/325",
-    "value": "Taygete"
+    "value": "Тайгета"
   },
   {
     "op": "replace",
     "path": "/sourceNames/326",
-    "value": "Amphictyonis"
+    "value": "Амфіктіоніда"
   },
   {
     "op": "replace",
     "path": "/sourceNames/327",
-    "value": "Anthousai"
+    "value": "Антузи"
   },
   {
     "op": "replace",
     "path": "/sourceNames/328",
-    "value": "Aristaeus"
+    "value": "Арістей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/329",
-    "value": "Attis"
+    "value": "Аттіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/330",
-    "value": "Britomartis"
+    "value": "Брітомартіда"
   },
   {
     "op": "replace",
     "path": "/sourceNames/331",
-    "value": "Cabeiri"
+    "value": "Кабіри"
   },
   {
     "op": "replace",
     "path": "/sourceNames/332",
-    "value": "Aitnaios"
+    "value": "Етней"
   },
   {
     "op": "replace",
     "path": "/sourceNames/333",
-    "value": "Alkon"
+    "value": "Алкон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/334",
-    "value": "Eurymedon"
+    "value": "Еврімедон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/335",
-    "value": "Onnes"
+    "value": "Оннес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/336",
-    "value": "Tonnes"
+    "value": "Тоннес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/337",
-    "value": "Asbolus"
+    "value": "Асбол"
   },
   {
     "op": "replace",
     "path": "/sourceNames/338",
-    "value": "Chariclo"
+    "value": "Харікло"
   },
   {
     "op": "replace",
     "path": "/sourceNames/339",
-    "value": "Chiron"
+    "value": "Хірон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/340",
-    "value": "Eurytion"
+    "value": "Евритіон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/341",
-    "value": "Nessus"
+    "value": "Несс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/342",
-    "value": "Pholus"
+    "value": "Фол"
   },
   {
     "op": "replace",
     "path": "/sourceNames/343",
-    "value": "Akmon"
+    "value": "Акмон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/344",
-    "value": "Passalos"
+    "value": "Пассал"
   },
   {
     "op": "replace",
     "path": "/sourceNames/345",
-    "value": "Chloris"
+    "value": "Хлорида"
   },
   {
     "op": "replace",
     "path": "/sourceNames/346",
-    "value": "Comus"
+    "value": "Ком"
   },
   {
     "op": "replace",
     "path": "/sourceNames/347",
-    "value": "Corymbus"
+    "value": "Коримб"
   },
   {
     "op": "replace",
     "path": "/sourceNames/348",
-    "value": "Curetes"
+    "value": "Курети"
   },
   {
     "op": "replace",
     "path": "/sourceNames/349",
-    "value": "Cybele"
+    "value": "Кібела"
   },
   {
     "op": "replace",
     "path": "/sourceNames/350",
-    "value": "Dactyls"
+    "value": "Дактилі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/351",
-    "value": "Acmon"
+    "value": "Акмон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/352",
-    "value": "Damnameneus"
+    "value": "Дамнаменей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/353",
-    "value": "Delas"
+    "value": "Делас"
   },
   {
     "op": "replace",
     "path": "/sourceNames/354",
-    "value": "Epimedes"
+    "value": "Епімед"
   },
   {
     "op": "replace",
     "path": "/sourceNames/355",
-    "value": "Heracles"
+    "value": "Геракл"
   },
   {
     "op": "replace",
     "path": "/sourceNames/356",
-    "value": "Iasios"
+    "value": "Іасій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/357",
-    "value": "Kelmis"
+    "value": "Кельміс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/358",
-    "value": "Skys"
+    "value": "Скіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/359",
-    "value": "companions"
+    "value": "Компаньйони"
   },
   {
     "op": "replace",
     "path": "/sourceNames/360",
-    "value": "Titias"
+    "value": "Тітій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/361",
-    "value": "Cyllenus"
+    "value": "Кіллен"
   },
   {
     "op": "replace",
     "path": "/sourceNames/362",
-    "value": "Dionysus"
+    "value": "Діоніс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/363",
-    "value": "Dryades"
+    "value": "Дріади"
   },
   {
     "op": "replace",
     "path": "/sourceNames/364",
-    "value": "Gaia"
+    "value": "Гея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/365",
-    "value": "Epimeliades"
+    "value": "Епімеліади"
   },
   {
     "op": "replace",
     "path": "/sourceNames/366",
-    "value": "Hamadryades"
+    "value": "Гамадріади"
   },
   {
     "op": "replace",
     "path": "/sourceNames/367",
-    "value": "Hecaterus"
+    "value": "Гекатер"
   },
   {
     "op": "replace",
     "path": "/sourceNames/368",
-    "value": "Hephaestus"
+    "value": "Гефест"
   },
   {
     "op": "replace",
     "path": "/sourceNames/369",
-    "value": "Hermes"
+    "value": "Гермес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/370",
-    "value": "Eunomia"
+    "value": "Евномія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/371",
-    "value": "Dike"
+    "value": "Діке"
   },
   {
     "op": "replace",
     "path": "/sourceNames/372",
-    "value": "Eirene"
+    "value": "Ейрене"
   },
   {
     "op": "replace",
     "path": "/sourceNames/373",
-    "value": "Thallo"
+    "value": "Талло"
   },
   {
     "op": "replace",
     "path": "/sourceNames/374",
-    "value": "Auxo"
+    "value": "Авксо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/375",
-    "value": "Karpo"
+    "value": "Карпо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/376",
-    "value": "Pherousa"
+    "value": "Фероуса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/377",
-    "value": "Euporie"
+    "value": "Евпорія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/378",
-    "value": "Orthosie"
+    "value": "Ортосія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/379",
-    "value": "Auge"
+    "value": "Авге"
   },
   {
     "op": "replace",
     "path": "/sourceNames/380",
-    "value": "Anatole"
+    "value": "Анатоле"
   },
   {
     "op": "replace",
     "path": "/sourceNames/381",
-    "value": "Mousika"
+    "value": "Мусіка"
   },
   {
     "op": "replace",
     "path": "/sourceNames/382",
-    "value": "Gymnastika"
+    "value": "Гімнастіка"
   },
   {
     "op": "replace",
     "path": "/sourceNames/383",
-    "value": "Nymphe"
+    "value": "Німфа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/384",
-    "value": "Mesembria"
+    "value": "Месембрія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/385",
-    "value": "Sponde"
+    "value": "Спонде"
   },
   {
     "op": "replace",
     "path": "/sourceNames/386",
-    "value": "Elete"
+    "value": "Елете"
   },
   {
     "op": "replace",
     "path": "/sourceNames/387",
-    "value": "Akte"
+    "value": "Акте"
   },
   {
     "op": "replace",
     "path": "/sourceNames/388",
-    "value": "Hesperis"
+    "value": "Гесперіда"
   },
   {
     "op": "replace",
     "path": "/sourceNames/389",
-    "value": "Dysis"
+    "value": "Дісіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/390",
-    "value": "Arktos"
+    "value": "Арктос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/391",
-    "value": "Eiar"
+    "value": "Ейар"
   },
   {
     "op": "replace",
     "path": "/sourceNames/392",
-    "value": "Theros"
+    "value": "Терос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/393",
-    "value": "Pthinoporon"
+    "value": "Фтінопорон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/394",
-    "value": "Cheimon"
+    "value": "Хеймон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/395",
-    "value": "Damneus"
+    "value": "Дамней"
   },
   {
     "op": "replace",
     "path": "/sourceNames/396",
-    "value": "Idaios"
+    "value": "Ідей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/397",
-    "value": "Kyrbas"
+    "value": "Кірбас"
   },
   {
     "op": "replace",
     "path": "/sourceNames/398",
-    "value": "Okythoos"
+    "value": "Окітоос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/399",
-    "value": "Prymneus"
+    "value": "Прімней"
   },
   {
     "op": "replace",
     "path": "/sourceNames/400",
-    "value": "Pyrrhichos"
+    "value": "Пірріх"
   },
   {
     "op": "replace",
     "path": "/sourceNames/401",
-    "value": "Me"
+    "value": "Ме"
   },
   {
     "op": "replace",
     "path": "/sourceNames/402",
-    "value": "Daphne"
+    "value": "Дафна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/403",
-    "value": "Metope"
+    "value": "Метопа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/404",
-    "value": "Min"
+    "value": "Мін"
   },
   {
     "op": "replace",
     "path": "/sourceNames/405",
-    "value": "Hekaerge"
+    "value": "Гекаерга"
   },
   {
     "op": "replace",
     "path": "/sourceNames/406",
-    "value": "Loxo"
+    "value": "Локсо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/407",
-    "value": "Oupis"
+    "value": "Упіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/408",
-    "value": "Adrasteia"
+    "value": "Адрастея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/409",
-    "value": "Echo"
+    "value": "Ехо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/410",
-    "value": "Beroe"
+    "value": "Бероя"
   },
   {
     "op": "replace",
     "path": "/sourceNames/411",
-    "value": "Calypso"
+    "value": "Каліпсо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/412",
-    "value": "Clytie"
+    "value": "Клітія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/413",
-    "value": "Idyia"
+    "value": "Ідія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/414",
-    "value": "Thefor"
+    "value": "Тефор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/415",
-    "value": "Ourea"
+    "value": "Урея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/416",
-    "value": "Palici"
+    "value": "Паліки"
   },
   {
     "op": "replace",
     "path": "/sourceNames/417",
-    "value": "Pan"
+    "value": "Пан"
   },
   {
     "op": "replace",
     "path": "/sourceNames/418",
-    "value": "Achelous"
+    "value": "Ахелоус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/419",
-    "value": "Acis"
+    "value": "Акіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/420",
-    "value": "Acheron"
+    "value": "Ахерон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/421",
-    "value": "Alpheus"
+    "value": "Алфей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/422",
-    "value": "Asopus"
+    "value": "Асоп"
   },
   {
     "op": "replace",
     "path": "/sourceNames/423",
-    "value": "Cladeus"
+    "value": "Кладей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/424",
-    "value": "Eurotas"
+    "value": "Еврот"
   },
   {
     "op": "replace",
     "path": "/sourceNames/425",
-    "value": "Cocytus"
+    "value": "Кокіт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/426",
-    "value": "Le"
+    "value": "Ле"
   },
   {
     "op": "replace",
     "path": "/sourceNames/427",
-    "value": "Peneus"
+    "value": "Пеней"
   },
   {
     "op": "replace",
     "path": "/sourceNames/428",
-    "value": "Phlegethon"
+    "value": "Флегетон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/429",
-    "value": "Styx"
+    "value": "Стікс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/430",
-    "value": "Scamander"
+    "value": "Скамандр"
   },
   {
     "op": "replace",
     "path": "/sourceNames/431",
-    "value": "Priapus"
+    "value": "Пріап"
   },
   {
     "op": "replace",
     "path": "/sourceNames/432",
-    "value": "Rhea"
+    "value": "Рея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/433",
-    "value": "Krotos"
+    "value": "Крот"
   },
   {
     "op": "replace",
     "path": "/sourceNames/434",
-    "value": "Silenus"
+    "value": "Сілен"
   },
   {
     "op": "replace",
     "path": "/sourceNames/435",
-    "value": "Telete"
+    "value": "Телете"
   },
   {
     "op": "replace",
     "path": "/sourceNames/436",
-    "value": "Zagreus"
+    "value": "Загрей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/437",
-    "value": "Aphaea"
+    "value": "Афея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/438",
-    "value": "Carme"
+    "value": "Карме"
   },
   {
     "op": "replace",
     "path": "/sourceNames/439",
-    "value": "Carmanor"
+    "value": "Карманор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/440",
-    "value": "Chrysomis"
+    "value": "Хрисоміс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/441",
-    "value": "Cyamites"
+    "value": "Кіаміт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/442",
-    "value": "Demeter"
+    "value": "Деметра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/443",
-    "value": "Despoina"
+    "value": "Деспойна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/444",
-    "value": "Dionysus"
+    "value": "Діоніс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/445",
-    "value": "Eunostus"
+    "value": "Евност"
   },
   {
     "op": "replace",
     "path": "/sourceNames/446",
-    "value": "Hestia"
+    "value": "Гестія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/447",
-    "value": "Persephone"
+    "value": "Персефоне"
   },
   {
     "op": "replace",
     "path": "/sourceNames/448",
-    "value": "Philomelus"
+    "value": "Філомел"
   },
   {
     "op": "replace",
     "path": "/sourceNames/449",
-    "value": "Plutus"
+    "value": "Плутос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/450",
-    "value": "Triptolemus"
+    "value": "Триптолем"
   },
   {
     "op": "replace",
     "path": "/sourceNames/451",
-    "value": "Asclepius"
+    "value": "Асклепій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/452",
-    "value": "Aceso"
+    "value": "Акесо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/453",
-    "value": "Aegle"
+    "value": "Егла"
   },
   {
     "op": "replace",
     "path": "/sourceNames/454",
-    "value": "Epione"
+    "value": "Епіона"
   },
   {
     "op": "replace",
     "path": "/sourceNames/455",
-    "value": "Hygieia"
+    "value": "Гігіея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/456",
-    "value": "Iaso"
+    "value": "Іасо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/457",
-    "value": "Panacea"
+    "value": "Панацея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/458",
-    "value": "Telesphorus"
+    "value": "Телефор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/459",
-    "value": "Adrastea"
+    "value": "Адрастея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/460",
-    "value": "Agdistis"
+    "value": "Агдістіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/461",
-    "value": "Alexiares"
+    "value": "Алексіар"
   },
   {
     "op": "replace",
     "path": "/sourceNames/462",
-    "value": "Aphroditus"
+    "value": "Афродіт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/463",
-    "value": "Astraea"
+    "value": "Астрея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/464",
-    "value": "Auxesia"
+    "value": "Авксесія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/465",
-    "value": "Aglaea"
+    "value": "Аглая"
   },
   {
     "op": "replace",
     "path": "/sourceNames/466",
-    "value": "Euphrosyne"
+    "value": "Евфросіна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/467",
-    "value": "Thalia"
+    "value": "Талія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/468",
-    "value": "Hegemone"
+    "value": "Гегемона"
   },
   {
     "op": "replace",
     "path": "/sourceNames/469",
-    "value": "Ania"
+    "value": "Анія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/470",
-    "value": "Pasia"
+    "value": "Пасія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/471",
-    "value": "Cleta"
+    "value": "Клета"
   },
   {
     "op": "replace",
     "path": "/sourceNames/472",
-    "value": "Phaenna"
+    "value": "Фаенна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/473",
-    "value": "Eudaimonia"
+    "value": "Евдемонія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/474",
-    "value": "Euthymia"
+    "value": "Евтимія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/475",
-    "value": "Calleis"
+    "value": "Каллеїс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/476",
-    "value": "Paidia"
+    "value": "Пайдія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/477",
-    "value": "Pandaisia"
+    "value": "Пандесія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/478",
-    "value": "Pannychis"
+    "value": "Панніхіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/479",
-    "value": "Ceraon"
+    "value": "Кераон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/480",
-    "value": "Chrysus"
+    "value": "Хрисос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/481",
-    "value": "Circe"
+    "value": "Цирцея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/482",
-    "value": "Syntribos"
+    "value": "Сінтрібос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/483",
-    "value": "Smaragos"
+    "value": "Смарагос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/484",
-    "value": "Asbetos"
+    "value": "Асбетос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/485",
-    "value": "Sabaktes"
+    "value": "Сабактес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/486",
-    "value": "Omodamos"
+    "value": "Омодамос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/487",
-    "value": "Deipneus"
+    "value": "Дейпней"
   },
   {
     "op": "replace",
     "path": "/sourceNames/488",
-    "value": "Eiresione"
+    "value": "Ейресіона"
   },
   {
     "op": "replace",
     "path": "/sourceNames/489",
-    "value": "Eileithyia"
+    "value": "Ілітія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/490",
-    "value": "Enyalius"
+    "value": "Еніалій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/491",
-    "value": "Enyo"
+    "value": "Еніо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/492",
-    "value": "Harpocrates"
+    "value": "Гарпократ"
   },
   {
     "op": "replace",
     "path": "/sourceNames/493",
-    "value": "Hermaphroditus"
+    "value": "Гермафродітус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/494",
-    "value": "Hymenaios"
+    "value": "Гіменей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/495",
-    "value": "Ichnaea"
+    "value": "Іхнея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/496",
-    "value": "Iynx"
+    "value": "Іїнкс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/497",
-    "value": "Matton"
+    "value": "Маттон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/498",
-    "value": "Titan"
+    "value": "Титан"
   },
   {
     "op": "replace",
     "path": "/sourceNames/499",
-    "value": "Aoide"
+    "value": "Аойда"
   },
   {
     "op": "replace",
     "path": "/sourceNames/500",
-    "value": "Arche"
+    "value": "Архе"
   },
   {
     "op": "replace",
     "path": "/sourceNames/501",
-    "value": "Melete"
+    "value": "Мелета"
   },
   {
     "op": "replace",
     "path": "/sourceNames/502",
-    "value": "Mneme"
+    "value": "Мнема"
   },
   {
     "op": "replace",
     "path": "/sourceNames/503",
-    "value": "lxinoe"
+    "value": "Іксіноя"
   },
   {
     "op": "replace",
     "path": "/sourceNames/504",
-    "value": "Olympian"
+    "value": "Олімпіан"
   },
   {
     "op": "replace",
     "path": "/sourceNames/505",
-    "value": "Calliope"
+    "value": "Калліопа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/506",
-    "value": "Clio"
+    "value": "Кліо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/507",
-    "value": "Euterpe"
+    "value": "Евтерпа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/508",
-    "value": "Erato"
+    "value": "Ерато"
   },
   {
     "op": "replace",
     "path": "/sourceNames/509",
-    "value": "Melpomene"
+    "value": "Мельпомена"
   },
   {
     "op": "replace",
     "path": "/sourceNames/510",
-    "value": "Polyhymnia"
+    "value": "Полігімнія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/511",
-    "value": "Terpsichore"
+    "value": "Терпсіхора"
   },
   {
     "op": "replace",
     "path": "/sourceNames/512",
-    "value": "Thalia"
+    "value": "Талія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/513",
-    "value": "Urania"
+    "value": "Уранія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/514",
-    "value": "Younger"
+    "value": "Янгер"
   },
   {
     "op": "replace",
     "path": "/sourceNames/515",
-    "value": "Cephisso"
+    "value": "Кефіссо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/516",
-    "value": "Apollonis"
+    "value": "Аполлоніда"
   },
   {
     "op": "replace",
     "path": "/sourceNames/517",
-    "value": "Borysnis"
+    "value": "Борисніда"
   },
   {
     "op": "replace",
     "path": "/sourceNames/518",
-    "value": "Hypate"
+    "value": "Гіпата"
   },
   {
     "op": "replace",
     "path": "/sourceNames/519",
-    "value": "Mese"
+    "value": "Меса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/520",
-    "value": "Nete"
+    "value": "Нета"
   },
   {
     "op": "replace",
     "path": "/sourceNames/521",
-    "value": "Polymaia"
+    "value": "Полімая"
   },
   {
     "op": "replace",
     "path": "/sourceNames/522",
-    "value": "Palaestra"
+    "value": "Палестра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/523",
-    "value": "Rhapso"
+    "value": "Рапсо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/524",
-    "value": "Achilles"
+    "value": "Ахіллес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/525",
-    "value": "Aiakos"
+    "value": "Аякос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/526",
-    "value": "Aeolus"
+    "value": "Еол"
   },
   {
     "op": "replace",
     "path": "/sourceNames/527",
-    "value": "Alabandus"
+    "value": "Алабанд"
   },
   {
     "op": "replace",
     "path": "/sourceNames/528",
-    "value": "Amphiaraus"
+    "value": "Амфіарай"
   },
   {
     "op": "replace",
     "path": "/sourceNames/529",
-    "value": "Ariadne"
+    "value": "Аріадна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/530",
-    "value": "Aristaeus"
+    "value": "Арістей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/531",
-    "value": "Asclepius"
+    "value": "Асклепій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/532",
-    "value": "Attis"
+    "value": "Аттіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/533",
-    "value": "Bolina"
+    "value": "Боліна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/534",
-    "value": "Castor"
+    "value": "Кастор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/535",
-    "value": "Pollux"
+    "value": "Поллукс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/536",
-    "value": "Endymion"
+    "value": "Ендіміон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/537",
-    "value": "Ganymede"
+    "value": "Ганімед"
   },
   {
     "op": "replace",
     "path": "/sourceNames/538",
-    "value": "Glaucus"
+    "value": "Главкус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/539",
-    "value": "Hemia"
+    "value": "Гемія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/540",
-    "value": "Heracles"
+    "value": "Геракл"
   },
   {
     "op": "replace",
     "path": "/sourceNames/541",
-    "value": "Minos"
+    "value": "Мінос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/542",
-    "value": "Ino"
+    "value": "Іно"
   },
   {
     "op": "replace",
     "path": "/sourceNames/543",
-    "value": "Tenes"
+    "value": "Тенес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/544",
-    "value": "Phoebe"
+    "value": "Фібі"
   },
   {
     "op": "replace",
     "path": "/sourceNames/545",
-    "value": "Hilaera"
+    "value": "Гілаейра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/546",
-    "value": "Orithyia"
+    "value": "Орітія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/547",
-    "value": "Palaemon"
+    "value": "Палемон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/548",
-    "value": "Phylonoe"
+    "value": "Філоноя"
   },
   {
     "op": "replace",
     "path": "/sourceNames/549",
-    "value": "Psyche"
+    "value": "Психея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/550",
-    "value": "Semele"
+    "value": "Семела"
   },
   {
     "op": "replace",
     "path": "/sourceNames/551",
-    "value": "Abderus"
+    "value": "Абдер"
   },
   {
     "op": "replace",
     "path": "/sourceNames/552",
-    "value": "Achilles"
+    "value": "Ахіллес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/553",
-    "value": "Aeneas"
+    "value": "Еней"
   },
   {
     "op": "replace",
     "path": "/sourceNames/554",
-    "value": "Ajax"
+    "value": "Аякс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/555",
-    "value": "Amphitryon"
+    "value": "Амфітріон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/556",
-    "value": "Antilochus"
+    "value": "Антілох"
   },
   {
     "op": "replace",
     "path": "/sourceNames/557",
-    "value": "Bellerophon"
+    "value": "Беллерофонт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/558",
-    "value": "Castor"
+    "value": "Кастор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/559",
-    "value": "Chrysippus"
+    "value": "Хрисіпп"
   },
   {
     "op": "replace",
     "path": "/sourceNames/560",
-    "value": "Daedalus"
+    "value": "Дедал"
   },
   {
     "op": "replace",
     "path": "/sourceNames/561",
-    "value": "Diomedes"
+    "value": "Діомед"
   },
   {
     "op": "replace",
     "path": "/sourceNames/562",
-    "value": "Eleusis"
+    "value": "Елевсін"
   },
   {
     "op": "replace",
     "path": "/sourceNames/563",
-    "value": "Eunostus"
+    "value": "Евност"
   },
   {
     "op": "replace",
     "path": "/sourceNames/564",
-    "value": "Ganymede"
+    "value": "Ганімед"
   },
   {
     "op": "replace",
     "path": "/sourceNames/565",
-    "value": "Hector"
+    "value": "Гектор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/566",
-    "value": "Icarus"
+    "value": "Ікар"
   },
   {
     "op": "replace",
     "path": "/sourceNames/567",
-    "value": "Iolaus"
+    "value": "Іолай"
   },
   {
     "op": "replace",
     "path": "/sourceNames/568",
-    "value": "Jason"
+    "value": "Ясон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/569",
-    "value": "Meleager"
+    "value": "Мелеагр"
   },
   {
     "op": "replace",
     "path": "/sourceNames/570",
-    "value": "Odysseus"
+    "value": "Одіссей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/571",
-    "value": "Orpheus"
+    "value": "Орфей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/572",
-    "value": "Pandion"
+    "value": "Пандіон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/573",
-    "value": "Perseus"
+    "value": "Персей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/574",
-    "value": "Theseus"
+    "value": "Тесей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/575",
-    "value": "Amymone"
+    "value": "Амімона"
   },
   {
     "op": "replace",
     "path": "/sourceNames/576",
-    "value": "Andromache"
+    "value": "Андромаха"
   },
   {
     "op": "replace",
     "path": "/sourceNames/577",
-    "value": "Andromeda"
+    "value": "Андромеда"
   },
   {
     "op": "replace",
     "path": "/sourceNames/578",
-    "value": "Antigone"
+    "value": "Антігона"
   },
   {
     "op": "replace",
     "path": "/sourceNames/579",
-    "value": "Arachne"
+    "value": "Арахна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/580",
-    "value": "Ariadne"
+    "value": "Аріадна"
   },
   {
     "op": "replace",
     "path": "/sourceNames/581",
-    "value": "Atalanta"
+    "value": "Аталанта"
   },
   {
     "op": "replace",
     "path": "/sourceNames/582",
-    "value": "Briseis"
+    "value": "Брісеїда"
   },
   {
     "op": "replace",
     "path": "/sourceNames/583",
-    "value": "Caeneus"
+    "value": "Кеней"
   },
   {
     "op": "replace",
     "path": "/sourceNames/584",
-    "value": "Cassandra"
+    "value": "Кассандра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/585",
-    "value": "Cassiopeia"
+    "value": "Кассіопея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/586",
-    "value": "Clytemnestra"
+    "value": "Клітемнестра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/587",
-    "value": "Deianeira"
+    "value": "Деяніра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/588",
-    "value": "Electra"
+    "value": "Електра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/589",
-    "value": "Europa"
+    "value": "Європа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/590",
-    "value": "Hecuba"
+    "value": "Гекуба"
   },
   {
     "op": "replace",
     "path": "/sourceNames/591",
-    "value": "Helen"
+    "value": "Елена"
   },
   {
     "op": "replace",
     "path": "/sourceNames/592",
-    "value": "Hermione"
+    "value": "Герміона"
   },
   {
     "op": "replace",
     "path": "/sourceNames/593",
-    "value": "Iphigenia"
+    "value": "Іфігенія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/594",
-    "value": "Ismene"
+    "value": "Ісмена"
   },
   {
     "op": "replace",
     "path": "/sourceNames/595",
-    "value": "Jocasta"
+    "value": "Іокаста"
   },
   {
     "op": "replace",
     "path": "/sourceNames/596",
-    "value": "Medea"
+    "value": "Медея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/597",
-    "value": "Medusa"
+    "value": "Медуза"
   },
   {
     "op": "replace",
     "path": "/sourceNames/598",
-    "value": "Niobe"
+    "value": "Ніоба"
   },
   {
     "op": "replace",
     "path": "/sourceNames/599",
-    "value": "Pandora"
+    "value": "Пандора"
   },
   {
     "op": "replace",
     "path": "/sourceNames/600",
-    "value": "Penelope"
+    "value": "Пенелопа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/601",
-    "value": "Phaedra"
+    "value": "Федра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/602",
-    "value": "Polyxena"
+    "value": "Поліксена"
   },
   {
     "op": "replace",
     "path": "/sourceNames/603",
-    "value": "Semele"
+    "value": "Семела"
   },
   {
     "op": "replace",
     "path": "/sourceNames/604",
-    "value": "Thrace"
+    "value": "Фракія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/605",
-    "value": "Acastus"
+    "value": "Акаст"
   },
   {
     "op": "replace",
     "path": "/sourceNames/606",
-    "value": "Acrisius"
+    "value": "Акрісій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/607",
-    "value": "Actaeus"
+    "value": "Актей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/608",
-    "value": "Admetus"
+    "value": "Адмет"
   },
   {
     "op": "replace",
     "path": "/sourceNames/609",
-    "value": "Adrastus"
+    "value": "Адраст"
   },
   {
     "op": "replace",
     "path": "/sourceNames/610",
-    "value": "Aeacus"
+    "value": "Еак"
   },
   {
     "op": "replace",
     "path": "/sourceNames/611",
-    "value": "Aegeus"
+    "value": "Егей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/612",
-    "value": "Aegimius"
+    "value": "Егімій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/613",
-    "value": "Aegisthus"
+    "value": "Егісф"
   },
   {
     "op": "replace",
     "path": "/sourceNames/614",
-    "value": "Aegyptus"
+    "value": "Егіпт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/615",
-    "value": "Aeson"
+    "value": "Есон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/616",
-    "value": "Aetolus"
+    "value": "Етол"
   },
   {
     "op": "replace",
     "path": "/sourceNames/617",
-    "value": "Agamemnon"
+    "value": "Агамемнон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/618",
-    "value": "Agasnes"
+    "value": "Агаснес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/619",
-    "value": "Agenor"
+    "value": "Агенор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/620",
-    "value": "Alcinous"
+    "value": "Алкіной"
   },
   {
     "op": "replace",
     "path": "/sourceNames/621",
-    "value": "Alcmaeon"
+    "value": "Алкмеон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/622",
-    "value": "Aleus"
+    "value": "Алей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/623",
-    "value": "Amphiaraus"
+    "value": "Амфіарай"
   },
   {
     "op": "replace",
     "path": "/sourceNames/624",
-    "value": "Amphictyon"
+    "value": "Амфіктіон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/625",
-    "value": "Amphion"
+    "value": "Амфіон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/626",
-    "value": "Amycus"
+    "value": "Амік"
   },
   {
     "op": "replace",
     "path": "/sourceNames/627",
-    "value": "Anaxagoras"
+    "value": "Анаксагор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/628",
-    "value": "Anchises"
+    "value": "Анхіз"
   },
   {
     "op": "replace",
     "path": "/sourceNames/629",
-    "value": "Arcesius"
+    "value": "Аркесій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/630",
-    "value": "Argeus"
+    "value": "Аргей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/631",
-    "value": "Argus"
+    "value": "Аргус"
   },
   {
     "op": "replace",
     "path": "/sourceNames/632",
-    "value": "Assaracus"
+    "value": "Ассарак"
   },
   {
     "op": "replace",
     "path": "/sourceNames/633",
-    "value": "Asterion"
+    "value": "Астеріон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/634",
-    "value": "Athamas"
+    "value": "Атамант"
   },
   {
     "op": "replace",
     "path": "/sourceNames/635",
-    "value": "Atreus"
+    "value": "Атрей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/636",
-    "value": "Augeas"
+    "value": "Авгій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/637",
-    "value": "Autesion"
+    "value": "Автесіон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/638",
-    "value": "Bias"
+    "value": "Біант"
   },
   {
     "op": "replace",
     "path": "/sourceNames/639",
-    "value": "Busiris"
+    "value": "Бусіріс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/640",
-    "value": "Cadmus"
+    "value": "Кадм"
   },
   {
     "op": "replace",
     "path": "/sourceNames/641",
-    "value": "Car"
+    "value": "Кар"
   },
   {
     "op": "replace",
     "path": "/sourceNames/642",
-    "value": "Catreus"
+    "value": "Катрей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/643",
-    "value": "Cecrops"
+    "value": "Кекроп"
   },
   {
     "op": "replace",
     "path": "/sourceNames/644",
-    "value": "Ceisus"
+    "value": "Кеїс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/645",
-    "value": "Celeus"
+    "value": "Келей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/646",
-    "value": "Cephalus"
+    "value": "Кефал"
   },
   {
     "op": "replace",
     "path": "/sourceNames/647",
-    "value": "Cepheus"
+    "value": "Кефей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/648",
-    "value": "Cepheus"
+    "value": "Кефей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/649",
-    "value": "Charnabon"
+    "value": "Харнабон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/650",
-    "value": "Cinyras"
+    "value": "Кінір"
   },
   {
     "op": "replace",
     "path": "/sourceNames/651",
-    "value": "Codrus"
+    "value": "Кодр"
   },
   {
     "op": "replace",
     "path": "/sourceNames/652",
-    "value": "Corinthus"
+    "value": "Корінф"
   },
   {
     "op": "replace",
     "path": "/sourceNames/653",
-    "value": "Cranaus"
+    "value": "Кранай"
   },
   {
     "op": "replace",
     "path": "/sourceNames/654",
-    "value": "Creon"
+    "value": "Креонт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/655",
-    "value": "Creon"
+    "value": "Креонт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/656",
-    "value": "Cres"
+    "value": "Крес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/657",
-    "value": "Cresphontes"
+    "value": "Кресфонт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/658",
-    "value": "Creus"
+    "value": "Крей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/659",
-    "value": "Criasus"
+    "value": "Кріас"
   },
   {
     "op": "replace",
     "path": "/sourceNames/660",
-    "value": "Cylarabes"
+    "value": "Кілараб"
   },
   {
     "op": "replace",
     "path": "/sourceNames/661",
-    "value": "Cynortas"
+    "value": "Кінорт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/662",
-    "value": "Cyzicus"
+    "value": "Кізік"
   },
   {
     "op": "replace",
     "path": "/sourceNames/663",
-    "value": "Danaus"
+    "value": "Данай"
   },
   {
     "op": "replace",
     "path": "/sourceNames/664",
-    "value": "Dardanus"
+    "value": "Дардан"
   },
   {
     "op": "replace",
     "path": "/sourceNames/665",
-    "value": "Deiphontes"
+    "value": "Дейфонт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/666",
-    "value": "Demophon"
+    "value": "Демофонт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/667",
-    "value": "Diomedes"
+    "value": "Діомед"
   },
   {
     "op": "replace",
     "path": "/sourceNames/668",
-    "value": "Echemus"
+    "value": "Ехем"
   },
   {
     "op": "replace",
     "path": "/sourceNames/669",
-    "value": "Echetus"
+    "value": "Ехет"
   },
   {
     "op": "replace",
     "path": "/sourceNames/670",
-    "value": "Eetion"
+    "value": "Еетіон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/671",
-    "value": "Electryon"
+    "value": "Електріон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/672",
-    "value": "Elephenor"
+    "value": "Елефенор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/673",
-    "value": "Eleusis"
+    "value": "Елевсін"
   },
   {
     "op": "replace",
     "path": "/sourceNames/674",
-    "value": "Epaphus"
+    "value": "Епаф"
   },
   {
     "op": "replace",
     "path": "/sourceNames/675",
-    "value": "Epopeus"
+    "value": "Епопей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/676",
-    "value": "Erechus"
+    "value": "Ерех"
   },
   {
     "op": "replace",
     "path": "/sourceNames/677",
-    "value": "Erginus"
+    "value": "Ергін"
   },
   {
     "op": "replace",
     "path": "/sourceNames/678",
-    "value": "Erichthonius"
+    "value": "Еріхтоній"
   },
   {
     "op": "replace",
     "path": "/sourceNames/679",
-    "value": "Eteocles"
+    "value": "Етеокл"
   },
   {
     "op": "replace",
     "path": "/sourceNames/680",
-    "value": "Eteocles"
+    "value": "Етеокл"
   },
   {
     "op": "replace",
     "path": "/sourceNames/681",
-    "value": "Eurotas"
+    "value": "Еврот"
   },
   {
     "op": "replace",
     "path": "/sourceNames/682",
-    "value": "Eurysus"
+    "value": "Евріс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/683",
-    "value": "Euxantius"
+    "value": "Евксантій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/684",
-    "value": "Gelanor"
+    "value": "Геланор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/685",
-    "value": "Haemus"
+    "value": "Гем"
   },
   {
     "op": "replace",
     "path": "/sourceNames/686",
-    "value": "Helenus"
+    "value": "Гелен"
   },
   {
     "op": "replace",
     "path": "/sourceNames/687",
-    "value": "Hyrieus"
+    "value": "Гіріей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/688",
-    "value": "Ilus"
+    "value": "Іл"
   },
   {
     "op": "replace",
     "path": "/sourceNames/689",
-    "value": "Ixion"
+    "value": "Іксіон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/690",
-    "value": "Laomedon"
+    "value": "Лаомедонт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/691",
-    "value": "Lycaon"
+    "value": "Лікаон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/692",
-    "value": "Lycurgus"
+    "value": "Лікург"
   },
   {
     "op": "replace",
     "path": "/sourceNames/693",
-    "value": "Lycurgus"
+    "value": "Лікург"
   },
   {
     "op": "replace",
     "path": "/sourceNames/694",
-    "value": "Makedon"
+    "value": "Македон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/695",
-    "value": "Megareus"
+    "value": "Мегарей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/696",
-    "value": "Megareus"
+    "value": "Мегарей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/697",
-    "value": "Melampus"
+    "value": "Меламп"
   },
   {
     "op": "replace",
     "path": "/sourceNames/698",
-    "value": "Melanthus"
+    "value": "Мелант"
   },
   {
     "op": "replace",
     "path": "/sourceNames/699",
-    "value": "Memnon"
+    "value": "Мемнон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/700",
-    "value": "Menelaus"
+    "value": "Менелай"
   },
   {
     "op": "replace",
     "path": "/sourceNames/701",
-    "value": "Menesus"
+    "value": "Менес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/702",
-    "value": "Midas"
+    "value": "Мідас"
   },
   {
     "op": "replace",
     "path": "/sourceNames/703",
-    "value": "Minos"
+    "value": "Мінос"
   },
   {
     "op": "replace",
     "path": "/sourceNames/704",
-    "value": "Myles"
+    "value": "Міл"
   },
   {
     "op": "replace",
     "path": "/sourceNames/705",
-    "value": "Nestor"
+    "value": "Нестор"
   },
   {
     "op": "replace",
     "path": "/sourceNames/706",
-    "value": "Nycteus"
+    "value": "Ніктей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/707",
-    "value": "Odysseus"
+    "value": "Одіссей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/708",
-    "value": "Oebalus"
+    "value": "Ебал"
   },
   {
     "op": "replace",
     "path": "/sourceNames/709",
-    "value": "Oedipus"
+    "value": "Едіп"
   },
   {
     "op": "replace",
     "path": "/sourceNames/710",
-    "value": "Oeneus"
+    "value": "Оней"
   },
   {
     "op": "replace",
     "path": "/sourceNames/711",
-    "value": "Oenomaus"
+    "value": "Еномай"
   },
   {
     "op": "replace",
     "path": "/sourceNames/712",
-    "value": "Oenopion"
+    "value": "Енопіон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/713",
-    "value": "Ogygus"
+    "value": "Огіг"
   },
   {
     "op": "replace",
     "path": "/sourceNames/714",
-    "value": "Oicles"
+    "value": "Оїкл"
   },
   {
     "op": "replace",
     "path": "/sourceNames/715",
-    "value": "Oileus"
+    "value": "Оїлей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/716",
-    "value": "Orestes"
+    "value": "Орест"
   },
   {
     "op": "replace",
     "path": "/sourceNames/717",
-    "value": "Oxyntes"
+    "value": "Оксінт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/718",
-    "value": "Pandion"
+    "value": "Пандіон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/719",
-    "value": "Pandion"
+    "value": "Пандіон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/720",
-    "value": "Peleus"
+    "value": "Пелей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/721",
-    "value": "Pelias"
+    "value": "Пелій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/722",
-    "value": "Pelops"
+    "value": "Пелоп"
   },
   {
     "op": "replace",
     "path": "/sourceNames/723",
-    "value": "Penus"
+    "value": "Пен"
   },
   {
     "op": "replace",
     "path": "/sourceNames/724",
-    "value": "Periphas"
+    "value": "Періфас"
   },
   {
     "op": "replace",
     "path": "/sourceNames/725",
-    "value": "Perseus"
+    "value": "Персей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/726",
-    "value": "Phineus"
+    "value": "Фіней"
   },
   {
     "op": "replace",
     "path": "/sourceNames/727",
-    "value": "Phlegyas"
+    "value": "Флегій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/728",
-    "value": "Phoenix"
+    "value": "Фенікс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/729",
-    "value": "Phoroneus"
+    "value": "Фороней"
   },
   {
     "op": "replace",
     "path": "/sourceNames/730",
-    "value": "Phyleus"
+    "value": "Філей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/731",
-    "value": "Pitus"
+    "value": "Піт"
   },
   {
     "op": "replace",
     "path": "/sourceNames/732",
-    "value": "Polybus"
+    "value": "Поліб"
   },
   {
     "op": "replace",
     "path": "/sourceNames/733",
-    "value": "Polynices"
+    "value": "Полінік"
   },
   {
     "op": "replace",
     "path": "/sourceNames/734",
-    "value": "Priam"
+    "value": "Пріам"
   },
   {
     "op": "replace",
     "path": "/sourceNames/735",
-    "value": "Proetus"
+    "value": "Прет"
   },
   {
     "op": "replace",
     "path": "/sourceNames/736",
-    "value": "Pylades"
+    "value": "Пілад"
   },
   {
     "op": "replace",
     "path": "/sourceNames/737",
-    "value": "Rhadamanthys"
+    "value": "Радамантіс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/738",
-    "value": "Rhesus"
+    "value": "Рес"
   },
   {
     "op": "replace",
     "path": "/sourceNames/739",
-    "value": "Sarpedon"
+    "value": "Сарпедон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/740",
-    "value": "Sisyphus"
+    "value": "Сізіф"
   },
   {
     "op": "replace",
     "path": "/sourceNames/741",
-    "value": "Sithon"
+    "value": "Сітон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/742",
-    "value": "Talaus"
+    "value": "Талай"
   },
   {
     "op": "replace",
     "path": "/sourceNames/743",
-    "value": "Tegyrios"
+    "value": "Тегірій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/744",
-    "value": "Telamon"
+    "value": "Теламон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/745",
-    "value": "Telephus"
+    "value": "Телеф"
   },
   {
     "op": "replace",
     "path": "/sourceNames/746",
-    "value": "Temenus"
+    "value": "Темен"
   },
   {
     "op": "replace",
     "path": "/sourceNames/747",
-    "value": "Teucer"
+    "value": "Тевкр"
   },
   {
     "op": "replace",
     "path": "/sourceNames/748",
-    "value": "Teutamides"
+    "value": "Тевтамід"
   },
   {
     "op": "replace",
     "path": "/sourceNames/749",
-    "value": "Teuthras"
+    "value": "Тевтрас"
   },
   {
     "op": "replace",
     "path": "/sourceNames/750",
-    "value": "Thersander"
+    "value": "Терсандр"
   },
   {
     "op": "replace",
     "path": "/sourceNames/751",
-    "value": "Theseus"
+    "value": "Тесей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/752",
-    "value": "Thyestes"
+    "value": "Фієст"
   },
   {
     "op": "replace",
     "path": "/sourceNames/753",
-    "value": "Tisamenus"
+    "value": "Тісамен"
   },
   {
     "op": "replace",
     "path": "/sourceNames/754",
-    "value": "Tyndareus"
+    "value": "Тіндарей"
   },
   {
     "op": "replace",
     "path": "/sourceNames/755",
-    "value": "Anius"
+    "value": "Аній"
   },
   {
     "op": "replace",
     "path": "/sourceNames/756",
-    "value": "Asbolus"
+    "value": "Асбол"
   },
   {
     "op": "replace",
     "path": "/sourceNames/757",
-    "value": "Bakis"
+    "value": "Бакід"
   },
   {
     "op": "replace",
     "path": "/sourceNames/758",
-    "value": "Branchus"
+    "value": "Бранх"
   },
   {
     "op": "replace",
     "path": "/sourceNames/759",
-    "value": "Calchas"
+    "value": "Калхант"
   },
   {
     "op": "replace",
     "path": "/sourceNames/760",
-    "value": "Carnus"
+    "value": "Карн"
   },
   {
     "op": "replace",
     "path": "/sourceNames/761",
-    "value": "Carya"
+    "value": "Карія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/762",
-    "value": "Cassandra"
+    "value": "Кассандра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/763",
-    "value": "Ennomus"
+    "value": "Енном"
   },
   {
     "op": "replace",
     "path": "/sourceNames/764",
-    "value": "Halirses"
+    "value": "Галірс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/765",
-    "value": "Helenus"
+    "value": "Гелен"
   },
   {
     "op": "replace",
     "path": "/sourceNames/766",
-    "value": "Iamus"
+    "value": "Іам"
   },
   {
     "op": "replace",
     "path": "/sourceNames/767",
-    "value": "Idmon"
+    "value": "Ідмон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/768",
-    "value": "Manto"
+    "value": "Манто"
   },
   {
     "op": "replace",
     "path": "/sourceNames/769",
-    "value": "Melampus"
+    "value": "Меламп"
   },
   {
     "op": "replace",
     "path": "/sourceNames/770",
-    "value": "Mopsus"
+    "value": "Мопс"
   },
   {
     "op": "replace",
     "path": "/sourceNames/771",
-    "value": "Polyeidos"
+    "value": "Поліід"
   },
   {
     "op": "replace",
     "path": "/sourceNames/772",
-    "value": "Pythia"
+    "value": "Піфія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/773",
-    "value": "Telemus"
+    "value": "Телем"
   },
   {
     "op": "replace",
     "path": "/sourceNames/774",
-    "value": "Theoclymenus"
+    "value": "Феоклімен"
   },
   {
     "op": "replace",
     "path": "/sourceNames/775",
-    "value": "Tiresias"
+    "value": "Тіресій"
   },
   {
     "op": "replace",
     "path": "/sourceNames/776",
-    "value": "Aegea"
+    "value": "Егея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/777",
-    "value": "Aella"
+    "value": "Аелла"
   },
   {
     "op": "replace",
     "path": "/sourceNames/778",
-    "value": "Alcibie"
+    "value": "Алкібія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/779",
-    "value": "Antandre"
+    "value": "Антандра"
   },
   {
     "op": "replace",
     "path": "/sourceNames/780",
-    "value": "Antiope"
+    "value": "Антіопа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/781",
-    "value": "Areto"
+    "value": "Арето"
   },
   {
     "op": "replace",
     "path": "/sourceNames/782",
-    "value": "Asteria"
+    "value": "Астерія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/783",
-    "value": "Bremusa"
+    "value": "Бремуса"
   },
   {
     "op": "replace",
     "path": "/sourceNames/784",
-    "value": "Celaeno"
+    "value": "Келено"
   },
   {
     "op": "replace",
     "path": "/sourceNames/785",
-    "value": "Eurypyle"
+    "value": "Евріпіла"
   },
   {
     "op": "replace",
     "path": "/sourceNames/786",
-    "value": "Hippolyta"
+    "value": "Іпполіта"
   },
   {
     "op": "replace",
     "path": "/sourceNames/787",
-    "value": "Hippothoe"
+    "value": "Гіппотоя"
   },
   {
     "op": "replace",
     "path": "/sourceNames/788",
-    "value": "Iphito"
+    "value": "Іфіто"
   },
   {
     "op": "replace",
     "path": "/sourceNames/789",
-    "value": "Lampedo"
+    "value": "Лампедо"
   },
   {
     "op": "replace",
     "path": "/sourceNames/790",
-    "value": "Marpesia"
+    "value": "Марпесія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/791",
-    "value": "Melanippe"
+    "value": "Меланіппа"
   },
   {
     "op": "replace",
     "path": "/sourceNames/792",
-    "value": "Molpadia"
+    "value": "Молпадія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/793",
-    "value": "Myrina"
+    "value": "Мирина"
   },
   {
     "op": "replace",
     "path": "/sourceNames/794",
-    "value": "Orithyia"
+    "value": "Орітія"
   },
   {
     "op": "replace",
     "path": "/sourceNames/795",
-    "value": "Otrera"
+    "value": "Отрера"
   },
   {
     "op": "replace",
     "path": "/sourceNames/796",
-    "value": "Pantariste"
+    "value": "Пантаріста"
   },
   {
     "op": "replace",
     "path": "/sourceNames/797",
-    "value": "Pensilea"
+    "value": "Пенсілея"
   },
   {
     "op": "replace",
     "path": "/sourceNames/798",
-    "value": "Thalestris"
+    "value": "Фалестріда"
   },
   {
     "op": "replace",
     "path": "/sourceNames/799",
-    "value": "Ixion"
+    "value": "Іксіон"
   },
   {
     "op": "replace",
     "path": "/sourceNames/800",
-    "value": "Sisyphus"
+    "value": "Сізіф"
   },
   {
     "op": "replace",
     "path": "/sourceNames/801",
-    "value": "Tantalus"
+    "value": "Тантал"
   }
 ]

@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Здається, це несуче різьблення."
+    "value": "Здається, це несуча різьба."
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Промінь Birdman не дуже міцний."
+    "value": "Опорна балка Birdman не дуже міцна."
   },
   {
     "op": "replace",

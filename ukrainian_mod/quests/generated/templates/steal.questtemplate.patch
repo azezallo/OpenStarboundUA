@@ -10,132 +10,132 @@
     "op": "replace"
   },
   {
-    "value": "Перше завдання Флорана для тебе — трохи таємне. ^orange;<victim>^white; має гарний ^orange;[<objectItem>]^white; у <victim.pronoun.reflexive> домі, і Флоран хоче, щоб ти ^green;позичив його^white;, якщо розумієш, про що Флоран...",
+    "value": "Перше завдання Флорана для тебе — підссступне. ^orange;<victim>^white; має гарний ^orange;<objectItem>^white; у <victim.pronoun.reflexive> домі, і Флоран хоче, щоб ти ^green;позичив його^white;, якщо розумієш, про що Флоран...",
     "path": "/scriptConfig/generatedText/text/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Давай почнемо з першого кроку. Флорану потрібна певна річ з дому сусіда ^orange;<victim>^white;. Флоран вже питав, але <victim> відмовив. Чи міг би ти ^green;непомітно проникнути та забрати блискучий ^orange;[<objectItem>]^white; для Флорана?",
+    "value": "Давай почнемо з перссшого кроку. Флорану потрібна певна річ з дому сусіда ^orange;<victim>^white;. Флоран вже питав, але <victim> відмовив. Чи міг би ти ^green;тихомссся проникнути та забрати блискучий ^orange;<objectItem>^white; для Флорана?",
     "path": "/scriptConfig/generatedText/text/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Потайки. Мені дуже потрібна певна річ; зокрема, ^orange;[<objectItem>]^white; жителя ^orange;<victim>^white;. Чи міг би ти ^green;відвідати <victim.pronoun.reflexive> дім і... здобути його для мене?^white; Я б не просив, якби це не було важливо.",
+    "value": "Скритність. Мені потрібен один предмет, а саме ^orange;<objectItem>^white; жителя ^orange;<victim>^white;. Чи міг би ти ^green;відвідати <victim.pronoun.reflexive> дім і... здобути його для мене?^white; Я б не просив, якби це не було важливо.",
     "path": "/scriptConfig/generatedText/text/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Нервово. Мені потрібно, щоб ти ^green;здобув ^orange;[<objectItem>]^white; жителя ^orange;<victim>^white;. Ми можемо знайти йому набагато краще застосування, але <victim.pronoun.subject> не віддасть його просто так... ^green;Тобі доведеться забрати його...",
+    "value": "Нервозність. Мені потрібно, щоб ти ^green;здобув ^orange;<objectItem>^white; жителя ^orange;<victim>^white;. Ми можемо знайти йому набагато краще застосування, але <victim.pronoun.subject> не віддасть його просто так... ^green;Тобі доведеться забрати його...",
     "path": "/scriptConfig/generatedText/text/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Мені потрібна одна річ, і я знаю, що ^orange;<victim>^white; тримає таку у <victim.pronoun.reflexive> домі. Мені потрібно, щоб ти ^green;непомітно проник і забрав <victim.pronoun.reflexive> ^orange;[<objectItem>]^white;, поки <victim.pronoun.subject> не бачить.",
+    "value": "Мені потрібна одна річ, і я знаю, що ^orange;<victim>^white; тримає таку у <victim.pronoun.reflexive> домі. Мені потрібно, щоб ти ^green;непомітно проник і забрав <victim.pronoun.reflexive> ^orange;<objectItem>^white;, поки <victim.pronoun.subject> не бачить.",
     "path": "/scriptConfig/generatedText/text/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Спочатку трохи дрібної крадіжки. Мені потрібно, щоб ти ^green;здобув ^orange;[<objectItem>]^white; жителя ^orange;<victim>^white;. ^green;Піди і забери його з <victim.pronoun.reflexive> дому^white;, але переконайся, що тебе ніхто не бачить.",
+    "value": "Спочатку трохи дрібної крадіжки. Мені потрібно, щоб ти ^green;здобув ^orange;<objectItem>^white; жителя ^orange;<victim>^white;. ^green;Піди і забери його з <victim.pronoun.reflexive> дому^white;, але переконайся, що тебе ніхто не бачить.",
     "path": "/scriptConfig/generatedText/text/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Наступне завдання — життєво важлива частина плану Флорана. Флорану потрібно, щоб ти ^green;відвідав дім ^orange;<victim>^green;, щоб позичити ^orange;[<objectItem>]^white;, який нам потрібен. Краще, щоб <victim> не дізнався...",
+    "value": "Наступне завдання — важливісссінька частина плану Флорана. Флорану потрібно, щоб ти ^green;відвідав дім ^orange;<victim>^green;, щоб позичити ^orange;<objectItem>^white;, який нам потрібен. Крассще не давати <victim> про це знати...",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Цей крок вимагає скритності. Флоран змушений просити тебе ^green;відвідати дім ^orange;<victim>^green;, щоб забрати один ^orange;[<objectItem>]^white;. Флоран би не просив про це, якби був інший спосіб, звичайно.",
+    "value": "Цей крок вимагає ссспритності. Флоран змушений просссити тебе ^green;відвідати дім ^orange;<victim>^green;, щоб забрати один ^orange;<objectItem>^white;. Флоран би не просссив про це, якби був інший ссспосіб, зззвісно.",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Хитро. Тепер мені потрібен певний об'єкт... А саме, ^orange;[<objectItem>]^green; в домі жителя ^orange;<victim>^green;.^white; Тобі доведеться ^green;здобути його для мене.",
+    "value": "Хитрість. Тепер мені потрібен певний предмет... А саме ^orange;<objectItem>^green; у домі жителя ^orange;<victim>^green;.^white; Тобі доведеться ^green;здобути його для мене.",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Обережно. Боюсь, ця частина вимагає чогось, що нам не належить. Тобі потрібно ^green;здобути ^orange;[<objectItem>]^green;, що знаходиться в домі жителя ^orange;<victim>^green;. ^white;Просто переконайся, що тебе не спіймають.",
+    "value": "Обережність. Боюсь, ця частина вимагає чогось, що нам не належить. Тобі потрібно ^green;здобути ^orange;<objectItem>^green;, що знаходиться в домі жителя ^orange;<victim>^green;. ^white;Просто переконайся, що тебе не спіймають.",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Як ти ставишся до крадіжки зі зломом? Я б хотів, щоб ти ^green;здобув ^orange;[<objectItem>]^green; в домі жителя ^orange;<victim>^green; для мене.",
+    "value": "Як ти ставишся до крадіжки зі зломом? Я б хотів, щоб ти ^green;здобув ^orange;<objectItem>^green; в домі жителя ^orange;<victim>^green; для мене.",
     "path": "/scriptConfig/generatedText/text/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Наступна частина вимагає чогось, що не є нашим. Нам потрібен ^orange;[<objectItem>]^green;, що знаходиться в домі жителя ^orange;<victim>^green;. Тобі треба піти і вкрасти його.",
+    "value": "Наступна частина вимагає чогось, що не є нашим. Нам потрібен ^orange;<objectItem>^green;, що знаходиться в домі жителя ^orange;<victim>^green;. Тобі треба піти і вкрасти його.",
     "path": "/scriptConfig/generatedText/text/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран знав, що ти зможеш! Очевидно, жодна робота для тебе не є надто низькою. Флоран цінує твоє ставлення.",
+    "value": "Флоран знав, що ти зможеш! Очевидно, жодна робота для тебе не є надто низькою. Флоран сссправді цінує твоє ставлення.",
     "path": "/scriptConfig/generatedText/completionText/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Тобі вдалося! Твої навички скритності набагато кращі за навички переговорів Флорана.",
+    "value": "Тобі вдалося! Твої навички ссскритності набагато кращі за вміння Флорана весссти переговори.",
     "path": "/scriptConfig/generatedText/completionText/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Вражено. Ти справді забрав [<objectItem>] у <victim>? Я думав, ти можеш злякатися. Потримай його поки в себе і переконайся, що не загубиш.",
+    "value": "Захоплення. Ти справді забрав <objectItem> у <victim>? Я думав, що ти злякаєшся. Потримай його поки в себе і переконайся, що не загубиш.",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Параноїдально. Це той [<objectItem>], який мені був потрібен. Сподіваюсь, ніхто не бачив, як ти його брав! Краще не віддавай його мені відразу. Давай трохи почекаємо.",
+    "value": "Параноя. Це той <objectItem>, який мені був потрібен. Сподіваюсь, ніхто не бачив, як ти його брав! Краще не віддавай його мені відразу. Давай трохи почекаємо.",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Гарна робота, виглядало так, ніби це було легко! Потримай цей [<objectItem>] поки в себе і переконайся, що не загубиш його!",
+    "value": "Гарна робота, виглядало так, ніби це було легко! Потримай цей <objectItem> поки в себе і переконайся, що не загубиш його!",
     "path": "/scriptConfig/generatedText/completionText/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Так, це той [<objectItem>], який я шукав! Ніхто не бачив, як ти його брав, правда?",
+    "value": "Так, це той <objectItem>, який я шукав! Ніхто не бачив, як ти його брав, правда?",
     "path": "/scriptConfig/generatedText/completionText/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Цей [<objectItem>] — саме те, що нам було потрібно! Можливо, це не найкращий спосіб здобувати речі, але ціль виправдовує засоби, чи не так?",
+    "value": "Цей <objectItem> — саме те, що нам було потрібно! Можливо, це не найкрассщий ссспосіб здобувати речі, але мета виправдовує засссоби, правда?",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Дивовижно! Не те щоб Флоран не очікував, що в тебе вийде. Цей [<objectItem>] потрібен для того, що буде далі.",
+    "value": "Дивовижно! Не те щоб Флоран не очікував, що в тебе всссе вийде. Цей <objectItem> потрібен для того, що буде далі.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Байдуже. Так, це схоже на [<objectItem>] жителя <victim>. Він не в найкращому стані, але поки що згодиться.",
+    "value": "Байдужість. Так, це схоже на <objectItem> жителя <victim>. Він не в найкращому стані, але поки що згодиться.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "В паніці. Не віддавай мені так просто цей [<objectItem>]! Думаєш, <victim> не складе два плюс два? Потримай його поки в себе.",
+    "value": "Паніка. Не віддавай мені так просто цей <objectItem>! Думаєш, <victim> не складе два плюс два? Потримай його поки в себе.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Ого, б'юся об заклад, ти б забрав усе, що не прибито цвяхами! Я не хочу попастися, якщо <victim> прийде шукати свій [<objectItem>], тому поки що потримай його в себе.",
+    "value": "Ого, б'юся об заклад, ти б забрав усе, що не прибито цвяхами! Я не хочу попастися, якщо <victim> прийде шукати свій <objectItem>, тому поки що потримай його в себе.",
     "path": "/scriptConfig/generatedText/completionText/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Не махай цим [<objectItem>] біля мене! Ми ж не хочемо, щоб <victim> прийшов його шукати.",
+    "value": "Не махай цим <objectItem> біля мене! Ми ж не хочемо, щоб <victim> прийшов його шукати.",
     "path": "/scriptConfig/generatedText/completionText/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Вкради [<objectItem>] у <victim>",
+    "value": "Вкради <objectItem> у <victim>",
     "path": "/scriptConfig/objectives/0/text",
     "op": "replace"
   },
   {
-    "value": "Повернись до <questGiver>",
+    "value": "Повернися до <questGiver>",
     "path": "/scriptConfig/objectives/1/text",
     "op": "replace"
   }

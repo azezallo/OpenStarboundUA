@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "У цій дерев'яній скрині я відчуваю себе деревом."
+    "value": "Ця дерев'яна скриня змушує мене відчувати себе деревом."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Сорочка Rainbow Wood"
+    "value": "Сорочка райдужного дерева"
   }
 ]

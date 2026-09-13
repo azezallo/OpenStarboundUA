@@ -1,71 +1,71 @@
 [
   {
-    "value": "Сутінковий",
+    "value": "Порушник! Геть зі священної землі!",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Потоковий",
+    "value": "Зупинись тут!",
     "path": "/scriptConfig/dialog/attack/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Вітряний",
+    "value": "Ти позбавляєш честь Клуекса!",
     "path": "/scriptConfig/dialog/attack/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Атомний",
+    "value": "Тебе тут не приймають, чужинець!",
     "path": "/scriptConfig/dialog/attack/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Астральний",
+    "value": "Сьогодні Клуекс отримує ще одну душу!",
     "path": "/scriptConfig/dialog/attack/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Кометний",
+    "value": "Гнів Клуекса упаде на тебе!",
     "path": "/scriptConfig/dialog/attack/default/default/5",
     "op": "replace"
   },
   {
-    "value": "Захисний",
+    "value": "Сила Клуекса змушує мене вбити тебе!",
     "path": "/scriptConfig/dialog/attack/default/default/6",
     "op": "replace"
   },
   {
-    "value": "Виючий",
+    "value": "Порушник! Геть зі священної землі!",
     "path": "/scriptConfig/dialog/attack/avian/default/0",
     "op": "replace"
   },
   {
-    "value": "Імпульсний",
+    "value": "Зупинись тут!",
     "path": "/scriptConfig/dialog/attack/avian/default/1",
     "op": "replace"
   },
   {
-    "value": " обріз",
+    "value": "Ти позбавляєш честь Клуекса!",
     "path": "/scriptConfig/dialog/attack/avian/default/2",
     "op": "replace"
   },
   {
-    "value": " дробовик",
+    "value": "Тебе тут не приймають, чужинець!",
     "path": "/scriptConfig/dialog/attack/avian/default/3",
     "op": "replace"
   },
   {
-    "value": " ствол",
+    "value": "Сьогодні Клуекс отримує ще одну душу!",
     "path": "/scriptConfig/dialog/attack/avian/default/4",
     "op": "replace"
   },
   {
-    "value": " розпилювач",
+    "value": "Гнів Клуекса упаде на тебе!",
     "path": "/scriptConfig/dialog/attack/avian/default/5",
     "op": "replace"
   },
   {
-    "value": " стопор",
+    "value": "Сила Клуекса змушує мене вбити тебе!",
     "path": "/scriptConfig/dialog/attack/avian/default/6",
     "op": "replace"
   }

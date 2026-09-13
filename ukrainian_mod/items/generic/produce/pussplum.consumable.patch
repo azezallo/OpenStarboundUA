@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Слива, дехто стверджує, що вона дуже смачна!"
+    "value": "Пуссплум, деякі вважають, що він дуже смачний!"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "слива"
+    "value": "Пуссплум"
   }
 ]

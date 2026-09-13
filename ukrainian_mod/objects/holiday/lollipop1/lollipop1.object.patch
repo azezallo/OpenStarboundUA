@@ -17,22 +17,22 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Величезний льодяник. смачно"
+    "value": "Величезний льодяник. Смачний."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран їсть дуже солодко!"
+    "value": "Флоран їсть великий сссладкий!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вхідний. Гігантський льодяник."
+    "value": "Зачарований. Гігантський льодяник."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Час для цукру!"
+    "value": "Час для цукрового сплеску!"
   },
   {
     "op": "replace",

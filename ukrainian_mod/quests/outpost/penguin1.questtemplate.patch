@@ -35,7 +35,7 @@
     "op": "replace"
   },
   {
-    "value": "Повернися до ^orange;Бармена^reset; на ^orange;Аванпост^reset;",
+    "value": "Повернися до ^orange;Бармена^reset; на ^orange;Форпост^reset;",
     "path": "/scriptConfig/descriptions/turnIn",
     "op": "replace"
   }

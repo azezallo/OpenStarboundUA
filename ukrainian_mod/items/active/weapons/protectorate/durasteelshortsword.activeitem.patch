@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Цей короткий меч викуваний із твердої дюрастелі."
+    "value": "Цей короткий меч виготовлений із твердого дюрасталя."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Короткий меч Durasteel"
+    "value": "Короткий меч Дюрасталь"
   }
 ]

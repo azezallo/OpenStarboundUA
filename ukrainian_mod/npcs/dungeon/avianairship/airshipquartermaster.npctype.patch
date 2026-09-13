@@ -1,16 +1,16 @@
 [
   {
-    "value": "То що тобі потрібно?",
+    "value": "То що тобі треба?",
     "path": "/scriptConfig/dialog/merchant/start/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Що-небудь пригледілося?",
+    "value": "Чимось привернуло твій погляд?",
     "path": "/scriptConfig/dialog/merchant/start/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Торгуймо!",
+    "value": "Давай торгувати!",
     "path": "/scriptConfig/dialog/merchant/start/default/default/2",
     "op": "replace"
   },
@@ -20,27 +20,27 @@
     "op": "replace"
   },
   {
-    "value": "У мене все тільки найкраще.",
+    "value": "Нічого, лише найкраще.",
     "path": "/scriptConfig/dialog/merchant/start/default/default/4",
     "op": "replace"
   },
   {
-    "value": "У мене є дещо, що тобі знадобиться.",
+    "value": "У мене є щось корисне для тебе.",
     "path": "/scriptConfig/dialog/merchant/start/default/default/5",
     "op": "replace"
   },
   {
-    "value": "То що тобі потрібно?",
+    "value": "То що тобі треба?",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/0",
     "op": "replace"
   },
   {
-    "value": "Що-небудь пригледілося?",
+    "value": "Чимось привернуло твій погляд?",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/1",
     "op": "replace"
   },
   {
-    "value": "Торгуймо!",
+    "value": "Давай торгувати!",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/2",
     "op": "replace"
   },
@@ -50,62 +50,62 @@
     "op": "replace"
   },
   {
-    "value": "У мене все тільки найкраще.",
+    "value": "Нічого, лише найкраще.",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/4",
     "op": "replace"
   },
   {
-    "value": "У мене є дещо, що тобі знадобиться.",
+    "value": "У мене є щось корисне для тебе.",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/5",
     "op": "replace"
   },
   {
-    "value": "Заглядай, якщо щось знадобиться!",
+    "value": "Приходь до нас, коли потрібні ще припаси!",
     "path": "/scriptConfig/dialog/merchant/end/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Якщо щось потрібно - тільки скажи!",
+    "value": "Щось ще треба? Зайди до мене!",
     "path": "/scriptConfig/dialog/merchant/end/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Якщо у тебе є пікселі, то товар тобі забезпечений.",
+    "value": "Якщо у тебе є пікселі, ми маємо товари.",
     "path": "/scriptConfig/dialog/merchant/end/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Заглядай, якщо щось знадобиться!",
+    "value": "Приходь до нас, коли потрібні ще припаси!",
     "path": "/scriptConfig/dialog/merchant/end/avian/default/0",
     "op": "replace"
   },
   {
-    "value": "Якщо щось потрібно - тільки скажи!",
+    "value": "Щось ще треба? Зайди до мене!",
     "path": "/scriptConfig/dialog/merchant/end/avian/default/1",
     "op": "replace"
   },
   {
-    "value": "Якщо у тебе є пікселі, то товар тобі забезпечений.",
+    "value": "Якщо у тебе є пікселі, ми маємо товари.",
     "path": "/scriptConfig/dialog/merchant/end/avian/default/2",
     "op": "replace"
   },
   {
-    "value": "Хочеш поторгувати? Ходімо за мною.",
+    "value": "Хочеш торгувати? Підійди за мною.",
     "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Потрібні припаси? Я можу допомогти! Ходімо зі мною.",
+    "value": "Потрібні ще припаси? Я можу допомогти! Ходімо зі мною.",
     "path": "/scriptConfig/dialog/merchant/follow/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Ах, то тобі потрібні припаси? Прямуй за мною!",
+    "value": "Ах, тобі потрібні припаси, так? Заходь за мною!",
     "path": "/scriptConfig/dialog/merchant/follow/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Ось ми і прийшли!",
+    "value": "Ось ми й прийшли!",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
     "op": "replace"
   },
@@ -120,12 +120,12 @@
     "op": "replace"
   },
   {
-    "value": "Потрібні медикаменти? Я можу підсобити з цим!",
+    "value": "Потрібні запаси? Я можу допомогти з цим!",
     "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Якщо шукаєш, що прикупити, то у мене тут крамничка!",
+    "value": "Якщо це запаси, які шукаєш, то у мене тут крамниця!",
     "path": "/scriptConfig/dialog/merchant/tout/default/default/1",
     "op": "replace"
   }

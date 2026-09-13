@@ -1,26 +1,26 @@
 [
   {
-    "value": "  Геологічний торговець",
+    "value": "Геологічний торговець",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
     "op": "replace"
   },
   {
-    "value": "  Продаж матеріалів!",
+    "value": "Продає матеріали для будівництва!",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
     "op": "replace"
   },
   {
-    "value": "Дружелюбно. Ти не хочеш придбати кілька каменів? У мене їх багато!",
+    "value": "Дружелюбний. Хочеш купити каміння? У мене їх багато!",
     "path": "/scriptConfig/dialog/merchant/start/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Понуро. Ніхто не хоче купувати мої камені... А ти?",
+    "value": "Печальний. Ніхто не хоче купувати мої камені... А ти?",
     "path": "/scriptConfig/dialog/merchant/start/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Азартно. Можливо, тебе зацікавлять мої камені?",
+    "value": "Захоплений. Можливо, тебе зацікавлять мої камені?",
     "path": "/scriptConfig/dialog/merchant/start/default/default/2",
     "op": "replace"
   },

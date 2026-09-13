@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
-    "value": "  Agaran Merchant"
+    "value": "Агаранський торговець"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
-    "value": "Shroomy продавець продає речі"
+    "value": "Shroomy продавець, що продає речі"
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Snuffish"
+    "value": "Снаффіш"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "They attack anyone that surprises them, and they're easily surprised."
+    "value": "Вони нападають на кожного, хто їх здивує, а здивувати їх дуже легко."
   }
 ]

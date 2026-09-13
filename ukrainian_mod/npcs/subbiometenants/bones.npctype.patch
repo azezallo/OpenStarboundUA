@@ -1,31 +1,31 @@
 [
   {
-    "value": "  Кістяний майстер",
+    "value": "Кістяний майстер",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
     "op": "replace"
   },
   {
-    "value": "  Продаж речей з кісток...",
+    "value": "Продає речі, зроблені з кісток...",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
     "op": "replace"
   },
   {
-    "value": "Хочеш трохи кісссток?",
+    "value": "Хочеш трохи кісток?",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Заходь, купуй речі флорана.",
+    "value": "Заходь, купи деякі мої речі.",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Кіссстки відженуть твоїх ворогів!",
+    "value": "Кістки тримають ворогів на відстані!",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "У флорана є кіссстки на продаж!",
+    "value": "У Флорана є кіссстки на продаж!",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/3",
     "op": "replace"
   },
@@ -40,7 +40,7 @@
     "op": "replace"
   },
   {
-    "value": "Бережи сссебе. Це ссстрашний світ.",
+    "value": "Бережи ссебе. Це ссстрашний світ.",
     "path": "/scriptConfig/dialog/merchant/end/floran/default/2",
     "op": "replace"
   },
@@ -50,12 +50,12 @@
     "op": "replace"
   },
   {
-    "value": "Йди за флораном, крамниця тууут!",
+    "value": "Йди за флораном, крамниця тут!",
     "path": "/scriptConfig/dialog/merchant/follow/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Флоран - професссійний кіссстяний майссстер. Сссюди.",
+    "value": "Флоран - профессійний кіссстяний майссстер. Сссюди.",
     "path": "/scriptConfig/dialog/merchant/follow/floran/default/1",
     "op": "replace"
   },

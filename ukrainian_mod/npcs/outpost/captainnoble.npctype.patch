@@ -1,26 +1,26 @@
 [
   {
-    "value": "Капітан Нобл",
+    "value": "Капітан Ноубл",
     "path": "/npcname",
     "op": "replace"
   },
   {
-    "value": "Капітан Нобл",
+    "value": "Капітан Ноубл",
     "path": "/identity/name",
     "op": "replace"
   },
   {
-    "value": "Привіт, офіцере <entityname>! Як завжди, добре побився?",
+    "value": "Привіт, офіцере <entityname>! Як завжди, ведеш добру боротьбу?",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Привіт, офіцере <entityname>! Сильно навантажений роботою?",
+    "value": "Привіт, офіцере <entityname>! Як ти відчуваєш навантаження?",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Завжди тримай голову високо піднятою, офіцере <entityname>!",
+    "value": "Завжди тримай голову вгору, офіцере <entityname>!",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "op": "replace"
   }

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Сніжинка сюрікен"
+    "value": "Сніжинка шурікен"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Сюрікен із крижаних сніжинок."
+    "value": "Шурикен із крижаних сніжинок"
   }
 ]

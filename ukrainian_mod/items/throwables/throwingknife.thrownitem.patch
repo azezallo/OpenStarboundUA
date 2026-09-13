@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Метальний ніж"
+    "value": "Кинний ніж"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Метання цього ножа вимагає ретельної точності."
+    "value": "Кидати цей ніж вимагає ретельної точності."
   }
 ]

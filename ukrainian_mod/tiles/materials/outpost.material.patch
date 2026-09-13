@@ -2,26 +2,26 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Outpost Wall"
+    "value": "Стіна форпоста"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стіновий матеріал, який зазвичай використовується в космічних аванпостах."
+    "value": "Стіновий матеріал, який зазвичай використовується в космічних форпостах."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Familiar. I have seen this material used in space outposts before."
+    "value": "Знайомий. Я бачив, як цей матеріал використовується на космічних форпостах раніше."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Тверда металева передня стіна."
+    "value": "Тверда металева стіна форпоста"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Якась стіна форпосту."
+    "value": "Деяка стіна форпоста"
   }
 ]

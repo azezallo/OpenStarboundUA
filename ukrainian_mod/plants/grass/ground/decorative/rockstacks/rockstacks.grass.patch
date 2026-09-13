@@ -7,16 +7,16 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "A pile of rocks."
+    "value": "Купа каміння."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Rocksss."
+    "value": "Сскелі."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. A pile of rocks."
+    "value": "Заява. Купа каміння."
   }
 ]

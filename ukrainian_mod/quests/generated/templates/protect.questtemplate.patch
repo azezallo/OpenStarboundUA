@@ -5,7 +5,7 @@
     "op": "replace"
   },
   {
-    "value": "темну, страшну печеру",
+    "value": "темну страшну печеру",
     "path": "/parameters/spawnPoint/example/name",
     "op": "replace"
   },
@@ -20,87 +20,87 @@
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран хоче, щоб <target> був на нашому боццці. У флорана є невеличкий план, як це зробити.",
+    "value": "^cyan;Флоран хоче, щоб <target> був на нашій сссстороні. Флоран має невеличкий план, як це зззробити.",
     "path": "/scriptConfig/generatedText/goalText/floran/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран хочеее, щоб <target> був винен флорану послугу.",
+    "value": "^cyan;Флоран хоче, щоб <target> заборгував Флорану поссслугу.",
     "path": "/scriptConfig/generatedText/goalText/floran/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Стурбовано. Я хочу завоювати прихильність <target>, а тепер я чую, що <target.pronoun.subject> у небезпеці.",
+    "value": "^cyan;Хвилювання. Я хочу завоювати прихильність <target>, а тепер чую, що <target.pronoun.subject> у небезпеці.",
     "path": "/scriptConfig/generatedText/goalText/glitch/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Енергійно. Я маю відомості, що <target> може бути в небезпеці - І це може бути шансом здобути <target.pronoun.possessiveDet> прихильність.",
+    "value": "^cyan;Нетерпіння. Я маю відомості, що <target> може бути в небезпеці — і це може бути шансом здобути <target.pronoun.possessiveDet> прихильність.",
     "path": "/scriptConfig/generatedText/goalText/glitch/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Я чув, що <target> може бути в біді - Якщо я допоможу <target.pronoun.object>, <target.pronoun.subject> може більше довіряти мені!",
+    "value": "^cyan;Я чув, що <target> може бути в біді — якщо я допоможу <target.pronoun.object>, <target.pronoun.subject> може більше довіряти мені!",
     "path": "/scriptConfig/generatedText/goalText/default/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Я отримав інформацію, що <target> у небезпеці. Якщо я допоможу <target.pronoun.object>, <target.pronoun.subject> може ставитись до мене краще!",
+    "value": "^cyan;Я отримав інформацію, що <target> у небезпеці. Якщо я допоможу <target.pronoun.object>, <target.pronoun.subject> може ставитися до мене краще!",
     "path": "/scriptConfig/generatedText/goalText/default/1",
     "op": "replace"
   },
   {
-    "value": "Флоран знає, що ^orange;<threat>^white; біля ^orange;<spawnPoint>^white;<spawnPoint.direction> шукають ^orange;<target>^white;. Флорану потрібно, щоб <target.pronoun.subject> був живий для плану, тож переконайссся, що ти ^green;захистиш <target.pronoun.object>^white;.",
+    "value": "Флоран знає, що ^orange;<threat>^green; біля ^orange;<spawnPoint>^white;<spawnPoint.direction> шукають ^orange;<target>. ^white;Флорану потрібно, щоб <target.pronoun.subject> був живий для плану, тож переконайссся, що ти ^green;захистиш <target.pronoun.object>^white;.",
     "path": "/scriptConfig/generatedText/text/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран чув, що ^orange;<target>^white; розлютив ^orange;<threat>^white;, і вони йдуть сюди від ^orange;<spawnPoint>^white;<spawnPoint.direction>! Флоран хоче, щоб ти ^green;захистив <target.pronoun.object>^white;.",
+    "value": "Флоран чув, що ^orange;<target> ^green;россслютив <threat>, і вони йдуть сюди від ^orange;<spawnPoint>^white;<spawnPoint.direction>! ^white;Флоран хоче, щоб ти ^green;захиссстив <target.pronoun.object>^white;.",
     "path": "/scriptConfig/generatedText/text/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Напружено. Я чув розмови про ^orange;<threat>^white;, що наближаються від ^orange;<spawnPoint>^white;<spawnPoint.direction>, і вважаю, що вони йдуть за ^orange;<target>^white;. ^green;Ти можеш допомогти захистити <target.pronoun.object> від <target.pronoun.possessiveDet> ворогів?^white;",
+    "value": "Напруга. Я чув розмови про те, що ^orange;<threat>^white; наближаються від ^orange;<spawnPoint>^white;<spawnPoint.direction>, і вважаю, що вони йдуть за ^orange;<target>^white;. ^green;Чи можеш ти допомогти захистити <target.pronoun.object> від <target.pronoun.possessiveDet> ворогів?^white;",
     "path": "/scriptConfig/generatedText/text/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Палко. У мене є підстави вважати, що ^orange;<threat>^white; біля ^orange;<spawnPoint>^white;<spawnPoint.direction> йдуть за ^orange;<target>^white;. ^green;Ти мусиш допомогти захистити <target.pronoun.object>^white;!",
+    "value": "Палкість. У мене є підстави вважати, що ^orange;<threat>^white; біля ^orange;<spawnPoint>^white;<spawnPoint.direction> йдуть за ^orange;<target>^white;. ^green;Ти мусиш допомогти захистити <target.pronoun.object>^white;!",
     "path": "/scriptConfig/generatedText/text/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "По-перше, нам потрібно розібратися з ^orange;<threat>^white;, які йдуть сюди від ^orange;<spawnPoint>^white;<spawnPoint.direction>. Я чув, що вони шукають ^orange;<target>^white;! ^green;Зроби все можливе, щоб відбити їх.^white; <target.pronoun.capitalSubject> потребує нашого захисту!",
+    "value": "По-перше, нам потрібно розібратися з ^orange;<threat>^white;, які йдуть сюди від ^orange;<spawnPoint>^white;<spawnPoint.direction>. Я чув, що вони полюють на ^orange;<target>^white;! ^green;Зроби все можливе, щоб відбити їх.^white; <target.pronoun.capitalSubject> потребує нашого захисту!",
     "path": "/scriptConfig/generatedText/text/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Перше завдання просте; йди до ^orange<spawnPoint>^white;<spawnPoint.direction> і переконайся, що ці ^orange<threat>^white; не досягнуть успіху в своїй атаці на ^orange;<target>^white;! ^green;Захисти <target.pronoun.object> за будь-яку ціну!^white;",
+    "value": "Перше завдання просте; йди до ^orange<spawnPoint>^white;<spawnPoint.direction> і переконайся, що ці ^orange<threat>^white; не досягнуть успіху в своїй атаці на ^orange;<target>^white;! ^green;Захисти <target.pronoun.object>^green; за будь-яку ціну!^white;",
     "path": "/scriptConfig/generatedText/text/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Наступна частина не така проссста. Флоран чув, що ^orange;<threat>^white; біля <spawnPoint><spawnPoint.direction> ^green;йдуть за ^orange;<target>.^white; Флорану потрібно, щоб ти ^green;зупинив їх^white;.",
+    "value": "Наступна частина не така проссста. Флоран чув, що ^orange;<threat>^white; біля <spawnPoint><spawnPoint.direction> ^green;йдуть за ^orange;<target>.^white; Флорану потрібно, щоб ти ^green;ссспинив їх^white;.",
     "path": "/scriptConfig/generatedText/text/next/floran/0",
     "op": "replace"
   },
   {
-    "value": "Наступна частина саме вчасссно. Флоран чув чутки, що ^orange;<threat>^white; від <spawnPoint><spawnPoint.direction> ^green;йдуть нашкодити ^orange;<target>.^white; Флоран хоче, щоб ти ^green;захистив ^orange;<target> ^green;від ^orange;<threat>^white;.",
+    "value": "Наступна частина саме вчасссно. Флоран чув чутки, що ^orange;<threat>^white; від <spawnPoint><spawnPoint.direction> ^green;йдуть нашкодити ^orange;<target>.^white; Флоран хоче, щоб ти ^green;захиссстив ^orange;<target> ^green;від ^orange;<threat>^white;.",
     "path": "/scriptConfig/generatedText/text/next/floran/1",
     "op": "replace"
   },
   {
-    "value": "Схвильовано. Я отримав наводку, що ^orange;<threat>^white; йдуть через ^orange;<spawnPoint>^white;<spawnPoint.direction>, щоб напасти на <target>! ^green;Якщо ти допоможеш мені захистити <target.pronoun.object>,^white; я буду надзвичайно вдячний!",
+    "value": "Збентеження. Я отримав наводку, що ^orange;<threat>^white; йдуть через ^orange;<spawnPoint>^white;<spawnPoint.direction>, щоб напасти на <target>! ^green;Якщо ти допоможеш мені захистити <target.pronoun.object>,^white; я буду надзвичайно вдячний!",
     "path": "/scriptConfig/generatedText/text/next/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Стривожено. Я отримав інформацію, що ^orange;<threat>^white; наближаються через ^orange;<spawnPoint>^white;<spawnPoint.direction> і йдуть напасти на ^orange;<target>^white;. ^green;Якщо ти допоможеш мені врятувати <target.pronoun.object>,^white; я можу заслужити <target.pronoun.possessiveDet> вдячність.",
+    "value": "Хвилювання. Я отримав інформацію, що ^orange;<threat>^white; наближаються через ^orange;<spawnPoint>^white;<spawnPoint.direction> і йдуть напасти на ^orange;<target>^white;. ^green;Якщо ти допоможеш мені врятувати <target.pronoun.object>,^white; я можу заслужити <target.pronoun.possessiveDet> вдячність.",
     "path": "/scriptConfig/generatedText/text/next/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Далі ^green;нам потрібно буде захиститися від наступаючих ^orange;<threat>^white; від ^orange;<spawnPoint>^white;<spawnPoint.direction>. Я чув, що їхня ціль - ^orange;<target>^white;. Якщо ми покажемо, що готові ризикувати життям, щоб ^green;захистити <target>^white;, то <target.pronoun.subject> знатиме, що може нам довіряти.",
+    "value": "Далі ^green;нам потрібно буде захиститися від наступаючих ^orange;<threat>^white; від ^orange;<spawnPoint>^white;<spawnPoint.direction>. Я чув, що їхня ціль — ^orange;<target>^white;. Якщо ми покажемо, що готові ризикувати життям, щоб ^green;захистити <target>^white;, то <target.pronoun.subject> знатиме, що може нам довіряти.",
     "path": "/scriptConfig/generatedText/text/next/default/0",
     "op": "replace"
   },
@@ -110,22 +110,22 @@
     "op": "replace"
   },
   {
-    "value": "Флоран, можливо, сказав ^orange;<threat>^white;, що <target> ховається тут. Флоран знає, що вони шукали <target.pronoun.object> деякий час біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Щоб план спрацював, ти мусиш ^green;вберегти ^orange;<target>^green;^white;. Зроби це, і всі виграють.",
+    "value": "Флоран, можливо, сказав ^orange;<threat>^white;, що <target> ховаєтьсся тут. Флоран знає, що вони шукали <target.pronoun.object> деякий час біля ^orange;<spawnPoint>^white;<spawnPoint.direction>. Щоб план сспрацював, ти мусиш ^green;вберегти ^orange;<target> ^green;у безпеці^white;. Зроби це, і всссі виграють.",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран знає, що ^orange;<target>^white; перейшов дорогу ^orange;<threat>^white;, і вони будуть тут від ^orange;<spawnPoint>^white;<spawnPoint.direction> з хвилини на хвилину! Але якщо Флоран допоможе <target>, то <target.pronoun.subject> буде винен Флорану послугу, тож ^green;будь ласка, захисти <target.pronoun.object> від ворогів^white;.",
+    "value": "Флоран знає, що ^orange;<target>^white; перейшов дорогу ^orange;<threat>^white;, і вони будуть тут від ^orange;<spawnPoint>^white;<spawnPoint.direction> з хвилини на хвилину! Але якщо Флоран допоможе <target>, то <target.pronoun.subject> буде винен Флорану поссслугу, тож ^green;будь лассска, захисти <target.pronoun.object> від ворогів^white;.",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Напружено. Мене проінформували, що ^orange;<threat>^white; наближаються від ^orange;<spawnPoint>^white;<spawnPoint.direction> - і ^orange;<target>^white; їхня ціль! ^green;Чи можеш ти допомогти мені захистити <target.pronoun.possessiveDet> життя?^white;",
+    "value": "Напруга. Мене проінформували, що ^orange;<threat>^white; наближаються від ^orange;<spawnPoint>^white;<spawnPoint.direction> — і ^orange;<target>^white; є їхньою ціллю! ^green;Чи можеш ти допомогти мені захистити <target.pronoun.possessiveDet> життя?^white;",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Неспокійно. Я отримав звістку, що ^orange;<threat>^white; біля ^orange;<spawnPoint>^white;<spawnPoint.direction> йдуть за ^orange;<target>^white;! ^green;Ти мусиш допомогти мені захистити <target.pronoun.object>^white;, поки не пізно!",
+    "value": "Неспокій. Я отримав звістку, що ^orange;<threat>^white; біля ^orange;<spawnPoint>^white;<spawnPoint.direction> йдуть за ^orange;<target>^white;! ^green;Ти мусиш допомогти мені захистити <target.pronoun.object>^white;, поки не пізно!",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
@@ -140,22 +140,22 @@
     "op": "replace"
   },
   {
-    "value": "Молодець, план Флорана працює ідеально! <target> не повинен знати, що Флоран розповів <threat>, де <target.pronoun.subject> ховався...",
+    "value": "Молодець, план Флорана сспрацював ідеально! <target> не повинен знати, що Флоран розповів <threat>, де <target.pronoun.subject> ссховався...",
     "path": "/scriptConfig/generatedText/completionText/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Хороша робота, ти врятував <target>! Гарні навички захисту.",
+    "value": "Хороша робота, ти врятував <target>! Гарні навички захисссту.",
     "path": "/scriptConfig/generatedText/completionText/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "З полегшенням. <target> тепер у безпеці - і пов'язаний честю допомогти мені в майбутньому. Дякую!",
+    "value": "Полегшення. <target> тепер у безпеці — і зобов'язаний честю допомогти мені в майбутньому. Дякую!",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Вдячно. Завдяки тобі, <target> у безпеці. <target.pronoun.capitalSubject> також пов'язаний честю допомогти мені, якщо я покличу <target.pronoun.object>.",
+    "value": "Вдячність. Завдяки тобі, <target> у безпеці. <target.pronoun.capitalSubject> також зобов'язаний честю допомогти мені, якщо я покличу <target.pronoun.object>.",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/1",
     "op": "replace"
   },
@@ -170,27 +170,27 @@
     "op": "replace"
   },
   {
-    "value": "Флоран вражений твоїми бойовими навичками. <threat> цього не очікували!",
+    "value": "Флоран сссправді вражений твоїми бойовими навичками захисту. <threat> цього не очікували!",
     "path": "/scriptConfig/generatedText/completionText/next/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран вражений. На щастя для <target>, чутки були правдивими, б'юся об заклад, ці <threat> не очікували цього!",
+    "value": "Флоран вражений. На ссщастя для <target>, чутки виявилиссся правдивими, б'юся об заклад, ці <threat> цього не очікували!",
     "path": "/scriptConfig/generatedText/completionText/next/floran/1",
     "op": "replace"
   },
   {
-    "value": "Безмежно радісно. Ти допоміг захистити <target>! <target.pronoun.capitalSubject> винен мені послугу за порятунок <target.pronoun.possessiveDet> життя - я впевнений, це стане в нагоді.",
+    "value": "Радість. Ти допоміг захистити <target>! <target.pronoun.capitalSubject> винен мені послугу за порятунок <target.pronoun.possessiveDet> життя — я впевнений, це стане в пригоді.",
     "path": "/scriptConfig/generatedText/completionText/next/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Вражено. Ти врятував <target>! Можливо, ти зробив більшу частину роботи, але <target.pronoun.subject> все ще винен мені послугу за те, що я повідомив тебе. Дякую за допомогу!",
+    "value": "Захоплення. Ти врятував <target>! Можливо, ти зробив більшу частину роботи, але <target.pronoun.subject> все ще винен мені послугу за те, що я повідомив тебе. Дякую за допомогу!",
     "path": "/scriptConfig/generatedText/completionText/next/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Ти швидко розібрався з цими <threat>! Ми також заслужили довіру <target>. Я впевнений, що це буде корисно!",
+    "value": "Ти швидко розібрався з цими <threat>! Ми також заслужили довіру <target>. Я впевнений, що це стане в пригоді!",
     "path": "/scriptConfig/generatedText/completionText/next/default/0",
     "op": "replace"
   },
@@ -200,27 +200,27 @@
     "op": "replace"
   },
   {
-    "value": "Успіх! <target> почувається в боргу перед Флораном! <target.pronoun.capitalSubject> знає, що я сказав тобі зупинити <threat>. Флоран не ділився іншими деталями...",
+    "value": "Уссспіх! <target> почувається в боргу перед Флораном! <target.pronoun.capitalSubject> знає, що Флоран сссказав тобі ссспинити <threat>. Флоран не ділився іншими деталями...",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Успіх! <target> оцінив захист. Тепер <target.pronoun.subject> винен Флорану послугу!",
+    "value": "Уссспіх! <target> оцінив захиссст. Тепер <target.pronoun.subject> винен Флорану поссслугу!",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Вражено. Ти справді галантний Лицар! Завдяки тобі <target> у безпеці, і <target.pronoun.subject> зобов'язаний допомогти мені, якщо я коли-небудь покличу <target.pronoun.object>.",
+    "value": "Захоплення. Ти справді шляхетний лицар! Завдяки тобі <target> у безпеці, і <target.pronoun.subject> зобов'язаний допомогти мені, якщо я коли-небудь покличу <target.pronoun.object>.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Сповнено ентузіазму. Ти переміг <threat> і врятував <target>! Ти, без сумніву, шляхетний воїн! І <target.pronoun.subject>, без сумніву, в боргу переді мною!",
+    "value": "Піднесення. Ти переміг <threat> і врятував <target>! Ти, без сумніву, шляхетний воїн! І <target.pronoun.subject>, без сумніву, в боргу переді мною!",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Хахаха, <threat> нам не рівня... е-е, тобто тобі. Я думаю, це заслужило нам довіру <target>!",
+    "value": "Хахаха, <threat> нам не рівня... е-е, тобто тобі. Я думаю, це принесло нам довіру <target>!",
     "path": "/scriptConfig/generatedText/completionText/default/default/0",
     "op": "replace"
   },

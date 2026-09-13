@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Базові вольфрамові двері."
+    "value": "Базова вольфрамова двер'я"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Вольфрамові двері"
+    "value": "Вольфрамова двер'я"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Ці двері є відносно безпечними."
+    "value": "Ця двер'я відносно безпечна."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Досить міцний для базових дверей."
+    "value": "Досить міцна для базової двері."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран ховається за дверима. Вискочити. Ssstab!"
+    "value": "Флоран ховаєтьссся за дверима. Виссскакує. Шссстрик!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Схвалення. Корисні, базові двері."
+    "value": "Схвалення. Корисна, базова двер'я"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Міцні вольфрамові двері."
+    "value": "Міцне вольфрамове двер'я"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Звичайні двері справляються зі своєю роботою."
+    "value": "Проста двер'я виконує свою роботу, як треба."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Просто двері, я думаю, виконує свою роботу."
+    "value": "Проста двері, я думаю, виконує свою роботу."
   }
 ]

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Pipkin"
+    "value": "Піпкін"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Despite appearing friendly, it is rarely seen interacting with other Pipkin."
+    "value": "Попри дружелюбний вигляд, його рідко можна побачити за взаємодією з іншими піпкінами."
   }
 ]

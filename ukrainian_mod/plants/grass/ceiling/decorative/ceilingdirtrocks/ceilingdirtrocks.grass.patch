@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Брудні скелі."
+    "value": "Брудні скелі"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Брудні скелі."
+    "value": "Брудні скелі"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Бруд rocksss!"
+    "value": "Брудні скелі!"
   },
   {
     "op": "replace",

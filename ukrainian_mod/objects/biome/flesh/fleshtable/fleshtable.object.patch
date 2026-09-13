@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floran ssstab стіл випадково."
+    "value": "Флоран ссстаб стіл випадково."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Ой давай. справді?"
+    "value": "Ой давай. Справді?"
   },
   {
     "op": "replace",

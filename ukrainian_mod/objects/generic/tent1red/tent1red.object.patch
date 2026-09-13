@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Намет Червоний купол"
+    "value": "Червоний купольний намет"
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Маленький зелений хусс."
+    "value": "Маленька зелена хата"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "роздратований. Немає багато місця."
+    "value": "Роздратований. Немає багато місця."
   },
   {
     "op": "replace",
@@ -37,11 +37,11 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Я не дуже пишаюся тим, що спати в наметі."
+    "value": "Я не дуже пишаюсь тим, що сплю в наметі."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Не надто просторо, але підійде."
+    "value": "Не надто просторе, але підійде."
   }
 ]

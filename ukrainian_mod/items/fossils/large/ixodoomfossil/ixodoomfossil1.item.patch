@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'янілий череп Іксодум."
+    "value": "Скам'янілений череп Іксодома"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Череп іксодум"
+    "value": "Череп Іксодома"
   },
   {
     "op": "replace",
     "path": "/completeSetDescriptions/shortdescription",
-    "value": "Викопний іксодум"
+    "value": "Фосил Іксодома"
   },
   {
     "op": "replace",

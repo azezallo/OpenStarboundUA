@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Душ. Ідеально підходить для чистого відпочинку."
+    "value": "Душ. Ідеально, щоб вийти чистим із води."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Капає тюремний душ"
+    "value": "Тюремний душ, що капає"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Зараз я міг би прийняти душ."
+    "value": "Не завадило б зараз прийняти душ."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Якби тільки я мав час для гарячого душу."
+    "value": "Якби ж у мене був час на гарячий душ."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "З душу капає іржава вода."
+    "value": "З душу ссскрапує іржава водиссчка."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Незручно. Душ і глюк не змішуються."
+    "value": "Дискомфорт. Душ і Глітчі не сумісні."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Я б прийняв душ, але мій спів міг би насторожити ворогів."
+    "value": "Я б прийняв душ, але мій спів може привабити ворогів."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Дотик води був би зараз благословенням."
+    "value": "Дотик води зараз був би благословенням."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ах, душ."
+    "value": "О, душ, файна річ, леґіню."
   }
 ]

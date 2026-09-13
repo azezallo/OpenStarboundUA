@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Кінчики його ніг покриті снігом."
+    "value": "Кінчики його лапок укриті снігом."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Сніговик"
+    "value": "Снігоковзан"
   }
 ]

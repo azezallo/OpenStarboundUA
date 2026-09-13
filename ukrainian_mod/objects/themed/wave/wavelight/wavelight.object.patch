@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Цікава лампа з отвором для рук."
+    "value": "Цікава лампа з отвором для сссвоїх рук."
   },
   {
     "op": "replace",
@@ -32,16 +32,16 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Синій, сучасний світильник."
+    "value": "Синій сучасний світильник."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Сучасне джерело світла."
+    "value": "Джерело світла сучасного вигляду."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Це стане в нагоді, коли стемніє."
+    "value": "Файно згодиться, коли стемніє, легінь."
   }
 ]

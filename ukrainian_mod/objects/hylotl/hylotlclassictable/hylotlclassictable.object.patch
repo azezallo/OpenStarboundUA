@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стіл в традиційному стилі."
+    "value": "Стіл у традиційному стилі"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "У мого дідуся був такий стіл."
+    "value": "У мого дідуся був такий стіл"
   },
   {
     "op": "replace",

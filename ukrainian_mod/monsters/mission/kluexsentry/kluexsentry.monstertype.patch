@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Kluex Sentry"
+    "value": "Вартовий Клюекса"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "A stone temple guardian, animated with ancient technology."
+    "value": "Кам'яний вартовий храму, оживлений стародавніми технологіями."
   }
 ]

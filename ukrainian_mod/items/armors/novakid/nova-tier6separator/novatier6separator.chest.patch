@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Цю посилену нагрудну пластину можна використати для капрікоту."
+    "value": "Посилена нагрудна пластина може витримати капрікот."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Тарілка Wrangler"
+    "value": "Панцир Wrangler"
   }
 ]

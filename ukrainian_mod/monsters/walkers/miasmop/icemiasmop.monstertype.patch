@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Ice Miasmop"
+    "value": "Крижаний міасмоп"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Prolonged exposure to its frigid fumes will knock you out."
+    "value": "Тривалий вплив його крижаних випарів звалить вас із ніг."
   }
 ]

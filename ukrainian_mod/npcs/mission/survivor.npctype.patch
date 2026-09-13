@@ -1,196 +1,196 @@
 [
   {
-    "value": "Лев",
+    "value": "Я берусь за них!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Гідра",
+    "value": "Прихована атака!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Заєць",
+    "value": "Удар!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Іпсилон",
+    "value": "Атака!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Водолій",
+    "value": "Швидко, нас атакують!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Візничий",
+    "value": "Будь обережним!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/5",
     "op": "replace"
   },
   {
-    "value": "Південь",
+    "value": "Увага!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/6",
     "op": "replace"
   },
   {
-    "value": "Рак",
+    "value": "Немає часу на балачки, нас виявили!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/7",
     "op": "replace"
   },
   {
-    "value": "Пес",
+    "value": "Ой-ой!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/8",
     "op": "replace"
   },
   {
-    "value": "Кіль",
+    "value": "Нас виявили!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/9",
     "op": "replace"
   },
   {
-    "value": "Кассіопея",
+    "value": "Я прийшов підготовлений!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/10",
     "op": "replace"
   },
   {
-    "value": "Кит",
+    "value": "Чи атакуємо ми? Атакуємо!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/11",
     "op": "replace"
   },
   {
-    "value": "Корона",
+    "value": "Давай навчимо їх уроку!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/12",
     "op": "replace"
   },
   {
-    "value": "Чаша",
+    "value": "Хочуть полювання? Я дам їм полювання!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/13",
     "op": "replace"
   },
   {
-    "value": "Хрест",
+    "value": "Я вийду або загину, спробувавши!",
     "path": "/scriptConfig/dialog/follower/attack/default/default/14",
     "op": "replace"
   },
   {
-    "value": "Хрест",
+    "value": "Привіт, дружелюбна обличчя! Чи затримали вас тут теж? Я залишуся з вами.",
     "path": "/scriptConfig/dialog/follower/join/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Лебідь",
+    "value": "Ще один вижилий?! Здається, ти самостійно справляєшся – я слідую за тобою.",
     "path": "/scriptConfig/dialog/follower/join/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Дракон",
+    "value": "Не очікував бачити інших вижилих тут! Давайте залишимося разом.",
     "path": "/scriptConfig/dialog/follower/join/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Ерідан",
+    "value": "Давай рухатись далі.",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Журавель",
+    "value": "Я вражений.",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Геркулес",
+    "value": "Як ти до цього потрапив?",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Рись",
+    "value": "Вони не очікували цього!",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Ліра",
+    "value": "Я тут вже занадто довго, щоб дозволити їм мене зупинити.",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Оріон",
+    "value": "Бери це.",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/5",
     "op": "replace"
   },
   {
-    "value": "Пегас",
+    "value": "Ох.",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/6",
     "op": "replace"
   },
   {
-    "value": "Фенікс",
+    "value": "Будьте на чеку, може бути ще більше.",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/7",
     "op": "replace"
   },
   {
-    "value": "Риби",
+    "value": "Сподіваюся, що всі ці скелети – просто декорації...",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/8",
     "op": "replace"
   },
   {
-    "value": "Стрілець",
+    "value": "Ось що ти отримаєш за те, що зіпсував нас!",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/9",
     "op": "replace"
   },
   {
-    "value": "Скорпіон",
+    "value": "Сподіваюсь, це все.",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/10",
     "op": "replace"
   },
   {
-    "value": "Телець",
+    "value": "Давайте рушимо.",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/11",
     "op": "replace"
   },
   {
-    "value": "Трикутник",
+    "value": "Навіть якщо ми не вийдемо звідси, принаймні ми їх заранили.",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/12",
     "op": "replace"
   },
   {
-    "value": "Діва",
+    "value": "Цікаво, скільки ще таких як ми було полювано тут...",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/13",
     "op": "replace"
   },
   {
-    "value": "Андромеда",
+    "value": "Надіюся, що ще багато Флоранів буде поранено до того, як я піду.",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/14",
     "op": "replace"
   },
   {
-    "value": "Овен",
+    "value": "Фух, ти справляєшся досить добре.",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/15",
     "op": "replace"
   },
   {
-    "value": "Ворон",
+    "value": "Я просто тут чекатиму.",
     "path": "/scriptConfig/dialog/follower/wait/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Менса",
+    "value": "Залишусь тут, не залишай мене занадто довго сам!",
     "path": "/scriptConfig/dialog/follower/wait/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Акамар",
+    "value": "Тобі потрібен момент?",
     "path": "/scriptConfig/dialog/follower/wait/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Ахернар",
+    "value": "Привіт ще раз.",
     "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Ахірд",
+    "value": "Давай йти.",
     "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/1",
     "op": "replace"
   },

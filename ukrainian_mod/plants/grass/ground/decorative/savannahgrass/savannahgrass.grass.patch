@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Dry, brittle grass."
+    "value": "Суха, крихка трава."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Dry grass."
+    "value": "Суха трава."
   },
   {
     "op": "replace",
@@ -17,6 +17,6 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. Dry grass."
+    "value": "Заява. Суха трава."
   }
 ]

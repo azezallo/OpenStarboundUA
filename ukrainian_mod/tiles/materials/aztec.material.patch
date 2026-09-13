@@ -1,26 +1,26 @@
 [
   {
-    "value": "Символьний блок",
+    "value": "Блок гліфів",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Невеликі символи вкривають цей камінь.",
+    "value": "Маленькі гліфи покривають цей камінь.",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Зачаровано. Я не знаю, про що говорять ці символи.",
+    "value": "Зачарований. Я не знаю, що говорять ці гліфи.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Флоран не може зрозуміти ці сссимволи.",
+    "value": "Флоран не може зрозуміти ссимволів.",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Схоже на старі символи, легінь.",
+    "value": "Декілька стареньких символів.",
     "path": "/novakidDescription",
     "op": "replace"
   }

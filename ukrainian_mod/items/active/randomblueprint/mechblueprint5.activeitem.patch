@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "План високотехнологічної механічної частини."
+    "value": "План високотехнологічної механічної частини"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "High-Tech Mech Blueprint"
+    "value": "План високотехнологічного меха"
   }
 ]

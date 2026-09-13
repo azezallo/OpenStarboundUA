@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Блискучий камінь. Ssssmash це!"
+    "value": "Блискучий камінь. Sssmash це!"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Скеля, повна срібла! Можливо, я зможу його зламати."
+    "value": "Камінь, повний срібла! Можливо, я зможу його розбити."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Скеля багата сріблом. Я повинен його зламати."
+    "value": "Скеля багата сріблом. Я повинен його розбити."
   }
 ]

@@ -2,46 +2,46 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Маркер вісім."
+    "value": "Маркер «Вісім»."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "вісім"
+    "value": "Вісім"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "вісім."
+    "value": "Вісім."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "вісім."
+    "value": "Вісім."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Номер вісім."
+    "value": "Номер вісссім."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. вісім."
+    "value": "Нейтралітет. Вісім."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "вісім."
+    "value": "Вісім."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "вісім."
+    "value": "Вісім."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Вісімка."
+    "value": "Вісімка, файно."
   }
 ]

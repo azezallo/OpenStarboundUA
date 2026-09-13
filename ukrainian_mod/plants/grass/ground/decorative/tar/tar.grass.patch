@@ -2,21 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Gross, sticky tar."
+    "value": "Грязний, липкий дьоготь"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Липкий дьоготь."
+    "value": "Липкий дьоготь"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Sssticky."
+    "value": "Липкооо."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. Useful tar."
+    "value": "Заява. Корисний дьоготь"
   }
 ]

@@ -1,136 +1,136 @@
 [
   {
-    "value": "Нутмідж",
+    "value": "Горішник",
     "path": "/parameters/monster/example/name",
     "op": "replace"
   },
   {
-    "value": "Отже, мені потрібні речі ^white;[^orange;<items>^white;]. Не так вже й важко їх знайти. Самотній монстр [<monster>] з'їв їх і пішов ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Знайди, де бродить монстр [^orange;<monster>^green;], і принеси речі флорана назад!",
+    "value": "Ссспершу нам потрібні ^orange;<items>^white; Флорана. Їх не важко знайти. Самотній <monster> біля ^orange;<spawnPoint>^white;<spawnPoint.direction> зжер їх. ^green;Вполюй ^orange;<monster>^green; і принесси речі Флорана назад!",
     "path": "/scriptConfig/generatedText/text/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "По-перше, флорану потрібно, щоб ти вирушив на невелике полювання. Флоран бачив, як монстр [^orange;<monster>^white;] зжер речі ^white;[^orange;<items>^white;] і пішов ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^white;Отакий ненажера! ^green;Знайди його і принеси речі з його нутрощів.",
+    "value": "Перший крок: Флорану потрібно, щоб ти вирушив на невеличке полювання. Флоран бачив, як ^orange;<monster>^white; поблизу проковтнув ^orange;<items>^white; неподалік ^orange;<spawnPoint>^white;<spawnPoint.direction>. Ненажерливий <monster>! ^green;Вполюй його і поверни Флорану речі з його нутрощів.",
     "path": "/scriptConfig/generatedText/text/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Спантеличено. Я прямував<questGiver.pronoun.obj6end> додому і йшов<questGiver.pronoun.obj5end> ^orange;<spawnPoint>^white;<spawnPoint.direction>, як раптом на мене накинувся монстр [^orange;<monster>^white;]! Він проковтнув ^white;[^orange;<items>^white;]. Не міг би ти його випатрати і повернути речі?",
+    "value": "Спантеличення. Я щойно закінчив збирати ^orange;<items>^white;, коли самотній ^orange;<monster>^white; на <spawnPoint><spawnPoint.direction> проковтнув їх цілком! ^white;Чи не міг би ти піти ^green;вполювати потвору та повернути мої речі^white; для мене?",
     "path": "/scriptConfig/generatedText/text/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Знервовано. Самотній монстр [^orange;<monster>^white;] напав на мене із засідки, поки я йшов<questGiver.pronoun.obj5end> ^orange;<spawnPoint>^white;<spawnPoint.direction>, і потягнув речі ^white;[^orange;<items>^white;]! Можеш ^green;відшукати цю тварюку і повернути мою власність^white;?",
+    "value": "Знервованість. Самотній ^orange;<monster> ^white;напав на мене із засідки біля ^orange;<spawnPoint>^white;<spawnPoint.direction> і забрав ^orange;<items>^white;! Можеш ^green;вполювати цю потвору і повернути моє майно для мене^white;?",
     "path": "/scriptConfig/generatedText/text/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Перший крок — ^green;знайти, де ховається монстр ^white;[^orange;<monster>^white;]. Поки я йшов<questGiver.pronoun.obj5end> ^orange;<spawnPoint>^white;<spawnPoint.direction>, він зжер мої речі ^white;[^orange;<items>^white;]. ^green;Ти не міг би повернути їх мені^white;?",
+    "value": "Перший крок — ^green;знайти ^orange;<monster>^white;, який завдав мені клопоту. Він утік з ^orange;<items>,^white; у напрямку ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Ти ж не проти вполювати його?",
     "path": "/scriptConfig/generatedText/text/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Прошу: ^green;поверни ^white;[^orange;<items>^white;], які знаходяться в шлунку. Конкретніше, господар цього шлунку - монстр [^orange;<monster>^white;], який напав на мене, поки я йшов<questGiver.pronoun.obj5end> ^orange;<spawnPoint>^white;<spawnPoint.direction>.",
+    "value": "Перше, що нам знадобиться, це ^orange;<items>.^white; На жаль, здоровенний <monster> зжер мої припаси. Він має блукати неподалік ^orange;<spawnPoint>^white;<spawnPoint.direction>. Чи не міг би ти ^green;вбити цього ^orange;<monster>^green; і принести їх назад?",
     "path": "/scriptConfig/generatedText/text/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Нассступний крок простий. Потрібно сходити ^orange;<spawnPoint>^white;<spawnPoint.direction> і вистежити, де ховається монстр [^orange;<monster>^white;]. Потім потрібно його вбити і ^green;дістати з нього ^white;[^orange;<items>^white;], які він зжер днем раніше - флорану це ще знадобиться.",
+    "value": "Нассступний крок не складний. ^orange;<monster> ^white;біля ^orange;<spawnPoint>^white;<spawnPoint.direction> зжер ^orange;<items>^white; Флорана. ^green;Вполюй ^orange;<monster>^white; для Флорана і ^green;поверни речі.",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Гаразд, флорану потрібні речі ^white;[^orange;<items>^white;] - приблизно такі, які нещодавно у нього забрав і з'їв монстр [^orange;<monster>^white;], що пішов ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Прикінчи його і принеси речі назад^white;.",
+    "value": "Гаразд, тепер Флорану потрібні ^orange;<items>^white;. Флоран бачив, як ^orange;<monster> ^white;біля ^orange;<spawnPoint>^white;<spawnPoint.direction> проковтнув те, що нам потрібно! ^green;Вполюй ^orange;<monster>^white; для Флорана і ^green;принесси речі назад.",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Шоковано. На мене напав лютий монстр [^orange;<monster>^white;]. Він втік з моїми речами [^orange;<items>^white;], і здається, він пішов ^orange;<spawnPoint>^white;<spawnPoint.direction>. Не міг би ти ^green;вистежити це створіння^white;? Воно не могло далеко втекти.",
+    "value": "Шок. Нещодавно на мене напав лютий ^orange;<monster>, ^white;який утік із моїми ^orange;<items>^white;. Він попрямував до ^orange;<spawnPoint>^white<spawnPoint.direction>. Чи не міг би ти ^green;вполювати цю потвору для мене?^white; Вона не могла піти далеко.",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Присоромлено. На мене напав лютий монстр [^orange;<monster>^white;], який втік ^orange;<spawnPoint>^white;<spawnPoint.direction>. Він проковтнув у бою все моє майно [^orange;<items>^white;]. Не міг би ти ^green;вистежити цю тварюку і повернути мої речі ^white;назад?",
+    "value": "Сором. На мене напав лютий ^orange;<monster> на <spawnPoint>^white;<spawnPoint.direction>, і він проковтнув мої пожитки під час боротьби. Він забрав ^orange;<items>, ^white;чи не міг би ти ^green;вполювати його і повернути мої речі^white; для мене?",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Прошу: ^green;поверни мої речі ^white;[^orange;<items>^white;]. Їх проковтнув монстр [^orange;<monster>^white;], який пішов ^orange;<spawnPoint>^white;<spawnPoint.direction>. Для мене дуже важливо отримати речі в цілості й схоронності назад.",
+    "value": "Далі ^green;мені потрібно, щоб ти вполював ^orange;<monster>^white;, який проковтнув мої ^orange;<items>^white; і нещодавно втік — мені потрібно повернути свої речі. Цей ^orange;<monster>^white; має бути біля ^orange;<spawnPoint>^white;<spawnPoint.direction>.",
     "path": "/scriptConfig/generatedText/text/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Потрібно, щоб величезний монстр [^orange;<monster>^white;] був убитий - він довів мене тим, що з'їв мої речі [^orange;<items>^white;], коли я йшов<questGiver.pronoun.obj5end> ^orange;<spawnPoint>^white;<spawnPoint.direction>. Ти не міг би ^green;вистежити його і повернути моє майно^white;?",
+    "value": "Далі тобі потрібно вполювати одного ^orange;<monster>.^white; Я прогулювався біля ^orange;<spawnPoint>^white;<spawnPoint.direction> раніше, і він влаштував засідку й забрав мої ^orange;<items>. Чи не міг би ти ^green;вистежити потвору й повернути те, що вона забрала?",
     "path": "/scriptConfig/generatedText/text/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Вражаюче - ти хороший мисливець. Речі, що проковтнув монстр [<monster>], трохи липкі, але їх все одно можна використовувати.",
+    "value": "Вражаюче — ти вмілий мисливець. Речі, що зжер <monster>, трохи липкі, але все ще придатні до вжитку.",
     "path": "/scriptConfig/generatedText/completionText/first/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран знав, що ти це зробиш! <player>, ти мисливець на монстрів! Звучить непогано, правда? І тепер у флорана є те, що потрібно.",
+    "value": "Флоран знав, що в тебе вийде! <player> — мисливець на <monster>! Звучить гарно, еге ж? І тепер у Флорана є все необхідне.",
     "path": "/scriptConfig/generatedText/completionText/first/floran/1",
     "op": "replace"
   },
   {
-    "value": "Переможно. Ти повернув мої речі! Наступного разу, коли боягузливий монстр [<monster>] нападе на мене, я буду готов<questGiver.pronoun.obj1end>.",
+    "value": "Тріумф. Ти повернув мої речі для мене! Наступного разу, коли боягузливий <monster> влаштує мені засідку, я буду напоготові.",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Вражено. Мерзенний монстр [<monster>] упав?! Ти, мабуть, великий воїн! Дякую за допомогу.",
+    "value": "Захоплення. Тобі вдалося перемогти того <monster>!? Мабуть, ти великий воїн! Дякую за допомогу.",
     "path": "/scriptConfig/generatedText/completionText/first/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Відмінна робота! Цей монстр [<monster>] більше нікому не завдасть проблем!",
+    "value": "Чудова робота! Цей <monster> більше нікого не турбуватиме! І тепер у нас має бути все необхідне для другої фази.",
     "path": "/scriptConfig/generatedText/completionText/first/default/0",
     "op": "replace"
   },
   {
-    "value": "Фу, і це було в шлунку цього монстра [<monster>]? Але я не можу скаржитися, дякую за брудну роботу.",
+    "value": "Фу, це було в шлунку того <monster>? Мабуть, годі нарікати, дякую за виконання брудної роботи.",
     "path": "/scriptConfig/generatedText/completionText/first/default/1",
     "op": "replace"
   },
   {
-    "value": "Гарна робота! Мабуть, монстр [<monster>] тепер шкодує, що проковтнув речі Флорана. Добре, давай використаємо [<items>].",
+    "value": "Гарна робота! Певно, <monster> тепер шкодує, що пожер речі Флорана. Гаразд, тепер Флоран викориссстає <items>.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Гарна робота! Флоран не був впевнений, що ти впораєшся. Схоже, монстр [<monster>] отримав по заслугах, Флоран почистить ці речі перед використанням.",
+    "value": "Чудова робота! Флоран не був упевнений, що тобі вдастьссся. Схоже, що з <monster> ти не цяцькався, Флоран почиссстить ці речі перед викориссстанням.",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "З полегшенням. Дякую за повернення мого майна - воно важливе для моїх планів. Сподіваюсь, бродячі звірі навчаться не нападати на нас у майбутньому!",
+    "value": "Полегшення. Дякую за повернення моїх речей — вони важливі для моїх планів. Сподіваюся, бродячі звірі затямлять, що не варто ворогувати з нами в майбутньому!",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Ти повернув мої речі - навіть якщо вони тепер пахнуть монстром [<monster>]!",
+    "value": "Задоволення. Ти повернув мої речі — нехай навіть від них тхне <monster>!",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
   {
-    "value": "Цього монстра [<monster>] нарешті немає? Дякую! Тепер, коли у нас є [<items>], ми можемо рухатися далі.",
+    "value": "Цього <monster> нарешті подолано? Дякую! Тепер, коли у нас є <items>, ми можемо рухатися далі.",
     "path": "/scriptConfig/generatedText/completionText/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Дякую! Цей монстр [<monster>] мав би подумати двічі, перш ніж тікати з речами, які йому не належали.",
+    "value": "Дякую! Цьому <monster> слід було двічі подумати, перш ніж тікати з чужими речами.",
     "path": "/scriptConfig/generatedText/completionText/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Вполюй монстра [<monster>]",
+    "value": "Вполювати <monster>",
     "path": "/scriptConfig/objectives/0/text",
     "op": "replace"
   },
   {
-    "value": "Віднеси [<items>] жителю <questGiver>",
+    "value": "Принести <items> для <questGiver>",
     "path": "/scriptConfig/objectives/1/text",
     "op": "replace"
   }

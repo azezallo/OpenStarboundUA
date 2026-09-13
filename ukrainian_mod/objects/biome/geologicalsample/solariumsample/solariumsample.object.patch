@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "«Ідеальний зразок солярійної руди»."
+    "value": "«Ідеальний зразок солярійної руди»"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Зразок солярію"
+    "value": "Зразок Соларія"
   }
 ]

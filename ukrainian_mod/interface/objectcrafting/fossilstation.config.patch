@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
-    "value": "  СТАНЦІЯ СКАМ'ЯНІЛ."
+    "value": "СТАНЦІЯ СКАМ'ЯНІЛ."
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
-    "value": "  Молотки та стенди."
+    "value": "Молотки та стенди."
   },
   {
     "op": "replace",

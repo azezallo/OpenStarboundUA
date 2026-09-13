@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Apologetic. Please do not be offended if my comrade in black will not speak to you. He's not much of a talker."
+    "value": "Вибачаючий. Будь ласка, не образуйся, якщо мій товариш у чорному не буде з тобою говорити. Він не дуже розмовляє."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/default/0",
-    "value": "Apologetic. Please do not be offended if my comrade in black will not speak to you. He's not much of a talker."
+    "value": "Вибачаючий. Будь ласка, не образуйся, якщо мій товариш у чорному не буде з тобою говорити. Він не дуже розмовляє."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/glitch/0",
-    "value": "Wistful. Were times not simpler before we learned of all... this?"
+    "value": "Сумний. Чи не було б часів простіше, ніж ми дізналися про все... це?"
   }
 ]

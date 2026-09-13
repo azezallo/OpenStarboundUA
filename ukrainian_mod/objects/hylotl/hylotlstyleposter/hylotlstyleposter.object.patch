@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Постер до непопулярного фільму Hylotl \"Claw of Dread\"."
+    "value": "Постер для непопулярного фільму Хайлотлі \"Claw of Dread\"."
   },
   {
     "op": "replace",
@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Постер для дурного фільму Hylotl."
+    "value": "Постер для дурного фільму Хайлотлі."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Потішили. Це був жахливий фільм."
+    "value": "Задоволений. Це був жахливий фільм."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Це реклама жахливого фільму Hylotl. Це був провал."
+    "value": "Це реклама жахливого фільму Хайлотлі. Це був провал."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Якийсь фільм про когтеподібного бандита, я забув назву."
+    "value": "Якийсь фільм про когтоподібного бандита, я забув його назву."
   }
 ]

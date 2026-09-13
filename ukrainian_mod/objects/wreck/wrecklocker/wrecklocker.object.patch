@@ -2,37 +2,37 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стара шафка. привіт! Всередині приклеєна фотографія..."
+    "value": "Стара шафа. Привіт! Всередині приклеєна фотографія..."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Зруйнована шафка"
+    "value": "Зруйнована шафа"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Шафка. Цікаво, чи порожньо."
+    "value": "Шафа. Цікаво, чи порожня."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Зараз не дуже надійне сховище."
+    "value": "Зараз не дуже безпечне сховище."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Ця шафка смішно пахне."
+    "value": "Ця шафа пахне дивно."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Допитливий. Чи може в цій шафці ще щось бути?"
+    "value": "Допитливий. Чи може в цій шафі ще щось бути?"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Стара і поржавіла шафка."
+    "value": "Стара і поржавіла шафа."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Я б ні на що там не розраховував, залишаючись там."
+    "value": "Я не міг би покладатися на те, що щось там залишиться."
   }
 ]

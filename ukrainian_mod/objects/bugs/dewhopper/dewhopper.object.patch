@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Жвавий жучок, видно п’є ранкову росу."
+    "value": "Жвавий жучок; можна помітити, як він п'є ранкову росу."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Розпушувач"
+    "value": "Росостриб"
   }
 ]

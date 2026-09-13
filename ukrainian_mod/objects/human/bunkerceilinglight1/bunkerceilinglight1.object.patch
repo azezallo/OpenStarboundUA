@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Стельовий металевий світильник."
+    "value": "Металева стельова лампа."
   },
   {
     "op": "replace",
@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Стельовий металевий світильник."
+    "value": "Металевий стельовий світильник."
   },
   {
     "op": "replace",
@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Підвісна лампа."
+    "value": "Підвісссна лампа."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нудно. Світильник."
+    "value": "Нудьга. Світильник."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Пристрій, який ти прикріплюєш до голови, і... чекай, ні, це просто світло."
+    "value": "Пристрій, який чіпляєш на голову, і... зачекай, ні, це просто лампа."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Простий стельовий світильник."
+    "value": "Проста собі стельова лампа."
   }
 ]

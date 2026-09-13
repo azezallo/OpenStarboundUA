@@ -7,41 +7,41 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Красива мавпа"
+    "value": "Красива картина Апекса"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Чомусь я відчуваю, що це не оригінальна версія цієї картини."
+    "value": "Чомусь я відчуваю, що це не оригінальна версія цієї картини"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Чому цей Apex на мушлі молюска. Що це?"
+    "value": "Чому цей Апекс на мольйській оболонці? Що це?"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран знервований малюванням..."
+    "value": "Флоран сссерйозно нервується від картини..."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Вжахнувся. Мені не потрібно було це бачити."
+    "value": "Вжахнувся. Мені не потрібно було це бачити"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Ну це жахливо."
+    "value": "Ну це жахливо"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Це було майже красиво, але жахливо не вдається."
+    "value": "Це було майже красиво, але вийшло жахливо"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ого, я міг би цього не побачити."
+    "value": "Ого, я міг би без цього не дивитися"
   }
 ]

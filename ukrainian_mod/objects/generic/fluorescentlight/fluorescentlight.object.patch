@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Люмінесцентне світло"
+    "value": "Флуоресцентне світло"
   },
   {
     "op": "replace",
@@ -17,22 +17,22 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Це світло різке і холодне."
+    "value": "Це світло різке й холодне."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Потворне світло, Флоран віддає перевагу sssunlight."
+    "value": "Потворне світло, Флорани віддають перевагу сссвітлу."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "роздратований. Під час увімкнення світло тихо дзижчить."
+    "value": "Роздратований. Під час увімкнення світло тихо дзижчить."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Я завжди ненавидів такі вогні."
+    "value": "Я завжди ненавиджу таке світло."
   },
   {
     "op": "replace",

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Пояс амура. Чи тримає крила?"
+    "value": "Пояс Амура. Чи тримає пояс крила?"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Купідон Саш"
+    "value": "Січка Купіда"
   }
 ]

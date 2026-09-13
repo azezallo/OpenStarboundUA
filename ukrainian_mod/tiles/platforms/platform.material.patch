@@ -1,26 +1,26 @@
 [
   {
-    "value": "Дерев'ян. платформа",
+    "value": "Дерев'яна платформа",
     "path": "/shortdescription",
     "op": "replace"
   },
   {
-    "value": "Непримітна дерев'яна платформа.",
+    "value": "Невизначена дерев'яна платформа",
     "path": "/description",
     "op": "replace"
   },
   {
-    "value": "Знайомо. Це звичайна дерев'яна платформа.",
+    "value": "Знайомий. Це базова дерев'яна платформа.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Пппроссста дерев'яна платформа.",
+    "value": "Проста дерев'яна платформа",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Просто платформа, зроблена з міцного дерева.",
+    "value": "Просто платформа, зроблена з дерева",
     "path": "/novakidDescription",
     "op": "replace"
   }

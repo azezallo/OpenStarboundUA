@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Hanging bones."
+    "value": "Висячі кістки."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Hanging bones."
+    "value": "Висячі кістки."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Bonesss."
+    "value": "Кісткиссс."
   },
   {
     "op": "replace",

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Вітаємо Великий Банан!"
+    "value": "Слава Великому Банану!"
   },
   {
     "op": "replace",
@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "Банан, гідний великої мавпи..."
+    "value": "Банан, гідний великого Апекса..."
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Невже Апекс так обожнює свою їжу?"
+    "value": "Невже Апекси так обожнюють свою їжу?"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Потішили. Великий банан."
+    "value": "Захоплення. Великий банан."
   },
   {
     "op": "replace",

@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Вал шматок фону"
+    "value": "Тло вала"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Вал шматок фону"
+    "value": "Тло вала"
   }
 ]

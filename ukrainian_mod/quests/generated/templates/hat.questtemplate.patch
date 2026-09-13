@@ -1,6 +1,6 @@
 [
   {
-    "value": "Привітний друг",
+    "value": "Вірний друг",
     "path": "/parameters/friend/example/name",
     "op": "replace"
   },
@@ -20,22 +20,22 @@
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран хоче виглядати <adjective>. Флоран дещо придумав.",
+    "value": "^cyan;Флоран сссправді хоче виглядати <adjective>. Флоран дещо придумав.",
     "path": "/scriptConfig/generatedText/goalText/floran/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Флоран буде більш популярним, якщо справлятиме <adjective>е враження.",
+    "value": "^cyan;Флоран буде більш популярним, якщо сссправлятиме <adjective>е враження.",
     "path": "/scriptConfig/generatedText/goalText/floran/1",
     "op": "replace"
   },
   {
-    "value": "^cyan;Енергійно. Я хочу виглядати <adjective>. Можеш мені допомогти?",
+    "value": "^cyan;Нетерпіння. Я хочу виглядати <adjective>. Можеш мені допомогти?",
     "path": "/scriptConfig/generatedText/goalText/glitch/0",
     "op": "replace"
   },
   {
-    "value": "^cyan;Схвильовано. Я хочу змінити імідж. Що-небудь, у чому я буду виглядати <adjective>.",
+    "value": "^cyan;Хвилювання. Я хочу змінити імідж. Що-небудь, у чому я буду виглядати <adjective>.",
     "path": "/scriptConfig/generatedText/goalText/glitch/1",
     "op": "replace"
   },
@@ -50,22 +50,22 @@
     "op": "replace"
   },
   {
-    "value": "Нарешті флоран хоче, щоб ти ^green;відніс ^orange;[<clothingIngredients>]^white; кравцю на ім'я ^orange;<friend>^white;. Кравець пошиє новий ^orange;капелюх^white; для флорана. Поспішай!",
+    "value": "Нарешті Флоран хоче, щоб ти ^green;відніс ^orange;[<clothingIngredients>]^white; кравцю на ім'я ^orange;<friend>^white;. Кравець пошиє новий ^orange;капелюх^white; для Флорана. Поссспішай!",
     "path": "/scriptConfig/generatedText/text/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран такий близький до мети! ^orange;<friend>^white; має отримати ^orange;[<clothingIngredients>]^white;, щоб пошити мені ^orange;капелюх^white;.",
+    "value": "Флоран такий близький до уссспіху! ^orange;<friend>^white; має отримати ^orange;[<clothingIngredients>]^white;, щоб пошити ^orange;капелюх^white; для Флорана.",
     "path": "/scriptConfig/generatedText/text/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Задоволено. Тобі залишилося лише поговорити з моїм другом на ім'я ^orange;<friend>^white;, щоб <friend.pronoun.subject> зробив<friend.pronoun.obj1end> новий ^orange;капелюх^white;. <friend.pronoun.capitalSubject> вже чекає, коли ти ^green;принесеш ^orange;[<clothingIngredients>]^white;.",
+    "value": "Задоволення. Тобі залишилося лише поговорити з моїм другом на ім'я ^orange;<friend>^white;, щоб <friend.pronoun.subject> зробив<friend.pronoun.obj1end> новий ^orange;капелюх^white;. <friend.pronoun.capitalSubject> вже чекає, коли ти ^green;принесеш ^orange;[<clothingIngredients>]^white;.",
     "path": "/scriptConfig/generatedText/text/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Наполегливо. Отже, ^orange;<friend>^white; чекає, коли ти ^green;принесеш ^orange;[<clothingIngredients>]^white;, щоб пошити ^orange;капелюх^white; для мене.",
+    "value": "Терпіння. Отже, ^orange;<friend>^white; чекає, коли ти ^green;принесеш ^orange;[<clothingIngredients>]^white;, щоб пошити ^orange;капелюх^white; для мене.",
     "path": "/scriptConfig/generatedText/text/default/glitch/1",
     "op": "replace"
   },
@@ -80,22 +80,22 @@
     "op": "replace"
   },
   {
-    "value": "Ура! Флоран тепер виглядає <adjective>? Дякую за допомогу!",
+    "value": "Уссспіх! Флоран тепер виглядає <adjective>? Дякую за допомогу!",
     "path": "/scriptConfig/generatedText/completionText/default/floran/0",
     "op": "replace"
   },
   {
-    "value": "Флоран тепер виглядає <adjective>! Флоран збирається завести багато нових друзів. Дякую за допомогу!",
+    "value": "Флоран тепер виглядає <adjective>! Флоран збирається завести багато нових друзів. Ссспасибі за допомогу!",
     "path": "/scriptConfig/generatedText/completionText/default/floran/1",
     "op": "replace"
   },
   {
-    "value": "Вдячно. Дякую, тепер я безумовно відчуваю себе більш <adjective>!",
+    "value": "Вдячність. Дякую, тепер я безумовно відчуваю себе більш <adjective>!",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/0",
     "op": "replace"
   },
   {
-    "value": "Захоплено. Цей капелюх робить мене набагато більш <adjective>, чи не так? Дякую за допомогу.",
+    "value": "Захоплення. Цей капелюх робить мене набагато більш <adjective>, чи не так? Дякую за допомогу.",
     "path": "/scriptConfig/generatedText/completionText/default/glitch/1",
     "op": "replace"
   },
@@ -120,22 +120,22 @@
     "op": "replace"
   },
   {
-    "value": "Пакунок",
+    "value": "Пакунок для <questGiver>",
     "path": "/scriptConfig/parcelName/0",
     "op": "replace"
   },
   {
-    "value": "Він адресований <questGiver>. Мені не варто його відкривати.",
+    "value": "Він призначений для <questGiver>. Мені не варто його відкривати.",
     "path": "/scriptConfig/parcelDescription/0",
     "op": "replace"
   },
   {
-    "value": "Віднеси [<clothingIngredients>] кравцю <friend>",
+    "value": "Віддай <clothingIngredients> майстру <friend>",
     "path": "/scriptConfig/objectives/0/text",
     "op": "replace"
   },
   {
-    "value": "Повернися до <questGiver> з пакунком",
+    "value": "Поверни пакунок до <questGiver>",
     "path": "/scriptConfig/objectives/1/text",
     "op": "replace"
   }

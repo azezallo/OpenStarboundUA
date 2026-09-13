@@ -12,16 +12,16 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Цікаво. На цих каменях зображена невідома мова."
+    "value": "Цікаво. На цих каменях зображено невідому мову."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floran likes sstone picturess."
+    "value": "Флоран любить кам'яні картини"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Старі блоки з якоюсь різьбою."
+    "value": "Старі блоки з якимось видом різьби"
   }
 ]

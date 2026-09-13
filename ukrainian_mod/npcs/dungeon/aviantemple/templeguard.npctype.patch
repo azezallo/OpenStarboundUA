@@ -5,32 +5,32 @@
     "op": "replace"
   },
   {
-    "value": "Стій, де стоїш!",
+    "value": "Зупинись тут!",
     "path": "/scriptConfig/dialog/attack/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Ти образив Клуекса!",
+    "value": "Ти позбавляєш честь Клуекса!",
     "path": "/scriptConfig/dialog/attack/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Тобі тут не раді, чужинцю!",
+    "value": "Тебе тут не приймають, чужинець!",
     "path": "/scriptConfig/dialog/attack/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Сьогодні Клуексу дістанеться ще одна душа!",
+    "value": "Сьогодні Клуекс отримує ще одну душу!",
     "path": "/scriptConfig/dialog/attack/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Хай впаде на тебе гнів Клуекса!",
+    "value": "Гнів Клуекса упаде на тебе!",
     "path": "/scriptConfig/dialog/attack/default/default/5",
     "op": "replace"
   },
   {
-    "value": "Сила Клуекса направляє мою руку!",
+    "value": "Сила Клуекса змушує мене вбити тебе!",
     "path": "/scriptConfig/dialog/attack/default/default/6",
     "op": "replace"
   },
@@ -40,32 +40,32 @@
     "op": "replace"
   },
   {
-    "value": "Стій, де стоїш!",
+    "value": "Зупинись тут!",
     "path": "/scriptConfig/dialog/attack/avian/default/1",
     "op": "replace"
   },
   {
-    "value": "Ти образив Клуекса!",
+    "value": "Ти позбавляєш честь Клуекса!",
     "path": "/scriptConfig/dialog/attack/avian/default/2",
     "op": "replace"
   },
   {
-    "value": "Тобі тут не раді, чужинцю!",
+    "value": "Тебе тут не приймають, чужинець!",
     "path": "/scriptConfig/dialog/attack/avian/default/3",
     "op": "replace"
   },
   {
-    "value": "Сьогодні Клуексу дістанеться ще одна душа!",
+    "value": "Сьогодні Клуекс отримує ще одну душу!",
     "path": "/scriptConfig/dialog/attack/avian/default/4",
     "op": "replace"
   },
   {
-    "value": "Хай впаде на тебе гнів Клуекса!",
+    "value": "Гнів Клуекса упаде на тебе!",
     "path": "/scriptConfig/dialog/attack/avian/default/5",
     "op": "replace"
   },
   {
-    "value": "Сила Клуекса направляє мою руку!",
+    "value": "Сила Клуекса змушує мене вбити тебе!",
     "path": "/scriptConfig/dialog/attack/avian/default/6",
     "op": "replace"
   }

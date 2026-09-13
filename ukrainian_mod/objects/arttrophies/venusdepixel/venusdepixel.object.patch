@@ -22,17 +22,17 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран як ssstone meatman. Ssstoneman?"
+    "value": "Флоран подобається ссстоун м'ясний чоловік? Ссстоунечеловек?"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "вражений. Це ніби висічено з цільного шматка мармуру."
+    "value": "Вражений. Це, здається, вирізано з цілого шматка мармуру."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Ах, вибух з минулого."
+    "value": "Ах, вибух із минулого."
   },
   {
     "op": "replace",
@@ -42,6 +42,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ну, чорт, куди поділися її руки?"
+    "value": "Ну, чорт, куди підвалились її руки?"
   }
 ]

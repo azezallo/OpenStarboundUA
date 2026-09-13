@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/attack/novakid/default/0",
-    "value": "Йо, мішень для тренування!"
+    "value": "Практика стрільби!"
   },
   {
     "op": "replace",
@@ -82,36 +82,36 @@
   {
     "op": "replace",
     "path": "/attack/floran/default/1",
-    "value": "Ти не втечешссс!"
+    "value": "Ти не зможеш втекти!"
   },
   {
     "op": "replace",
     "path": "/attack/floran/default/2",
-    "value": "Флоран зробить у тобі діркиссс!"
+    "value": "Флорани заповнюють тебе порожнечею!"
   },
   {
     "op": "replace",
     "path": "/attack/floran/default/3",
-    "value": "Незнайомець не доссстатньо швидкий, щоб втекти від куліссс!"
+    "value": "Незнайомець не достатньо швидкий, щоб втікнути від куль!"
   },
   {
     "op": "replace",
     "path": "/attack/floran/default/4",
-    "value": "Тобі не сссховатися від Флорана! Флоран виссстежить тебе!"
+    "value": "Ти не можеш сховатися від Флорана! Флоран знайде тебе!"
   },
   {
     "op": "replace",
     "path": "/attack/floran/default/5",
-    "value": "Чужинецьссс!"
+    "value": "Чужинець!"
   },
   {
     "op": "replace",
     "path": "/attack/floran/default/6",
-    "value": "Флоран вб'є чужинцяссс!"
+    "value": "Флорани вб'ють чужинця!"
   },
   {
     "op": "replace",
     "path": "/attack/floran/default/7",
-    "value": "Ти не виживешссс! Флоран не дозволить!"
+    "value": "Ти не зможеш вижити! Флорани не дадуть!"
   }
 ]

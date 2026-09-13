@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "Eager. My very own Matter Manipulator. I figuratively cannot wait."
+    "value": "Нетерплячий. Мій власний Маніпулятор матерії. Я буквально не можу дочекатися."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
-    "value": "Nervous. Do my bolts look big in this?"
+    "value": "Тривожний. Чи виглядають мої блискавки великими?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
-    "value": "Pleased. I am glad I ironed my uniform this morning."
+    "value": "Задоволений. Я радий, що сьогодні вранці пралив свою форму."
   }
 ]

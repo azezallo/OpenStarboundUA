@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "П'ять маркерів."
+    "value": "Позначка «П'ять»."
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "П'ять! Схоже на гачок."
+    "value": "П'ять! Сссхоже на гачок."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Нейтральний. П'ять."
+    "value": "Нейтралітет. П'ять."
   },
   {
     "op": "replace",

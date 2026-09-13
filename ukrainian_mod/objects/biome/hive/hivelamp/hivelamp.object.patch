@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Вулик Лампа"
+    "value": "Вулікова лампа"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Чи могли цю лампу запалити світяться комахи?"
+    "value": "Чи може ця лампа бути запалена світлячками?"
   },
   {
     "op": "replace",

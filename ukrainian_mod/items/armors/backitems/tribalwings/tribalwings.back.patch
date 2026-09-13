@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Такі крила зазвичай носять Звіздарі як символ своєї віри."
+    "value": "Такі крила зазвичай носять Звіздари як символ своєї віри."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Крила аколіта Stargazer"
+    "value": "Крила Аколіта Stargazer"
   }
 ]

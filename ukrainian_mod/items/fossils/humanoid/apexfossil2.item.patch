@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам’янілий торс Apex."
+    "value": "Скам'янілений торс Апекса"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Верхівка тулуба"
+    "value": "Торс Апекса"
   }
 ]

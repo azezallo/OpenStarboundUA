@@ -1,946 +1,946 @@
 [
   {
-    "value": "Усе, чого я хочу - це кухню для натуральних продуктів.",
+    "value": "Солдат",
     "path": "/scriptConfig/crew/role/name",
     "op": "replace"
   },
   {
-    "value": "Є багато таких як я, хто віддає перевагу жити якомога ближче до природи.",
+    "value": "Охоронець",
     "path": "/scriptConfig/crew/role/field",
     "op": "replace"
   },
   {
-    "value": "Свіжа їжа - це дар від Клуекса!",
+    "value": "Передостанній <роль>",
     "path": "/scriptConfig/crew/ranks/0",
     "op": "replace"
   },
   {
-    "value": "Гриби та насіння? Та будь ласка! Ти повинен харчуватися здоровою їжею.",
+    "value": "Третій технічний асистент <поле> офіцер",
     "path": "/scriptConfig/crew/ranks/1",
     "op": "replace"
   },
   {
-    "value": "Сонце дає життя рослинам, які дають життя нам... Хіба Клуекс не чудовий?",
+    "value": "Помічник замісника <роли> чоловік/жінка",
     "path": "/scriptConfig/crew/ranks/2",
     "op": "replace"
   },
   {
-    "value": "Я настільки відданий життю, близькому до природи, що навіть мій одяг весь органічний!",
+    "value": "Стажер-учень <роль>",
     "path": "/scriptConfig/crew/ranks/3",
     "op": "replace"
   },
   {
-    "value": "Мій одяг з органіки допомагає перебувати ближче до природи і Клуекса.",
+    "value": "Тимчасове полегшення <роль>",
     "path": "/scriptConfig/crew/ranks/4",
     "op": "replace"
   },
   {
-    "value": "Чим більше шаф, тим більше натуральної продукції я можу зберігати!",
+    "value": "Третій задній лейтенант <роль>",
     "path": "/scriptConfig/crew/ranks/5",
     "op": "replace"
   },
   {
-    "value": "Зоряний",
+    "value": "Шістдесятчотий ком'ордер <роль>",
     "path": "/scriptConfig/crew/ranks/6",
     "op": "replace"
   },
   {
-    "value": "Ударний",
+    "value": "Офіцер стоячого поля",
     "path": "/scriptConfig/crew/ranks/7",
     "op": "replace"
   },
   {
-    "value": "Псі",
+    "value": "Сидячий офіцер <поле>",
     "path": "/scriptConfig/crew/ranks/8",
     "op": "replace"
   },
   {
-    "value": "Поліцей.",
+    "value": "Виконавчий бариста <роль>",
     "path": "/scriptConfig/crew/ranks/9",
     "op": "replace"
   },
   {
-    "value": "Черепний",
+    "value": "Командний майстер-старший офіцер <поле>",
     "path": "/scriptConfig/crew/ranks/10",
     "op": "replace"
   },
   {
-    "value": "Морський",
+    "value": "Незалежний аудитор",
     "path": "/scriptConfig/crew/ranks/11",
     "op": "replace"
   },
   {
-    "value": "Силовий",
+    "value": "Залежний аудитор",
     "path": "/scriptConfig/crew/ranks/12",
     "op": "replace"
   },
   {
-    "value": "Галактич.",
+    "value": "Офіцер Дредноут",
     "path": "/scriptConfig/crew/ranks/13",
     "op": "replace"
   },
   {
-    "value": "Хвильовий",
+    "value": "Стажер-геній",
     "path": "/scriptConfig/crew/ranks/14",
     "op": "replace"
   },
   {
-    "value": "Місячний",
+    "value": "Головник дрібних суперечок",
     "path": "/scriptConfig/crew/ranks/15",
     "op": "replace"
   },
   {
-    "value": "Гострий",
+    "value": "Резервний <роль>",
     "path": "/scriptConfig/crew/ranks/16",
     "op": "replace"
   },
   {
-    "value": "Фокусув.",
+    "value": "Надійний слуга",
     "path": "/scriptConfig/crew/ranks/17",
     "op": "replace"
   },
   {
-    "value": "Централ.",
+    "value": "Теоретичний <field> радник",
     "path": "/scriptConfig/crew/ranks/18",
     "op": "replace"
   },
   {
-    "value": "Місячний",
+    "value": "Надійний <field> слуга",
     "path": "/scriptConfig/crew/ranks/19",
     "op": "replace"
   },
   {
-    "value": "Множин.",
+    "value": "Керівник <field> операцій",
     "path": "/scriptConfig/crew/ranks/20",
     "op": "replace"
   },
   {
-    "value": "Піксельний",
+    "value": "Дика карта <role>",
     "path": "/scriptConfig/crew/ranks/21",
     "op": "replace"
   },
   {
-    "value": "Земний",
+    "value": "Керівник <field> відносин",
     "path": "/scriptConfig/crew/ranks/22",
     "op": "replace"
   },
   {
-    "value": "Сонячний",
+    "value": "Останньомінутний <role>",
     "path": "/scriptConfig/crew/ranks/23",
     "op": "replace"
   },
   {
-    "value": "Штормовий",
+    "value": "Експерт у <field> дипломатії",
     "path": "/scriptConfig/crew/ranks/24",
     "op": "replace"
   },
   {
-    "value": "Планетний",
+    "value": "<field> Менеджер інновацій",
     "path": "/scriptConfig/crew/ranks/25",
     "op": "replace"
   },
   {
-    "value": "Ідеальний",
+    "value": "Вільна гармата <role>",
     "path": "/scriptConfig/crew/ranks/26",
     "op": "replace"
   },
   {
-    "value": "Душевний",
+    "value": "Регіональний <field> директор",
     "path": "/scriptConfig/crew/ranks/27",
     "op": "replace"
   },
   {
-    "value": "Сердечний",
+    "value": "Приватний <field> інспектор",
     "path": "/scriptConfig/crew/ranks/28",
     "op": "replace"
   },
   {
-    "value": "Гірський",
+    "value": "Тимчасовий <field> дослідник",
     "path": "/scriptConfig/crew/ranks/29",
     "op": "replace"
   },
   {
-    "value": "Грізний",
+    "value": "Радикальний <field> інноватор",
     "path": "/scriptConfig/crew/ranks/30",
     "op": "replace"
   },
   {
-    "value": "Туманний",
+    "value": "Незалежний керівник <field> операцій",
     "path": "/scriptConfig/crew/ranks/31",
     "op": "replace"
   },
   {
-    "value": "Осяйний",
+    "value": "Звичайний <role>",
     "path": "/scriptConfig/crew/ranks/32",
     "op": "replace"
   },
   {
-    "value": "Божествен.",
+    "value": "Хобіст <role>",
     "path": "/scriptConfig/crew/ranks/33",
     "op": "replace"
   },
   {
-    "value": "Небесний",
+    "value": "Майстер <field> справ",
     "path": "/scriptConfig/crew/ranks/34",
     "op": "replace"
   },
   {
-    "value": "Океаніч.",
+    "value": "Альтернативний <field> консультант",
     "path": "/scriptConfig/crew/ranks/35",
     "op": "replace"
   },
   {
-    "value": "Ефірний",
+    "value": "Вторинний <field> офіцер",
     "path": "/scriptConfig/crew/ranks/36",
     "op": "replace"
   },
   {
-    "value": "Реальний",
+    "value": "Екстрений <field> офіцер",
     "path": "/scriptConfig/crew/ranks/37",
     "op": "replace"
   },
   {
-    "value": "Матеріал.",
+    "value": "Перший матросовий другий кузенський третій <role>",
     "path": "/scriptConfig/crew/ranks/38",
     "op": "replace"
   },
   {
-    "value": "Світловий",
+    "value": "Безплатний <field> інтерн",
     "path": "/scriptConfig/crew/ranks/39",
     "op": "replace"
   },
   {
-    "value": "Порожній",
+    "value": "<field> студент",
     "path": "/scriptConfig/crew/ranks/40",
     "op": "replace"
   },
   {
-    "value": "Розплавл.",
+    "value": "<field> модератор форуму",
     "path": "/scriptConfig/crew/ranks/41",
     "op": "replace"
   },
   {
-    "value": "Фазовий",
+    "value": "Незалежний <field> профітер",
     "path": "/scriptConfig/crew/ranks/42",
     "op": "replace"
   },
   {
-    "value": "Світанковий",
+    "value": "Нейтральна третя сторона <role>",
     "path": "/scriptConfig/crew/ranks/43",
     "op": "replace"
   },
   {
-    "value": "Сутінковий",
+    "value": "Переговори низької якості <field>",
     "path": "/scriptConfig/crew/ranks/44",
     "op": "replace"
   },
   {
-    "value": "Потоковий",
+    "value": "Теоретичний <field> експерт",
     "path": "/scriptConfig/crew/ranks/45",
     "op": "replace"
   },
   {
-    "value": "Вітряний",
+    "value": "Привіт, мандрівнику, можна приєднатися до тебе?",
     "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Атомний",
+    "value": "Я <selfname>, і справді хочу приєднатися до корабля. Чи хочеш мене найняти?",
     "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Астральний",
+    "value": "Ти саме та людина, з якою мені слід працювати! Хочеш мене найняти?",
     "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Кометний",
+    "value": "Я шукаю команду корабля, щоб приєднатися. Чи зацікавлений ти?",
     "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Захисний",
+    "value": "Мені потрібне місце в команді. Чи можу я приєднатися до твоєї?",
     "path": "/scriptConfig/dialog/crewmember/offer/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Виючий",
+    "value": "Якщо я приєднаюся до вашої команди, чи зможете ви захистити мене від Великого Апе?",
     "path": "/scriptConfig/dialog/crewmember/offer/apex/default/0",
     "op": "replace"
   },
   {
-    "value": "Імпульсний",
+    "value": "У мене є навички, які можуть допомогти вам у ваших пригодах. Чи хотіли б ви мене найняти?",
     "path": "/scriptConfig/dialog/crewmember/offer/apex/default/1",
     "op": "replace"
   },
   {
-    "value": "узі",
+    "value": "Можливо, життя на кораблі саме для мене. Чи можу я приєднатися до вас?",
     "path": "/scriptConfig/dialog/crewmember/offer/apex/default/2",
     "op": "replace"
   },
   {
-    "value": "пістолет",
+    "value": "Я шукаю нове життя. Ви наймаєте?",
     "path": "/scriptConfig/dialog/crewmember/offer/apex/default/3",
     "op": "replace"
   },
   {
-    "value": "ствол",
+    "value": "Пливати серед зірок... Можливо, ви шукаєте кількох членів команди?",
     "path": "/scriptConfig/dialog/crewmember/offer/avian/default/0",
     "op": "replace"
   },
   {
-    "value": "розпилювач",
+    "value": "У вас є корабель? Можливо, ви шукаєте людей для приєднання до команди?",
     "path": "/scriptConfig/dialog/crewmember/offer/avian/default/1",
     "op": "replace"
   },
   {
-    "value": "стопор",
+    "value": "Скажи мені, чи шукаєш ти членів команди? Бо плавати серед зірок було б чудово...",
     "path": "/scriptConfig/dialog/crewmember/offer/avian/default/2",
     "op": "replace"
   },
   {
-    "value": "розкид",
+    "value": "Можливо, життя мандрівника саме для мене. Чи можу я запитати про приєднання до вашої команди?",
     "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/0",
     "op": "replace"
   },
   {
-    "value": "бластер",
+    "value": "Нічого не надихає так, як подорож через зірки. Чи можна мені приєднатися до твого корабля?",
     "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/1",
     "op": "replace"
   },
   {
-    "value": "ствол",
+    "value": "Вважаю, що можу допомогти вам у ваших подорожах. Можливо, я стану членом вашої команди на кораблі?",
     "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/2",
     "op": "replace"
   },
   {
-    "value": "пітчер",
+    "value": "Флоран хоче приєднатися до екіпажу корабля!",
     "path": "/scriptConfig/dialog/crewmember/offer/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "тосер",
+    "value": "Флоран зацікавлений у довгостроковій роботі. Чи можете ви надати йому роботу?",
     "path": "/scriptConfig/dialog/crewmember/offer/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "фазер",
+    "value": "Ти виглядаєш ссильним. Флоран хоче приєднатися до тебе!",
     "path": "/scriptConfig/dialog/crewmember/offer/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "шкідник",
+    "value": "Радість. Чи можу я приєднатися до вас у зірках? У мене є навички, які можуть допомогти вам!",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "руйнівник",
+    "value": "Траур. Життя серед зірок – саме те, що я шукаю. Будь ласка, чи можу я приєднатися до вашої команди?",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "трощильник",
+    "value": "Страсно. Я дуже корисна людина! Чи можу я приєднатися до вас?",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "грішник",
+    "value": "Беззаконний, безбогий, безлітний – це я!",
     "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/0",
     "op": "replace"
   },
   {
-    "value": "вбивця",
+    "value": "У мене свербить тригерний плавник.",
     "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/1",
     "op": "replace"
   },
   {
-    "value": "затвор",
+    "value": "Я піднявся на Апексі один раз. Чудовий вигляд.",
     "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/2",
     "op": "replace"
   },
   {
-    "value": "силовик",
+    "value": "Ми пінгвіни не лякаємось.",
     "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/3",
     "op": "replace"
   },
   {
-    "value": "виклик",
+    "value": "Хтось ще відчуває, що в космосі стало бурхливим?",
     "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/4",
     "op": "replace"
   },
   {
-    "value": "штовхач",
+    "value": "Не всі пінгвіни – проблемники! Хто я, щоб підозрювати, так ми й є.",
     "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/5",
     "op": "replace"
   },
   {
-    "value": "вигнанець",
+    "value": "Мої пера запаковані зброємальним мастилом.",
     "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/6",
     "op": "replace"
   },
   {
-    "value": "загороджувач",
+    "value": "Вчора я сміялася так сильно, що майже задушилася мій макрель.",
     "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/7",
     "op": "replace"
   },
   {
-    "value": "терор",
+    "value": "Привіт, я <selfname>, приємно познайомитися!",
     "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/8",
     "op": "replace"
   },
   {
-    "value": "Лоза.",
+    "value": "Люди вважають пінгвінів милими. Люди помиляються.",
     "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/9",
     "op": "replace"
   },
   {
-    "value": "Лоза",
+    "value": "Можливо, я забуваю звідки прийшов, але знаю куди хочу йти – з тобою, партнере!",
     "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Лоза.",
+    "value": "Привіт, партнере, ти шукаєш старого зоряного мандрівника, щоб їздити разом із тобою?",
     "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Ствердно. Лоза.",
+    "value": "Знаєш, ми зможемо гарно ладнати. Хочеш найняти мене до своєї команди?",
     "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/2",
     "op": "replace"
   },
   {
-    "value": "Всі показники живої активності вказують на щось глибоко під поверхнею. Важко визначити... Заздалегідь вітаю тебе за твою мужність.",
+    "value": "Якщо ти шукаєш когось, що приєднається до твоєї дивовижної зоряної команди, я саме та людина!",
     "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/3",
     "op": "replace"
   },
   {
-    "value": "Спрацював захист. Тобі потрібно знайти спосіб відключити його і відновити подачу енергії. Будь ласка, будь обережний у темряві.",
+    "value": "Я буду тут для тебе, якщо потрібен хтось, щоб допомогти боротися з поганими людьми!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Я зафіксував суміш людської ДНК і ерхію. Висока ймовірність спонтанної поведінки.",
+    "value": "Якщо тобі потрібен захист, ти знаєш, де мене знайти!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Лічильник ерхію досяг 94 рад. Ти в небезпеці. Твій рівень загрози життю зараз 14,607.",
+    "value": "Якщо тобі потрібен я в бою, я буду тут!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Я залишуся на місці до тих пір, поки не захочеш мене.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0",
     "op": "replace"
   },
   {
-    "value": "Вибач за штучний інтелект, золотце.",
+    "value": "Я залишусь у вартості тут, доки ти не потребуєш мене, капітане.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Якщо тобі потрібна військова підтримка, я буду тут.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2",
     "op": "replace"
   },
   {
-    "value": "Поглянь на них, довгий контакт з кристалами ерхію знищив саму їхню сутність! Бідні створіння зовсім втратили себе.",
+    "value": "Якщо тобі потрібен я в бою, ти знаєш, де я знаходжусь.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/3",
     "op": "replace"
   },
   {
-    "value": "Лічильник ерхію досяг 101 рада. Ти в небезпеці. Твій рівень загрози життю зараз 18,472...",
+    "value": "Я буду тут для тебе, якщо потрібна допомога у бою.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/0",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Якщо тобі потрібна рука в бою, ти знаєш, де мене знайти!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1",
     "op": "replace"
   },
   {
-    "value": "Тихіше! Ти заважаєш.",
+    "value": "Я залишуся тут, щоб ти знала/знав, де я буду, якщо потрібен захист!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/2",
     "op": "replace"
   },
   {
-    "value": "Звичайна зброя має 0% шанс завдання шкоди ерхієвому кристалу. Ти повинен знайти інший спосіб його атакувати.",
+    "value": "Якщо тобі потрібна підтримка в мистецтві бою, ти можеш знайти мене тут.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Бій – це мистецтво, а я художник! Я буду тут, якщо потрібен.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1",
     "op": "replace"
   },
   {
-    "value": "Відмінно!",
+    "value": "Я буду тут, якщо тобі потрібна допомога у самозахисті",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2",
     "op": "replace"
   },
   {
-    "value": "Тут достатньо ерхію для повного полагодження корабля.",
+    "value": "Флоран залишиться тут, доки тобі не потрібен Флоран для ссстабу або стрільби чимось.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Ці стародавні руїни, схоже, були приховані флоранами. Показання також кажуть, що вони темні і зловісні.",
+    "value": "Флоран – сссвітний мисливець! Питай Флорана, якщо потрібна допомога.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Біодатчики фіксують безліч сигналів життя в цих тунелях. 97% небезпечні. Я захоплююся твоєю доблестю.",
+    "value": "Флоран тут, щоб допомогти тобі в бою, якщо потрібен.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Галантний. Я буду тут, якщо потрібен воїн для твоєї оборони!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Який нахабний флоран! Нагадує мені мене в молодості, хоча в мене було менше листя.",
+    "value": "Хоробрий. Якщо потрібна допомога у подорожах, я буду тут.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Надійний. Я завжди можу позичити тобі мій меч і навички в бою, якщо потрібні.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "У будь-якому випадку, ці флорани переслідують те, що має для них величезну важливість. Вони ще гірші, ніж я під час ловлі жуків! Будь обережний, золотце.",
+    "value": "Бажливий. Якщо потрібен хтось, щоб допомогти в бою, я тут і чекаю!",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Ця субстанція - органічна. Аналіз не підтверджує, але істота, що виробляє стільки матерії, повинна бути досить великого розміру.",
+    "value": "Я чекатиму тут, доки не захочеш, щоб я борівся за тебе.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/0",
     "op": "replace"
   },
   {
-    "value": "Дані показують, що ця істота ще не виросла; велика ймовірність того, що вона недавно вилупилася. Схоже, ти натрапив на гніздо.",
+    "value": "Коли потрібна моя охорона, прийди мене забрати, бос.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/1",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Я буду чекати тут, великий хлопець, прийди за мною, коли настав час боротися.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/2",
     "op": "replace"
   },
   {
-    "value": "Схоже, ми якраз встигли до нападу повстанців на Міннаук. Я думаю, що це буде вигідно як їм, так і нам, золотце.",
+    "value": "Я триматиму себе тут на даний момент. Приходь привітати, коли потрібна моя допомога, партнер.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Сканери показують, що цей об'єкт добре укріплений важко озброєними охоронцями, що патрулюють кожен рівень.",
+    "value": "Я залишуся тут, доки не захочеш ще раз скористатися моїми послугами.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Мої сканери засікли ще одного охоронця... І ще одного.",
+    "value": "Не хвилюйся про мене, я триматиму себе тут до того моменту, коли знову потрібен буде мій допомога, партнер.",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/2",
     "op": "replace"
   },
   {
-    "value": "Це взаємопов'язано: опускаючи цю барикаду, ти відповідно опускаєш ще одну над землею.",
+    "value": "Хех... Смертельна сміхота.",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Що саме сталося?",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Схоже, ми можемо зробити позитивний вплив на повстанську війну проти гноблення! Чудово. Навіть сама дещиця допоможе.",
+    "value": "Я повернувся! І жив!",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Тут інша барикада над землею, захищена генератором щита. Я думаю, якщо ти вимкнеш щит, то барикада впаде.",
+    "value": "Я повернувся і в одному целому!",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Мені подобається твоя завзятість і сміливість у гонитві за великими досягненнями.",
+    "value": "Я знову живий! Це добре.",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Дивні життєві показники виходять із глибин цієї лабораторії.",
+    "value": "Не думаю, що я правильно воззродився...",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/5",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Головний біль.",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/6",
     "op": "replace"
   },
   {
-    "value": "Це добре укріплена цитадель Міннаука... Я знаю, що зазвичай ти обережний, золотце, але цього разу будь ще обережнішим...",
+    "value": "Що я робив перед смертю?",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/7",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Флоран сссчуватись дивно.",
     "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Великий Мавп - дуже небезпечний противник.",
+    "value": "Флоран не любить смертi.",
     "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Ресспаунінг щипає.",
     "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Найкраще озирнутися навколо, поки він спить, золотце. Краще нам його не турбувати.",
+    "value": "Флоран буде боротися краще наступного разу.",
     "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/3",
     "op": "replace"
   },
   {
-    "value": "Попередня інформація свідчить про те, що такий стародавній храм не може містити в собі настільки смертельну систему захисту... Переналаштовую зазначені параметри.",
+    "value": "Затуманений. Я був мертвим?",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Шлях розділяється. Я б порадив не ходити ні вліво, ні вправо. На жаль, нам це не підходить.",
+    "value": "Відчуваю полегшення. Я повернувся!",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Нуру",
+    "value": "Турбуючись. Сподіваюся, я правильно воззродився. Чи виглядаю добре?",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Я. Ненавиджу. Вогонь.",
+    "value": "Збентежений. Чи був я мертвим протягом короткого часу?",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Нуру",
+    "value": "Втомлений. Перезавантаження вичерпуливе.",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/4",
     "op": "replace"
   },
   {
-    "value": "Ти повинен ОБІЙТИ його! Не бий і не ссстріляй! Тобі треба непомітно прокрассстися, і сссподіватися, що він тебе не помітить.",
+    "value": "Не можу повірити, що помер, коли був прямо посеред чогось.",
     "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/0",
     "op": "replace"
   },
   {
-    "value": "Коїчі",
+    "value": "Ніхто самоповажний пінгвін не залишив би себе мертвим надовго.",
     "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/1",
     "op": "replace"
   },
   {
-    "value": "Це місце - немов рідний дім... Звичайно, не включаючи огидні шипи. Очевидно...",
+    "value": "Хех... Смертельна сміхота.",
     "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/2",
     "op": "replace"
   },
   {
-    "value": "Цей острів - вхід до \"великої бібліотеки\".",
+    "value": "Перезавантаження змушує мою голову відчуватися розмита. Мені це подобається.",
     "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/3",
     "op": "replace"
   },
   {
-    "value": "Поточний зовнішній тиск близько 15 атмосфер. Сканування показує, що ця структура може витримувати до 80 атмосфер. Шанси на виживання - дивовижно високі.",
+    "value": "Я побачив яскраве світло... Ні, зачекай, це був лише я.",
     "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти наблизився до рівня підвалу. Мої показання спотворені, але я можу спробувати оцінити рівень загрози, якщо хочеш...",
+    "value": "Чи я був мертвий? Ну, здається, ні!",
     "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Перезавантаження безумовно знімає поспіх зі мого спину.",
     "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/2",
     "op": "replace"
   },
   {
-    "value": "Я чула про цих культистів, але я знаю про них зовсім небагато... Цікаво, якщо...? Хто ж може знати...",
+    "value": "Повернення до існування викликає у мене тремтіння...",
     "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/3",
     "op": "replace"
   },
   {
-    "value": "Нуру",
+    "value": "Я просто тут чекатиму.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Не хвилюйссся про це! Сссмертоносні незззнайомці - це саме по твоїй чассстині.",
+    "value": "Я залишуся тут. Повернись, коли потрібен, капітан!",
     "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Я залишуся тут на цей час, капітан.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Ця жінка... Її голос... Чи може це бути, після стількох років?",
+    "value": "Чи потрібно тобі, щоб я залишився тут?",
     "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Проаналізувавши дані, я роблю висновок, що не можна дійти до цієї кімнати живим. Вітаю з перемогою завзятості над розумом!",
+    "value": "Я залишуся тут на цей час, а потім.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Я залишуся тут.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/5",
     "op": "replace"
   },
   {
-    "value": "Це належить глітчу, відомому як Барон. Він відставний герой, і судячи з усього, злегка... ексцентричний...",
+    "value": "Чи повинен Флоран залишитися тут?",
     "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Флоссн залишиться.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "У нього може не вистачати гвинтиків, але він не небезпечний, золотце.",
+    "value": "Флоссн залишиться, потім...",
     "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Показання кажуть, що цей об'єкт, здавалося б, планета, але ні. Фактично, це один великий живий організм.",
+    "value": "Готовий. Я залишуся тут поки що, а потім.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Терпеливий. Можу чекати тут, капітан.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Ти стоїш на Руїні, золотце. Ти не зможеш завдати їй багато пошкоджень із зовнішнього боку - тобі доведеться пробити свій шлях вниз.",
+    "value": "Дружелюбний. Я залишуся тут, якщо хочете, капітан.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Лана Блейк",
+    "value": "Згоден. Можу залишитися тут, якщо бажаєте, капітан.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Акуратніше тут внизу. Кожна істота і речовина, з якою ти тут зіткнешся - небезпечна...",
+    "value": "Я просто буду тут... Чекаю...",
     "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/0",
     "op": "replace"
   },
   {
-    "value": "Згідно з показаннями, під тобою величезна прірва, яка простягається глибоко-глибоко. Раджу не вмирати від падіння.",
+    "value": "Гаразд, босе, я чекатиму тут.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/1",
     "op": "replace"
   },
   {
-    "value": "Коїчі",
+    "value": "Можу чекати тут.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/2",
     "op": "replace"
   },
   {
-    "value": "Б.Ш.І. має рацію, прямо під твоїми ногами порожнеча. Величезна прірва між тобою і центральною частиною Руїни. Тобі потрібно знайти спосіб безпечно спуститися вниз.",
+    "value": "Я просто зачекаю тут, відпочиньте мої плавки.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/3",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Гаразд, партнере, я залишуся тут.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Ти досяг серця Руїни. Ти повинен знищити її.",
+    "value": "Можу триматися тут, якщо хочете.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Тонауак",
+    "value": "Я залишусь тут на мить.",
     "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/2",
     "op": "replace"
   },
   {
-    "value": "Нехай Клуекс направить тебе.",
+    "value": "Так, капітан!",
     "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Капітан!",
     "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Ти зробив це!.. Але щось не так. Руїна... Її структура нестабільна!",
+    "value": "Давай рушаємо!",
     "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Коїчі",
+    "value": "Підемо, капітан!",
     "path": "/scriptConfig/dialog/crewmember/follow/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Вона ось-ось вибухне! Тікай!",
+    "value": "Чи йдемо кудись?",
     "path": "/scriptConfig/dialog/crewmember/follow/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Нуру",
+    "value": "Так, капітан!",
     "path": "/scriptConfig/dialog/crewmember/follow/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Не кажи їм, що робити, риб'яча мордо! Вони ссстикалися з ссситуаціями набагато гіршими, ніж ця!",
+    "value": "Давай йти!",
     "path": "/scriptConfig/dialog/crewmember/follow/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Капітан хоче, щоб флорани йшли за ним.",
     "path": "/scriptConfig/dialog/crewmember/follow/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Отже, ти знайшов її... Ти знайшов Азру.",
+    "value": "Флорани готові йти знову!",
     "path": "/scriptConfig/dialog/crewmember/follow/floran/default/3",
     "op": "replace"
   },
   {
-    "value": "Капітан Нобл",
+    "value": "Чи йдемо кудись?",
     "path": "/scriptConfig/dialog/crewmember/follow/floran/default/4",
     "op": "replace"
   },
   {
-    "value": "Ти гомоніш з легендарною Естер Брайт, легіню? За честь маю познайомитися з тобою!",
+    "value": "Скромно. Я слідую за тобою, капітан.",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Увага. Чи рушаємо, капітан?",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Насолоджуйся цим, золотце!",
+    "value": "Серйозно. Чи настав час рухатися, капітан?",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Коїчі",
+    "value": "Дослідницький. Чи йдемо кудись?",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
     "op": "replace"
   },
   {
-    "value": "Схоже, ти можеш викликати хутро з цієї платформи. Це повинно стати тобі в пригоді.",
+    "value": "Гаразд, я готовий, рушаймо.",
     "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/0",
     "op": "replace"
   },
   {
-    "value": "Лана Блейк",
+    "value": "Тоді давай йти.",
     "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/1",
     "op": "replace"
   },
   {
-    "value": "На щастя, літаюча фортеця нашого ворога має такі слабкі протоколи безпеки...",
+    "value": "Ти керівник!",
     "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/2",
     "op": "replace"
   },
   {
-    "value": "Капітан Нобл",
+    "value": "Я йду!",
     "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/3",
     "op": "replace"
   },
   {
-    "value": "Ану поглянемо на твої файні навички злому, легіню!",
+    "value": "Немає часу на затримки – вперед, легіню!",
     "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Барон",
+    "value": "Час підняти ставки і йти!",
     "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Вражено. Незважаючи на свої вчинки, ці огидні культисти, принаймні, знають, як зберегти таємну кімнату в чистоті! Ха-ха!",
+    "value": "Час поїхати, партнере?",
     "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/2",
     "op": "replace"
   },
   {
-    "value": "Нуру",
+    "value": "Йей-хау, вперед!",
     "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/3",
     "op": "replace"
   },
   {
-    "value": "Холодильник! Цікаво, що погані хлопці їдять на сссніданок?",
+    "value": "Не можу дістатися до тебе!",
     "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Барон",
+    "value": "Ти занадто далеко!",
     "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Здивовано. Можливо, вони їдять... погані яблука? Хо-хо! Мій розум бездоганний!",
+    "value": "Гей, зачекай!",
     "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Капітан Нобл",
+    "value": "Не йди занадто далеко!",
     "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Ти досяг файного результату, легіню. Цей корабель таки здоровенний, чи не так?",
+    "value": "Дозволь мені догнати!",
     "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
     "op": "replace"
   },
   {
-    "value": "Тонауак",
+    "value": "Флорани занадто далеко!",
     "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Схоже, він і справді достатньо великий, щоб конкурувати з найбільшим з божественних храмів Клуекса!",
+    "value": "Флорани залишилися позаду!",
     "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "???",
+    "value": "Флорани не достатньо близько до тебе!",
     "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Чий це канал зв'язку?! Чому ти на борту Данталіона?!",
+    "value": "Зневірений. Я не можу дістатися до тебе!",
     "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Азра Нокс",
+    "value": "Тривожений. Зачекай за мною!",
     "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Ох. Це ^orange;ти^white;.",
+    "value": "Привіт, великий! Дай мені догнати!",
     "path": "/scriptConfig/dialog/crewmember/penguin/default/0",
     "op": "replace"
   },
   {
-    "value": "Естер Брайт",
+    "value": "Не відходь занадто далеко!",
     "path": "/scriptConfig/dialog/crewmember/penguin/default/1",
     "op": "replace"
   },
   {
-    "value": "Ох, Азро, коли ж закінчиться твоя одержимість Руїною?",
+    "value": "Зачекай, великий хлопець!",
     "path": "/scriptConfig/dialog/crewmember/penguin/default/2",
     "op": "replace"
   }

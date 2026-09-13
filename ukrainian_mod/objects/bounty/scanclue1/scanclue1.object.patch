@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Підказка сканування 1"
+    "value": "Сканувати підказку 1"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран бачить руку!"
+    "value": "Флоран може сссвітати руку!"
   },
   {
     "op": "replace",

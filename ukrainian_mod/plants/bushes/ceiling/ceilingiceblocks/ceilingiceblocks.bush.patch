@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Крижані блоки."
+    "value": "Крижаний блок."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Заява. Висячі крижані брили."
+    "value": "Заява. Висячі крижані блоки."
   }
 ]

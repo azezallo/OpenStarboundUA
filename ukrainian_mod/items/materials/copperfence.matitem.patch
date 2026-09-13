@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Міцна огорожа з міді."
+    "value": "Міцна мідна огорожа"
   },
   {
     "op": "replace",
@@ -12,12 +12,12 @@
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Впевнений. Цей мідний паркан набагато міцніше дерев’яного."
+    "value": "Впевнений. Ця мідна огорожа набагато міцніша за дерев'яну."
   },
   {
     "op": "replace",
     "path": "/florandescription",
-    "value": "Мідна міцна огорожа."
+    "value": "Мідна міцна огорожа"
   },
   {
     "op": "replace",

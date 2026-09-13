@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Скам'яніле пташине тулуб."
+    "value": "Скам'янілений пташиний тулуб."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Пташиний торс"
+    "value": "Торс Авіани"
   }
 ]

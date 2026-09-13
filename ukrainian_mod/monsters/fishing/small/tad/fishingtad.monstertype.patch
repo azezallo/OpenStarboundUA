@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Sulphish"
+    "value": "Сульфіс"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "Its body creates a constant chemical reaction that propels it forward."
+    "value": "Його тіло створює постійну хімічну реакцію, що просуває його вперед."
   }
 ]

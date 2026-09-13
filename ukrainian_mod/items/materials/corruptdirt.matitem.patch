@@ -2,17 +2,17 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Огидна брила зіпсованого бруду."
+    "value": "Огидний блок зіпсованого бруду."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Корупційний бруд"
+    "value": "Зіпсований бруд"
   },
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Огидно. Цей бруд був зіпсований."
+    "value": "Огідно. Цей бруд зіпсований."
   },
   {
     "op": "replace",

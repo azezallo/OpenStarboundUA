@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Прості драпіровки на ноги ченця."
+    "value": "Прості драпірування на ноги монахів"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Спідниця монах"
+    "value": "Спідниця монаха"
   }
 ]

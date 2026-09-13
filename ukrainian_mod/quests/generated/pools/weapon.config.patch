@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Ракетниця",
+    "value": "Ракетна гарматка",
     "path": "/0/1/4/name",
     "op": "replace"
   },
@@ -35,7 +35,7 @@
     "op": "replace"
   },
   {
-    "value": "Широкий меч",
+    "value": "Палаш",
     "path": "/0/1/7/name",
     "op": "replace"
   },
@@ -55,7 +55,7 @@
     "op": "replace"
   },
   {
-    "value": "Спис",
+    "value": "Коп'як",
     "path": "/0/1/11/name",
     "op": "replace"
   },

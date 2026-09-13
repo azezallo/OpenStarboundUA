@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Це птах... чи курка?"
+    "value": "Чи це Авіан... чи курка?"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "Птахи завжди звертали пильну увагу на вітер."
+    "value": "Авіани завжди звертали пильну увагу на вітер."
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Hylotl аналогічно вимірює водні потоки."
+    "value": "Хайлотлі аналогічно вимірюють водні потоки."
   },
   {
     "op": "replace",

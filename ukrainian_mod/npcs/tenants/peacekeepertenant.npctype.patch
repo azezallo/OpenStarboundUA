@@ -1,111 +1,111 @@
 [
   {
-    "value": "Милий грибссс.",
+    "value": "Привіт, бос!",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "op": "replace"
   },
   {
-    "value": "Утвердно. Світний гриб.",
+    "value": "Я зберігатиму мир тут, не хвилюйся!",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "op": "replace"
   },
   {
-    "value": "Покрівельна черепиця, вирізана з міді.",
+    "value": "Я на патрулі! Ну, майже так. Але я слідкую за злими людьми, принаймні.",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "op": "replace"
   },
   {
-    "value": "Мідна покрівля",
+    "value": "Увесь цей сектор під моєю охороною! Не хвилюйся, бос!",
     "path": "/scriptConfig/dialog/converse/default/default/3",
     "op": "replace"
   },
   {
-    "value": "Здивування. Ця покрівельна черепиця цілком зроблена з міді.",
+    "value": "Офіцер <selfname> на зв'язку! Я тут, щоб захищати і служити.",
     "path": "/scriptConfig/dialog/converse/avian/default/0",
     "op": "replace"
   },
   {
-    "value": "Флорану подобаєтьссся сссвітна мідна покрівля.",
+    "value": "Немає нічого кращого, ніж допомагати місцевій спільноті, правда, бос?",
     "path": "/scriptConfig/dialog/converse/avian/default/1",
     "op": "replace"
   },
   {
-    "value": "Файний стос мідної черепиці.",
+    "value": "Я слідкую за небезпекою. Я зберу тебе в безпеці, бос!",
     "path": "/scriptConfig/dialog/converse/avian/default/2",
     "op": "replace"
   },
   {
-    "value": "Твердий природний пісковик.",
+    "value": "Якщо тут немає проблем, мені не доведеться користуватися зброєю.",
     "path": "/scriptConfig/dialog/converse/apex/default/0",
     "op": "replace"
   },
   {
-    "value": "Пісковик",
+    "value": "Життя Миротворця... Тихше, ніж життя, в якому я виріс.",
     "path": "/scriptConfig/dialog/converse/apex/default/1",
     "op": "replace"
   },
   {
-    "value": "Уважність. Цей пісковик зроблений з дрібних порід.",
+    "value": "Сподіваюся, що життя Миротворця допоможе мені принести добро у всесвіт.",
     "path": "/scriptConfig/dialog/converse/apex/default/2",
     "op": "replace"
   },
   {
-    "value": "Піссщана порода.",
+    "value": "Мої обов'язки як Миротворця мають пріоритет над усім іншим. Я впевнений, що розумієте.",
     "path": "/scriptConfig/dialog/converse/hylotl/default/0",
     "op": "replace"
   },
   {
-    "value": "Трохи файнішої піщаної породи.",
+    "value": "Незважаючи на те, що я ціную пацифізм, деякі ситуації не можна вирішити лише словами.",
     "path": "/scriptConfig/dialog/converse/hylotl/default/1",
     "op": "replace"
   },
   {
-    "value": "Металева стіна з заклепками.",
+    "value": "У цьому всесвіті багато несправедливостей, які треба виправити. У мене багато роботи.",
     "path": "/scriptConfig/dialog/converse/hylotl/default/2",
     "op": "replace"
   },
   {
-    "value": "Металев. поручні",
+    "value": "Флоран тут, щоб допомогти!",
     "path": "/scriptConfig/dialog/converse/floran/default/0",
     "op": "replace"
   },
   {
-    "value": "Безпека. Ця металева стіна укріплена болтами.",
+    "value": "Флоран тут, щоб вбити злих людей!",
     "path": "/scriptConfig/dialog/converse/floran/default/1",
     "op": "replace"
   },
   {
-    "value": "Укріплена болтами ссстіна.",
+    "value": "Флоран тут, щоб бути сссмачним і допомагати.",
     "path": "/scriptConfig/dialog/converse/floran/default/2",
     "op": "replace"
   },
   {
-    "value": "Файний мур з металу.",
+    "value": "Надзвичайно зацікавлений. Ні тварини, ні злодії не принесуть шкоди цьому місцю!",
     "path": "/scriptConfig/dialog/converse/glitch/default/0",
     "op": "replace"
   },
   {
-    "value": "Могильна цегла",
+    "value": "Галантний. Моя мета точна – будь-хто, хто ступить тут, швидко пожалкує!",
     "path": "/scriptConfig/dialog/converse/glitch/default/1",
     "op": "replace"
   },
   {
-    "value": "Стара цегла, відполірована до ідеалу.",
+    "value": "Нервовий. Я ще не працював у польових умовах – а що, якщо я не вдаюся?",
     "path": "/scriptConfig/dialog/converse/glitch/default/2",
     "op": "replace"
   },
   {
-    "value": "Враження. У цієї цегли були ретельно згладжені краї.",
+    "value": "Привіт, босе! Я тримаю пальці на пістолеті, на випадок проблем.",
     "path": "/scriptConfig/dialog/converse/novakid/default/0",
     "op": "replace"
   },
   {
-    "value": "Гладка і м'яка цеглассс.",
+    "value": "Я підтримую мир тут. У вас немає чого турбуватися!",
     "path": "/scriptConfig/dialog/converse/novakid/default/1",
     "op": "replace"
   },
   {
-    "value": "Ця стара цегла досить файна та гладенька.",
+    "value": "Привіт, босе! Сподіваюся, ти не потрапляєш у проблеми! Просто жартую, знаю що ні.",
     "path": "/scriptConfig/dialog/converse/novakid/default/2",
     "op": "replace"
   }

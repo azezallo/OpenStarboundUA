@@ -17,11 +17,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Floran grow sstrong bamboo for platformsss."
+    "value": "Флоран вирощує міцний бамбук для платформ."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Bamboo hung up like a platform."
+    "value": "Бамбук висів як платформа."
   }
 ]

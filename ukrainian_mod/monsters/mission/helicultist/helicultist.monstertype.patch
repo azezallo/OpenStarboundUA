@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Helicultist"
+    "value": "Гелікультист"
   },
   {
     "op": "replace",
     "path": "/description",
-    "value": "The mechanism behind their flying contraption is a great mystery."
+    "value": "Механізм їхнього літального пристрою — велика таємниця."
   }
 ]

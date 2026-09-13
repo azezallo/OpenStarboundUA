@@ -2,16 +2,16 @@
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
-    "value": "I once served the Stargazers, until I came to realize that I no longer agreed with their views."
+    "value": "Колись я служив Зірковим Оглядачам, поки не зрозумів, що більше не погоджуюсь з їх поглядами."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/avian/default/0",
-    "value": "I once served the Stargazers, until I came to realize that I no longer agreed with their views."
+    "value": "Колись я служив Зірковим Оглядачам, поки не зрозумів, що більше не погоджуюсь з їх поглядами."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/avian/avian/0",
-    "value": "You need not fear the rancor of the Stargazers in this place, my friend."
+    "value": "Тобі не треба боятися гніву Зіркових Оглядачів у цьому місці, друже."
   }
 ]

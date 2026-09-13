@@ -10,7 +10,7 @@
     "op": "replace"
   },
   {
-    "value": "Твій ^orange;Маніпулятор Матерії^white; отримав слід одного з посіпак <bounty.name>! Наразі вони на <next.coordinate.name>!",
+    "value": "Твій ^orange;Маніпулятор матерії^white; засік одного з посіпак <bounty.name>! Наразі той перебуває на <next.coordinate.name>!",
     "path": "/scanclue1/planetClue/message",
     "op": "replace"
   },
@@ -20,7 +20,7 @@
     "op": "replace"
   },
   {
-    "value": "Твій ^orange;Маніпулятор Матерії^white; зафіксувався на <bounty.name>! Слід їхньої сигнатури веде на планету в <next.coordinate.systemName>. Вирушай до <next.coordinate.name>!",
+    "value": "Твій ^orange;Маніпулятор матерії^white; зафіксував ціль <bounty.name>! Її сигнатура веде на планету в системі <next.coordinate.systemName>. Вирушай на <next.coordinate.name>!",
     "path": "/scanclue1/planetBounty/message",
     "op": "replace"
   },
@@ -30,7 +30,7 @@
     "op": "replace"
   },
   {
-    "value": "Твій ^orange;Маніпулятор Матерії^white; отримав слід одного з поплічників <bounty.name>! Схоже, вони зараз на станції в <next.coordinate.systemName>!",
+    "value": "Твій ^orange;Маніпулятор матерії^white; відстежив одного з поплічників <bounty.name>! Схоже, зараз він перебуває на станції в системі <next.coordinate.systemName>!",
     "path": "/scanclue1/spaceClue/message",
     "op": "replace"
   },
@@ -40,7 +40,7 @@
     "op": "replace"
   },
   {
-    "value": "Твій ^orange;Маніпулятор Матерії^white; відстежив сигнатуру <bounty.name>! Здається, вона веде до віддаленої станції в <next.coordinate.systemName>!",
+    "value": "Твій ^orange;Маніпулятор матерії^white; відстежив сигнатуру <bounty.name>! Здається, вона веде до віддаленої станції в системі <next.coordinate.systemName>!",
     "path": "/scanclue1/spaceBounty/message",
     "op": "replace"
   },
@@ -55,7 +55,7 @@
     "op": "replace"
   },
   {
-    "value": "Твій ^orange;Маніпулятор Матерії^white; отримав слід одного з посіпак <bounty.name>! Наразі вони на <next.coordinate.name>!",
+    "value": "Твій ^orange;Маніпулятор матерії^white; засік одного з посіпак <bounty.name>! Наразі той перебуває на <next.coordinate.name>!",
     "path": "/scanclue2/planetClue/message",
     "op": "replace"
   },
@@ -65,7 +65,7 @@
     "op": "replace"
   },
   {
-    "value": "Твій ^orange;Маніпулятор Матерії^white; зафіксувався на <bounty.name>! Слід їхньої сигнатури веде на планету в <next.coordinate.systemName>. Вирушай до <next.coordinate.name>!",
+    "value": "Твій ^orange;Маніпулятор матерії^white; зафіксував ціль <bounty.name>! Її сигнатура веде на планету в системі <next.coordinate.systemName>. Вирушай на <next.coordinate.name>!",
     "path": "/scanclue2/planetBounty/message",
     "op": "replace"
   },
@@ -75,7 +75,7 @@
     "op": "replace"
   },
   {
-    "value": "Твій ^orange;Маніпулятор Матерії^white; отримав слід одного з поплічників <bounty.name>! Схоже, вони зараз на станції в <next.coordinate.systemName>!",
+    "value": "Твій ^orange;Маніпулятор матерії^white; відстежив одного з поплічників <bounty.name>! Схоже, зараз він перебуває на станції в системі <next.coordinate.systemName>!",
     "path": "/scanclue2/spaceClue/message",
     "op": "replace"
   },
@@ -85,7 +85,7 @@
     "op": "replace"
   },
   {
-    "value": "Твій ^orange;Маніпулятор Матерії^white; відстежив сигнатуру <bounty.name>! Здається, вона веде до віддаленої станції в <next.coordinate.systemName>!",
+    "value": "Твій ^orange;Маніпулятор матерії^white; відстежив сигнатуру <bounty.name>! Здається, вона веде до віддаленої станції в системі <next.coordinate.systemName>!",
     "path": "/scanclue2/spaceBounty/message",
     "op": "replace"
   }

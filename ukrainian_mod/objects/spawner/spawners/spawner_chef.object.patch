@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Шеф Спаунер"
+    "value": "Кухар-спаунер"
   },
   {
     "op": "replace",
@@ -22,7 +22,7 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Флоран найми людину для приготування м'яса!"
+    "value": "Флорани знайдіть людину, щоб готувати м'ясо!"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Це буде краще, ніж у McFlorans!"
+    "value": "Це буде краще, ніж у McFloran!"
   },
   {
     "op": "replace",

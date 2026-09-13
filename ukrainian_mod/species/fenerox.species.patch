@@ -15,42 +15,42 @@
     "op": "replace"
   },
   {
-    "value": "Колір хутра",
+    "value": "КОЛІР ШКІРИ",
     "path": "/charGenTextLabels/0",
     "op": "replace"
   },
   {
-    "value": "Волосся",
+    "value": "ЗАЧІСКА",
     "path": "/charGenTextLabels/1",
     "op": "replace"
   },
   {
-    "value": "Одяг",
+    "value": "СОРОЧКА",
     "path": "/charGenTextLabels/2",
     "op": "replace"
   },
   {
-    "value": "Штани",
+    "value": "ШТАНИ",
     "path": "/charGenTextLabels/3",
     "op": "replace"
   },
   {
-    "value": "Колір шкіри",
+    "value": "КОЛІР БІЛИЗНИ",
     "path": "/charGenTextLabels/4",
     "op": "replace"
   },
   {
-    "value": "Колір волосся",
+    "value": "КОЛІР ВОЛОССЯ",
     "path": "/charGenTextLabels/5",
     "op": "replace"
   },
   {
-    "value": "Колір одягу",
+    "value": "КОЛІР СОРОЧКИ",
     "path": "/charGenTextLabels/6",
     "op": "replace"
   },
   {
-    "value": "Колір штанів",
+    "value": "КОЛІР ШТАНІВ",
     "path": "/charGenTextLabels/7",
     "op": "replace"
   },
@@ -60,7 +60,7 @@
     "op": "replace"
   },
   {
-    "value": "Особистість",
+    "value": "ОСОБИСТІСТЬ",
     "path": "/charGenTextLabels/9",
     "op": "replace"
   }

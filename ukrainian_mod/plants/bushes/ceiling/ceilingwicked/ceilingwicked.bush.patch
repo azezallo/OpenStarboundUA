@@ -12,11 +12,11 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Rootsss!"
+    "value": "Корінь!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Statement. Hanging roots."
+    "value": "Заява. Висячі корені."
   }
 ]

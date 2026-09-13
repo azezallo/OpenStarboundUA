@@ -10,17 +10,17 @@
     "op": "replace"
   },
   {
-    "value": "Зачарування. Цей сніг знову випав.",
+    "value": "Зачарований. Цей сніг виглядає щойно випав.",
     "path": "/glitchDescription",
     "op": "replace"
   },
   {
-    "value": "Холодний сссніг.",
+    "value": "Холодний сніжок",
     "path": "/floranDescription",
     "op": "replace"
   },
   {
-    "value": "Купа свіжого снігу.",
+    "value": "Багато свіжого снігу",
     "path": "/novakidDescription",
     "op": "replace"
   }

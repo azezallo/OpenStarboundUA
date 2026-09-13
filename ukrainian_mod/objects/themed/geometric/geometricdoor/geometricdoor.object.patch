@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "Геометричні двері. Міцний!"
+    "value": "Геометричні двері. Міцні!"
   },
   {
     "op": "replace",
@@ -22,26 +22,26 @@
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "Двері!"
+    "value": "Дверіссс!"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "Спокійно. Дуже міцні двері."
+    "value": "Спокій. Дуже міцні двері."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Міцні, чудові двері."
+    "value": "Міцні, круті двері."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "Прості, але міцні двері."
+    "value": "Прості, проте міцні двері."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "Ці двері точно міцні."
+    "value": "Оці двері направду міцні, бігме."
   }
 ]
