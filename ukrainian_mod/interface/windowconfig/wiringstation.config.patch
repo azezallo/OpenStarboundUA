@@ -18,5 +18,25 @@
     "op": "replace",
     "path": "/paneLayout/btnStopCraft/caption",
     "value": "Зупинити"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblSchematics/value",
+    "value": "^#b9b5b2;КРЕСЛЕННЯ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProducttitle/value",
+    "value": "^#b9b5b2;ПРОДУКТ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProduct/value",
+    "value": "ДОСТУПНІ МАТЕРІАЛИ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/filter/hint",
+    "value": "Пошук"
   }
 ]

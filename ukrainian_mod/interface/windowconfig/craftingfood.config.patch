@@ -18,5 +18,10 @@
     "op": "replace",
     "path": "/paneLayout/btnStopCraft/caption",
     "value": "Зупинити"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/filter/hint",
+    "value": "Пошук"
   }
 ]

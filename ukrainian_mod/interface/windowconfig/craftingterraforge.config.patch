@@ -13,5 +13,10 @@
     "op": "replace",
     "path": "/paneLayout/btnCraft/caption",
     "value": "Кувати"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProducttitle/value",
+    "value": "^#b9b5b2;ПРОДУКТ"
   }
 ]
